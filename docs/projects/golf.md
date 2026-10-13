@@ -1,13 +1,13 @@
 ---
 title: "Project: Golf"
-updated: 2026-10-13T14:18:35-07:00
-count: 184
+updated: 2026-10-13T14:29:07-07:00
+count: 186
 tags: ["project", "golf"]
 ---
 
 # Project: Golf
 
-184 most recent items (14-day window). Atom feed: [golf.xml](../feeds/golf.xml)
+186 most recent items (14-day window). Atom feed: [golf.xml](../feeds/golf.xml)
 
 ## 2026-10-13
 
@@ -38,6 +38,7 @@ tags: ["project", "golf"]
 - [Yooper bucks some seriously long odds, earns PGA Tour card for 2027 - The Detroit News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlBueDhuTTRBQy1wVUczbEM3QjBqalNTZE9fVzdOSWZ6WU1qVWNEd2piZTVPNDNkbjJ0VThvRTdiWjZFMkYxYW1hdWRwUC1UdkxaMHNKWi1VRHNHakQ4M0NER2ctbUlWQ2JXclFBZkNjYVlqOHBqR1hMTDlxb3JUaDlSZzhRWlFvU1AxYkZTemxuVWZJeDYzTTYxMnJpWGtzR2Z4NzBvaG9CM0ZHZUJidFVlUTh3RUpWMm45SkFQSUp3MUR5TVhVcF9nSTF5LXZnSUQ0?oc=5) — Google News: PGA Tour OR LIV Golf · 11:24 PT · #sports #golf
 - [Rory McIlroy: LIV Golf 'wasted' capital; would welcome players back - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPREo1UUtoZ1N6aGd2N0Q0NGZ4OFQzX2x4eHlRZnJXaXAyRjdkazVuTF85YWRNR25PZjlROWhBeGhBdElLRndOUGFnNDNGUlZicmh3OXRtdDRNcWlWb2JHZ256MjMxWjB3SGxmRjRtNGp6NDVEa1BZY1RrU2p2QTZ4MlNwLVlISk9FMzNnNkYwZXlZV3ozemg0STBfVmcwdXZoamRnMTVuczJ3WVNDTlJlQU93LXJQQ1U?oc=5) — Google News: PGA Tour OR LIV Golf · 11:20 PT · #sports #golf
 - [Rory McIlroy in favor of allowing former LIV Golf players to return to the DP World Tour and PGA Tour - CBS Sports](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXhEYW9ySWlRUHc2YTM3elFRNXlGUXotZmxsc2NrSUxsSTFRTGVad1FmSVYtNFZ4NVRCaGc5enpsSmJhSmsyS0dYTXMwQWJXaHdWa3h2WXNEY3B6STY5blNJczZCMWcySGFObUNnMEV3U2J2My1WRC1sclJ1WjhpYXNtVmVfRk1yX3JDbXpsRXNsYXYzYVZ3Q1I2V2dkSlNxX0FleDRNNW04ak9Hd0xtNVJja2dtSFJOUW8zM0RsSQ?oc=5) — Google News: PGA Tour OR LIV Golf · 11:19 PT · #sports #golf
+- [Rory McIlroy in favor of allowing former LIV Golf players to return to the DP World Tour and PGA Tour - thepress.net](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQzgtVHczMC14VEQ2cUJ2d2pBOVhUak9WZkgyUHh2NkE0RjJnbTdtT3lQS04ycnZ1WnFfVDlaVnNzcjY3eC1KUHotYTdBOUI1UkdpVy1aanJLNEZ6Q25BSXhRUkFaNlZnc2lwWkpkUmstU2c4SDgzUEdaRU0tRFZyOEh3Smh5Y3JwOWFHVzlkX09PQjdabEZDNFJNREZTNUZpalFCNEpibTZOM3Z1REwtVmhYTkJieWRmdDBMaGdLTl9OeDVmTTVYejlxRGxDWTdIelZtODR4bEdvOEJXVy1IdjVEVnpURVh5YTh6SlQtbVoxQWNIOUpueUFhNkI?oc=5) — Google News: PGA Tour OR LIV Golf · 11:19 PT · #sports #golf
 - [Tiger Woods’ Latest Appearance Has Golf Fans Asking One BIG Question - Yahoo Sports](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2RCSFo2dTc2cS11SGhsZ2hKdmt1XzZRb3hRUk1yWnlla2lZdWlKMXRuY1lyT3M4QzFRVjNEZGFvaU9LalprZG1vZWlOVk1tQlVBSWU3NUNWUS1KVnc3OXdWTWcxb1Qyc28tTkVtMlRnRVRLdU93alNSZm5PRWctZXlISGhqdmR3YkRj?oc=5) — Google News: PGA Tour OR LIV Golf · 11:15 PT · #sports #golf
 - [Here are the 4 players who will compete in the 2026 Skins Game on Black Friday - Yahoo Sports](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDR4SDVIa3JFWHJtVW0zNWJTbzV6Sk1mWnY2ajNmZFJ2LU5kMUZSSnVabHg2TGRhNmJaQVh3THVBWmM3N3NFV3hGRlBsTHBVTlgxRm9FcUJDSVVEV3ZodGVOSjUxR1JaU09qc3RTNnZmRGlyaGtBTmZ6NkEtM1pCNGFOcw?oc=5) — Google News: PGA Tour OR LIV Golf · 11:15 PT · #sports #golf
 - [Here are the 4 players who will compete in the 2026 Skins Game on Black Friday - Golfweek](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOHZTc3ZFUmNROTh4ajhIWENHUEZWcDMwenVSMENCWjFhTTVKd1BTcEtfTlNuRGJMemF5MWdpbDBvWmxPNGtiaTFNa1dwdElwamNtaGVaanc0UDQ3aTQ5QkhNUk1DZUlodVN0bk1hV3BUMnhNdXBtaEVxNktQSUxiRjJzUmp6Qlh6UTliM01xY2JEYjhpMXVWeENPUW14X1dGRDdqZ2FKdzZMRVJ4bldMSGx3OGZoUm5aNV9hYUpwUQ?oc=5) — Google News: PGA Tour OR LIV Golf · 11:15 PT · #sports #golf
@@ -66,6 +67,7 @@ tags: ["project", "golf"]
 - [After Ryder Cup eligibility changes, Justin Rose sees 'different' team ahead](https://golf.com/news/justin-rose-ryder-cup-eligibility-tweaks/) — Golf.com · 09:32 PT · #sports #golf
 - [Jon Rahm set to make post-LIV return to pro golf - Yahoo Sports](https://news.google.com/rss/articles/CBMiekFVX3lxTE43YUlUbUxzUWFqNjNOYzRrTnI1UHpGb1d0T210WUdQamp3N1FtYVQwUFd0LW5rSHFQT0RETGItU1lBRjhTVWdYb2RUY0RzckswdnZ4b3lvMURiMUpESm9VdkJTeWxYQXBnakxKX2RkNm9KaTFaWlZkMVRB?oc=5) — Google News: PGA Tour OR LIV Golf · 09:28 PT · #sports #golf
 - [Rory McIlroy admits LIV Golf has cost him friendships with former teammates - AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE8tVG1UeFdYMFZUbkYxZmR0d2RfYWVFMFZLaUExbmdEdnI1MkVIc2x0MFN5Y1h0YlRBdXg3bjU4TXFRSG9saTA4ODJIcmE4YzNrQ2xQUjJyVGI1SXJzZ1c1bUxQckJZOHRJN0hVbE5oMV9FaUZRVV9CMDNPbDg?oc=5) — Google News: PGA Tour OR LIV Golf · 09:27 PT · #sports #golf
+- [Rory McIlroy Announces Career News After Recent ESPN Deal - Yahoo Sports](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjM5a0FpN0s5YlViZWpnWDN3aFBnRDZJT0VTcm9KdkFVU19qLWtoYjNiLVJtRUo5NEtYekFVcWl4bUItWWJTT3ZSQnJ0Z01WQzlBbGVsOHRGTU1nSFdFbzJZZ001TkNZQmpFNXBzc1NWdDNJSzI1ZVdoM2szS3JQMUxWSjZIcjJXU2RZ?oc=5) — Google News: PGA Tour OR LIV Golf · 09:24 PT · #sports #golf
 - ['Situation is very dynamic': LIV pro breaks silence on league's dire future](https://golf.com/news/liv-pro-breaks-silence-leagues-dire-future/) — Golf.com · 09:18 PT · #sports #golf
 - [Rory McIlroy and Tiger Woods had 'most to lose' from LIV Golf emergence - AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TQWZQTjRfLVVKaGZUemdtXzlZZVVzanViSmVrYUxCZi1vRmdtX01nSjUxRjQ1b2hnaXcyVU9rY2w2ajdBd2gyZ25xX3l6eW1KQmpQN2ZOdU1uMUtxd2lHYk8waXF4dFFLTnA3Vk5xcnViamVZeGE3WnlhdjE?oc=5) — Google News: PGA Tour OR LIV Golf · 09:16 PT · #sports #golf
 - [Jacob Bridgeman edges ahead of Rory McIlroy on PGA Tour season money leaders - Yahoo Sports](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXJLMGRLRXREWjlwMW5nNHNlQUVjeExGRTNVUEQzdGJWZnhzQUJfd1l5NVgxTXh4blFHX3VRYTVlaHZ4OHNBMms5TlFkblBlejU2OE1DRXhDMzluZ1RYYVRZSi1YN1FVbkNjUzJ5SVFfbjNsYjZIRkp4VHRfRUV0WER3WlV3Z0VU?oc=5) — Google News: PGA Tour OR LIV Golf · 09:01 PT · #sports #golf

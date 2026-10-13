@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T14:18:35-07:00
+updated: 2026-10-13T14:29:07-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,8 +11,10 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [HomePod Mini 2 Works as Default Speaker With Select Macs](https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/) — MacRumors · 14:19 PT · #tech #ai
 - [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/) — TechCrunch · 14:15 PT · #tech
 - [Elevation Lab Pulls AirTag Silencer After Stalking Concerns](https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/) — MacRumors · 14:14 PT · #tech #ai
+- [Latest GTA 6 Leak of Nude Character Is a Bad Crypto Scheme Fundraiser](https://www.cnet.com/tech/gaming/gta-6-cyberleek-leak-nudity-rockstar-crypto-scheme/) — CNET · 14:14 PT · #tech
 - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — Hacker News · 14:01 PT · #tech #ai
 - [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) — TechCrunch · 13:59 PT · #tech #ai
 - [Mark Zuckerberg Fumbled a Pint on Camera. How Guinness Won Millions in Free PR Without Lifting a Finger](https://www.inc.com/michael-tasner/mark-zuckerberg-guinness-viral-marketing/91419373) — Inc.com · 13:55 PT · #tech
@@ -21,12 +23,15 @@ tags: ["category", "tech"]
 - [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
 - [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) — TechCrunch · 13:36 PT · #tech #ai
 - [iOS 27.2 Beta 4 Removes New Health App](https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/) — MacRumors · 13:31 PT · #tech #ai
+- [Apple turns idle Macs into a shared GPU cloud with Minions - news.lavx.hu](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGVFQlVsLWo3dnUxTGRfdE51RzRGMU9zSnhibEZSb0RnTXlyUEZkQVRRZWJJSmdyNmVCaUZCRHhXd1NZbGhhWDdSQTdkVFBoT2Jqb2dOZ1duVGhXU2VuNmN5TmJTVVBUU0NaMUFTQzJzc01CenFNYVJGQzJqT0VYS1dOakdIb0RwbmQwQVF5dEw?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 13:31 PT · #tech #ai
+- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) — Hacker News · 13:23 PT · #tech #ai
 - [Why do you think people have such a hard time taking responsibility](https://www.youtube.com/shorts/g90_AFrW7Y8) — GaryVee · 13:15 PT · #tech #smallbiz
 - [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/) — TechCrunch · 13:13 PT · #tech #smallbiz
 - [iOS 27.2 beta 4: Apple Music goes black-and-white, Apple Health redesign pulled](https://appleinsider.com/articles/26/10/13/ios-272-beta-4-apple-music-goes-black-and-white-apple-health-redesign-pulled?utm_source=rss) — AppleInsider · 13:12 PT · #tech #ai
 - [It looks like Apple Music is getting a new icon](https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta) — The Verge · 13:05 PT · #tech
 - [iPhone Duo Will Have Day-One iOS 27.1 Update](https://www.macrumors.com/2026/10/13/iphone-duo-day-one-update/) — MacRumors · 13:01 PT · #tech #ai
 - [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/) — TechCrunch · 13:00 PT · #tech
+- [LangChain CSV Sanity-Check Agent - Towards Data Science](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pbTJoVXNTYUtON3pwZ3lCN2NXck9PUVZVZ2Z1OW9Zb2JfRlJORUhIMjdKeldhbGtFbUVYRTBJTW5SZk5YX292YkI5bTcxbVlpWFp5TGlKa2J3S1ltZ3FSZQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:57 PT · #tech #ai
 - [HR Giant SHRM Hit With a $400,000 Verdict After Rescinding a Job Offer Over a Service Dog](https://www.inc.com/kaylawebster/hr-giant-shrm-hit-with-a-400000-verdict-after-rescinding-a-job-offer-over-a-service-dog/91419318) — Inc.com · 12:56 PT · #tech
 - [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132) — Hacker News · 12:55 PT · #tech #ai
 - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) — Hacker News · 12:50 PT · #tech #ai
@@ -406,8 +411,3 @@ tags: ["category", "tech"]
 - [The First AI Copilot for Unreal Engine 5 Returns With V2: Ultimate Engine CoPilot Turns Unreal Into an AI Game Studio With 1,655 Native Tools - The Franklin News](https://news.google.com/rss/articles/CBMipgJBVV95cUxNMDVUcm9qY0NBbjc0WVVZemlkNzBHMF83VG8wNy16UUdJUlRaajJsbVptc0dwOFAzNUl4eF8tR0w0N1ZYQnljTlZBUjRFamRfV01HVXgtWDNvdDhOemJ1UUd5RTl2T0oxWDEtemUtaUY1bGl1NlhpYUpnWnhEamxycmI2WnRnZUkzVEpUZ0d1R0JQMjN1TVUwRkE0Q2JCNkFzZXBIanBtelA2SVg1Y3hNbG1sbE9KU0p0UUlqOXl6Zkc1VTRoUk1XZEc5SzVxTkpUSzhEd043X2o0RzNpV19FbEVEd3oyOGtpMk5FR1M4V3loa1E0NXRUYW9oa0U3US1pNFF3RjM2MmZDOTViVmRkblJGV0w3dUxrQ25TWWRXQ3R6UTlDamc?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:15 PT · #tech #ai
 - [Intel optimizes IPv6 networking into nothingness, say users](https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622) — www.theregister.com - Articles · 01:15 PT · #tech
 - [How do you manage read-only accounts that have access to sensitive data?](https://www.reddit.com/r/cybersecurity/comments/1x4qrcp/how_do_you_manage_readonly_accounts_that_have/) — cybersecurity · 01:01 PT · #tech
-- [3 CEOs Talking About Hiring and Firing People Over Dinner](https://www.inc.com/joe-procopio/3-ceos-talking-about-hiring-and-firing-people-over-dinner/91418680) — Inc.com · 01:00 PT · #tech
-- [Home Office asylum AI flunks one in five accuracy checks](https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649) — www.theregister.com - Articles · 00:31 PT · #tech #ai
-- [Do you guys read write-ups? Where?](https://www.reddit.com/r/cybersecurity/comments/1x4qa6x/do_you_guys_read_writeups_where/) — cybersecurity · 00:29 PT · #tech
-- [Character.ai has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/) — Hacker News · 00:28 PT · #tech #ai
-- [A poisoned AI model can pass every unit test, security scan, and validation check. That's why standard AppSec misses data poisoning.](https://www.reddit.com/r/cybersecurity/comments/1x4q810/a_poisoned_ai_model_can_pass_every_unit_test/) — cybersecurity · 00:25 PT · #tech #ai

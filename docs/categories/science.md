@@ -1,16 +1,18 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T14:18:35-07:00
-count: 389
+updated: 2026-10-13T14:29:07-07:00
+count: 391
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-389 most recent items (14-day window).
+391 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Liquid metal dealloying creates nanoporous silicon carbide at just 800°C](https://phys.org/news/2026-10-liquid-metal-dealloying-nanoporous-silicon.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- [Faster molecular simulations identify promising diamond defects for quantum computers and sensors](https://phys.org/news/2026-10-faster-molecular-simulations-diamond-defects.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
 - [New topological microscope tip reveals evidence of 2D altermagnetism](https://phys.org/news/2026-10-topological-microscope-reveals-evidence-2d.html) — Phys.org - latest science and technology news stories · 14:10 PT · #science
 - [The ‘Holy Grail’ of baseball cards is up for auction](https://www.popsci.com/science/honus-wagner-baseball-card-auction/) — Popular Science · 14:02 PT · #science
 - [DNA 'flight recorder' traces embryonic development cell by cell](https://phys.org/news/2026-10-dna-flight-embryonic-cell.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science

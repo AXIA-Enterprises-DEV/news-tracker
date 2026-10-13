@@ -1,16 +1,17 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-13T14:18:35-07:00
-count: 119
+updated: 2026-10-13T14:29:07-07:00
+count: 120
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-119 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+120 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-13
 
+- [DFAN14A - Erez REIT Opportunities LP (0002014584) (Filed by)](https://www.sec.gov/Archives/edgar/data/2014584/000090266426004146/0000902664-26-004146-index.htm) — SEC EDGAR All Filings · 14:26 PT · #filings #markets #realestate
 - [D/A - TOWNSEND BALANCED REAL ESTATE FUND L P (0001351287) (Filer)](https://www.sec.gov/Archives/edgar/data/1351287/000135128726000004/0001351287-26-000004-index.htm) — SEC EDGAR All Filings · 14:03 PT · #filings #markets #realestate
 - [SEC STAFF ACTION - BSR Real Estate Investment Trust (0001777917) (Filer)](https://www.sec.gov/Archives/edgar/data/1777917/999999999726001619/9999999997-26-001619-index.htm) — SEC EDGAR All Filings · 14:00 PT · #filings #markets #realestate
 - [D - Forman Capital REIT Feeder Fund 2, LP (0002146560) (Filer)](https://www.sec.gov/Archives/edgar/data/2146560/000181455426000219/0001814554-26-000219-index.htm) — SEC EDGAR All Filings · 13:39 PT · #filings #markets #realestate

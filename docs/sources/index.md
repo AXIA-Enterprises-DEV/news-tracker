@@ -1,6 +1,6 @@
 ---
 title: "Sources"
-updated: 2026-10-13T14:18:35-07:00
+updated: 2026-10-13T14:29:07-07:00
 count: 195
 tags: ["sources"]
 ---
@@ -18,7 +18,7 @@ tags: ["sources"]
 | All News | business | 28 | ok | Oct 13 14:04 PT |
 | AppleInsider | tech | 53 | ok | Oct 13 13:12 PT |
 | Ars Technica | tech | 20 | ok | Oct 13 10:33 PT |
-| BBC Business | business | 31 | ok | Oct 13 08:59 PT |
+| BBC Business | business | 32 | ok | Oct 13 14:19 PT |
 | BBC Technology | tech | 10 | ok | Oct 10 08:56 PT |
 | BBC World | world | 33 | ok | Oct 13 12:23 PT |
 | BLS Latest Numbers | markets | 1 | ok | Oct 09 07:00 PT |
@@ -34,7 +34,7 @@ tags: ["sources"]
 | CFTC Press Releases | markets | 5 | ok | Oct 09 13:00 PT |
 | CNBC Finance | markets | 29 | ok | Oct 12 19:58 PT |
 | CNBC Top News | markets | 42 | ok | Oct 13 14:06 PT |
-| CNET | tech | 37 | ok | Oct 13 13:49 PT |
+| CNET | tech | 38 | ok | Oct 13 14:14 PT |
 | Clockwise | tech | 2 | ok | Oct 07 11:37 PT |
 | Cointelegraph.com News | markets | 32 | ok | Oct 13 12:48 PT |
 | Columbia Journalism Review | tech | 10 | ok | Oct 13 03:00 PT |
@@ -77,30 +77,30 @@ tags: ["sources"]
 | Gizmodo |  | 20 | down | Oct 13 10:20 PT |
 | Golf.com | sports | 12 | ok | Oct 13 13:37 PT |
 | Google News: "State Department" Rubio OR sanctions | world | 47 | ok | Oct 13 12:45 PT |
-| Google News: "Supreme Court" ruling | politics | 165 | ok | Oct 13 14:17 PT |
+| Google News: "Supreme Court" ruling | politics | 172 | ok | Oct 13 14:25 PT |
 | Google News: BRICS | world | 104 | ok | Oct 13 12:04 PT |
 | Google News: FOMC OR "Federal Reserve" rates | markets | 52 | ok | Oct 13 14:00 PT |
 | Google News: House vote OR Senate vote bill passes | politics | 26 | ok | Oct 13 12:21 PT |
 | Google News: Las Vegas cannabis OR dispensary Nevada | business | 5 | ok | Oct 13 08:52 PT |
 | Google News: Las Vegas real estate | business | 64 | ok | Oct 13 12:34 PT |
-| Google News: Mac Studio OR "M5" Apple silicon AI | tech | 22 | ok | Oct 13 12:16 PT |
+| Google News: Mac Studio OR "M5" Apple silicon AI | tech | 23 | ok | Oct 13 13:31 PT |
 | Google News: Nevada Supreme Court OR "Nevada law" | politics | 33 | ok | Oct 13 12:18 PT |
 | Google News: Nevada ballot question | politics | 22 | ok | Oct 13 14:00 PT |
 | Google News: Nevada legislature | politics | 19 | ok | Oct 13 12:18 PT |
 | Google News: OPEC crude oil | markets | 116 | ok | Oct 13 13:02 PT |
-| Google News: PGA Tour OR LIV Golf | sports | 155 | ok | Oct 13 14:13 PT |
+| Google News: PGA Tour OR LIV Golf | sports | 157 | ok | Oct 13 14:13 PT |
 | Google News: Strait of Hormuz OR tanker OR "oil pipeline" route | markets | 75 | ok | Oct 13 12:34 PT |
 | Google News: federal workforce OR federal employees OPM | politics | 13 | ok | Oct 13 11:55 PT |
-| Google News: government transparency FOIA | politics | 16 | ok | Oct 13 11:54 PT |
-| Google News: local LLM OR llama.cpp OR Ollama OR MLX | tech | 52 | ok | Oct 13 12:39 PT |
-| Google News: political violence | politics | 61 | ok | Oct 13 13:00 PT |
+| Google News: government transparency FOIA | politics | 17 | ok | Oct 13 11:54 PT |
+| Google News: local LLM OR llama.cpp OR Ollama OR MLX | tech | 53 | ok | Oct 13 12:57 PT |
+| Google News: political violence | politics | 62 | ok | Oct 13 14:17 PT |
 | Google News: propaganda OR disinformation media | world | 59 | ok | Oct 13 13:59 PT |
-| Google News: small business owners | business | 147 | ok | Oct 13 13:56 PT |
+| Google News: small business owners | business | 148 | ok | Oct 13 14:03 PT |
 | Google News: unusual options activity | markets | 39 | ok | Oct 13 14:00 PT |
 | Government Executive | politics | 22 | ok | Oct 13 04:00 PT |
 | Guardian Business | business | 17 | ok | Oct 13 13:49 PT |
 | Guardian World | world | 56 | ok | Oct 13 13:19 PT |
-| Hacker News | tech | 31 | ok | Oct 13 14:01 PT |
+| Hacker News | tech | 34 | ok | Oct 13 14:01 PT |
 | Hacker News 200+ | tech | 12 | ok | Oct 13 09:03 PT |
 | Hidden Brain | science | 2 | ok | Oct 12 10:35 PT |
 | HousingWire | business | 18 | ok | Oct 13 13:26 PT |
@@ -118,7 +118,7 @@ tags: ["sources"]
 | Latest news | tech | 25 | ok | Oct 13 10:30 PT |
 | Linus Tech Tips | tech | 8 | ok | Oct 12 10:25 PT |
 | MJBizDaily | business | 27 | ok | Oct 13 13:48 PT |
-| MacRumors | tech | 28 | ok | Oct 13 14:14 PT |
+| MacRumors | tech | 29 | ok | Oct 13 14:19 PT |
 | Making Sense Of Cents | markets | 2 | ok | Oct 12 04:15 PT |
 | Marie Forleo | tech | 4 | ok | Oct 13 12:01 PT |
 | Marijuana Moment | business | 10 | ok | Oct 13 10:33 PT |
@@ -153,9 +153,9 @@ tags: ["sources"]
 | PR Newswire Contracts | business | 20 | ok | Oct 13 11:39 PT |
 | PR Newswire General Business | business | 18 | ok | Oct 13 13:05 PT |
 | PR Newswire Joint Ventures | business | 17 | ok | Oct 13 06:23 PT |
-| PR Newswire M&A | business | 95 | ok | Oct 13 14:15 PT |
+| PR Newswire M&A | business | 99 | ok | Oct 13 14:28 PT |
 | Personal Finance |  | 26 | down | Oct 13 10:53 PT |
-| Phys.org - latest science and technology news stories | science | 54 | ok | Oct 13 14:10 PT |
+| Phys.org - latest science and technology news stories | science | 56 | ok | Oct 13 14:20 PT |
 | Planet Money | business | 4 | ok | Oct 09 14:07 PT |
 | Playbook | us | 14 | ok | Oct 13 03:07 PT |
 | Popular Science | science | 76 | ok | Oct 13 14:02 PT |
@@ -169,13 +169,13 @@ tags: ["sources"]
 | Risky Business | tech | 1 | ok | Sep 29 15:50 PT |
 | SBA News | business | 1 | ok | Oct 07 09:28 PT |
 | SCOTUSblog | politics | 25 | ok | Oct 13 07:53 PT |
-| SEC EDGAR 8-K | filings | 197 | ok | Oct 13 14:17 PT |
-| SEC EDGAR All Filings | filings | 580 | ok | Oct 13 14:17 PT |
+| SEC EDGAR 8-K | filings | 204 | ok | Oct 13 14:27 PT |
+| SEC EDGAR All Filings | filings | 628 | ok | Oct 13 14:27 PT |
 | SEC Press Releases | politics | 9 | ok | Oct 09 07:59 PT |
 | START (UMD) Terrorism Research | politics | 2 | ok | Oct 02 06:22 PT |
 | Sawbones: A Marital Tour of Misguided Medicine | science | 2 | ok | Oct 13 09:00 PT |
 | Science Latest | science | 15 | ok | Oct 09 11:30 PT |
-| Seeking Alpha Market Currents | markets | 58 | ok | Oct 13 14:09 PT |
+| Seeking Alpha Market Currents | markets | 61 | ok | Oct 13 14:23 PT |
 | Shirtloads of Science | science | 1 | ok | Oct 03 16:00 PT |
 | Simon Willison (LLMs) | tech | 30 | ok | Oct 13 06:32 PT |
 | Small Business Trends | tech | 15 | ok | Oct 13 12:31 PT |
@@ -193,7 +193,7 @@ tags: ["sources"]
 | The Startup Junkies Podcast | tech | 2 | ok | Oct 13 10:11 PT |
 | The Verge | tech | 34 | ok | Oct 13 13:45 PT |
 | This Week in Tech (Audio) | tech | 2 | ok | Oct 11 21:00 PT |
-| Top stories - Google News | world | 118 | ok | Oct 13 13:45 PT |
+| Top stories - Google News | world | 123 | ok | Oct 13 13:45 PT |
 | US Courts Judiciary News | politics | 1 | ok | Oct 01 05:00 PT |
 | Unbox Therapy | tech | 2 | ok | Oct 08 10:36 PT |
 | WIRED | tech | 51 | ok | Oct 13 12:35 PT |

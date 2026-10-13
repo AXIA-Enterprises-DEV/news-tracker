@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T14:18:35-07:00
+updated: 2026-10-13T14:29:07-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,6 +11,9 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [8-K - DataMeds AI, Inc. (0002030763) (Filer)](https://www.sec.gov/Archives/edgar/data/2030763/000149315226046887/0001493152-26-046887-index.htm) — SEC EDGAR 8-K · 14:27 PT · #filings #ai #markets
+- [HomePod Mini 2 Works as Default Speaker With Select Macs](https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/) — MacRumors · 14:19 PT · #tech #ai
+- [Saudi national charged with secretly planting recording device in OpenAI office](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss) — BBC Business · 14:19 PT · #business #ai
 - [Elevation Lab Pulls AirTag Silencer After Stalking Concerns](https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/) — MacRumors · 14:14 PT · #tech #ai
 - [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html) — CNBC Top News · 14:06 PT · #markets #ai
 - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — Hacker News · 14:01 PT · #tech #ai
@@ -26,7 +29,9 @@ tags: ["project", "ai"]
 - [Zealand Pharma partners with Generate on AI drug development](https://www.investing.com/news/company-news/zealand-pharma-partners-with-generate-on-ai-drug-development-93CH-4947530) — All News · 13:36 PT · #business #ai
 - [Samenvatting: ExaGrid maakt recordcijfers bekend qua boekingen en omzet in het 3e kwartaal](http://www.businesswire.com/news/home/20261013278250/nl/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 13:32 PT · #business #ai
 - [iOS 27.2 Beta 4 Removes New Health App](https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/) — MacRumors · 13:31 PT · #tech #ai
+- [Apple turns idle Macs into a shared GPU cloud with Minions - news.lavx.hu](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGVFQlVsLWo3dnUxTGRfdE51RzRGMU9zSnhibEZSb0RnTXlyUEZkQVRRZWJJSmdyNmVCaUZCRHhXd1NZbGhhWDdSQTdkVFBoT2Jqb2dOZ1duVGhXU2VuNmN5TmJTVVBUU0NaMUFTQzJzc01CenFNYVJGQzJqT0VYS1dOakdIb0RwbmQwQVF5dEw?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 13:31 PT · #tech #ai
 - [Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.](https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:27 PT · #markets #ai
+- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) — Hacker News · 13:23 PT · #tech #ai
 - [OpenAI employee arrested over hidden listening device, company says](https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422) — Investing.com Stock Market · 13:18 PT · #markets #ai
 - [Rocket One Signs Agreement to Advance Nanomagnetic AI Chip Technology and Device Prototyping](https://www.prnewswire.com/news-releases/rocket-one-signs-agreement-to-advance-nanomagnetic-ai-chip-technology-and-device-prototyping-302907604.html) — PR Newswire M&A · 13:16 PT · #business #ai #markets $RKTO
 - [8-K - Arrive AI Inc. (0001818274) (Filer)](https://www.sec.gov/Archives/edgar/data/1818274/000149315226046827/0001493152-26-046827-index.htm) — SEC EDGAR 8-K · 13:15 PT · #filings #ai #markets
@@ -39,6 +44,7 @@ tags: ["project", "ai"]
 - [Unlock free AI tools for your small business through UH Maui College webinar - Maui Now](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1R6SmhCc2xsODZEMFB6eko2SFNhdUhYNF9WT1ItaXQ5amtqZDZneV9qTWIxY3JoRlZKeHFmZENiSUNuOG1uWU5wY0pCNGducG10VEJWOGVqQ3U0VWJYN25tNTJvTHBWU3FpUC13TlB5Y2dUNEZhT0Q2SkpWaWx4VUR3UkIxcEllaVVsQlY5S2xmN2duZjg0TXRldW03cGdiTEJpc3l6Q3V4QWtE?oc=5) — Google News: small business owners · 13:00 PT · #business #ai #smallbiz
 - [Meta’s Muse models reach the AI frontier—and kill any hopes to ‘pace’ it](https://fortune.com/2026/10/13/metas-muse-models-reach-the-ai-frontier-and-kill-any-hopes-to-pace-it/) — Fortune | FORTUNE · 12:59 PT · #business #ai
 - [Accenture Launches Forward Deployed Engineering Program with Workday to Reinvent Work for the Agentic AI Era](http://www.businesswire.com/news/home/20261013697342/en/Accenture-Launches-Forward-Deployed-Engineering-Program-with-Workday-to-Reinvent-Work-for-the-Agentic-AI-Era/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 12:59 PT · #business #ai
+- [LangChain CSV Sanity-Check Agent - Towards Data Science](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pbTJoVXNTYUtON3pwZ3lCN2NXck9PUVZVZ2Z1OW9Zb2JfRlJORUhIMjdKeldhbGtFbUVYRTBJTW5SZk5YX292YkI5bTcxbVlpWFp5TGlKa2J3S1ltZ3FSZQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:57 PT · #tech #ai
 - [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132) — Hacker News · 12:55 PT · #tech #ai
 - [Apple's Siri AI integration into new home lineup could drive up Services revenue: Ives](https://seekingalpha.com/news/4652635-apples-siri-ai-integration-into-new-home-lineup-could-drive-up-services-revenue-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 12:55 PT · #markets #ai
 - [Dog Parents Ask AI About Their Dogs Daily. It's Never Met Their Dog. Maven Pet's Companion Has](https://www.prnewswire.com/news-releases/dog-parents-ask-ai-about-their-dogs-daily-its-never-met-their-dog-maven-pets-companion-has-302907575.html) — PR Newswire M&A · 12:53 PT · #business #ai
@@ -408,9 +414,3 @@ tags: ["project", "ai"]
 - [New Book for Small Business Owners: The AI Marketing Engine, Free on Kindle Unlimited - DeSoto County News](https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1pRU1dvbnVid3lCSk83djBacUozaTczQVJMT3ZhdU90MmhGYmRyX3ZVU2ZrZTJRQXduQ2tvcldXSFphYmtpVy1PSUpzekVSeE5lVEVHMkdlYWhBM3ZPNlh1NmIzM1hJcWgwdU1Fc0tfb3pGT2k2VjEzT2c0OFlKZWMzUmw3NFdkQktrQTZNZ0FSRnZFTlE3VVBvQlIyRkpxMTJ3bEZxdS1KQlhQR1FXSlN6MHpWRGw0ZnpCVWxRQUptRHpDTWNkajZNMHk?oc=5) — Google News: small business owners · 17:12 PT · #business #ai #smallbiz
 - [I Wrote a Book for Business Owners: The AI Marketing Engine Is Now on Kindle - Tippah News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnlfU0UyYUtuV2xrc0lPNGlLSF93UkxEX21mNXlCQjVFeVZVMWxCMVhWakMtS25NQ3VEbGJLdWpIRHF5QW5lM1lhN1ktQkpmdXNwNi1wQk0yYzZsVFBjT1Z1aklKc3VFZ1o5Vl9QbWNtal9TNmhCMHRLRG9FU09Ub3V4TXNPd0xpWnZQdjBzOVJtSVJ2WjM4YXlWWEt3SE5vU0JtbE11VzFJTUJJY2R5OWc3VnB0SWs?oc=5) — Google News: small business owners · 17:12 PT · #business #ai #smallbiz
 - [Zimacube 2 review: A tinkerer's NAS, at a good price point](https://appleinsider.com/articles/26/10/13/zimacube-2-review-a-tinkerers-nas-at-a-good-price-point?utm_source=rss) — AppleInsider · 17:06 PT · #tech #ai
-- [Watch the trailer for Apple TV’s ‘Being Heumann’](https://9to5mac.com/2026/10/12/watch-the-trailer-for-apple-tvs-being-heumann/) — 9to5Mac · 17:05 PT · #tech #ai
-- [Preserve research data for tomorrow’s AI-enabled integrity checks](https://www.nature.com/articles/d41586-026-03244-3) — Nature · 17:00 PT · #science #ai
-- [Decentralized AI needs more evidence on energy use](https://www.nature.com/articles/d41586-026-03245-2) — Nature · 17:00 PT · #science #ai
-- [Is this idea from AI or humans? A detector claims it can tell](https://www.nature.com/articles/d41586-026-03247-0) — Nature · 17:00 PT · #science #ai
-- [Inundated AI conferences impose submissions caps](https://www.nature.com/articles/d41586-026-03153-5) — Nature · 17:00 PT · #science #ai
-- [In the AI era, coding means thinking like a systems architect](https://www.nature.com/articles/d41586-026-02715-x) — Nature · 17:00 PT · #science #ai

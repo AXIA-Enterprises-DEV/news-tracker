@@ -1,6 +1,6 @@
 ---
 title: "Category: markets"
-updated: 2026-10-13T14:18:35-07:00
+updated: 2026-10-13T14:29:07-07:00
 count: 400
 tags: ["category", "markets"]
 ---
@@ -11,6 +11,9 @@ tags: ["category", "markets"]
 
 ## 2026-10-13
 
+- [BitFuFu's Bitcoin output fell 4% in Sept.; Ethiopian deal at risk](https://seekingalpha.com/news/4652706-bitfufus-bitcoin-output-fell-4-in-sept-ethiopian-deal-at-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:23 PT · #markets
+- [Harbour Island acquisition prices $100M IPO at $10 per unit](https://seekingalpha.com/news/4652712-harbour-island-acquisition-prices-100m-ipo-at-10-per-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:21 PT · #markets
+- [Liberty Defense names Keith Teichmann as interim CEO](https://seekingalpha.com/news/4652708-liberty-defense-names-keith-teichmann-as-interim-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:16 PT · #markets
 - [Micron Technology adds to recent weakness, slips another 4%](https://seekingalpha.com/news/4652705-micron-technology-adds-to-recent-weakness-slips-another-4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:09 PT · #markets
 - [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html) — CNBC Top News · 14:06 PT · #markets #ai
 - [Strive announces proposed offering of 5M SATS preferred shares](https://seekingalpha.com/news/4652698-strive-announces-proposed-offering-of-5m-sats-preferred-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:04 PT · #markets
@@ -408,6 +411,3 @@ tags: ["category", "markets"]
 - [*HOT* Yankee Candle Minis only $0.80 each!](https://moneysavingmom.com/hot-yankee-candle-minis-only-1-each/) — Money Saving Mom® · 05:20 PT · #markets
 - [As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’](https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html) — CNBC Top News · 05:19 PT · #markets #civic
 - [OPEC releases figures on Azerbaijan's daily oil production - Apa.az](https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzROS2hxN0lnb01QazlQRVVTUEVGblJpMk1VSV9qY0VoaWhqMzlMLVpwdnpIX2JpcXdUSUdpWjRaY242bkdxSDhsV0VfTnZJNVZEQUVVTlA2a0hMSFhCUTdmenNZbXRVaXRxMkdsTzBIeFRwOGxpWlQ5djhXTUxuUGZsa2xaZ2JLaVhmQXMyNUxQTVRqVDN3MEJJcm0yRTFsdzRGRg?oc=5) — Google News: OPEC crude oil · 05:19 PT · #markets #oil
-- [BlackRock and Baillie Gifford bet big on Icon 3D printed homes](https://www.cnbc.com/2026/10/13/blackrock-baillie-gifford-bet-big-on-icon-3d-printed-homes.html) — CNBC Top News · 05:18 PT · #markets #realestate
-- [Opec raises 2027 oil demand view, citing need to rebuild stocks - The Edge Malaysia](https://news.google.com/rss/articles/CBMiU0FVX3lxTE12YnZfODdGS25nbXBBVVVsNVlWZDh1MER5RC1HbFByUy1DU3ZnRExPUkhRaHdaZFc1TGdOUnBPZVdSNnFCeEVSUG4tbFNIYm9yb2ln?oc=5) — Google News: OPEC crude oil · 05:18 PT · #markets #oil
-- [Kid’s 15-Inch Collapsible Toy Storage Bin (2 pack) only $12!](https://moneysavingmom.com/kids-15-inch-collapsible-toy-storage-bin-deal/) — Money Saving Mom® · 05:17 PT · #markets
