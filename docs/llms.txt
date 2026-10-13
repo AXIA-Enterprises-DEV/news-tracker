@@ -1,0 +1,62 @@
+# AXIA News Tracker
+
+> Live news aggregator (RSS/Atom only) updated ~every 10 min. All pages are plain Markdown with YAML frontmatter; item lines are `- [Title](url) — Source · HH:MM PT · #category #project $TICKER`.
+
+Last sync: 2026-10-13 13:20 PT · 5025 items · 191/197 feeds OK
+
+## Core
+
+- [Index](https://axia-enterprises-dev.github.io/news-tracker/index.md): latest 100 + navigation
+- [Full latest dump](https://axia-enterprises-dev.github.io/news-tracker/llms-full.txt): newest 1000 items, one per line
+- [JSON latest](https://axia-enterprises-dev.github.io/news-tracker/data/latest.json)
+- [Status](https://axia-enterprises-dev.github.io/news-tracker/data/status.json)
+- [Sources](https://axia-enterprises-dev.github.io/news-tracker/sources/index.md)
+
+## Days
+
+- [2026-10-13](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-13.md)
+- [2026-10-12](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-12.md)
+- [2026-10-11](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-11.md)
+- [2026-10-10](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-10.md)
+- [2026-10-09](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-09.md)
+- [2026-10-08](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-08.md)
+- [2026-10-07](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-07.md)
+- [2026-10-06](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-06.md)
+- [2026-10-05](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-05.md)
+- [2026-10-04](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-04.md)
+- [2026-10-03](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-03.md)
+- [2026-10-02](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-02.md)
+- [2026-10-01](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-01.md)
+- [2026-09-30](https://axia-enterprises-dev.github.io/news-tracker/news/2026-09-30.md)
+- [2026-09-29](https://axia-enterprises-dev.github.io/news-tracker/news/2026-09-29.md)
+
+## Projects
+
+- [Civic / Government](https://axia-enterprises-dev.github.io/news-tracker/projects/civic.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/civic.xml
+- [Nevada / Las Vegas](https://axia-enterprises-dev.github.io/news-tracker/projects/nevada.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/nevada.xml
+- [Fed Policy](https://axia-enterprises-dev.github.io/news-tracker/projects/fed.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/fed.xml
+- [Markets / Trading Desk](https://axia-enterprises-dev.github.io/news-tracker/projects/markets.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/markets.xml
+- [Foreign Policy / Defense](https://axia-enterprises-dev.github.io/news-tracker/projects/foreign.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/foreign.xml
+- [Oil / Energy Routes](https://axia-enterprises-dev.github.io/news-tracker/projects/oil.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/oil.xml
+- [Las Vegas Real Estate / Auctions](https://axia-enterprises-dev.github.io/news-tracker/projects/realestate.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/realestate.xml
+- [AI / LLM / Mac](https://axia-enterprises-dev.github.io/news-tracker/projects/ai.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/ai.xml
+- [Entrepreneurship / Small Business](https://axia-enterprises-dev.github.io/news-tracker/projects/smallbiz.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/smallbiz.xml
+- [Cannabis](https://axia-enterprises-dev.github.io/news-tracker/projects/cannabis.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/cannabis.xml
+- [Golf](https://axia-enterprises-dev.github.io/news-tracker/projects/golf.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/golf.xml
+- [Propaganda / Media](https://axia-enterprises-dev.github.io/news-tracker/projects/media.md): Atom https://axia-enterprises-dev.github.io/news-tracker/feeds/media.xml
+
+## Categories
+
+- [business](https://axia-enterprises-dev.github.io/news-tracker/categories/business.md)
+- [filings](https://axia-enterprises-dev.github.io/news-tracker/categories/filings.md)
+- [markets](https://axia-enterprises-dev.github.io/news-tracker/categories/markets.md)
+- [politics/policy](https://axia-enterprises-dev.github.io/news-tracker/categories/politics.md)
+- [science](https://axia-enterprises-dev.github.io/news-tracker/categories/science.md)
+- [sports](https://axia-enterprises-dev.github.io/news-tracker/categories/sports.md)
+- [tech](https://axia-enterprises-dev.github.io/news-tracker/categories/tech.md)
+- [U.S.](https://axia-enterprises-dev.github.io/news-tracker/categories/us.md)
+- [world](https://axia-enterprises-dev.github.io/news-tracker/categories/world.md)
+
+## Optional
+
+- [Tickers]({SITE}/tickers/index.md)

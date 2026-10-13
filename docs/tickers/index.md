@@ -1,0 +1,72 @@
+---
+title: "Tickers"
+updated: 2026-10-13T13:21:43-07:00
+count: 63
+tags: ["tickers"]
+---
+
+# Active tickers
+
+- [$LSCC](LSCC.md) — 6 items
+- [$IQV](IQV.md) — 3 items
+- [$VEEV](VEEV.md) — 3 items
+- [$MRVL](MRVL.md) — 2 items
+- [$RKTO](RKTO.md) — 1 items
+- [$TNET](TNET.md) — 1 items
+- [$GLXY](GLXY.md) — 1 items
+- [$AZZ](AZZ.md) — 1 items
+- [$BKD](BKD.md) — 1 items
+- [$NET](NET.md) — 1 items
+- [$TBLA](TBLA.md) — 1 items
+- [$MTUS](MTUS.md) — 1 items
+- [$YFOR](YFOR.md) — 1 items
+- [$ANDE](ANDE.md) — 1 items
+- [$O](O.md) — 1 items
+- [$TXG](TXG.md) — 1 items
+- [$STX](STX.md) — 1 items
+- [$RBBN](RBBN.md) — 1 items
+- [$INBX](INBX.md) — 1 items
+- [$CRUS](CRUS.md) — 1 items
+- [$KRMN](KRMN.md) — 1 items
+- [$FSLR](FSLR.md) — 1 items
+- [$IBKR](IBKR.md) — 1 items
+- [$KLIC](KLIC.md) — 1 items
+- [$CIFR](CIFR.md) — 1 items
+- [$EIX](EIX.md) — 1 items
+- [$PLBY](PLBY.md) — 1 items
+- [$SHAK](SHAK.md) — 1 items
+- [$FUN](FUN.md) — 1 items
+- [$HUM](HUM.md) — 1 items
+- [$BP](BP.md) — 1 items
+- [$PEGA](PEGA.md) — 1 items
+- [$AEIS](AEIS.md) — 1 items
+- [$INFQ](INFQ.md) — 1 items
+- [$SPCB](SPCB.md) — 1 items
+- [$III](III.md) — 1 items
+- [$RMNI](RMNI.md) — 1 items
+- [$BTC](BTC.md) — 1 items
+- [$HLP](HLP.md) — 1 items
+- [$LUMN](LUMN.md) — 1 items
+- [$PUSA](PUSA.md) — 1 items
+- [$JBL](JBL.md) — 1 items
+- [$FSLY](FSLY.md) — 1 items
+- [$ICE](ICE.md) — 1 items
+- [$AIRG](AIRG.md) — 1 items
+- [$QBTS](QBTS.md) — 1 items
+- [$UPBD](UPBD.md) — 1 items
+- [$CALX](CALX.md) — 1 items
+- [$ADM](ADM.md) — 1 items
+- [$PENG](PENG.md) — 1 items
+- [$QXO](QXO.md) — 1 items
+- [$TBCH](TBCH.md) — 1 items
+- [$ASX](ASX.md) — 1 items
+- [$LPX](LPX.md) — 1 items
+- [$RILY](RILY.md) — 1 items
+- [$VLY](VLY.md) — 1 items
+- [$CSIQ](CSIQ.md) — 1 items
+- [$APLE](APLE.md) — 1 items
+- [$CCC](CCC.md) — 1 items
+- [$OLLI](OLLI.md) — 1 items
+- [$CRWV](CRWV.md) — 1 items
+- [$SNDK](SNDK.md) — 1 items
+- [$X](X.md) — 1 items
