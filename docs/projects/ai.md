@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T14:39:18-07:00
+updated: 2026-10-13T14:49:14-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -27,6 +27,7 @@ tags: ["project", "ai"]
 - [Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.](https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html) — NYT World · 14:00 PT · #world #ai
 - [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) — TechCrunch · 13:59 PT · #tech #ai
 - [Ripple Teams With Stripe-Owned Privy to Bring Wallet Tech to XRP Ledger](https://news.bitcoin.com/technology/ripple-teams-stripe-owned-privy-wallet-tech-xrp-ledger/) — Bitcoin News · 13:55 PT · #markets #ai
+- [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office - CNBC](https://news.google.com/rss/articles/CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53?oc=5) — Top stories - Google News · 13:55 PT · #world #ai
 - [US indicts Saudi employee of OpenAI for allegedly bugging its offices](https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1) — FT Home · 13:54 PT · #business #ai
 - [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
 - [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
@@ -413,4 +414,3 @@ tags: ["project", "ai"]
 - [Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices - Apple Machine Learning Research](https://news.google.com/rss/articles/CBMickFVX3lxTE1CM1hFSzdlUk5zMms5bkZNczdibWpxZTd5RUU2Nk9mOE1qN1daWXNyc0QwRTIwMkk5VjVFWnc2Zkt1SV9BQkN4NFBfTERrWkl2M1VVWGdEU1g1LXR3SEx0VkphdTVvTDdMVk83bzhySFRNQQ?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 18:49 PT · #tech #ai
 - [Cyber Leaders Exchange 2026: Revolutional’s Pete Harris on holding AI accountable - Federal News Network](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ1pyRlJadWpCWFJTRjdQb2hYVEJuQmMzYUFqc3ZvdDZLczZmVC1xVGRYamtXRVFuNlRwSlRURHM0OV84X2plWmFrVDBmblpJUlJ6ZkYwZk11VGNPcUNRLW1BNW5UdnZGdGVhb3pMLXZSQkZkT1NaZ0VHaXBsTFhOazZvZ3ZZdENOSGNLbzc3VTZMU1FxTnh0eFB5X1I5cGt6UHVOYjRkaEs4aTlBT0tUNkRtTEFyYk5JeGc3b1NlRk4wNU12eEdhdHZCRm91UQ?oc=5) — Google News: federal workforce OR federal employees OPM · 18:47 PT · #politics #ai #civic
 - [World stocks slip as AI spending worries hit chipmakers - Reuters](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 18:41 PT · #markets #ai #fed
-- [Cyber Leaders Exchange 2026: Fortinet Federal’s Felipe Fernandez on AI-spawned governance challenges - Federal News Network](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ3VrQ0FfZFkzaDB3THJPai1JTEM0WHotaGRFeFo3Y2dJRFNtdjBrZ3htanJfdnZPVjdkM05JQ1J3OVhGZFllNjExOU1QeVF6MzJ5RUpiWXZmeUcxWldSQVRjWVk5dWhQRnc1US0tN1I3Wlc1RWNjWjgzakt0a0czWmgtVGFsUmNNeExGQTIyeVVPY2wtbi1NeEo0VnVKNXBWaXY1MkQ0eE5CT3E2X1dOR0ZwaGVCMXVTelptZHFVS1JPUzc2ekp2MWpraDdOb3JqUzA3aDYtdmVSakFvWjRUYS0zZlI1aVk?oc=5) — Google News: federal workforce OR federal employees OPM · 18:37 PT · #politics #ai #civic

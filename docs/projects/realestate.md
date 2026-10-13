@@ -1,13 +1,13 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-13T14:39:18-07:00
-count: 120
+updated: 2026-10-13T14:49:14-07:00
+count: 121
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-120 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+121 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-13
 
@@ -90,6 +90,7 @@ tags: ["project", "realestate"]
 - [Buying A House Vs. Renting An Apartment: The Real Math + Calculator](https://thecollegeinvestor.com/34927/buy-a-house-vs-rent-an-apartment/) — The College Investor · 16:10 PT · #markets #realestate
 - [huntington & ellis Opens Henderson Office, Expanding Its Southern Nevada Presence - Nevada Business Magazine](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQmtIN0NMcnl6UmFmYVNVYWpCY0pabzlVU1lRcmNDUUFrbkhEcTlwcE5oTGJGWUVqT1YwazhQMHhkWkdhY19pYkM1WWlaeDVYYXpZc3lsU0tXUnhocnRvMG0wVzdHa2tlVi1TZEppTklwYVVPVVBnQ0lkd04wMUxuczA1VThQZFVkdDhCMGpYVVZJREF2UmZwRWs0NkdVMDdra2lZQ09IM3FUSjUwSWJwRVI2NEY?oc=5) — Google News: Las Vegas real estate · 16:06 PT · #business #nevada #realestate
 - [West Coast NFL fans could score stadium-adjacent homes for just $339K — skipping traffic forever - New York Post](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnIzSmU5Tk0wNFVPYS1yZGVkelNpOG1QbllNWEVXeHFXUEM3M2JUdDZGdk1TVDVsYXFBWHJXQi12V0haT2c4VGxadHBQcG9xTEFNTmZsTUhtN0otRXNnNURoUkE4TUtIX3BEQ1k2RU5sLV90MnY4TVZoMkFWYzlfb1oyRkowR0dVTllVN1BLaGl1X09rZnk0ZDRNb1VHbHVVN2VDQU5iclBxMGRyOUVkRHlPeEhVOFc2aXJEVXplbDJ2NDQ?oc=5) — Google News: Las Vegas real estate · 15:02 PT · #business #realestate
+- [Heavyweight Champion George Foreman’s Texas Mansion Has Two Kitchens and a $6 Million Price Tag - Mansion Global](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSnp2Mk52bFpIeDdBRzJUVHRsZmpPc1ZYSTBLSVZOcF93TXFFNVBEejdKcTB0OThUTjVScUdxVGgwZ1dNYkoxQVRUWXZYc05ZX1hMaVJsQUlwdk1Xbk8xaU9ZU3p0cGQ0My02QThnMGw2SU5zc3E4SU9BTl9qbUwzeHg3Y0xCamZoUkNRV1Y1NUp3NXdWMzZENkVMUi0xRlBqZlFQMkhzM3F2cnZmbThzWjJwQzNEN2dnMTRoV1M1SmVqYlo5NGtjR3A2ZzBzQlgxa05ZV0RVcWrSAd4BQVVfeXFMT0piMmpyT1M2c0RNbHdQb2VvVE1BSzVGWmw4YnowcmFSZmNIUS1NWHU0bFN0aG82RWZoTF9HeDlYcGItRzl5U2didFk1ZjBKSFhjdXRfS3E4NWtxcWQzTGFQTE8tcjRxNW9YM19xNjF2RGJ0WVlraHkwLXg1dTR5SFBFWXFDUWpqNjJmaVFOUThzeVNhazN2cl9nRklnRGcxV2tYU1VFZS1QTm1fakNzZXRwakVGWUtrUU5janpyTVVaeU0yejMyQTNHTjhEYXNiSW0zOUtIc0E2NDUteld3?oc=5) — Google News: Las Vegas real estate · 14:37 PT · #business #realestate
 - [Southwest Medical Adds Two New Physicians - Nevada Business Magazine](https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkRaZXVxLS1BeDBzLXZtZWNEcWQ2dEQ1T1R4Vno3NHVmOW1fT0NteUhnQ3pDdTlldEwzREQyWk9ZNmpmRG5BR05neHlpR21vZkM0WUk0Q2JrVWllX0lOUVhNTktnQTRTd09kWWg2aXVSMWNieHlYanFhWlRqakI0dGRIRQ?oc=5) — Google News: Las Vegas real estate · 14:10 PT · #business #nevada #realestate
 - [Virginia Housing Market Sees Surprising Shift In Buyer Behavior - Patch](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnRKU256S2lnMWQ1NGc3RHh1N3dpaXpQTVVLT09HSW1GSDAtSHpEX1V0NFQtc3FYNS00eEk1TUFUSU1sRFVnWkJWTVJybzY0c2RJNFIyTVhXT195WlY1TDZQNzVZUDNqMk84LUVYYUczSWRPRmNFZzlqa2xLcHl3Y0drcjRobzBhMEY3bjN6VkduOVFaMFHSAbMBQVVfeXFMTjNzRThVTmd0RlpSVVJYMmtjc2lNTWo5SlF3ZW04NWtaZWdnRi1nUkM2cTBNU3FRdzlMYTl2Tkh3RWYxcUllNGtBUDVGcVZxSE9lbE5aZVp3REJZZWE5UEVSWUZwb2s1TTN5MjREcXVLRlJjaXRkVWVHYVZMMTdDaWE4cGNIeUN0YmZaTEpBNUVVVndYTHJfeHNueC1NUWlOMjZsUjlxaHE2ZTdlcjdUR0VTakE?oc=5) — Google News: Las Vegas real estate · 14:10 PT · #business #realestate
 - [Four Seasons Tops Out on Vegas Luxury Condos - Multifamily Housing News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dBQjA2alN6eXdGblU0d2hPSEFQMERDaFNEQkh5NnFMNUkyQm1SUTBQZ3l3OFZhVGpaWHYzZi1GQ3BEbDZRSHdmRTMzTHVJOEthSGk1LTlHXzNNXzNCYnF4QnZET0Fzd255aXIxZmtGb1VWUVhlcExLaFhxajdNaDVrYw?oc=5) — Google News: Las Vegas real estate · 13:55 PT · #business #realestate

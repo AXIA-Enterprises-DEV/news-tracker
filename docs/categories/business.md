@@ -1,6 +1,6 @@
 ---
 title: "Category: business"
-updated: 2026-10-13T14:39:18-07:00
+updated: 2026-10-13T14:49:14-07:00
 count: 400
 tags: ["category", "business"]
 ---
@@ -11,6 +11,9 @@ tags: ["category", "business"]
 
 ## 2026-10-13
 
+- [Gates Grows Its Warehouse Automation Portfolio with IntraLogix™ LRB-100](https://www.prnewswire.com/news-releases/gates-grows-its-warehouse-automation-portfolio-with-intralogix-lrb-100-302907660.html) — PR Newswire M&A · 14:41 PT · #business $GTES
+- [DEA Is OK With Including New Report In Marijuana Rescheduling Hearing As Opponents Seek More Testimony And Document Discovery](https://www.marijuanamoment.net/dea-is-ok-with-including-new-report-in-marijuana-rescheduling-hearing-as-opponents-seek-new-testimony-and-document-discovery/) — Marijuana Moment · 14:40 PT · #business #cannabis
+- [Vaughn College Hosts the Sixth Annual International Conference on Digital Technologies and Applications](https://www.prnewswire.com/news-releases/vaughn-college-hosts-the-sixth-annual-international-conference-on-digital-technologies-and-applications-302907637.html) — PR Newswire M&A · 14:40 PT · #business
 - [BBNX Deadline: BBNX Investors Have Opportunity to Lead Beta Bionics, Inc. Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/bbnx-deadline-bbnx-investors-have-opportunity-to-lead-beta-bionics-inc-securities-fraud-lawsuit-302907463.html) — PR Newswire M&A · 14:34 PT · #business #markets $BBNX
 - [Better Home & Finance Holding Company (BETR) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/better-home--finance-holding-company-betr-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302907552.html) — PR Newswire M&A · 14:33 PT · #business
 - [Flotek Industries, Inc. (FTK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/flotek-industries-inc-ftk-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302907545.html) — PR Newswire M&A · 14:32 PT · #business
@@ -408,6 +411,3 @@ tags: ["category", "business"]
 - [Cash Only, No Reservations, No Problem: Why This Long Island Restaurant Thrives by Saying No](https://www.entrepreneur.com/building-a-business/cash-only-no-reservations-no-problem-why-this-long-island-restaurant-thrives-by-saying-no) — Entrepreneur · 06:06 PT · #business #smallbiz
 - [Sun Auto and Interstate Batteries Announce Strategic Partnership Across 600+ Store Network](https://www.prnewswire.com/news-releases/sun-auto-and-interstate-batteries-announce-strategic-partnership-across-600-store-network-302906919.html) — PR Newswire Contracts · 06:06 PT · #business
 - [CPI RECEIVES SIGNIFICANT CONTRACT TO SUPPORT INTELLIGENCE, SURVEILLANCE AND RECONNAISSANCE PROGRAM FOR U.S. GOVERNMENT](https://www.prnewswire.com/news-releases/cpi-receives-significant-contract-to-support-intelligence-surveillance-and-reconnaissance-program-for-us-government-302905363.html) — PR Newswire Contracts · 06:05 PT · #business #fed
-- [Marvell Bolsters Connectivity Portfolio with New 3.2T Protocol-aware Retimer and Second-generation 1.6T AEC DSP](http://www.businesswire.com/news/home/20261013849856/en/Marvell-Bolsters-Connectivity-Portfolio-with-New-3.2T-Protocol-aware-Retimer-and-Second-generation-1.6T-AEC-DSP/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 06:05 PT · #business #ai #markets $MRVL
-- [GAC präsentiert auf dem Pariser Autosalon 2026 neue Marke, Dienstleistungen und Produkte und schlägt damit ein neues Kapitel der Lokalisierung der gesamten Wertschöpfungskette in Europa auf](https://www.prnewswire.com/news-releases/gac-prasentiert-auf-dem-pariser-autosalon-2026-neue-marke-dienstleistungen-und-produkte-und-schlagt-damit-ein-neues-kapitel-der-lokalisierung-der-gesamten-wertschopfungskette-in-europa-auf-302907100.html) — PR Newswire Contracts · 06:03 PT · #business
-- [AI-Fueled Spending on Infrastructure Services Soars, Driving Americas Tech Market to New High in Q3: ISG Index™](http://www.businesswire.com/news/home/20261013696271/en/AI-Fueled-Spending-on-Infrastructure-Services-Soars-Driving-Americas-Tech-Market-to-New-High-in-Q3-ISG-Index%E2%84%A2/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 06:02 PT · #business #ai $III

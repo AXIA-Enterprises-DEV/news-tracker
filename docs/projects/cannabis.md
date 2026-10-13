@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-13T14:39:18-07:00
-count: 43
+updated: 2026-10-13T14:49:14-07:00
+count: 44
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-43 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+44 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-13
 
+- [DEA Is OK With Including New Report In Marijuana Rescheduling Hearing As Opponents Seek More Testimony And Document Discovery](https://www.marijuanamoment.net/dea-is-ok-with-including-new-report-in-marijuana-rescheduling-hearing-as-opponents-seek-new-testimony-and-document-discovery/) — Marijuana Moment · 14:40 PT · #business #cannabis
 - [Canadian cannabis company Organigram enters fight for Aurora](https://mjbizdaily.com/canadian-cannabis-company-organigram-enters-fight-for-aurora/618604/) — MJBizDaily · 13:48 PT · #business #cannabis #smallbiz
 - [Congress Should Regulate Hemp THC Drinks Like Alcohol Instead Of Banning Them, Former NFL Player Says (Op-Ed)](https://www.marijuanamoment.net/congress-should-regulate-hemp-thc-drinks-like-alcohol-instead-of-banning-them-former-nfl-player-says-op-ed/) — Marijuana Moment · 10:33 PT · #business #cannabis #civic
 - [Medical cannabis for the treatment of insomnia](https://www.reddit.com/r/science/comments/1x51cga/medical_cannabis_for_the_treatment_of_insomnia/) — Reddit Science · 09:29 PT · #science #cannabis

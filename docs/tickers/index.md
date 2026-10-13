@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-13T14:39:18-07:00
-count: 79
+updated: 2026-10-13T14:49:14-07:00
+count: 80
 tags: ["tickers"]
 ---
 
@@ -11,6 +11,7 @@ tags: ["tickers"]
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
 - [$MRVL](MRVL.md) — 2 items
+- [$GTES](GTES.md) — 1 items
 - [$BBNX](BBNX.md) — 1 items
 - [$HYLN](HYLN.md) — 1 items
 - [$HUBG](HUBG.md) — 1 items

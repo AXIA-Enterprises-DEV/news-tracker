@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T14:39:18-07:00
+updated: 2026-10-13T14:49:14-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -15,6 +15,7 @@ tags: ["category", "tech"]
 - [OpenAI says it found a 'sophisticated recording device' hidden in its offices](https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/) — Engadget - Technology News & Expert Reviews · 14:34 PT · #tech #ai
 - [F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office](https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html) — NYT > Technology · 14:31 PT · #tech #ai
 - [PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter](https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/) — 9to5Mac · 14:29 PT · #tech #ai
+- [PC Gamers, Rejoice: GTA 6 PC Port Could See Release in Early 2027, Report Says](https://www.cnet.com/tech/gaming/grand-theft-auto-gta-6-pc-port-release-timing/) — CNET · 14:22 PT · #tech
 - [HomePod Mini 2 Works as Default Speaker With Select Macs](https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/) — MacRumors · 14:19 PT · #tech #ai
 - [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/) — TechCrunch · 14:15 PT · #tech
 - [Elevation Lab Pulls AirTag Silencer After Stalking Concerns](https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/) — MacRumors · 14:14 PT · #tech #ai
@@ -410,4 +411,3 @@ tags: ["category", "tech"]
 - [Georgia Man Says Deputies Used Flock Cameras to Track Him After He Sued Sheriff](https://gizmodo.com/georgia-man-says-deputies-used-flock-cameras-to-track-him-after-he-sued-sheriff-2000824987) — Gizmodo · 02:00 PT · #tech
 - [What Flock Actually Costs Cities Across the Country](https://www.wired.com/story/how-much-does-flock-actually-cost-cities/) — WIRED · 02:00 PT · #tech
 - [The S&P 500’s Bull Market Just Turned 4. History Says the Next Year Is What Matters Most](https://www.inc.com/phil-rosen/sp-500-bull-market-year-investors-stock-rally/91418589) — Inc.com · 02:00 PT · #tech #markets
-- [The AI race to save American science and reshape medicine forever]() — Masters of Scale · 02:00 PT · #tech #ai

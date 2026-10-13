@@ -1,16 +1,18 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T14:39:18-07:00
-count: 316
+updated: 2026-10-13T14:49:14-07:00
+count: 318
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-316 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+318 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
+- [2 vessels hit in Strait of Hormuz as Iran, US trade claims over control of key oil route - Moneycontrol.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWpoUXRrSk1mSEk0SVMzVjRrcmFyU0pPeGhkQzJsZHRrV2M2Y0ptZFVlX2ZGdjFJSlVsWTVndzlXMUZrOHNXMFpMTkFNR1N2ZlVpODI2ZFFtLWxaWXhRWXhMb1UwLUd1amdhMUpOTGJZb25peHlTbk1uU2g1Ym40UlBQVDVmQnBTTUZfVThlQTc3UVFmV1U3VzAwdG5wTW94TGVvenNaUThRNi1yd3c3bi0tbTUzYW9KWktEZlQ3bUx1YUtfZDFqTVFnRWF2SExKUmsyTXlVTkY1cGU00gHiAUFVX3lxTFBOM25VVHg1UWYtNkxXTjhCZ0VaSmM0WXVjWEZ5S0l1WUl4RkhHR0ZYVlNCa3VtN0lGQ1BTQnlZaEEwNDBSRXdrdjZtbG9pcWxoal9vVXZWdjNIUkdsRVNzM0pvSWI2STktTFEwZDB3YlRqT1hPNF9HbGMyVS1CdWNuQ1hZcTRlV3hVaHRGSmJ3TERlWXVIYmthU1dNcjhONGVETDhYd1puYWZKYTdvMWlZemd3QkItVFF0dXJ4emo1MDlwaVZlMzhOTW10amczTVkyYUttNEhMX0RLYnJpcEVmemc?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 14:34 PT · #markets #foreign #oil
+- [Surging Iranian attacks on ships crossing the Hormuz, threatens recovery in Persian Gulf oil exports - Asia Insurance Post](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YTTBOd21CbjhuWnJwak4wOVU3TjhXSXliVkxoS0IwbWZmSmFZNHd1V2tVNloyR085aFNUb3hYeXhxX2lXUjJwM3o1TGlEaERvbE5sTUFoWQ?oc=5) — Google News: OPEC crude oil · 14:33 PT · #markets #oil
 - [OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027](https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Surging-to-26-Million-Bpd-in-2027.html) — OilPrice.com · 14:30 PT · #markets #oil
 - [OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027 - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFpnUFFzTWtzbElMTlJpWDl4eDE1anR2dTl3M2NydkdTSk93TUpldWZYYVBHemJNQ1dYcDhvaGozNVZCbk9PZzlXQzZCWGtIQjNmWTVKUzRtV0ZjNFRRamZEUGJFMVdUcV9sa1gwTWg1R1FYSHJ5VFcxYVh1UEoxbkJBY09OMm5iQXc0Uzlrd2k2YklZYU9lVzZGUml0UVRLbkpiQTRqb0x5SWU4dnFDYUZxZ2pXbVJK0gG-AUFVX3lxTFBkc0VxQkFtaEtqRkxyTEhjeG5fMkExeW80T1lYMmI4Nlh4ZlhFczVKbWQzejZ1aU1QSVpFYXUzYlUzaTFkSEpvM3RNaE91anVJLXJyVUxiWmNDTjl0MTRPa1BWWmJ5ZzZPeUZJU1VHd3hFZkpQODQ2MDNsamdIOGlXOFp4VHFocnl1ZjcyN3ByUkJXVHA0NHlXbEJkVHVOV2hoNDdZdjFIX1JsdnliUUVGckZLQ2h4Tk1fOWY0Rnc?oc=5) — Google News: OPEC crude oil · 14:30 PT · #markets #oil
 - [Oracle urges FERC to expedite New Mexico gas pipeline for Project Jupiter](https://www.investing.com/news/stock-market-news/oracle-urges-ferc-to-expedite-new-mexico-gas-pipeline-for-project-jupiter-4947589) — Investing.com Stock Market · 14:22 PT · #markets #oil

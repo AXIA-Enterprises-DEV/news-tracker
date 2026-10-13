@@ -1,13 +1,13 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-13T14:39:18-07:00
-count: 258
+updated: 2026-10-13T14:49:14-07:00
+count: 259
 tags: ["project", "nevada"]
 ---
 
 # Project: Nevada / Las Vegas
 
-258 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
+259 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
 
 ## 2026-10-13
 
@@ -151,6 +151,7 @@ tags: ["project", "nevada"]
 - [Nevada Preps rankings: Sloan Canyon moves up to No. 5 in football](https://www.reviewjournal.com/nevada-preps/nevada-preps-rankings-sloan-canyon-moves-up-to-no-5-in-football-3899250/) — Las Vegas Review-Journal · 15:47 PT · #us #nevada
 - [‘Breaking Bad’ actor and disability rights champion RJ Mitte dies at 34](https://www.reviewjournal.com/news/nation-and-world/breaking-bad-actor-and-disability-rights-champion-rj-mitte-dies-at-34-3899245/) — Las Vegas Review-Journal · 15:41 PT · #us #nevada
 - [CCSD schools honored for academic achievements by superintendent](https://www.ktnv.com/news/ccsd-schools-honored-for-academic-achievements-by-superintendent) — KTNV Las Vegas · 15:27 PT · #us #nevada
+- [Nevada Approves $38M for 891 Homes, but Demand Triples What's on the Table - Hoodline](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnZHT0pWeXFUUDF4RlB5Z1hFRkZScUgzbWNtd3VnbjFrX29pRFNFQjhIX3Uyam53enFkalNyclVSZ1B2WW5YZkl1RThQck1hNGZITnRqS01kX2Z1VzRYSHdMWWFXVlBmelpOaFFkM1RmY3JBZjNzMGJPZU9HT0dPLVdlZTRfNlNTSEhrVElLel9NbldTU19sc05lZVVMNFYtVEtvVA?oc=5) — Google News: Nevada legislature · 15:17 PT · #politics #nevada
 - [2026 General Election: Nevada Senate District 17 - The Record Courier](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHZiUkM0QlM3N1hqMFlDeS1QTU9MdnFUOWZHcTBkTm9aYVhZUmRkSUkyTU9ZeTN3eGlJbUxfMm9RNldYMmVXZk1KRGdscFo2c1hZZUhHZGsxOEU3SmFvTkVpbXZYUVNmeEJYZF9IbWxSSHI5RzAwd1BKSUtDWGk4bW04bHlaYVRISHlJVGJVM1VmV3FrX3I0TGJWZw?oc=5) — Google News: Nevada legislature · 15:16 PT · #politics #civic #nevada
 - [Vote on Nevada Preps girls Athlete of the Week, Oct. 5-10](https://www.reviewjournal.com/nevada-preps/vote-on-nevada-preps-girls-athlete-of-the-week-oct-5-10-3899236/) — Las Vegas Review-Journal · 15:02 PT · #us #nevada
 - [Vote for Nevada Preps boys Athlete of the Week, Oct. 5-10](https://www.reviewjournal.com/nevada-preps/vote-for-nevada-preps-boys-athlete-of-the-week-oct-5-10-3899230/) — Las Vegas Review-Journal · 14:58 PT · #us #nevada

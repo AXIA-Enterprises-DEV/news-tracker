@@ -1,6 +1,6 @@
 ---
 title: "Project: Entrepreneurship / Small Business"
-updated: 2026-10-13T14:39:18-07:00
+updated: 2026-10-13T14:49:14-07:00
 count: 290
 tags: ["project", "smallbiz"]
 ---
