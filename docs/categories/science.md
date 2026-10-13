@@ -1,16 +1,18 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T15:19:57-07:00
-count: 399
+updated: 2026-10-13T15:23:46-07:00
+count: 400
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-399 most recent items (14-day window).
+400 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Computational model guides lighting design to improve color discrimination in aging eyes](https://phys.org/news/2026-10-discrimination-aging-eyes.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [How eye-catching social media feeds steer attention toward misinformation](https://phys.org/news/2026-10-eye-social-media-attention-misinformation.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science #media
 - [Hawaiian coral tests reveal heat tolerance varies by species and location](https://phys.org/news/2026-10-hawaiian-coral-reveal-tolerance-varies.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
 - [The politics of city rats: What urban rodents tell us about housing and sanitation](https://phys.org/news/2026-10-politics-city-rats-urban-rodents.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science #civic
 - [Thwaites Glacier could contribute twice as much sea-level rise as previously projected](https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html) — Phys.org - latest science and technology news stories · 14:50 PT · #science
@@ -445,7 +447,3 @@ tags: ["category", "science"]
 - [Measles Is Forcing Hospitals to Adapt to a New Normal](https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/) — Science Latest · 05:00 PT · #science
 - [I went to America’s largest gathering of astrologers. It was a battle over how to read the stars](https://www.theguardian.com/science/ng-interactive/2026/oct/01/united-astrology-conference) — Space | The Guardian · 04:00 PT · #science
 - [A lack of rockets is creating a crisis for space technology companies](https://www.newscientist.com/article/2591502-a-lack-of-rockets-is-creating-a-crisis-for-space-technology-companies/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS) — New Scientist - Space · 04:00 PT · #science #foreign
-
-## 2026-09-29
-
-- [Episode 618 - Ola Dada](https://probablyscience.libsyn.com/episode-618-ola-dada) — Probably Science · 22:55 PT · #science

@@ -1,13 +1,13 @@
 ---
 title: "News Tracker"
-updated: 2026-10-13T15:19:57-07:00
+updated: 2026-10-13T15:23:46-07:00
 count: 100
 tags: ["index"]
 ---
 
 # News Tracker
 
-Live news aggregator: 6072 items from 183/197 feeds, last sync 2026-10-13 15:19 PT. Updates about every 10 minutes.
+Live news aggregator: 6087 items from 183/197 feeds, last sync 2026-10-13 15:23 PT. Updates about every 10 minutes.
 
 ## Browse
 
@@ -27,12 +27,18 @@ Live news aggregator: 6072 items from 183/197 feeds, last sync 2026-10-13 15:19 
 
 ### 2026-10-13 15:00 PT
 
+- [Welcome Home: Everything Apple Announced on October 13](https://www.macrumors.com/2026/10/13/apple-october-13-recap/) — MacRumors · 15:22 PT · #tech #ai
+- [Computational model guides lighting design to improve color discrimination in aging eyes](https://phys.org/news/2026-10-discrimination-aging-eyes.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [How eye-catching social media feeds steer attention toward misinformation](https://phys.org/news/2026-10-eye-social-media-attention-misinformation.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science #media
 - [Disability accommodations at Labor get extra scrutiny with annual reviews](https://www.govexec.com/management/2026/10/disability-accommodations-labor-extra-scrutiny-annual-reviews/416574/) — Government Executive · 15:18 PT · #politics #civic
+- [Retirement Application Processing Time Up, Reflecting Shift to Digital Format - FEDweek](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHlQa1RId3B0djBpc29aXzBpRHc3YklDM0REU01nUGU0b1JJdWFPVFFua3ZDcEpQNC1SNEpOTjhPM2RHdDRpemdMWWJmcnZMRVctX0JkY2UxYmlwVlJjUkhpcVlzYlJ4SnlCUHRPVWRDY01uWjhiNzJmLWNnS2ZXVGp2b1hzSTZVN0R5dk1TOExMZGRRUGJaakpudkpkS3FnckhJLXVFZFpoVkhpUXc?oc=5) — Google News: federal workforce OR federal employees OPM · 15:17 PT · #politics #civic
 - [Illinois cannabis sales increase to record levels amid price drop](https://mjbizdaily.com/news/illinois-cannabis-sales-increase-to-record-levels-amid-price-drop/618606/) — MJBizDaily · 15:15 PT · #business #cannabis #smallbiz
 - [Apple will get some OpenAI documents, but not everything it asked for in court](https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss) — AppleInsider · 15:14 PT · #tech #ai
+- [City may 'pause' November First Friday event after deadly shooting, mayor says](https://www.ktnv.com/news/city-may-pause-november-first-friday-event-after-deadly-shooting-mayor-says) — KTNV Las Vegas · 15:14 PT · #us #nevada
 - [Commentary: Washington State Supreme Court tramples on citizens’ initiative power - The Reflector](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaE5iNkx4LVZiclo3OFpQeE52NVdFWm9vWDBUSDVDY3ZETDU1b3FBMl9tMTdfWU5tblBwYlJRRFJocEdsbDFmWUExZmdlN1ZkanVRR2VoVjhDdlV0WFRSQkw5UGhRUG50c04xckU5UE1xQzNQN3I5cmVxTTI2NHlVUlRSSldlNFB5dUdsN3RhdGNNZlczclpES0tzQmp2SENCN08xanJQMnFUZGFUOHNNc0lMQVBMUXRVQThYLWZ1Q3I?oc=5) — Google News: "Supreme Court" ruling · 15:14 PT · #politics #civic
 - [BULL Investors Have Opportunity to Lead Webull Corporation Securities Fraud Lawsuit Filed by The Rosen Law Firm](https://www.prnewswire.com/news-releases/bull-investors-have-opportunity-to-lead-webull-corporation-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302907558.html) — PR Newswire M&A · 15:14 PT · #business #markets $BULL
 - [S'appuyant sur Abacum Intelligence, Abacum lance Modeler pour mettre la modélisation agentique à la portée de toutes les équipes financières](https://www.prnewswire.com/news-releases/sappuyant-sur-abacum-intelligence-abacum-lance-modeler-pour-mettre-la-modelisation-agentique-a-la-portee-de-toutes-les-equipes-financieres-302907681.html) — PR Newswire M&A · 15:13 PT · #business
+- [US top diplomat Marco Rubio to visit India and Uzbekistan this month - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1h6MGx1YnQyUm5SaUhtOXhPeFhpMkl0U0R2QVh3b0NBUGhiaEdDNVpNVUlNbGN0bUR4el9jSHBNQnQ2V1NOTFQ3RWlnMFd4Q2xMOERxMWxmNUgwZ05VNk8yY0lDUmR1QkhlMWhvcV9HN0taeV81RFpyZkoycGRsM3hPSnJiQkFta0h6UnBKNDlWTlJJOUtRckRtQ2FiZ0s2czlVSl9qNEZBUHBUUFE?oc=5) — Google News: "State Department" Rubio OR sanctions · 15:12 PT · #world #foreign
 - [South Korea Blocks 27 Crypto Exchange Websites, Including KuCoin and MEXC](https://cryptopotato.com/south-korea-blocks-27-crypto-exchange-websites-including-kucoin-and-mexc/) — CryptoPotato · 15:12 PT · #markets
 - [Vietnamese American Business Association (VABA) Marks 15 Years of Uniting Entrepreneurs Under "Speak with One Voice"](https://www.prnewswire.com/news-releases/vietnamese-american-business-association-vaba-marks-15-years-of-uniting-entrepreneurs-under-speak-with-one-voice-302907679.html) — PR Newswire M&A · 15:12 PT · #business #smallbiz
 - [Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2](https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/) — MacRumors · 15:11 PT · #tech #ai
@@ -45,6 +51,7 @@ Live news aggregator: 6072 items from 183/197 feeds, last sync 2026-10-13 15:19 
 - [Las Vegas man gets 35 years in prison for sexual exploitation of children](https://www.reviewjournal.com/crime/courts/las-vegas-man-gets-35-years-in-prison-for-sexual-exploitation-of-children-3899624/) — Las Vegas Review-Journal · 15:06 PT · #us #nevada
 - [PG&E says fire conditions threaten power shutoffs this week across northern California](https://seekingalpha.com/news/4652718-pg-and-e-says-fire-conditions-threaten-power-shutoffs-this-week-across-northern-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 15:06 PT · #markets
 - [Officials celebrate Tulsa entrepreneurship center for immigrants, small-business owners - Tulsa World](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcnVpSnJEUHFObFN6WFJwdGUwSzE1UU9jbFVzMHpES19fbU9GSXJEMnp1d2t0bHZkc1hkcTEyVXVhMUtiTnFKelpGMXdybmxfLTYyb21qQ1pXMjhhSVZTMnpnRS1JbExGTVJ4ZVpyM2NvWEV4bkZDYlBrSy02S2t1aUlRblQtZXo1bWJHcS1YMzV6RVRKWVdV?oc=5) — Google News: small business owners · 15:06 PT · #business #smallbiz
+- [Nevada scientist among those logging ‘lost’ species as fewer endangered species are listed - Toronto Star](https://news.google.com/rss/articles/CBMilgJBVV95cUxPUC1mS2g0TkZOUGJaYU1tRmZFbWloYUZzN0Y0WkdDUkhiWUZjaExyanVjdGlJS1dmQ1hKb2FLd19nMWtQS2Q2NE9OMXFKUjc5Ykp1TWhXT2JjVklXUFJBZnl0aDhkc2FRT2Q3Q1gwbkJYczBvUld0NUozV0cwZ2F5azJUUGs0aG1NUTh5UWVzZDRmaEpvUVRmZEtwUDJLSE9PZHptcFdOUExzbUQ5RWZyVzlPMklmcVQ0UGtvU0hmTFlrR2F4ek9ZVlJkNVJBZlhxRWlKc1R1WVdWVnRtTFcyV3JkTk50Y3ZMSERWbGx6NERtQWx5ZjJpT3JyVnhvcnRiSVJEdS1oQlZ2ZzFvZlVNcDA1czg3dw?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 15:05 PT · #politics #nevada
 - [iOS 27.2 Adds New Apple Music Icon](https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/) — MacRumors · 15:04 PT · #tech #ai
 - [GGL Resources completes 1-for-4 share consolidation](https://www.investing.com/news/company-news/ggl-resources-completes-1for4-share-consolidation-93CH-4947638) — All News · 15:04 PT · #business
 - [Generate, Zealand in collaboration to develop drugs for obesity, metabolic diseases](https://seekingalpha.com/news/4652717-generate-zealand-collaboration-develop-drugs-obesity-metabolic-diseases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 15:02 PT · #markets
@@ -70,6 +77,7 @@ Live news aggregator: 6072 items from 183/197 feeds, last sync 2026-10-13 15:19 
 ### 2026-10-13 14:00 PT
 
 - [Vatican says Pope Leo XIV has lung cancer and that the lower lobe of his right lung was removed](https://thehill.com/policy/international/6146664-pope-leo-lung-cancer/) — The Hill Policy · 14:59 PT · #politics
+- [Arsenal beat Lille 3-0 as perfect Champions League start continues](https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss) — Al Jazeera · 14:59 PT · #world
 - [BAE System wins $106.8M potential Navy deal for USS Hudner repairs](https://seekingalpha.com/news/4652719-bae-system-wins-1068m-potential-navy-deal-for-uss-hudner-repairs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:59 PT · #markets
 - [Rosen Law Firm Encourages Build-A-Bear Workshop, Inc. Investors to Inquire About Securities Class Action Investigation](https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-build-a-bear-workshop-inc-investors-to-inquire-about-securities-class-action-investigation-302907481.html) — PR Newswire M&A · 14:59 PT · #business $BBW
 - [Nathan's Famous Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Nathan's Famous, Inc. - NATH](https://www.prnewswire.com/news-releases/nathans-famous-investor-alert-kahn-swick--foti-llc-investigates-adequacy-of-price-and-process-in-proposed-sale-of-nathans-famous-inc---nath-302907605.html) — PR Newswire M&A · 14:57 PT · #business #markets
@@ -122,11 +130,3 @@ Live news aggregator: 6072 items from 183/197 feeds, last sync 2026-10-13 15:19 
 - [Topgolf saved over $11.3 million after leaving VMware](https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/) — Ars Technica · 14:33 PT · #tech
 - [Better Home & Finance Holding Company (BETR) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/better-home--finance-holding-company-betr-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302907552.html) — PR Newswire M&A · 14:33 PT · #business
 - [India’s Growing Cockroach Problem](https://foreignpolicy.com/2026/10/13/india-cockroach-movement-protests-arrests-jantar-mantar-modi/) — Foreign Policy · 14:32 PT · #world #foreign
-- [Flotek Industries, Inc. (FTK) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/flotek-industries-inc-ftk-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302907545.html) — PR Newswire M&A · 14:32 PT · #business
-- [HYLN Deadline: HYLN Investors Have Opportunity to Lead Hyliion Holdings Corp. Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/hyln-deadline-hyln-investors-have-opportunity-to-lead-hyliion-holdings-corp-securities-fraud-lawsuit-302907522.html) — PR Newswire M&A · 14:32 PT · #business $HYLN
-- [NYT, Economist among publishers joining coalition to curb unpaid AI use](https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254) — Investing.com Stock Market · 14:31 PT · #markets #ai
-- [F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office](https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html) — NYT > Technology · 14:31 PT · #tech #ai
-- [Doximity, Inc. (DOCS) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/doximity-inc-docs-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302907548.html) — PR Newswire M&A · 14:31 PT · #business
-- [7 Essential Marketing Strategies for Retailers](https://smallbiztrends.com/marketing-for-retailers/) — Small Business Trends · 14:31 PT · #tech
-- [Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support](https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support) — Guardian World · 14:30 PT · #world #foreign
-- [8-K - Sadot Group Inc. (0001701756) (Filer)](https://www.sec.gov/Archives/edgar/data/1701756/000173112226001341/0001731122-26-001341-index.htm) — SEC EDGAR 8-K · 14:30 PT · #filings #item-1.01 #markets

@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T15:19:57-07:00
+updated: 2026-10-13T15:23:46-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,6 +11,7 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Welcome Home: Everything Apple Announced on October 13](https://www.macrumors.com/2026/10/13/apple-october-13-recap/) — MacRumors · 15:22 PT · #tech #ai
 - [Apple will get some OpenAI documents, but not everything it asked for in court](https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss) — AppleInsider · 15:14 PT · #tech #ai
 - [Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2](https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/) — MacRumors · 15:11 PT · #tech #ai
 - [iOS 27.2 Adds New Apple Music Icon](https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/) — MacRumors · 15:04 PT · #tech #ai
@@ -217,6 +218,7 @@ tags: ["project", "ai"]
 - [New Apple TV 4K Adds Far-Field Microphones for Hands-Free Siri](https://www.macrumors.com/2026/10/13/new-apple-tv-4k-adds-far-field-microphones/) — MacRumors · 08:54 PT · #tech #ai
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - The Press Democrat](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGNoWFEzeXZPTU94LXpkb0FudzRPNXpVSUh4TXpRc0FRcnh5TklpTkNGdW04VkdpckI2a0M3VGhiQS1Fb0NwODFyVDR5UjZuWkV0aFQ1Wmc4WlZEQ1ZVcURHWDNoVjNmYmVCclI4NVZ6VVJreDBWdzFGUmMwb2lrVkNIWEg?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 08:53 PT · #politics #ai #nevada
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - Sun Sentinel](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjhEZFU4d2NNcGZMRTI3WC1pR3hqbnRTaFVfT0N0YWJ4UlhyX05ZMEU1M2tubDl2ZFNHMG9SS3lIeC1iX2xDdkRuUmhraGpnVUVpMVZ4MHJKOC1TVy1HVHVaTG84cy1CMzFBR3RJUUt4c1dFRXJVSmlhaHowZmFOY2s4TQ?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 08:52 PT · #politics #ai #nevada
+- [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - Orlando Sentinel](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZEJTUnNiMmJORHFNVDlma1R5aTZlNEY1ZEtPVHJMXzJZNUJYZDFDRzN2T0FELWpIeGdjd0J6N3JVd2FHUUVLc0x2NDhpS0cwMllOc2c4T0RhLUpmYlRCaWl1VVhIWW5FZWMtNWZuVS10ZjR3cC1UdDVRRTN3QldSYURQbk93YTg?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 08:52 PT · #politics #ai #nevada
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - The Standard-Speaker](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVS12TGY3a2NkUVBqbFM4S29PSVJMbVJGQXVtTTBVZmtGUTQtZmZoZ2J0VmVMLS1PY1M5TWVCTENtZHpVZEhzenlmYjhBbFpsUzFwcllqSEo3OE1BRnlMSXo4eERMNmtPdmRkb3YzOU5lbktsc1FSbjAwWllGdVpWcWhjMGdDZFk?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 08:52 PT · #politics #ai #nevada
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - Times-Standard](https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUJ2VmZtSkNVVkZwMjUxOFJiVnl6WjlsNmE5ZWdEZkVvZW5DZWJHb042R1A0bU1mbWZGWTZIc0VwRTVubkF4Ymxkdm9kWno2UEJNTTlTdllWUURqZ3JIVWpqNE5wak50M01DMzhHS0RwclZNYkh3eGlUaGNfVTBIbUxYWHJmZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:52 PT · #business #ai #cannabis #nevada
 - [MI5 chief warns of threats to UK from Russia, Iran and AI](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss) — BBC World · 08:52 PT · #world #ai #foreign
@@ -239,6 +241,7 @@ tags: ["project", "ai"]
 - [Apple Details HomeView's Audio Hardware](https://www.macrumors.com/2026/10/13/apple-details-homeview-audio-hardware/) — MacRumors · 08:44 PT · #tech #ai
 - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — Hacker News · 08:41 PT · #tech #ai
 - [Apple Shares Videos for HomeView, Apple TV 4K, and HomePod Mini 2](https://www.macrumors.com/2026/10/13/apple-shares-videos-for-homeview-and-more/) — MacRumors · 08:39 PT · #tech #ai
+- [Apple Shares Videos for HomeView, Apple TV 4K, and HomePod Mini 2 - MacRumors](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVJ2bC0wdTgyZlBNUy1UZTBiVFMzbWc4NS13dTE1WGJQUVlXdUNIM29WRXEyM0I1V0JqSDdmUkpqVHF3c0JOLVpIV0ttbmJySGxqTWVZWXJlanpqNk85alhpUHVfLU1TT1dtczBMSXF0LU9xaEd3eWRzT1dlNmlISjhfTllrUQ?oc=5) — Top stories - Google News · 08:38 PT · #world #ai
 - [Anthropic Claude AI Predicts BTC to $1M+ Ahead of IPO](https://cryptonews.com/news/anthropic-claude-ai-predicts-btc-to-1m-ahead-of-ipo/) — News - Cryptonews · 08:33 PT · #markets #ai
 - [Deals: M5 Pro MacBook Pro $600 off, Mac mini, AirPods Pro 3, Apple Watch clearance deals $199 off, more](https://9to5mac.com/2026/10/13/deals-m5-pro-macbook-pro-mac-mini-airpods-pro-3/) — 9to5Mac · 08:33 PT · #tech #ai
 - [Deals: M5 Pro MacBook Pro $600 off, Mac mini, AirPods Pro 3, Apple Watch clearance deals $199 off, more - 9to5Mac](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkJqd1VESHNCOEdCY2NQR09ZYU1sVUFQSV81SVphMEpNYjJKTWJOdHBHbFVIWXkzMXg0NU1aTlEyQUJyRUt5YXBHbkdmbUdXSzI5VTg5MzdNUW12TTI2S1VWenNlMEVYY2lkaDFwU1VLODZPYVQxV19pSzNGam9SR2J0Q1ZwV3Bqb0RUaTlyOWJGaXQwazRBUHI1bU1DY0NC?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 08:33 PT · #tech #ai
@@ -408,9 +411,3 @@ tags: ["project", "ai"]
 - [Home Office asylum AI flunks one in five accuracy checks](https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649) — www.theregister.com - Articles · 00:31 PT · #tech #ai
 - [Character.ai has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/) — Hacker News · 00:28 PT · #tech #ai
 - [A poisoned AI model can pass every unit test, security scan, and validation check. That's why standard AppSec misses data poisoning.](https://www.reddit.com/r/cybersecurity/comments/1x4q810/a_poisoned_ai_model_can_pass_every_unit_test/) — cybersecurity · 00:25 PT · #tech #ai
-- [Large Language Model (LLM) Market to Reach USD 148.8 Billion - openPR.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2pLQWdDS25ZOUdLOEF1ZVJpcW1DVGlvd0tPcVNtakp3eWtYVE5RM1pfbmtuYTVEbzNOOF9uV2cxQy1HVXR1TU81N0FuSWt5WGZRbEFzWU1hOERkRzhOTHE4Mno2MXFOeFZCUG1hWEREMXVwczZGMHpKa3RURFRBY1M0RDV4aEloTVBuNnhVNl91WUtGaklmemNB?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 00:05 PT · #tech #ai
-
-## 2026-10-12
-
-- [GotEmail](https://www.producthunt.com/products/gotemail) — Product Hunt — The best new products, every day · 23:49 PT · #tech #ai
-- [MaxLinear Accelerates AI-Powered Broadband with Topaz™ and Intelligent Network Innovations at Network X 2026](http://www.businesswire.com/news/home/20261012415971/en/MaxLinear-Accelerates-AI-Powered-Broadband-with-Topaz%E2%84%A2-and-Intelligent-Network-Innovations-at-Network-X-2026/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 23:35 PT · #business #ai

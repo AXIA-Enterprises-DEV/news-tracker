@@ -1,16 +1,17 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T15:19:57-07:00
-count: 223
+updated: 2026-10-13T15:23:46-07:00
+count: 224
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-223 most recent items (14-day window).
+224 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [City may 'pause' November First Friday event after deadly shooting, mayor says](https://www.ktnv.com/news/city-may-pause-november-first-friday-event-after-deadly-shooting-mayor-says) — KTNV Las Vegas · 15:14 PT · #us #nevada
 - [Battle lines shift in House races as Republicans retreat from front-line districts](https://lasvegassun.com/news/2026/oct/13/battle-lines-shift-in-house-races-as-republicans-r/) — Las Vegas Sun · 15:07 PT · #us #nevada
 - [Las Vegas man gets 35 years in prison for sexual exploitation of children](https://www.reviewjournal.com/crime/courts/las-vegas-man-gets-35-years-in-prison-for-sexual-exploitation-of-children-3899624/) — Las Vegas Review-Journal · 15:06 PT · #us #nevada
 - [Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen](https://lasvegassun.com/news/2026/oct/13/greta-gerwig-debuts-first-look-at-an-epic-full-hea/) — Las Vegas Sun · 14:29 PT · #us #nevada

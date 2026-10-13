@@ -1,6 +1,6 @@
 ---
 title: "Sources"
-updated: 2026-10-13T15:19:57-07:00
+updated: 2026-10-13T15:23:46-07:00
 count: 195
 tags: ["sources"]
 ---
@@ -14,7 +14,7 @@ tags: ["sources"]
 | 9to5Mac | tech | 113 | ok | Oct 13 14:29 PT |
 | Accidental Tech Podcast | tech | 2 | ok | Oct 08 11:50 PT |
 | Afford Anything® | markets | 4 | ok | Oct 12 15:05 PT |
-| Al Jazeera | world | 51 | ok | Oct 13 14:25 PT |
+| Al Jazeera | world | 52 | ok | Oct 13 14:59 PT |
 | All News | business | 40 | ok | Oct 13 15:08 PT |
 | AppleInsider | tech | 55 | ok | Oct 13 15:14 PT |
 | Ars Technica | tech | 25 | ok | Oct 13 14:55 PT |
@@ -76,7 +76,7 @@ tags: ["sources"]
 | Gastropod | science | 1 | ok | Oct 06 16:32 PT |
 | Gizmodo |  | 20 | down | Oct 13 10:20 PT |
 | Golf.com | sports | 12 | ok | Oct 13 13:37 PT |
-| Google News: "State Department" Rubio OR sanctions | world | 50 | ok | Oct 13 14:27 PT |
+| Google News: "State Department" Rubio OR sanctions | world | 51 | ok | Oct 13 15:12 PT |
 | Google News: "Supreme Court" ruling | politics | 186 | ok | Oct 13 15:14 PT |
 | Google News: BRICS | world | 104 | ok | Oct 13 12:04 PT |
 | Google News: FOMC OR "Federal Reserve" rates | markets | 53 | ok | Oct 13 14:05 PT |
@@ -84,16 +84,16 @@ tags: ["sources"]
 | Google News: Las Vegas cannabis OR dispensary Nevada | business | 6 | ok | Oct 13 08:52 PT |
 | Google News: Las Vegas real estate | business | 67 | ok | Oct 13 14:42 PT |
 | Google News: Mac Studio OR "M5" Apple silicon AI | tech | 24 | ok | Oct 13 14:13 PT |
-| Google News: Nevada Supreme Court OR "Nevada law" | politics | 34 | ok | Oct 13 12:18 PT |
+| Google News: Nevada Supreme Court OR "Nevada law" | politics | 36 | ok | Oct 13 15:05 PT |
 | Google News: Nevada ballot question | politics | 23 | ok | Oct 13 14:00 PT |
 | Google News: Nevada legislature | politics | 20 | ok | Oct 13 12:18 PT |
 | Google News: OPEC crude oil | markets | 121 | ok | Oct 13 14:33 PT |
-| Google News: PGA Tour OR LIV Golf | sports | 160 | ok | Oct 13 14:51 PT |
+| Google News: PGA Tour OR LIV Golf | sports | 161 | ok | Oct 13 14:51 PT |
 | Google News: Strait of Hormuz OR tanker OR "oil pipeline" route | markets | 76 | ok | Oct 13 14:34 PT |
-| Google News: federal workforce OR federal employees OPM | politics | 13 | ok | Oct 13 11:55 PT |
+| Google News: federal workforce OR federal employees OPM | politics | 14 | ok | Oct 13 15:17 PT |
 | Google News: government transparency FOIA | politics | 19 | ok | Oct 13 11:54 PT |
 | Google News: local LLM OR llama.cpp OR Ollama OR MLX | tech | 54 | ok | Oct 13 13:14 PT |
-| Google News: political violence | politics | 64 | ok | Oct 13 14:46 PT |
+| Google News: political violence | politics | 65 | ok | Oct 13 14:46 PT |
 | Google News: propaganda OR disinformation media | world | 60 | ok | Oct 13 13:59 PT |
 | Google News: small business owners | business | 155 | ok | Oct 13 15:06 PT |
 | Google News: unusual options activity | markets | 39 | ok | Oct 13 14:00 PT |
@@ -111,14 +111,14 @@ tags: ["sources"]
 | Inc.com | tech | 55 | ok | Oct 13 14:54 PT |
 | Investing.com Economic Indicators | markets | 10 | ok | Oct 13 07:07 PT |
 | Investing.com Stock Market | markets | 54 | ok | Oct 13 15:01 PT |
-| KTNV Las Vegas | us | 31 | ok | Oct 13 11:54 PT |
+| KTNV Las Vegas | us | 32 | ok | Oct 13 15:14 PT |
 | Las Vegas Review-Journal | us | 38 | ok | Oct 13 15:06 PT |
 | Las Vegas Sun | us | 25 | ok | Oct 13 15:07 PT |
 | Latest Science News -- ScienceDaily | science | 60 | ok | Oct 13 04:27 PT |
 | Latest news | tech | 25 | ok | Oct 13 10:30 PT |
-| Linus Tech Tips | tech | 8 | ok | Oct 12 10:25 PT |
+| Linus Tech Tips | tech | 8 | down | Oct 12 10:25 PT |
 | MJBizDaily | business | 28 | ok | Oct 13 15:15 PT |
-| MacRumors | tech | 31 | ok | Oct 13 15:11 PT |
+| MacRumors | tech | 32 | ok | Oct 13 15:22 PT |
 | Making Sense Of Cents | markets | 2 | ok | Oct 12 04:15 PT |
 | Marie Forleo | tech | 4 | down | Oct 13 12:01 PT |
 | Marijuana Moment | business | 11 | ok | Oct 13 14:40 PT |
@@ -130,7 +130,7 @@ tags: ["sources"]
 | Money Saving Mom® | markets | 89 | ok | Oct 13 14:02 PT |
 | Money Under 30 | markets | 10 | ok | Oct 13 09:41 PT |
 | MyWifeQuitHerJob.com | markets | 8 | ok | Oct 12 13:22 PT |
-| NASA | science | 17 | down | Oct 13 13:41 PT |
+| NASA | science | 17 | ok | Oct 13 13:41 PT |
 | NPR Business | business | 11 | ok | Oct 13 03:30 PT |
 | NPR Politics | politics | 14 | ok | Oct 13 13:03 PT |
 | NY Fed Liberty Street Economics | markets | 7 | ok | Oct 09 04:00 PT |
@@ -155,7 +155,7 @@ tags: ["sources"]
 | PR Newswire Joint Ventures | business | 17 | ok | Oct 13 06:23 PT |
 | PR Newswire M&A | business | 118 | ok | Oct 13 15:14 PT |
 | Personal Finance |  | 26 | down | Oct 13 10:53 PT |
-| Phys.org - latest science and technology news stories | science | 62 | ok | Oct 13 15:00 PT |
+| Phys.org - latest science and technology news stories | science | 64 | ok | Oct 13 15:20 PT |
 | Planet Money | business | 4 | ok | Oct 09 14:07 PT |
 | Playbook | us | 14 | ok | Oct 13 03:07 PT |
 | Popular Science | science | 76 | ok | Oct 13 14:02 PT |
@@ -170,7 +170,7 @@ tags: ["sources"]
 | SBA News | business | 1 | ok | Oct 07 09:28 PT |
 | SCOTUSblog | politics | 25 | ok | Oct 13 07:53 PT |
 | SEC EDGAR 8-K | filings | 207 | ok | Oct 13 14:30 PT |
-| SEC EDGAR All Filings | filings | 707 | ok | Oct 13 15:15 PT |
+| SEC EDGAR All Filings | filings | 708 | ok | Oct 13 15:19 PT |
 | SEC Press Releases | politics | 9 | ok | Oct 09 07:59 PT |
 | START (UMD) Terrorism Research | politics | 2 | ok | Oct 02 06:22 PT |
 | Sawbones: A Marital Tour of Misguided Medicine | science | 2 | ok | Oct 13 09:00 PT |
@@ -193,7 +193,7 @@ tags: ["sources"]
 | The Startup Junkies Podcast | tech | 2 | ok | Oct 13 10:11 PT |
 | The Verge | tech | 36 | down | Oct 13 15:10 PT |
 | This Week in Tech (Audio) | tech | 2 | ok | Oct 11 21:00 PT |
-| Top stories - Google News | world | 144 | ok | Oct 13 14:42 PT |
+| Top stories - Google News | world | 147 | ok | Oct 13 14:42 PT |
 | US Courts Judiciary News | politics | 1 | ok | Oct 01 05:00 PT |
 | Unbox Therapy | tech | 2 | down | Oct 08 10:36 PT |
 | WIRED | tech | 52 | ok | Oct 13 15:08 PT |

@@ -1,13 +1,13 @@
 ---
 title: "Project: Golf"
-updated: 2026-10-13T15:19:57-07:00
-count: 189
+updated: 2026-10-13T15:23:46-07:00
+count: 190
 tags: ["project", "golf"]
 ---
 
 # Project: Golf
 
-189 most recent items (14-day window). Atom feed: [golf.xml](../feeds/golf.xml)
+190 most recent items (14-day window). Atom feed: [golf.xml](../feeds/golf.xml)
 
 ## 2026-10-13
 
@@ -65,6 +65,7 @@ tags: ["project", "golf"]
 - [Weekly Fantasy Golf Recap: Brennan Brings Home Another Win - RotoWire](https://news.google.com/rss/articles/CBMif0FVX3lxTE1lRnlTc1Bna0lZbG54V2dRZGV2RkV3SnpEOWhyV3g0VERTVzBNYUpMTDVaQ3VnUnp1ODluUjBOMk9fdUxxd1d5cWRCd3ZSYU9BakVGaHZGb09jZWZuQktLN3RoejdRa2NnM1NFZm4yNVBydy1rLUQtN1ZRMjJEcU0?oc=5) — Google News: PGA Tour OR LIV Golf · 10:03 PT · #sports #golf
 - [Son of PGA Tour pro earns trip to Augusta National for Drive, Chip and Putt - Yahoo Sports](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OZ3pEQUIweUlCQ2lWX3ZtTUdsbFN2a0hMOFg4ZEVnUm5mdU02bEduMUhjN2ZObFp6ZXFQbTg2VTNIdTl3Uk41bTVlNmZ6eTVnWkFOR3h3MmxJazBiX25MamlqSG95cjNBcWdaYVNhYVpKQnZ6Qlg2OVNtYw?oc=5) — Google News: PGA Tour OR LIV Golf · 10:00 PT · #sports #golf
 - [Rory McIlroy confirms whether he would vote to welcome LIV players back to the PGA Tour and the DP World Tour - HITC](https://news.google.com/rss/articles/CBMiywFBVV95cUxOaUhJNDFWMG9JV0Rtc1pjMzNETnNrUTlBckpvU3FRT3owWUVHLU5kVVc3Vm9OemZNNXMwelV5SWUzLWE4NklMZHZjWlU1VFdYcGY3b2JkaUl4aXNXcko4Ump1a19mcERSYmRIUzI0N3dnc2pCUU0tTm5obk9JYUxTV3pWdGZaQU5Eb0FydjE4NElwSHA3X3lJaHBxNmUxalEwNUZ6U29rb3l1OEZrdlRWeVhEdHEtc0dYQ25qdkpWLXJHWm9ScVkwb1BFZw?oc=5) — Google News: PGA Tour OR LIV Golf · 10:00 PT · #sports #golf
+- [Son of PGA Tour pro earns trip to Augusta National for Drive, Chip and Putt - Golfweek](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnFEY2diNHRyb2lVWl9MWEZ5RDNoNVVndHV6ZXVDUzFHeWQzbUVvc1RiYzR5ekdoZUtRanJnaTI4dUp3ODk0Q0w5TG5JNzhpelFZblEzZW4xUk1qWWk0amY5MmtIQTBsQTlHQkMtTXhOVnpaLVlSR0d0WkdnSnJEOEltM0pGTTdXYkxoRFZlYlc0UVZKUDg0X2tReklsN3ZtVGY5c2M3YnB2Y1J0aVFOeGt6bjlDUHFnd25RcEpOOGJjX2EwUU5zMjBhd1drNDBPYkR4bmhFNlVlZw?oc=5) — Google News: PGA Tour OR LIV Golf · 10:00 PT · #sports #golf
 - [Rory McIlroy says 'yes' to bringing some LIV Golf players back to the PGA Tour - Golfweek](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXJQN3NzejRtaXk3bGhIS1JUWlhraDZEMk5KQS1lUHdHcC1ick0taVF0cmdpZ0N5SFlhT2Z2TV83ZG1NSmJFZjB4amRadS1rQmI4WVctUUk5WHdFc1U3Q2t0WGpPX2s4dGppSTdJWVpxYXJBQXpjUFY4VWRLcVpyVm5xdW5wY05RRlZvNEFjQnRjWU5UbkpZMzM0UmdUSmloM21wV0w1UVVBSWRBa1k0QWUwbUZSZjlFbVdtTE1CRXpqbC1tWHJjNVoxd2RJcklCVU9lUUFn?oc=5) — Google News: PGA Tour OR LIV Golf · 09:48 PT · #sports #golf
 - [After Ryder Cup eligibility changes, Justin Rose sees 'different' team ahead](https://golf.com/news/justin-rose-ryder-cup-eligibility-tweaks/) — Golf.com · 09:32 PT · #sports #golf
 - [Jon Rahm set to make post-LIV return to pro golf - Yahoo Sports](https://news.google.com/rss/articles/CBMiekFVX3lxTE43YUlUbUxzUWFqNjNOYzRrTnI1UHpGb1d0T210WUdQamp3N1FtYVQwUFd0LW5rSHFQT0RETGItU1lBRjhTVWdYb2RUY0RzckswdnZ4b3lvMURiMUpESm9VdkJTeWxYQXBnakxKX2RkNm9KaTFaWlZkMVRB?oc=5) — Google News: PGA Tour OR LIV Golf · 09:28 PT · #sports #golf

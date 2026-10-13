@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-13T15:19:57-07:00
+updated: 2026-10-13T15:23:46-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,7 @@ tags: ["project", "markets"]
 
 ## 2026-10-13
 
+- [144 - Arora Nikesh (0001468233) (Reporting)](https://www.sec.gov/Archives/edgar/data/1468233/000119312526420726/0001193125-26-420726-index.htm) — SEC EDGAR All Filings · 15:19 PT · #filings #markets
 - [4 - Ropa Bethany Logan (0002157573) (Reporting)](https://www.sec.gov/Archives/edgar/data/2157573/000162828026065778/0001628280-26-065778-index.htm) — SEC EDGAR All Filings · 15:15 PT · #filings #markets
 - [4 - Puri Lovesh Kumar (0002131694) (Reporting)](https://www.sec.gov/Archives/edgar/data/2131694/000110465926115594/0001104659-26-115594-index.htm) — SEC EDGAR All Filings · 15:15 PT · #filings #markets
 - [4 - Bradley Melinda Hodges (0002141919) (Reporting)](https://www.sec.gov/Archives/edgar/data/2141919/000153658826000040/0001536588-26-000040-index.htm) — SEC EDGAR All Filings · 15:14 PT · #filings #markets
@@ -410,4 +411,3 @@ tags: ["project", "markets"]
 - [8-K/A - Marwynn Holdings, Inc. (0002030522) (Filer)](https://www.sec.gov/Archives/edgar/data/2030522/000121390026109042/0001213900-26-109042-index.htm) — SEC EDGAR 8-K · 13:35 PT · #filings #markets
 - [4 - Stoe George P (0001296351) (Reporting)](https://www.sec.gov/Archives/edgar/data/1296351/000119312526420511/0001193125-26-420511-index.htm) — SEC EDGAR All Filings · 13:35 PT · #filings #markets
 - [13F-HR - Downshift Financial, LLC (0002118380) (Filer)](https://www.sec.gov/Archives/edgar/data/2118380/000211838026000005/0002118380-26-000005-index.htm) — SEC EDGAR All Filings · 13:35 PT · #filings #markets
-- [13F-HR - MONTRUSCO BOLTON INVESTMENTS INC. (0001475940) (Filer)](https://www.sec.gov/Archives/edgar/data/1475940/000147594026000009/0001475940-26-000009-index.htm) — SEC EDGAR All Filings · 13:35 PT · #filings #markets

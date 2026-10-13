@@ -1,6 +1,6 @@
 ---
 title: "Project: Foreign Policy / Defense"
-updated: 2026-10-13T15:19:57-07:00
+updated: 2026-10-13T15:23:46-07:00
 count: 400
 tags: ["project", "foreign"]
 ---
@@ -11,6 +11,7 @@ tags: ["project", "foreign"]
 
 ## 2026-10-13
 
+- [US top diplomat Marco Rubio to visit India and Uzbekistan this month - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1h6MGx1YnQyUm5SaUhtOXhPeFhpMkl0U0R2QVh3b0NBUGhiaEdDNVpNVUlNbGN0bUR4el9jSHBNQnQ2V1NOTFQ3RWlnMFd4Q2xMOERxMWxmNUgwZ05VNk8yY0lDUmR1QkhlMWhvcV9HN0taeV81RFpyZkoycGRsM3hPSnJiQkFta0h6UnBKNDlWTlJJOUtRckRtQ2FiZ0s2czlVSl9qNEZBUHBUUFE?oc=5) — Google News: "State Department" Rubio OR sanctions · 15:12 PT · #world #foreign
 - ['I'd talk to the TV': The paid companions bringing warmth to China's lonely](https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss) — BBC World · 15:02 PT · #world #foreign
 - [Why the lonely in China are hiring 'temporary children'](https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss) — BBC World · 15:00 PT · #world #foreign
 - [Stranded Middle East LNG Supply Upends Gas Markets](https://oilprice.com/Energy/Natural-Gas/Stranded-Middle-East-LNG-Supply-Upends-Gas-Markets.html) — OilPrice.com · 15:00 PT · #markets #foreign #oil
@@ -22,6 +23,7 @@ tags: ["project", "foreign"]
 - [Russia stocks higher at close of trade; MOEX Russia Index up 1.07%](https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-107-4947588) — Investing.com Stock Market · 14:20 PT · #markets #foreign
 - [Supreme Court won’t hear bid to overturn sanctions against Kari Lake’s lawyers - Arizona Mirror](https://news.google.com/rss/articles/CBMirgFBVV95cUxNckx6blotcHdHcWRfWklLSk9xcHl6eWg3c2ZmeWM4LWY1MEJZMEplN3NkRzFTNXZyYXFKQTI1dFJYZVdkRHpNX25CcElxeWFSOUdHZDZWMFduMnFkblVrNVl5anJBa1habzFLVGpqQlFkSlM0N0lSTjV0U19GR001ck1DNnZkLVBHVW16SUFENFRzcGZ0Z185QnlSZ2kyak5QVjZXRXU5V25FQUltV0E?oc=5) — Google News: "Supreme Court" ruling · 14:17 PT · #politics #civic #foreign
 - [Anduril awarded contract to expand US Army’s next-gen battlefield command system](https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/) — Defense News · 14:15 PT · #world #foreign
+- [Trump debates calling off livestream of firing squad execution after learning Fort Hood shooter was paralyzed - CNN](https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWQzWUFBVFdmU1BaazhTdkY0aGtWdnZkOU4tUWFacmVqX25ScW1HUG93UzBOME90YUNreEtoUzdmdU9sTF9Bb0VqZFhwT2ZwMkd6T0tmdjEzRGhfWHlKdjMxQ0JJV0JrLXBCeVI0cC1zVjNkbHNRR0RUYTdFTVlNUnpYLWZXTlJBZUFGcA?oc=5) — Top stories - Google News · 14:08 PT · #world #foreign
 - [Food shortages in Yemen’s Taiz as Houthi siege hits supplies](https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss) — Al Jazeera · 14:04 PT · #world #foreign
 - [Aramco HQ hit in Houthi attack as fire extinguished in Dhahran - Bloomberg](https://www.investing.com/news/stock-market-news/aramco-hq-hit-in-houthi-attack-as-fire-extinguished-in-dhahran--bloomberg-4947574) — Investing.com Stock Market · 14:02 PT · #markets #foreign
 - [Nevada's election challenge: Secretary of state candidates | Hickey - Reno Gazette Journal](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0V6M2E5SjdSQzlhMDJBY3k3WG01YkhLMnlZOGZCOFdqVjN1S2E3YlN1X0prdWU0c0Q5a1V2WHRKVk0zOFZrWkQySk1laTdUenprS3M4dzNUMVZjR1hqd0gteFd3OEt1UW91M0djd1FmbmtNVS0xeml5Ti1zWUNvS09RWVQzRV8xcWYyUzlsZVRoOTJIc0N6el9BX0FvY1hHMy1Sb3g4ZXFka211X3R5QjN6V2xxa0ZTYXpkakNZejRlMDQyWnh0aVdJNUE?oc=5) — Google News: Nevada ballot question · 14:00 PT · #politics #civic #foreign #nevada
@@ -412,5 +414,3 @@ tags: ["project", "foreign"]
 - [UCT joins BRICS partners to amplify health sovereignty - UCT News](https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXVDZVJhUG1oS0twLW9ib0c5RGVPekh4R29oY1d0QU14THdjT1BQN2gxcHI0Mm1CcC1feWRZLUEwNF9rTlVFQ3ctTDFMcElsVi1LVUI3em4zMWR0dWd4RThTV1ZPWEZaeUVFeVR0STVJR0tmMm1zcnpLeThRc1MwNjRDZFlCSWtVcXZPR3VnZXpYeXdWamU2VXg5Vkh6Tm9lTDBv?oc=5) — Google News: BRICS · 07:20 PT · #world #foreign
 - [Zelenskyy Risks Split with Trump](https://www.rigzone.com/news/wire/zelenskyy_risks_split_with_trump-12-oct-2026-184825-article/?rss=true) — Rigzone · 07:15 PT · #markets #foreign #oil
 - [International sailing regatta series in UAE brings together athletes from six countries - TV BRICS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVSTENrNGswTzdkUGVTLVp5MFJ0V0FmUzYyaGh5VjBGRFNxVnRlNDhaclZYYzJSUkNRT092TmlONHE3U3BMb3RzX091SmdOS0NHUEQ5a3RHLTVlSTZENk84ZEpIS3lZNjRlSklVOENnWmhlWFlEV0RuT2QxcEd0RUN6LTR5VmtqUXBPLTU1emNHNlBvc2pjTzhDM1prTVFJTlkxa2s5T0pNWV9NcTNRbjRGb0g2cUE?oc=5) — Google News: BRICS · 07:07 PT · #world #foreign
-- [Ghana’s Banking Shake-Up & BRICS Gamble: What It Means for Your Money and the Economy - Modern Ghana](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTZjkwb1B2SVRaVWxMN0YzWk50OVdZdm8zLUlVT1lHeHdWcXpOaWNkR1A5SnFBYlFOWjFmTGNldlBqTmM5LVd5aFJBdkttX2k1MnNPNUQ1SkNFcGJZ0gFcQVVfeXFMUFNmOTBvUHZJVFpVbEw3RjNaTnQ5V1l2bzMtSVVPWUd4d1Zxek5pY2RHUDlKcUFiUU5aMWZMY2V2UGpOYzktV3loUkF2S21faTUyc081RDVKQ0VwYlk?oc=5) — Google News: BRICS · 07:02 PT · #world #foreign
-- [Skies Over Saudi Capital Empty After Deadly Houthi Airport Strikes](https://www.huffpost.com/entry/riyadh-attack-houthis-saudi-arabia_n_6acce4dce4b0ec20eb6b45c5) — World News - Breaking News, Top Stories · 06:51 PT · #us #foreign

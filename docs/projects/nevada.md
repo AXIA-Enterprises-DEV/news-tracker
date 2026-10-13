@@ -1,18 +1,20 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-13T15:19:57-07:00
-count: 263
+updated: 2026-10-13T15:23:46-07:00
+count: 266
 tags: ["project", "nevada"]
 ---
 
 # Project: Nevada / Las Vegas
 
-263 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
+266 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
 
 ## 2026-10-13
 
+- [City may 'pause' November First Friday event after deadly shooting, mayor says](https://www.ktnv.com/news/city-may-pause-november-first-friday-event-after-deadly-shooting-mayor-says) — KTNV Las Vegas · 15:14 PT · #us #nevada
 - [Battle lines shift in House races as Republicans retreat from front-line districts](https://lasvegassun.com/news/2026/oct/13/battle-lines-shift-in-house-races-as-republicans-r/) — Las Vegas Sun · 15:07 PT · #us #nevada
 - [Las Vegas man gets 35 years in prison for sexual exploitation of children](https://www.reviewjournal.com/crime/courts/las-vegas-man-gets-35-years-in-prison-for-sexual-exploitation-of-children-3899624/) — Las Vegas Review-Journal · 15:06 PT · #us #nevada
+- [Nevada scientist among those logging ‘lost’ species as fewer endangered species are listed - Toronto Star](https://news.google.com/rss/articles/CBMilgJBVV95cUxPUC1mS2g0TkZOUGJaYU1tRmZFbWloYUZzN0Y0WkdDUkhiWUZjaExyanVjdGlJS1dmQ1hKb2FLd19nMWtQS2Q2NE9OMXFKUjc5Ykp1TWhXT2JjVklXUFJBZnl0aDhkc2FRT2Q3Q1gwbkJYczBvUld0NUozV0cwZ2F5azJUUGs0aG1NUTh5UWVzZDRmaEpvUVRmZEtwUDJLSE9PZHptcFdOUExzbUQ5RWZyVzlPMklmcVQ0UGtvU0hmTFlrR2F4ek9ZVlJkNVJBZlhxRWlKc1R1WVdWVnRtTFcyV3JkTk50Y3ZMSERWbGx6NERtQWx5ZjJpT3JyVnhvcnRiSVJEdS1oQlZ2ZzFvZlVNcDA1czg3dw?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 15:05 PT · #politics #nevada
 - [Delegation from UAE’s Ras Al Khaimah visit Las Vegas, other US hubs to explore tourism opportunities ahead of Wynn IR opening - IAG – Inside Asian Gaming](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM193bVBQeGxQZF9zdHUzTXpSMXBpSDJaS3BVeU1hRUVXcU5RVTFDek9GRXMyTTFWcnBvREpCN3B6RkM1QUtNcFlWcUE5dkRyU0xYVW44bFdncmRCTEpxbjZHZlkycGpIRzJ5OWc5NnpqV0F0Q19KNlpSXzQtb1pYamgzX1FDWVpOTXI1ZkI1N0pCV2dPa3o2Ujc4Y1prWFBucU5fc3FwSGZ1MzRjUEhvd3dzOXhhWDk0VnQxc0NjQVgzOTFTMUo5Zm9MY25QZXRabkZZQ1IzTlQ0WmxPR2FtTjN2SkdSZnVU?oc=5) — Google News: Las Vegas real estate · 14:42 PT · #business #nevada #realestate
 - [Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen](https://lasvegassun.com/news/2026/oct/13/greta-gerwig-debuts-first-look-at-an-epic-full-hea/) — Las Vegas Sun · 14:29 PT · #us #nevada
 - [Supreme Court refuses to toss out fees for lawyers who sought hand count in Arizona election](https://lasvegassun.com/news/2026/oct/13/supreme-court-refuses-to-toss-out-fees-for-lawyers/) — Las Vegas Sun · 14:14 PT · #us #civic #nevada
@@ -54,6 +56,7 @@ tags: ["project", "nevada"]
 - [Trump takes suit against Hillary Clinton over 2016 election to Supreme Court - Missouri Lawyers Media](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXhHeHN1MU1jbFdPbkt2TGRkVW1vZ2J1SVNWSFgwaXotZTNNOEJLOTV1TzhEWXhWeHMyUHBlSXo1OU9WZzdnMDc0ZExDRFdONGwxM0ktbXpGZmpRMlQwYVhIZXU3cHprT0J4a3J2Sjg0Y3ktbW05U0M1dHRfRzVMdkhpVlVUZDFWZ3lLZ3kyak1TMEFaYkE?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 09:17 PT · #politics #civic #nevada
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - The Press Democrat](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGNoWFEzeXZPTU94LXpkb0FudzRPNXpVSUh4TXpRc0FRcnh5TklpTkNGdW04VkdpckI2a0M3VGhiQS1Fb0NwODFyVDR5UjZuWkV0aFQ1Wmc4WlZEQ1ZVcURHWDNoVjNmYmVCclI4NVZ6VVJreDBWdzFGUmMwb2lrVkNIWEg?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 08:53 PT · #politics #ai #nevada
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - Sun Sentinel](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjhEZFU4d2NNcGZMRTI3WC1pR3hqbnRTaFVfT0N0YWJ4UlhyX05ZMEU1M2tubDl2ZFNHMG9SS3lIeC1iX2xDdkRuUmhraGpnVUVpMVZ4MHJKOC1TVy1HVHVaTG84cy1CMzFBR3RJUUt4c1dFRXJVSmlhaHowZmFOY2s4TQ?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 08:52 PT · #politics #ai #nevada
+- [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - Orlando Sentinel](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZEJTUnNiMmJORHFNVDlma1R5aTZlNEY1ZEtPVHJMXzJZNUJYZDFDRzN2T0FELWpIeGdjd0J6N3JVd2FHUUVLc0x2NDhpS0cwMllOc2c4T0RhLUpmYlRCaWl1VVhIWW5FZWMtNWZuVS10ZjR3cC1UdDVRRTN3QldSYURQbk93YTg?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 08:52 PT · #politics #ai #nevada
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - The Standard-Speaker](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVS12TGY3a2NkUVBqbFM4S29PSVJMbVJGQXVtTTBVZmtGUTQtZmZoZ2J0VmVMLS1PY1M5TWVCTENtZHpVZEhzenlmYjhBbFpsUzFwcllqSEo3OE1BRnlMSXo4eERMNmtPdmRkb3YzOU5lbktsc1FSbjAwWllGdVpWcWhjMGdDZFk?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 08:52 PT · #politics #ai #nevada
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - Times-Standard](https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUJ2VmZtSkNVVkZwMjUxOFJiVnl6WjlsNmE5ZWdEZkVvZW5DZWJHb042R1A0bU1mbWZGWTZIc0VwRTVubkF4Ymxkdm9kWno2UEJNTTlTdllWUURqZ3JIVWpqNE5wak50M01DMzhHS0RwclZNYkh3eGlUaGNfVTBIbUxYWHJmZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:52 PT · #business #ai #cannabis #nevada
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - Boston Herald](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVRtblNMdXh0U1F5T1FrMVQ1SUVTbDJZTU5OVHlEYkV2cndkQWxZV2w5dF91dmROdzQ1MjlzNl9KQlJzOTB2N2s4WmhraWZxajNFTHRUajNiTXlsaG1fNERQZWtiS1VhYnlkMGdiaGtmcWJsaFdZVm5iZy13NXhJYWtiVQ?oc=5) — Google News: Nevada ballot question · 08:52 PT · #politics #ai #civic #nevada

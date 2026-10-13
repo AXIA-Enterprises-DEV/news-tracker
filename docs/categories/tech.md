@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T15:19:57-07:00
+updated: 2026-10-13T15:23:46-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,6 +11,7 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [Welcome Home: Everything Apple Announced on October 13](https://www.macrumors.com/2026/10/13/apple-october-13-recap/) — MacRumors · 15:22 PT · #tech #ai
 - [Apple will get some OpenAI documents, but not everything it asked for in court](https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss) — AppleInsider · 15:14 PT · #tech #ai
 - [Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2](https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/) — MacRumors · 15:11 PT · #tech #ai
 - [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction) — The Verge · 15:10 PT · #tech
@@ -410,4 +411,3 @@ tags: ["category", "tech"]
 - [European datacenter boom threatens higher energy bills unless governments intervene](https://www.theregister.com/on-prem/2026/10/13/european-datacenter-boom-threatens-higher-energy-bills-unless-governments-intervene/5302583) — www.theregister.com - Articles · 03:30 PT · #tech
 - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) — Hacker News 200+ · 03:27 PT · #tech
 - [Toronto LLM Visibility Agency Online Visibility Collective Reports 16-Fold Rise in Client AI Recommendations - openPR.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNam5wNzRQMVpRRTd1WW9sYkZEN0Q1WThlN0lNd255QlE5TDdtc1pCUldacXZUUEZnS1RSRGwwbXY1c0RyYW9qUEFna1hCYTF5eFlBOVFFaFhkaElQNnpqbkJQRnBla0NHVUtORkN6bjFFRkVXX3Y1YVJEVXhMSE5MS3UtX3hmU3NSb2U4UUl0Zld0eWJrSllWSzZn?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 03:24 PT · #tech #ai
-- [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) — Hacker News · 03:08 PT · #tech #ai
