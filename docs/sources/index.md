@@ -1,13 +1,13 @@
 ---
 title: "Sources"
-updated: 2026-10-13T13:32:55-07:00
+updated: 2026-10-13T13:37:28-07:00
 count: 195
 tags: ["sources"]
 ---
 
 # Sources
 
-190/197 feeds OK at last sync.
+192/197 feeds OK at last sync.
 
 | Source | Category | Items | Status | Latest |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ tags: ["sources"]
 | Bloomberg Originals | business | 11 | ok | Oct 12 01:00 PT |
 | Breaking Defense | world | 19 | ok | Oct 13 13:23 PT |
 | Business Insider | business | 16 | ok | Oct 13 11:59 PT |
-| Business Wire | business | 111 | ok | Oct 13 13:16 PT |
+| Business Wire | business | 117 | ok | Oct 13 13:33 PT |
 | CBO Publications | politics | 30 | ok | Oct 13 08:59 PT |
 | CFTC Press Releases | markets | 5 | ok | Oct 09 13:00 PT |
 | CNBC Finance | markets | 29 | ok | Oct 12 19:58 PT |
@@ -88,14 +88,14 @@ tags: ["sources"]
 | Google News: Nevada ballot question | politics | 21 | ok | Oct 13 10:05 PT |
 | Google News: Nevada legislature | politics | 19 | ok | Oct 13 12:18 PT |
 | Google News: OPEC crude oil | markets | 116 | ok | Oct 13 13:02 PT |
-| Google News: PGA Tour OR LIV Golf | sports | 144 | ok | Oct 13 13:19 PT |
+| Google News: PGA Tour OR LIV Golf | sports | 147 | ok | Oct 13 13:19 PT |
 | Google News: Strait of Hormuz OR tanker OR "oil pipeline" route | markets | 74 | ok | Oct 13 12:34 PT |
 | Google News: federal workforce OR federal employees OPM | politics | 12 | ok | Oct 13 11:55 PT |
 | Google News: government transparency FOIA | politics | 15 | ok | Oct 13 11:54 PT |
 | Google News: local LLM OR llama.cpp OR Ollama OR MLX | tech | 52 | ok | Oct 13 12:39 PT |
 | Google News: political violence | politics | 59 | ok | Oct 13 11:51 PT |
-| Google News: propaganda OR disinformation media | world | 57 | ok | Oct 13 10:48 PT |
-| Google News: small business owners | business | 136 | ok | Oct 13 13:00 PT |
+| Google News: propaganda OR disinformation media | world | 58 | ok | Oct 13 10:48 PT |
+| Google News: small business owners | business | 137 | ok | Oct 13 13:00 PT |
 | Google News: unusual options activity | markets | 38 | ok | Oct 13 12:45 PT |
 | Government Executive | politics | 22 | ok | Oct 13 04:00 PT |
 | Guardian Business | business | 16 | ok | Oct 13 07:08 PT |
@@ -121,7 +121,7 @@ tags: ["sources"]
 | MacRumors | tech | 27 | ok | Oct 13 13:31 PT |
 | Making Sense Of Cents | markets | 2 | ok | Oct 12 04:15 PT |
 | Marie Forleo | tech | 4 | ok | Oct 13 12:01 PT |
-| Marijuana Moment | business | 10 | down | Oct 13 10:33 PT |
+| Marijuana Moment | business | 10 | ok | Oct 13 10:33 PT |
 | MarketWatch Top Stories | markets | 19 | ok | Oct 13 13:29 PT |
 | Marques Brownlee | tech | 3 | ok | Oct 08 14:00 PT |
 | Masters of Scale | tech | 5 | ok | Oct 13 02:00 PT |
@@ -149,11 +149,11 @@ tags: ["sources"]
 | OilPrice.com | markets | 18 | ok | Oct 13 13:00 PT |
 | OpenAI News | tech | 23 | ok | Oct 13 05:00 PT |
 | OpenSecrets News |  | 4 | down | Oct 12 09:10 PT |
-| PR Newswire Business Tech | tech | 9 | down | Oct 13 11:43 PT |
+| PR Newswire Business Tech | tech | 9 | ok | Oct 13 11:43 PT |
 | PR Newswire Contracts | business | 20 | ok | Oct 13 11:39 PT |
 | PR Newswire General Business | business | 18 | ok | Oct 13 13:05 PT |
 | PR Newswire Joint Ventures | business | 17 | ok | Oct 13 06:23 PT |
-| PR Newswire M&A | business | 76 | ok | Oct 13 13:30 PT |
+| PR Newswire M&A | business | 79 | ok | Oct 13 13:34 PT |
 | Personal Finance |  | 26 | down | Oct 13 10:53 PT |
 | Phys.org - latest science and technology news stories | science | 48 | ok | Oct 13 13:30 PT |
 | Planet Money | business | 4 | ok | Oct 09 14:07 PT |
@@ -169,18 +169,18 @@ tags: ["sources"]
 | Risky Business | tech | 1 | ok | Sep 29 15:50 PT |
 | SBA News | business | 1 | ok | Oct 07 09:28 PT |
 | SCOTUSblog | politics | 25 | ok | Oct 13 07:53 PT |
-| SEC EDGAR 8-K | filings | 158 | ok | Oct 13 13:31 PT |
-| SEC EDGAR All Filings | filings | 360 | ok | Oct 13 13:31 PT |
+| SEC EDGAR 8-K | filings | 166 | ok | Oct 13 13:35 PT |
+| SEC EDGAR All Filings | filings | 394 | ok | Oct 13 13:36 PT |
 | SEC Press Releases | politics | 9 | ok | Oct 09 07:59 PT |
 | START (UMD) Terrorism Research | politics | 2 | ok | Oct 02 06:22 PT |
 | Sawbones: A Marital Tour of Misguided Medicine | science | 2 | ok | Oct 13 09:00 PT |
 | Science Latest | science | 15 | ok | Oct 09 11:30 PT |
-| Seeking Alpha Market Currents | markets | 39 | ok | Oct 13 13:28 PT |
+| Seeking Alpha Market Currents | markets | 41 | ok | Oct 13 13:33 PT |
 | Shirtloads of Science | science | 1 | ok | Oct 03 16:00 PT |
 | Simon Willison (LLMs) | tech | 30 | ok | Oct 13 06:32 PT |
 | Small Business Trends | tech | 10 | ok | Oct 13 09:17 PT |
 | Space | The Guardian | science | 8 | ok | Oct 10 15:30 PT |
-| TechCrunch | tech | 27 | ok | Oct 13 13:13 PT |
+| TechCrunch | tech | 28 | ok | Oct 13 13:36 PT |
 | Technical Information Security Content & Discussion |  | 22 | down | Oct 13 07:40 PT |
 | The College Investor | markets | 5 | ok | Oct 13 10:15 PT |
 | The Duct Tape Marketing Podcast | business | 4 | ok | Oct 09 04:33 PT |
@@ -193,14 +193,14 @@ tags: ["sources"]
 | The Startup Junkies Podcast | tech | 2 | ok | Oct 13 10:11 PT |
 | The Verge | tech | 33 | ok | Oct 13 13:05 PT |
 | This Week in Tech (Audio) | tech | 2 | ok | Oct 11 21:00 PT |
-| Top stories - Google News | world | 105 | ok | Oct 13 12:38 PT |
+| Top stories - Google News | world | 106 | ok | Oct 13 12:38 PT |
 | US Courts Judiciary News | politics | 1 | ok | Oct 01 05:00 PT |
 | Unbox Therapy | tech | 2 | ok | Oct 08 10:36 PT |
 | WIRED | tech | 51 | ok | Oct 13 12:35 PT |
 | War on the Rocks | world | 26 | ok | Oct 13 11:00 PT |
 | World & Nation | us | 40 | ok | Oct 13 03:00 PT |
 | World News - Breaking News, Top Stories | us | 11 | ok | Oct 12 06:51 PT |
-| World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India | world | 27 | ok | Oct 13 13:05 PT |
+| World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India | world | 29 | ok | Oct 13 13:24 PT |
 | ZebPay | markets | 10 | ok | Oct 13 06:18 PT |
 | cybersecurity |  | 26 | down | Oct 13 10:55 PT |
 | cybersecurity | TechCrunch | tech | 6 | ok | Oct 09 06:40 PT |

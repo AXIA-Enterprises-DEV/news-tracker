@@ -1,6 +1,6 @@
 ---
 title: "Category: markets"
-updated: 2026-10-13T13:32:55-07:00
+updated: 2026-10-13T13:37:28-07:00
 count: 400
 tags: ["category", "markets"]
 ---
@@ -11,6 +11,8 @@ tags: ["category", "markets"]
 
 ## 2026-10-13
 
+- [Kaiser Aluminum declares $0.77 dividend](https://seekingalpha.com/news/4652688-kaiser-aluminum-declares-0_77-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:33 PT · #markets
+- [DuPont declares $0.60 dividend](https://seekingalpha.com/news/4652687-dupont-declares-0_60-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:32 PT · #markets
 - [Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name](https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html) — CNBC Top News · 13:30 PT · #markets
 - [UnitedHealth keeps medical costs under control — and raises its outlook again](https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:29 PT · #markets
 - [US to use Defense Production Act to expand Delek refinery in Texas, Vance says](https://seekingalpha.com/news/4652677-us-to-use-defense-production-act-to-expand-delek-refinery-in-texas-vance-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:28 PT · #markets #oil
@@ -409,5 +411,3 @@ tags: ["category", "markets"]
 - [October Is Beginning to Look a lot Like April for Oil](https://www.rigzone.com/news/october_is_beginning_to_look_a_lot_like_april_for_oil-13-oct-2026-184832-article/?rss=true) — Rigzone · 02:58 PT · #markets #oil
 - [AI won’t take Bitcoin from $2T to $10T. The money printer will.](https://www.reddit.com/r/Bitcoin/comments/1x4sguo/ai_wont_take_bitcoin_from_2t_to_10t_the_money/) — Bitcoin - The Currency of the Internet · 02:53 PT · #markets #ai
 - [US-Iran war - Iran, Oman reach understanding on temporary safe shipping route in Hormuz - Dunya News](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSEJ0ZFhYdU5nZXBTekhxM0c0NjVDODVreTY5VmdOYzhxQVJ5RXh5ZkNTUE1nQnp5Z3Ewejc3cmRfVVVFb0N0bjBQT014Q0RXcDJZNkh3?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 02:47 PT · #markets #foreign #oil
-- [OPEC+ Ministers Urge Enhanced Maritime Security as Freight Rates Surge - Egypt Oil & Gas](https://news.google.com/rss/articles/CBMiogFBVV95cUxOblBuS3dDaTdyZV9GMm1JNVFPZ2l6V2NQdFZmdERaSmZ5clRBQ0Rfd1A1RFRNVHhyZXgwRHFtdmhDdkwtVHg1QzVHSlBKUnRYdmhRanJKbHlMTDdZS2dXUG9vMVhnRGtXUWZ0Ymx2RlF0cWRnT0M1dkFsSC1iRmptOUx6bnlzT0VNWXBSWnlKSVU0NXRHeXYxODVTRVY2ZlJIQ3c?oc=5) — Google News: OPEC crude oil · 02:43 PT · #markets #oil
-- [Options Surge Could Be A Turning Point For NMI Holdings Stock (NMIH) - Simply Wall Street](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaTBHTkp0bk5Sd1p6ZEdyMThnNDdqZEZ3NXYyS3YzYU9KOGl1d2toOVZRTjdodlhQRDczUmhxTzBBbGlCdW5KNWZtRU94SUlLcWJMUTE5R2s3eHdrcnZLM19NT213cksxQndMOFpDUjVERElwQWJkRmFTY0k2LVdUZGw0ZVNDSndCMXFtZkt1NDRlS2dtQW5KWnlCOExQejR3dG85aEZ6X0dCWm9WSE1UU0h3SlZpb2JYRnljNWZoaF9Qa2pSUm5Ba1RkLVJwVnJLTzlERTRtUGRXOWQ1U1dmaUdkNNIB4wFBVV95cUxQaTBHTkp0bk5Sd1p6ZEdyMThnNDdqZEZ3NXYyS3YzYU9KOGl1d2toOVZRTjdodlhQRDczUmhxTzBBbGlCdW5KNWZtRU94SUlLcWJMUTE5R2s3eHdrcnZLM19NT213cksxQndMOFpDUjVERElwQWJkRmFTY0k2LVdUZGw0ZVNDSndCMXFtZkt1NDRlS2dtQW5KWnlCOExQejR3dG85aEZ6X0dCWm9WSE1UU0h3SlZpb2JYRnljNWZoaF9Qa2pSUm5Ba1RkLVJwVnJLTzlERTRtUGRXOWQ1U1dmaUdkNA?oc=5) — Google News: unusual options activity · 02:43 PT · #markets

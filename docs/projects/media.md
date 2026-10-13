@@ -1,13 +1,13 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-13T13:32:55-07:00
-count: 125
+updated: 2026-10-13T13:37:28-07:00
+count: 126
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-125 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+126 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-13
 
@@ -22,6 +22,7 @@ tags: ["project", "media"]
 - [Drone Strikes Didn’t Take out a Russian Bot Farm, But We Were Primed to Believe It - Mother Jones](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdTJzTm9qQ3JVUVdIVm8yeldjOTVuSWVpc3BKRmhBeHNBSW1NSzFxaDdaaHZ4aV95ZlBFVkpEUjJUSllSN1JJN3kwOHFRQkxhaXJ0MTRpNWhBcWpWWnpXWU1saVJmOFJPeGRzUFozenZ3UVZjY0xpLXZxb21lZ05IUHJBOVRMQ28wZFVubUVoT3FwX2ZRcHVqUHpUZlNFenBqRGJpYW5mWDRpUEZhZkl2cFg5bU9MUXNOd3VtZTF2clFwb2lkYWFjWHk2MG9lWVRlVXFBanU1MVJVRjJmUUdITFhkZ2c?oc=5) — Google News: propaganda OR disinformation media · 10:07 PT · #world #foreign #media
 - [How soon will we be flying in electric #planes? #travel #aviation #pushinglimits](https://www.youtube.com/shorts/hNTX1jsLaSg) — Business Insider · 09:55 PT · #business #media
 - [Russia Detains Japanese Journalist for Alleged Espionage](https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html) — NYT World · 09:45 PT · #world #foreign #media
+- [Researchers Debunk Viral Yandex Russian Bot Claims around AfD and MAGA - Hungarian Conservative](https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0hpd29YOEkzN05lYWNiUkRYM2VSU1FwdTd2R2ZuMVBWZVNRQXhnbTVnMzJMOTh2UFk5TEpEVzRJQlZCZklMN1B0MFB2djQwb3V3bWN2Z1ROSXM2a0ZCbVRJR0Y5LTRpX1p0UmtRWXYzTDViVEk2SzNLd3ExZTZYOFF2ZlJtM0JwZFY4bFRSMU40bm0xNzFqYklnRGFPdHVOWGY0WDNyM2JqRnpqTkN5RDN3?oc=5) — Google News: propaganda OR disinformation media · 09:44 PT · #world #foreign #media
 - [From Goebbels to the algorithm… a century of shaping public opinion - Middle East Online](https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHZNS2o0MThMdEx4dGVnb19zTl9DUm1za190UUl2eDhWWlpqV2hhQjhrRk1MTzhlU1VrQ24yVFhqNm1wX0xMZTVJYVVReFdKSDJhWWJCcnZyQlloMGc0OElFOUNQM2M0d2FRbXRHZ3VNWHJmaW1QRGFRZE4wQVVsREVKa19wUGE0NmdMR1lTODR5ZXR1OHNn?oc=5) — Google News: propaganda OR disinformation media · 09:35 PT · #world #media
 - [Did Ukrainian strikes on Russian datacentres reduce online disinformation? - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVRNVThYZTBnWE1CMnZIWTM2aG1YR0hJZ3ZEOWtpVVNKUEN5ekxieWlLbDd5UVJ1bHVZTDBPcllWX1Jka0RLVUo4T0xod2oyWDRTUXV2Qk9YTkktVzdoeHg0aWNpMy10ZUtnT2R4NjlKTng1RUFqMFBLbDFzemQwa1lSSjBHT2ptUkhuX3MyN1JmTGp4RkZxeXV3UTl2WllxOTlDUHl2OWpmVUEteWlJ?oc=5) — Google News: propaganda OR disinformation media · 09:05 PT · #world #foreign #media
 - [Mapping Global Impunity](https://foreignpolicy.com/2026/10/13/global-impunity-atlas-press-freedom-map/) — Foreign Policy · 08:55 PT · #world #foreign #media

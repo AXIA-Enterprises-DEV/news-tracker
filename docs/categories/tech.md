@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T13:32:55-07:00
+updated: 2026-10-13T13:37:28-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,6 +11,7 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) — TechCrunch · 13:36 PT · #tech #ai
 - [iOS 27.2 Beta 4 Removes New Health App](https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/) — MacRumors · 13:31 PT · #tech #ai
 - [Why do you think people have such a hard time taking responsibility](https://www.youtube.com/shorts/g90_AFrW7Y8) — GaryVee · 13:15 PT · #tech #smallbiz
 - [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/) — TechCrunch · 13:13 PT · #tech #smallbiz
@@ -413,4 +414,3 @@ tags: ["category", "tech"]
 - [B&H Photo Promo Codes and Deals This October 2026](https://www.wired.com/story/bh-photo-coupon/) — WIRED · 22:00 PT · #tech
 - [Lego Promo Code | 20% Off October 2026](https://www.wired.com/story/lego-promo-code/) — WIRED · 22:00 PT · #tech
 - [Newegg Promo Codes and Coupons for October 2026](https://www.wired.com/story/newegg-promo-code/) — WIRED · 22:00 PT · #tech
-- [Squarespace Promo Codes: 20% Off in October 2026](https://www.wired.com/story/squarespace-promo-code/) — WIRED · 22:00 PT · #tech

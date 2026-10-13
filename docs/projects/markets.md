@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-13T13:32:55-07:00
+updated: 2026-10-13T13:37:28-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,11 +11,56 @@ tags: ["project", "markets"]
 
 ## 2026-10-13
 
+- [POS EX - Collaborative Investment Series Trust (0001719812) (Filer)](https://www.sec.gov/Archives/edgar/data/1719812/000199937126022673/0001999371-26-022673-index.htm) — SEC EDGAR All Filings · 13:36 PT · #filings #markets
+- [144 - Dempsey Tyler B (0001787173) (Reporting)](https://www.sec.gov/Archives/edgar/data/1787173/000196530126000158/0001965301-26-000158-index.htm) — SEC EDGAR All Filings · 13:36 PT · #filings #markets
+- [S-8 - QUICKLOGIC Corp (0000882508) (Filer)](https://www.sec.gov/Archives/edgar/data/882508/000143774926032568/0001437749-26-032568-index.htm) — SEC EDGAR All Filings · 13:36 PT · #filings #markets
+- [4 - Mistretta Nancy G. (0001409462) (Reporting)](https://www.sec.gov/Archives/edgar/data/1409462/000119312526420514/0001193125-26-420514-index.htm) — SEC EDGAR All Filings · 13:36 PT · #filings #markets
+- [497K - FMI FUNDS INC (0001023391) (Filer)](https://www.sec.gov/Archives/edgar/data/1023391/000089706926001840/0000897069-26-001840-index.htm) — SEC EDGAR All Filings · 13:36 PT · #filings #markets
+- [4 - Perri Robert Jonathan (0002120015) (Reporting)](https://www.sec.gov/Archives/edgar/data/2120015/000091957426006902/0000919574-26-006902-index.htm) — SEC EDGAR All Filings · 13:36 PT · #filings #markets
+- [8-K - Vulcan Infrastructure & Power Inc. (0001844971) (Filer)](https://www.sec.gov/Archives/edgar/data/1844971/000162828026065739/0001628280-26-065739-index.htm) — SEC EDGAR 8-K · 13:35 PT · #filings #markets
+- [8-K - Quetta Acquisition Corp (0001978528) (Filer)](https://www.sec.gov/Archives/edgar/data/1978528/000149315226046840/0001493152-26-046840-index.htm) — SEC EDGAR 8-K · 13:35 PT · #filings #markets
+- [8-K/A - Marwynn Holdings, Inc. (0002030522) (Filer)](https://www.sec.gov/Archives/edgar/data/2030522/000121390026109042/0001213900-26-109042-index.htm) — SEC EDGAR 8-K · 13:35 PT · #filings #markets
+- [4 - Stoe George P (0001296351) (Reporting)](https://www.sec.gov/Archives/edgar/data/1296351/000119312526420511/0001193125-26-420511-index.htm) — SEC EDGAR All Filings · 13:35 PT · #filings #markets
+- [13F-HR - Downshift Financial, LLC (0002118380) (Filer)](https://www.sec.gov/Archives/edgar/data/2118380/000211838026000005/0002118380-26-000005-index.htm) — SEC EDGAR All Filings · 13:35 PT · #filings #markets
+- [13F-HR - MONTRUSCO BOLTON INVESTMENTS INC. (0001475940) (Filer)](https://www.sec.gov/Archives/edgar/data/1475940/000147594026000009/0001475940-26-000009-index.htm) — SEC EDGAR All Filings · 13:35 PT · #filings #markets
+- [4 - RIBEAU SIDNEY A (0001184881) (Reporting)](https://www.sec.gov/Archives/edgar/data/1184881/000119312526420510/0001193125-26-420510-index.htm) — SEC EDGAR All Filings · 13:34 PT · #filings #markets
+- [8-K - FIRST BUSEY CORP /NV/ (0000314489) (Filer)](https://www.sec.gov/Archives/edgar/data/314489/000031448926000063/0000314489-26-000063-index.htm) — SEC EDGAR 8-K · 13:34 PT · #filings #markets
+- [4 - Agarwal Arjun (0002033974) (Reporting)](https://www.sec.gov/Archives/edgar/data/2033974/000090765426000106/0000907654-26-000106-index.htm) — SEC EDGAR All Filings · 13:34 PT · #filings #markets
+- [497K - Brinker Capital Destinations Trust (0001688680) (Filer)](https://www.sec.gov/Archives/edgar/data/1688680/000113322826013234/0001133228-26-013234-index.htm) — SEC EDGAR All Filings · 13:34 PT · #filings #markets
+- [425 - LCI INDUSTRIES (0000763744) (Subject)](https://www.sec.gov/Archives/edgar/data/763744/000076374426000090/0000763744-26-000090-index.htm) — SEC EDGAR All Filings · 13:34 PT · #filings #markets
+- [4 - BLYSTONE JOHN B (0001110854) (Reporting)](https://www.sec.gov/Archives/edgar/data/1110854/000119312526420508/0001193125-26-420508-index.htm) — SEC EDGAR All Filings · 13:33 PT · #filings #markets
+- [PRER14A - Globa Terra Acquisition Corp (0002043766) (Filer)](https://www.sec.gov/Archives/edgar/data/2043766/000114036126039429/0001140361-26-039429-index.htm) — SEC EDGAR All Filings · 13:33 PT · #filings #markets
+- [D/A - Mission Value Japan Fund Offshore Ltd. (0001493785) (Filer)](https://www.sec.gov/Archives/edgar/data/1493785/000149378526000001/0001493785-26-000001-index.htm) — SEC EDGAR All Filings · 13:33 PT · #filings #markets
+- [4 - VRABECK KATHY P (0001093166) (Reporting)](https://www.sec.gov/Archives/edgar/data/1093166/000162828026065736/0001628280-26-065736-index.htm) — SEC EDGAR All Filings · 13:33 PT · #filings #markets
+- [4 - SCHIAVO MARY FACKLER (0001194134) (Reporting)](https://www.sec.gov/Archives/edgar/data/1194134/000119312526420506/0001193125-26-420506-index.htm) — SEC EDGAR All Filings · 13:33 PT · #filings #markets
+- [Kaiser Aluminum declares $0.77 dividend](https://seekingalpha.com/news/4652688-kaiser-aluminum-declares-0_77-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:33 PT · #markets
+- [CERT - Global X Funds (0001432353) (Filer)](https://www.sec.gov/Archives/edgar/data/1432353/000135445726000987/0001354457-26-000987-index.htm) — SEC EDGAR All Filings · 13:33 PT · #filings #markets
+- [144 - Erbez Georgia (0001557930) (Reporting)](https://www.sec.gov/Archives/edgar/data/1557930/000155793026000001/0001557930-26-000001-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [8-K - MasterCraft Boat Holdings, Inc. (0001638290) (Filer)](https://www.sec.gov/Archives/edgar/data/1638290/000119312526420504/0001193125-26-420504-index.htm) — SEC EDGAR 8-K · 13:32 PT · #filings #markets
+- [DuPont declares $0.60 dividend](https://seekingalpha.com/news/4652687-dupont-declares-0_60-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:32 PT · #markets
+- [4 - Best David Edward (0002082770) (Reporting)](https://www.sec.gov/Archives/edgar/data/2082770/000162828026065735/0001628280-26-065735-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [4 - Martin Louis Anthony (0001917248) (Reporting)](https://www.sec.gov/Archives/edgar/data/1917248/000162828026065734/0001628280-26-065734-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [13F-HR - LINCOLN CAPITAL CORP (0000872359) (Filer)](https://www.sec.gov/Archives/edgar/data/872359/000087235926000005/0000872359-26-000005-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [4 - Benedict Danielle (0001682963) (Reporting)](https://www.sec.gov/Archives/edgar/data/1682963/000162828026065733/0001628280-26-065733-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [8-K - Offerpad Solutions Inc. (0001825024) (Filer)](https://www.sec.gov/Archives/edgar/data/1825024/000119312526420502/0001193125-26-420502-index.htm) — SEC EDGAR 8-K · 13:32 PT · #filings #item-1.01 #markets
+- [4 - Hussain Mahrukh (0001926996) (Reporting)](https://www.sec.gov/Archives/edgar/data/1926996/000162828026065732/0001628280-26-065732-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [4 - DOUGLAS J ALEXANDER JR (0001253446) (Reporting)](https://www.sec.gov/Archives/edgar/data/1253446/000162828026065731/0001628280-26-065731-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [FWP - Strive, Inc. (0001920406) (Subject)](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015526/0000950103-26-015526-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [4 - Bushway Mark (0002051362) (Reporting)](https://www.sec.gov/Archives/edgar/data/2051362/000162828026065730/0001628280-26-065730-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [8-K - Revolution Medicines, Inc. (0001628171) (Filer)](https://www.sec.gov/Archives/edgar/data/1628171/000162817126000004/0001628171-26-000004-index.htm) — SEC EDGAR 8-K · 13:32 PT · #filings #markets
+- [8-K - SPIRE INC (0001126956) (Filer)](https://www.sec.gov/Archives/edgar/data/1126956/000119312526420501/0001193125-26-420501-index.htm) — SEC EDGAR 8-K · 13:32 PT · #filings #item-1.01 #markets
+- [4 - Luchini Alfredo (0002146408) (Reporting)](https://www.sec.gov/Archives/edgar/data/2146408/000162828026065729/0001628280-26-065729-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [4 - Tarditi Giorgio Matteo (0002017583) (Reporting)](https://www.sec.gov/Archives/edgar/data/2017583/000162828026065728/0001628280-26-065728-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
+- [13F-HR - St. Clair Advisors, LLC (0002056292) (Filer)](https://www.sec.gov/Archives/edgar/data/2056292/000205629226000005/0002056292-26-000005-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [425 - Third Coast Bancshares, Inc. (0001781730) (Subject)](https://www.sec.gov/Archives/edgar/data/1781730/000119312526420500/0001193125-26-420500-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [4 - Dinh Hong Thi (0002114372) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114372/000162828026065727/0001628280-26-065727-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [4 - McConnell John H II (0001959584) (Reporting)](https://www.sec.gov/Archives/edgar/data/1959584/000119312526420499/0001193125-26-420499-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
 - [8-K - LCI INDUSTRIES (0000763744) (Filer)](https://www.sec.gov/Archives/edgar/data/763744/000076374426000089/0000763744-26-000089-index.htm) — SEC EDGAR 8-K · 13:31 PT · #filings #markets
 - [DEF 14A - UPEXI, INC. (0001775194) (Filer)](https://www.sec.gov/Archives/edgar/data/1775194/000147793226006188/0001477932-26-006188-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
 - [424B2 - CITIGROUP INC (0000831001) (Filer)](https://www.sec.gov/Archives/edgar/data/831001/000191870426031328/0001918704-26-031328-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
 - [4 - UNITED THERAPEUTICS Corp (0001082554) (Issuer)](https://www.sec.gov/Archives/edgar/data/1082554/000110657826000162/0001106578-26-000162-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
 - [4 - Larivey Clifford (0002048670) (Reporting)](https://www.sec.gov/Archives/edgar/data/2048670/000119312526420496/0001193125-26-420496-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [ATI Announces Webcast for Third Quarter 2026 Results](https://www.prnewswire.com/news-releases/ati-announces-webcast-for-third-quarter-2026-results-302907622.html) — PR Newswire M&A · 13:31 PT · #business #markets $ATI
 - [8-K - LOGITECH INTERNATIONAL S.A. (0001032975) (Filer)](https://www.sec.gov/Archives/edgar/data/1032975/000103297526000056/0001032975-26-000056-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #markets
 - [424B5 - Strive, Inc. (0001920406) (Filer)](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015525/0000950103-26-015525-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
 - [13F-HR - Foster Group, Inc. (0001841544) (Filer)](https://www.sec.gov/Archives/edgar/data/1841544/000184154426000007/0001841544-26-000007-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
@@ -115,6 +160,7 @@ tags: ["project", "markets"]
 - [13F-HR - Edge Wealth Management LLC (0001567163) (Filer)](https://www.sec.gov/Archives/edgar/data/1567163/000156716326000008/0001567163-26-000008-index.htm) — SEC EDGAR All Filings · 13:22 PT · #filings #markets
 - [3 - Ropa Bethany Logan (0002157573) (Reporting)](https://www.sec.gov/Archives/edgar/data/2157573/000162828026065709/0001628280-26-065709-index.htm) — SEC EDGAR All Filings · 13:22 PT · #filings #markets
 - [4 - BOWSHER JON J (0002001970) (Reporting)](https://www.sec.gov/Archives/edgar/data/2001970/000119312526420467/0001193125-26-420467-index.htm) — SEC EDGAR All Filings · 13:22 PT · #filings #markets
+- [Koos Bekker’s company controls 2,700 acres in Somerset, employs 650 locals as expansion sparks debate](https://timesofindia.indiatimes.com/world/uk/in-2013-tech-billionaire-koos-bekker-bought-a-16-acre-somerset-estate-his-company-now-controls-more-than-2700-acres-nearby-and-says-it-employs-over-650-locals-as-residents-debate-its-expansion/articleshow/134895660.cms) — World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India · 13:22 PT · #world #markets
 - [424B3 - BioStem Technologies, Inc. (0001658678) (Filer)](https://www.sec.gov/Archives/edgar/data/1658678/000121390026109034/0001213900-26-109034-index.htm) — SEC EDGAR All Filings · 13:21 PT · #filings #markets
 - [4/A - Wood Kyle Irvin (0002081695) (Reporting)](https://www.sec.gov/Archives/edgar/data/2081695/000149315226046831/0001493152-26-046831-index.htm) — SEC EDGAR All Filings · 13:21 PT · #filings #markets
 - [N-23C3A - Blue Owl Alternative Credit Fund (0002059436) (Filer)](https://www.sec.gov/Archives/edgar/data/2059436/000162828026065708/0001628280-26-065708-index.htm) — SEC EDGAR All Filings · 13:21 PT · #filings #markets
@@ -365,49 +411,3 @@ tags: ["project", "markets"]
 - [D/A - PARTNER INVESTMENTS L P (0001343211) (Filer)](https://www.sec.gov/Archives/edgar/data/1343211/000134321126000001/0001343211-26-000001-index.htm) — SEC EDGAR All Filings · 12:33 PT · #filings #markets
 - [4 - MENDELSON VICTOR H (0001031082) (Reporting)](https://www.sec.gov/Archives/edgar/data/1031082/000103108226000007/0001031082-26-000007-index.htm) — SEC EDGAR All Filings · 12:33 PT · #filings #markets
 - [4 - CULLIGAN THOMAS M (0001217585) (Reporting)](https://www.sec.gov/Archives/edgar/data/1217585/000121758526000002/0001217585-26-000002-index.htm) — SEC EDGAR All Filings · 12:32 PT · #filings #markets
-- [ABS-15G - J.P. Morgan Acceptance Corp II (0001142786) (Securitizer)](https://www.sec.gov/Archives/edgar/data/1142786/000199937126022663/0001999371-26-022663-index.htm) — SEC EDGAR All Filings · 12:32 PT · #filings #markets
-- [4 - PIMCO CALIFORNIA MUNICIPAL INCOME FUND (0001140411) (Issuer)](https://www.sec.gov/Archives/edgar/data/1140411/000007085826000478/0000070858-26-000478-index.htm) — SEC EDGAR All Filings · 12:32 PT · #filings #markets
-- [20FR12G - iPower Wireless Technology Inc. (0002145233) (Filer)](https://www.sec.gov/Archives/edgar/data/2145233/000118518526004715/0001185185-26-004715-index.htm) — SEC EDGAR All Filings · 12:31 PT · #filings #markets
-- [4 - Hildebrandt Mark H (0001445233) (Reporting)](https://www.sec.gov/Archives/edgar/data/1445233/000144523326000002/0001445233-26-000002-index.htm) — SEC EDGAR All Filings · 12:31 PT · #filings #markets
-- [3 - Ulrich Jing (0002150868) (Reporting)](https://www.sec.gov/Archives/edgar/data/2150868/000008734726000124/0000087347-26-000124-index.htm) — SEC EDGAR All Filings · 12:31 PT · #filings #markets
-- [D/A - PFM HEALTHCARE OFFSHORE FUND LTD (0001424501) (Filer)](https://www.sec.gov/Archives/edgar/data/1424501/000142450126000001/0001424501-26-000001-index.htm) — SEC EDGAR All Filings · 12:30 PT · #filings #markets
-- [4 - Neitzel Julie (0001620811) (Reporting)](https://www.sec.gov/Archives/edgar/data/1620811/000162081126000006/0001620811-26-000006-index.htm) — SEC EDGAR All Filings · 12:30 PT · #filings #markets
-- [4 - Fine Carol F. (0001960016) (Reporting)](https://www.sec.gov/Archives/edgar/data/1960016/000196001626000002/0001960016-26-000002-index.htm) — SEC EDGAR All Filings · 12:29 PT · #filings #markets
-- [4 - SCHRIESHEIM ALAN (0001200631) (Reporting)](https://www.sec.gov/Archives/edgar/data/1200631/000120063126000006/0001200631-26-000006-index.htm) — SEC EDGAR All Filings · 12:28 PT · #filings #markets
-- [D/A - ADR US Real Estate Diversified TREIF LLC (0002090570) (Filer)](https://www.sec.gov/Archives/edgar/data/2090570/000209057026000001/0002090570-26-000001-index.htm) — SEC EDGAR All Filings · 12:27 PT · #filings #markets #realestate
-- [424B2 - BANK OF AMERICA CORP /DE/ (0000070858) (Filer)](https://www.sec.gov/Archives/edgar/data/70858/000191870426031318/0001918704-26-031318-index.htm) — SEC EDGAR All Filings · 12:27 PT · #filings #markets
-- [D/A - PFM HEALTHCARE FUND L P (0001345347) (Filer)](https://www.sec.gov/Archives/edgar/data/1345347/000134534726000001/0001345347-26-000001-index.htm) — SEC EDGAR All Filings · 12:27 PT · #filings #markets
-- [4 - HENRIQUES ADOLFO (0001181803) (Reporting)](https://www.sec.gov/Archives/edgar/data/1181803/000118180326000002/0001181803-26-000002-index.htm) — SEC EDGAR All Filings · 12:27 PT · #filings #markets
-- [485BPOS - Calamos ETF Trust (0001579881) (Filer)](https://www.sec.gov/Archives/edgar/data/1579881/000110465926115443/0001104659-26-115443-index.htm) — SEC EDGAR All Filings · 12:26 PT · #filings #markets
-- [D - Nova Holdings Offshore Ltd (0002155366) (Filer)](https://www.sec.gov/Archives/edgar/data/2155366/000215536626000001/0002155366-26-000001-index.htm) — SEC EDGAR All Filings · 12:26 PT · #filings #markets
-- [424B3 - FIRST BANCORP /NC/ (0000811589) (Filer)](https://www.sec.gov/Archives/edgar/data/811589/000207709626000278/0002077096-26-000278-index.htm) — SEC EDGAR All Filings · 12:26 PT · #filings #markets
-- [144 - Wilcox William Richard (0002087546) (Reporting)](https://www.sec.gov/Archives/edgar/data/2087546/000195917326007355/0001959173-26-007355-index.htm) — SEC EDGAR All Filings · 12:26 PT · #filings #markets
-- [4 - CHERUVATATH NANDAKUMAR (0001698957) (Reporting)](https://www.sec.gov/Archives/edgar/data/1698957/000169895726000008/0001698957-26-000008-index.htm) — SEC EDGAR All Filings · 12:25 PT · #filings #markets
-- [D - Contor, Inc. (0002139601) (Filer)](https://www.sec.gov/Archives/edgar/data/2139601/000213960126000003/0002139601-26-000003-index.htm) — SEC EDGAR All Filings · 12:25 PT · #filings #markets
-- [144 - Kent Jennifer J. (0001595040) (Reporting)](https://www.sec.gov/Archives/edgar/data/1595040/000195917326007354/0001959173-26-007354-index.htm) — SEC EDGAR All Filings · 12:25 PT · #filings #markets
-- [Precision at scale: APKWS counters the threat](https://breakingdefense.com/2026/10/precision-at-scale-apkws-counters-the-threat/) — Breaking Defense · 12:23 PT · #world #foreign #markets
-- [8-K - SUPA Consolidated Inc. (0001624985) (Filer)](https://www.sec.gov/Archives/edgar/data/1624985/000168316826007802/0001683168-26-007802-index.htm) — SEC EDGAR 8-K · 12:21 PT · #filings #markets
-- [Nasdaq 100 bounces off 30,600 support: Live levels](https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778) — Investing.com Stock Market · 12:18 PT · #markets
-- [S&P 500 wedged between 7,808 support and 7,897 resistance: Live](https://www.investing.com/news/stock-market-news/sp-500-stalls-in-chop-zone-below-7897-live-levels-93CH-4944776) — Investing.com Stock Market · 12:18 PT · #markets
-- [Dow Jones Indices, DRW and Marex Bring Wall Street Swaps to Canton](https://news.bitcoin.com/blockchain/dow-jones-indices-drw-marex-bring-wall-street-swaps-canton/) — Bitcoin News · 12:13 PT · #markets
-- [8-K - AmBase Corp (0000020639) (Filer)](https://www.sec.gov/Archives/edgar/data/20639/000114036126039418/0001140361-26-039418-index.htm) — SEC EDGAR 8-K · 12:13 PT · #filings #item-1.01 #markets
-- [8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)](https://www.sec.gov/Archives/edgar/data/1331463/000133146326000194/0001331463-26-000194-index.htm) — SEC EDGAR 8-K · 12:03 PT · #filings #markets
-- [Bank earnings: Higher rates haven't hurt consumer spending or AI financing, yet - MarketWatch](https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0hhRzJiRWZ1N2R3R1NOMnhpNlhISGZydk5lTFQxZHR0S0twRmZhNmhNSnY2a1NUQXgxOUdITTg5Y19wR3dDakd4UzNGZHVfZUNVeHAwcHlKY0t3VVZqVGlqbGpVN3J1Mnc2ekJxVWVWWDlZcVlQZWU3VjZJTGhHQ1c2WTFNZ1lsbDFNaTdsY0lTenRWbnBRZA?oc=5) — Top stories - Google News · 11:34 PT · #world #ai #fed #markets
-- [8-K - Federal Home Loan Bank of New York (0001329842) (Filer)](https://www.sec.gov/Archives/edgar/data/1329842/000165495426008924/0001654954-26-008924-index.htm) — SEC EDGAR 8-K · 11:31 PT · #filings #markets
-- [Interactive Brokers Rolls out Ether Staking With Zerohash](https://news.bitcoin.com/crypto-news/interactive-brokers-rolls-out-ether-staking-zerohash/) — Bitcoin News · 11:30 PT · #markets $IBKR
-- [8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)](https://www.sec.gov/Archives/edgar/data/1331754/000133175426000200/0001331754-26-000200-index.htm) — SEC EDGAR 8-K · 11:29 PT · #filings #markets
-- [8-K - NexPoint Capital, Inc. (0001588272) (Filer)](https://www.sec.gov/Archives/edgar/data/1588272/000119312526420226/0001193125-26-420226-index.htm) — SEC EDGAR 8-K · 11:20 PT · #filings #markets
-- [8-K - Fortress Net Lease REIT (0001966394) (Filer)](https://www.sec.gov/Archives/edgar/data/1966394/000119312526420216/0001193125-26-420216-index.htm) — SEC EDGAR 8-K · 11:15 PT · #filings #item-1.01 #markets #realestate
-- [Unusual Options Activity: VALE, VRT and Others Attract Market Bets, VALE V/OI Ratio Reaches 166.7 - Moomoo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVFhN2FhZExCUWZBSXVYSGVHd3lzSHYyVmppajZlYlYxaXMxR3FPeTV0cDJSY3hSSW9uOVdPNWMyRjFjbDRDUWtvOG9EZHdDRC1INmRSa1ZmTjdqVXVFbDNINkZXMXVLcGJEcm9GbVRLbjlKbmd2VE9iZXU5eVc1b0p6QUZ4Y0pLdGtYa3NzUE5zQ19sRm1zTThLYkdCQzQwa2dKM2lJMG1KM1ZT?oc=5) — Google News: unusual options activity · 11:02 PT · #markets
-- [SEC STAFF ACTION - HENGGUANG HOLDING CO, Ltd (0001868110) (Filer)](https://www.sec.gov/Archives/edgar/data/1868110/999999999726001616/9999999997-26-001616-index.htm) — SEC EDGAR All Filings · 11:00 PT · #filings #markets
-- [D/A - S2 Portfolio Recap IRA LLC (0002152590) (Filer)](https://www.sec.gov/Archives/edgar/data/2152590/000215259026000002/0002152590-26-000002-index.htm) — SEC EDGAR All Filings · 10:59 PT · #filings #markets
-- [POS AM - Cubebio Co., Ltd (0002058594) (Filer)](https://www.sec.gov/Archives/edgar/data/2058594/000182912626011055/0001829126-26-011055-index.htm) — SEC EDGAR All Filings · 10:58 PT · #filings #markets
-- [8-K - Picard Medical, Inc. (0002030617) (Filer)](https://www.sec.gov/Archives/edgar/data/2030617/000143774926032542/0001437749-26-032542-index.htm) — SEC EDGAR 8-K · 10:58 PT · #filings #markets
-- [TA-1/A - DB SERVICES AMERICAS INC /TA (0001018490) (Filer)](https://www.sec.gov/Archives/edgar/data/1018490/000101849026000015/0001018490-26-000015-index.htm) — SEC EDGAR All Filings · 10:57 PT · #filings #markets
-- [D - BRAINFORGE, INC. (0002158686) (Filer)](https://www.sec.gov/Archives/edgar/data/2158686/000215868626000001/0002158686-26-000001-index.htm) — SEC EDGAR All Filings · 10:55 PT · #filings #markets
-- [D/A - Venture Growth Select II Offshore SICAV-RAIF S.C.Sp. (0002127092) (Filer)](https://www.sec.gov/Archives/edgar/data/2127092/000101297526000935/0001012975-26-000935-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets
-- [3 - FEINSTEIN PETER R (0000942665) (Reporting)](https://www.sec.gov/Archives/edgar/data/942665/000121390026108947/0001213900-26-108947-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets
-- [FWP - BANK OF NOVA SCOTIA (0000009631) (Subject)](https://www.sec.gov/Archives/edgar/data/9631/000183988226050615/0001839882-26-050615-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets
-- [3 - Tavia Acquisition Corp. (0002020385) (Issuer)](https://www.sec.gov/Archives/edgar/data/2020385/000121390026108946/0001213900-26-108946-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets
-- [D - SOAR.COM, INC. (0001800456) (Filer)](https://www.sec.gov/Archives/edgar/data/1800456/000180045626000014/0001800456-26-000014-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets
-- [4 - WADORS PATRICIA L (0001274559) (Reporting)](https://www.sec.gov/Archives/edgar/data/1274559/000127455926000005/0001274559-26-000005-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets

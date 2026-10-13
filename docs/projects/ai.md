@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T13:32:55-07:00
+updated: 2026-10-13T13:37:28-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,6 +11,8 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) — TechCrunch · 13:36 PT · #tech #ai
+- [Samenvatting: ExaGrid maakt recordcijfers bekend qua boekingen en omzet in het 3e kwartaal](http://www.businesswire.com/news/home/20261013278250/nl/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 13:32 PT · #business #ai
 - [iOS 27.2 Beta 4 Removes New Health App](https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/) — MacRumors · 13:31 PT · #tech #ai
 - [Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.](https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:27 PT · #markets #ai
 - [Rocket One Signs Agreement to Advance Nanomagnetic AI Chip Technology and Device Prototyping](https://www.prnewswire.com/news-releases/rocket-one-signs-agreement-to-advance-nanomagnetic-ai-chip-technology-and-device-prototyping-302907604.html) — PR Newswire M&A · 13:16 PT · #business #ai #markets $RKTO
@@ -412,5 +414,3 @@ tags: ["project", "ai"]
 - [Riassunto: L&T Technology Services lancia EI Lab per la produzione e la gestione delle operazioni, con la fabbrica nativa per l'AI accelerata di NVIDIA](http://www.businesswire.com/news/home/20261011664679/it/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 14:47 PT · #business #ai
 - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) — Hacker News 200+ · 14:40 PT · #tech #ai
 - [L&T Technology Services lance l'EI Lab dédié à la fabrication et aux opérations, avec une usine « AI-Native » reposant sur les technologies de calcul accéléré de NVIDIA](http://www.businesswire.com/news/home/20261011698945/fr/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 14:39 PT · #business #ai
-- [Apple and Epic clash over document production in latest App Store court filing](https://9to5mac.com/2026/10/12/apple-and-epic-clash-over-document-production-in-latest-app-store-court-filing/) — 9to5Mac · 14:36 PT · #tech #ai
-- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) — Hacker News 200+ · 14:35 PT · #tech #ai

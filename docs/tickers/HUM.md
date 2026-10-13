@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $HUM"
-updated: 2026-10-13T13:32:55-07:00
+updated: 2026-10-13T13:37:28-07:00
 count: 1
 tags: ["ticker", "HUM"]
 ---
