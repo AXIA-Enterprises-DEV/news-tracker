@@ -11,7 +11,7 @@ ARCH = os.path.join(ROOT, "archive")
 KEEP_DAYS = 14          # days kept on Pages; older shards are gzipped into archive/
 LATEST_N = 600
 CAT_N = 300
-CATS = ["markets", "business", "tech", "politics", "world", "us", "science", "filings"]
+CATS = ["markets", "business", "tech", "politics", "world", "us", "science", "sports", "filings"]
 BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
 TICK_RE = re.compile(r"\((?:NYSE|NASDAQ|Nasdaq|NYSE American|NYSE MKT|NYSE Arca|Cboe|OTCQX|OTCQB|OTC|AMEX|TSX|TSXV)\s*:\s*([A-Z]{1,5}(?:\.[A-Z])?)", re.I)
@@ -50,6 +50,20 @@ def tickers(text):
     s = set(m.upper() for m in TICK_RE.findall(text)) | set(TICK_RE2.findall(text)) | set(CASHTAG.findall(text))
     return sorted(s)[:8]
 
+def load_projects():
+    try: cfg = yaml.safe_load(open(os.path.join(ROOT, "projects.yml")))["projects"]
+    except Exception: return {}, {}
+    rules = {k: re.compile("|".join(f"(?:{r})" for r in v["any"]), re.I) for k, v in cfg.items()}
+    return rules, {k: v.get("label", k) for k, v in cfg.items()}
+
+def tag_projects(it, rules, forced=None):
+    text = f"{it['title']} {it.get('summary','')}"
+    ps = {k for k, rx in rules.items() if rx.search(text)}
+    if forced: ps.add(forced)
+    if it["category"] == "filings": ps.add("markets")
+    if "nevada" in ps and "realestate" in ps: pass
+    return sorted(ps)
+
 def load(path, default):
     try:
         with open(path) as f: return json.load(f)
@@ -62,6 +76,7 @@ def dump(path, obj):
 def main():
     cfg = yaml.safe_load(open(os.path.join(ROOT, "feeds.yml")))
     ua = cfg.get("user_agent")
+    rules, labels = load_projects()
     feeds = [f for f in cfg["feeds"] if f.get("enabled", True)]
     os.makedirs(DAYS, exist_ok=True)
 
@@ -71,6 +86,8 @@ def main():
         for it in load(os.path.join(DAYS, fn), []):
             items[it["id"]] = it; seen_id.add(it["id"]); seen_title.add(norm_title(it["title"]))
 
+    fmap = {f["name"]: f.get("project") for f in feeds}
+    for it in items.values(): it["projects"] = tag_projects(it, rules, fmap.get(it["source"]))
     status, added = [], 0
     with cf.ThreadPoolExecutor(32) as ex:
         results = list(ex.map(lambda f: fetch(f, ua), feeds))
@@ -91,6 +108,7 @@ def main():
             it = {"id": iid, "title": title, "link": link, "summary": summary,
                   "source": feed["name"], "category": feed["category"], "ts": entry_ts(e),
                   "tickers": tickers(text)}
+            it["projects"] = tag_projects(it, rules, feed.get("project"))
             if feed["category"] == "filings":  # e.g. "8-K - ACME CORP (0001234) (Filer)"
                 m = re.match(r"([\w\-/ ]+?) - ", title)
                 if m: it["form"] = m.group(1).strip()
@@ -122,12 +140,14 @@ def main():
 
     live = sorted((i for d, l in by_day.items() if d >= cutoff for i in l), key=lambda x: -x["ts"])
     dump(os.path.join(DATA, "latest.json"), live[:LATEST_N])
+    for pk in labels:
+        dump(os.path.join(DATA, "project", f"{pk}.json"), [i for i in live if pk in i.get("projects", [])][:CAT_N])
     for c in CATS:
         dump(os.path.join(DATA, "category", f"{c}.json"), [i for i in live if i["category"] == c][:CAT_N])
     ok = sum(1 for s in status if s["ok"])
     dump(os.path.join(DATA, "status.json"), {
         "updated": int(time.time()), "feeds_total": len(status), "feeds_ok": ok, "added": added,
-        "items_live": len(live), "days": sorted([d for d in by_day if d >= cutoff], reverse=True), "feeds": status})
+        "items_live": len(live), "projects": labels, "days": sorted([d for d in by_day if d >= cutoff], reverse=True), "feeds": status})
     print(f"feeds ok {ok}/{len(status)}, new {added}, live {len(live)}")
     for s in status:
         if not s["ok"]: print("  FAIL", s["name"], s["error"])

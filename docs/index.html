@@ -21,7 +21,7 @@ article a.t{color:var(--fg);text-decoration:none;font-weight:700;font-size:21px;
 article p{margin:8px 0 0;color:var(--mut);font-size:17px}
 .row{font:14px system-ui,sans-serif;color:var(--mut);display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:6px}
 .chip{background:var(--chip);border-radius:6px;padding:1px 8px;cursor:pointer;color:var(--fg)}
-.tk{font-weight:700;color:var(--acc)}.new{border-left:5px solid var(--acc)}
+.pj{background:transparent;border:1px solid var(--line)}.tk{font-weight:700;color:var(--acc)}.new{border-left:5px solid var(--acc)}
 #more{display:block;margin:20px auto 40px}
 </style></head><body>
 <header><div class="wrap">
@@ -29,6 +29,7 @@ article p{margin:8px 0 0;color:var(--mut);font-size:17px}
 <div class="meta" id="meta">Loading…</div>
 <div class="controls">
 <input type="search" id="q" placeholder="Search headlines, companies, tickers…">
+<select id="proj"><option value="">All projects</option></select>
 <select id="src"><option value="">All sources</option></select>
 <input id="tk" placeholder="Ticker e.g. AAPL" size="10">
 </div>
@@ -37,7 +38,7 @@ article p{margin:8px 0 0;color:var(--mut);font-size:17px}
 <main class="wrap" id="list"></main>
 <button id="more">Show more</button>
 <script>
-const CATS=["all","markets","business","tech","politics","world","us","science","filings"];
+const CATS=["all","markets","business","tech","politics","world","us","science","sports","filings"];let PL={};
 const LBL={us:"U.S.",politics:"politics/policy"};
 let items=new Map(),ms=null,shown=60,cat="all",lastSeen=+localStorage.lastSeen||0,firstLoad=true;
 const $=id=>document.getElementById(id);
@@ -50,26 +51,26 @@ setTheme(localStorage.theme||(matchMedia("(prefers-color-scheme: dark)").matches
 $("theme").onclick=()=>setTheme(document.documentElement.dataset.theme=="dark"?"light":"dark");
 $("cats").innerHTML=CATS.map(c=>`<button data-c="${c}" class="${c==cat?"on":""}">${LBL[c]||c}</button>`).join("");
 $("cats").onclick=e=>{if(!e.target.dataset.c)return;cat=e.target.dataset.c;[...$("cats").children].forEach(b=>b.classList.toggle("on",b.dataset.c==cat));shown=60;render()};
-["q","src","tk"].forEach(id=>$(id).addEventListener("input",()=>{shown=60;render()}));
+["q","proj","src","tk"].forEach(id=>$(id).addEventListener("input",()=>{shown=60;render()}));
 $("more").onclick=()=>{shown+=60;render()};
-$("list").onclick=e=>{const d=e.target.dataset;if(d.src){$("src").value=d.src;render()}if(d.tk){$("tk").value=d.tk;render()}};
-const params=new URLSearchParams(location.search);if(params.get("q"))$("q").value=params.get("q");if(params.get("ticker"))$("tk").value=params.get("ticker");
+$("list").onclick=e=>{const d=e.target.dataset;if(d.src){$("src").value=d.src;render()}if(d.tk){$("tk").value=d.tk;render()}if(d.pj){$("proj").value=d.pj;render()}};
+const params=new URLSearchParams(location.search);if(params.get("q"))$("q").value=params.get("q");if(params.get("project"))window._pj=params.get("project");if(params.get("ticker"))$("tk").value=params.get("ticker");
 async function j(u){const r=await fetch(u+"?t="+Date.now());if(!r.ok)throw r.status;return r.json()}
 function add(list){let n=0;for(const it of list)if(!items.has(it.id)){items.set(it.id,it);n++}return n}
-function reindex(){ms=new MiniSearch({fields:["title","summary","source","tickers"],storeFields:[],extractField:(d,f)=>f=="tickers"?(d.tickers||[]).join(" "):d[f],searchOptions:{prefix:true,fuzzy:0.15,boost:{title:3}}});ms.addAll([...items.values()])}
+function reindex(){ms=new MiniSearch({fields:["title","summary","source","tickers"],idField:"id",storeFields:[],extractField:(d,f)=>f=="tickers"?(d.tickers||[]).join(" "):d[f],searchOptions:{prefix:true,fuzzy:0.15,boost:{title:3}}});ms.addAll([...items.values()])}
 function render(){
-  const q=$("q").value.trim(),src=$("src").value,tk=$("tk").value.trim().toUpperCase().replace("$","");
+  const pj=$("proj").value,q=$("q").value.trim(),src=$("src").value,tk=$("tk").value.trim().toUpperCase().replace("$","");
   let arr=q&&ms?ms.search(q).map(r=>items.get(r.id)):[...items.values()].sort((a,b)=>b.ts-a.ts);
-  arr=arr.filter(i=>(cat=="all"||i.category==cat)&&(!src||i.source==src)&&(!tk||(i.tickers||[]).includes(tk)));
+  arr=arr.filter(i=>(cat=="all"||i.category==cat)&&(!pj||(i.projects||[]).includes(pj))&&(!src||i.source==src)&&(!tk||(i.tickers||[]).includes(tk)));
   $("list").innerHTML=arr.slice(0,shown).map(i=>`<article class="${i.ts>lastSeen&&lastSeen?"new":""}">
-   <div class="row"><span title="${pt(i.ts)}">${pt(i.ts)} · ${ago(i.ts)}</span><span class="chip" data-src="${esc(i.source)}">${esc(i.source)}</span><span class="chip">${LBL[i.category]||i.category}</span>${(i.tickers||[]).map(t=>`<span class="chip tk" data-tk="${t}">$${t}</span>`).join("")}</div>
+   <div class="row"><span title="${pt(i.ts)}">${pt(i.ts)} · ${ago(i.ts)}</span><span class="chip" data-src="${esc(i.source)}">${esc(i.source)}</span><span class="chip">${LBL[i.category]||i.category}</span>${(i.projects||[]).map(p=>`<span class="chip pj" data-pj="${p}">${esc(PL[p]||p)}</span>`).join("")}${(i.tickers||[]).map(t=>`<span class="chip tk" data-tk="${t}">$${t}</span>`).join("")}</div>
    <a class="t" href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>${i.summary?`<p>${esc(i.summary)}</p>`:""}</article>`).join("")||"<p>No matching items.</p>";
   $("more").style.display=arr.length>shown?"block":"none";
 }
 async function refresh(){
   try{
     const st=await j("data/status.json");
-    if(firstLoad){add(await j("data/latest.json"));reindex();render();
+    if(firstLoad){PL=st.projects||{};$("proj").innerHTML='<option value="">All projects</option>'+Object.entries(PL).map(([k,v])=>`<option value="${k}">${esc(v)}</option>`).join("");if(window._pj)$("proj").value=window._pj;add(await j("data/latest.json"));reindex();render();
       for(const d of st.days){try{add(await j(`data/days/${d}.json`))}catch(e){}}
       const srcs=[...new Set([...items.values()].map(i=>i.source))].sort();
       $("src").innerHTML='<option value="">All sources</option>'+srcs.map(s=>`<option>${esc(s)}</option>`).join("");

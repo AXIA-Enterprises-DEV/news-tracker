@@ -1,0 +1,15 @@
+# Keyword rules -> project tags. Case-insensitive regex, matched on title + summary (+ source name).
+# Feeds may also force a project with `project:` in feeds.yml.
+projects:
+  civic:   {label: "Civic / Government", any: ['\bcongress', '\bsenate\b', '\bhouse (vote|passes|republicans|democrats)', 'roll call', '\bbill\b.*(pass|vote)', 'supreme court', '\bscotus\b', 'ballot (question|measure|initiative)', 'transparency', '\bfoia\b', 'inspector general', 'federal (workforce|employees|workers)', '\bopm\b', 'schedule f', 'political violence', 'assassinat', 'domestic terror', 'election']}
+  nevada:  {label: "Nevada / Las Vegas", any: ['\bnevada\b', 'las vegas', '\breno\b', 'henderson, nev', 'carson city', 'clark county', '\bnv\b (gov|legislat|supreme)', 'lombardo']}
+  fed:     {label: "Fed Policy", any: ['federal reserve', '\bfomc\b', '\bthe fed\b', '\bpowell\b', 'rate (cut|hike)s?', 'interest rates?', 'fedgazette', 'monetary policy', '\binflation\b', '\bcpi\b', 'treasury yields?', 'beige book']}
+  markets: {label: "Markets / Trading Desk", any: ['\bsec\b', '8-k', '10-[kq]', '\bearnings\b', 'guidance', 'merger', 'acquisition', 'acquire', '\bm&a\b', '\boptions?\b (activity|volume|flow)', '\bcalls?\b.*\bputs?\b', '\bipo\b', 'stock(s)? (jump|fall|surge|plunge|rall)', 's&p 500', 'nasdaq', 'dow jones', 'dividend', 'buyback']}
+  foreign: {label: "Foreign Policy / Defense", any: ['\bbrics\b', 'state department', 'secretary of state', 'pentagon', 'department of (defense|war)', '\bnato\b', '\bmilitary\b', 'missile', 'drone strike', 'ceasefire', '\bwar\b', 'invasion', 'sanction', 'ukrain', 'russia', 'israel', '\bgaza\b', '\biran\b', 'taiwan', 'china', 'houthi', 'airstrike', 'troops']}
+  oil:     {label: "Oil / Energy Routes", any: ['\boil\b', 'crude', 'petroleum', '\bopec', 'brent', '\bwti\b', 'pipeline', 'tanker', 'refiner', 'strait of hormuz', 'red sea', 'suez', 'natural gas', '\blng\b', 'gasoline']}
+  realestate: {label: "Las Vegas Real Estate / Auctions", any: ['trustee (sale|auction)', 'foreclos', 'notice of default', 'real estate', 'home prices', 'housing market', 'mortgage', 'property auction', 'reit\b', 'commercial property']}
+  ai:      {label: "AI / LLM / Mac", any: ['\bai\b', 'artificial intelligence', '\bllms?\b', 'language model', 'llama', 'ollama', 'llama\.cpp', '\bmlx\b', 'gguf', 'openai', 'anthropic', 'gemini', 'mistral', 'deepseek', 'qwen', 'hugging ?face', 'nvidia', '\bgpu', 'apple silicon', 'mac studio', 'macbook', 'mac mini', '\bm[3-6] (max|ultra|pro)']}
+  smallbiz: {label: "Entrepreneurship / Small Business", any: ['small business', 'entrepreneur', 'startup', 'founder', '\bsba\b', 'franchise', 'venture capital', 'seed round', 'series [abc]\b']}
+  cannabis: {label: "Cannabis", any: ['cannabis', 'marijuana', 'dispensar', '\bthc\b', '\bcbd\b', 'hemp', 'rescheduling']}
+  golf:    {label: "Golf", any: ['\bgolf', 'pga tour', 'liv golf', '\blpga\b', 'ryder cup', 'the masters', 'scheffler', 'mcilroy']}
+  media:   {label: "Propaganda / Media", any: ['propaganda', 'disinformation', 'misinformation', 'state media', 'influence (operation|campaign)', 'censorship', 'press freedom', 'journalis', 'newsroom', 'fact-check']}

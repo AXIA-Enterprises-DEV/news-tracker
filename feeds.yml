@@ -1,4 +1,4 @@
-# Editable feed list. Fields: name, url, category (markets|business|tech|politics|world|us|science|filings),
+# Editable feed list. Fields: name, url, category (markets|business|tech|politics|world|us|science|sports|filings); optional project: <key from projects.yml>,
 # optional: ua (override User-Agent: "browser"), enabled (default true)
 user_agent: "news-tracker/1.0 (AXIA Enterprises; axia@mail.grokbot.com)"
 feeds:
@@ -145,3 +145,82 @@ feeds:
   - {name: 'World News - Breaking News, Top Stories', url: 'https://www.huffpost.com/section/world-news/feed', category: us}
   - {name: Top stories - Google News, url: 'https://news.google.com/rss', category: world}
   - {name: 'World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India', url: 'https://timesofindia.indiatimes.com/rssfeeds/296589292.cms', category: world}
+
+  # --- Project feeds (official/free RSS + Google News RSS keyword searches). `project` forces a project tag. ---
+  - {name: Congress.gov Presented to President, url: 'https://www.congress.gov/rss/presented-to-president.xml', category: politics, project: civic}
+  - {name: Congress.gov Most-Viewed Bills, url: 'https://www.congress.gov/rss/most-viewed-bills.xml', category: politics, project: civic}
+  - {name: Congress.gov House Floor Today, url: 'https://www.congress.gov/rss/house-floor-today.xml', category: politics, project: civic}
+  - {name: Congress.gov Senate Floor Today, url: 'https://www.congress.gov/rss/senate-floor-today.xml', category: politics, project: civic}
+  - {name: SCOTUSblog, url: 'https://www.scotusblog.com/feed/', category: politics, project: civic}
+  - {name: US Courts Judiciary News, url: 'https://www.uscourts.gov/news/rss', category: politics, project: civic}
+  - {name: Federal Register Presidential Docs, url: 'https://www.federalregister.gov/api/v1/documents.rss?conditions%5Btype%5D%5B%5D=PRESDOCU', category: politics, project: civic}
+  - {name: GAO Reports, url: 'https://www.gao.gov/rss/reports.xml', category: politics, project: civic}
+  - {name: CBO Publications, url: 'https://www.cbo.gov/publications/all/rss.xml', category: politics, project: civic}
+  - {name: OpenSecrets News, url: 'https://www.opensecrets.org/news/feed', category: politics, project: civic}
+  - {name: Government Executive, url: 'https://www.govexec.com/rss/all/', category: politics, project: civic}
+  - {name: Federal News Network, url: 'https://federalnewsnetwork.com/feed/', category: politics, project: civic}
+  - {name: START (UMD) Terrorism Research, url: 'https://www.start.umd.edu/rss.xml', category: politics, project: civic}
+  - {name: Federal Reserve Monetary Policy, url: 'https://www.federalreserve.gov/feeds/press_monetary.xml', category: politics, project: fed}
+  - {name: Federal Reserve Testimony, url: 'https://www.federalreserve.gov/feeds/testimony.xml', category: politics, project: fed}
+  - {name: NY Fed Liberty Street Economics, url: 'https://libertystreeteconomics.newyorkfed.org/feed/', category: markets, project: fed}
+  - {name: Treasury Press Releases, url: 'https://home.treasury.gov/news/press-releases/feed', category: politics, project: fed}
+  - {name: CFTC Press Releases, url: 'https://www.cftc.gov/RSS/RSSGP/rssgp.xml', category: markets, project: markets}
+  - {name: Investing.com Economic Indicators, url: 'https://www.investing.com/rss/news_95.rss', category: markets, project: fed}
+  - {name: Dept of War (DoD) News, url: 'https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10', category: world, project: foreign}
+  - {name: Dept of War (DoD) Releases, url: 'https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=10', category: world, project: foreign}
+  - {name: Defense News, url: 'https://www.defensenews.com/arc/outboundfeeds/rss/', category: world, project: foreign}
+  - {name: Breaking Defense, url: 'https://breakingdefense.com/feed/', category: world, project: foreign}
+  - {name: War on the Rocks, url: 'https://warontherocks.com/feed/', category: world, project: foreign}
+  - {name: Foreign Affairs, url: 'https://www.foreignaffairs.com/rss.xml', category: world, project: foreign}
+  - {name: Foreign Policy, url: 'https://foreignpolicy.com/feed/', category: world, project: foreign}
+  - {name: Crisis Group, url: 'https://www.crisisgroup.org/rss', category: world, project: foreign}
+  - {name: RAND News, url: 'https://www.rand.org/news/press.xml', category: world, project: foreign}
+  - {name: EIA Today in Energy, url: 'https://www.eia.gov/rss/todayinenergy.xml', category: markets, project: oil}
+  - {name: EIA Press Releases, url: 'https://www.eia.gov/rss/press_rss.xml', category: markets, project: oil}
+  - {name: OilPrice.com, url: 'https://oilprice.com/rss/main', category: markets, project: oil}
+  - {name: Rigzone, url: 'https://www.rigzone.com/news/rss/rigzone_latest.aspx', category: markets, project: oil}
+  - {name: gCaptain (shipping), url: 'https://gcaptain.com/feed/', category: world, project: oil}
+  - {name: The Nevada Independent, url: 'https://thenevadaindependent.com/feed', category: us, project: nevada}
+  - {name: Las Vegas Review-Journal, url: 'https://www.reviewjournal.com/feed/', category: us, project: nevada}
+  - {name: Las Vegas Sun, url: 'https://www.lasvegassun.com/feeds/headlines/all/', category: us, project: nevada}
+  - {name: KTNV Las Vegas, url: 'https://www.ktnv.com/news.rss', category: us, project: nevada}
+  - {name: HousingWire, url: 'https://www.housingwire.com/feed/', category: business, project: realestate}
+  - {name: Simon Willison (LLMs), url: 'https://simonwillison.net/atom/everything/', category: tech, project: ai}
+  - {name: Hugging Face Blog, url: 'https://huggingface.co/blog/feed.xml', category: tech, project: ai}
+  - {name: OpenAI News, url: 'https://openai.com/news/rss.xml', category: tech, project: ai}
+  - {name: MacRumors, url: 'https://www.macrumors.com/macrumors.xml', category: tech, project: ai}
+  - {name: 9to5Mac, url: 'https://9to5mac.com/feed/', category: tech, project: ai}
+  - {name: AppleInsider, url: 'https://appleinsider.com/rss/news/', category: tech, project: ai}
+  - {name: SBA News, url: 'https://www.sba.gov/rss', category: business, project: smallbiz}
+  - {name: Inc., url: 'https://www.inc.com/rss/', category: business, project: smallbiz}
+  - {name: Entrepreneur, url: 'https://www.entrepreneur.com/latest.rss', category: business, project: smallbiz}
+  - {name: Marijuana Moment, url: 'https://www.marijuanamoment.net/feed/', category: business, project: cannabis}
+  - {name: MJBizDaily, url: 'https://mjbizdaily.com/feed/', category: business, project: cannabis}
+  - {name: Golf.com, url: 'https://golf.com/feed/', category: sports, project: golf}
+  - {name: Nieman Lab, url: 'https://www.niemanlab.org/feed/', category: tech, project: media}
+  - {name: Poynter, url: 'https://www.poynter.org/feed/', category: tech, project: media}
+  - {name: Columbia Journalism Review, url: 'https://www.cjr.org/feed', category: tech, project: media}
+  - {name: EU DisinfoLab, url: 'https://www.disinfo.eu/feed/', category: world, project: media}
+  - {name: 'Google News: Nevada legislature', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Nevada+legislature+when%3A2d', category: politics, project: nevada}
+  - {name: 'Google News: Nevada ballot question', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Nevada+ballot+question+when%3A2d', category: politics, project: civic}
+  - {name: 'Google News: Nevada Supreme Court OR "Nevada law"', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Nevada+Supreme+Court+OR+%22Nevada+law%22+when%3A2d', category: politics, project: nevada}
+  - {name: 'Google News: "Supreme Court" ruling', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=%22Supreme+Court%22+ruling+when%3A2d', category: politics, project: civic}
+  - {name: 'Google News: House vote OR Senate vote bill passes', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=House+vote+OR+Senate+vote+bill+passes+when%3A2d', category: politics, project: civic}
+  - {name: 'Google News: political violence', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=political+violence+when%3A2d', category: politics, project: civic}
+  - {name: 'Google News: federal workforce OR federal employees OPM', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=federal+workforce+OR+federal+employees+OPM+when%3A2d', category: politics, project: civic}
+  - {name: 'Google News: government transparency FOIA', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=government+transparency+FOIA+when%3A2d', category: politics, project: civic}
+  - {name: 'Google News: FOMC OR "Federal Reserve" rates', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=FOMC+OR+%22Federal+Reserve%22+rates+when%3A2d', category: markets, project: fed}
+  - {name: 'Google News: fedgazette OR "Minneapolis Fed"', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=fedgazette+OR+%22Minneapolis+Fed%22+when%3A2d', category: markets, project: fed}
+  - {name: 'Google News: BRICS', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=BRICS+when%3A2d', category: world, project: foreign}
+  - {name: 'Google News: "State Department" Rubio OR sanctions', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=%22State+Department%22+Rubio+OR+sanctions+when%3A2d', category: world, project: foreign}
+  - {name: 'Google News: Strait of Hormuz OR tanker OR "oil pipeline" route', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Strait+of+Hormuz+OR+tanker+OR+%22oil+pipeline%22+route+when%3A2d', category: markets, project: oil}
+  - {name: 'Google News: OPEC crude oil', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=OPEC+crude+oil+when%3A2d', category: markets, project: oil}
+  - {name: 'Google News: "trustee sale" OR foreclosure auction Las Vegas', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=%22trustee+sale%22+OR+foreclosure+auction+Las+Vegas+when%3A2d', category: business, project: realestate}
+  - {name: 'Google News: Las Vegas real estate', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Las+Vegas+real+estate+when%3A2d', category: business, project: realestate}
+  - {name: 'Google News: local LLM OR llama.cpp OR Ollama OR MLX', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=local+LLM+OR+llama.cpp+OR+Ollama+OR+MLX+when%3A2d', category: tech, project: ai}
+  - {name: 'Google News: Mac Studio OR "M5" Apple silicon AI', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Mac+Studio+OR+%22M5%22+Apple+silicon+AI+when%3A2d', category: tech, project: ai}
+  - {name: 'Google News: Las Vegas cannabis OR dispensary Nevada', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Las+Vegas+cannabis+OR+dispensary+Nevada+when%3A2d', category: business, project: cannabis}
+  - {name: 'Google News: PGA Tour OR LIV Golf', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=PGA+Tour+OR+LIV+Golf+when%3A2d', category: sports, project: golf}
+  - {name: 'Google News: propaganda OR disinformation media', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=propaganda+OR+disinformation+media+when%3A2d', category: world, project: media}
+  - {name: 'Google News: unusual options activity', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=unusual+options+activity+when%3A2d', category: markets, project: markets}
+  - {name: 'Google News: small business owners', url: 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=small+business+owners+when%3A2d', category: business, project: smallbiz}
