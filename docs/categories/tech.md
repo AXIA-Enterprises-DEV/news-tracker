@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T13:37:28-07:00
+updated: 2026-10-13T13:47:54-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,6 +11,8 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
+- [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
 - [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) — TechCrunch · 13:36 PT · #tech #ai
 - [iOS 27.2 Beta 4 Removes New Health App](https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/) — MacRumors · 13:31 PT · #tech #ai
 - [Why do you think people have such a hard time taking responsibility](https://www.youtube.com/shorts/g90_AFrW7Y8) — GaryVee · 13:15 PT · #tech #smallbiz
@@ -19,6 +21,8 @@ tags: ["category", "tech"]
 - [It looks like Apple Music is getting a new icon](https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta) — The Verge · 13:05 PT · #tech
 - [iPhone Duo Will Have Day-One iOS 27.1 Update](https://www.macrumors.com/2026/10/13/iphone-duo-day-one-update/) — MacRumors · 13:01 PT · #tech #ai
 - [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/) — TechCrunch · 13:00 PT · #tech
+- [HR Giant SHRM Hit With a $400,000 Verdict After Rescinding a Job Offer Over a Service Dog](https://www.inc.com/kaylawebster/hr-giant-shrm-hit-with-a-400000-verdict-after-rescinding-a-job-offer-over-a-service-dog/91419318) — Inc.com · 12:56 PT · #tech
+- [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132) — Hacker News · 12:55 PT · #tech #ai
 - [No biometrics are needed for HomeView to show a user's personal data](https://appleinsider.com/articles/26/10/13/no-biometrics-are-needed-for-homeview-to-show-a-users-personal-data?utm_source=rss) — AppleInsider · 12:45 PT · #tech #ai
 - [After a $1.95 Billion Sale, Allison Ellsworth Is Launching Jetty. It Won’t Compete With Poppi](https://www.inc.com/victoria-salves/allison-ellsworth-launching-jetty-wont-compete-with-poppi/91419200) — Inc.com · 12:42 PT · #tech #smallbiz
 - [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents) — The Verge · 12:42 PT · #tech #ai
@@ -410,7 +414,3 @@ tags: ["category", "tech"]
 - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/) — WIRED · 22:00 PT · #tech
 - [Google Workspace Promo Codes: 14% Off for October 2026](https://www.wired.com/story/google-workspace-promo-code/) — WIRED · 22:00 PT · #tech
 - [Nike Promo Codes and Discounts: 30% for October 2026](https://www.wired.com/story/nike-promo-code/) — WIRED · 22:00 PT · #tech
-- [Booking.com Promo Codes: 20% Off | October 2026](https://www.wired.com/story/booking-com-promo-code/) — WIRED · 22:00 PT · #tech
-- [B&H Photo Promo Codes and Deals This October 2026](https://www.wired.com/story/bh-photo-coupon/) — WIRED · 22:00 PT · #tech
-- [Lego Promo Code | 20% Off October 2026](https://www.wired.com/story/lego-promo-code/) — WIRED · 22:00 PT · #tech
-- [Newegg Promo Codes and Coupons for October 2026](https://www.wired.com/story/newegg-promo-code/) — WIRED · 22:00 PT · #tech

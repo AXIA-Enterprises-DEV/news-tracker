@@ -1,16 +1,18 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T13:37:28-07:00
-count: 381
+updated: 2026-10-13T13:47:54-07:00
+count: 383
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-381 most recent items (14-day window).
+383 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Sequence changes help modified mRNA avoid protein-making errors to improve vaccine design](https://phys.org/news/2026-10-sequence-mrna-protein-errors-vaccine.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [Researchers uncover multiple genetic paths that lead to mottled feathers in chickens](https://phys.org/news/2026-10-uncover-multiple-genetic-paths-mottled.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
 - [Quantum physicists trace a century of controlling spin](https://phys.org/news/2026-10-quantum-physicists-century.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
 - [New electrochemical sensor could make food quality testing faster and less expensive](https://phys.org/news/2026-10-electrochemical-sensor-food-quality-faster.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
 - [Want more women CEOs? Start with company structure, research finds](https://phys.org/news/2026-10-women-ceos-company.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science

@@ -1,17 +1,19 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T13:37:28-07:00
-count: 304
+updated: 2026-10-13T13:47:54-07:00
+count: 307
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-304 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+307 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
+- [4 - BRUUN BRENT C (0001441377) (Reporting)](https://www.sec.gov/Archives/edgar/data/1441377/000144137726000016/0001441377-26-000016-index.htm) — SEC EDGAR All Filings · 13:46 PT · #filings #markets #oil
 - [US to use Defense Production Act to expand Delek refinery in Texas, Vance says](https://seekingalpha.com/news/4652677-us-to-use-defense-production-act-to-expand-delek-refinery-in-texas-vance-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:28 PT · #markets #oil
+- [Port of Los Angeles Sets All-Time Cargo Record as Imports Surge](https://gcaptain.com/port-of-los-angeles-sets-all-time-cargo-record-as-imports-surge/) — gCaptain (shipping) · 13:26 PT · #world #oil
 - [Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower](https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html) — PR Newswire M&A · 13:15 PT · #business #markets #oil #realestate $BKD
 - [OPEC Has Cut Oil Demand Growth by 0.2 Million Barrels Six Months Running - The Eastern Herald](https://news.google.com/rss/articles/CBMie0FVX3lxTE5HdVRCM1BscTdTWG9ZWjQtZTZQNFN5aFplUHBCN3l2b2ZmZXU0Ulh2T3hpZHpSMmVnYzFocUlkOHJ4R29ybkxVR2FSc0NFcHdfc3ZxZTNnbVRWZVV2el9jVEJYc2ozSDVfRkRRTVpDRXFzd2trYWV2bFp2cw?oc=5) — Google News: OPEC crude oil · 13:02 PT · #markets #oil
 - [Inhibrx Announces Participation in Upcoming Scientific Conferences](https://www.prnewswire.com/news-releases/inhibrx-announces-participation-in-upcoming-scientific-conferences-302907553.html) — PR Newswire M&A · 13:00 PT · #business #markets #oil $INBX
@@ -27,6 +29,7 @@ tags: ["project", "oil"]
 - [OPEC cuts oil demand projections for remainder of 2026 - The Hill](https://news.google.com/rss/articles/CBMilgFBVV95cUxONzdWR1dwVnFnSXBCTFJWRkV0SUZjNTlLOU5jX0sxR09PSXB4cGVxMkRURUFXNTJOUHo2RWxVWk4yVEdCNVljYnpKV0h0TXQxUkh2MkdUNF91M1poWmNYOEtFd2RSVlpmb25YQkV2U0RVN0lrVlg4OEdPWmdSSFVRbmNxelBnTExwT2pvYkx4OXZfTG5nbGfSAZsBQVVfeXFMTU02aWNVeGM5MWlBWFBRWlNoOUxIdDN4OTlMYVRoaWlhb196MmRsYXFad0gxWDE4SHZIT3V4VS1tdUZQcUZNa0dMUC02OUlNMV85bzc2MmFNWS15RjJHR3pnTFhtSEs5WEJxQURnODBZa2hrMkNmWnNKQVFNYmxSUDdBcFgzb3haaExxbUNSS3ZUdXA0MC1hTEJIREU?oc=5) — Google News: OPEC crude oil · 12:04 PT · #markets #oil
 - [Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time](https://oilprice.com/Energy/Crude-Oil/Guyana-Oil-Exports-Set-to-Surpass-1-Million-Barrels-per-Day-for-First-Time.html) — OilPrice.com · 12:00 PT · #markets #oil
 - [Nigeria’s Daily Oil Production Peaks at 1.84 Million Barrels in September – NUPRC - DAILY TIMES Nigeria](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzlraE53QjZnTm0zUHE5N2loUldaZ0tKdWNWSUpGWHNOdXg5czhQSDFkLXNES0QtX3R0NVU3MzdJa3NKZzljVFQzSFhLT1pveUJNVzdSZE1WODJ6dDZLVDJfTDRXZzBIMktwNTZOejJDX00ta2ViR0VIT2tHeVpDMXZHUUgzX3JqdjZTY0pFM3hfTTlmeEpFaV9hbXlQQlVXdnQ4RjFxOA?oc=5) — Google News: OPEC crude oil · 11:55 PT · #markets #oil
+- [Saudi Arabia Strikes Houthi Targets as Red Sea War Escalates](https://gcaptain.com/saudi-arabia-strikes-houthi-targets-as-red-sea-war-escalates/) — gCaptain (shipping) · 11:48 PT · #world #foreign #oil
 - [Nigeria met OPEC quota for fifth consecutive month — Premium Times Nigeria - UA.NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmtMLW1nZDluc0lQRVN6d1VaUUg5ZG05S3o5S3VzUU93Um94STJJUmdOcnV1ZFRMbWIxdmVfQl90WkliX0ZUMHVoLXVWTnhiTW1FT1ZiaHZBRHR1a3lfeXpvRm0xLWJ6bTQyNUJJVm0zczJtTm83SVd3eFZEbUg0eGU1TzhyQkw2dXdiSFg1Sm1pb1ZaT3VYWUU0bldEanBoS0tIZg?oc=5) — Google News: OPEC crude oil · 11:41 PT · #markets #oil
 - [Nigeria meets OPEC quota for fifth straight month as oil output hits 1.84m barrels - Premium Times Nigeria](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdHA2S283bEJfWmtWUmNFRHlXUTg0c0ZuUEpuNkJvZUN3NmFxdFVMVC1zcE11LW51QkJpSHJxT1BaM2ZBN1U5VXZMMEZFa0MyU0hFa0dubjBTa2RWTS1SLXhwNmJhSXlFbXA0N3JnLTAzczd2azZVVlZIRkNnYVlGc3hYTFFzejRTSVR1WkNSWERjeDR4S0RnaVlqLTRFVE5qNl9FdXRDeE9scEFYbVIzZXVXdmhIWDBvUnpGX3RhbzZjc2tZMG5oWmwtWkFPZEU5aC1oSm9OM1RfeW5MX1NIU0RR?oc=5) — Google News: OPEC crude oil · 11:17 PT · #markets #oil
 - [Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks](https://oilprice.com/Geopolitics/Asia/Trumps-Middle-Corridor-Plans-Face-Russian-and-Iranian-Roadblocks.html) — OilPrice.com · 11:00 PT · #markets #foreign #oil

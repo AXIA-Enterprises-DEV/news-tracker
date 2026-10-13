@@ -1,16 +1,17 @@
 ---
 title: "Category: sports"
-updated: 2026-10-13T13:37:28-07:00
-count: 158
+updated: 2026-10-13T13:47:54-07:00
+count: 159
 tags: ["category", "sports"]
 ---
 
 # Category: sports
 
-158 most recent items (14-day window).
+159 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Rory McIlroy's newest sponsorship includes an insane travel perk](https://golf.com/news/rory-mcilroy-new-sponsorship-insane-travel-perk/) — Golf.com · 13:37 PT · #sports #golf
 - [McIlroy says he would vote for LIV Golf stars to be welcomed back to DP World Tour - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVhDckJRbEhpdlRqQS1fTmtjbzMtTDZTd2w0bXFTajNSd25DUmlhZFNWeFRQdWhhUmJlUUtxQ2NXYXFXbm9SYkMxVlRvTUxrSmlVUVhaQzRoR0d1ZFloWUpoNnFLbG1KQ0t6czQzQU15WUVQYmdxc0w0bXhqWGE3bFZJWFNRNTVPY3Utd0NtWW5FYkVpOEJjalI4VW1XUmc?oc=5) — Google News: PGA Tour OR LIV Golf · 13:19 PT · #sports #golf
 - [JumboMax Golf Grips Celebrates Ambassador Ian Gilligan Earning PGA Tour Card - The Golf Wire](https://news.google.com/rss/articles/CBMibEFVX3lxTE1NNnFXelk5TXdfSjNuLWJFd2xmRmQtZXRDdFFmamd2bGlvR1RBVlZTQWh4WUVkVG1CT19JT0F5RDVqLXNVWXNRaDNIejdjWFVDR2d4LVY4dG1oc0UyNUpoa1Q4THQ2QmdpSXhYSA?oc=5) — Google News: PGA Tour OR LIV Golf · 13:17 PT · #sports #golf
 - [LIV Golf players face another deadline with their future in golf at stake - Bryan Times](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM0I4d2poaFZndUhHb1hyc0UyOGpMNno2OHRZOE9ma3RMM2hNaTJmSkhVTnM1SGUzVVVlXy1rTUpZazRSRlByMnhKU0cxTGg3Mm9Yd0pqZ2xNY2IycXNSRTVnTTBRMGFweXEzbkhaSG5OUjh1dkZIMjQtV2xwMzZSVnY5VnNRZ3NrakdXVDgxNHREWVlfelNzMzJ4cDVYbXAyYVJSYmRkQzEwZExtaDNVNFJPaEVpa0ltUURqMjdEb1RZX2xBZE9QbGNwaXNyczg3SGtFS2otVEtYTm1WSkhrbHBoR0M1ZnpWNTJXWHJPOTVLMkM3d0NfYVhoUQ?oc=5) — Google News: PGA Tour OR LIV Golf · 13:07 PT · #sports #golf

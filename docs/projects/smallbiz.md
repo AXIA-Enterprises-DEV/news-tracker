@@ -1,13 +1,13 @@
 ---
 title: "Project: Entrepreneurship / Small Business"
-updated: 2026-10-13T13:37:28-07:00
-count: 276
+updated: 2026-10-13T13:47:54-07:00
+count: 277
 tags: ["project", "smallbiz"]
 ---
 
 # Project: Entrepreneurship / Small Business
 
-276 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
+277 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
 
 ## 2026-10-13
 
@@ -129,6 +129,7 @@ tags: ["project", "smallbiz"]
 - [Mamdani Administration Launches Debt Relief Program for NYC Small Businesses, Homeowners - Mirage News](https://news.google.com/rss/articles/CBMihgFBVV95cUxQczRER0FpN0tyVjhfUmJubkZKLW01NEtnT2JiMVl0a3B5WUVVWUU0aUtrWG5CLUQ1c2dKbWFhbjhySFhWdkxlMDRGS3JOOE9ZYXlmMjhOMTNsZ3NNelM4Z0hNZ3lGYXFKS0dzRUthRXVZNFh6Qy02S21lZ1NVU1ZGMU9OQWdEUQ?oc=5) — Google News: small business owners · 04:22 PT · #business #smallbiz
 - [Nigerian SMEs are adopting AI faster than they are protecting the data that powers it - Businessday NG](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSEg5SHZKaC1GVlF1VHFQSmRNcWhDVEczcjVfUUpUR1lGaVNhRFB1QVZjaTZITWhZNFU0THl3cjdETTI5MnhJNWhwclh5d25ibUVUMzhzZk1TNHctUHFjWFRDN1ZkdW9zNEJidWNVZmN5YkVERFFZcVFxNWM1aUtfZ3RvaUhLMjIxVzJLZDFNQkZyeHc1YW1ZQV9kVks1RWRNRHNaTlZoXzgwQW9kOEtLT0NETUQ5WklrRFBuS0I0STdQVzTSAcgBQVVfeXFMTTBZNU1BNV9pMFhNeVJ3ZC1YaWFBNUZaZzVCLTlsZkdDOHhaYWVJbUdrZnVWU2U1TWpOZUlWUjdKVzlNaXpxa29Bc19CVGhlSlZKeWVkOVI3OFBVbXZWQVhScVdyM0NtcHBITmtCVTJnODhHWkF0WXh3RnBmTnA5VnRSaFRkcnV5MkU5WmZoSXFaQmstNXM5cVFMR29zN0hDWjRPQlR3bTZhVU5HVUw0RkFlYmVNNDUwMUhyWHBHSGVfSmNLMUFDRjI?oc=5) — Google News: small business owners · 04:11 PT · #business #ai #smallbiz
 - [US small business optimism index slips to 97.9 in September - Sharecast.com](https://news.google.com/rss/articles/CBMijwJBVV95cUxORzlYbUZKZ0NxZlFaVXN5aXlBcnJBcmVfTjFwel9nWndmN1hkYzdIY19YOTJkSV8xLWVMWXZ1dEJ2bXpmeW5QM0ZVbG45M2d3dTZaZDd2RWtZMzI0UFJMRVZsTm9EbEtndVI0WEkzQkRRaUNralRCOHVqNEJ5QWNWMko2TDFUVGVHWjU1Z3diajdEM2QtVnhLZFRBcmdPUlEtbW1fWFFrQlZvdmZDRlU3NGVxZmZQZ1dQSkJnVG43a2FQbi0zaEUxYWZvSzhGS0tfa0tZeFRpdmtiQ1hBNEZ2OGNxWDN4NGp4Tm9WS3JzV1JLa0VtR3hnLWt6ekIyZUFtOEJUbVBhbWZWX2dJSE44?oc=5) — Google News: small business owners · 04:07 PT · #business #smallbiz
+- [Mamdani offers New Yorkers a break on unpaid city fines under new 90-day amnesty program - amNewYork](https://news.google.com/rss/articles/CBMifEFVX3lxTE9DT1YxZVVZNGFhVno0NWh1dm44aTBQT2wzU3ZiV2pSN2tVX1ZiSXBTbU1qSXJXamRYbHZCSVVndHYyd3RHeFB4Z1JMT2dGcS1HdDNVc1RNanZ3R0szNHVwNk00OFhJU3hSWi1ZVXdBTS0yU2xpMHVzNXF2RDA?oc=5) — Google News: small business owners · 04:00 PT · #business #smallbiz
 - [30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/) — WIRED · 04:00 PT · #tech #smallbiz
 - [Crumbl Expected Dirty Sodas to Lift Sales 20 Percent. Now a Franchisee Has Filed for Bankruptcy](https://www.inc.com/moses-jeanfrancois/crumbl-expected-dirty-sodas-lift-sales-20-percent-franchisee-filed-for-bankruptcy/91417523) — Inc.com · 04:00 PT · #tech #smallbiz
 - [This Economist Studied Millions of Business Owners. He Uncovered the Surprising Way Everyday Americans Actually Get Wealthy](https://www.inc.com/tom-foster/economist-studied-millions-business-owners-uncovered-surprising-way-americans-get-wealthy/91417463) — Inc.com · 04:00 PT · #tech #smallbiz

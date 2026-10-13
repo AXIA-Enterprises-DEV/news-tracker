@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T13:37:28-07:00
+updated: 2026-10-13T13:47:54-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,10 +11,15 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
+- [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
 - [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) — TechCrunch · 13:36 PT · #tech #ai
+- [Generate Biomedicines, Zealand Pharma form AI drug partnership](https://www.investing.com/news/company-news/generate-biomedicines-zealand-pharma-form-ai-drug-partnership-93CH-4947531) — All News · 13:36 PT · #business #ai
+- [Zealand Pharma partners with Generate on AI drug development](https://www.investing.com/news/company-news/zealand-pharma-partners-with-generate-on-ai-drug-development-93CH-4947530) — All News · 13:36 PT · #business #ai
 - [Samenvatting: ExaGrid maakt recordcijfers bekend qua boekingen en omzet in het 3e kwartaal](http://www.businesswire.com/news/home/20261013278250/nl/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 13:32 PT · #business #ai
 - [iOS 27.2 Beta 4 Removes New Health App](https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/) — MacRumors · 13:31 PT · #tech #ai
 - [Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.](https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:27 PT · #markets #ai
+- [OpenAI employee arrested over hidden listening device, company says](https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422) — Investing.com Stock Market · 13:18 PT · #markets #ai
 - [Rocket One Signs Agreement to Advance Nanomagnetic AI Chip Technology and Device Prototyping](https://www.prnewswire.com/news-releases/rocket-one-signs-agreement-to-advance-nanomagnetic-ai-chip-technology-and-device-prototyping-302907604.html) — PR Newswire M&A · 13:16 PT · #business #ai #markets $RKTO
 - [8-K - Arrive AI Inc. (0001818274) (Filer)](https://www.sec.gov/Archives/edgar/data/1818274/000149315226046827/0001493152-26-046827-index.htm) — SEC EDGAR 8-K · 13:15 PT · #filings #ai #markets
 - [TriNet Expands Embedded HR Solutions and AI Capabilities for Small and Medium-Size Businesses](https://www.prnewswire.com/news-releases/trinet-expands-embedded-hr-solutions-and-ai-capabilities-for-small-and-medium-size-businesses-302907352.html) — PR Newswire M&A · 13:15 PT · #business #ai $TNET
@@ -26,6 +31,7 @@ tags: ["project", "ai"]
 - [Unlock free AI tools for your small business through UH Maui College webinar - Maui Now](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1R6SmhCc2xsODZEMFB6eko2SFNhdUhYNF9WT1ItaXQ5amtqZDZneV9qTWIxY3JoRlZKeHFmZENiSUNuOG1uWU5wY0pCNGducG10VEJWOGVqQ3U0VWJYN25tNTJvTHBWU3FpUC13TlB5Y2dUNEZhT0Q2SkpWaWx4VUR3UkIxcEllaVVsQlY5S2xmN2duZjg0TXRldW03cGdiTEJpc3l6Q3V4QWtE?oc=5) — Google News: small business owners · 13:00 PT · #business #ai #smallbiz
 - [Meta’s Muse models reach the AI frontier—and kill any hopes to ‘pace’ it](https://fortune.com/2026/10/13/metas-muse-models-reach-the-ai-frontier-and-kill-any-hopes-to-pace-it/) — Fortune | FORTUNE · 12:59 PT · #business #ai
 - [Accenture Launches Forward Deployed Engineering Program with Workday to Reinvent Work for the Agentic AI Era](http://www.businesswire.com/news/home/20261013697342/en/Accenture-Launches-Forward-Deployed-Engineering-Program-with-Workday-to-Reinvent-Work-for-the-Agentic-AI-Era/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 12:59 PT · #business #ai
+- [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132) — Hacker News · 12:55 PT · #tech #ai
 - [Apple's Siri AI integration into new home lineup could drive up Services revenue: Ives](https://seekingalpha.com/news/4652635-apples-siri-ai-integration-into-new-home-lineup-could-drive-up-services-revenue-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 12:55 PT · #markets #ai
 - [Dog Parents Ask AI About Their Dogs Daily. It's Never Met Their Dog. Maven Pet's Companion Has](https://www.prnewswire.com/news-releases/dog-parents-ask-ai-about-their-dogs-daily-its-never-met-their-dog-maven-pets-companion-has-302907575.html) — PR Newswire M&A · 12:53 PT · #business #ai
 - [Strict liability is gaining traction as a solution to force AI companies to institute better safety controls. But it has some big downsides too](https://fortune.com/2026/10/13/strict-liability-is-gaining-traction-as-a-solution-to-force-ai-companies-to-institute-better-safety-controls-but-it-has-some-big-downsides-too/) — Fortune | FORTUNE · 12:52 PT · #business #ai
@@ -408,9 +414,3 @@ tags: ["project", "ai"]
 - [Credo Launches Short-Reach Micro-Emitter Optics (SRMO) Standardization for AI Data Center Scale-Up and Scale-Out Applications](http://www.businesswire.com/news/home/20261012753816/en/Credo-Launches-Short-Reach-Micro-Emitter-Optics-SRMO-Standardization-for-AI-Data-Center-Scale-Up-and-Scale-Out-Applications/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 15:20 PT · #business #ai
 - [Anthropic’s Claude AI Predicts a Wild Price for Chainlink (LINK)](https://cryptonews.com/news/anthropics-claude-ai-predicts-chainlink-price/) — News - Cryptonews · 15:18 PT · #markets #ai
 - [Apple trails Samsung as global smartphone shipments hit a 13-year low](https://appleinsider.com/articles/26/10/12/apple-trails-samsung-as-global-smartphone-shipments-hit-a-13-year-low?utm_source=rss) — AppleInsider · 15:02 PT · #tech #ai
-- [OpenAI Expands AI Agent Training for Small Business Owners — Website Built in 15 Minutes Demonstrated - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5uQ0dOLXBOZ3R1Q29ZaUI4MWdXaGI1YUs1WW5hWjQ0MlVWbzlqWVlqeFZ3WlVQOGphZG1OUU9PcW80WTJ6UVVTMUh6ZGM1amFEZUR4OFFLOVZFQk1tVUVxRVlMWVA4ZWpGclZYRUxqOERqc0hwNUE?oc=5) — Google News: small business owners · 14:58 PT · #business #ai #smallbiz
-- [9to5Mac Daily: October 12, 2026 – Last-minute Apple event rumors](https://9to5mac.com/2026/10/12/daily-october-12-2026/) — 9to5Mac · 14:57 PT · #tech #ai
-- [Apple’s new ‘Switch to Safari’ campaign details why you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/) — 9to5Mac · 14:50 PT · #tech #ai
-- [Riassunto: L&T Technology Services lancia EI Lab per la produzione e la gestione delle operazioni, con la fabbrica nativa per l'AI accelerata di NVIDIA](http://www.businesswire.com/news/home/20261011664679/it/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 14:47 PT · #business #ai
-- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) — Hacker News 200+ · 14:40 PT · #tech #ai
-- [L&T Technology Services lance l'EI Lab dédié à la fabrication et aux opérations, avec une usine « AI-Native » reposant sur les technologies de calcul accéléré de NVIDIA](http://www.businesswire.com/news/home/20261011698945/fr/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 14:39 PT · #business #ai

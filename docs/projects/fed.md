@@ -1,16 +1,18 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-13T13:37:28-07:00
-count: 130
+updated: 2026-10-13T13:47:54-07:00
+count: 132
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-130 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+132 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-13
 
+- [Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds](https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html) — CNBC Top News · 13:42 PT · #markets #fed
+- [Fed’s Collins signals further rate hikes likely as inflation risks persist](https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534) — Investing.com Stock Market · 13:40 PT · #markets #fed
 - [Boston Fed's Collins expects another rate hike will be needed by year-end](https://seekingalpha.com/news/4652616-boston-feds-collins-expects-another-rate-hike-will-be-needed-by-year-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets #fed
 - [NY Fed's Williams Sees One More Rate Hike This Year as Appropriate, No Need Next Year - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LbUx3ZFJQTHBzUFF0NEZrdnF2d3k0Yk9EeHZYNXpFSm1QZUhaTmVHdVprOU9XUFJ0Yk0xbUF2am9Eanh1eXJ3c0JPeWZ4a0VJNVJWM0hpdThMR2hhRzhIejE1dG9YMTh5Qldyc0RxQ0l5WTZVdkE?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 12:55 PT · #markets #fed
 - [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html) — CNBC Top News · 12:46 PT · #markets #fed

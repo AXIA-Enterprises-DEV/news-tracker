@@ -1,16 +1,17 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-13T13:37:28-07:00
-count: 114
+updated: 2026-10-13T13:47:54-07:00
+count: 116
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-114 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+116 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-13
 
+- [D - Forman Capital REIT Feeder Fund 2, LP (0002146560) (Filer)](https://www.sec.gov/Archives/edgar/data/2146560/000181455426000219/0001814554-26-000219-index.htm) — SEC EDGAR All Filings · 13:39 PT · #filings #markets #realestate
 - [Miami’s Little Havana confronts housing density’s double edge](https://www.housingwire.com/articles/little-havana-density-housing/) — HousingWire · 13:26 PT · #business #realestate
 - [Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower](https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html) — PR Newswire M&A · 13:15 PT · #business #markets #oil #realestate $BKD
 - [Some builders beat an entry-level retreat. Valera eyes an opening](https://www.housingwire.com/articles/valera-homes-houston-entry-level/) — HousingWire · 13:07 PT · #business #realestate
@@ -113,6 +114,7 @@ tags: ["project", "realestate"]
 - [Bulk offering of Las Vegas hotel-condo units up for sale - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQXy1RWjFYZTgyVzRkaExELTM3MHJtM3E2WERrcktwdUlDTkVuRWt0R05EdU1DSERWWTZWalhnbVJpaFRzRkQzOFJFcTlTaU1tbjZxcmpVTW1hQmE3M044eEwwSmpUQ2c2SzlYaVFoSmdkTlNNd0tyWW5BSkUwdjBRaEQtUVVmTkFObDRsdnlIeExBQnhrVTdZV2d3NktJalNlakphMndwelJJc3VuVVk5ZmNyWmtwdnlEaWVrd1RLZXByNTdid09mYVI4MFV1SEh6TFhvaA?oc=5) — Google News: Las Vegas real estate · 06:01 PT · #business #nevada #realestate
 - [MBA expects two more Federal Reserve hikes, in December and Q1 2027 - Mortgage Professional America](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWxBZTRkVUpzMVhoYUJ5aWRvZjVYQUx5cTVOd2xMbGNyNkZzNE1OYk83R2diQ1FEOWZZR2k1RmxWSjVzaV9zZmI0MFh6VmF4MkZ1M2tFczdpR2Z2Z1cwU1JjY0FveWM4ZTdmRmlER1VmS2l4SzVwUThoSEZDa1pYT1JGYkUtbE1EdHJhVEowNUdZUkVzWUFwLVlaN0czMXZnd0lJN1pQdTBCMWIwU0p1OTUxSXFtbjJkcFc2YnlzNkJ6ZjI5TXpYVjV2c2c?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 05:06 PT · #markets #fed #realestate
 - [At $5.5 Million, this Los Angeles Home is the Priciest Listing on the Venice Canals - Mansion Global](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmFyVUZpLUNpaWY4SDlqR0c4aS1ET1Ytb1RUaUczZ085bEhtZ3dIZVpjMV85MXAxeTFXd0F1Y1NvZzBhTmNjaXJ6MEM5MGlyYVZKbkFEcUEzZ0lra29DMl9jcnVVYlliOElvRWhsNmMwc0o1bUp0REhJNk41YjM1aFF2M1FvcU9VNUIyODdjLXdDdzBqYU9wQXVBZTdrQXdxMnpfTGI4Znc2Tzc3RHE4RmNUaXhVMDVqWk53Q3JhSnd4dFd20gHKAUFVX3lxTFBkbE5OOVdOc2dBeExfeTBKN1VnUmNqV05pdkJQYlZ2eV9Mb3BsZVFzclJmV3NFd2NHMWtiT2I5NGNDdnpqSjdHT1RybnpmRmxYVEJhblFUaDlyUE13XzJxMzBtU3paLVpPd1pVT3JwQ0VodFotbzc0SUZqSjQxVHFscDNaUEhyNjFhQTE5eTJEWGp1Zm05STMxY3Bqb0N4V3Z3WGtIQUtPTDlXel9CUG5JNDduYTlfbzNLOWVWX1h2NDBUMkdCV0dKdEE?oc=5) — Google News: Las Vegas real estate · 03:57 PT · #business #realestate
+- [San Francisco Bay Area’s Quirky ‘Flintstone House’ Sells for $2.8M - Mansion Global](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEpST0tnYndhNXFCTGVpTUFWb0R6cWxSdUt3bHpRN1JiUmFtZ3A0WGpOZjNndkhubC1jM0NmSlNjc3IzbHNYUmllemRqbVNHclQzVV9kZFFmbUVvSUFpVzVrU1VWNXphNlJZY2xEWWlKbmcyc2Zja2FxSU5kUG82UVRQUll1clVkbk9fUTJPZVhCem0yQzJBT19neUZrZEhuUnphODhyRU83UDIz0gGyAUFVX3lxTE9TYmZfR1o5aG0wRHNGU3VjUTZlNHlPLVliRnJLbUlnVk4yUkxlb3pFNzl2dDJ6RW1aQnl2M0ZnS2tXUV9kakVOMWl5LV8xQzI3cjJnMEZpVHV3Wm1HQkcxVVoxcHpsazRnaFZ5V3dZekV4Zk5vVzQtVmQxU2NWd01DYndJX1VhN0UtOGNBY282Y1lDMzkzZzNiZzVsYmg1dnBtcVoxVVZZNzJpOVIzTGZ1TkE?oc=5) — Google News: Las Vegas real estate · 03:57 PT · #business #realestate
 - [Kelly Clarkson’s late ex-husband bought this luxury Montana estate in 2022 and lived there after the coupl - The Economic Times](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNRGJ5ekFkaDhNNW5WMGlrOEtocEpncU95TE91NTVzVDZlZDBJeHZyVVJCaldkVWo5TkQxREk0Slc0NUVaQUVJbFFBZTl6SmxJcXRDX3JoM01neUl6WFV3SkthQ1FObzhWRkNmZW9iaUk4T1EtM0tCMmw0ZElsUHFzWjhrN0ttZlc2LWNVT3VwekpUaDNFNEk0TGktUEJMOXdhd1UtZEFZcm5EUW9uaHFRQzdUUlF4TTdVRkp3OU9VT2lydEhlc3QtZ3RBOUpTTldTbnp5Z1hFMGk1R09fWXhBa2RpWi1scllfYTdGWXM3RWRNUWdSOEtMLWtsOUpReVR5RXN1bTE4OTZsYkFzRGxJVkZPUERCeWRKUjJkTDVCNVhkbUtCdEx4UHJNY3VoVzRHUndiZGVmaDZTUXhCRjE2QTAydU1YYUs1VE1MdnJpMmEzOEc0SGp2d3dWenpRa0Z4MWh4SXZUdDc0WHd1c3ZyX3dKZHJOQWvSAfwCQVVfeXFMTXRiRGlBUDZyd1EwdjlrTmZUSHZHcF9wbk9wWUhnN1MtWkVsakVnWjYzc3laX185ZUNlY0hLdVFoRlhhZTkxMUhIbEMwaHhuTXdWVjFyNTFFN05VZ25rN19TOUVEVFRZd3FKWTRKeVA5UzgzNE1xNHhraFByZlpNcEd5Q19Nc3o3UV9SM1Z5MzNaaXJfMUQ2cTZqRXZXUnU0ZHhzWlVLLXRJNWFCRmEwVVVtYUFoSU5EZGtUUVJFbkFacThaNmRJbGM1cUJ2YUUwTVBVdE1iRk1POVhFR0I4N1lLOW8yUkZwUFl6RExpQ0RsMnc2VnZrYkZMbHdKN192RFNfVC1lRmNCWmNhUHNZVmtxQVJsRGo0TjFYa0U4OFpsYzNTd3dxTFpSaXNpNUQyQURwaWUxc2dqLUxXOWtjVDRIVFZIcDgwcUZxYlVMMnpVY2RCZFBLcTFNTktZOS1zQ0w5WTB1QllKenRTRF9wM3FTUlo4LThHeHlMazg?oc=5) — Google News: Las Vegas real estate · 01:29 PT · #business #realestate
 
 ## 2026-10-11

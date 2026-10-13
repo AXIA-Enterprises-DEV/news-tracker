@@ -1,16 +1,17 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-13T13:37:28-07:00
-count: 250
+updated: 2026-10-13T13:47:54-07:00
+count: 252
 tags: ["project", "nevada"]
 ---
 
 # Project: Nevada / Las Vegas
 
-250 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
+252 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
 
 ## 2026-10-13
 
+- [Chicago police say DNA links former detective with Las Vegas ties to killing of 8-year-old girl](https://lasvegassun.com/news/2026/oct/13/chicago-police-say-dna-links-former-detective-with/) — Las Vegas Sun · 13:39 PT · #us #nevada
 - [LVCVA happy with results of this year’s five-day sale in September](https://www.reviewjournal.com/business/tourism/lvcva-happy-with-results-of-this-years-five-day-sale-in-september-3899593/) — Las Vegas Review-Journal · 12:59 PT · #us #nevada
 - [Las Vegas Global Economic Alliance and Commercial Real Estate Brokers Join Forces and Leverage Assets to Attract Business Investment to Southern Nevada - Nevada Business Magazine](https://news.google.com/rss/articles/CBMilgJBVV95cUxNUXNrWEc4cWZSRDNpR3czRGZLeEZTajljVnNiOXdIUWlCUm8xeHduSjNMOGpMMGRsbVpHRkd1VUYzblJuNkE2QXNtREllTUdNclZPWkp2RGhDdVFRVmFNTWZsalloTVVEOHBFelo5NFFnNDB4Z05uNEhjZVlTVHJxUlgwcVhUUVEzeFljUjhHX1N2MVhHV2hzNmJLTHBSSWpPb2R2T2NBbF9yV1BLOEE5b2NFRXNHNnFaREg3OHRiSW42UzN1WWppSHF2a3d2WGV5UUxnajBBenpiTFJSeFdSREhPcnVaYUpRRzF4RU4wQWtUdnhfbFdJbS1HYUxDdk5IRDB6M0dnb1kwTFJZZ1hLd2tJcDEzdw?oc=5) — Google News: Las Vegas real estate · 12:34 PT · #business #nevada #realestate
 - [Vatican says pope’s lung nodule surgery was successfully completed](https://lasvegassun.com/news/2026/oct/13/vatican-says-popes-lung-nodule-surgery-was-success/) — Las Vegas Sun · 12:31 PT · #us #nevada
@@ -48,6 +49,7 @@ tags: ["project", "nevada"]
 - [AI data centers are coming for federal land. They’re roiling the Nevada governor’s race - Boston Herald](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVRtblNMdXh0U1F5T1FrMVQ1SUVTbDJZTU5OVHlEYkV2cndkQWxZV2w5dF91dmROdzQ1MjlzNl9KQlJzOTB2N2s4WmhraWZxajNFTHRUajNiTXlsaG1fNERQZWtiS1VhYnlkMGdiaGtmcWJsaFdZVm5iZy13NXhJYWtiVQ?oc=5) — Google News: Nevada ballot question · 08:52 PT · #politics #ai #civic #nevada
 - [Man killed on a Six Flags roller coaster was thrown from the ride and hit other patrons, police say](https://www.reviewjournal.com/news/nation-and-world/man-killed-on-a-six-flags-roller-coaster-was-thrown-from-the-ride-and-hit-other-patrons-police-say-3899509/) — Las Vegas Review-Journal · 08:37 PT · #us #nevada
 - [Can Nevada Democrats Roll a Trifecta? - The American Prospect](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2YxZjZtOWR1OGx6WFJTXzlDZEo2MWtmNEQ4VFdoVURXeUtiSF9JRG9qeU9jTWpUdktDZXV6RGs2Z0I5TXhqS29kcVozWGFfZFFFNDNwcHR1SnVvcDh3aF9mMTRpemx1cDF4WHlKaThIcS1hMGluLWc2NmY4SzNfS2F6SXVSZ2RRbkVn?oc=5) — Google News: Nevada legislature · 08:02 PT · #politics #nevada
+- [Duane Davis sentenced 40 years to life in prison for murder of Tupac Shakur - fox56.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTRINHBUZGVRYzhUa1JsekdTWnJIakhnYzBmdUtaQnB0QXdrdWVNQ0p1Y29seHRFdE1aLTR3blpJLWptU295WU5LTk42aWh5UmR2dGduNGMwcWVkYmtoZGh6X0NocEZaa1NXZmpJeU0zakxCVmV0TjZYS3lZcl9UTjV1YVhwaDQ2azdGN3ZrOHN2VE1OYWhMTW1sRml0WFNqaDZxeGw1QWpsVmNhTmtNWmFLb0laZW8zQW5qT1VFYUdYVjdFTE5iZWI4OHFLUEZCVXNwLXgyVjFHcjVUU2Nqckd4bWRwdw?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 07:40 PT · #politics #nevada
 - [New owner of once-stalled Las Vegas housing complex resumes work — and keeps trespassers out - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHNta25welJBcHFVMVBYcFp4V05weHB5aldFOEFseEtOVXlRV1NQN1hqZzVCeW5DbXRtUV9GblpmVFR0XzJ3QjZBbktjcVczVkxLRGRVR1dQd1hLRTVrWGtpc0pVUG9kd0ZaRm5tRC05THg4QWh4NHdHTHlKRnZhOGsyd0FNYW93b3pZSk5mellXZkUtQWczakpSalFXRGZpZ0dTa0FFV09lSFdvRTNKXzJKY2p2clhvV0NYaE8yUDgxbmhGUUc4?oc=5) — Google News: Las Vegas real estate · 07:28 PT · #business #nevada #realestate
 - [Tupac murder suspect "Keffe D" speaks during trial - LiveNOW from FOX](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzZfY1plcF9RbkJNd2t1XzZIVTRDbjVOZF8yTW5QeHlSWm4xVkg1LXZneDBsQkVtRE51WTVGTE5QRlAwbWh3NTZHRWd2OTlOaHRmSlMtajdaaEtkTUpPaklMampYNDFkQ1RNZzhaR1FVSVBqUVNyOXRtdnl0MUZESnVTdTk4VWNxeDRBX1pTNzXSAZYBQVVfeXFMT0M4RF92aWlXZTVRZ0Q2Y0RyUjVFSUh3Z1VzWWM2SFlZOEMxdFdMYVdha0NzRVdSZXpOdHNfZDNqTmVPN3FFZE81bEV1YktVaVRBZFdHSFhsbXdqZ2d4RnZReV83VHh5dUJRcnlHQTRiQmVWUU9Fa1M5WTdQYnlzMEN1RUtPcmFybzlkT1pCY25MbFBMbDl3?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 07:28 PT · #politics #nevada
 - [Trump’s ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct](https://www.reviewjournal.com/news/politics-and-government/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct-white-house-3899475/) — Las Vegas Review-Journal · 07:26 PT · #us #nevada
