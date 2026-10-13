@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T14:29:07-07:00
+updated: 2026-10-13T14:39:18-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,10 +11,15 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [Apple HomeView accessories will expand what is possible with the home hub](https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss) — AppleInsider · 14:38 PT · #tech #ai
+- [OpenAI says it found a 'sophisticated recording device' hidden in its offices](https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/) — Engadget - Technology News & Expert Reviews · 14:34 PT · #tech #ai
+- [F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office](https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html) — NYT > Technology · 14:31 PT · #tech #ai
+- [PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter](https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/) — 9to5Mac · 14:29 PT · #tech #ai
 - [HomePod Mini 2 Works as Default Speaker With Select Macs](https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/) — MacRumors · 14:19 PT · #tech #ai
 - [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/) — TechCrunch · 14:15 PT · #tech
 - [Elevation Lab Pulls AirTag Silencer After Stalking Concerns](https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/) — MacRumors · 14:14 PT · #tech #ai
 - [Latest GTA 6 Leak of Nude Character Is a Bad Crypto Scheme Fundraiser](https://www.cnet.com/tech/gaming/gta-6-cyberleek-leak-nudity-rockstar-crypto-scheme/) — CNET · 14:14 PT · #tech
+- [Apple Minions Virtual GPU Cloud Cuts AI Queues \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMie0FVX3lxTE1tUVE2bVEtVUdMTDdkSHQ0dWgtRG1ydENla3FqUFJ4bF8tdzNkUGpCaXNqdUxPMDJBMWtISFRESDlmRGd4ei1pcDZSXy14czlFdXdEd19DY21scG5vc0ZGZUUtQXpNQ1lVRTBNTHQ3cjlvdWkyNF9pUC1ZVQ?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 14:13 PT · #tech #ai
 - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — Hacker News · 14:01 PT · #tech #ai
 - [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) — TechCrunch · 13:59 PT · #tech #ai
 - [Mark Zuckerberg Fumbled a Pint on Camera. How Guinness Won Millions in Free PR Without Lifting a Finger](https://www.inc.com/michael-tasner/mark-zuckerberg-guinness-viral-marketing/91419373) — Inc.com · 13:55 PT · #tech
@@ -26,6 +31,7 @@ tags: ["category", "tech"]
 - [Apple turns idle Macs into a shared GPU cloud with Minions - news.lavx.hu](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGVFQlVsLWo3dnUxTGRfdE51RzRGMU9zSnhibEZSb0RnTXlyUEZkQVRRZWJJSmdyNmVCaUZCRHhXd1NZbGhhWDdSQTdkVFBoT2Jqb2dOZ1duVGhXU2VuNmN5TmJTVVBUU0NaMUFTQzJzc01CenFNYVJGQzJqT0VYS1dOakdIb0RwbmQwQVF5dEw?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 13:31 PT · #tech #ai
 - [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) — Hacker News · 13:23 PT · #tech #ai
 - [Why do you think people have such a hard time taking responsibility](https://www.youtube.com/shorts/g90_AFrW7Y8) — GaryVee · 13:15 PT · #tech #smallbiz
+- [MINISFORUM P495: 192GB vs 128GB for Local AI - Kingy AI](https://news.google.com/rss/articles/CBMicEFVX3lxTFA2bk96bzhXRWsxSXloakY1UlBaWnB2a3Z5RlIxZVBWODRleE5Wa2Y4eGFRQWJGcU9vRlQ1QmgzTlZnbGxJYUFTX3BQelZVeVJGbnd4cTJLZzNEc0xJYTV5bXdxTG1SdXJDUG9FbXdtMkk?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 13:14 PT · #tech #ai
 - [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/) — TechCrunch · 13:13 PT · #tech #smallbiz
 - [iOS 27.2 beta 4: Apple Music goes black-and-white, Apple Health redesign pulled](https://appleinsider.com/articles/26/10/13/ios-272-beta-4-apple-music-goes-black-and-white-apple-health-redesign-pulled?utm_source=rss) — AppleInsider · 13:12 PT · #tech #ai
 - [It looks like Apple Music is getting a new icon](https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta) — The Verge · 13:05 PT · #tech
@@ -405,9 +411,3 @@ tags: ["category", "tech"]
 - [What Flock Actually Costs Cities Across the Country](https://www.wired.com/story/how-much-does-flock-actually-cost-cities/) — WIRED · 02:00 PT · #tech
 - [The S&P 500’s Bull Market Just Turned 4. History Says the Next Year Is What Matters Most](https://www.inc.com/phil-rosen/sp-500-bull-market-year-investors-stock-rally/91418589) — Inc.com · 02:00 PT · #tech #markets
 - [The AI race to save American science and reshape medicine forever]() — Masters of Scale · 02:00 PT · #tech #ai
-- [UK Cabinet Office takes £7.8M hit to kill off recruitment system](https://www.theregister.com/public-sector/2026/10/13/uk-cabinet-office-takes-78m-hit-to-kill-off-recruitment-system/5302635) — www.theregister.com - Articles · 02:00 PT · #tech
-- [It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe Creative Cloud](https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566) — Inc.com · 01:58 PT · #tech #ai
-- [Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev) — Hacker News · 01:24 PT · #tech
-- [The First AI Copilot for Unreal Engine 5 Returns With V2: Ultimate Engine CoPilot Turns Unreal Into an AI Game Studio With 1,655 Native Tools - The Franklin News](https://news.google.com/rss/articles/CBMipgJBVV95cUxNMDVUcm9qY0NBbjc0WVVZemlkNzBHMF83VG8wNy16UUdJUlRaajJsbVptc0dwOFAzNUl4eF8tR0w0N1ZYQnljTlZBUjRFamRfV01HVXgtWDNvdDhOemJ1UUd5RTl2T0oxWDEtemUtaUY1bGl1NlhpYUpnWnhEamxycmI2WnRnZUkzVEpUZ0d1R0JQMjN1TVUwRkE0Q2JCNkFzZXBIanBtelA2SVg1Y3hNbG1sbE9KU0p0UUlqOXl6Zkc1VTRoUk1XZEc5SzVxTkpUSzhEd043X2o0RzNpV19FbEVEd3oyOGtpMk5FR1M4V3loa1E0NXRUYW9oa0U3US1pNFF3RjM2MmZDOTViVmRkblJGV0w3dUxrQ25TWWRXQ3R6UTlDamc?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:15 PT · #tech #ai
-- [Intel optimizes IPv6 networking into nothingness, say users](https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622) — www.theregister.com - Articles · 01:15 PT · #tech
-- [How do you manage read-only accounts that have access to sensitive data?](https://www.reddit.com/r/cybersecurity/comments/1x4qrcp/how_do_you_manage_readonly_accounts_that_have/) — cybersecurity · 01:01 PT · #tech

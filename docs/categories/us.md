@@ -1,16 +1,17 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T14:29:07-07:00
-count: 217
+updated: 2026-10-13T14:39:18-07:00
+count: 218
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-217 most recent items (14-day window).
+218 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen](https://lasvegassun.com/news/2026/oct/13/greta-gerwig-debuts-first-look-at-an-epic-full-hea/) — Las Vegas Sun · 14:29 PT · #us #nevada
 - [Supreme Court refuses to toss out fees for lawyers who sought hand count in Arizona election](https://lasvegassun.com/news/2026/oct/13/supreme-court-refuses-to-toss-out-fees-for-lawyers/) — Las Vegas Sun · 14:14 PT · #us #civic #nevada
 - [The World Cup was bad for some businesses in Los Angeles](https://www.latimes.com/business/story/2026-10-13/world-cup-was-bad-for-some-businesses-in-los-angeles) — World & Nation · 13:57 PT · #us
 - [Surgery confirms pope has lung cancer; lower lobe of his right lung removed](https://www.reviewjournal.com/life/religion/surgery-confirms-pope-has-lung-cancer-lower-lobe-of-his-right-lung-removed-3899609/) — Las Vegas Review-Journal · 13:51 PT · #us #nevada

@@ -1,16 +1,17 @@
 ---
 title: "Project: Entrepreneurship / Small Business"
-updated: 2026-10-13T14:29:07-07:00
-count: 289
+updated: 2026-10-13T14:39:18-07:00
+count: 290
 tags: ["project", "smallbiz"]
 ---
 
 # Project: Entrepreneurship / Small Business
 
-289 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
+290 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
 
 ## 2026-10-13
 
+- [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - WKRC](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWkzMzhnR3pOWTF1U0ZTV2Zrem9waGRGWTZsVGpUMEtOUWF4aHlLV1Jla2czNjk5VzJMd2JtbTFfVlNNLXR6Ynh6dzlDR242VFUxR3A3Sk9HeUlDdGdYRE1TWHgwYjhrZWljN21DTXBCdlZvSlhxeEppX2tWbU50c3UwanFtTHA5SEU3dTBJcTRzeVBGdkMwSVJ1WnVaT0tINnBHRXBQVW9xYURteExnOU5JVmRrd0dfbmtGRW9BWjV6a3RReWc?oc=5) — Google News: small business owners · 14:15 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - KDNL](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnlEX0lCelJOb0FWNmYxTHQzd0x5SWxsZGI4SDNEb3BidGExYS1taVJZNVN3UWJhaWZIdWNfd1FvMVhFbkVhNERBaktHVkYzdEZLZGxyQkxNM2pSbkh6NlRrSHhOQ1lhNzVjMnd4eEhVWWliMjFvYWZfajJiREZRdW1rZlQwMDA2RHpwSHpKX19pMVlUUnZZUzNETU1nY2U3dFZRNlVxTC1aNzlFbFNJZjFObm9OQ0NoRGNHTWQ1WDRVU1NYemZQeWFR?oc=5) — Google News: small business owners · 14:03 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - KOKI FOX 23](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlN2S1hQV1owUEZOU0I2Z1psMDZ6RzE0cmFGY0NlZU10TkpmcEMtSW44TjgwTnlqc1pZTmdsVEppYTMyYm96R1NtRkx2MjY3di1aQWJFeEZyZHd4aHFDdGtzaXFkcVdUMjdQQV9DTVc2TkFzTld1OEpWUkktVk5HWkU3UEFNT0pnQ3ZQQUU5NUltcWd5bUJ5UVZvdkgwUEQzQk9pZUpjZzBUT2lFVHRfQVVPcXVwTEJISzBFOHhsZkJwZ1k?oc=5) — Google News: small business owners · 13:56 PT · #business #smallbiz
 - [Small business optimism falls, hit by inflation, low labor quality: NFIB - CFO Dive](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEtKc2ozcDBWWXNCY1V0TkdITFNyX0dGTDh1Wk1VRHBHa3ZWSTdURFdxVXJoc0w3cmlWLU5vMVVQWHQ0aW94bXpHR2k0U3ozQk14YlpNNDJkOHFJeWJ2Ym9QbHRoZjRRNUNhWGV1dVgzY3RCZ3Y0ZkhUWl9mSmZ3SmhrN1BsdkV4OWF4WldnbW8zTTVfbk5aemozVklMTEZOdi1KT0FIR1RXYkFpS2FDN3ZHODZPVjFFZTNXbWJR?oc=5) — Google News: small business owners · 13:56 PT · #business #fed #smallbiz

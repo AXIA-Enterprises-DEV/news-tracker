@@ -1,18 +1,24 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T14:29:07-07:00
-count: 310
+updated: 2026-10-13T14:39:18-07:00
+count: 316
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-310 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+316 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
+- [OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027](https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Surging-to-26-Million-Bpd-in-2027.html) — OilPrice.com · 14:30 PT · #markets #oil
+- [OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027 - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFpnUFFzTWtzbElMTlJpWDl4eDE1anR2dTl3M2NydkdTSk93TUpldWZYYVBHemJNQ1dYcDhvaGozNVZCbk9PZzlXQzZCWGtIQjNmWTVKUzRtV0ZjNFRRamZEUGJFMVdUcV9sa1gwTWg1R1FYSHJ5VFcxYVh1UEoxbkJBY09OMm5iQXc0Uzlrd2k2YklZYU9lVzZGUml0UVRLbkpiQTRqb0x5SWU4dnFDYUZxZ2pXbVJK0gG-AUFVX3lxTFBkc0VxQkFtaEtqRkxyTEhjeG5fMkExeW80T1lYMmI4Nlh4ZlhFczVKbWQzejZ1aU1QSVpFYXUzYlUzaTFkSEpvM3RNaE91anVJLXJyVUxiWmNDTjl0MTRPa1BWWmJ5ZzZPeUZJU1VHd3hFZkpQODQ2MDNsamdIOGlXOFp4VHFocnl1ZjcyN3ByUkJXVHA0NHlXbEJkVHVOV2hoNDdZdjFIX1JsdnliUUVGckZLQ2h4Tk1fOWY0Rnc?oc=5) — Google News: OPEC crude oil · 14:30 PT · #markets #oil
+- [Oracle urges FERC to expedite New Mexico gas pipeline for Project Jupiter](https://www.investing.com/news/stock-market-news/oracle-urges-ferc-to-expedite-new-mexico-gas-pipeline-for-project-jupiter-4947589) — Investing.com Stock Market · 14:22 PT · #markets #oil
+- [Saudis Tell OPEC That Oil Output Recovered from 3 Decade Low - Rigzone](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRklFN3FVY3ctaG4wbnpYd3BJRkNEUzJtakhXSy1ka3RiREhoSDNhdm9vWE9fSTZrR1JIdjBYUWRrN2U3UEI3YXllSXRlZ0ZWeGNjUTJpcURYdDhmb0JzS0RzOHdGdWFGNGpLUlhMeE1NVVJXTGEwSU0tVXdIX2lwUEltVTBZckxST0ZOcmtlZGVHdm1UNl85SGd5c2FBQ3RYOUFUaEw4cVhUQUJrQVRlelRZNktvY3V6TjZzcEVNRQ?oc=5) — Google News: OPEC crude oil · 14:16 PT · #markets #oil
 - [Five Shale Stocks to Watch Before Third-Quarter Earnings](https://oilprice.com/Energy/Energy-General/Five-Shale-Stocks-to-Watch-Before-Third-Quarter-Earnings.html) — OilPrice.com · 14:00 PT · #markets #oil
+- [Saudis Tell OPEC That Oil Output Recovered from 3 Decade Low](https://www.rigzone.com/news/wire/saudis_tell_opec_that_oil_output_recovered_from_3_decade_low-13-oct-2026-184837-article/?rss=true) — Rigzone · 14:00 PT · #markets #oil
 - [4 - BRUUN BRENT C (0001441377) (Reporting)](https://www.sec.gov/Archives/edgar/data/1441377/000144137726000016/0001441377-26-000016-index.htm) — SEC EDGAR All Filings · 13:46 PT · #filings #markets #oil
+- [Brent Steady Amid Middle East Tensions](https://www.rigzone.com/news/wire/brent_steady_amid_middle_east_tensions-13-oct-2026-184841-article/?rss=true) — Rigzone · 13:41 PT · #markets #oil
 - [US to use Defense Production Act to expand Delek refinery in Texas, Vance says](https://seekingalpha.com/news/4652677-us-to-use-defense-production-act-to-expand-delek-refinery-in-texas-vance-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:28 PT · #markets #oil
 - [Port of Los Angeles Sets All-Time Cargo Record as Imports Surge](https://gcaptain.com/port-of-los-angeles-sets-all-time-cargo-record-as-imports-surge/) — gCaptain (shipping) · 13:26 PT · #world #oil
 - [Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower](https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html) — PR Newswire M&A · 13:15 PT · #business #markets #oil #realestate $BKD

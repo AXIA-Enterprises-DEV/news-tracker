@@ -1,16 +1,17 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T14:29:07-07:00
-count: 391
+updated: 2026-10-13T14:39:18-07:00
+count: 392
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-391 most recent items (14-day window).
+392 most recent items (14-day window).
 
 ## 2026-10-13
 
+- ['Carpet' growth method yields long-sought 2D quantum material](https://phys.org/news/2026-10-carpet-growth-method-yields-sought.html) — Phys.org - latest science and technology news stories · 14:30 PT · #science
 - [Liquid metal dealloying creates nanoporous silicon carbide at just 800°C](https://phys.org/news/2026-10-liquid-metal-dealloying-nanoporous-silicon.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
 - [Faster molecular simulations identify promising diamond defects for quantum computers and sensors](https://phys.org/news/2026-10-faster-molecular-simulations-diamond-defects.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
 - [New topological microscope tip reveals evidence of 2D altermagnetism](https://phys.org/news/2026-10-topological-microscope-reveals-evidence-2d.html) — Phys.org - latest science and technology news stories · 14:10 PT · #science
