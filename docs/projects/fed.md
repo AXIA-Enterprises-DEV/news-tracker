@@ -1,13 +1,13 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-13T13:31:55-07:00
-count: 129
+updated: 2026-10-13T13:32:55-07:00
+count: 130
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-129 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+130 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-13
 
@@ -23,6 +23,7 @@ tags: ["project", "fed"]
 - [Small businesses on September inflation: Fuel, fuel, and more fuel (US10Y:) - Seeking Alpha](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV0hxODVrYUhvV2Rzc21kbmFFal9hRjU4SUdGNnE2Zjc4a3pISHpHSlFTeWt1UExwMjZLWlZHUDlFM3pHV3FWZlBUdDNiWTNQUXpTQ09LV25ZcDVSRWh1bmdsOFNKTDd1RHBrTWZmUHFoOWhQZGFfc24td1A2YWYzekFzNzNJNjZqWU9JMnViRlZuR1FyczdlRGRrSjEwT3JWTDVN?oc=5) — Google News: small business owners · 12:23 PT · #business #fed #smallbiz
 - [Small businesses on September inflation: Fuel, fuel, and more fuel - TradingView](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeEVQSUtKMmMwM2ZacDhYTG5udW1kUmotR2NXckZSSVg2a3g3TTdFbnpUZVp0WGE3U1pRekt2YWZCdUpreVZGYWxmaE5jZ3BndF9GSTRQMi1SOEpidzg3bUxoTS1DU3ZiMGNIUE1UaThKZDF4ZXlYOFoxMWtHa0ZTNTNFWHFIeTlsQ0x2TXQwVk9VYkVZeHpPc01CSGZndkFEaFFmWWItX1JicFdNdm5oMXNqejM1NTVLclo4OVVocTNIa1hO?oc=5) — Google News: small business owners · 12:23 PT · #business #fed #smallbiz
 - [NY Fed President Williams sees no need for a rate hike in 2027](https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms) — Economic Times · 11:58 PT · #business #ai #fed
+- [NY Fed President Williams sees no need for a rate hike in 2027 - The Economic Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWk1oMGlCWWYxNmtZeWp6MWJNVFh2cTNRMUJCVHhocHhKckUyZVlqODFSWFB0Zkc0MEZfNGpHaEh5YTYyYXZIRnBMQ2lLQnljUUtZbFRHMldWMkdzby1MSV9RVDJzSThfR3pJVFV6RGNvV05nV2I3aUxtQmgzSjZzT2tkcUlVUFFxU0I0MkRBUXFiTzNidTg0TXBIX3lXUmlmb1FWQkE0M2xra3llYVM4OEJ5el9KaGJDUlNnNGhHVXhPT3VUU2J2SEQzRFgtT180YVlMV9IB1AFBVV95cUxPWk1oMGlCWWYxNmtZeWp6MWJNVFh2cTNRMUJCVHhocHhKckUyZVlqODFSWFB0Zkc0MEZfNGpHaEh5YTYyYXZIRnBMQ2lLQnljUUtZbFRHMldWMkdzby1MSV9RVDJzSThfR3pJVFV6RGNvV05nV2I3aUxtQmgzSjZzT2tkcUlVUFFxU0I0MkRBUXFiTzNidTg0TXBIX3lXUmlmb1FWQkE0M2xra3llYVM4OEJ5el9KaGJDUlNnNGhHVXhPT3VUU2J2SEQzRFgtT180YVlMVw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 11:58 PT · #markets #fed
 - [Bank earnings: Higher rates haven't hurt consumer spending or AI financing, yet - MarketWatch](https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0hhRzJiRWZ1N2R3R1NOMnhpNlhISGZydk5lTFQxZHR0S0twRmZhNmhNSnY2a1NUQXgxOUdITTg5Y19wR3dDakd4UzNGZHVfZUNVeHAwcHlKY0t3VVZqVGlqbGpVN3J1Mnc2ekJxVWVWWDlZcVlQZWU3VjZJTGhHQ1c2WTFNZ1lsbDFNaTdsY0lTenRWbnBRZA?oc=5) — Top stories - Google News · 11:34 PT · #world #ai #fed #markets
 - [Fed's Williams currently sees no need for rate hike in 2027, Bloomberg News reports - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlpnSjdVeERKaFdNRkxCTHhRNmY5Y0FFN3k0by1ndE9MYXIzN0pybnJzUFBqR1hOaHpUYjFjODI1ZGNSMjVLRF83S19ZNXB6eGU0YU5MUUVMWEFtSjN4UlRReUpsWFktZ2lfX1pQZDBNS1Qtbk02bXNGRVNQZUlSS2pKZ2wxRUtGZzBWYUxCdGJpbHZkOFlMYWhtb0lRNFZEMDd6ZnY2RjdDRXpVdWhsUVhwN3ZsZ1k?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 11:30 PT · #markets #fed
 - [The latest inflation data is expected to show price increases are accelerating](https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html) — CNBC Top News · 11:05 PT · #markets #fed

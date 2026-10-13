@@ -1,13 +1,13 @@
 ---
 title: "Sources"
-updated: 2026-10-13T13:31:55-07:00
+updated: 2026-10-13T13:32:55-07:00
 count: 195
 tags: ["sources"]
 ---
 
 # Sources
 
-192/197 feeds OK at last sync.
+190/197 feeds OK at last sync.
 
 | Source | Category | Items | Status | Latest |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ tags: ["sources"]
 | Google News: "State Department" Rubio OR sanctions | world | 45 | ok | Oct 13 10:32 PT |
 | Google News: "Supreme Court" ruling | politics | 158 | ok | Oct 13 13:22 PT |
 | Google News: BRICS | world | 104 | ok | Oct 13 12:04 PT |
-| Google News: FOMC OR "Federal Reserve" rates | markets | 48 | ok | Oct 13 12:55 PT |
+| Google News: FOMC OR "Federal Reserve" rates | markets | 49 | ok | Oct 13 12:55 PT |
 | Google News: House vote OR Senate vote bill passes | politics | 24 | ok | Oct 13 12:21 PT |
 | Google News: Las Vegas cannabis OR dispensary Nevada | business | 5 | ok | Oct 13 08:52 PT |
 | Google News: Las Vegas real estate | business | 62 | ok | Oct 13 12:34 PT |
@@ -89,7 +89,7 @@ tags: ["sources"]
 | Google News: Nevada legislature | politics | 19 | ok | Oct 13 12:18 PT |
 | Google News: OPEC crude oil | markets | 116 | ok | Oct 13 13:02 PT |
 | Google News: PGA Tour OR LIV Golf | sports | 144 | ok | Oct 13 13:19 PT |
-| Google News: Strait of Hormuz OR tanker OR "oil pipeline" route | markets | 73 | ok | Oct 13 12:34 PT |
+| Google News: Strait of Hormuz OR tanker OR "oil pipeline" route | markets | 74 | ok | Oct 13 12:34 PT |
 | Google News: federal workforce OR federal employees OPM | politics | 12 | ok | Oct 13 11:55 PT |
 | Google News: government transparency FOIA | politics | 15 | ok | Oct 13 11:54 PT |
 | Google News: local LLM OR llama.cpp OR Ollama OR MLX | tech | 52 | ok | Oct 13 12:39 PT |
@@ -118,11 +118,11 @@ tags: ["sources"]
 | Latest news | tech | 25 | ok | Oct 13 10:30 PT |
 | Linus Tech Tips | tech | 8 | ok | Oct 12 10:25 PT |
 | MJBizDaily | business | 26 | ok | Oct 09 08:48 PT |
-| MacRumors | tech | 26 | ok | Oct 13 13:01 PT |
+| MacRumors | tech | 27 | ok | Oct 13 13:31 PT |
 | Making Sense Of Cents | markets | 2 | ok | Oct 12 04:15 PT |
 | Marie Forleo | tech | 4 | ok | Oct 13 12:01 PT |
-| Marijuana Moment | business | 10 | ok | Oct 13 10:33 PT |
-| MarketWatch Top Stories | markets | 18 | ok | Oct 13 13:27 PT |
+| Marijuana Moment | business | 10 | down | Oct 13 10:33 PT |
+| MarketWatch Top Stories | markets | 19 | ok | Oct 13 13:29 PT |
 | Marques Brownlee | tech | 3 | ok | Oct 08 14:00 PT |
 | Masters of Scale | tech | 5 | ok | Oct 13 02:00 PT |
 | Money Crashers | markets | 26 | ok | Oct 13 10:04 PT |
@@ -149,7 +149,7 @@ tags: ["sources"]
 | OilPrice.com | markets | 18 | ok | Oct 13 13:00 PT |
 | OpenAI News | tech | 23 | ok | Oct 13 05:00 PT |
 | OpenSecrets News |  | 4 | down | Oct 12 09:10 PT |
-| PR Newswire Business Tech | tech | 9 | ok | Oct 13 11:43 PT |
+| PR Newswire Business Tech | tech | 9 | down | Oct 13 11:43 PT |
 | PR Newswire Contracts | business | 20 | ok | Oct 13 11:39 PT |
 | PR Newswire General Business | business | 18 | ok | Oct 13 13:05 PT |
 | PR Newswire Joint Ventures | business | 17 | ok | Oct 13 06:23 PT |
@@ -169,8 +169,8 @@ tags: ["sources"]
 | Risky Business | tech | 1 | ok | Sep 29 15:50 PT |
 | SBA News | business | 1 | ok | Oct 07 09:28 PT |
 | SCOTUSblog | politics | 25 | ok | Oct 13 07:53 PT |
-| SEC EDGAR 8-K | filings | 157 | ok | Oct 13 13:30 PT |
-| SEC EDGAR All Filings | filings | 356 | ok | Oct 13 13:30 PT |
+| SEC EDGAR 8-K | filings | 158 | ok | Oct 13 13:31 PT |
+| SEC EDGAR All Filings | filings | 360 | ok | Oct 13 13:31 PT |
 | SEC Press Releases | politics | 9 | ok | Oct 09 07:59 PT |
 | START (UMD) Terrorism Research | politics | 2 | ok | Oct 02 06:22 PT |
 | Sawbones: A Marital Tour of Misguided Medicine | science | 2 | ok | Oct 13 09:00 PT |

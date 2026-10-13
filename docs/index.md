@@ -1,13 +1,13 @@
 ---
 title: "News Tracker"
-updated: 2026-10-13T13:31:55-07:00
+updated: 2026-10-13T13:32:55-07:00
 count: 100
 tags: ["index"]
 ---
 
 # News Tracker
 
-Live news aggregator: 5199 items from 192/197 feeds, last sync 2026-10-13 13:31 PT. Updates about every 10 minutes.
+Live news aggregator: 5208 items from 190/197 feeds, last sync 2026-10-13 13:32 PT. Updates about every 10 minutes.
 
 ## Browse
 
@@ -27,6 +27,7 @@ Live news aggregator: 5199 items from 192/197 feeds, last sync 2026-10-13 13:31 
 
 ### 2026-10-13 13:00 PT
 
+- [iOS 27.2 Beta 4 Removes New Health App](https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/) — MacRumors · 13:31 PT · #tech #ai
 - [8-K - Third Coast Bancshares, Inc. (0001781730) (Filer)](https://www.sec.gov/Archives/edgar/data/1781730/000119312526420491/0001193125-26-420491-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #item-1.01 #markets
 - [Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name](https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html) — CNBC Top News · 13:30 PT · #markets
 - [Quantum physicists trace a century of controlling spin](https://phys.org/news/2026-10-quantum-physicists-century.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
@@ -36,6 +37,7 @@ Live news aggregator: 5199 items from 192/197 feeds, last sync 2026-10-13 13:31 
 - [Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter](https://www.prnewswire.com/news-releases/par-health-issues-voluntary-nationwide-recall-of-argatroban-injection-due-to-the-presence-of-particulate-matter-302907620.html) — PR Newswire M&A · 13:30 PT · #business
 - [High Winds, Dry Conditions Mean PG&E May Need to Proactively Turn Off Power for Safety Wednesday Evening in Portions of Twenty-Nine Counties](https://www.prnewswire.com/news-releases/high-winds-dry-conditions-mean-pge-may-need-to-proactively-turn-off-power-for-safety-wednesday-evening-in-portions-of-twenty-nine-counties-302907621.html) — PR Newswire M&A · 13:30 PT · #business
 - [8-K - STERIS plc (0001757898) (Filer)](https://www.sec.gov/Archives/edgar/data/1757898/000119312526420487/0001193125-26-420487-index.htm) — SEC EDGAR 8-K · 13:29 PT · #filings #item-1.01 #markets
+- [UnitedHealth keeps medical costs under control — and raises its outlook again](https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:29 PT · #markets
 - [US to use Defense Production Act to expand Delek refinery in Texas, Vance says](https://seekingalpha.com/news/4652677-us-to-use-defense-production-act-to-expand-delek-refinery-in-texas-vance-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:28 PT · #markets #oil
 - [Snap stock breaks six-day winning streak](https://seekingalpha.com/news/4652644-snap-stock-breaks-six-day-winning-streak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:27 PT · #markets
 - [Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.](https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:27 PT · #markets #ai
@@ -125,5 +127,3 @@ Live news aggregator: 5199 items from 192/197 feeds, last sync 2026-10-13 13:31 
 - [PayPal extends rally for the seventh straight session](https://seekingalpha.com/news/4652601-paypal-extends-rally-for-the-seventh-straight-session?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets
 - [Activist Ancora pushes Big Yellow to explore a sale - Bloomberg](https://seekingalpha.com/news/4652643-activist-ancora-pushes-big-yellow-to-exlore-a-sale---bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets
 - [iPhone Duo Will Have Day-One iOS 27.1 Update](https://www.macrumors.com/2026/10/13/iphone-duo-day-one-update/) — MacRumors · 13:01 PT · #tech #ai
-- [Scientists urge tighter AI controls to prevent global cyber risks](https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss) — Al Jazeera · 13:00 PT · #world #ai #civic
-- [SA analyst urges discipline as market risks mount](https://seekingalpha.com/news/4652631-sa-analyst-urges-discipline-as-market-risks-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:00 PT · #markets

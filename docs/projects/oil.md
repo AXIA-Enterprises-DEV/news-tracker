@@ -1,13 +1,13 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T13:31:55-07:00
-count: 303
+updated: 2026-10-13T13:32:55-07:00
+count: 304
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-303 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+304 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
@@ -177,6 +177,7 @@ tags: ["project", "oil"]
 - [60 countries oppose Strait of Hormuz shipping tolls - Dailyhunt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWxhSTdWUWM0SUVQVmtMSFJyN1FxbVhUZzNfRk54NmlNbUdpUnNGTlczcmlkOHVvcF9xd0JyQk9aOXBnTklsamM3SjRTRnlVS1EyZ1B3RmZ3YXlPVXg5QWF3UVR6U01MUUxvTHR0eFRVMGx6Vk9vUk1lLS1rbU1RUTVISm1sZTctSEVqUzVwOW5oc0FWS2xaWVRSTEJKb215djRBV1VQamtZem95S3dUSS1wYzR6ekhOeF9JajdDeENFQmtRb0FRdnpqLXo2ajZjdHNzYmVDTmw?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 20:27 PT · #markets #oil
 - [Energy, Oil Ministers of Countries Participating in Declaration of Cooperation Hold Meeting on the Sidelines of 17th IEF Ministerial Meeting and 25th WPC Energy Congress in Riyadh - وكالة الأنباء السعودية](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwemIwUUdmT3ZUTDFCd0NZOWZRQmRGTXkxWEtHMWZZY3pRc2xfVUJ4NDRId2ZUTElxQVR0MHVoQmp6MjZ6ZDVxNjd3?oc=5) — Google News: OPEC crude oil · 20:25 PT · #markets #civic #oil
 - [OPEC cuts 2026 global oil demand growth forecast to 400,000 bpd - Zawya](https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0FuT3B5UHhSb1VsdmlhcDBPMDFrOWt6SDBYUWtJa1ZZbElRaGdBYzJyZTh2VVAxdnZRaDF5QkV1aUE2eHl1Q21nT1lFcWFzc0lYbFNPUGZhZVV0OVBIWWJmQ0RRbTRzbXN2Umg0TGZHNU15c19ITXZ3cVlZQjd3VEVaTE8tUHV4TGZIaEJ5RzZqcmhNX1ZrWmVVaFZCejZ4RGsxYWJiYw?oc=5) — Google News: OPEC crude oil · 20:13 PT · #markets #oil
+- [IMF flags prolonged economic fallout from Middle East war as energy shock squeezes global growth - Business Today](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU0dsdng2WHVRV2ZrZXNsZ2lsLTUwcFpFRmNzRDJQOU51NGNaUll4STRKUWdpdjhZM2VkVGozSDlmNHFmQV9vV2QzdDlCV0stQ0VHaElXajRGUHF3ZzNhSTdQSEg3WUJsclBiVHNXYkh2dXBUZEs5UGpjc05tRGYxdTZHbTVTWU05OUdzckJhYkVUZDh2cUc1Tng4bFpUVHByelg1UExkeEVIZFF3Qk9POVRZSUJUNm1iYnlQWUJZTnRLLU9oY3RRUU1uYi0ydUZGQXEyVlowRS1FLXZtUWhqN21GV215dkoycVV4QlY3NFRwc1FPa1ZJ0gH8AUFVX3lxTE5GMER0YkpXNTVxaGpIQjAwQU16eW44bXRHQjZiVXVDNnlYWm4wTXp2ajhSbFkyOUNhd2lpS1g2dy1kQzczbHV4Ty1Ha05YM2NyR19RaG9XazUxV21DVWhyVW5rTjRDX25mVlRpUll1bHVoWGc3MlUtWXdFTDhjWHZmanRQTDc4RGZWWkZRcmh1emkxWUFMY0JHS1V6c3dzN05VUXZqYTd4dXNrQzF5LW0zUWJTRldVbW1lX3QtNVhnSzJGaHBJMTkzbEY3SV8yME16bEdZWkRXVDYxWXNpZHRxS2VFbkRnSHRUUUxRTzV6eW42ZmlLLW9faXZyaw?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 19:05 PT · #markets #foreign #oil
 - [IMF warns global economy ‘could soon test the limits of resilience’](https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026) — Guardian World · 19:00 PT · #world #ai #oil
 - [WTI holds gains above $92.00 on persistent Middle East supply risks - Mitrade](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlc1TWFDRHc1ZHk1RFVfaDhYY19faDFrUGxrZEV6bVRHRzg4R0RMQ0FWSXUxWllZcURyeU9sY050c3VlZWNvaE9hUy1rVHUxd2lweTJOX3VDb0hwX0ZHcXBqeWlvWVkwT042OWRjTURQT3hfUGw4ajhDUnZnSFVFM05yMA?oc=5) — Google News: OPEC crude oil · 18:09 PT · #markets #oil
 - [Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks - KLSE Screener](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWt3Zkc4VmQ5RklXb25CZUVvU19LMzVINkJfZExMZEI1RlJyTVJuUEk3STYtSzc5eGlidTdLbXh0bGZjY0ZkVVpPWjhCd2lEUDFvOHZIaDFaY0VUOFQ3VW9mSGFhMXNENVlibndrSWEyUnVPM1ZSV2JfeVRzTXNhcVJxSGpZUXJid2ZmQktyNDY0LUhKeGtzOFd4aWZYb1RUVnVDRlJxSjNpVEZEblJXM2laODNITzRrY25lSXhEem9Hem8?oc=5) — Google News: OPEC crude oil · 17:36 PT · #markets #foreign #oil

@@ -1,6 +1,6 @@
 ---
 title: "Category: filings"
-updated: 2026-10-13T13:31:55-07:00
+updated: 2026-10-13T13:32:55-07:00
 count: 400
 tags: ["category", "filings"]
 ---
@@ -11,6 +11,11 @@ tags: ["category", "filings"]
 
 ## 2026-10-13
 
+- [8-K - LCI INDUSTRIES (0000763744) (Filer)](https://www.sec.gov/Archives/edgar/data/763744/000076374426000089/0000763744-26-000089-index.htm) — SEC EDGAR 8-K · 13:31 PT · #filings #markets
+- [DEF 14A - UPEXI, INC. (0001775194) (Filer)](https://www.sec.gov/Archives/edgar/data/1775194/000147793226006188/0001477932-26-006188-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [424B2 - CITIGROUP INC (0000831001) (Filer)](https://www.sec.gov/Archives/edgar/data/831001/000191870426031328/0001918704-26-031328-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [4 - UNITED THERAPEUTICS Corp (0001082554) (Issuer)](https://www.sec.gov/Archives/edgar/data/1082554/000110657826000162/0001106578-26-000162-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [4 - Larivey Clifford (0002048670) (Reporting)](https://www.sec.gov/Archives/edgar/data/2048670/000119312526420496/0001193125-26-420496-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
 - [8-K - LOGITECH INTERNATIONAL S.A. (0001032975) (Filer)](https://www.sec.gov/Archives/edgar/data/1032975/000103297526000056/0001032975-26-000056-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #markets
 - [424B5 - Strive, Inc. (0001920406) (Filer)](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015525/0000950103-26-015525-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
 - [13F-HR - Foster Group, Inc. (0001841544) (Filer)](https://www.sec.gov/Archives/edgar/data/1841544/000184154426000007/0001841544-26-000007-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
@@ -406,8 +411,3 @@ tags: ["category", "filings"]
 - [497 - REX ETF Trust (0002043954) (Filer)](https://www.sec.gov/Archives/edgar/data/2043954/000199937126022644/0001999371-26-022644-index.htm) — SEC EDGAR All Filings · 10:45 PT · #filings #markets
 - [N-CEN - FIRST TRUST EXCHANGE-TRADED ALPHADEX FUND (0001383496) (Filer)](https://www.sec.gov/Archives/edgar/data/1383496/000094040026039260/0000940400-26-039260-index.htm) — SEC EDGAR All Filings · 10:44 PT · #filings #markets
 - [3 - Stranksy Allison Robl (0002159611) (Reporting)](https://www.sec.gov/Archives/edgar/data/2159611/000215961126000001/0002159611-26-000001-index.htm) — SEC EDGAR All Filings · 10:43 PT · #filings #markets
-- [D - ATJustice, PBC (0002159536) (Filer)](https://www.sec.gov/Archives/edgar/data/2159536/000215953626000001/0002159536-26-000001-index.htm) — SEC EDGAR All Filings · 10:41 PT · #filings #markets
-- [424B2 - GOLDMAN SACHS GROUP INC (0000886982) (Filer)](https://www.sec.gov/Archives/edgar/data/886982/000119312526420172/0001193125-26-420172-index.htm) — SEC EDGAR All Filings · 10:41 PT · #filings #markets
-- [424B2 - Morgan Stanley Finance LLC (0001666268) (Filer)](https://www.sec.gov/Archives/edgar/data/1666268/000183988226050612/0001839882-26-050612-index.htm) — SEC EDGAR All Filings · 10:41 PT · #filings #markets
-- [D/A - Fossil Creek Minerals LLC (0002097604) (Filer)](https://www.sec.gov/Archives/edgar/data/2097604/000209760426000004/0002097604-26-000004-index.htm) — SEC EDGAR All Filings · 10:40 PT · #filings #markets
-- [13F-HR - WT Wealth Management (0001780507) (Filer)](https://www.sec.gov/Archives/edgar/data/1780507/000178050726000006/0001780507-26-000006-index.htm) — SEC EDGAR All Filings · 10:39 PT · #filings #markets

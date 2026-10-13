@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-13T13:31:55-07:00
+updated: 2026-10-13T13:32:55-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,11 @@ tags: ["project", "markets"]
 
 ## 2026-10-13
 
+- [8-K - LCI INDUSTRIES (0000763744) (Filer)](https://www.sec.gov/Archives/edgar/data/763744/000076374426000089/0000763744-26-000089-index.htm) — SEC EDGAR 8-K · 13:31 PT · #filings #markets
+- [DEF 14A - UPEXI, INC. (0001775194) (Filer)](https://www.sec.gov/Archives/edgar/data/1775194/000147793226006188/0001477932-26-006188-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [424B2 - CITIGROUP INC (0000831001) (Filer)](https://www.sec.gov/Archives/edgar/data/831001/000191870426031328/0001918704-26-031328-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [4 - UNITED THERAPEUTICS Corp (0001082554) (Issuer)](https://www.sec.gov/Archives/edgar/data/1082554/000110657826000162/0001106578-26-000162-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
+- [4 - Larivey Clifford (0002048670) (Reporting)](https://www.sec.gov/Archives/edgar/data/2048670/000119312526420496/0001193125-26-420496-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
 - [8-K - LOGITECH INTERNATIONAL S.A. (0001032975) (Filer)](https://www.sec.gov/Archives/edgar/data/1032975/000103297526000056/0001032975-26-000056-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #markets
 - [424B5 - Strive, Inc. (0001920406) (Filer)](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015525/0000950103-26-015525-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
 - [13F-HR - Foster Group, Inc. (0001841544) (Filer)](https://www.sec.gov/Archives/edgar/data/1841544/000184154426000007/0001841544-26-000007-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
@@ -406,8 +411,3 @@ tags: ["project", "markets"]
 - [3 - Tavia Acquisition Corp. (0002020385) (Issuer)](https://www.sec.gov/Archives/edgar/data/2020385/000121390026108946/0001213900-26-108946-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets
 - [D - SOAR.COM, INC. (0001800456) (Filer)](https://www.sec.gov/Archives/edgar/data/1800456/000180045626000014/0001800456-26-000014-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets
 - [4 - WADORS PATRICIA L (0001274559) (Reporting)](https://www.sec.gov/Archives/edgar/data/1274559/000127455926000005/0001274559-26-000005-index.htm) — SEC EDGAR All Filings · 10:54 PT · #filings #markets
-- [New SEC rules would fleece everyday investors to enrich Wall Street](https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories) — MarketWatch Top Stories · 10:54 PT · #markets
-- [D/A - Momentum Real Estate Fund V, LP (0002093886) (Filer)](https://www.sec.gov/Archives/edgar/data/2093886/000168316826007795/0001683168-26-007795-index.htm) — SEC EDGAR All Filings · 10:53 PT · #filings #markets #realestate
-- [3 - Kuick Kenneth (0001714887) (Reporting)](https://www.sec.gov/Archives/edgar/data/1714887/000121390026108944/0001213900-26-108944-index.htm) — SEC EDGAR All Filings · 10:53 PT · #filings #markets
-- [13F-HR - FIRST NATIONAL BANK SIOUX FALLS (0001085041) (Filer)](https://www.sec.gov/Archives/edgar/data/1085041/000108504126000007/0001085041-26-000007-index.htm) — SEC EDGAR All Filings · 10:53 PT · #filings #markets
-- [3 - Fog Cutter Holdings, LLC (0001838658) (Reporting)](https://www.sec.gov/Archives/edgar/data/1838658/000121390026108943/0001213900-26-108943-index.htm) — SEC EDGAR All Filings · 10:53 PT · #filings #markets
