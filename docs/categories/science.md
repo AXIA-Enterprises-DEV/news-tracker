@@ -1,13 +1,13 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T15:09:45-07:00
-count: 397
+updated: 2026-10-13T15:19:57-07:00
+count: 399
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-397 most recent items (14-day window).
+399 most recent items (14-day window).
 
 ## 2026-10-13
 
@@ -145,6 +145,8 @@ tags: ["category", "science"]
 - [Admire another researcher’s work? Tell them about it](https://www.nature.com/articles/d41586-026-02668-1) — Nature · 17:00 PT · #science
 - [Author Correction: Parkinson’s disease as a somato-cognitive action network disorder](https://www.nature.com/articles/s41586-026-11246-4) — Nature · 17:00 PT · #science
 - [In the AI era, coding means thinking like a systems architect](https://www.nature.com/articles/d41586-026-02715-x) — Nature · 17:00 PT · #science #ai
+- [Lead-tainted teeth reveal medieval mines’ unequal toll](https://www.nature.com/articles/d41586-026-03236-3) — Nature · 17:00 PT · #science
+- [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://www.nature.com/articles/d41586-026-03252-3) — Nature · 17:00 PT · #science
 - [Europe's new Sentinel-3C satellite just sent back spectacular images of Earth](https://www.sciencedaily.com/releases/2026/10/261011211559.htm) — Latest Science News -- ScienceDaily · 16:48 PT · #science
 - [Human teeth pinpoint when lead began poisoning medieval town](https://www.popsci.com/science/teeth-lead-poisoning-medieval-england/) — Popular Science · 16:01 PT · #science
 - [Scientists find a hidden problem with endless smartphone scrolling](https://www.sciencedaily.com/releases/2026/10/261011211611.htm) — Latest Science News -- ScienceDaily · 15:25 PT · #science

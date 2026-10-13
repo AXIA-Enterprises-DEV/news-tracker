@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T15:09:45-07:00
+updated: 2026-10-13T15:19:57-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,7 +11,10 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Apple will get some OpenAI documents, but not everything it asked for in court](https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss) — AppleInsider · 15:14 PT · #tech #ai
+- [Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2](https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/) — MacRumors · 15:11 PT · #tech #ai
 - [iOS 27.2 Adds New Apple Music Icon](https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/) — MacRumors · 15:04 PT · #tech #ai
+- [Character.AI files for bankruptcy, to sell some assets to Disney for $20 million](https://www.investing.com/news/stock-market-news/characterai-files-for-bankruptcy-agrees-to-sell-some-assets-to-disney-for-20-million-4945401) — Investing.com Stock Market · 15:00 PT · #markets #ai
 - [Blind Veterans Cross the Army Ten-Miler Finish Line, Despite Heavy Rain, with support of Meta AI Glasses and Lighthouse Guild](https://www.prnewswire.com/news-releases/blind-veterans-cross-the-army-ten-miler-finish-line-despite-heavy-rain-with-support-of-meta-ai-glasses-and-lighthouse-guild-302907656.html) — PR Newswire M&A · 15:00 PT · #business #ai
 - [5 clever ways Gemini can automate everyday tasks](https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/) — Engadget - Technology News & Expert Reviews · 15:00 PT · #tech #ai
 - [Disney Accused Character.ai of Copyright Infringement. Now It’s Bidding on the Bankrupt Startup’s Assets](https://www.inc.com/kevin-haynes/disney-accused-characterai-copyright-infringement-now-bidding-bankrupt-startups-assets/91419440) — Inc.com · 14:54 PT · #tech #ai #smallbiz
@@ -28,11 +31,15 @@ tags: ["project", "ai"]
 - [Elevation Lab Pulls AirTag Silencer After Stalking Concerns](https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/) — MacRumors · 14:14 PT · #tech #ai
 - [Apple Minions Virtual GPU Cloud Cuts AI Queues \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMie0FVX3lxTE1tUVE2bVEtVUdMTDdkSHQ0dWgtRG1ydENla3FqUFJ4bF8tdzNkUGpCaXNqdUxPMDJBMWtISFRESDlmRGd4ei1pcDZSXy14czlFdXdEd19DY21scG5vc0ZGZUUtQXpNQ1lVRTBNTHQ3cjlvdWkyNF9pUC1ZVQ?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 14:13 PT · #tech #ai
 - [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html) — CNBC Top News · 14:06 PT · #markets #ai
+- [Dollar Extends Decline in NY FX as Rate-Hike Bets Fade and AI Rally Reassessed; Yen Firms to Low-158 Range - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZMlNySVVabzhGTjhXbFpWSXRiaHItUzItV2JuZHdJVFU3UjBZUFIzd21IdDRJb3ZEMExGd0dNT0xYZXd5N1pFSXdsUEQwOXF0TTlFWG5ncVhaNUhwd1E4c01RVUtObTh0bC1IU2dpMmtkNXA3emc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:05 PT · #markets #ai #fed
 - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — Hacker News · 14:01 PT · #tech #ai
 - [The $20 Billion AI Scare That Wasn’t - InvestorPlace](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ia0ROTXZ6OFAxSHRuN0RXdmR1d3ZtdEE0bFg1a0pzLTQtMmxHZnBtVVhrMFlOVXB4cUhRUk85VE1jUC1Qd2VYYzU1eV9MYUs5LVlMVHp1bXVSM3ZNOFhOTnd1YWprNmN2SHBsYS16TTIyNW9uT1JPMw?oc=5) — Google News: unusual options activity · 14:00 PT · #markets #ai
 - [Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.](https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html) — NYT World · 14:00 PT · #world #ai
+- [Why Asia’s AI moment depends on leaders, not tools](https://fortune.com/2026/10/13/why-asia-ai-moment-depends-leaders-not-tools-accenture/) — Fortune | FORTUNE · 14:00 PT · #business #ai
 - [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) — TechCrunch · 13:59 PT · #tech #ai
+- [FBI arrests OpenAI employee accused of planting hidden recording device in conference room - TechCrunch](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUFvbzdDZncxY1I4SXdvTEFiYWt4RC1vdjhKcXkxY3NmZ3dtS1hLZ2lVUUJTNzNoa2ZBeGduYWw2dkNfSHNUTk9LSDVRRG9VQ0dyVHpTM3Q0elh1RG5nczdrSUJMWG5MYVdXNFRLaEtXdHNEbV9nMzhrNF9rcW5fRkt2aHljRmo5SEFobDZlSW5lcDNjaU5CVHdHWjJOampfTWdDYTVaZGZXakFJbjc3R1VzdVVIUC03MjRESkdCWmhwYTg?oc=5) — Top stories - Google News · 13:59 PT · #world #ai
 - [Ripple Teams With Stripe-Owned Privy to Bring Wallet Tech to XRP Ledger](https://news.bitcoin.com/technology/ripple-teams-stripe-owned-privy-wallet-tech-xrp-ledger/) — Bitcoin News · 13:55 PT · #markets #ai
+- [Centene CEO sees health care’s biggest AI opportunity beyond automation](https://fortune.com/2026/10/13/centene-ceo-health-care-biggest-ai-opportunity-beyond-automation/) — Fortune | FORTUNE · 13:55 PT · #business #ai
 - [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office - CNBC](https://news.google.com/rss/articles/CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53?oc=5) — Top stories - Google News · 13:55 PT · #world #ai
 - [US indicts Saudi employee of OpenAI for allegedly bugging its offices](https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1) — FT Home · 13:54 PT · #business #ai
 - [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
@@ -110,6 +117,7 @@ tags: ["project", "ai"]
 - [Apple Releases Fourth iOS 27.2 Beta](https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-beta-4/) — MacRumors · 11:24 PT · #tech #ai
 - [Apple releases second RCs for macOS Sequoia 15.8.2 and Tahoe 26.7.2](https://9to5mac.com/2026/10/13/apple-releases-second-rcs-for-macos-sequoia-15-8-2-and-tahoe-26-7-2/) — 9to5Mac · 11:24 PT · #tech #ai
 - [macOS 27.2 Golden Gate beta 4 now available, here’s what’s coming](https://9to5mac.com/2026/10/13/macos-27-2-golden-gate-beta-4-now-available-heres-whats-coming/) — 9to5Mac · 11:23 PT · #tech #ai
+- [Disney offers $20M for Character.AI’s scandal-plagued chatbot tech](https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/) — Ars Technica · 11:23 PT · #tech #ai #markets
 - [Apple releases fourth iOS 27.2 developer beta for iPhone](https://9to5mac.com/2026/10/13/apple-releases-fourth-ios-27-2-developer-beta-for-iphone/) — 9to5Mac · 11:22 PT · #tech #ai
 - [Apple Releases Fourth watchOS 27.2 and visionOS 27.2 Betas](https://www.macrumors.com/2026/10/13/apple-releases-watchos-27-2-beta-4/) — MacRumors · 11:20 PT · #tech #ai
 - [Apple TV 4K and HomePod mini 2 hands-on: A look at the audio updates and Siri AI](https://www.engadget.com/2285699/apple-tv-4k-2026-and-homepod-mini-2-hands-on-siri-ai-audio-upgrade/) — Engadget - Technology News & Expert Reviews · 11:18 PT · #tech #ai
@@ -406,11 +414,3 @@ tags: ["project", "ai"]
 
 - [GotEmail](https://www.producthunt.com/products/gotemail) — Product Hunt — The best new products, every day · 23:49 PT · #tech #ai
 - [MaxLinear Accelerates AI-Powered Broadband with Topaz™ and Intelligent Network Innovations at Network X 2026](http://www.businesswire.com/news/home/20261012415971/en/MaxLinear-Accelerates-AI-Powered-Broadband-with-Topaz%E2%84%A2-and-Intelligent-Network-Innovations-at-Network-X-2026/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 23:35 PT · #business #ai
-- [Abu Dhabi is putting 50+ government entities under AI-agent security controls. Their main worry is agents being talked into "authorised-looking" actions.Interesting read from Khaleej Times (12 Oct)](https://www.reddit.com/r/cybersecurity/comments/1x4pckp/abu_dhabi_is_putting_50_government_entities_under/) — cybersecurity · 23:30 PT · #tech #ai
-- [The Drive AI](https://www.producthunt.com/products/the-drive-ai-2) — Product Hunt — The best new products, every day · 22:39 PT · #tech #ai
-- [Platform Engineering For LLM Applications - Open Source For You](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUklkc3FzZXYwUDFud25kSDNQUUNJb3p2Q2JaUExxN1B2SjdldERYOWp6bXAwQkpsWkQ4V3p1M1RmY0U2LUc5YlBMeUowQ2J0SGR5XzRpX0Y4dzMwTjNhR1JYSmRVWHk2dm43S25FTzBhVnVMTkhkVUVFVnJBV1dXYXVEV0ZOVDJQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 21:30 PT · #tech #ai
-- [How to get started with making music in GarageBand for Mac](https://appleinsider.com/inside/macos/tips/how-to-get-started-with-making-music-in-garageband-for-mac?utm_source=rss) — AppleInsider · 19:53 PT · #tech #ai
-- [Toby](https://www.producthunt.com/products/toby-5) — Product Hunt — The best new products, every day · 19:51 PT · #tech #ai
-- [Deploying LLMs locally: Ollama, llama.cpp, and vLLM compared - TechGig](https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2VCeTZkaEhSMkp5MzZkNzMwdHRMV3hXaGdVaTZ1YWsxdnZXYkdoN1FQaWNGZzNCN1VkWWZrZFdhREttRnRsMHBBcjBhTWpDekN5OTZJSmJqd3Vabk8zajJKYTZJNEotX0c3cEpxRFJ1amVmaXpMUlBJTlJaYVdyWWlBUnR6cGhsYjEySndiN3pFX2ZhRGNPN045MNIBoAFBVV95cUxNdktBY0xwdEV5a1FrNlVJN1FOSElrMjcyTjRucDE2Q1VlM3dqeXRXS3RLQjBPSkRiTGFzMVUzelZWR0hMWTkzS1ZqT0tfR1pqWTdEblRMc0hiQUJhQ0RDSmJyZFJOc01LM2pLaVpSZDhsSDhWRGdxQWVoWFpSVjBjWW9pY2EtNGJmMzNZSmxZamRHc09RLW9QZE8yaldic3Jo?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 19:37 PT · #tech #ai
-- [HarnessHive](https://www.producthunt.com/products/harnesshive) — Product Hunt — The best new products, every day · 19:17 PT · #tech #ai
-- [‘The norm will be to trade with agents’: Crypto founders learn to love—and fear—AI](https://fortune.com/2026/10/12/crypto-founders-ai-agentic-trading/) — Fortune | FORTUNE · 19:05 PT · #business #ai #smallbiz

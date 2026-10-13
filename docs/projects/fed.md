@@ -1,17 +1,18 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-13T15:09:45-07:00
-count: 139
+updated: 2026-10-13T15:19:57-07:00
+count: 140
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-139 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+140 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-13
 
 - [Gold futures tick lower ahead of key U.S. inflation data](https://seekingalpha.com/news/4652710-gold-futures-tick-lower-ahead-of-key-u-s-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:50 PT · #markets #fed
+- [Dollar Extends Decline in NY FX as Rate-Hike Bets Fade and AI Rally Reassessed; Yen Firms to Low-158 Range - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZMlNySVVabzhGTjhXbFpWSXRiaHItUzItV2JuZHdJVFU3UjBZUFIzd21IdDRJb3ZEMExGd0dNT0xYZXd5N1pFSXdsUEQwOXF0TTlFWG5ncVhaNUhwd1E4c01RVUtObTh0bC1IU2dpMmtkNXA3emc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:05 PT · #markets #ai #fed
 - [Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally](https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383) — All News · 14:04 PT · #business #fed
 - [Lawyer for Fed Governor Cook Denounces Trump’s New Investigation](https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html) — NYT Business · 14:03 PT · #business #fed
 - ["Can't go to the moon every quarter": Big banks' bumpy start to earning season - Marketplace.org](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGVSWHhzcFJONTE0aGFIQ1BWWnZJZnlaMkhzSDhoUVhJWUlGeEtUdTRFbjZTV0ZXbjBQU095TVlFcXZCQjhhSDFCdmhYWnVGczdBNGVsOVB2dHVKYmtBdmpoVHlWV2EtUWdmTk9VbVpibnN0NUl1akdrUDYyc2g1T2o0WjIwaTN1MjZ6bmVKYnlMLU9BUHY4?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:00 PT · #markets #fed

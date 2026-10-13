@@ -1,13 +1,13 @@
 ---
 title: "Project: Golf"
-updated: 2026-10-13T15:09:45-07:00
-count: 187
+updated: 2026-10-13T15:19:57-07:00
+count: 189
 tags: ["project", "golf"]
 ---
 
 # Project: Golf
 
-187 most recent items (14-day window). Atom feed: [golf.xml](../feeds/golf.xml)
+189 most recent items (14-day window). Atom feed: [golf.xml](../feeds/golf.xml)
 
 ## 2026-10-13
 
@@ -57,6 +57,7 @@ tags: ["project", "golf"]
 - [LIV Golf players face another deadline with their future in golf at stake - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxPXzBHVXI4ellMVV9HRlVicXpibDcteXR5cnVadVdaZzlHYWY5bXNzalRsSUpTQVFZSUN4VHg1RHRodnZFOFg0MElwNGFCazdTVzVSNWlaUnM1UkF2dzJNaW5kQ016Qjc2QjI3R2czZWlCZ2V0SUFYT29iUmc2N3hSMVgyVGk1dXdaRmJSYzYwNkE4VWx4U1lsRlBJN2Vld9IBowFBVV95cUxOVXVQV1J0YnRNNWxsbWJydksxVmNqc2NXcXVDTERzOC1vLTFVOVV2aERoeDBMdzEtcFNDQWVTTlNCeDRneGF2czZQVUVHRDFtWnN2TTRkRERndE95dU44NGdXdjZqOU5YNnpQUjVEbmVHTUJYcnVuclAwY2YxX1Q5cGJXVXdBMUZmY3dCN3UtQ2F6X2NXT3drOVNJWUoxTFVqd0tR?oc=5) — Google News: PGA Tour OR LIV Golf · 10:19 PT · #sports #golf
 - [Rory McIlroy would vote to have LIV players back on PGA Tour - BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sY0xoUUNka3NXQXNsbkpVUDRQclYxQWRHVlFETGxKY3dmSU1qcU03RXBkMDhkRVMzLWNvRldpdkx2cHF0TWtTX1hqcnl3VmVLVVloaGtuSS1idUZ4S3hSTmZOamlLdw?oc=5) — Google News: PGA Tour OR LIV Golf · 10:17 PT · #sports #golf
 - [Vaughn Taylor Ends 10-Year Winless Drought With Dramatic Playoff Win - Yahoo Sports](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0RHUWlDdzJoOE54R0IwajhSZFJDZXRnTTRJVE5INHcxQml5OXpObnN3ZGdsRThIenFnU2U2cWNhRjBvaXF1VTFHbWMxdFZJYlY3N0JZeXNjODZBVkRtZHpzYlFpVC1DRjVNcTdmeUF5Q1hsdUFIZE5HemQ3bjNLaFdLbnU?oc=5) — Google News: PGA Tour OR LIV Golf · 10:10 PT · #sports #golf
+- [PGA Tour – Bhatia reaches Tour Championship again - India Golf Weekly](https://news.google.com/rss/articles/CBMipwFBVV95cUxORGxESHNiY05qdzJOUEQtTzRFRHlnZzdFQjZNNjN2cVU2T0dib05yeG9BQk5DRXplSEdYeGtRam5LY2ktczYwV0NUYTFQczNWcGJ3YWRfRDkzcWNqb0NJRExNVE9DMGVfT1g4UDhlbE9jMlozM3ZiRW9iamM3V3BfUmJCVk8yQk01aFk0UkFWb3g3VVhtRTc3dDdSRHVhdGVLUWhfa0lySQ?oc=5) — Google News: PGA Tour OR LIV Golf · 10:10 PT · #sports #golf
 - [Rory McIlroy reflects on ‘wasted’ LIV money as bankruptcy saga continues](https://golf.com/news/rory-mcilroy-liv-golf-tiger-woods/) — Golf.com · 10:09 PT · #sports #golf
 - [Rory McIlroy reflects on ‘wasted’ LIV money as bankruptcy saga continues - GOLF.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRcWZpbHg2QXI2UG5HMjY0MjZydndwaVMxM2xyTFduQUFFQngyelY3cTA1YnFDTzU3VDBaUjJqTUZrTHg2Wk5uOEM3dDZ5Y3IxU2g5dUFBeklUamxJTHpQLTlDWG9zNFU?oc=5) — Google News: PGA Tour OR LIV Golf · 10:09 PT · #sports #golf
 - [Not far from late father’s hometown, Austin Hitt achieves lifelong dream - Golf Channel](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEZjc3ZNQWpvSEZ3WUVYeGRaa0Z6dFdzeGFwd21XS1lkYWZpSU9aQ2NEb0F4M3NhTDZqUmNJSVl0anN0bVF3S0EwdDZySEtkdl9NM1dpSC1uVVM0elhDRjkwYzVyeDlmSTF2aUhhcEVnOFd3OEh6QVdTX3A5aGh1UTFvNk5XQlNLSEhVb2ozTUcyU19PSzdRclo0Q0toU0h0d1ZmaGV6TldzR0tlNFd2NjJGMUQ5WEo3RS1N?oc=5) — Google News: PGA Tour OR LIV Golf · 10:08 PT · #sports #golf
@@ -85,6 +86,7 @@ tags: ["project", "golf"]
 - [Kohles closes in on PGA Tour card after betting on himself with trip to Japan - theScore](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUlxTmI0NndONWo0aElyOEg1amRVbzZzaU5DejlGQW1WTU9GY3gxR2N3WHBPZDBMM0U2TG1yZnBkM24tWVRpSkU1WlJUcTU0S29pbDJrZVdGMG51cXV0RFE4RzQzNHFueEk5UUd2Unk4UjRhbDdVblNGVXdzdHRqYkJCRWE4U25JdmNBc0ZJc1QzR2ZjNVRPWk5uTGEwNDhyRDZGcXVUbmRicjNUeFc0TFVEcndXN0xtQ3BR?oc=5) — Google News: PGA Tour OR LIV Golf · 08:11 PT · #sports #golf
 - [The Farmers Insurance Skins Game returns; Jackson Koivun, Brooks Koepka headline field - PGA Tour](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQ3d3VTJoYlFERDJhLUxlT3VPVnJnVGhFWGRIUmg0eDZ0aWlGZG9PZEJTczZVVlBUbDNzWExvZ0J5LTBrODhxZkdkd0ZJTkJmVllab3pHTC1jVlpQenFOeWR5c0tsbTdWVXlyQUZZREpmTG0zSzdOMTVKZDVXdGZ4N1AwWnBrYXl4VWFrNTR1WFJfQmdGYlBXZnFXWDFhYUMwS3pXZ1RDcDNkdi0xTldMZUZ6ZzJKd2RuaGJuMjJBNlNwSVc3cjhwVUswVllDbURzWVgzSjUxRGtxRGtIZV9XQ3ZGUFdFVGdRSGlmYlA1UlB1Z1FiV1FKVDVTTQ?oc=5) — Google News: PGA Tour OR LIV Golf · 08:07 PT · #sports #golf
 - [How did Furyk & Friends fare in new PGA Tour Champions site? - Yahoo Sports](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTl3ZTVZUnRZbWlySUhkV2VJQnM4cjNTaEdDemRLQXFxa1JVQ2k0MUlGR0hHaEplVGRabTA5VF9Dd0I1RHRVQUN2OUs3bV9pbFo4M1djNlJBZGlVbXQ5MjJOTndxZWhrejBBU1g4RldZRWYxalA2SjE0bHhrRkFaNA?oc=5) — Google News: PGA Tour OR LIV Golf · 08:01 PT · #sports #golf
+- [How did Furyk & Friends fare in new PGA Tour Champions site? - Golfweek](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUtZb0xQTGNqV2VHUHdyWnB6RTFtcXA5T0xYRGM5dzg0NkpyVGpNQUpGVGIwVkpub3Q1dWRhdlRfV3lkWWZ4NWRvODJFWC16bUxkNWVTOVY5ajg4RWQ5c2prZUxlZFhzYXlwTTdTNVRMa0xaaVlwYnlDSC1LZEJkZUU5X2hCY2trNFpFQ2xRS3EyNmZRNWtRbEJ2Qm54dHVZVkNIclM3X3VtMlZBa3RXYjVGd1NuclN5akE?oc=5) — Google News: PGA Tour OR LIV Golf · 08:01 PT · #sports #golf
 - [PGA Tour vs. LIV Golf: A Clash of Financial Titans! - Yahoo Sports](https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMW5nYXlTYTZYSWs1R1dteWtCb2d4QVFyNDhNbVdpYnEyZXF5U09tNDNPeHNLbjNfZXEzbl9ITk9RSTNJTFdJVHd5bmpkbU1BVjROVTRESHZ1ZlZ6VWxTVFVraGppcWFLSFlRZGtKR3p6Rzk2U2c?oc=5) — Google News: PGA Tour OR LIV Golf · 08:00 PT · #sports #golf
 - [Ben Kohles bets on himself by going to Japan and closes in on a PGA Tour card - Bozeman Daily Chronicle](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaHIxd2tWS3R0RmRzN2RJNWpwb01MM0U2RlBocXBFTkYyRmJMTmlleGZiRjZUTHNwSkRXY2JsVGo4WVNOVVZCb0hvMWNKVDk5N2ZPTnBaWFkwWTliYXluQ0tYcDJLUEZTQWN6ZnU1Sl9mM3Y5b2FQbll1NUZhVUUzSXM0VmZ1OVM2NEEzamVlek00NXNzYnZEZUtmRHM1UGFqQTgwTFVWU2dkSll1UkFLb1RrVjZfd0RsRkkxNnc4X01ncXR4WU9RSDktUW1FYldZWE1ETlNYbUswRURna2lJck1aT192cllWdlpGbEJ6QnJVWXdFa1ozYjU4aw?oc=5) — Google News: PGA Tour OR LIV Golf · 08:00 PT · #sports #golf
 - [Bryson DeChambeau's Future Path: LIV Golf 2.0 Insights - Yahoo Sports](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclpEZjVXSnZEVzcwaWlFZ0pWam1CUE1NY1dmdUJSdGM3Q01PbWdPVjJCY0NIOFVDaXREZVYzanZvLXVNdTdBMGRmWUxUclh5eGZJaGUyYzFEd3FpRGVVdzA0amp3LTR6TGlLTWtFR3dsUWtvbXJxN3BGUzZMUFpEV3ktaGpqcEFt?oc=5) — Google News: PGA Tour OR LIV Golf · 07:58 PT · #sports #golf

@@ -1,6 +1,6 @@
 ---
 title: "Category: markets"
-updated: 2026-10-13T15:09:45-07:00
+updated: 2026-10-13T15:19:57-07:00
 count: 400
 tags: ["category", "markets"]
 ---
@@ -11,8 +11,14 @@ tags: ["category", "markets"]
 
 ## 2026-10-13
 
+- [South Korea Blocks 27 Crypto Exchange Websites, Including KuCoin and MEXC](https://cryptopotato.com/south-korea-blocks-27-crypto-exchange-websites-including-kucoin-and-mexc/) — CryptoPotato · 15:12 PT · #markets
+- [PG&E says fire conditions threaten power shutoffs this week across northern California](https://seekingalpha.com/news/4652718-pg-and-e-says-fire-conditions-threaten-power-shutoffs-this-week-across-northern-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 15:06 PT · #markets
 - [Generate, Zealand in collaboration to develop drugs for obesity, metabolic diseases](https://seekingalpha.com/news/4652717-generate-zealand-collaboration-develop-drugs-obesity-metabolic-diseases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 15:02 PT · #markets
+- [Why is Grupo Televisa stock surging today?](https://www.investing.com/news/stock-market-news/why-is-grupo-televisa-stock-surging-today-93CH-4947635) — Investing.com Stock Market · 15:01 PT · #markets
+- [Why is Bank of America stock sliding today?](https://www.investing.com/news/stock-market-news/why-is-bank-of-america-stock-sliding-today-93CH-4947634) — Investing.com Stock Market · 15:01 PT · #markets
 - [Here are the major earnings before the open Wednesday](https://seekingalpha.com/news/4652540-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 15:00 PT · #markets
+- [Character.AI files for bankruptcy, to sell some assets to Disney for $20 million](https://www.investing.com/news/stock-market-news/characterai-files-for-bankruptcy-agrees-to-sell-some-assets-to-disney-for-20-million-4945401) — Investing.com Stock Market · 15:00 PT · #markets #ai
+- [Why is GameStop stock climbing today?](https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-climbing-today-93CH-4947628) — Investing.com Stock Market · 15:00 PT · #markets
 - [Stranded Middle East LNG Supply Upends Gas Markets](https://oilprice.com/Energy/Natural-Gas/Stranded-Middle-East-LNG-Supply-Upends-Gas-Markets.html) — OilPrice.com · 15:00 PT · #markets #foreign #oil
 - [BAE System wins $106.8M potential Navy deal for USS Hudner repairs](https://seekingalpha.com/news/4652719-bae-system-wins-1068m-potential-navy-deal-for-uss-hudner-repairs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:59 PT · #markets
 - [Liquidia stock surges 40% on $380.7M litigation settlement with UTHR](https://www.investing.com/news/stock-market-news/liquidia-stock-surges-40-on-3807m-litigation-settlement-with-uthr-4947624) — Investing.com Stock Market · 14:56 PT · #markets
@@ -48,6 +54,7 @@ tags: ["category", "markets"]
 - [Harbour Island Acquisition prices $100M IPO on Nasdaq](https://www.investing.com/news/stock-market-news/harbour-island-acquisition-prices-100m-ipo-on-nasdaq-432SI-4947573) — Investing.com Stock Market · 14:12 PT · #markets
 - [Micron Technology adds to recent weakness, slips another 4%](https://seekingalpha.com/news/4652705-micron-technology-adds-to-recent-weakness-slips-another-4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:09 PT · #markets
 - [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html) — CNBC Top News · 14:06 PT · #markets #ai
+- [Dollar Extends Decline in NY FX as Rate-Hike Bets Fade and AI Rally Reassessed; Yen Firms to Low-158 Range - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZMlNySVVabzhGTjhXbFpWSXRiaHItUzItV2JuZHdJVFU3UjBZUFIzd21IdDRJb3ZEMExGd0dNT0xYZXd5N1pFSXdsUEQwOXF0TTlFWG5ncVhaNUhwd1E4c01RVUtObTh0bC1IU2dpMmtkNXA3emc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:05 PT · #markets #ai #fed
 - [Strive announces proposed offering of 5M SATS preferred shares](https://seekingalpha.com/news/4652698-strive-announces-proposed-offering-of-5m-sats-preferred-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:04 PT · #markets
 - [AZZ shares rise as quarterly revenue, earnings beat estimates](https://seekingalpha.com/news/4652701-azz-shares-rise-as-quarterly-revenue-earnings-beat-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:03 PT · #markets
 - [Aramco HQ hit in Houthi attack as fire extinguished in Dhahran - Bloomberg](https://www.investing.com/news/stock-market-news/aramco-hq-hit-in-houthi-attack-as-fire-extinguished-in-dhahran--bloomberg-4947574) — Investing.com Stock Market · 14:02 PT · #markets #foreign
@@ -404,10 +411,3 @@ tags: ["category", "markets"]
 - [Bitcoin Price Analysis: More Danger Ahead as BTC Remains Below Broken Trendline?](https://cryptopotato.com/bitcoin-price-analysis-more-danger-ahead-as-btc-remains-below-broken-trendline/) — CryptoPotato · 06:25 PT · #markets
 - [Ollie Fresh Dog Food Deal: 70% off First Box + FREE Poop Bags for Life + FREE Gift!](https://moneysavingmom.com/ollie-fresh-dog-food-deal/) — Money Saving Mom® · 06:25 PT · #markets
 - [OPEC Sharply Raises 2027 Crude Demand Forecast as Global Restocking Wave Emerges as Key Driver - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE54WVdOZzh3REZVMXQ5U2NYckZsYkRfSFpHZzFuWGZhdUJRbnpPQjlQV1ZSY1Iwd0lJczZpMTFRU3BlTUhQaWZ5dnJ0MUJKZzgwYzlJY2Y4M3A2Ulp1LU1OX2RCVzVVZVVwcUFfaDljTUVEeDJlYUE?oc=5) — Google News: OPEC crude oil · 06:25 PT · #markets #oil
-- [RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5) — Google News: OPEC crude oil · 06:23 PT · #markets #oil
-- [OPEC Bets on Global Restocking Wave, Sharply Raises 2027 Crude Oil Demand Forecast - 富途牛牛](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFc0Smpyd0FLQnpyQWRCTmxKa3R2b1lXLS1TdTF3OG1rWnRKdWdSVjZ1ZjhBVFRodVZSWWdyeUlITEJoR2w3ODAwTkNOWlB5QUZ5cFJrM25zZDVJZUFjdXM5am1NaXM1enp0dU5FODZDOU11cENzNHl3b0VwalcwelpJakdZX3VWdmxMSGQzTXM4Q2tYbG9qYjRYMjVwSm5MT1NnT3J5Zw?oc=5) — Google News: OPEC crude oil · 06:22 PT · #markets #oil
-- [20s coworkers asking for advice on handling finances](https://www.reddit.com/r/personalfinance/comments/1x4whyi/20s_coworkers_asking_for_advice_on_handling/) — Personal Finance · 06:22 PT · #markets
-- [Great Value Golden Sweet Whole Kernel Corn just $0.50 at Walmart, plus more!](https://moneysavingmom.com/great-value-golden-sweet-whole-kernel-corn-just-0-50-at-walmart-plus-more/) — Money Saving Mom® · 06:22 PT · #markets
-- [Iran targets six ships near Strait of Hormuz in one day, data show - Operativ Məlumat Mərkəzi](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGlFLVJhaTZ4T1gyLUd4MkUxb2xkb3N3cU9uWDZkWV9LVWJLc3lPQ3FYdFpsaXRneTRYY094R3h4bHdKNTBER3V6T2F4emlPLWxfRk1wWEYyZmROVTc4bXRkUjBIaTNUZkY4V3U4QkxLRUZHY0IxelA2TmFNRXZJOFVTYTVJM2NxdUstMnJYRGRQOTZXTDY1Sm42cjBjSS11dkE0?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 06:21 PT · #markets #foreign #oil
-- [Top 10 Layer-1 Blockchain Cryptos in October 2026](https://zebpay.com/blog/top-10-layer-1-blockchain-cryptos-in-2026) — ZebPay · 06:18 PT · #markets
-- [Kazakhstan crude oil output rises to 1.85 mb/d in September - OPEC - Trend News Agency](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HMVVPSFhlbkUtb2c2c3hERmRXOGFENWlVNE9FbHRyVUp5ZXkzMkRiYVVBVHhRbEREeXR3U3pHa3dfdXJrYlM4YWFGc0tVNW81ZEViNlJxbUdWeUdOM01z?oc=5) — Google News: OPEC crude oil · 06:17 PT · #markets #oil

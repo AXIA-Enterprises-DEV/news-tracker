@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $VEEV"
-updated: 2026-10-13T15:09:45-07:00
+updated: 2026-10-13T15:19:57-07:00
 count: 3
 tags: ["ticker", "VEEV"]
 ---

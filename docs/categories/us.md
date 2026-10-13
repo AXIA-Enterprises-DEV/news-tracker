@@ -1,16 +1,18 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T15:09:45-07:00
-count: 219
+updated: 2026-10-13T15:19:57-07:00
+count: 223
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-219 most recent items (14-day window).
+223 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Battle lines shift in House races as Republicans retreat from front-line districts](https://lasvegassun.com/news/2026/oct/13/battle-lines-shift-in-house-races-as-republicans-r/) — Las Vegas Sun · 15:07 PT · #us #nevada
+- [Las Vegas man gets 35 years in prison for sexual exploitation of children](https://www.reviewjournal.com/crime/courts/las-vegas-man-gets-35-years-in-prison-for-sexual-exploitation-of-children-3899624/) — Las Vegas Review-Journal · 15:06 PT · #us #nevada
 - [Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen](https://lasvegassun.com/news/2026/oct/13/greta-gerwig-debuts-first-look-at-an-epic-full-hea/) — Las Vegas Sun · 14:29 PT · #us #nevada
 - [Supreme Court refuses to toss out fees for lawyers who sought hand count in Arizona election](https://lasvegassun.com/news/2026/oct/13/supreme-court-refuses-to-toss-out-fees-for-lawyers/) — Las Vegas Sun · 14:14 PT · #us #civic #nevada
 - [The World Cup was bad for some businesses in Los Angeles](https://www.latimes.com/business/story/2026-10-13/world-cup-was-bad-for-some-businesses-in-los-angeles) — World & Nation · 13:57 PT · #us
@@ -18,6 +20,7 @@ tags: ["category", "us"]
 - [Nevada Preps predictions: Week 10 high school football picks](https://www.reviewjournal.com/nevada-preps/nevada-preps-predictions-week-10-high-school-football-picks-3899604/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
 - [Western Kentucky-Sam Houston State prediction: One clear winner in pick ‘em game](https://www.reviewjournal.com/sports/betting/western-kentucky-sam-houston-state-prediction-one-clear-winner-in-pick-em-game-3899600/) — Las Vegas Review-Journal · 13:45 PT · #us #nevada
 - [Chicago police say DNA links former detective with Las Vegas ties to killing of 8-year-old girl](https://lasvegassun.com/news/2026/oct/13/chicago-police-say-dna-links-former-detective-with/) — Las Vegas Sun · 13:39 PT · #us #nevada
+- [Vatican Says The Pope Has Lung Cancer And Lower Lobe Of His Right Lung Was Removed](https://www.huffpost.com/entry/vatican-pope-surgery-lung-cancer_n_6ace90aae4b0447f8d4a9b85) — World News - Breaking News, Top Stories · 13:16 PT · #us
 - [LVCVA happy with results of this year’s five-day sale in September](https://www.reviewjournal.com/business/tourism/lvcva-happy-with-results-of-this-years-five-day-sale-in-september-3899593/) — Las Vegas Review-Journal · 12:59 PT · #us #nevada
 - [Vatican says pope’s lung nodule surgery was successfully completed](https://lasvegassun.com/news/2026/oct/13/vatican-says-popes-lung-nodule-surgery-was-success/) — Las Vegas Sun · 12:31 PT · #us #nevada
 - [Es poco probable que debatan Lombardo y Ford — qué saber acerca del estancamiento](https://thenevadaindependent.com/article/es-poco-probable-que-debatan-lombardo-y-ford-que-saber-acerca-del-estancamiento/) — The Nevada Independent · 12:12 PT · #us #nevada
@@ -34,6 +37,7 @@ tags: ["category", "us"]
 - [Man killed on a Six Flags roller coaster was thrown from the ride and hit other patrons, police say](https://www.reviewjournal.com/news/nation-and-world/man-killed-on-a-six-flags-roller-coaster-was-thrown-from-the-ride-and-hit-other-patrons-police-say-3899509/) — Las Vegas Review-Journal · 08:37 PT · #us #nevada
 - [Guilfoyle quits Greece post amid latest allegations of improper profiting by Trump associates](https://www.latimes.com/world-nation/story/2026-10-13/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct) — World & Nation · 07:35 PT · #us
 - [Trump’s ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct](https://www.reviewjournal.com/news/politics-and-government/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct-white-house-3899475/) — Las Vegas Review-Journal · 07:26 PT · #us #nevada
+- [Hackers Heat French Supermarket Fridges, Sparking Fires And Spoiling Food](https://www.huffpost.com/entry/french-supermarkets-cyber-attack_n_6ace3836e4b0447f8d488e08) — World News - Breaking News, Top Stories · 07:02 PT · #us
 - [Lombardo and Ford are unlikely to debate — what you need to know about the standoff](https://thenevadaindependent.com/article/lombardo-and-ford-are-unlikely-to-debate-what-you-need-to-know-about-the-standoff/) — The Nevada Independent · 07:00 PT · #us #nevada
 - [Motorcyclist critical after crash in south Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/motorcyclist-critical-after-crash-in-south-las-vegas-valley-3899458/) — Las Vegas Review-Journal · 06:39 PT · #us #nevada
 - [From Naked City to commercial real estate, Steve Neiger has a front-row seat to Las Vegas’ growth](https://www.reviewjournal.com/business/vegas-business/c-suite-insider/from-naked-city-to-commercial-real-estate-steve-neiger-has-a-front-row-seat-to-las-vegas-growth-3899454/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada #realestate

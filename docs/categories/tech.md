@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T15:09:45-07:00
+updated: 2026-10-13T15:19:57-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,13 +11,20 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [Apple will get some OpenAI documents, but not everything it asked for in court](https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss) — AppleInsider · 15:14 PT · #tech #ai
+- [Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2](https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/) — MacRumors · 15:11 PT · #tech #ai
+- [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction) — The Verge · 15:10 PT · #tech
+- [Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie](https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/) — WIRED · 15:08 PT · #tech
 - [iOS 27.2 Adds New Apple Music Icon](https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/) — MacRumors · 15:04 PT · #tech #ai
 - [5 clever ways Gemini can automate everyday tasks](https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/) — Engadget - Technology News & Expert Reviews · 15:00 PT · #tech #ai
+- [ESA targets Anbernic emulation handhelds as "superfake" piracy enablers](https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/) — Ars Technica · 14:55 PT · #tech
 - [Disney Accused Character.ai of Copyright Infringement. Now It’s Bidding on the Bankrupt Startup’s Assets](https://www.inc.com/kevin-haynes/disney-accused-characterai-copyright-infringement-now-bidding-bankrupt-startups-assets/91419440) — Inc.com · 14:54 PT · #tech #ai #smallbiz
 - [Apple HomeView accessories will expand what is possible with the home hub](https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss) — AppleInsider · 14:38 PT · #tech #ai
 - [First look at Apple Home Collection](https://www.youtube.com/shorts/CG5UlQLExCw) — The Verge · 14:35 PT · #tech
 - [OpenAI says it found a 'sophisticated recording device' hidden in its offices](https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/) — Engadget - Technology News & Expert Reviews · 14:34 PT · #tech #ai
+- [Topgolf saved over $11.3 million after leaving VMware](https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/) — Ars Technica · 14:33 PT · #tech
 - [F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office](https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html) — NYT > Technology · 14:31 PT · #tech #ai
+- [7 Essential Marketing Strategies for Retailers](https://smallbiztrends.com/marketing-for-retailers/) — Small Business Trends · 14:31 PT · #tech
 - [PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter](https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/) — 9to5Mac · 14:29 PT · #tech #ai
 - [PC Gamers, Rejoice: GTA 6 PC Port Could See Release in Early 2027, Report Says](https://www.cnet.com/tech/gaming/grand-theft-auto-gta-6-pc-port-release-timing/) — CNET · 14:22 PT · #tech
 - [HomePod Mini 2 Works as Default Speaker With Select Macs](https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/) — MacRumors · 14:19 PT · #tech #ai
@@ -45,6 +52,7 @@ tags: ["category", "tech"]
 - [LangChain CSV Sanity-Check Agent - Towards Data Science](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pbTJoVXNTYUtON3pwZ3lCN2NXck9PUVZVZ2Z1OW9Zb2JfRlJORUhIMjdKeldhbGtFbUVYRTBJTW5SZk5YX292YkI5bTcxbVlpWFp5TGlKa2J3S1ltZ3FSZQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:57 PT · #tech #ai
 - [HR Giant SHRM Hit With a $400,000 Verdict After Rescinding a Job Offer Over a Service Dog](https://www.inc.com/kaylawebster/hr-giant-shrm-hit-with-a-400000-verdict-after-rescinding-a-job-offer-over-a-service-dog/91419318) — Inc.com · 12:56 PT · #tech
 - [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132) — Hacker News · 12:55 PT · #tech #ai
+- [Trump commercial railing against his enemies kept airing after court blocked it](https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/) — Ars Technica · 12:50 PT · #tech
 - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) — Hacker News · 12:50 PT · #tech #ai
 - [No biometrics are needed for HomeView to show a user's personal data](https://appleinsider.com/articles/26/10/13/no-biometrics-are-needed-for-homeview-to-show-a-users-personal-data?utm_source=rss) — AppleInsider · 12:45 PT · #tech #ai
 - [After a $1.95 Billion Sale, Allison Ellsworth Is Launching Jetty. It Won’t Compete With Poppi](https://www.inc.com/victoria-salves/allison-ellsworth-launching-jetty-wont-compete-with-poppi/91419200) — Inc.com · 12:42 PT · #tech #smallbiz
@@ -96,6 +104,7 @@ tags: ["category", "tech"]
 - [Apple Releases Fourth iOS 27.2 Beta](https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-beta-4/) — MacRumors · 11:24 PT · #tech #ai
 - [Apple releases second RCs for macOS Sequoia 15.8.2 and Tahoe 26.7.2](https://9to5mac.com/2026/10/13/apple-releases-second-rcs-for-macos-sequoia-15-8-2-and-tahoe-26-7-2/) — 9to5Mac · 11:24 PT · #tech #ai
 - [macOS 27.2 Golden Gate beta 4 now available, here’s what’s coming](https://9to5mac.com/2026/10/13/macos-27-2-golden-gate-beta-4-now-available-heres-whats-coming/) — 9to5Mac · 11:23 PT · #tech #ai
+- [Disney offers $20M for Character.AI’s scandal-plagued chatbot tech](https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/) — Ars Technica · 11:23 PT · #tech #ai #markets
 - [Apple releases fourth iOS 27.2 developer beta for iPhone](https://9to5mac.com/2026/10/13/apple-releases-fourth-ios-27-2-developer-beta-for-iphone/) — 9to5Mac · 11:22 PT · #tech #ai
 - [All features of Apple's new HomeView](https://www.youtube.com/shorts/y-MODo3Hye4) — The Verge · 11:20 PT · #tech
 - [Apple Releases Fourth watchOS 27.2 and visionOS 27.2 Betas](https://www.macrumors.com/2026/10/13/apple-releases-watchos-27-2-beta-4/) — MacRumors · 11:20 PT · #tech #ai
@@ -108,6 +117,7 @@ tags: ["category", "tech"]
 - [Ryan Coogler's X-Files reboot gets a full series order from Hulu](https://www.engadget.com/2285678/ryan-cooglers-x-files-reboot-gets-a-full-series-order-from-hulu/) — Engadget - Technology News & Expert Reviews · 11:10 PT · #tech
 - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/) — Hacker News · 11:09 PT · #tech
 - [Don't like your Facebook feed? Meta wants to know what you want to see instead](https://www.engadget.com/2285674/dont-like-your-facebook-feed-meta-wants-to-know-what-you-want-to-see-instead/) — Engadget - Technology News & Expert Reviews · 11:06 PT · #tech
+- [Skydance’s Discovery+ prices increase by up to 20 percent](https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/) — Ars Technica · 11:06 PT · #tech #markets
 - [Facebook is giving users more control over their algorithm](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/) — TechCrunch · 11:05 PT · #tech #ai
 - [Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/) — TechCrunch · 11:05 PT · #tech
 - [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables) — The Verge · 11:00 PT · #tech
@@ -401,13 +411,3 @@ tags: ["category", "tech"]
 - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) — Hacker News 200+ · 03:27 PT · #tech
 - [Toronto LLM Visibility Agency Online Visibility Collective Reports 16-Fold Rise in Client AI Recommendations - openPR.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNam5wNzRQMVpRRTd1WW9sYkZEN0Q1WThlN0lNd255QlE5TDdtc1pCUldacXZUUEZnS1RSRGwwbXY1c0RyYW9qUEFna1hCYTF5eFlBOVFFaFhkaElQNnpqbkJQRnBla0NHVUtORkN6bjFFRkVXX3Y1YVJEVXhMSE5MS3UtX3hmU3NSb2U4UUl0Zld0eWJrSllWSzZn?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 03:24 PT · #tech #ai
 - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) — Hacker News · 03:08 PT · #tech #ai
-- [The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/) — WIRED · 03:00 PT · #tech #ai #nevada
-- [Your Pricing Data Shows What Customers Did. Kapnova Wants to Reveal What Will Make Them Buy Next](https://www.inc.com/howard-tullman/kapnova-pricing-data-predict-customer-behavior-startups/91418091) — Inc.com · 03:00 PT · #tech
-- [Apple @ Work Podcast: Addigy announces Intelligence Suite, aimed at bringing AI control to Apple devices](https://9to5mac.com/2026/10/13/addigy-intelligence-suite/) — 9to5Mac · 03:00 PT · #tech #ai
-- [‘All They’re Going to Hear Is Capitulation’](https://www.cjr.org/feature/all-theyre-going-to-hear-is-capitulation-trump-attacks-public-media-education-university-radio-stations-kut-npr-texas.php) — Columbia Journalism Review · 03:00 PT · #tech #media
-- [Owner of fashion brands Hobbs and Whistles joins autumn pwned collection](https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752) — www.theregister.com - Articles · 02:45 PT · #tech
-- [What’s the Best Kindle of 2026 (So Far)?](https://www.wired.com/gallery/best-kindle/) — WIRED · 02:30 PT · #tech
-- [AI adoption strategy for businesses in India: the need to move beyond LLM hype - Traders Union](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdlBwWmRya0hNdkhESmE4RFV6Vm00TnFILVozNWpEcVBvdUZMZXpCUEMtVGF1Tk85VHJMS2hpRnZfbGY1eExpU3dLOFV6U1Z3MTZfRXQ1RVFVSFZxUGpFa0dfZzVfQ3JGckVuMEx5RHR4SGZaMzVxVzRQWEpMQlNIYVdjaEtldXk3ODZqcks1amxtbkR6SUE?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 02:29 PT · #tech #ai
-- [Playing It SFAPE: Code Execution in Isolated User Mode](https://www.reddit.com/r/netsec/comments/1x4s0yk/playing_it_sfape_code_execution_in_isolated_user/) — Technical Information Security Content & Discussion · 02:25 PT · #tech
-- [4 years in cybersecurity and feeling lost on what to learn next](https://www.reddit.com/r/cybersecurity/comments/1x4rrny/4_years_in_cybersecurity_and_feeling_lost_on_what/) — cybersecurity · 02:08 PT · #tech
-- [6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)](https://www.wired.com/gallery/best-coffee-grinders-2026/) — WIRED · 02:02 PT · #tech

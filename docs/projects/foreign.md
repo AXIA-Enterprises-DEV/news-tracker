@@ -1,6 +1,6 @@
 ---
 title: "Project: Foreign Policy / Defense"
-updated: 2026-10-13T15:09:45-07:00
+updated: 2026-10-13T15:19:57-07:00
 count: 400
 tags: ["project", "foreign"]
 ---
@@ -11,6 +11,7 @@ tags: ["project", "foreign"]
 
 ## 2026-10-13
 
+- ['I'd talk to the TV': The paid companions bringing warmth to China's lonely](https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss) — BBC World · 15:02 PT · #world #foreign
 - [Why the lonely in China are hiring 'temporary children'](https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss) — BBC World · 15:00 PT · #world #foreign
 - [Stranded Middle East LNG Supply Upends Gas Markets](https://oilprice.com/Energy/Natural-Gas/Stranded-Middle-East-LNG-Supply-Upends-Gas-Markets.html) — OilPrice.com · 15:00 PT · #markets #foreign #oil
 - [The Limits of China’s Surveillance State](https://foreignpolicy.com/2026/10/13/china-surveillance-state-covid-xinjiang-xi-jinping/) — Foreign Policy · 14:50 PT · #world #foreign
@@ -62,6 +63,7 @@ tags: ["project", "foreign"]
 - [Saudi Arabia Strikes Houthi Targets as Red Sea War Escalates](https://gcaptain.com/saudi-arabia-strikes-houthi-targets-as-red-sea-war-escalates/) — gCaptain (shipping) · 11:48 PT · #world #foreign #oil
 - [Startup wants US soldiers to command AI agents through its smart glasses](https://www.defensenews.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses/) — Defense News · 11:45 PT · #world #ai #foreign #smallbiz
 - [Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go](https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss) — Al Jazeera · 11:42 PT · #world #foreign
+- [Hegseth wants a livestream execution. Here's how firing squads work - Axios](https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXFLWVYzUW5iRHo4TThhUDlob0NvQWVIOVg3RUFzTUhPREc3YndzNGJneTVRY08tT3licEYwMDRKT01ZVkdtTzVvQ1hORnZyOHhlYmhrTEJLd2sxMEFzcWI1YlVLTHB3T0taVkh1WkhVdG9UNUFOWXEzUU92bmFtOF9GMFZzSE5ROVE?oc=5) — Top stories - Google News · 11:36 PT · #world #foreign
 - [Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex](https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy) — The Verge · 11:31 PT · #tech #foreign #media
 - [Russia arrests Japanese journalist on espionage charges](https://www.ft.com/content/b77a0094-c6f1-449a-9323-2b4d16696cb7?syn-25a6b1a6=1) — FT Home · 11:30 PT · #business #foreign #media
 - [Horizon3 befördert Keith Poyser nach Umsatzwachstum von über 260 Prozent in der EMEA-Region zum General Manager](http://www.businesswire.com/news/home/20261013802122/de/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 11:30 PT · #business #foreign
@@ -412,5 +414,3 @@ tags: ["project", "foreign"]
 - [International sailing regatta series in UAE brings together athletes from six countries - TV BRICS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVSTENrNGswTzdkUGVTLVp5MFJ0V0FmUzYyaGh5VjBGRFNxVnRlNDhaclZYYzJSUkNRT092TmlONHE3U3BMb3RzX091SmdOS0NHUEQ5a3RHLTVlSTZENk84ZEpIS3lZNjRlSklVOENnWmhlWFlEV0RuT2QxcEd0RUN6LTR5VmtqUXBPLTU1emNHNlBvc2pjTzhDM1prTVFJTlkxa2s5T0pNWV9NcTNRbjRGb0g2cUE?oc=5) — Google News: BRICS · 07:07 PT · #world #foreign
 - [Ghana’s Banking Shake-Up & BRICS Gamble: What It Means for Your Money and the Economy - Modern Ghana](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTZjkwb1B2SVRaVWxMN0YzWk50OVdZdm8zLUlVT1lHeHdWcXpOaWNkR1A5SnFBYlFOWjFmTGNldlBqTmM5LVd5aFJBdkttX2k1MnNPNUQ1SkNFcGJZ0gFcQVVfeXFMUFNmOTBvUHZJVFpVbEw3RjNaTnQ5V1l2bzMtSVVPWUd4d1Zxek5pY2RHUDlKcUFiUU5aMWZMY2V2UGpOYzktV3loUkF2S21faTUyc081RDVKQ0VwYlk?oc=5) — Google News: BRICS · 07:02 PT · #world #foreign
 - [Skies Over Saudi Capital Empty After Deadly Houthi Airport Strikes](https://www.huffpost.com/entry/riyadh-attack-houthis-saudi-arabia_n_6acce4dce4b0ec20eb6b45c5) — World News - Breaking News, Top Stories · 06:51 PT · #us #foreign
-- [Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline](https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577) — www.theregister.com - Articles · 06:45 PT · #tech #foreign
-- [BRICS Traditional and Indigenous Sports Demonstration Games 2026 inaugurated in Ahmedabad - News On AIR](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlZKT3FSelhYbzE3aW4tUnZCNlhEQV9fTWtNMWg5N2ZnYWNNR21oZUpQdTdtQVgyQWhxLVZnTXFRV1Z4SWRzcXFNZFNYQ1RGMUJGbXp3RzN0Wk53ZVN6VXpWZmo1UGNlVHh1a240VGZnSU1wZFZ0RFdIQ0s3QV9nOXd5WVlqVV92QTZsZnZubjFXTXZ3ZG5pTzc0cEhheXZZcXZxdjltNzlEblREY2lKQnVjcWx2QQ?oc=5) — Google News: BRICS · 06:36 PT · #world #foreign
