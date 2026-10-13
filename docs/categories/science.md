@@ -1,16 +1,19 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T13:58:27-07:00
-count: 385
+updated: 2026-10-13T14:08:36-07:00
+count: 388
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-385 most recent items (14-day window).
+388 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [The ‘Holy Grail’ of baseball cards is up for auction](https://www.popsci.com/science/honus-wagner-baseball-card-auction/) — Popular Science · 14:02 PT · #science
+- [DNA 'flight recorder' traces embryonic development cell by cell](https://phys.org/news/2026-10-dna-flight-embryonic-cell.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [New method helps researchers study proteins involved in plant health, disease](https://phys.org/news/2026-10-method-proteins-involved-health-disease.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
 - [Humans and songbirds hear the same sounds, but organize them differently](https://phys.org/news/2026-10-humans-songbirds-differently.html) — Phys.org - latest science and technology news stories · 13:50 PT · #science
 - [NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer](https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/) — NASA · 13:41 PT · #science
 - [Sequence changes help modified mRNA avoid protein-making errors to improve vaccine design](https://phys.org/news/2026-10-sequence-mrna-protein-errors-vaccine.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science

@@ -1,19 +1,20 @@
 ---
 title: "Category: sports"
-updated: 2026-10-13T13:58:27-07:00
-count: 163
+updated: 2026-10-13T14:08:36-07:00
+count: 165
 tags: ["category", "sports"]
 ---
 
 # Category: sports
 
-163 most recent items (14-day window).
+165 most recent items (14-day window).
 
 ## 2026-10-13
 
 - [Rory McIlroy would welcome LIV Golf members back to the PGA Tour, though still with conditions - Yahoo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSnZCSUpZOXE0YnJBVFVnQ0RzU01OU3cyem1aUTdMbUF4eU9FSVNVM19RZklBR2hvTzdHX01YMGtyakE3Q2hfbkZjZVN0ZVNJUE9zeHBxLVpIbklFUTl6clN2RXdZZlZ1TTJfRVF5UWwtakV5ODA4R3JPajU2LUI0Vjh2UXYtb2stUjRMSDVIUWp4bW1yWDNSQjZBeVZ1cDg4LU1pSjZSVG1FbTdYbUktc3p1NHNvdjdxQjk1YjlORXhlbXh1c0hudGZ1M3UySkpUbjNzcXBHN3I?oc=5) — Google News: PGA Tour OR LIV Golf · 13:51 PT · #sports #golf
 - [Rory McIlroy's newest sponsorship includes an insane travel perk](https://golf.com/news/rory-mcilroy-new-sponsorship-insane-travel-perk/) — Golf.com · 13:37 PT · #sports #golf
 - [Rory McIlroy contends LIV 'wasted' its money and says he'd vote 'yes' on bringing LIV players back into PGA Tour fold - Golf Digest](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWtySTVoNmtHY0M4WnNmWW9tTDRjN09TdE9QNkpPMjdXcHpqNWV3SHJHR2FsT3I1cXFKdktObFB5b21aUXpzcmViZV9lN2FvSThNeWpQZHRqU2xpdWpicEctYmlvaEJDZktiaHlONUlKdEZpdkhlT0F3TWNhQm5MM1hRN2NONzQxbTRNb1h1OTVqM1hDOXp6eQ?oc=5) — Google News: PGA Tour OR LIV Golf · 13:35 PT · #sports #golf
+- [Rory McIlroy contends LIV 'wasted' its money and says he'd vote 'yes' on bringing LIV players back into PGA Tour fold - Yahoo Sports](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTJnTU9HRWJXZlZldXM3X1R0R011SHpFanJZRlFSU1VuRnF1Yy1FTk9kLWpDU1pSY1lYcnllZDBHWHJqbm0wRkx4QnpOdnFreDNVWGNweElldjRpWTVWUDhKdkZyVjZGYmdGbUFEOUc1WXExbUx1NGJya2hOWUhjdmdGTHdOR2M2?oc=5) — Google News: PGA Tour OR LIV Golf · 13:35 PT · #sports #golf
 - [Rory McIlroy Reveals The Truth About Jon Rahm Post-LIV - Yahoo Sports](https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUI4bnRGZ2NjLUlPQkdKallNejViMlpMeE5IS0tZN2ItSEt2TGcwVl9UM0U2VzBQZHdCZmZtd0hRUE9OOHlDQURsUXZOcFNvMk1yQUR2SUJNZ1hTZThpZ3Q5VTdIaklPVUVFTXkwc25Kam1FZWY0SE1LTDVOY0YtZk1rU1pPZw?oc=5) — Google News: PGA Tour OR LIV Golf · 13:30 PT · #sports #golf
 - [McIlroy says he would vote for LIV Golf stars to be welcomed back to DP World Tour - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVhDckJRbEhpdlRqQS1fTmtjbzMtTDZTd2w0bXFTajNSd25DUmlhZFNWeFRQdWhhUmJlUUtxQ2NXYXFXbm9SYkMxVlRvTUxrSmlVUVhaQzRoR0d1ZFloWUpoNnFLbG1KQ0t6czQzQU15WUVQYmdxc0w0bXhqWGE3bFZJWFNRNTVPY3Utd0NtWW5FYkVpOEJjalI4VW1XUmc?oc=5) — Google News: PGA Tour OR LIV Golf · 13:19 PT · #sports #golf
 - [JumboMax Golf Grips Celebrates Ambassador Ian Gilligan Earning PGA Tour Card - The Golf Wire](https://news.google.com/rss/articles/CBMibEFVX3lxTE1NNnFXelk5TXdfSjNuLWJFd2xmRmQtZXRDdFFmamd2bGlvR1RBVlZTQWh4WUVkVG1CT19JT0F5RDVqLXNVWXNRaDNIejdjWFVDR2d4LVY4dG1oc0UyNUpoa1Q4THQ2QmdpSXhYSA?oc=5) — Google News: PGA Tour OR LIV Golf · 13:17 PT · #sports #golf
@@ -66,6 +67,7 @@ tags: ["category", "sports"]
 - [Brooks Koepka, Justin Thomas Set for Major $4 Million Golf Showdown - Heavy.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5DeXl6MUxYR2tJZ05VZ1VSTThmd3VfMkh3Yzk5Z1VJWlVXUDNYVVAxa09yRTdjaWRYYjc2UGVMTk9wbG5zQzF1c0dFTVA4SnJySWhzcFpJTFZfY19mbWUtZko1ZTF0alA5a0pXbA?oc=5) — Google News: PGA Tour OR LIV Golf · 08:33 PT · #sports #golf
 - [Michael Brennan’s historic stats, Mike Ditka’s legendary golf videos and a slept-on buddies trip destination - Yahoo Sports](https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHF4bl8tS0dTSmhtQzRFbjBMVEp2QVBYUmdydko1ckh1Q1FKc2tocmxnWm80QjZ5VEhqOUU5VjEtd0RSYWxac1g4UjNtS2VhR3RBVzk1WkVuYnJYVk1PcGk0TTNVTkYxSDFodHhuZTUxWkZRRnBNSUZyd3kxRWctV01yYldSMHhSMk1Ncg?oc=5) — Google News: PGA Tour OR LIV Golf · 08:17 PT · #sports #golf
 - [The 90 Percent Mental Golf Myth Is Half Wrong - Yahoo Sports](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSXBhZlNJRm9CWm1hcjRpTUtEbVNvQVVqN1BIeXVLWmF6MnBCdE9NdGh0NWRRM0Q1dXJPMXRZdGR3WVExYjFDNzRHejZsQ3FoSGxPWUFDSXdiX3NFS2J6RGtuSFMtajUxNkVvdHNxYWNfVTNkT0ljUEhTeW8zNDdPSDl3?oc=5) — Google News: PGA Tour OR LIV Golf · 08:16 PT · #sports #golf
+- [Kohles closes in on PGA Tour card after betting on himself with trip to Japan - theScore](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUlxTmI0NndONWo0aElyOEg1amRVbzZzaU5DejlGQW1WTU9GY3gxR2N3WHBPZDBMM0U2TG1yZnBkM24tWVRpSkU1WlJUcTU0S29pbDJrZVdGMG51cXV0RFE4RzQzNHFueEk5UUd2Unk4UjRhbDdVblNGVXdzdHRqYkJCRWE4U25JdmNBc0ZJc1QzR2ZjNVRPWk5uTGEwNDhyRDZGcXVUbmRicjNUeFc0TFVEcndXN0xtQ3BR?oc=5) — Google News: PGA Tour OR LIV Golf · 08:11 PT · #sports #golf
 - [The Farmers Insurance Skins Game returns; Jackson Koivun, Brooks Koepka headline field - PGA Tour](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQ3d3VTJoYlFERDJhLUxlT3VPVnJnVGhFWGRIUmg0eDZ0aWlGZG9PZEJTczZVVlBUbDNzWExvZ0J5LTBrODhxZkdkd0ZJTkJmVllab3pHTC1jVlpQenFOeWR5c0tsbTdWVXlyQUZZREpmTG0zSzdOMTVKZDVXdGZ4N1AwWnBrYXl4VWFrNTR1WFJfQmdGYlBXZnFXWDFhYUMwS3pXZ1RDcDNkdi0xTldMZUZ6ZzJKd2RuaGJuMjJBNlNwSVc3cjhwVUswVllDbURzWVgzSjUxRGtxRGtIZV9XQ3ZGUFdFVGdRSGlmYlA1UlB1Z1FiV1FKVDVTTQ?oc=5) — Google News: PGA Tour OR LIV Golf · 08:07 PT · #sports #golf
 - [How did Furyk & Friends fare in new PGA Tour Champions site? - Yahoo Sports](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTl3ZTVZUnRZbWlySUhkV2VJQnM4cjNTaEdDemRLQXFxa1JVQ2k0MUlGR0hHaEplVGRabTA5VF9Dd0I1RHRVQUN2OUs3bV9pbFo4M1djNlJBZGlVbXQ5MjJOTndxZWhrejBBU1g4RldZRWYxalA2SjE0bHhrRkFaNA?oc=5) — Google News: PGA Tour OR LIV Golf · 08:01 PT · #sports #golf
 - [PGA Tour vs. LIV Golf: A Clash of Financial Titans! - Yahoo Sports](https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMW5nYXlTYTZYSWs1R1dteWtCb2d4QVFyNDhNbVdpYnEyZXF5U09tNDNPeHNLbjNfZXEzbl9ITk9RSTNJTFdJVHd5bmpkbU1BVjROVTRESHZ1ZlZ6VWxTVFVraGppcWFLSFlRZGtKR3p6Rzk2U2c?oc=5) — Google News: PGA Tour OR LIV Golf · 08:00 PT · #sports #golf

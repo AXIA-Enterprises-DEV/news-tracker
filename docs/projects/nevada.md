@@ -1,16 +1,19 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-13T13:58:27-07:00
-count: 252
+updated: 2026-10-13T14:08:36-07:00
+count: 255
 tags: ["project", "nevada"]
 ---
 
 # Project: Nevada / Las Vegas
 
-252 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
+255 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
 
 ## 2026-10-13
 
+- [Surgery confirms pope has lung cancer; lower lobe of his right lung removed](https://www.reviewjournal.com/life/religion/surgery-confirms-pope-has-lung-cancer-lower-lobe-of-his-right-lung-removed-3899609/) — Las Vegas Review-Journal · 13:51 PT · #us #nevada
+- [Nevada Preps predictions: Week 10 high school football picks](https://www.reviewjournal.com/nevada-preps/nevada-preps-predictions-week-10-high-school-football-picks-3899604/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
+- [Western Kentucky-Sam Houston State prediction: One clear winner in pick ‘em game](https://www.reviewjournal.com/sports/betting/western-kentucky-sam-houston-state-prediction-one-clear-winner-in-pick-em-game-3899600/) — Las Vegas Review-Journal · 13:45 PT · #us #nevada
 - [Chicago police say DNA links former detective with Las Vegas ties to killing of 8-year-old girl](https://lasvegassun.com/news/2026/oct/13/chicago-police-say-dna-links-former-detective-with/) — Las Vegas Sun · 13:39 PT · #us #nevada
 - [LVCVA happy with results of this year’s five-day sale in September](https://www.reviewjournal.com/business/tourism/lvcva-happy-with-results-of-this-years-five-day-sale-in-september-3899593/) — Las Vegas Review-Journal · 12:59 PT · #us #nevada
 - [Las Vegas Global Economic Alliance and Commercial Real Estate Brokers Join Forces and Leverage Assets to Attract Business Investment to Southern Nevada - Nevada Business Magazine](https://news.google.com/rss/articles/CBMilgJBVV95cUxNUXNrWEc4cWZSRDNpR3czRGZLeEZTajljVnNiOXdIUWlCUm8xeHduSjNMOGpMMGRsbVpHRkd1VUYzblJuNkE2QXNtREllTUdNclZPWkp2RGhDdVFRVmFNTWZsalloTVVEOHBFelo5NFFnNDB4Z05uNEhjZVlTVHJxUlgwcVhUUVEzeFljUjhHX1N2MVhHV2hzNmJLTHBSSWpPb2R2T2NBbF9yV1BLOEE5b2NFRXNHNnFaREg3OHRiSW42UzN1WWppSHF2a3d2WGV5UUxnajBBenpiTFJSeFdSREhPcnVaYUpRRzF4RU4wQWtUdnhfbFdJbS1HYUxDdk5IRDB6M0dnb1kwTFJZZ1hLd2tJcDEzdw?oc=5) — Google News: Las Vegas real estate · 12:34 PT · #business #nevada #realestate

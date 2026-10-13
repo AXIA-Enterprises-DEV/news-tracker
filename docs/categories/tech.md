@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T13:58:27-07:00
+updated: 2026-10-13T14:08:36-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,6 +11,9 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — Hacker News · 14:01 PT · #tech #ai
+- [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) — TechCrunch · 13:59 PT · #tech #ai
+- [Samsung Smart Glasses Unveiled, and They’re Superlight](https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/) — CNET · 13:49 PT · #tech
 - [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
 - [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
 - [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) — TechCrunch · 13:36 PT · #tech #ai
@@ -31,6 +34,7 @@ tags: ["category", "tech"]
 - [My favorite AI GUI for Linux works with local or cloud models – and it’s free - ZDNET](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNlhkT0hCYWdjMzc0aXpsUHVEb3ZJVUwtUVBNOG02Qm9VM2FaZjlZM1JLd2FWU3h0WU9rZWk1RkVMcmp2eUFIeDRXTHpFRlgwcGZLMUxBOW5Ea2VCbHdjNGFQM2VocE5lOXFYVlJRbWNKckR4NjV1M2RPN0g2S2dlVXRsTQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:39 PT · #tech #ai
 - [OpenAI and Anthropic Tell British Lawmakers: Regulate Us](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/) — WIRED · 12:35 PT · #tech #ai
 - [Where to Pre-Order Apple's New HomeView, HomePod Mini 2, and Apple TV 4K](https://www.macrumors.com/2026/10/13/pre-order-homeview/) — MacRumors · 12:34 PT · #tech #ai
+- [Top 10 Loyalty Program Software Solutions for Small Businesses](https://smallbiztrends.com/loyalty-program-software-for-small-business/) — Small Business Trends · 12:31 PT · #tech #smallbiz
 - [Nvidia Has an Employee Turnover Rate of Just 3.7%. Its Leaders Practice 1 Habit Worth Copying](https://www.inc.com/marcel-schwantes/nvidia-has-an-employee-turnover-rate-of-just-3-7-its-leaders-practice-1-habit-worth-copying/91417504) — Inc.com · 12:30 PT · #tech #ai
 - [HomeView, Apple TV 4K, and more now available for Amazon pre-order](https://9to5mac.com/2026/10/13/homeview-apple-tv-4k-and-more-now-available-for-amazon-pre-order/) — 9to5Mac · 12:29 PT · #tech #ai
 - [When Slate went back to its 1996 homepage, it learned some web design lessons for 2026](https://www.niemanlab.org/2026/10/when-slate-went-back-to-its-1996-homepage-it-learned-some-web-design-lessons-for-2026/) — Nieman Lab · 12:29 PT · #tech #media
@@ -42,6 +46,7 @@ tags: ["category", "tech"]
 - [Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks - The Register](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY3ZMVDBKZUNkZzhJVWdMU2lic1EyTTc3RWtYemF3TVNUT0t1Unpnb3FWa2lsYWRQSTlVUmRlcnlkSEFsblNzb1Rfb3VGMXphc3lncVN2R1BPekFxMWx3UHNqN253U2RlNjNKOVA4VWo3ZU9vVVVYWWNvT3dNbEViN2U1U21QZUZyRExmYWdQckJhYVQ5dDBKXzBuc1hON0Q0SlJNX1JYN2QxSmVBUmtEeGpqRWw3V2xtLTNPMi1ZTXRRNGtfcldXem10Z0FUbGM4cXJN?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 12:16 PT · #tech #ai
 - [Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks](https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891) — www.theregister.com - Articles · 12:16 PT · #tech #ai
 - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) — Hacker News · 12:11 PT · #tech
+- [Dropbox Empowers Muse Connector to Streamline Project Onboarding](https://smallbiztrends.com/dropbox-empowers-muse-connector-to-streamline-project-onboarding/) — Small Business Trends · 12:11 PT · #tech
 - [NVIDIA Introduces New AI Models, Features for RTX Spark, and DLSS 5 Updates - Root-Nation.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGxVMHc2ZDU0MThxQ3ZieG5kU1d1SU1acHJ4U2kyRTRxNVZmcXJzYVFoRkdZdi1HYXdGQWd0Wldza1dqVXp3X29DZWVfME4ya0JTZ2JWanIzTzZrdE1CUUNYNEltLUJyb1hjVF82SUZMV1FNMTVadFdjcXpfMUJNeEZpeEk2TVBhbkpRX09rbno?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:10 PT · #tech #ai
 - [iOS 27.2 adds new app icon for Apple Music, more design updates](https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/) — 9to5Mac · 12:06 PT · #tech #ai
 - [Hardware Store Cats Aren’t Just Cute. A Wharton Professor Says Their Business Appeal Comes Down to 1 Thing](https://www.inc.com/moses-jeanfrancois/hardware-store-cats-are-not-just-cute-wharton-professor-business-appeal/91418852) — Inc.com · 12:02 PT · #tech
@@ -59,6 +64,7 @@ tags: ["category", "tech"]
 - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain) — Hacker News · 11:37 PT · #tech
 - [The Nothing Headphone A are half off for the first time](https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale) — The Verge · 11:33 PT · #tech
 - [Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex](https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy) — The Verge · 11:31 PT · #tech #foreign #media
+- [What Is the Inventory Turnover Ratio?](https://smallbiztrends.com/inventory-turnover-ratio/) — Small Business Trends · 11:31 PT · #tech
 - [Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field](https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/) — TechCrunch · 11:30 PT · #tech
 - [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/) — TechCrunch · 11:30 PT · #tech #ai
 - [Rivian spinoff Mind Robotics hires Doug Field as president](https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple) — The Verge · 11:30 PT · #tech #smallbiz
@@ -104,6 +110,7 @@ tags: ["category", "tech"]
 - [Workers Spend Just 30 Minutes Choosing Benefits. That Confidence Could Cost Them](https://www.inc.com/bruce-crumley/workers-spend-just-30-minutes-choosing-benefits-that-confidence-could-cost-them/91418806) — Inc.com · 10:44 PT · #tech #markets
 - [Show HN: XY Music Notation](https://music.xy.dev/) — Hacker News · 10:43 PT · #tech
 - [The feds are looking into reports of Tesla’s robotaxis speeding through school zones](https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation) — The Verge · 10:40 PT · #tech
+- [What Is the Role of Feedback in the Workplace?](https://smallbiztrends.com/feedback-in-the-workplace/) — Small Business Trends · 10:34 PT · #tech
 - [The Paris Auto Show is full of interesting cars Americans can’t have](https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/) — Ars Technica · 10:33 PT · #tech
 - [Linus Torvalds is using AI to develop Linux kernel code now](https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/) — Latest news · 10:30 PT · #tech #ai
 - [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/) — TechCrunch · 10:30 PT · #tech #ai #smallbiz
@@ -125,6 +132,7 @@ tags: ["category", "tech"]
 - [Claude submitted fake murder tip to Philly police during summertime testing](https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842) — www.theregister.com - Articles · 10:18 PT · #tech #ai
 - [Arsenal vs. Lille: Livestream 2026 Champions League Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/arsenal-vs-lille-livestream-2026-champions-league-soccer-from-anywhere/) — CNET · 10:17 PT · #tech
 - [How Cities Can Make Starting a Business Easier with Fayetteville Mayor Molly Rawn](https://share.transistor.fm/s/1e2b4f2a) — The Startup Junkies Podcast · 10:11 PT · #tech #smallbiz
+- [Oracle Unveils Fusion Claw, Transforming AI Execution for Businesses](https://smallbiztrends.com/oracle-unveils-fusion-claw-transforming-ai-execution-for-businesses/) — Small Business Trends · 10:11 PT · #tech #ai
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b) — Hugging Face Blog · 10:05 PT · #tech #ai
 - [Watch a Bee’s Stinger Keep Pumping Venom After the Bee Is Gone](https://gizmodo.com/watch-a-bees-stinger-keep-pumping-venom-after-the-bee-is-gone-2000825280) — Gizmodo · 10:05 PT · #tech
 - [Apple Just Used a Grandma Hobby to Tease Its ‘Welcome Home’ Event—Here’s Why They Abandoned High-Tech Ads](https://www.inc.com/michael-tasner/apple-embroidered-logo-event-teaser/91419022) — Inc.com · 10:04 PT · #tech #ai
@@ -406,11 +414,3 @@ tags: ["category", "tech"]
 ## 2026-10-12
 
 - [GotEmail](https://www.producthunt.com/products/gotemail) — Product Hunt — The best new products, every day · 23:49 PT · #tech #ai
-- [Abu Dhabi is putting 50+ government entities under AI-agent security controls. Their main worry is agents being talked into "authorised-looking" actions.Interesting read from Khaleej Times (12 Oct)](https://www.reddit.com/r/cybersecurity/comments/1x4pckp/abu_dhabi_is_putting_50_government_entities_under/) — cybersecurity · 23:30 PT · #tech #ai
-- [What Strategies Optimize Supply Chain and Inventory?](https://smallbiztrends.com/supply-chain-and-inventory/) — Small Business Trends · 23:29 PT · #tech
-- [Public Resistance Puts US Prediction Markets Under Pressure](https://readwrite.com/election-betting-poll-opposition/) — ReadWrite · 23:12 PT · #tech #civic
-- [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107) — Hacker News 200+ · 23:02 PT · #tech
-- [The Drive AI](https://www.producthunt.com/products/the-drive-ai-2) — Product Hunt — The best new products, every day · 22:39 PT · #tech #ai
-- [Wayfair Coupons: Up to 80% Off October 2026](https://www.wired.com/story/wayfair-promo-code/) — WIRED · 22:00 PT · #tech
-- [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/) — WIRED · 22:00 PT · #tech
-- [Google Workspace Promo Codes: 14% Off for October 2026](https://www.wired.com/story/google-workspace-promo-code/) — WIRED · 22:00 PT · #tech

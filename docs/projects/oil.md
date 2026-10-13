@@ -1,16 +1,17 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T13:58:27-07:00
-count: 307
+updated: 2026-10-13T14:08:36-07:00
+count: 308
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-307 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+308 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
+- [Five Shale Stocks to Watch Before Third-Quarter Earnings](https://oilprice.com/Energy/Energy-General/Five-Shale-Stocks-to-Watch-Before-Third-Quarter-Earnings.html) — OilPrice.com · 14:00 PT · #markets #oil
 - [4 - BRUUN BRENT C (0001441377) (Reporting)](https://www.sec.gov/Archives/edgar/data/1441377/000144137726000016/0001441377-26-000016-index.htm) — SEC EDGAR All Filings · 13:46 PT · #filings #markets #oil
 - [US to use Defense Production Act to expand Delek refinery in Texas, Vance says](https://seekingalpha.com/news/4652677-us-to-use-defense-production-act-to-expand-delek-refinery-in-texas-vance-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:28 PT · #markets #oil
 - [Port of Los Angeles Sets All-Time Cargo Record as Imports Surge](https://gcaptain.com/port-of-los-angeles-sets-all-time-cargo-record-as-imports-surge/) — gCaptain (shipping) · 13:26 PT · #world #oil

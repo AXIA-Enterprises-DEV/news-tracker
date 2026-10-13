@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T13:58:27-07:00
+updated: 2026-10-13T14:08:36-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,6 +11,11 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html) — CNBC Top News · 14:06 PT · #markets #ai
+- [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — Hacker News · 14:01 PT · #tech #ai
+- [The $20 Billion AI Scare That Wasn’t - InvestorPlace](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ia0ROTXZ6OFAxSHRuN0RXdmR1d3ZtdEE0bFg1a0pzLTQtMmxHZnBtVVhrMFlOVXB4cUhRUk85VE1jUC1Qd2VYYzU1eV9MYUs5LVlMVHp1bXVSM3ZNOFhOTnd1YWprNmN2SHBsYS16TTIyNW9uT1JPMw?oc=5) — Google News: unusual options activity · 14:00 PT · #markets #ai
+- [Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.](https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html) — NYT World · 14:00 PT · #world #ai
+- [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) — TechCrunch · 13:59 PT · #tech #ai
 - [Ripple Teams With Stripe-Owned Privy to Bring Wallet Tech to XRP Ledger](https://news.bitcoin.com/technology/ripple-teams-stripe-owned-privy-wallet-tech-xrp-ledger/) — Bitcoin News · 13:55 PT · #markets #ai
 - [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
 - [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
@@ -117,6 +122,7 @@ tags: ["project", "ai"]
 - [An OpenAI Safety Insider Thought the Doomsday Warnings Were ‘Nuts’. Then He Saw How the Company Worked](https://www.inc.com/nick-hobson/an-openai-safety-insider-thought-the-doomsday-warnings-were-nuts-then-he-saw-how-the-company-worked/91419003) — Inc.com · 10:20 PT · #tech #ai
 - [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/) — TechCrunch · 10:18 PT · #tech #ai
 - [Claude submitted fake murder tip to Philly police during summertime testing](https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842) — www.theregister.com - Articles · 10:18 PT · #tech #ai
+- [Oracle Unveils Fusion Claw, Transforming AI Execution for Businesses](https://smallbiztrends.com/oracle-unveils-fusion-claw-transforming-ai-execution-for-businesses/) — Small Business Trends · 10:11 PT · #tech #ai
 - [Boats Group Appoints OpenAI Executive Brandon McGraw to Board of Directors](https://www.prnewswire.com/news-releases/boats-group-appoints-openai-executive-brandon-mcgraw-to-board-of-directors-302907398.html) — PR Newswire M&A · 10:09 PT · #business #ai
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b) — Hugging Face Blog · 10:05 PT · #tech #ai
 - [Apple Just Used a Grandma Hobby to Tease Its ‘Welcome Home’ Event—Here’s Why They Abandoned High-Tech Ads](https://www.inc.com/michael-tasner/apple-embroidered-logo-event-teaser/91419022) — Inc.com · 10:04 PT · #tech #ai
@@ -408,9 +414,3 @@ tags: ["project", "ai"]
 - [Apple ‘Welcome home’ event: Three new products are coming tomorrow](https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products/) — 9to5Mac · 16:39 PT · #tech #ai
 - [New joint filing shows Epic remains unhappy with Apple at every turn](https://appleinsider.com/articles/26/10/12/new-joint-filing-shows-epic-remains-unhappy-with-apple-at-every-turn?utm_source=rss) — AppleInsider · 16:19 PT · #tech #ai #civic
 - [Microsoft President Says AI Has Fewer Regulations Than Milk. So Now What?](https://www.cnet.com/tech/services-and-software/microsoft-president-ai-has-fewer-regulations-than-milk/) — CNET · 16:10 PT · #tech #ai
-- [Decision-model APIs flood the market weeks after Jev's launch, as researcher claims the architecture came first - news.lavx.hu](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaHZ0QjJwMUdNUDBUN0hweUh6SVBqMVJONmNwd0k4ZjE1azk2N0hJSmZKZWF6MTR4WTRpVS1iTjRuczVxQUdhaGRKZTJPZnV2Tm1GU1NUR0RYYllNM19IOWJyOTUza0ZtVnhoZE9rM2Yxd0JYOEM3TjR0eWx5WVZEZG5lN1BzaE1TeUdwVnhzd1poMWtvZUswaXNyTlRwaHNITVlCcDF4Q1otQ0c4ZmxnNVo5bEJDZFdjSXRtTzgyTGU1QzhIRW4wZ0ZEUDkyRzZUeDB4WDhB?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 16:03 PT · #tech #ai
-- [Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals](https://www.cnet.com/tech/services-and-software/meta-muse-and-wonder-ai-models/) — CNET · 15:55 PT · #tech #ai
-- [Government agencies are facing critical operational risk](https://federalnewsnetwork.com/commentary/2026/10/government-agencies-are-facing-critical-operational-risk/) — Federal News Network · 15:44 PT · #politics #ai #civic
-- [Maui: Unlock free AI tools for your small business through UH Maui College webinar - University of Hawaii System](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxS2QyN3ZBSFN1NnBVcUp2aGswZ01BTV9BQnlyWnM5U2FwZ2V3dUx6ZzZaXzNKQ2lMUWZjQ1pHUkplTGxlZkVQRjJWT0Z4QW1FOGlJQ3lKdHZ0WGdnMWc?oc=5) — Google News: small business owners · 15:26 PT · #business #ai #smallbiz
-- [Apple gets a $360 price target from JP Morgan despite iPhone demand concerns](https://9to5mac.com/2026/10/12/apple-gets-a-360-price-target-from-jp-morgan-despite-iphone-demand-concerns/) — 9to5Mac · 15:23 PT · #tech #ai
-- [Credo Launches Short-Reach Micro-Emitter Optics (SRMO) Standardization for AI Data Center Scale-Up and Scale-Out Applications](http://www.businesswire.com/news/home/20261012753816/en/Credo-Launches-Short-Reach-Micro-Emitter-Optics-SRMO-Standardization-for-AI-Data-Center-Scale-Up-and-Scale-Out-Applications/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 15:20 PT · #business #ai

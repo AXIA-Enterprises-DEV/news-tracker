@@ -1,16 +1,18 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-13T13:58:27-07:00
-count: 116
+updated: 2026-10-13T14:08:36-07:00
+count: 118
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-116 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+118 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-13
 
+- [D/A - TOWNSEND BALANCED REAL ESTATE FUND L P (0001351287) (Filer)](https://www.sec.gov/Archives/edgar/data/1351287/000135128726000004/0001351287-26-000004-index.htm) — SEC EDGAR All Filings · 14:03 PT · #filings #markets #realestate
+- [SEC STAFF ACTION - BSR Real Estate Investment Trust (0001777917) (Filer)](https://www.sec.gov/Archives/edgar/data/1777917/999999999726001619/9999999997-26-001619-index.htm) — SEC EDGAR All Filings · 14:00 PT · #filings #markets #realestate
 - [D - Forman Capital REIT Feeder Fund 2, LP (0002146560) (Filer)](https://www.sec.gov/Archives/edgar/data/2146560/000181455426000219/0001814554-26-000219-index.htm) — SEC EDGAR All Filings · 13:39 PT · #filings #markets #realestate
 - [Miami’s Little Havana confronts housing density’s double edge](https://www.housingwire.com/articles/little-havana-density-housing/) — HousingWire · 13:26 PT · #business #realestate
 - [Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower](https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html) — PR Newswire M&A · 13:15 PT · #business #markets #oil #realestate $BKD

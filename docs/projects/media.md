@@ -1,16 +1,17 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-13T13:58:27-07:00
-count: 126
+updated: 2026-10-13T14:08:36-07:00
+count: 127
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-126 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+127 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-13
 
+- [Have Ukrainian strikes on Yandex data centres hit Russian online disinformation? - Truth or Fake - France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN2tlNDhKNFNIQXYzUTk0M3lPa3VQM3B0MWJ6TnFVMEl1ekJRWEdLX0ZvTHVTR0tYTzlXdjRuS3VlR1JHQ1dKak9ZZTFfRFhEZ0hBNl9hQ3BoSDg0SVE3U0xEVzZqMjNBREV3Q091VzRvcmlJcTBMTG81UUtEMDRCM1ZLWUtub182emtkanVocWtxYzNBWkhUVWluQzRZb0UtOFNOUTZaeGFCaHk3eHZiWUxBckJkeU9pWWM5aUdUUExmSHBJUGdicG9UZE9aRkt3NlBvTmFB?oc=5) — Google News: propaganda OR disinformation media · 13:59 PT · #world #foreign #media
 - [When Slate went back to its 1996 homepage, it learned some web design lessons for 2026](https://www.niemanlab.org/2026/10/when-slate-went-back-to-its-1996-homepage-it-learned-some-web-design-lessons-for-2026/) — Nieman Lab · 12:29 PT · #tech #media
 - [Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut](https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing) — Guardian World · 12:22 PT · #world #ai #media
 - [From bad to worse: 2026 is shaping up to be “a Super El Niño year for local news”](https://www.niemanlab.org/2026/10/from-bad-to-worse-2026-is-shaping-up-to-be-a-super-el-nino-year-for-local-news/) — Nieman Lab · 12:19 PT · #tech #media

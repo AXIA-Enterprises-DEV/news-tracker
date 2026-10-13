@@ -1,16 +1,19 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T13:58:27-07:00
-count: 211
+updated: 2026-10-13T14:08:36-07:00
+count: 214
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-211 most recent items (14-day window).
+214 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Surgery confirms pope has lung cancer; lower lobe of his right lung removed](https://www.reviewjournal.com/life/religion/surgery-confirms-pope-has-lung-cancer-lower-lobe-of-his-right-lung-removed-3899609/) — Las Vegas Review-Journal · 13:51 PT · #us #nevada
+- [Nevada Preps predictions: Week 10 high school football picks](https://www.reviewjournal.com/nevada-preps/nevada-preps-predictions-week-10-high-school-football-picks-3899604/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
+- [Western Kentucky-Sam Houston State prediction: One clear winner in pick ‘em game](https://www.reviewjournal.com/sports/betting/western-kentucky-sam-houston-state-prediction-one-clear-winner-in-pick-em-game-3899600/) — Las Vegas Review-Journal · 13:45 PT · #us #nevada
 - [Chicago police say DNA links former detective with Las Vegas ties to killing of 8-year-old girl](https://lasvegassun.com/news/2026/oct/13/chicago-police-say-dna-links-former-detective-with/) — Las Vegas Sun · 13:39 PT · #us #nevada
 - [LVCVA happy with results of this year’s five-day sale in September](https://www.reviewjournal.com/business/tourism/lvcva-happy-with-results-of-this-years-five-day-sale-in-september-3899593/) — Las Vegas Review-Journal · 12:59 PT · #us #nevada
 - [Vatican says pope’s lung nodule surgery was successfully completed](https://lasvegassun.com/news/2026/oct/13/vatican-says-popes-lung-nodule-surgery-was-success/) — Las Vegas Sun · 12:31 PT · #us #nevada

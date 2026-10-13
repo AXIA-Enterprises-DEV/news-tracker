@@ -1,16 +1,18 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-13T13:58:27-07:00
-count: 134
+updated: 2026-10-13T14:08:36-07:00
+count: 137
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-134 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+137 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-13
 
+- [Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally](https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383) — All News · 14:04 PT · #business #fed
+- [Lawyer for Fed Governor Cook Denounces Trump’s New Investigation](https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html) — NYT Business · 14:03 PT · #business #fed
 - [Small business optimism falls, hit by inflation, low labor quality: NFIB - CFO Dive](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEtKc2ozcDBWWXNCY1V0TkdITFNyX0dGTDh1Wk1VRHBHa3ZWSTdURFdxVXJoc0w3cmlWLU5vMVVQWHQ0aW94bXpHR2k0U3ozQk14YlpNNDJkOHFJeWJ2Ym9QbHRoZjRRNUNhWGV1dVgzY3RCZ3Y0ZkhUWl9mSmZ3SmhrN1BsdkV4OWF4WldnbW8zTTVfbk5aemozVklMTEZOdi1KT0FIR1RXYkFpS2FDN3ZHODZPVjFFZTNXbWJR?oc=5) — Google News: small business owners · 13:56 PT · #business #fed #smallbiz
 - [Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds](https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html) — CNBC Top News · 13:42 PT · #markets #fed
 - [Fed’s Collins signals further rate hikes likely as inflation risks persist](https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534) — Investing.com Stock Market · 13:40 PT · #markets #fed
@@ -94,6 +96,7 @@ tags: ["project", "fed"]
 - [Jeff Sica on the worsening housing shortage and Federal Reserve rate decisions - Fox Business](https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aXNkWldXUGg1LWN6dzRVRFJraWp1U3h0ZzBITFhYQlhtbDc4aVNmNzFDQWhneFpySkJTU2xDeWFteHpEUjRhNVdsalNURkQ0X3dNelc2STItU0E?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 07:39 PT · #markets #fed
 - [Are Fed officials changing their tone ahead of October’s FOMC meeting? Here’s what they’re saying - Chase Bank](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmxxWEp5RGVuTElTd1hhSUZIeEk5NmVmeDl0cG4yZjhjdjRUaHVhSDdxMWxva0tia3VEOWFwY2RrdmFFT3dkUERzWVZEUkVIOWhmbjdzTHRrV1NkLTUwbXYwcEVmWnNNaXFPQXl6NVdhMnBSUEg5elQ4Mjd1UXl5NTdleVFNT0pHS3QwVGR6YTNCdzNNZFVnTEdfUFJjdnY2QzBtODhmVVBrQWtGN2xWRGgxZGxZeGh4WnBUelZKN3I5R0R5N3d1aUwwclRGYlhqd0hxYzRjdXRCcUdPb1Vr?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 07:34 PT · #markets #fed
 - [Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises](https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models) — Guardian Business · 07:20 PT · #business #fed
+- [The Fed's rate cycle will not end in December - FXStreet](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2hwRl93VVVna0ppT1NaSERFV2xud09EY05JX0E2bV9qTEtUYnB0dDR6QmdNX2tOYVNYbEhsYzdZZ0hKYkJPSzdVQVJNVWZiS0lmR2hoRm5lOEotamstbFpadFRxaUtnQUwtWTB1UXZCNmd6ZzdQakhDWThHM2E4MUNpOUtnYTRtaGsxa3pVYjVITjFMV3c?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 06:02 PT · #markets #fed
 - [What To Expect From Wednesday’s Report On Inflation - Investopedia](https://news.google.com/rss/articles/CBMid0FVX3lxTE9hMjNKN01ycFZqejN2Wmt1YTdtS2xYbXBTeEVPR2ZkLXdUZ3c0TGdPTU1Kb1JHQmNOZUNWcEZTUm0xTUR6dWpNS0F6cEt0QUpKVTB0MHhidlA2Rmp0VWZVaTk5Xzh2TGQzRmQxdFJnLTBJVXRmSFRF?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 05:40 PT · #markets #fed
 - [MBA expects two more Federal Reserve hikes, in December and Q1 2027 - Mortgage Professional America](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWxBZTRkVUpzMVhoYUJ5aWRvZjVYQUx5cTVOd2xMbGNyNkZzNE1OYk83R2diQ1FEOWZZR2k1RmxWSjVzaV9zZmI0MFh6VmF4MkZ1M2tFczdpR2Z2Z1cwU1JjY0FveWM4ZTdmRmlER1VmS2l4SzVwUThoSEZDa1pYT1JGYkUtbE1EdHJhVEowNUdZUkVzWUFwLVlaN0czMXZnd0lJN1pQdTBCMWIwU0p1OTUxSXFtbjJkcFc2YnlzNkJ6ZjI5TXpYVjV2c2c?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 05:06 PT · #markets #fed #realestate
 - [Six reasons Democrats may fall short of a midterm landslide in November](https://www.investing.com/news/economic-indicators/six-reasons-democrats-may-fall-short-of-a-midterm-landslide-in-november-4943740) — Investing.com Economic Indicators · 04:54 PT · #markets #fed
