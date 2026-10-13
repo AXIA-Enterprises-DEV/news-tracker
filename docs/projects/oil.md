@@ -1,13 +1,13 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T14:49:14-07:00
-count: 318
+updated: 2026-10-13T14:59:29-07:00
+count: 319
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-318 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+319 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
@@ -124,6 +124,7 @@ tags: ["project", "oil"]
 - [Russia’s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz - EnergyNow.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 06:10 PT · #markets #foreign #oil
 - [How a Houthi Blockade in the Red Sea Tightens Iran’s Grip on Global Energy Supplies - EnergyNow.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJndXMtbHRQb1Q1YnhKMk1vdGtSUG5GWGdDZHRMOUFwbVVDM3V0OHVCTzVhemt2clNmZFFTUjRKa05kdFNLYUNrTU9fQ1dHQnpCLWJ5YzFqazJESlhBOGtCU1F0MlVaVHBzbG5Bcmx3b1ZNS0E3X2pkNTF5TXVIUC1KMVJqNUNHZThmNF83T05jUHN5QzFlMmU1SzBpMkJQVWdUSFJlbGNXUVgxdGJ3cFN1dw?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 06:05 PT · #markets #foreign #oil
 - [OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence - EnergyNow.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHl3S3dvMDV0YjZLZ1dXTDZQbTlHSktXYUtMRk8tVzUzQkF1eEt1RTBLNmZzbnd3YVZieTVVczZxUWw3dzgwdFVNZFlYY2NVUktIMS1peUI3QzRhOUd6Z20wWTVtQ25SU2h6R2pLRnowY1B1V2dmTTE1ZTFzeC1CcUpYQlo3X0YxeDNKSnlrREhMeC1rWjBoM2xR?oc=5) — Google News: OPEC crude oil · 06:05 PT · #markets #foreign #oil
+- [OPEC crude production jumps 920,000 bpd in September - Azərtac](https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1l5VHdQQ0ZNZThodExEN1UtbFlwc28td0swQ25RQTI3c1ZLOHMzbHJMQzhzRXdiQ1duM1hCdTJ1eEkxNDlZdTk4UFk1Y2N1QVYteEpQWEg3YW5CZXpvRnRKUElVeV8zZGxmcFlwZ3lPOEp6QjM5aGJfQnVmdUtqd3d5ZmE4S25lMjNqOEppOXc?oc=5) — Google News: OPEC crude oil · 06:04 PT · #markets #oil
 - [OPEC: Oil exports via BTC pipeline rise 8% in August - Report.az](https://news.google.com/rss/articles/CBMihAFBVV95cUxOajNBQk8wVnBlVDlSQzVHb0JmRWNlZVE0a1hJVFU5N1ZrLVhXakRuNlk1aGYwa0NFcHFkbmg5NTRiRHFFTldCYjZRV0U2Nkh6YTQ5OTlJUENUVmVvamhQeFlKWDVqNUQ2MzQwbjZ6bXBXWVFKX0xrQ294bXFIcl9uWjNBNEU?oc=5) — Google News: OPEC crude oil · 06:02 PT · #markets #oil
 - [France Seizes Another ‘Shadow Fleet’ Tanker; Russia Decries ‘Piracy’](https://gcaptain.com/france-seizes-another-shadow-fleet-tanker-russia-decries-piracy/) — gCaptain (shipping) · 05:56 PT · #world #foreign #oil
 - [OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount -- Commodities Roundup - www.marketscreener.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaVZqM1kxMzhEZDd5TFRURktkRDE1N19HdWR1bkd2NWlGbzc2eTJ1NVp4d0EwS2UydE1jcnJIV2JFODduN1RaVXRnXzVIRFJxckx2RFV5eFcxb0k2a01qQncyVWJPcV9hWm4zaUl4bnQ5Zk9Cd0dQRVRQS3B1bFdUckYxVUEzbEpKT0puaFdmRm41Uml5YUMyR2JBaDZ3cTZIeFBmbkRZZ3l5V3JxSG1FVVVPb1Z0eDZsdUdFWE5sYjFCUlhDbVk5ZXFTTUcwd0k5UE9NZg?oc=5) — Google News: OPEC crude oil · 05:52 PT · #markets #oil

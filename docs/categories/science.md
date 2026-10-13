@@ -1,16 +1,17 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T14:49:14-07:00
-count: 394
+updated: 2026-10-13T14:59:29-07:00
+count: 395
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-394 most recent items (14-day window).
+395 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Thwaites Glacier could contribute twice as much sea-level rise as previously projected](https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html) — Phys.org - latest science and technology news stories · 14:50 PT · #science
 - [Could meditation reveal an SU(3) symmetry shared by the observer and the universe?](https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
 - [Drier Texas rivers support simpler food webs and higher animal productivity, study finds](https://phys.org/news/2026-10-drier-texas-rivers-simpler-food.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
 - ['Carpet' growth method yields long-sought 2D quantum material](https://phys.org/news/2026-10-carpet-growth-method-yields-sought.html) — Phys.org - latest science and technology news stories · 14:30 PT · #science

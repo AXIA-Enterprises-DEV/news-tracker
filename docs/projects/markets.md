@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-13T14:49:14-07:00
+updated: 2026-10-13T14:59:29-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,16 @@ tags: ["project", "markets"]
 
 ## 2026-10-13
 
+- [3 - WISeSat.Space Holdings Corp. (0002101411) (Issuer)](https://www.sec.gov/Archives/edgar/data/2101411/000121390026109143/0001213900-26-109143-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
+- [3 - ROUY-POIRIER Gwenael Jerome (0002019670) (Reporting)](https://www.sec.gov/Archives/edgar/data/2019670/000121390026109142/0001213900-26-109142-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
+- [3 - Fergusson David Alexander (0002114937) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114937/000121390026109141/0001213900-26-109141-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
+- [3 - Dolan Cristina (0001911593) (Reporting)](https://www.sec.gov/Archives/edgar/data/1911593/000121390026109140/0001213900-26-109140-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
+- [3 - Moreira Carlos (0001801038) (Reporting)](https://www.sec.gov/Archives/edgar/data/1801038/000121390026109139/0001213900-26-109139-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
+- [Nathan's Famous Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Nathan's Famous, Inc. - NATH](https://www.prnewswire.com/news-releases/nathans-famous-investor-alert-kahn-swick--foti-llc-investigates-adequacy-of-price-and-process-in-proposed-sale-of-nathans-famous-inc---nath-302907605.html) — PR Newswire M&A · 14:57 PT · #business #markets
+- [Liquidia stock surges 40% on $380.7M litigation settlement with UTHR](https://www.investing.com/news/stock-market-news/liquidia-stock-surges-40-on-3807m-litigation-settlement-with-uthr-4947624) — Investing.com Stock Market · 14:56 PT · #markets
+- [4 - SPORCK ALISTAIR N (0001939261) (Reporting)](https://www.sec.gov/Archives/edgar/data/1939261/000104047026000305/0001040470-26-000305-index.htm) — SEC EDGAR All Filings · 14:56 PT · #filings #markets
+- [SCHEDULE 13D/A - Doma Perpetual Capital Management LLC (0001962221) (Filed by)](https://www.sec.gov/Archives/edgar/data/1962221/000110465926115589/0001104659-26-115589-index.htm) — SEC EDGAR All Filings · 14:54 PT · #filings #markets
+- [4 - King Mark James (0001783820) (Reporting)](https://www.sec.gov/Archives/edgar/data/1783820/000178382026000016/0001783820-26-000016-index.htm) — SEC EDGAR All Filings · 14:53 PT · #filings #markets
 - [4 - Leaver Andrew (0002035890) (Reporting)](https://www.sec.gov/Archives/edgar/data/2035890/000185969026000192/0001859690-26-000192-index.htm) — SEC EDGAR All Filings · 14:48 PT · #filings #markets
 - [4 - Hogan Catherine Kiernan (0002080406) (Reporting)](https://www.sec.gov/Archives/edgar/data/2080406/000208040626000018/0002080406-26-000018-index.htm) — SEC EDGAR All Filings · 14:48 PT · #filings #markets
 - [4 - Opaleye Management Inc. (0001595855) (Reporting)](https://www.sec.gov/Archives/edgar/data/1595855/000149315226046899/0001493152-26-046899-index.htm) — SEC EDGAR All Filings · 14:45 PT · #filings #markets
@@ -401,13 +411,3 @@ tags: ["project", "markets"]
 - [4 - Dinh Hong Thi (0002114372) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114372/000162828026065727/0001628280-26-065727-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
 - [4 - McConnell John H II (0001959584) (Reporting)](https://www.sec.gov/Archives/edgar/data/1959584/000119312526420499/0001193125-26-420499-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
 - [8-K - LCI INDUSTRIES (0000763744) (Filer)](https://www.sec.gov/Archives/edgar/data/763744/000076374426000089/0000763744-26-000089-index.htm) — SEC EDGAR 8-K · 13:31 PT · #filings #markets
-- [DEF 14A - UPEXI, INC. (0001775194) (Filer)](https://www.sec.gov/Archives/edgar/data/1775194/000147793226006188/0001477932-26-006188-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
-- [424B2 - CITIGROUP INC (0000831001) (Filer)](https://www.sec.gov/Archives/edgar/data/831001/000191870426031328/0001918704-26-031328-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
-- [4 - UNITED THERAPEUTICS Corp (0001082554) (Issuer)](https://www.sec.gov/Archives/edgar/data/1082554/000110657826000162/0001106578-26-000162-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
-- [4 - Larivey Clifford (0002048670) (Reporting)](https://www.sec.gov/Archives/edgar/data/2048670/000119312526420496/0001193125-26-420496-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
-- [U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.35%](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-035-4947511) — Investing.com Stock Market · 13:31 PT · #markets
-- [ATI Announces Webcast for Third Quarter 2026 Results](https://www.prnewswire.com/news-releases/ati-announces-webcast-for-third-quarter-2026-results-302907622.html) — PR Newswire M&A · 13:31 PT · #business #markets $ATI
-- [8-K - LOGITECH INTERNATIONAL S.A. (0001032975) (Filer)](https://www.sec.gov/Archives/edgar/data/1032975/000103297526000056/0001032975-26-000056-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #markets
-- [424B5 - Strive, Inc. (0001920406) (Filer)](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015525/0000950103-26-015525-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
-- [13F-HR - Foster Group, Inc. (0001841544) (Filer)](https://www.sec.gov/Archives/edgar/data/1841544/000184154426000007/0001841544-26-000007-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
-- [S-3 - ALPHA MODUS HOLDINGS, INC. (0001862463) (Filer)](https://www.sec.gov/Archives/edgar/data/1862463/000149315226046837/0001493152-26-046837-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets

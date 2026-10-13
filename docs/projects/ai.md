@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T14:49:14-07:00
+updated: 2026-10-13T14:59:29-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,8 +11,10 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Apple bets on new screen gadget, Siri AI in home device push](https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992) — Investing.com Stock Market · 14:54 PT · #markets #ai
 - [Apple HomeView accessories will expand what is possible with the home hub](https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss) — AppleInsider · 14:38 PT · #tech #ai
 - [OpenAI says it found a 'sophisticated recording device' hidden in its offices](https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/) — Engadget - Technology News & Expert Reviews · 14:34 PT · #tech #ai
+- [NYT, Economist among publishers joining coalition to curb unpaid AI use](https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254) — Investing.com Stock Market · 14:31 PT · #markets #ai
 - [F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office](https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html) — NYT > Technology · 14:31 PT · #tech #ai
 - [PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter](https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/) — 9to5Mac · 14:29 PT · #tech #ai
 - [8-K - DataMeds AI, Inc. (0002030763) (Filer)](https://www.sec.gov/Archives/edgar/data/2030763/000149315226046887/0001493152-26-046887-index.htm) — SEC EDGAR 8-K · 14:27 PT · #filings #ai #markets
@@ -412,5 +414,3 @@ tags: ["project", "ai"]
 - [IMF warns global economy ‘could soon test the limits of resilience’](https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026) — Guardian World · 19:00 PT · #world #ai #oil
 - [Meta claims new Muse Wonder AI models rival OpenAI, Anthropic](https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 18:54 PT · #markets #ai #smallbiz
 - [Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices - Apple Machine Learning Research](https://news.google.com/rss/articles/CBMickFVX3lxTE1CM1hFSzdlUk5zMms5bkZNczdibWpxZTd5RUU2Nk9mOE1qN1daWXNyc0QwRTIwMkk5VjVFWnc2Zkt1SV9BQkN4NFBfTERrWkl2M1VVWGdEU1g1LXR3SEx0VkphdTVvTDdMVk83bzhySFRNQQ?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 18:49 PT · #tech #ai
-- [Cyber Leaders Exchange 2026: Revolutional’s Pete Harris on holding AI accountable - Federal News Network](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ1pyRlJadWpCWFJTRjdQb2hYVEJuQmMzYUFqc3ZvdDZLczZmVC1xVGRYamtXRVFuNlRwSlRURHM0OV84X2plWmFrVDBmblpJUlJ6ZkYwZk11VGNPcUNRLW1BNW5UdnZGdGVhb3pMLXZSQkZkT1NaZ0VHaXBsTFhOazZvZ3ZZdENOSGNLbzc3VTZMU1FxTnh0eFB5X1I5cGt6UHVOYjRkaEs4aTlBT0tUNkRtTEFyYk5JeGc3b1NlRk4wNU12eEdhdHZCRm91UQ?oc=5) — Google News: federal workforce OR federal employees OPM · 18:47 PT · #politics #ai #civic
-- [World stocks slip as AI spending worries hit chipmakers - Reuters](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 18:41 PT · #markets #ai #fed

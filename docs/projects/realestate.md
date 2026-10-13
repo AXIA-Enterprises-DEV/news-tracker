@@ -1,16 +1,17 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-13T14:49:14-07:00
-count: 121
+updated: 2026-10-13T14:59:29-07:00
+count: 123
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-121 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+123 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-13
 
+- [Delegation from UAE’s Ras Al Khaimah visit Las Vegas, other US hubs to explore tourism opportunities ahead of Wynn IR opening - IAG – Inside Asian Gaming](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM193bVBQeGxQZF9zdHUzTXpSMXBpSDJaS3BVeU1hRUVXcU5RVTFDek9GRXMyTTFWcnBvREpCN3B6RkM1QUtNcFlWcUE5dkRyU0xYVW44bFdncmRCTEpxbjZHZlkycGpIRzJ5OWc5NnpqV0F0Q19KNlpSXzQtb1pYamgzX1FDWVpOTXI1ZkI1N0pCV2dPa3o2Ujc4Y1prWFBucU5fc3FwSGZ1MzRjUEhvd3dzOXhhWDk0VnQxc0NjQVgzOTFTMUo5Zm9MY25QZXRabkZZQ1IzTlQ0WmxPR2FtTjN2SkdSZnVU?oc=5) — Google News: Las Vegas real estate · 14:42 PT · #business #nevada #realestate
 - [DFAN14A - Erez REIT Opportunities LP (0002014584) (Filed by)](https://www.sec.gov/Archives/edgar/data/2014584/000090266426004146/0000902664-26-004146-index.htm) — SEC EDGAR All Filings · 14:26 PT · #filings #markets #realestate
 - [D/A - TOWNSEND BALANCED REAL ESTATE FUND L P (0001351287) (Filer)](https://www.sec.gov/Archives/edgar/data/1351287/000135128726000004/0001351287-26-000004-index.htm) — SEC EDGAR All Filings · 14:03 PT · #filings #markets #realestate
 - [SEC STAFF ACTION - BSR Real Estate Investment Trust (0001777917) (Filer)](https://www.sec.gov/Archives/edgar/data/1777917/999999999726001619/9999999997-26-001619-index.htm) — SEC EDGAR All Filings · 14:00 PT · #filings #markets #realestate
@@ -120,6 +121,7 @@ tags: ["project", "realestate"]
 - [MBA expects two more Federal Reserve hikes, in December and Q1 2027 - Mortgage Professional America](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWxBZTRkVUpzMVhoYUJ5aWRvZjVYQUx5cTVOd2xMbGNyNkZzNE1OYk83R2diQ1FEOWZZR2k1RmxWSjVzaV9zZmI0MFh6VmF4MkZ1M2tFczdpR2Z2Z1cwU1JjY0FveWM4ZTdmRmlER1VmS2l4SzVwUThoSEZDa1pYT1JGYkUtbE1EdHJhVEowNUdZUkVzWUFwLVlaN0czMXZnd0lJN1pQdTBCMWIwU0p1OTUxSXFtbjJkcFc2YnlzNkJ6ZjI5TXpYVjV2c2c?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 05:06 PT · #markets #fed #realestate
 - [At $5.5 Million, this Los Angeles Home is the Priciest Listing on the Venice Canals - Mansion Global](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmFyVUZpLUNpaWY4SDlqR0c4aS1ET1Ytb1RUaUczZ085bEhtZ3dIZVpjMV85MXAxeTFXd0F1Y1NvZzBhTmNjaXJ6MEM5MGlyYVZKbkFEcUEzZ0lra29DMl9jcnVVYlliOElvRWhsNmMwc0o1bUp0REhJNk41YjM1aFF2M1FvcU9VNUIyODdjLXdDdzBqYU9wQXVBZTdrQXdxMnpfTGI4Znc2Tzc3RHE4RmNUaXhVMDVqWk53Q3JhSnd4dFd20gHKAUFVX3lxTFBkbE5OOVdOc2dBeExfeTBKN1VnUmNqV05pdkJQYlZ2eV9Mb3BsZVFzclJmV3NFd2NHMWtiT2I5NGNDdnpqSjdHT1RybnpmRmxYVEJhblFUaDlyUE13XzJxMzBtU3paLVpPd1pVT3JwQ0VodFotbzc0SUZqSjQxVHFscDNaUEhyNjFhQTE5eTJEWGp1Zm05STMxY3Bqb0N4V3Z3WGtIQUtPTDlXel9CUG5JNDduYTlfbzNLOWVWX1h2NDBUMkdCV0dKdEE?oc=5) — Google News: Las Vegas real estate · 03:57 PT · #business #realestate
 - [San Francisco Bay Area’s Quirky ‘Flintstone House’ Sells for $2.8M - Mansion Global](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEpST0tnYndhNXFCTGVpTUFWb0R6cWxSdUt3bHpRN1JiUmFtZ3A0WGpOZjNndkhubC1jM0NmSlNjc3IzbHNYUmllemRqbVNHclQzVV9kZFFmbUVvSUFpVzVrU1VWNXphNlJZY2xEWWlKbmcyc2Zja2FxSU5kUG82UVRQUll1clVkbk9fUTJPZVhCem0yQzJBT19neUZrZEhuUnphODhyRU83UDIz0gGyAUFVX3lxTE9TYmZfR1o5aG0wRHNGU3VjUTZlNHlPLVliRnJLbUlnVk4yUkxlb3pFNzl2dDJ6RW1aQnl2M0ZnS2tXUV9kakVOMWl5LV8xQzI3cjJnMEZpVHV3Wm1HQkcxVVoxcHpsazRnaFZ5V3dZekV4Zk5vVzQtVmQxU2NWd01DYndJX1VhN0UtOGNBY282Y1lDMzkzZzNiZzVsYmg1dnBtcVoxVVZZNzJpOVIzTGZ1TkE?oc=5) — Google News: Las Vegas real estate · 03:57 PT · #business #realestate
+- [They Designed a Megayacht That Feels Like a Beach House - Mansion Global](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVJ2MkV6UmdGN1NHYlNNU1l4b1NvR3ljenlMdmlUV3NUUGtlTTN5WGd3V05CMmhLOWpRM2lweDdLOW9SXzJ0TDlOZ191UWZPaloxbThrdjUzUGItLU5kYm15eHpuM093YXp2dEY0bmNrTHVucHFvWS10UGtkNjE4SjZIWnVweUEwT09KdUo5T0pCcFNOU282Vk1TaDlpczd5UjVueFhB0gGrAUFVX3lxTE1ZQ2o0TlZjOXhaV1RXY1YxTEg5WTNaSkVkdHYzRGdwczhCc1J2LWlQdGhDY1Z2ckVCWFphaWlDZlZrZThWMlRRUWhpZi0zaGhQNEw1bWpkS3VhVU41U3dQb3MyVWNLcmFIdkY1NU5JaHVYdEZTWWV0TnpDUHBmV2tLLXdiR2dHcm12MXI3emlZRDZPS3dReXFSMVlCN0RaTVBiaDFuaFBwWVZBWQ?oc=5) — Google News: Las Vegas real estate · 03:57 PT · #business #realestate
 - [Kelly Clarkson’s late ex-husband bought this luxury Montana estate in 2022 and lived there after the coupl - The Economic Times](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNRGJ5ekFkaDhNNW5WMGlrOEtocEpncU95TE91NTVzVDZlZDBJeHZyVVJCaldkVWo5TkQxREk0Slc0NUVaQUVJbFFBZTl6SmxJcXRDX3JoM01neUl6WFV3SkthQ1FObzhWRkNmZW9iaUk4T1EtM0tCMmw0ZElsUHFzWjhrN0ttZlc2LWNVT3VwekpUaDNFNEk0TGktUEJMOXdhd1UtZEFZcm5EUW9uaHFRQzdUUlF4TTdVRkp3OU9VT2lydEhlc3QtZ3RBOUpTTldTbnp5Z1hFMGk1R09fWXhBa2RpWi1scllfYTdGWXM3RWRNUWdSOEtMLWtsOUpReVR5RXN1bTE4OTZsYkFzRGxJVkZPUERCeWRKUjJkTDVCNVhkbUtCdEx4UHJNY3VoVzRHUndiZGVmaDZTUXhCRjE2QTAydU1YYUs1VE1MdnJpMmEzOEc0SGp2d3dWenpRa0Z4MWh4SXZUdDc0WHd1c3ZyX3dKZHJOQWvSAfwCQVVfeXFMTXRiRGlBUDZyd1EwdjlrTmZUSHZHcF9wbk9wWUhnN1MtWkVsakVnWjYzc3laX185ZUNlY0hLdVFoRlhhZTkxMUhIbEMwaHhuTXdWVjFyNTFFN05VZ25rN19TOUVEVFRZd3FKWTRKeVA5UzgzNE1xNHhraFByZlpNcEd5Q19Nc3o3UV9SM1Z5MzNaaXJfMUQ2cTZqRXZXUnU0ZHhzWlVLLXRJNWFCRmEwVVVtYUFoSU5EZGtUUVJFbkFacThaNmRJbGM1cUJ2YUUwTVBVdE1iRk1POVhFR0I4N1lLOW8yUkZwUFl6RExpQ0RsMnc2VnZrYkZMbHdKN192RFNfVC1lRmNCWmNhUHNZVmtxQVJsRGo0TjFYa0U4OFpsYzNTd3dxTFpSaXNpNUQyQURwaWUxc2dqLUxXOWtjVDRIVFZIcDgwcUZxYlVMMnpVY2RCZFBLcTFNTktZOS1zQ0w5WTB1QllKenRTRF9wM3FTUlo4LThHeHlMazg?oc=5) — Google News: Las Vegas real estate · 01:29 PT · #business #realestate
 
 ## 2026-10-11

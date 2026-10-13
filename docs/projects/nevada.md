@@ -1,16 +1,17 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-13T14:49:14-07:00
-count: 259
+updated: 2026-10-13T14:59:29-07:00
+count: 260
 tags: ["project", "nevada"]
 ---
 
 # Project: Nevada / Las Vegas
 
-259 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
+260 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
 
 ## 2026-10-13
 
+- [Delegation from UAE’s Ras Al Khaimah visit Las Vegas, other US hubs to explore tourism opportunities ahead of Wynn IR opening - IAG – Inside Asian Gaming](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM193bVBQeGxQZF9zdHUzTXpSMXBpSDJaS3BVeU1hRUVXcU5RVTFDek9GRXMyTTFWcnBvREpCN3B6RkM1QUtNcFlWcUE5dkRyU0xYVW44bFdncmRCTEpxbjZHZlkycGpIRzJ5OWc5NnpqV0F0Q19KNlpSXzQtb1pYamgzX1FDWVpOTXI1ZkI1N0pCV2dPa3o2Ujc4Y1prWFBucU5fc3FwSGZ1MzRjUEhvd3dzOXhhWDk0VnQxc0NjQVgzOTFTMUo5Zm9MY25QZXRabkZZQ1IzTlQ0WmxPR2FtTjN2SkdSZnVU?oc=5) — Google News: Las Vegas real estate · 14:42 PT · #business #nevada #realestate
 - [Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen](https://lasvegassun.com/news/2026/oct/13/greta-gerwig-debuts-first-look-at-an-epic-full-hea/) — Las Vegas Sun · 14:29 PT · #us #nevada
 - [Supreme Court refuses to toss out fees for lawyers who sought hand count in Arizona election](https://lasvegassun.com/news/2026/oct/13/supreme-court-refuses-to-toss-out-fees-for-lawyers/) — Las Vegas Sun · 14:14 PT · #us #civic #nevada
 - [Nevada's election challenge: Secretary of state candidates | Hickey - Reno Gazette Journal](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0V6M2E5SjdSQzlhMDJBY3k3WG01YkhLMnlZOGZCOFdqVjN1S2E3YlN1X0prdWU0c0Q5a1V2WHRKVk0zOFZrWkQySk1laTdUenprS3M4dzNUMVZjR1hqd0gteFd3OEt1UW91M0djd1FmbmtNVS0xeml5Ti1zWUNvS09RWVQzRV8xcWYyUzlsZVRoOTJIc0N6el9BX0FvY1hHMy1Sb3g4ZXFka211X3R5QjN6V2xxa0ZTYXpkakNZejRlMDQyWnh0aVdJNUE?oc=5) — Google News: Nevada ballot question · 14:00 PT · #politics #civic #foreign #nevada

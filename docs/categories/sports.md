@@ -1,16 +1,17 @@
 ---
 title: "Category: sports"
-updated: 2026-10-13T14:49:14-07:00
-count: 169
+updated: 2026-10-13T14:59:29-07:00
+count: 170
 tags: ["category", "sports"]
 ---
 
 # Category: sports
 
-169 most recent items (14-day window).
+170 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [The future of PGA Tour Champions' Charles Schwab Cup Championship won't be at Phoenix Country Club - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxObW9MZTRBZU9oVUNsUFBpaV9fLVlVYzJReHdXWUh6enBEVXE3XzhuYVZ4dnBRZ2FILWFybURNQmNVTm1iZkVkcVpmdU5VVFYtQW1EaGM2cjJHci1YSU9kMmdxazZMTjVKNUZ2Y3UtQlVQUlhNN051UGM5blhTYXJFUEdObnlVdkMxYVM5QllLZXFwUi1qeURXdkluelhmdXlkckZfcEZZSQ?oc=5) — Google News: PGA Tour OR LIV Golf · 14:51 PT · #sports #golf
 - [LIV’s last stand: Golf’s revolution unravels as deadline loom - Golf Australia Magazine](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0w4OXIwMGtfU3ZaRFluSjd4SUVsd0ttMThZU0RCYXVHdnhSbTNpZEpMdV9EUng2NFNPN0Zaby1FeTVPSVFoUHlmUVZOMHdGWlhHQmxkT2wxZkphb2x1bHRUUFhNWHQyNnVwVnczMVAyajhGV1FJUVpTRzRzRnpVZ1UtUWJEWVB3T0Q5UU1JcjVoZDBqVlFvczQ4X3RCRS0yVmdDQ2Nn?oc=5) — Google News: PGA Tour OR LIV Golf · 14:13 PT · #sports #golf
 - [Rory McIlroy would welcome LIV Golf members back to the PGA Tour, though still with conditions - Yahoo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSnZCSUpZOXE0YnJBVFVnQ0RzU01OU3cyem1aUTdMbUF4eU9FSVNVM19RZklBR2hvTzdHX01YMGtyakE3Q2hfbkZjZVN0ZVNJUE9zeHBxLVpIbklFUTl6clN2RXdZZlZ1TTJfRVF5UWwtakV5ODA4R3JPajU2LUI0Vjh2UXYtb2stUjRMSDVIUWp4bW1yWDNSQjZBeVZ1cDg4LU1pSjZSVG1FbTdYbUktc3p1NHNvdjdxQjk1YjlORXhlbXh1c0hudGZ1M3UySkpUbjNzcXBHN3I?oc=5) — Google News: PGA Tour OR LIV Golf · 13:51 PT · #sports #golf
 - [Rory McIlroy would welcome LIV Golf members back to the PGA Tour, though still with conditions - Yahoo Sports](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGI1SGVydHVmT0l5cGtPbXRZZnhHZ2V6cXpzbVl2MVJhcjdRaU9Fdnpxa1ZwNXpxQ2lMQkhrR2xTOHlQQ0FIdnFjRUFiSG1xRUROVDBVYXMwX3NfMkpGSS1ZSzgzbGFPUFNIV3RxeE54MEtjdHpvZmhHelhJOWIzWEgwSW45V0tqbklMTUN3dUNNLXM4bHpnY0dYcm9JQ2h1ZmNPTlZwLXJuVXZFay13TGlVWFZQR0lvLTFjRjZVM3dCWG1HSDdmSmFYQ25GNHZDUmx4azVkamhaX3B0blhR?oc=5) — Google News: PGA Tour OR LIV Golf · 13:51 PT · #sports #golf

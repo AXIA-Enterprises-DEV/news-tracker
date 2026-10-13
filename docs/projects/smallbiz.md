@@ -1,20 +1,22 @@
 ---
 title: "Project: Entrepreneurship / Small Business"
-updated: 2026-10-13T14:49:14-07:00
-count: 290
+updated: 2026-10-13T14:59:29-07:00
+count: 292
 tags: ["project", "smallbiz"]
 ---
 
 # Project: Entrepreneurship / Small Business
 
-290 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
+292 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
 
 ## 2026-10-13
 
+- [Everett eyes small business tax relief in concert with new downtown stadium plan - Everett Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxQak1XNWVUVmhSUDFXVlV2YVlBaEJfUWZmU2I5S19kZ3pSN0dHNmdDdkEtYzFSZ1d0eVFuNGJ0NXN6VUpCbjJEN29pcFFmOEdRaG5hRnkwemVpYXRIMXFkYTJFS0JMRmJHTW5RV3plNzBuQWZhMnJ5RlktVEFSdzZrbDNmUlVMUzBha0d4anpVaDV6ZFVCY0syZUZ2MEttNmtIVHZ2UmhLQVpjMFhYcmh6NE93RV9WdDlPcVN6cA?oc=5) — Google News: small business owners · 14:16 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - WKRC](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWkzMzhnR3pOWTF1U0ZTV2Zrem9waGRGWTZsVGpUMEtOUWF4aHlLV1Jla2czNjk5VzJMd2JtbTFfVlNNLXR6Ynh6dzlDR242VFUxR3A3Sk9HeUlDdGdYRE1TWHgwYjhrZWljN21DTXBCdlZvSlhxeEppX2tWbU50c3UwanFtTHA5SEU3dTBJcTRzeVBGdkMwSVJ1WnVaT0tINnBHRXBQVW9xYURteExnOU5JVmRrd0dfbmtGRW9BWjV6a3RReWc?oc=5) — Google News: small business owners · 14:15 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - KDNL](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnlEX0lCelJOb0FWNmYxTHQzd0x5SWxsZGI4SDNEb3BidGExYS1taVJZNVN3UWJhaWZIdWNfd1FvMVhFbkVhNERBaktHVkYzdEZLZGxyQkxNM2pSbkh6NlRrSHhOQ1lhNzVjMnd4eEhVWWliMjFvYWZfajJiREZRdW1rZlQwMDA2RHpwSHpKX19pMVlUUnZZUzNETU1nY2U3dFZRNlVxTC1aNzlFbFNJZjFObm9OQ0NoRGNHTWQ1WDRVU1NYemZQeWFR?oc=5) — Google News: small business owners · 14:03 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - KOKI FOX 23](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlN2S1hQV1owUEZOU0I2Z1psMDZ6RzE0cmFGY0NlZU10TkpmcEMtSW44TjgwTnlqc1pZTmdsVEppYTMyYm96R1NtRkx2MjY3di1aQWJFeEZyZHd4aHFDdGtzaXFkcVdUMjdQQV9DTVc2TkFzTld1OEpWUkktVk5HWkU3UEFNT0pnQ3ZQQUU5NUltcWd5bUJ5UVZvdkgwUEQzQk9pZUpjZzBUT2lFVHRfQVVPcXVwTEJISzBFOHhsZkJwZ1k?oc=5) — Google News: small business owners · 13:56 PT · #business #smallbiz
 - [Small business optimism falls, hit by inflation, low labor quality: NFIB - CFO Dive](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEtKc2ozcDBWWXNCY1V0TkdITFNyX0dGTDh1Wk1VRHBHa3ZWSTdURFdxVXJoc0w3cmlWLU5vMVVQWHQ0aW94bXpHR2k0U3ozQk14YlpNNDJkOHFJeWJ2Ym9QbHRoZjRRNUNhWGV1dVgzY3RCZ3Y0ZkhUWl9mSmZ3SmhrN1BsdkV4OWF4WldnbW8zTTVfbk5aemozVklMTEZOdi1KT0FIR1RXYkFpS2FDN3ZHODZPVjFFZTNXbWJR?oc=5) — Google News: small business owners · 13:56 PT · #business #fed #smallbiz
+- [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - KSNV](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUs3TjMwMXRpdzR6TXZjT0dfVFo2NzNfR09qM0ZzZks4M1pDeElGMU5aNEpJZFhkSktxdEFjd2J5RDFZd3hYemhIUWdxNERFSkVRN0VtUWxnVkMtM1FjTWR3dzlXeExFNHJuUlFSdXNzQ0RjWXBiWGtIYXhMMDNsTWpTWTdxUHZRZlVMU0lqbVJ5M2liODFLd0trUWl5RnNpY2tzUVB2VG8tM2xvNFM2N2tGZW1oTmVJakdDRDdIdzhkZjZaaHc?oc=5) — Google News: small business owners · 13:55 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - WKEF](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUEFzUzF0SGZjTkViMXFCX1dtN0t3RFZndVNneVkzNDVaVzlVMzBtcmVTM2lsT2FVb1BuMDVVQWJlUGVWN3FBaVlLbHlleHRRWGhabVhsQzRmcUlFQ1JrQTZ4NEtOV3NmdlkwcmVxYzV6YThsVUNXb2lJdmh0S0dxMWwxaWJXbmZhLWZhazJNMU9WOWlsYkpuT0gyYUNCQ0ttNFZqU29jRTBKWGNLZEZ0QVJZeDlDWEtPdk43NG44VGdmZTZnc0ZYRUpzZGY?oc=5) — Google News: small business owners · 13:55 PT · #business #smallbiz
 - [Trump planning to attend Buccaneers-Steelers game Sunday in Florida - WKEF](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNd1h3QnRPekZ1Zm1ldXhyY3dDR1ZXZllJY0F0dEdLbF9veXhGMnAzeHgySVh1RHc2NklrVFI2WjVJUVZFek9RMVN6LU9nM0IxZ0UwZkpDU2RpUE9jUFBSMjZobTF3b29SRHdxalhaU0NRYk50c3J1RThzSzdTOE9JenJUSDQ1S0xlQm03azRWaHh2N1VMMHAzeV84ODlCRTllMEl4MS1GdlRwSDNwWnRvVTBnQ0ZPazYtczZfdEhGUE5DbDhhcWxXaGloWndpLWRsZ09tVmlxeHQ5LUNLY01tNmk4RDQ5T1Vjd3VSR01xVzdUdVFlS2liZlRCZ0FSUl9JYWY3WmJLQ29vcEd1THFESVFrd0pYVHRoemVXUktEdnZDRHc4clFfOGtZRDZySjFOV2FsdVB5d05kc3RVODZHYmRZb0pYWDhOVGNlc0diaG9vbTNKcV9lcFNfd1NyMDk4THlj?oc=5) — Google News: small business owners · 13:55 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - National News Desk](https://news.google.com/rss/articles/CBMi1wFBVV95cUxONGVMbU1PN0ttY1RuRlF0Mk5vck1pbVRYR2M0MlZHSmhaeUxHazZXRV9UUHBxcXdMSXhJalNxU1ZoNFdJeWhndXMzS1YtMVZVbGxGRnVTUGNsU1hBRzhvTE5KNGlSdXcwbkc1LWhHekdfT3dfMVI1US1hU21PdEZuYk5OR0ZoTFI4X0Etb0VSN3BOLTJfU01HcDJsZTNFRm1penY5ckhNMVVEdDU2NEl5Y3dGVzdhajRHckJpS29QNXJPQ2htNzlHNDl0T2t5MnFjamg3NDJNZw?oc=5) — Google News: small business owners · 13:53 PT · #business #smallbiz

@@ -1,6 +1,6 @@
 ---
 title: "Category: filings"
-updated: 2026-10-13T14:49:14-07:00
+updated: 2026-10-13T14:59:29-07:00
 count: 400
 tags: ["category", "filings"]
 ---
@@ -11,6 +11,14 @@ tags: ["category", "filings"]
 
 ## 2026-10-13
 
+- [3 - WISeSat.Space Holdings Corp. (0002101411) (Issuer)](https://www.sec.gov/Archives/edgar/data/2101411/000121390026109143/0001213900-26-109143-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
+- [3 - ROUY-POIRIER Gwenael Jerome (0002019670) (Reporting)](https://www.sec.gov/Archives/edgar/data/2019670/000121390026109142/0001213900-26-109142-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
+- [3 - Fergusson David Alexander (0002114937) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114937/000121390026109141/0001213900-26-109141-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
+- [3 - Dolan Cristina (0001911593) (Reporting)](https://www.sec.gov/Archives/edgar/data/1911593/000121390026109140/0001213900-26-109140-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
+- [3 - Moreira Carlos (0001801038) (Reporting)](https://www.sec.gov/Archives/edgar/data/1801038/000121390026109139/0001213900-26-109139-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
+- [4 - SPORCK ALISTAIR N (0001939261) (Reporting)](https://www.sec.gov/Archives/edgar/data/1939261/000104047026000305/0001040470-26-000305-index.htm) — SEC EDGAR All Filings · 14:56 PT · #filings #markets
+- [SCHEDULE 13D/A - Doma Perpetual Capital Management LLC (0001962221) (Filed by)](https://www.sec.gov/Archives/edgar/data/1962221/000110465926115589/0001104659-26-115589-index.htm) — SEC EDGAR All Filings · 14:54 PT · #filings #markets
+- [4 - King Mark James (0001783820) (Reporting)](https://www.sec.gov/Archives/edgar/data/1783820/000178382026000016/0001783820-26-000016-index.htm) — SEC EDGAR All Filings · 14:53 PT · #filings #markets
 - [4 - Leaver Andrew (0002035890) (Reporting)](https://www.sec.gov/Archives/edgar/data/2035890/000185969026000192/0001859690-26-000192-index.htm) — SEC EDGAR All Filings · 14:48 PT · #filings #markets
 - [4 - Hogan Catherine Kiernan (0002080406) (Reporting)](https://www.sec.gov/Archives/edgar/data/2080406/000208040626000018/0002080406-26-000018-index.htm) — SEC EDGAR All Filings · 14:48 PT · #filings #markets
 - [4 - Opaleye Management Inc. (0001595855) (Reporting)](https://www.sec.gov/Archives/edgar/data/1595855/000149315226046899/0001493152-26-046899-index.htm) — SEC EDGAR All Filings · 14:45 PT · #filings #markets
@@ -403,11 +411,3 @@ tags: ["category", "filings"]
 - [8-K - STERIS plc (0001757898) (Filer)](https://www.sec.gov/Archives/edgar/data/1757898/000119312526420487/0001193125-26-420487-index.htm) — SEC EDGAR 8-K · 13:29 PT · #filings #item-1.01 #markets
 - [144 - Agrawal Archana (0001785447) (Reporting)](https://www.sec.gov/Archives/edgar/data/1785447/000195004726010204/0001950047-26-010204-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
 - [13F-HR - B. Riley Wealth Advisors, Inc. (0001464811) (Filer)](https://www.sec.gov/Archives/edgar/data/1464811/000146481126000010/0001464811-26-000010-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
-- [8-K - EXPAND ENERGY Corp (0000895126) (Filer)](https://www.sec.gov/Archives/edgar/data/895126/000089512626000057/0000895126-26-000057-index.htm) — SEC EDGAR 8-K · 13:29 PT · #filings #civic #markets
-- [5 - Warren Joshua (0002000217) (Reporting)](https://www.sec.gov/Archives/edgar/data/2000217/000162828026065724/0001628280-26-065724-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
-- [144 - King Ryan A (0002061219) (Reporting)](https://www.sec.gov/Archives/edgar/data/2061219/000195004726010203/0001950047-26-010203-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
-- [SCHEDULE 13D - Pine Tree Sponsor Group, LLC (0002104909) (Filed by)](https://www.sec.gov/Archives/edgar/data/2104909/000109489126000306/0001094891-26-000306-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
-- [144 - Colgrove John (0001651902) (Reporting)](https://www.sec.gov/Archives/edgar/data/1651902/000195004726010202/0001950047-26-010202-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
-- [4 - Rogers Daniel Mark (0002075006) (Reporting)](https://www.sec.gov/Archives/edgar/data/2075006/000147772026000070/0001477720-26-000070-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
-- [4 - Lenamon William Chad (0001971854) (Reporting)](https://www.sec.gov/Archives/edgar/data/1971854/000119312526420485/0001193125-26-420485-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
-- [144 - Zoom Communications, Inc. (0001585521) (Subject)](https://www.sec.gov/Archives/edgar/data/1585521/000195004726010201/0001950047-26-010201-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
