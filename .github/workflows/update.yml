@@ -43,6 +43,7 @@ jobs:
           sleep 540
           last=$(gh run list -R "$REPO" -w update-news -e schedule -L 1 --json createdAt -q '.[0].createdAt' || true)
           if [ -n "$last" ] && [ $(( $(date +%s) - $(date -d "$last" +%s) )) -lt 1200 ]; then echo "cron alive; stopping chain"; exit 0; fi
-          pending=$(gh run list -R "$REPO" -w update-news -s queued -L 5 --json databaseId -q 'length')
-          [ "$pending" -gt 0 ] && { echo "run already queued"; exit 0; }
+          # stop duplicate chains: if any other run started in the last 8 min, let it carry the chain
+          others=$(gh run list -R "$REPO" -w update-news -L 10 --json databaseId,createdAt -q "[.[] | select(.databaseId != ${{ github.run_id }}) | select((.createdAt|fromdateiso8601) > (now - 480))] | length")
+          [ "$others" -gt 0 ] && { echo "newer run exists; stopping this chain"; exit 0; }
           gh workflow run update-news -R "$REPO" --ref main
