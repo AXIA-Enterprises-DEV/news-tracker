@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T14:08:36-07:00
+updated: 2026-10-13T14:18:35-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,8 +11,11 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/) — TechCrunch · 14:15 PT · #tech
+- [Elevation Lab Pulls AirTag Silencer After Stalking Concerns](https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/) — MacRumors · 14:14 PT · #tech #ai
 - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — Hacker News · 14:01 PT · #tech #ai
 - [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) — TechCrunch · 13:59 PT · #tech #ai
+- [Mark Zuckerberg Fumbled a Pint on Camera. How Guinness Won Millions in Free PR Without Lifting a Finger](https://www.inc.com/michael-tasner/mark-zuckerberg-guinness-viral-marketing/91419373) — Inc.com · 13:55 PT · #tech
 - [Samsung Smart Glasses Unveiled, and They’re Superlight](https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/) — CNET · 13:49 PT · #tech
 - [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
 - [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
@@ -408,9 +411,3 @@ tags: ["category", "tech"]
 - [Do you guys read write-ups? Where?](https://www.reddit.com/r/cybersecurity/comments/1x4qa6x/do_you_guys_read_writeups_where/) — cybersecurity · 00:29 PT · #tech
 - [Character.ai has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/) — Hacker News · 00:28 PT · #tech #ai
 - [A poisoned AI model can pass every unit test, security scan, and validation check. That's why standard AppSec misses data poisoning.](https://www.reddit.com/r/cybersecurity/comments/1x4q810/a_poisoned_ai_model_can_pass_every_unit_test/) — cybersecurity · 00:25 PT · #tech #ai
-- [Large Language Model (LLM) Market to Reach USD 148.8 Billion - openPR.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2pLQWdDS25ZOUdLOEF1ZVJpcW1DVGlvd0tPcVNtakp3eWtYVE5RM1pfbmtuYTVEbzNOOF9uV2cxQy1HVXR1TU81N0FuSWt5WGZRbEFzWU1hOERkRzhOTHE4Mno2MXFOeFZCUG1hWEREMXVwczZGMHpKa3RURFRBY1M0RDV4aEloTVBuNnhVNl91WUtGaklmemNB?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 00:05 PT · #tech #ai
-- [VMware is pushing so many patches, it thinks users need new tools to manage the flood](https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172) — www.theregister.com - Articles · 00:01 PT · #tech
-
-## 2026-10-12
-
-- [GotEmail](https://www.producthunt.com/products/gotemail) — Product Hunt — The best new products, every day · 23:49 PT · #tech #ai

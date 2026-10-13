@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T14:08:36-07:00
+updated: 2026-10-13T14:18:35-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,12 +11,14 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Elevation Lab Pulls AirTag Silencer After Stalking Concerns](https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/) — MacRumors · 14:14 PT · #tech #ai
 - [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html) — CNBC Top News · 14:06 PT · #markets #ai
 - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — Hacker News · 14:01 PT · #tech #ai
 - [The $20 Billion AI Scare That Wasn’t - InvestorPlace](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ia0ROTXZ6OFAxSHRuN0RXdmR1d3ZtdEE0bFg1a0pzLTQtMmxHZnBtVVhrMFlOVXB4cUhRUk85VE1jUC1Qd2VYYzU1eV9MYUs5LVlMVHp1bXVSM3ZNOFhOTnd1YWprNmN2SHBsYS16TTIyNW9uT1JPMw?oc=5) — Google News: unusual options activity · 14:00 PT · #markets #ai
 - [Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.](https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html) — NYT World · 14:00 PT · #world #ai
 - [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) — TechCrunch · 13:59 PT · #tech #ai
 - [Ripple Teams With Stripe-Owned Privy to Bring Wallet Tech to XRP Ledger](https://news.bitcoin.com/technology/ripple-teams-stripe-owned-privy-wallet-tech-xrp-ledger/) — Bitcoin News · 13:55 PT · #markets #ai
+- [US indicts Saudi employee of OpenAI for allegedly bugging its offices](https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1) — FT Home · 13:54 PT · #business #ai
 - [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
 - [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
 - [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) — TechCrunch · 13:36 PT · #tech #ai
@@ -158,6 +160,7 @@ tags: ["project", "ai"]
 - [Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'](https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774) — www.theregister.com - Articles · 09:30 PT · #tech #ai
 - [New Apple TV 4K Supports Surround Sound via Four HomePods](https://www.macrumors.com/2026/10/13/new-apple-tv-4k-four-homepods-surround-sound/) — MacRumors · 09:29 PT · #tech #ai
 - [Apple HomePod mini 2 vs. Apple HomePod mini: What do you get for the $50 increase?](https://www.engadget.com/2285476/apple-homepod-mini-2-vs-mini-comparison-50-dollar-increase/) — Engadget - Technology News & Expert Reviews · 09:27 PT · #tech #ai
+- [68% of small business owners are open to AI in payroll, but only 11% trust it to take over - Twin Falls Times-News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0pGcWN1TmlsZDZCZ2htcXlMbjAzbTFRYXczcGZzXzZQQUowWHAyNURNbmptLXFwTVdRUTZQRWJDRTVlRUxzU0pJakFBUVl3NTQ2clM2UUFoVExPeEl4YXF3YXBwYjZOWlUxSXZSQTdOV3pHS29NRWlfWHhoZ0FVclVXd05QLTNPemtaS2R2bzBXWHZJbDNfSE1hbDU5bnp5ckZPLTZwVndFZTZB?oc=5) — Google News: small business owners · 09:26 PT · #business #ai #smallbiz
 - [Apple unveils new smart home devices that showcase upgraded Siri AI - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUtPYkZiMFdGTVFibFdLcWMwT0tpYVFGTDEzTzZSNlNEcFJ6ZmJfcmR3SjVkd2tkckFnQ0JRUGpIclZsMkJ1UXdLejhUQ1dtbS1IaV9VTndzWE5JaGZPcjN1ZHZUeG1IZThkNzBWUlV5Mk9CVk5TVVJYdEZGWG9wTWE5UEtkUXNp?oc=5) — Top stories - Google News · 09:25 PT · #world #ai
 - [Will HomeView support third-party apps? Here’s what Apple says](https://9to5mac.com/2026/10/13/will-homeview-support-third-party-apps-heres-what-apple-says/) — 9to5Mac · 09:24 PT · #tech #ai
 - [Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1) — FT Home · 09:22 PT · #business #ai
@@ -411,6 +414,3 @@ tags: ["project", "ai"]
 - [Is this idea from AI or humans? A detector claims it can tell](https://www.nature.com/articles/d41586-026-03247-0) — Nature · 17:00 PT · #science #ai
 - [Inundated AI conferences impose submissions caps](https://www.nature.com/articles/d41586-026-03153-5) — Nature · 17:00 PT · #science #ai
 - [In the AI era, coding means thinking like a systems architect](https://www.nature.com/articles/d41586-026-02715-x) — Nature · 17:00 PT · #science #ai
-- [Apple ‘Welcome home’ event: Three new products are coming tomorrow](https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products/) — 9to5Mac · 16:39 PT · #tech #ai
-- [New joint filing shows Epic remains unhappy with Apple at every turn](https://appleinsider.com/articles/26/10/12/new-joint-filing-shows-epic-remains-unhappy-with-apple-at-every-turn?utm_source=rss) — AppleInsider · 16:19 PT · #tech #ai #civic
-- [Microsoft President Says AI Has Fewer Regulations Than Milk. So Now What?](https://www.cnet.com/tech/services-and-software/microsoft-president-ai-has-fewer-regulations-than-milk/) — CNET · 16:10 PT · #tech #ai

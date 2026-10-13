@@ -1,16 +1,18 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T14:08:36-07:00
-count: 214
+updated: 2026-10-13T14:18:35-07:00
+count: 217
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-214 most recent items (14-day window).
+217 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Supreme Court refuses to toss out fees for lawyers who sought hand count in Arizona election](https://lasvegassun.com/news/2026/oct/13/supreme-court-refuses-to-toss-out-fees-for-lawyers/) — Las Vegas Sun · 14:14 PT · #us #civic #nevada
+- [The World Cup was bad for some businesses in Los Angeles](https://www.latimes.com/business/story/2026-10-13/world-cup-was-bad-for-some-businesses-in-los-angeles) — World & Nation · 13:57 PT · #us
 - [Surgery confirms pope has lung cancer; lower lobe of his right lung removed](https://www.reviewjournal.com/life/religion/surgery-confirms-pope-has-lung-cancer-lower-lobe-of-his-right-lung-removed-3899609/) — Las Vegas Review-Journal · 13:51 PT · #us #nevada
 - [Nevada Preps predictions: Week 10 high school football picks](https://www.reviewjournal.com/nevada-preps/nevada-preps-predictions-week-10-high-school-football-picks-3899604/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
 - [Western Kentucky-Sam Houston State prediction: One clear winner in pick ‘em game](https://www.reviewjournal.com/sports/betting/western-kentucky-sam-houston-state-prediction-one-clear-winner-in-pick-em-game-3899600/) — Las Vegas Review-Journal · 13:45 PT · #us #nevada
@@ -29,6 +31,7 @@ tags: ["category", "us"]
 - [Sting, Brett Young and En Vogue announce new Las Vegas show dates and ticket sales](https://lasvegassun.com/news/2026/oct/13/sting-brett-young-and-en-vogue-announce-new-las-ve/) — Las Vegas Sun · 09:30 PT · #us #nevada
 - [$12.5M Henderson home boasts Strip views, futuristic design — PHOTOS](https://www.reviewjournal.com/business/real-estate-millions/12-5m-henderson-home-boasts-strip-views-futuristic-design-photos-3899521/) — Las Vegas Review-Journal · 09:18 PT · #us #nevada
 - [Man killed on a Six Flags roller coaster was thrown from the ride and hit other patrons, police say](https://www.reviewjournal.com/news/nation-and-world/man-killed-on-a-six-flags-roller-coaster-was-thrown-from-the-ride-and-hit-other-patrons-police-say-3899509/) — Las Vegas Review-Journal · 08:37 PT · #us #nevada
+- [Guilfoyle quits Greece post amid latest allegations of improper profiting by Trump associates](https://www.latimes.com/world-nation/story/2026-10-13/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct) — World & Nation · 07:35 PT · #us
 - [Trump’s ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct](https://www.reviewjournal.com/news/politics-and-government/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct-white-house-3899475/) — Las Vegas Review-Journal · 07:26 PT · #us #nevada
 - [Lombardo and Ford are unlikely to debate — what you need to know about the standoff](https://thenevadaindependent.com/article/lombardo-and-ford-are-unlikely-to-debate-what-you-need-to-know-about-the-standoff/) — The Nevada Independent · 07:00 PT · #us #nevada
 - [Motorcyclist critical after crash in south Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/motorcyclist-critical-after-crash-in-south-las-vegas-valley-3899458/) — Las Vegas Review-Journal · 06:39 PT · #us #nevada

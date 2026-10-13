@@ -1,13 +1,13 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-13T14:08:36-07:00
-count: 118
+updated: 2026-10-13T14:18:35-07:00
+count: 119
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-118 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+119 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-13
 
@@ -66,6 +66,7 @@ tags: ["project", "realestate"]
 - [Longbridge Financial elevates Larissa Morrell to VP of product development](https://www.housingwire.com/articles/longbridge-financial-larissa-morrell-vice-president-product-development/) — HousingWire · 04:13 PT · #business #realestate
 - [Jake A. Geckler Announces Growing Las Vegas Luxury Relocation Interest Amid West Coast Tax Pressure - FinancialContent](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcEJwVC10LVlUN0hkb0ZHUXV5b0UzNUw3a0pQU0o2UjREZ01ZR2pZT3ZyX2JrQlJlZGtfT09xN0JNRmVKR3diWV9vMkpvcmlqWGd0ZkZOM3BwY0Q2NXdXQk1yNGlXY25xM0lQMFRqc1A4eUtNcmkzZjBlem5BLXExYk90ZGQ0bjREV3BLMU02cVNZSFh0b2JnQlZNTXpyU1RrSFVwSHRzc0pjSC1sYW5tbjJFNkRSVHdxUEVhX1AtY2RqLVYzQlJsSFFyaWNaN2VvYUpab2hKcVNxVEhaUXZqbnN3Y1dGdlQ0bkdFMVdlQVpDamhOOWVCRw?oc=5) — Google News: Las Vegas real estate · 03:59 PT · #business #nevada #realestate
 - [Why the Mitchells sold the builder but kept the land platform](https://www.housingwire.com/articles/mitchells-sell-builder-keep-land/) — HousingWire · 03:55 PT · #business #realestate
+- [A Private Island Minutes From Sydney Sweeney’s Florida Keys Mansion Offers off-Grid Living and a Sandy Beach - Mansion Global](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNclVuSnBwWWFIVnM2MTVTZzQyd1Y5YlFXZFZYMGtuWTRPNXU1Z1VSX2lpNjBXLWgzeGhtc25BMS1UVmxyYk5Ua3FvNkJSdFp2MjRXUENVcFJrWnFONHBwdldhRDAtUWlWX2w2SzNkeFZ5RVNnODIzdnlNTDNGSHB5MHdyRXRFTjV2TVZSbmp6Vjh5YXFfaUdDVTNWQ1NvRjZ4V0ExMVZKc1FDT0ZoQmpTVVlBaUVTRnAxc1VMWXJmVWljRExkM3pHSUhOQWlnZ0piaU5UVVhzeDdkTGF2WmFJMzNjLVdiVDJ5N3BV0gHwAUFVX3lxTFB0ZnFzM1JsZGd3b2JrUVlmQjhmLXdqTEdEbkNtRHdEdVVVVFkzOUlPX3RmRHpMMHVmTUNOZmRyTmZ3SDdMZmsxbjJnNlhrLTZkTUVVb09sa295Rl9CS0t5YUd5cTlHS2tjSXRhYUlITTducElCd3VNX3FNUl9Lc1V2NWNTaHpfWVFwUmZBcmxidUV6cEF4clc3WENoNG9HTlNrNE1JZkljRzJRYVN1My1Hb3VlOEZqMFdNcG1RM1VNbDVReDlwT2dSMHZ5aGZZV3BnS01VSU1QRnFUWktpbTduakZOVFE4MzVxMkp0dXJKeQ?oc=5) — Google News: Las Vegas real estate · 03:53 PT · #business #realestate
 - [The Cosmopolitan of Las Vegas to Unveil The Corner Store November 9 - WhatNow](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTZwWWlwUndnNTU3ejRCQVphX0VaVy1CTzRDWGZzb25ZUWFDd3o3S1ZIZVN5WS1MVjZ1RWFVNk1JcWhuQmgtaVp1bkhxY1JGYkhzVThBa1l2RlpzQm5KVWhBZzdpWEJGUzk3cC15NVpLUTJkM1lBU2s1VDFUc0UzQzB0YVhiRlE3RHpFWGlMakVFNmJiSVlBQjFuSFlFXzNLYi1lWmxXNlVvTzBnLXY0?oc=5) — Google News: Las Vegas real estate · 03:08 PT · #business #nevada #realestate
 - [24 yo and basically taught myself how to invest as best as I could. looking for advice or more knowledge on how to set myself up better. TYIA](https://www.reddit.com/r/personalfinance/comments/1x4s52n/24_yo_and_basically_taught_myself_how_to_invest/) — Personal Finance · 02:32 PT · #markets #realestate
 - [Liking Las Vegas: UAE delegation visits to explore business, tourism opportunities - The Nevada Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1g1R0M0anVjVEpiNEc0UkNZX3NCN0NHeEhxLVZfQkJkREtsX0ZBcjliYlRLUWxZbFpHcUtxd1h1ejNoNnN0bDMxNjBZdktHeTRCVGtVUTRJY1dlQURhbWxvWVc1Rl9odW9wN2owQTA3THhRSThsMlVEOEZuRzRuQ0RzeHVXT2dVbklfdm9aZ25ENE54NE1mMVRTNXQ3ckh5N2hWMXA2YWczNUg5TFpiUGJGLXc4V2pvdXZuZVhB?oc=5) — Google News: Las Vegas real estate · 02:00 PT · #business #nevada #realestate

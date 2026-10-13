@@ -1,13 +1,13 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T14:08:36-07:00
-count: 308
+updated: 2026-10-13T14:18:35-07:00
+count: 310
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-308 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+310 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
@@ -33,6 +33,7 @@ tags: ["project", "oil"]
 - [Saudi Arabia Strikes Houthi Targets as Red Sea War Escalates](https://gcaptain.com/saudi-arabia-strikes-houthi-targets-as-red-sea-war-escalates/) — gCaptain (shipping) · 11:48 PT · #world #foreign #oil
 - [Nigeria met OPEC quota for fifth consecutive month — Premium Times Nigeria - UA.NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmtMLW1nZDluc0lQRVN6d1VaUUg5ZG05S3o5S3VzUU93Um94STJJUmdOcnV1ZFRMbWIxdmVfQl90WkliX0ZUMHVoLXVWTnhiTW1FT1ZiaHZBRHR1a3lfeXpvRm0xLWJ6bTQyNUJJVm0zczJtTm83SVd3eFZEbUg0eGU1TzhyQkw2dXdiSFg1Sm1pb1ZaT3VYWUU0bldEanBoS0tIZg?oc=5) — Google News: OPEC crude oil · 11:41 PT · #markets #oil
 - [Nigeria meets OPEC quota for fifth straight month as oil output hits 1.84m barrels - Premium Times Nigeria](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdHA2S283bEJfWmtWUmNFRHlXUTg0c0ZuUEpuNkJvZUN3NmFxdFVMVC1zcE11LW51QkJpSHJxT1BaM2ZBN1U5VXZMMEZFa0MyU0hFa0dubjBTa2RWTS1SLXhwNmJhSXlFbXA0N3JnLTAzczd2azZVVlZIRkNnYVlGc3hYTFFzejRTSVR1WkNSWERjeDR4S0RnaVlqLTRFVE5qNl9FdXRDeE9scEFYbVIzZXVXdmhIWDBvUnpGX3RhbzZjc2tZMG5oWmwtWkFPZEU5aC1oSm9OM1RfeW5MX1NIU0RR?oc=5) — Google News: OPEC crude oil · 11:17 PT · #markets #oil
+- [Week 6 Fantasy Football Rankings from Justin Boone - Yahoo Sports](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDg5bkVGSjJxRHFkUGEwNVJWbkJ6QkRVUklEeXV5dXRXWVp0ekZ2dWFhZlc1QkN2Qms5ektMVTdmY0taN2FKQUpHV0lSUHNreEc5Z3RESWFyVXl2RDF4WUtCZXFLQVhyemtaS1VSTmdYNEtsYjk2ZVd2RXFNVHRyRFVVUU5BWEtCeWRRcGlUb19Sbm5Vdlk2eDVmRFpwbi13RXQ5VFhsUkljQQ?oc=5) — Top stories - Google News · 11:05 PT · #world #oil
 - [Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks](https://oilprice.com/Geopolitics/Asia/Trumps-Middle-Corridor-Plans-Face-Russian-and-Iranian-Roadblocks.html) — OilPrice.com · 11:00 PT · #markets #foreign #oil
 - [Pulling Ethiopia and Eritrea Back from War](https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war) — Crisis Group · 10:58 PT · #world #foreign #oil
 - [Category 2 Hurricane Isaias nears landfall, leading to production shut-ins](https://www.eia.gov/todayinenergy/detail.php?id=68284) — EIA Today in Energy · 10:58 PT · #markets #oil
@@ -64,6 +65,7 @@ tags: ["project", "oil"]
 - [Nigeria exceeds OPEC quota for 5th month as oil production hits 1.71m barrels in September - Businessday NG](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkFpRWZUQnhYQUt3bXNiVTVwaFFwRVpkOFJlMUNXcUR0cDNQTTE5SUJtLW9GMDhSRlc5LUE0OHF6Q1dnNldHZkhScXNSUWZMNmFLbjRqRzlQNy1Gc3Rub1JTTE1pVWVvX1JXZFZLZTlBdGZ2Y1d4SlFHU0t6S3ZRX0V3MlpEVHZtbkY3VVNKbUxoVGptc2c1a04tZkU0QUhKRTBqVW9rbHhFUFRua3JuZTZwUExhcEJ6bjk3aVR3MF95dnVsMXRkbNIBzgFBVV95cUxNYmgxWEpxbGtKLXl3X1FlWVBDczZWRUNfNm5fUWZFdG5DSmlwdDlIOFJ4ZkhEYkh2c09HSndISFN4V1lHMnNFV1hmWWdoUE04d1h5WVVkbGwzUkVFTUliZS01NGRSVWFRUjNXY0VoNjhkTkRPbS1QOXNZeHZselh3bk9naVBVQWxuVEpiY1dxLVE3S2duSVFjOExUWUg1T3d5VlNvRm9aU1k1NkhYZlVrU0s1dmtlOVEtMktqbW9LMjB2X1lnRmJsWXd3RTlpdw?oc=5) — Google News: OPEC crude oil · 09:23 PT · #markets #oil
 - [Trump’s Diesel Deal Irks Allies and Is Unlikely to Reduce Prices](https://gcaptain.com/trumps-diesel-deal-irks-allies-and-is-unlikely-to-reduce-prices/) — gCaptain (shipping) · 09:17 PT · #world #foreign #oil
 - [OPEC crude prices jump 28% during September - ارقام](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XR19UUTd6dHB1azdPOFRUYWZ2UVhRSjdHdzUyMllsb05PSHlWeEhyV0pZUXc3eW5wVFFEV04zbmRfOEUzUWZodTdoSDhYUlNxUkI0OVdWdkpmcElZcHNNR2pNMVNNcVJkOVEzYUViOA?oc=5) — Google News: OPEC crude oil · 09:11 PT · #markets #oil
+- [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 09:10 PT · #markets #oil
 - [11 Missing as Drone Attacks Strike Two Ships Near NATO Waters](https://gcaptain.com/11-missing-as-drone-attacks-strike-two-ships-near-nato-waters/) — gCaptain (shipping) · 09:07 PT · #world #foreign #oil
 - [Japanese, French and Omani Vessels Cross the Strait of Hormuz - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTZIX1dlZzRzYkNweHp6ZUNFSzB0MXdrVHE5NHhPQ1QyQXB6dnljYzdCWXpOS29EejZINkl4ZV9veFA2WXo1LU95SlBRY0lKZ3JIaXRqUU5LQ0REcENENXduZHJ2VERHMkRYeGV3VnNwSThkWXRhZ3FJeThCVjljVlVqOWQtSzJVaU9SRm41SzBrRHlkMEE?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 09:06 PT · #markets #oil
 - [Hormuz at Near Standstill as Iran Warns Ships to Keep to its Waters - EnergyNow.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFocGRSMmpaV3lZTXFET0ZZbHItdHZZajVBcWtiZTg4R2xDLVVBRzIyQ3NWSTZpRUUtSllFSE5Xa0UzTVFuMmh6UTBscGJWVXBtdTM5SzNhWWhkZjlDNmRMbmxwZ0pVQ3FRbnRTaGhzaUJEdlAxVlZlNmZTN3BzZTdURjZfSTVIdUxRR2JyUllpYkxxT3AxOU9BZm9VaWs?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 09:06 PT · #markets #foreign #oil

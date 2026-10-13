@@ -1,6 +1,6 @@
 ---
 title: "Category: markets"
-updated: 2026-10-13T14:08:36-07:00
+updated: 2026-10-13T14:18:35-07:00
 count: 400
 tags: ["category", "markets"]
 ---
@@ -11,6 +11,7 @@ tags: ["category", "markets"]
 
 ## 2026-10-13
 
+- [Micron Technology adds to recent weakness, slips another 4%](https://seekingalpha.com/news/4652705-micron-technology-adds-to-recent-weakness-slips-another-4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:09 PT · #markets
 - [Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html) — CNBC Top News · 14:06 PT · #markets #ai
 - [Strive announces proposed offering of 5M SATS preferred shares](https://seekingalpha.com/news/4652698-strive-announces-proposed-offering-of-5m-sats-preferred-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:04 PT · #markets
 - [AZZ shares rise as quarterly revenue, earnings beat estimates](https://seekingalpha.com/news/4652701-azz-shares-rise-as-quarterly-revenue-earnings-beat-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:03 PT · #markets
@@ -18,6 +19,7 @@ tags: ["category", "markets"]
 - [Baked Nachos ($10 Family Dinner Idea)](https://moneysavingmom.com/baked-nachos-10-family-dinner-idea/) — Money Saving Mom® · 14:02 PT · #markets
 - [Par Pacific Holdings advances 8% to new 52-week high](https://seekingalpha.com/news/4652679-par-pacific-holdings-advances-8-to-new-52-week-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:01 PT · #markets
 - [The $20 Billion AI Scare That Wasn’t - InvestorPlace](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ia0ROTXZ6OFAxSHRuN0RXdmR1d3ZtdEE0bFg1a0pzLTQtMmxHZnBtVVhrMFlOVXB4cUhRUk85VE1jUC1Qd2VYYzU1eV9MYUs5LVlMVHp1bXVSM3ZNOFhOTnd1YWprNmN2SHBsYS16TTIyNW9uT1JPMw?oc=5) — Google News: unusual options activity · 14:00 PT · #markets #ai
+- ["Can't go to the moon every quarter": Big banks' bumpy start to earning season - Marketplace.org](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGVSWHhzcFJONTE0aGFIQ1BWWnZJZnlaMkhzSDhoUVhJWUlGeEtUdTRFbjZTV0ZXbjBQU095TVlFcXZCQjhhSDFCdmhYWnVGczdBNGVsOVB2dHVKYmtBdmpoVHlWV2EtUWdmTk9VbVpibnN0NUl1akdrUDYyc2g1T2o0WjIwaTN1MjZ6bmVKYnlMLU9BUHY4?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:00 PT · #markets #fed
 - [TRexBio raises $116.7M in Nasdaq IPO at $14 per share](https://www.investing.com/news/stock-market-news/trexbio-raises-1167m-in-nasdaq-ipo-at-14-per-share-432SI-4947553) — Investing.com Stock Market · 14:00 PT · #markets
 - [Five Shale Stocks to Watch Before Third-Quarter Earnings](https://oilprice.com/Energy/Energy-General/Five-Shale-Stocks-to-Watch-Before-Third-Quarter-Earnings.html) — OilPrice.com · 14:00 PT · #markets #oil
 - [ClearBridge Appreciation Strategy adds new positions in Mastercard, Novartis; exits Disney, Cisco, SPCX among Q3 moves](https://seekingalpha.com/news/4652700-clearbridge-appreciation-strategy-adds-new-positions-in-mastercard-novartis-exits-disney?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:59 PT · #markets
@@ -257,6 +259,7 @@ tags: ["category", "markets"]
 - [Need advice for how to pay for upcoming surgery](https://www.reddit.com/r/personalfinance/comments/1x51146/need_advice_for_how_to_pay_for_upcoming_surgery/) — Personal Finance · 09:17 PT · #markets
 - [More in Options Action - CNBC](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wWFBiQ2I5Q0pZR3Z0LWhqM1hTdEhDUjMxdzgyRXZmQkVUdHN3VmFzUWpLa1hYSzFmSTVsckdVVExhUG9EU182c2lrLTM?oc=5) — Google News: unusual options activity · 09:16 PT · #markets
 - [OPEC crude prices jump 28% during September - ارقام](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XR19UUTd6dHB1azdPOFRUYWZ2UVhRSjdHdzUyMllsb05PSHlWeEhyV0pZUXc3eW5wVFFEV04zbmRfOEUzUWZodTdoSDhYUlNxUkI0OVdWdkpmcElZcHNNR2pNMVNNcVJkOVEzYUViOA?oc=5) — Google News: OPEC crude oil · 09:11 PT · #markets #oil
+- [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 09:10 PT · #markets #oil
 - [Jim Cramer bucks all the stock market negativity with 3 buy recommendations](https://www.cnbc.com/investingclub/2026/10/13/jim-cramer-bucks-all-the-stock-market-negativity-with-3-buy-recommendations.html) — CNBC Top News · 09:07 PT · #markets
 - [Japanese, French and Omani Vessels Cross the Strait of Hormuz - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTZIX1dlZzRzYkNweHp6ZUNFSzB0MXdrVHE5NHhPQ1QyQXB6dnljYzdCWXpOS29EejZINkl4ZV9veFA2WXo1LU95SlBRY0lKZ3JIaXRqUU5LQ0REcENENXduZHJ2VERHMkRYeGV3VnNwSThkWXRhZ3FJeThCVjljVlVqOWQtSzJVaU9SRm41SzBrRHlkMEE?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 09:06 PT · #markets #oil
 - [Hormuz at Near Standstill as Iran Warns Ships to Keep to its Waters - EnergyNow.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFocGRSMmpaV3lZTXFET0ZZbHItdHZZajVBcWtiZTg4R2xDLVVBRzIyQ3NWSTZpRUUtSllFSE5Xa0UzTVFuMmh6UTBscGJWVXBtdTM5SzNhWWhkZjlDNmRMbmxwZ0pVQ3FRbnRTaGhzaUJEdlAxVlZlNmZTN3BzZTdURjZfSTVIdUxRR2JyUllpYkxxT3AxOU9BZm9VaWs?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 09:06 PT · #markets #foreign #oil
@@ -408,6 +411,3 @@ tags: ["category", "markets"]
 - [BlackRock and Baillie Gifford bet big on Icon 3D printed homes](https://www.cnbc.com/2026/10/13/blackrock-baillie-gifford-bet-big-on-icon-3d-printed-homes.html) — CNBC Top News · 05:18 PT · #markets #realestate
 - [Opec raises 2027 oil demand view, citing need to rebuild stocks - The Edge Malaysia](https://news.google.com/rss/articles/CBMiU0FVX3lxTE12YnZfODdGS25nbXBBVVVsNVlWZDh1MER5RC1HbFByUy1DU3ZnRExPUkhRaHdaZFc1TGdOUnBPZVdSNnFCeEVSUG4tbFNIYm9yb2ln?oc=5) — Google News: OPEC crude oil · 05:18 PT · #markets #oil
 - [Kid’s 15-Inch Collapsible Toy Storage Bin (2 pack) only $12!](https://moneysavingmom.com/kids-15-inch-collapsible-toy-storage-bin-deal/) — Money Saving Mom® · 05:17 PT · #markets
-- [OPEC raises 2027 oil demand view, citing need to rebuild stocks By Reuters - Investing.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVBwUEtXTS01bXJuYzgtbFV2bTJWd1RkY3pBU181MmxORXdhekJ6M0JZVnE5a0Vvdi16SjRzMlpEQ0xndjBNYVVzaEp6UllSbEFCLUFyc0tTTElEenJWbHlMZTliaXY2WFNZS0xybXZyanU2c0o2SXZDYlphYW40bWRMaUtVVFN6S0NvUnFHNVBwaXpOUlVjWDhZZ0Rfa2tpWWNaVnFleWhRbDJ0bE41Z2hhdEhVUEJNUWc?oc=5) — Google News: OPEC crude oil · 05:17 PT · #markets #oil
-- [OPEC raises 2027 oil demand view, citing need to rebuild stocks - Bellingham Herald](https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMVRScXFRUFB3c19Jal80QzRhdFRDcThWRF9VYjJjLTg0RXd6UFZ2dnZjUUtUVUQySWpNYnZaOTNJNjRiZWlqam8wT3BRck10bkFmdGNadXN3YlJBOWJON0w1OEdESU9XSHlVV2xQQXdITTcyYW5V?oc=5) — Google News: OPEC crude oil · 05:17 PT · #markets #oil
-- [Крипторынок теряет приток капитала: в Wintermute назвали условия для восстановления рынка](https://incrypted.com/kryptorynok-teryaet-prytok-kapytala-v-wintermute-nazvaly-uslovyya-dlya-vosstanovlenyya-rynka/) — INCRYPTED · 05:11 PT · #markets

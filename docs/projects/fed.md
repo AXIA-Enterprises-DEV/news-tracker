@@ -1,18 +1,19 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-13T14:08:36-07:00
-count: 137
+updated: 2026-10-13T14:18:35-07:00
+count: 138
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-137 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+138 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-13
 
 - [Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally](https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383) — All News · 14:04 PT · #business #fed
 - [Lawyer for Fed Governor Cook Denounces Trump’s New Investigation](https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html) — NYT Business · 14:03 PT · #business #fed
+- ["Can't go to the moon every quarter": Big banks' bumpy start to earning season - Marketplace.org](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGVSWHhzcFJONTE0aGFIQ1BWWnZJZnlaMkhzSDhoUVhJWUlGeEtUdTRFbjZTV0ZXbjBQU095TVlFcXZCQjhhSDFCdmhYWnVGczdBNGVsOVB2dHVKYmtBdmpoVHlWV2EtUWdmTk9VbVpibnN0NUl1akdrUDYyc2g1T2o0WjIwaTN1MjZ6bmVKYnlMLU9BUHY4?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:00 PT · #markets #fed
 - [Small business optimism falls, hit by inflation, low labor quality: NFIB - CFO Dive](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEtKc2ozcDBWWXNCY1V0TkdITFNyX0dGTDh1Wk1VRHBHa3ZWSTdURFdxVXJoc0w3cmlWLU5vMVVQWHQ0aW94bXpHR2k0U3ozQk14YlpNNDJkOHFJeWJ2Ym9QbHRoZjRRNUNhWGV1dVgzY3RCZ3Y0ZkhUWl9mSmZ3SmhrN1BsdkV4OWF4WldnbW8zTTVfbk5aemozVklMTEZOdi1KT0FIR1RXYkFpS2FDN3ZHODZPVjFFZTNXbWJR?oc=5) — Google News: small business owners · 13:56 PT · #business #fed #smallbiz
 - [Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds](https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html) — CNBC Top News · 13:42 PT · #markets #fed
 - [Fed’s Collins signals further rate hikes likely as inflation risks persist](https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534) — Investing.com Stock Market · 13:40 PT · #markets #fed

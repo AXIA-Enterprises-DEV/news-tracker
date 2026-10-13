@@ -1,17 +1,19 @@
 ---
 title: "Category: sports"
-updated: 2026-10-13T14:08:36-07:00
-count: 165
+updated: 2026-10-13T14:18:35-07:00
+count: 167
 tags: ["category", "sports"]
 ---
 
 # Category: sports
 
-165 most recent items (14-day window).
+167 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [LIV’s last stand: Golf’s revolution unravels as deadline loom - Golf Australia Magazine](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0w4OXIwMGtfU3ZaRFluSjd4SUVsd0ttMThZU0RCYXVHdnhSbTNpZEpMdV9EUng2NFNPN0Zaby1FeTVPSVFoUHlmUVZOMHdGWlhHQmxkT2wxZkphb2x1bHRUUFhNWHQyNnVwVnczMVAyajhGV1FJUVpTRzRzRnpVZ1UtUWJEWVB3T0Q5UU1JcjVoZDBqVlFvczQ4X3RCRS0yVmdDQ2Nn?oc=5) — Google News: PGA Tour OR LIV Golf · 14:13 PT · #sports #golf
 - [Rory McIlroy would welcome LIV Golf members back to the PGA Tour, though still with conditions - Yahoo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSnZCSUpZOXE0YnJBVFVnQ0RzU01OU3cyem1aUTdMbUF4eU9FSVNVM19RZklBR2hvTzdHX01YMGtyakE3Q2hfbkZjZVN0ZVNJUE9zeHBxLVpIbklFUTl6clN2RXdZZlZ1TTJfRVF5UWwtakV5ODA4R3JPajU2LUI0Vjh2UXYtb2stUjRMSDVIUWp4bW1yWDNSQjZBeVZ1cDg4LU1pSjZSVG1FbTdYbUktc3p1NHNvdjdxQjk1YjlORXhlbXh1c0hudGZ1M3UySkpUbjNzcXBHN3I?oc=5) — Google News: PGA Tour OR LIV Golf · 13:51 PT · #sports #golf
+- [Rory McIlroy would welcome LIV Golf members back to the PGA Tour, though still with conditions - Yahoo Sports](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGI1SGVydHVmT0l5cGtPbXRZZnhHZ2V6cXpzbVl2MVJhcjdRaU9Fdnpxa1ZwNXpxQ2lMQkhrR2xTOHlQQ0FIdnFjRUFiSG1xRUROVDBVYXMwX3NfMkpGSS1ZSzgzbGFPUFNIV3RxeE54MEtjdHpvZmhHelhJOWIzWEgwSW45V0tqbklMTUN3dUNNLXM4bHpnY0dYcm9JQ2h1ZmNPTlZwLXJuVXZFay13TGlVWFZQR0lvLTFjRjZVM3dCWG1HSDdmSmFYQ25GNHZDUmx4azVkamhaX3B0blhR?oc=5) — Google News: PGA Tour OR LIV Golf · 13:51 PT · #sports #golf
 - [Rory McIlroy's newest sponsorship includes an insane travel perk](https://golf.com/news/rory-mcilroy-new-sponsorship-insane-travel-perk/) — Golf.com · 13:37 PT · #sports #golf
 - [Rory McIlroy contends LIV 'wasted' its money and says he'd vote 'yes' on bringing LIV players back into PGA Tour fold - Golf Digest](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWtySTVoNmtHY0M4WnNmWW9tTDRjN09TdE9QNkpPMjdXcHpqNWV3SHJHR2FsT3I1cXFKdktObFB5b21aUXpzcmViZV9lN2FvSThNeWpQZHRqU2xpdWpicEctYmlvaEJDZktiaHlONUlKdEZpdkhlT0F3TWNhQm5MM1hRN2NONzQxbTRNb1h1OTVqM1hDOXp6eQ?oc=5) — Google News: PGA Tour OR LIV Golf · 13:35 PT · #sports #golf
 - [Rory McIlroy contends LIV 'wasted' its money and says he'd vote 'yes' on bringing LIV players back into PGA Tour fold - Yahoo Sports](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTJnTU9HRWJXZlZldXM3X1R0R011SHpFanJZRlFSU1VuRnF1Yy1FTk9kLWpDU1pSY1lYcnllZDBHWHJqbm0wRkx4QnpOdnFreDNVWGNweElldjRpWTVWUDhKdkZyVjZGYmdGbUFEOUc1WXExbUx1NGJya2hOWUhjdmdGTHdOR2M2?oc=5) — Google News: PGA Tour OR LIV Golf · 13:35 PT · #sports #golf

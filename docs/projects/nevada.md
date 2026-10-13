@@ -1,16 +1,18 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-13T14:08:36-07:00
-count: 255
+updated: 2026-10-13T14:18:35-07:00
+count: 257
 tags: ["project", "nevada"]
 ---
 
 # Project: Nevada / Las Vegas
 
-255 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
+257 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
 
 ## 2026-10-13
 
+- [Supreme Court refuses to toss out fees for lawyers who sought hand count in Arizona election](https://lasvegassun.com/news/2026/oct/13/supreme-court-refuses-to-toss-out-fees-for-lawyers/) — Las Vegas Sun · 14:14 PT · #us #civic #nevada
+- [Nevada's election challenge: Secretary of state candidates | Hickey - Reno Gazette Journal](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0V6M2E5SjdSQzlhMDJBY3k3WG01YkhLMnlZOGZCOFdqVjN1S2E3YlN1X0prdWU0c0Q5a1V2WHRKVk0zOFZrWkQySk1laTdUenprS3M4dzNUMVZjR1hqd0gteFd3OEt1UW91M0djd1FmbmtNVS0xeml5Ti1zWUNvS09RWVQzRV8xcWYyUzlsZVRoOTJIc0N6el9BX0FvY1hHMy1Sb3g4ZXFka211X3R5QjN6V2xxa0ZTYXpkakNZejRlMDQyWnh0aVdJNUE?oc=5) — Google News: Nevada ballot question · 14:00 PT · #politics #civic #foreign #nevada
 - [Surgery confirms pope has lung cancer; lower lobe of his right lung removed](https://www.reviewjournal.com/life/religion/surgery-confirms-pope-has-lung-cancer-lower-lobe-of-his-right-lung-removed-3899609/) — Las Vegas Review-Journal · 13:51 PT · #us #nevada
 - [Nevada Preps predictions: Week 10 high school football picks](https://www.reviewjournal.com/nevada-preps/nevada-preps-predictions-week-10-high-school-football-picks-3899604/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
 - [Western Kentucky-Sam Houston State prediction: One clear winner in pick ‘em game](https://www.reviewjournal.com/sports/betting/western-kentucky-sam-houston-state-prediction-one-clear-winner-in-pick-em-game-3899600/) — Las Vegas Review-Journal · 13:45 PT · #us #nevada

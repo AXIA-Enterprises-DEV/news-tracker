@@ -1,16 +1,17 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T14:08:36-07:00
-count: 388
+updated: 2026-10-13T14:18:35-07:00
+count: 389
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-388 most recent items (14-day window).
+389 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [New topological microscope tip reveals evidence of 2D altermagnetism](https://phys.org/news/2026-10-topological-microscope-reveals-evidence-2d.html) — Phys.org - latest science and technology news stories · 14:10 PT · #science
 - [The ‘Holy Grail’ of baseball cards is up for auction](https://www.popsci.com/science/honus-wagner-baseball-card-auction/) — Popular Science · 14:02 PT · #science
 - [DNA 'flight recorder' traces embryonic development cell by cell](https://phys.org/news/2026-10-dna-flight-embryonic-cell.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
 - [New method helps researchers study proteins involved in plant health, disease](https://phys.org/news/2026-10-method-proteins-involved-health-disease.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
