@@ -60,7 +60,9 @@ def tag_projects(it, rules, forced=None):
     text = f"{it['title']} {it.get('summary','')}"
     ps = {k for k, rx in rules.items() if rx.search(text)}
     if forced: ps.add(forced)
-    if it["category"] == "filings": ps.add("markets")
+    if it["category"] == "filings":
+        ps.add("markets")
+        if re.search(r"Item 1\.01", text): it["flags"] = ["item-1.01"]
     if "nevada" in ps and "realestate" in ps: pass
     return sorted(ps)
 

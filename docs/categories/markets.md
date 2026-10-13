@@ -1,6 +1,6 @@
 ---
 title: "Category: markets"
-updated: 2026-10-13T13:28:39-07:00
+updated: 2026-10-13T13:31:55-07:00
 count: 400
 tags: ["category", "markets"]
 ---
@@ -11,6 +11,12 @@ tags: ["category", "markets"]
 
 ## 2026-10-13
 
+- [Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name](https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html) — CNBC Top News · 13:30 PT · #markets
+- [US to use Defense Production Act to expand Delek refinery in Texas, Vance says](https://seekingalpha.com/news/4652677-us-to-use-defense-production-act-to-expand-delek-refinery-in-texas-vance-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:28 PT · #markets #oil
+- [Snap stock breaks six-day winning streak](https://seekingalpha.com/news/4652644-snap-stock-breaks-six-day-winning-streak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:27 PT · #markets
+- [Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.](https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:27 PT · #markets #ai
+- [Citi expects 2026 RoTCE above 11% with efficiency ratio below 60%](https://seekingalpha.com/news/4652685-citi-expects-2026-rotce-above-11-percent-with-efficiency-ratio-below-60-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:26 PT · #markets
+- [AT&T to sell AT&T Mexico to Grupo Televisa and Fintech Holdings for $2B in cash](https://seekingalpha.com/news/4652683-att-to-sell-att-mexico-to-grupo-televisa-and-fintech-holdings-for-2b-in-cash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:25 PT · #markets
 - [Micron’s stock extends declines as China competition heats up](https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:25 PT · #markets #foreign
 - [Rice Chex Cereal just $2.85 shipped, plus more!](https://moneysavingmom.com/rice-chex-cereal-family-size-deal/) — Money Saving Mom® · 13:22 PT · #markets
 - [Kandi Technologies announces 1-for-10 reverse stock split](https://seekingalpha.com/news/4652666-kandi-technologies-announces-1-for-10-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:18 PT · #markets
@@ -405,9 +411,3 @@ tags: ["category", "markets"]
 - [Options Surge Could Be A Turning Point For NMI Holdings Stock (NMIH) - Simply Wall Street](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaTBHTkp0bk5Sd1p6ZEdyMThnNDdqZEZ3NXYyS3YzYU9KOGl1d2toOVZRTjdodlhQRDczUmhxTzBBbGlCdW5KNWZtRU94SUlLcWJMUTE5R2s3eHdrcnZLM19NT213cksxQndMOFpDUjVERElwQWJkRmFTY0k2LVdUZGw0ZVNDSndCMXFtZkt1NDRlS2dtQW5KWnlCOExQejR3dG85aEZ6X0dCWm9WSE1UU0h3SlZpb2JYRnljNWZoaF9Qa2pSUm5Ba1RkLVJwVnJLTzlERTRtUGRXOWQ1U1dmaUdkNNIB4wFBVV95cUxQaTBHTkp0bk5Sd1p6ZEdyMThnNDdqZEZ3NXYyS3YzYU9KOGl1d2toOVZRTjdodlhQRDczUmhxTzBBbGlCdW5KNWZtRU94SUlLcWJMUTE5R2s3eHdrcnZLM19NT213cksxQndMOFpDUjVERElwQWJkRmFTY0k2LVdUZGw0ZVNDSndCMXFtZkt1NDRlS2dtQW5KWnlCOExQejR3dG85aEZ6X0dCWm9WSE1UU0h3SlZpb2JYRnljNWZoaF9Qa2pSUm5Ba1RkLVJwVnJLTzlERTRtUGRXOWQ1U1dmaUdkNA?oc=5) — Google News: unusual options activity · 02:43 PT · #markets
 - [Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses](https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 02:42 PT · #markets
 - [24 yo and basically taught myself how to invest as best as I could. looking for advice or more knowledge on how to set myself up better. TYIA](https://www.reddit.com/r/personalfinance/comments/1x4s52n/24_yo_and_basically_taught_myself_how_to_invest/) — Personal Finance · 02:32 PT · #markets #realestate
-- [Oil eases as traders monitor Russian diesel deal, Saudi attacks - The Globe and Mail](https://news.google.com/rss/articles/CBMiugFBVV95cUxObDhSd0RVUFkxX0Y0WkxETjRwZURaRDhZTGQ4MVNfQlJRVndZRkNQRnNpVWc0YkNLLTlvV3JwbmQ0TDZpTmc1LXJodDl5ZV9qUlBwNFRhb2VVZHBPWWZWREhxQU5wemo1QlQ4V2thQ1ZpVUd4NE5tY2U3Sy1UdGh5VUpGOWVJTU5hTUYzUy1MbmxzQjdyeE5YWXZyMW5VTERjUS10MTR3Mk5hdkNLYXFBWmJEV2FpdFBBYlE?oc=5) — Google News: OPEC crude oil · 02:25 PT · #markets #foreign #oil
-- [Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz](https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Plans-Massive-Expansion-of-Oil-Pipeline-to-Bypass-Hormuz.html) — OilPrice.com · 02:20 PT · #markets #civic #oil
-- [Ledger Spyware Found in Devices Across Asia, Europe, and South America](https://www.reddit.com/r/Bitcoin/comments/1x4rwku/ledger_spyware_found_in_devices_across_asia/) — Bitcoin - The Currency of the Internet · 02:17 PT · #markets
-- [Chinese fraud victims lose key court battle over 61,000 Bitcoin](https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 02:03 PT · #markets
-- [South Korea Exchange Ban Hits KuCoin, MEXC and 25 Other Platforms](https://cryptonews.com/news/south-korea-crypto-regulation-exchange-ban/) — News - Cryptonews · 02:01 PT · #markets
-- [Oil retreats as Russian diesel supply prospects counter Gulf supply risks - Zawya](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDdCa25MMm1ybVBoZy1wWUNyWERiVlNiZXUzUC0wR2NrdWVtREp3eVp0b21IOF9yalpkLVc1Q0plUE5TNHptTFNRVVdUWFJMd0ljWUZWS1R2cGhaOC1sa0JZczR0eUNlMXNGTXBDaVNsbE1kY2paOS1ZbUc0VmhUUmVfZWFPMTJPYlR3UncwaF9UREJwVmhhNXdMTWVTU1h4WmIwR1MtUGJZd1FGaTZZT0NvbXhUelduMHZQTEhuS3I?oc=5) — Google News: OPEC crude oil · 02:01 PT · #markets #foreign #oil

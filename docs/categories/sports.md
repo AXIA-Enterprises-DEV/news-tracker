@@ -1,13 +1,13 @@
 ---
 title: "Category: sports"
-updated: 2026-10-13T13:28:39-07:00
-count: 154
+updated: 2026-10-13T13:31:55-07:00
+count: 155
 tags: ["category", "sports"]
 ---
 
 # Category: sports
 
-154 most recent items (14-day window).
+155 most recent items (14-day window).
 
 ## 2026-10-13
 
@@ -66,6 +66,7 @@ tags: ["category", "sports"]
 - [How did Furyk & Friends fare in new PGA Tour Champions site? - Yahoo Sports](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTl3ZTVZUnRZbWlySUhkV2VJQnM4cjNTaEdDemRLQXFxa1JVQ2k0MUlGR0hHaEplVGRabTA5VF9Dd0I1RHRVQUN2OUs3bV9pbFo4M1djNlJBZGlVbXQ5MjJOTndxZWhrejBBU1g4RldZRWYxalA2SjE0bHhrRkFaNA?oc=5) — Google News: PGA Tour OR LIV Golf · 08:01 PT · #sports #golf
 - [PGA Tour vs. LIV Golf: A Clash of Financial Titans! - Yahoo Sports](https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMW5nYXlTYTZYSWs1R1dteWtCb2d4QVFyNDhNbVdpYnEyZXF5U09tNDNPeHNLbjNfZXEzbl9ITk9RSTNJTFdJVHd5bmpkbU1BVjROVTRESHZ1ZlZ6VWxTVFVraGppcWFLSFlRZGtKR3p6Rzk2U2c?oc=5) — Google News: PGA Tour OR LIV Golf · 08:00 PT · #sports #golf
 - [Ben Kohles bets on himself by going to Japan and closes in on a PGA Tour card - Bozeman Daily Chronicle](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaHIxd2tWS3R0RmRzN2RJNWpwb01MM0U2RlBocXBFTkYyRmJMTmlleGZiRjZUTHNwSkRXY2JsVGo4WVNOVVZCb0hvMWNKVDk5N2ZPTnBaWFkwWTliYXluQ0tYcDJLUEZTQWN6ZnU1Sl9mM3Y5b2FQbll1NUZhVUUzSXM0VmZ1OVM2NEEzamVlek00NXNzYnZEZUtmRHM1UGFqQTgwTFVWU2dkSll1UkFLb1RrVjZfd0RsRkkxNnc4X01ncXR4WU9RSDktUW1FYldZWE1ETlNYbUswRURna2lJck1aT192cllWdlpGbEJ6QnJVWXdFa1ozYjU4aw?oc=5) — Google News: PGA Tour OR LIV Golf · 08:00 PT · #sports #golf
+- [Bryson DeChambeau's Future Path: LIV Golf 2.0 Insights - Yahoo Sports](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclpEZjVXSnZEVzcwaWlFZ0pWam1CUE1NY1dmdUJSdGM3Q01PbWdPVjJCY0NIOFVDaXREZVYzanZvLXVNdTdBMGRmWUxUclh5eGZJaGUyYzFEd3FpRGVVdzA0amp3LTR6TGlLTWtFR3dsUWtvbXJxN3BGUzZMUFpEV3ktaGpqcEFt?oc=5) — Google News: PGA Tour OR LIV Golf · 07:58 PT · #sports #golf
 - [Furyk & Friends PGA Tour Champions event blown away by break in weather - Yahoo Sports](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLV9kdEpubUw0Ty1PSkJfd01WRTJXTGJGbGZpY1J5ZWd6RktPbTU2TllleXNTc1lER05EZVdBNnlrZ2F5TXlyMW80YUM3WkFCcVkzUmZ3N3dQb1ZHZGpnQjg2VzlwaUtkRk5xUmoydGt5ZG0yVV9ZTVgxSEtVLWFxbjBIMmtMaW03?oc=5) — Google News: PGA Tour OR LIV Golf · 07:33 PT · #sports #golf
 - [Austin Lemieux, son of NHL legend, qualifies for first PGA Tour event - Golf Channel](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2oxVk5iSmxDdVhPTTRBR2FfWHNncE9NVjBUQWNwci1CVWRIRnpsbmhTVExhVWZyNUtPTzJhYWNlT0pkQ18tZElGakhodzRBX3FDZHNodHRpNkRiejJoQUNKZDJJekVFUGhrdVlzOVJjczl5aFpJVnNkalBjMzBmVXVXZ0xfMHBuZW4wN2VxR3NSUmIyMWJpTHFJNzEyZW4zRmJ1c2VZVGJNbEgxRnZWNDdoZy0?oc=5) — Google News: PGA Tour OR LIV Golf · 07:33 PT · #sports #golf
 - [Furyks had friends among weather gods; PGA Tour Champions event somehow dodged rain - Daytona Beach News-Journal](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUE0RTlaSjB2RU5DTm96LTlKdnlZR1VnQlprcjBXdVVHcHl5b3A3RWozd1FnWW9EU2ZjeGxLcUdicHJKcEhDNjJ0ZkVJZkxIMTVZa2FXd3NfblZmMlppby03eW9TOFJPR05oYTNzTTdsb0xudEZyaDVfTHdJdXJPWXE2ZHBqNVRHR2tUalhQVkxadklkS016RkZsN0RtOVA5dUg0NEdkRnhzUEIwcXhzMmR3LTR6SDlkNVZOdnJKNA?oc=5) — Google News: PGA Tour OR LIV Golf · 07:33 PT · #sports #golf

@@ -1,16 +1,17 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T13:28:39-07:00
-count: 302
+updated: 2026-10-13T13:31:55-07:00
+count: 303
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-302 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+303 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
+- [US to use Defense Production Act to expand Delek refinery in Texas, Vance says](https://seekingalpha.com/news/4652677-us-to-use-defense-production-act-to-expand-delek-refinery-in-texas-vance-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:28 PT · #markets #oil
 - [Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower](https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html) — PR Newswire M&A · 13:15 PT · #business #markets #oil #realestate $BKD
 - [OPEC Has Cut Oil Demand Growth by 0.2 Million Barrels Six Months Running - The Eastern Herald](https://news.google.com/rss/articles/CBMie0FVX3lxTE5HdVRCM1BscTdTWG9ZWjQtZTZQNFN5aFplUHBCN3l2b2ZmZXU0Ulh2T3hpZHpSMmVnYzFocUlkOHJ4R29ybkxVR2FSc0NFcHdfc3ZxZTNnbVRWZVV2el9jVEJYc2ozSDVfRkRRTVpDRXFzd2trYWV2bFp2cw?oc=5) — Google News: OPEC crude oil · 13:02 PT · #markets #oil
 - [Inhibrx Announces Participation in Upcoming Scientific Conferences](https://www.prnewswire.com/news-releases/inhibrx-announces-participation-in-upcoming-scientific-conferences-302907553.html) — PR Newswire M&A · 13:00 PT · #business #markets #oil $INBX

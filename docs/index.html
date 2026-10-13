@@ -109,15 +109,15 @@ async function mdPage(path){
   sidebars(art);document.title=(fm.title||path)+" · News Tracker";
 }
 // ---- live feed (JSON) with filters + search
-function liveLine(i){const t=[`#${i.category}`,...(i.projects||[]).filter(p=>p!=i.category).map(p=>"#"+p),...(i.tickers||[]).map(x=>"$"+x)].join(" ");
+function liveLine(i){const t=[`#${i.category}`,...(i.flags||[]).map(x=>"#"+x),...(i.projects||[]).filter(p=>p!=i.category).map(p=>"#"+p),...(i.tickers||[]).map(x=>"$"+x)].join(" ");
   return `<li class="${fresh.has(i.id)?"new":""}"><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><span class="src"> — ${esc(i.source)} · ${fT.format(new Date(i.ts*1000))} PT · ${chips(t)}</span></li>`}
 function livePage(){
   const q=$("q").value.trim(),f=window._f||{};
   let arr=q&&ms?ms.search(q).map(r=>items.get(r.id)):[...items.values()].sort((a,b)=>b.ts-a.ts);
-  arr=arr.filter(i=>(!f.category||i.category==f.category)&&(!f.project||(i.projects||[]).includes(f.project))&&(!f.source||i.source==f.source)&&(!f.ticker||(i.tickers||[]).includes(f.ticker)));
+  arr=arr.filter(i=>(f.category?i.category==f.category:(i.category!="filings"||(i.flags||[]).length||f.source||f.ticker))&&(!f.project||(i.projects||[]).includes(f.project))&&(!f.source||i.source==f.source)&&(!f.ticker||(i.tickers||[]).includes(f.ticker)));
   const opt=(k,vals)=>`<select data-k="${k}"><option value="">All ${k=="category"?"categories":k+"s"}</option>${vals.map(([v,l])=>`<option value="${esc(v)}" ${f[k]==v?"selected":""}>${esc(l)}</option>`).join("")}</select>`;
   const srcs=[...new Set([...items.values()].map(i=>i.source))].sort();
-  let html=`<h1>${q?`Search: “${esc(q)}”`:"Live feed"}</h1><div class="meta"><span>${arr.length.toLocaleString()} items</span><span>Last sync ${ST.updated?fT.format(new Date(ST.updated*1000)):"–"} PT</span><a href="index.md" target="_blank">View raw .md</a><a href="llms.txt" target="_blank">llms.txt</a></div>
+  let html=`<h1>${q?`Search: “${esc(q)}”`:"Live feed"}</h1><div class="meta"><span>${arr.length.toLocaleString()} items${!f.category?" (filings hidden except 8-K Item 1.01; pick Filings to see all)":""}</span><span>Last sync ${ST.updated?fT.format(new Date(ST.updated*1000)):"–"} PT</span><a href="index.md" target="_blank">View raw .md</a><a href="llms.txt" target="_blank">llms.txt</a></div>
    <div class="filters">${opt("project",Object.entries(M.projects))}${opt("category",M.categories.map(c=>[c,LBL[c]||c]))}${opt("source",srcs.map(s=>[s,s]))}${opt("ticker",M.tickers.map(t=>[t,"$"+t]))}</div>`;
   let cur=null,ul=[];
   for(const i of arr.slice(0,shown)){const h=q?"Results":fD.format(new Date(i.ts*1000))+" "+fT.format(new Date(i.ts*1000)).slice(0,2)+":00 PT";if(h!=cur){if(ul.length)html+=`<ul>${ul.join("")}</ul>`;ul=[];html+=`<h3>${h}</h3>`;cur=h}ul.push(liveLine(i))}

@@ -25,7 +25,7 @@ UPD = now.isoformat(timespec="seconds")
 def pt(ts, f="%H:%M"): return datetime.fromtimestamp(ts, PT).strftime(f)
 def md_esc(s): return re.sub(r"([\[\]])", r"\\\1", s or "")
 def tags(i):
-    t = [f"#{i['category']}"] + [f"#{p}" for p in i.get("projects", []) if p != i["category"]] + [f"${x}" for x in i.get("tickers", [])]
+    t = [f"#{i['category']}"] + [f"#{f}" for f in i.get("flags", [])] + [f"#{p}" for p in i.get("projects", []) if p != i["category"]] + [f"${x}" for x in i.get("tickers", [])]
     return " ".join(t)
 def line(i, date=False):
     when = pt(i["ts"], "%b %d %H:%M") if date else pt(i["ts"])
@@ -90,7 +90,7 @@ nav = ("## Browse\n\n**Days:** " + " · ".join(f"[{d}](news/{d}.md)" for d in so
        "\n\n**Machine-readable:** [llms.txt](llms.txt) · [llms-full.txt](llms-full.txt) · [latest.json](data/latest.json) · [Atom: all](feeds/all.xml) · [sources](sources/index.md)\n")
 write("index.md", front("News Tracker", min(100, len(items)), ["index"]) +
       f"# News Tracker\n\nLive news aggregator: {len(items)} items from {st['feeds_ok']}/{st['feeds_total']} feeds, last sync {pt(st['updated'],'%Y-%m-%d %H:%M')} PT. Updates about every 10 minutes.\n\n" +
-      nav + "\n## Latest 100\n" + by_hour(items[:100]) + "\n")
+      nav + "\n## Latest 100\n\n(SEC filings excluded except 8-K Item 1.01 material agreements; see [Filings](categories/filings.md).)\n" + by_hour([i for i in items if i["category"] != "filings" or i.get("flags")][:100]) + "\n")
 
 # llms.txt (spec-style index) + llms-full.txt (latest items, flat)
 write("llms.txt", f"# AXIA News Tracker\n\n> Live news aggregator (RSS/Atom only) updated ~every 10 min. All pages are plain Markdown with YAML frontmatter; item lines are `- [Title](url) — Source · HH:MM PT · #category #project $TICKER`.\n\nLast sync: {pt(st['updated'],'%Y-%m-%d %H:%M')} PT · {len(items)} items · {st['feeds_ok']}/{st['feeds_total']} feeds OK\n\n"

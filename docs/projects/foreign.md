@@ -1,6 +1,6 @@
 ---
 title: "Project: Foreign Policy / Defense"
-updated: 2026-10-13T13:28:39-07:00
+updated: 2026-10-13T13:31:55-07:00
 count: 400
 tags: ["project", "foreign"]
 ---
@@ -55,6 +55,7 @@ tags: ["project", "foreign"]
 - [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar) — Crisis Group · 10:58 PT · #world #foreign
 - [Niger Wrestles with the Aftermath of a Military Revolt](https://www.crisisgroup.org/qna/africa/niger/niger-wrestles-aftermath-military-revolt) — Crisis Group · 10:58 PT · #world #foreign
 - [Myanmar Military Steps Up Airstrikes in Rakhine as Ground Offensive Stalls](https://www.crisisgroup.org/anb/asia-pacific/myanmar/myanmar-military-steps-airstrikes-rakhine-ground-offensive-stalls) — Crisis Group · 10:58 PT · #world #foreign
+- [Why advanced U.S. weapons aren’t stopping Houthi attacks in Saudi Arabia - NBC News](https://news.google.com/rss/articles/CBMingFBVV95cUxObUlWVHRLU2g4MU80VGtLUWNCYk9oSDNXeW1kbFV3VEJLWDRwZXFtTEpJNURtZ0JKMl91bG15d0pUQlpya2JaNzRrY1ZybUs5S1JJellKOW9QeEZsYTN5NHlXaldscEVLMlpmZDNOSDNwblFvcEFZZU9XbFZhNDM3Zl9QLThDR0oxVTJmRHVjZ3hwem9ETDEyUjZ3djVEZw?oc=5) — Top stories - Google News · 10:55 PT · #world #foreign
 - [Israel’s IAI unveils 3 new air defense systems at AUSA](https://breakingdefense.com/2026/10/israels-iai-unveils-3-new-air-defense-systems-at-ausa/) — Breaking Defense · 10:52 PT · #world #foreign
 - [Saudi Arabia Drives September Surge in OPEC+ Output Despite Iran War Disruptions - ASHARQ AL-AWSAT English](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW9oWWQ5VlY5WGF5bHpjeGJOa1d5MlBEMXFEdzd4aXVxZWhKeXZqYnlLNUR6RzgtX2RDOTU1Sk1rNEtwX3MyZzl2VzF2MzBld2RmRGlaSmFLa000T25NSUtHX3dndkRsRmhhUkFzQ1VRcmZLYXZOakt4Zl9RcU9LS3VUWnBCb2pCd2tEM1czVU9KUDEzUmF2WE81MDl3N0RNdUJnUWdSZHREQXZoZWVUQUhCQkJlaWN2Q3hrQw?oc=5) — Google News: OPEC crude oil · 10:46 PT · #markets #foreign #oil
 - [US Army targets 2028 for first high-energy laser counter-drone weapons](https://www.defensenews.com/industry/techwatch/2026/10/13/us-army-targets-2028-for-first-high-energy-laser-counter-drone-weapons/) — Defense News · 10:45 PT · #world #foreign
@@ -413,4 +414,3 @@ tags: ["project", "foreign"]
 - [Ghana Wants BRICS: Can This Partnership Finally Deliver Jobs, Growth and Economic Power? - Modern Ghana](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tVEowMWhJcUh0emQtcG90SU1acDdGeTEwMncwVERpSWFUcmFnVTh5aGh5OEZNMzBXX0VnOVlpU2JWblUtR0tHczNNQzcwQ05iVGxBQ0JkazlKZGRV0gFcQVVfeXFMTS1USjAxaElxSHR6ZC1wb3RJTVpwN0Z5MTAydzBURGlJYVRyYWdVOHloaHk4Rk0zMFdfRWc5WWlTYlZuVS1HS0dzM01DNzBDTmJUbEFDQmRrOUpkZFU?oc=5) — Google News: BRICS · 03:59 PT · #world #foreign
 - [Iran proposes BRICS network of photonics laboratories - TV BRICS](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdEtsOGNwb04wU0p4Ty02XzV2ZW9OYUpueFFBcGY0cjFhODNRYzdEUXpDb1BpT2t3NWc5Ry1NY0lpRUxEeVVHcjZOek9JeExMSnZqU3JGdHR2TTVaeEFqcHJ5TF9QMmlwLUJaYmFwemZTdG9uYi1mTmF2Q2FUTzZkaE9wUjhZemxzT1E?oc=5) — Google News: BRICS · 03:53 PT · #world #foreign
 - [Egypt and Malaysia upgrade ties to strategic partnership - TV BRICS](https://news.google.com/rss/articles/CBMijgFBVV95cUxQYm1OTy1uc2pCM1pGX0htVFF1cXNVT1JoZXhTZkt1amtENUVlSno0WDhhbVFuSkYzdWVWS053X2U0NUNsTUlnendCX0I2QmVROUZJT1JGMTBUMGxIVVc5bzlOdnVuYU5WVWY4cklYTlYwN0toQWhuWGdvNi1xS3RRWm1UZG9rMENGWDYtTXBB?oc=5) — Google News: BRICS · 03:53 PT · #world #foreign
-- [Ukraine Struck Yandex Data Centers, Russian Bots Went Silent—Now Questions Are Mounting - UNITED24 Media](https://news.google.com/rss/articles/CBMizgFBVV95cUxOV28zdUQyYUV5NmQ2QmFPMVhZd3cyd1E1ZWh5T2tyZzZjZk9qbG1JLW42Qm1sNjFIZHVjMkVtSEhmWXpfbGdWanZPMkJXYUFPd29kZEcyVi1Gc1JESThOc2RkRWY4VEU4WjZvWXhLT1NFWGZjUnFvNm04SXdkT1JnRUo0eGYzdG85RjBQc0loNEpjTTBYTGNCb2k0ck1lQVFqNy1XYnFqXzU1TnJzQ1dmbTlIbWw4Z3BzTWljVExfdEF6VHNrWHhjTERrT2VYdw?oc=5) — Google News: propaganda OR disinformation media · 03:51 PT · #world #foreign #media

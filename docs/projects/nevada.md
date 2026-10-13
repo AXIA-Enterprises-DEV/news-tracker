@@ -1,13 +1,13 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-13T13:28:39-07:00
-count: 249
+updated: 2026-10-13T13:31:55-07:00
+count: 250
 tags: ["project", "nevada"]
 ---
 
 # Project: Nevada / Las Vegas
 
-249 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
+250 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
 
 ## 2026-10-13
 
@@ -56,6 +56,7 @@ tags: ["project", "nevada"]
 - [Lombardo and Ford are unlikely to debate — what you need to know about the standoff - The Nevada Independent](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdl9GS1IwWnRDWWpPeDl5bTJzeTg0cFBrZFJwVXBBMVFab1k0NkNMZzYtQ0dpRThmaW1TZFRHLW9OcmxyQ2FTa0ExWWZNUUFrMnFpLXoycXVIaDdxWmhIOVIzVnFFLTZVRUFsWEg3M1dpV25BVWJTamNIN19LOUFQV2RHOGQ3cHM5Y044b2NLdVpxMm1iSXhzeVpHSkpXSmFrSlBsWEEyaUVQdGxPX0VpYU9JaUkzYURFMnVmNnBuQQ?oc=5) — Google News: Nevada ballot question · 07:00 PT · #politics #civic #nevada
 - [Indiana death row inmate seeks execution delay for brain scans ahead of clemency hearings - News From The States](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMURhbFZvU0F2a28za0R1d0x6dGpqWmhnTGpJczIwUFFoV24wWVM5NjJqTHFHMklZbVhuTTNYWWUzdEJ0bzh6NzZ1MER0dmNmM0tZRlNIT21lM1U0S0NZdUZsaDgyOElDUmR0clk1dHoxZGltQmJzWFRHYnpFall3MW9HWnBMRGdmZjM5cFBaNUxtLTFIWUlFZGVVZUQyYlVUZWROQlJnaVhjM3pKeHJjSkNBYmJVR2xJOGJxcFQzT01LQQ?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 06:57 PT · #politics #nevada
 - [VOTE NO on Nevada's Question 6. Keep abortion out of the state constitution. - Live Action](https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1gxMm51ZkVja2U0U3ljUUZ2SHJnczZPYXRjT2xKRGNQMl9wQ3p3dEhwY2lUNzE3aDVIVzVWLTg2RGhjMDlzNFJuelBaRzV6U2xUcmRtXzZCODFKSlVYOW1aYi0xZkJlS1BnN1o4ZmtXcTcyemdFOHNvYmdLaFM0cEN3?oc=5) — Google News: Nevada ballot question · 06:50 PT · #politics #civic #nevada
+- [Supreme Court agrees to hear watchdog lawsuit seeking records on Elon Musk’s DOGE - Republican Herald](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUG5lY0FTR0FIT3pZMUUtUGZpUERibDREeUlMVFVaUWUtRVcwVFFXS1locEp6UHc0TzI2WnUyMzVJaVlrNlhSWlJWT2NwV3lVdDFrb0Y3VVVSa0dWY1RwTER1eWp5NTV1eWIxQl9Oay12eEtkNDZyTDNMWm53enBYaGRNX2FnWW9jMFN4LU5TaEZrRzhJNF9r?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 06:49 PT · #politics #civic #nevada
 - [Motorcyclist critical after crash in south Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/motorcyclist-critical-after-crash-in-south-las-vegas-valley-3899458/) — Las Vegas Review-Journal · 06:39 PT · #us #nevada
 - [From Naked City to commercial real estate, Steve Neiger has a front-row seat to Las Vegas’ growth - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMihAJBVV95cUxQNzZHV3NQYTVob3E0dHJQVGdySTNFRUZkWmZNVkVWd1o0TExvSDJHdDJUODBPTy16blpQQlpTYmlwbnB6RHl3UFNpVEhCczVyTTlTamxJZXdaYlBOTTRQSk1xTUxVMExLdjBpUEdONW5DV3FEdTZnRWlyMGhtV0hDYVd0RHpYZjZOLVBwNUN2NDVhRE42OVZuaVM4a1dRNnBMdGRNVWNGdGVSeUpMc0RWc3lEbXh4RVN0QnFVSkt6MUxmZl9lUkJmb0s0c3lEeS12LXAtYl82clp3aUhVTjdSN1pqNlE4ano1MldqUTJaa2dESzFtMWZGbzQ4d0gzSVpfb1hOaQ?oc=5) — Google News: Las Vegas real estate · 06:32 PT · #business #nevada #realestate
 - [From Naked City to commercial real estate, Steve Neiger has a front-row seat to Las Vegas’ growth](https://www.reviewjournal.com/business/vegas-business/c-suite-insider/from-naked-city-to-commercial-real-estate-steve-neiger-has-a-front-row-seat-to-las-vegas-growth-3899454/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada #realestate

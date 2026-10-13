@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T13:28:39-07:00
+updated: 2026-10-13T13:31:55-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,6 +11,7 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.](https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:27 PT · #markets #ai
 - [Rocket One Signs Agreement to Advance Nanomagnetic AI Chip Technology and Device Prototyping](https://www.prnewswire.com/news-releases/rocket-one-signs-agreement-to-advance-nanomagnetic-ai-chip-technology-and-device-prototyping-302907604.html) — PR Newswire M&A · 13:16 PT · #business #ai #markets $RKTO
 - [8-K - Arrive AI Inc. (0001818274) (Filer)](https://www.sec.gov/Archives/edgar/data/1818274/000149315226046827/0001493152-26-046827-index.htm) — SEC EDGAR 8-K · 13:15 PT · #filings #ai #markets
 - [TriNet Expands Embedded HR Solutions and AI Capabilities for Small and Medium-Size Businesses](https://www.prnewswire.com/news-releases/trinet-expands-embedded-hr-solutions-and-ai-capabilities-for-small-and-medium-size-businesses-302907352.html) — PR Newswire M&A · 13:15 PT · #business #ai $TNET
@@ -140,6 +141,7 @@ tags: ["project", "ai"]
 - [Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'](https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774) — www.theregister.com - Articles · 09:30 PT · #tech #ai
 - [New Apple TV 4K Supports Surround Sound via Four HomePods](https://www.macrumors.com/2026/10/13/new-apple-tv-4k-four-homepods-surround-sound/) — MacRumors · 09:29 PT · #tech #ai
 - [Apple HomePod mini 2 vs. Apple HomePod mini: What do you get for the $50 increase?](https://www.engadget.com/2285476/apple-homepod-mini-2-vs-mini-comparison-50-dollar-increase/) — Engadget - Technology News & Expert Reviews · 09:27 PT · #tech #ai
+- [Apple unveils new smart home devices that showcase upgraded Siri AI - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUtPYkZiMFdGTVFibFdLcWMwT0tpYVFGTDEzTzZSNlNEcFJ6ZmJfcmR3SjVkd2tkckFnQ0JRUGpIclZsMkJ1UXdLejhUQ1dtbS1IaV9VTndzWE5JaGZPcjN1ZHZUeG1IZThkNzBWUlV5Mk9CVk5TVVJYdEZGWG9wTWE5UEtkUXNp?oc=5) — Top stories - Google News · 09:25 PT · #world #ai
 - [Will HomeView support third-party apps? Here’s what Apple says](https://9to5mac.com/2026/10/13/will-homeview-support-third-party-apps-heres-what-apple-says/) — 9to5Mac · 09:24 PT · #tech #ai
 - [Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1) — FT Home · 09:22 PT · #business #ai
 - [68% of small business owners are open to AI in payroll, but only 11% trust it to take over - Columbus Telegram](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYU9MUWNIS0R4bjhaaE5RaGh3V3B2ZVVmVFhGTzVhcU5iSHJvdFlOYWRiMmlhTE9hMENDT3JvNTh4bFJEQmt1T2V5OG9Vckc5SzVncUY2ZTkycFFTWDg4MVZmNGpVSnY1MVRqb09UZXkzR0l5ZXB3SmVDNU5WWXVHcC1tZkFub2o3WHpRRlVYQVZ6TmtBMTY1aVNOeV9fYkczRVo1aEw0aVI5ZXJ5bHppd3dFUQ?oc=5) — Google News: small business owners · 09:22 PT · #business #ai #smallbiz
@@ -412,5 +414,3 @@ tags: ["project", "ai"]
 - [Apple and Epic clash over document production in latest App Store court filing](https://9to5mac.com/2026/10/12/apple-and-epic-clash-over-document-production-in-latest-app-store-court-filing/) — 9to5Mac · 14:36 PT · #tech #ai
 - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) — Hacker News 200+ · 14:35 PT · #tech #ai
 - [Samenvatting: L&T Technology Services lanceert EI-lab voor productie en bedrijfsvoering, voorzien van een door NVIDIA versnelde, AI-native fabriek](http://www.businesswire.com/news/home/20261011628412/nl/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 14:31 PT · #business #ai
-- [L&T Technology Services eröffnet das EI Lab für Fertigung und Betrieb mit einer durch NVIDIA beschleunigten, KI-basierten Fabrik](http://www.businesswire.com/news/home/20261011181979/de/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 14:27 PT · #business #ai
-- [Resumen: L&T Technology Services lanza EI Lab para fabricación y operaciones, que incluye la fábrica nativa de IA acelerada de NVIDIA](http://www.businesswire.com/news/home/20261011964043/es/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 14:19 PT · #business #ai

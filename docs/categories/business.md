@@ -1,6 +1,6 @@
 ---
 title: "Category: business"
-updated: 2026-10-13T13:28:39-07:00
+updated: 2026-10-13T13:31:55-07:00
 count: 400
 tags: ["category", "business"]
 ---
@@ -11,6 +11,11 @@ tags: ["category", "business"]
 
 ## 2026-10-13
 
+- [Radiant Logistics Named One of America's Greenest Companies by Newsweek](https://www.prnewswire.com/news-releases/radiant-logistics-named-one-of-americas-greenest-companies-by-newsweek-302907616.html) — PR Newswire M&A · 13:30 PT · #business $RLGT
+- [Hycroft Drills New Best Hole Ever](https://www.prnewswire.com/news-releases/hycroft-drills-new-best-hole-ever-302907556.html) — PR Newswire M&A · 13:30 PT · #business #markets $HYMC
+- [DuPont Announces Regular Quarterly Dividend on Common Stock](https://www.prnewswire.com/news-releases/dupont-announces-regular-quarterly-dividend-on-common-stock-302907612.html) — PR Newswire M&A · 13:30 PT · #business #markets $DD
+- [Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter](https://www.prnewswire.com/news-releases/par-health-issues-voluntary-nationwide-recall-of-argatroban-injection-due-to-the-presence-of-particulate-matter-302907620.html) — PR Newswire M&A · 13:30 PT · #business
+- [High Winds, Dry Conditions Mean PG&E May Need to Proactively Turn Off Power for Safety Wednesday Evening in Portions of Twenty-Nine Counties](https://www.prnewswire.com/news-releases/high-winds-dry-conditions-mean-pge-may-need-to-proactively-turn-off-power-for-safety-wednesday-evening-in-portions-of-twenty-nine-counties-302907621.html) — PR Newswire M&A · 13:30 PT · #business
 - [Miami’s Little Havana confronts housing density’s double edge](https://www.housingwire.com/articles/little-havana-density-housing/) — HousingWire · 13:26 PT · #business #realestate
 - [BIDU Investors Have Opportunity to Lead Baidu, Inc. Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/bidu-investors-have-opportunity-to-lead-baidu-inc-securities-fraud-lawsuit-302907441.html) — PR Newswire M&A · 13:26 PT · #business #markets $BIDU
 - [/C O R R E C T I O N - Viega North America/](https://www.prnewswire.com/news-releases/viega-propress-stainless-and-megapress-stainless-recognized-by-open-compute-project-302902909.html) — PR Newswire M&A · 13:24 PT · #business
@@ -406,8 +411,3 @@ tags: ["category", "business"]
 - [SkyWater and D-Wave Extend Quantum Manufacturing Collaboration Through Multi-Year Agreement](http://www.businesswire.com/news/home/20261013704307/en/SkyWater-and-D-Wave-Extend-Quantum-Manufacturing-Collaboration-Through-Multi-Year-Agreement/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 04:05 PT · #business #markets $QBTS
 - [Is punishing the poor Trump’s last hand to play?](https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms) — Guardian Business · 04:00 PT · #business #civic
 - [Rhode Island Life Science Hub and Cognito Therapeutics Launch Brain Health Collaboratory to Advance Innovation in Alzheimer's Disease](https://www.prnewswire.com/news-releases/rhode-island-life-science-hub-and-cognito-therapeutics-launch-brain-health-collaboratory-to-advance-innovation-in-alzheimers-disease-302901288.html) — PR Newswire Joint Ventures · 04:00 PT · #business
-- [Upbound Group, Inc. Announces Timing of Third Quarter 2026 Financial Results](http://www.businesswire.com/news/home/20261013615925/en/Upbound-Group-Inc.-Announces-Timing-of-Third-Quarter-2026-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 04:00 PT · #business #markets $UPBD
-- [Quantum XChange CEO to Lead Post-Quantum Cryptography Panel at ACT-IAC 2026 Cyber Summit](http://www.businesswire.com/news/home/20261013670628/en/Quantum-XChange-CEO-to-Lead-Post-Quantum-Cryptography-Panel-at-ACT-IAC-2026-Cyber-Summit/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 04:00 PT · #business
-- [Intruder Report: 90% of Security and Engineering Leaders Declare the Annual Pentest Dead as Code Ships Daily](http://www.businesswire.com/news/home/20261013139678/en/Intruder-Report-90-of-Security-and-Engineering-Leaders-Declare-the-Annual-Pentest-Dead-as-Code-Ships-Daily/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 04:00 PT · #business #ai
-- [Jake A. Geckler Announces Growing Las Vegas Luxury Relocation Interest Amid West Coast Tax Pressure - FinancialContent](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcEJwVC10LVlUN0hkb0ZHUXV5b0UzNUw3a0pQU0o2UjREZ01ZR2pZT3ZyX2JrQlJlZGtfT09xN0JNRmVKR3diWV9vMkpvcmlqWGd0ZkZOM3BwY0Q2NXdXQk1yNGlXY25xM0lQMFRqc1A4eUtNcmkzZjBlem5BLXExYk90ZGQ0bjREV3BLMU02cVNZSFh0b2JnQlZNTXpyU1RrSFVwSHRzc0pjSC1sYW5tbjJFNkRSVHdxUEVhX1AtY2RqLVYzQlJsSFFyaWNaN2VvYUpab2hKcVNxVEhaUXZqbnN3Y1dGdlQ0bkdFMVdlQVpDamhOOWVCRw?oc=5) — Google News: Las Vegas real estate · 03:59 PT · #business #nevada #realestate
-- [Why the Mitchells sold the builder but kept the land platform](https://www.housingwire.com/articles/mitchells-sell-builder-keep-land/) — HousingWire · 03:55 PT · #business #realestate

@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $YFOR"
-updated: 2026-10-13T13:28:39-07:00
+updated: 2026-10-13T13:31:55-07:00
 count: 1
 tags: ["ticker", "YFOR"]
 ---

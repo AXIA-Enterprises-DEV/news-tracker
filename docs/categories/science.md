@@ -1,16 +1,17 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T13:28:39-07:00
-count: 380
+updated: 2026-10-13T13:31:55-07:00
+count: 381
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-380 most recent items (14-day window).
+381 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Quantum physicists trace a century of controlling spin](https://phys.org/news/2026-10-quantum-physicists-century.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
 - [New electrochemical sensor could make food quality testing faster and less expensive](https://phys.org/news/2026-10-electrochemical-sensor-food-quality-faster.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
 - [Want more women CEOs? Start with company structure, research finds](https://phys.org/news/2026-10-women-ceos-company.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
 - [New carbon calculator helps research labs pinpoint emissions and target reductions](https://phys.org/news/2026-10-carbon-labs-emissions-reductions.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science

@@ -1,13 +1,13 @@
 ---
 title: "Project: Golf"
-updated: 2026-10-13T13:28:39-07:00
-count: 170
+updated: 2026-10-13T13:31:55-07:00
+count: 172
 tags: ["project", "golf"]
 ---
 
 # Project: Golf
 
-170 most recent items (14-day window). Atom feed: [golf.xml](../feeds/golf.xml)
+172 most recent items (14-day window). Atom feed: [golf.xml](../feeds/golf.xml)
 
 ## 2026-10-13
 
@@ -16,6 +16,7 @@ tags: ["project", "golf"]
 - [LIV Golf players face another deadline with their future in golf at stake - Bryan Times](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM0I4d2poaFZndUhHb1hyc0UyOGpMNno2OHRZOE9ma3RMM2hNaTJmSkhVTnM1SGUzVVVlXy1rTUpZazRSRlByMnhKU0cxTGg3Mm9Yd0pqZ2xNY2IycXNSRTVnTTBRMGFweXEzbkhaSG5OUjh1dkZIMjQtV2xwMzZSVnY5VnNRZ3NrakdXVDgxNHREWVlfelNzMzJ4cDVYbXAyYVJSYmRkQzEwZExtaDNVNFJPaEVpa0ltUURqMjdEb1RZX2xBZE9QbGNwaXNyczg3SGtFS2otVEtYTm1WSkhrbHBoR0M1ZnpWNTJXWHJPOTVLMkM3d0NfYVhoUQ?oc=5) — Google News: PGA Tour OR LIV Golf · 13:07 PT · #sports #golf
 - [Alabama High Court ends Gulf Shores' appeal in Baldwin commissioner's golf cart case - mynbc15.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdFBQcmctYnhFY3ZtWVZ3dl94Zkg5eEVJX09fbzhXR0g1b2pWeUJCcGxFb1VVbVY3bGZqS3p0UjBXajdaTE9qUDB1V1JvY0dsSFVIZUV3SVk0ZlU3a0lTRDhmSGdublZKdk53VkJyaHhHOExGa0VSYnFBM2VZa3BpS2ZhUmpkX1g5RUt3Q3d0Y0RsYmZLWlpReHp2VFVtVlVQQktMYWUxOFlvdkNuRkk4RE53WQ?oc=5) — Google News: "Supreme Court" ruling · 12:38 PT · #politics #civic #golf
 - [A judge blocks the government's tree-clearing spree at a municipal D.C. golf course](https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge) — NPR Politics · 12:38 PT · #politics #golf
+- [A judge blocks the government's tree-clearing spree at a municipal D.C. golf course - NPR](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHp1YkxWcmxMeGNXWVpUUG9XeGpqUllSblBRZC14TXI0bHduM004R3dQcG4wXy1wVlhQYkNVUTR6bWJ0WXNtc2pJX3Y1N3M5Q0dQOC16d0hWanQ4akdzTWg2Q2pnaGVoM1hvVExhNXJLT3VGWHNIWjNlTlhtZERjMVVmeVVCRk9zemhmeUoySjUtOHc?oc=5) — Top stories - Google News · 12:38 PT · #world #golf
 - [Rory McIlroy admits he’s lost friends over LIV Golf furore after siding with Tiger Woods - talkSPORT](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXdab3gyRmpOTXpENUJDWHJyWmtSNFZyVUxESGNfaS1kcER5VWUzMUplamRxcFRfR05PeGE0OWxSV0xPUXJwaklfUnNSd0J5cUM5bHR2RWJPMGpTQ0o4cEp6ZTJMaUotTUd0VXZyWWJZNjdnbzNaRldjdnJaaldZaXpCUQ?oc=5) — Google News: PGA Tour OR LIV Golf · 12:31 PT · #sports #golf
 - [PGA Tour vs. LIV Golf: A Clash of Financial Titans! - SportsGrid](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnhGYWxlb2pwY2ZhTm9XOS1GQTZYX0dlWm9wTkRrYmJsZFo2UENCVXpxdkdxNTg2Nko1dlRLdXpGUTlEVFFMMTZCdWZUNlJZSnJQM0VrTWQ5VWVnSjVWUUE1RXF1a3MyS1BtZ0hzNDlqM3VlamVBN1k4YW1IWXgzUmxfOUxudkswcTE3akpqWQ?oc=5) — Google News: PGA Tour OR LIV Golf · 12:06 PT · #sports #golf
 - [Rory McIlroy Rips LIV Golf Over Money ‘Wasted’ on Rich Tour Pros - Yahoo Sports](https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3d6YWVuMXQxQXkyMjFGSGlzQkppZ2pGTC1DRVhBSTNtb2NTUnlSck9sM0p4M2ZGeExQQmpMZktEeXBiSFVNLXdMbE50dTJQOVNySVRDcEN5N0pTSXVzNHkzU191clhPYnYwblFVWlRwWDMtZ3JTejNSd1JRTzJCRg?oc=5) — Google News: PGA Tour OR LIV Golf · 12:02 PT · #sports #golf
@@ -75,6 +76,7 @@ tags: ["project", "golf"]
 - [How did Furyk & Friends fare in new PGA Tour Champions site? - Yahoo Sports](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTl3ZTVZUnRZbWlySUhkV2VJQnM4cjNTaEdDemRLQXFxa1JVQ2k0MUlGR0hHaEplVGRabTA5VF9Dd0I1RHRVQUN2OUs3bV9pbFo4M1djNlJBZGlVbXQ5MjJOTndxZWhrejBBU1g4RldZRWYxalA2SjE0bHhrRkFaNA?oc=5) — Google News: PGA Tour OR LIV Golf · 08:01 PT · #sports #golf
 - [PGA Tour vs. LIV Golf: A Clash of Financial Titans! - Yahoo Sports](https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMW5nYXlTYTZYSWs1R1dteWtCb2d4QVFyNDhNbVdpYnEyZXF5U09tNDNPeHNLbjNfZXEzbl9ITk9RSTNJTFdJVHd5bmpkbU1BVjROVTRESHZ1ZlZ6VWxTVFVraGppcWFLSFlRZGtKR3p6Rzk2U2c?oc=5) — Google News: PGA Tour OR LIV Golf · 08:00 PT · #sports #golf
 - [Ben Kohles bets on himself by going to Japan and closes in on a PGA Tour card - Bozeman Daily Chronicle](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaHIxd2tWS3R0RmRzN2RJNWpwb01MM0U2RlBocXBFTkYyRmJMTmlleGZiRjZUTHNwSkRXY2JsVGo4WVNOVVZCb0hvMWNKVDk5N2ZPTnBaWFkwWTliYXluQ0tYcDJLUEZTQWN6ZnU1Sl9mM3Y5b2FQbll1NUZhVUUzSXM0VmZ1OVM2NEEzamVlek00NXNzYnZEZUtmRHM1UGFqQTgwTFVWU2dkSll1UkFLb1RrVjZfd0RsRkkxNnc4X01ncXR4WU9RSDktUW1FYldZWE1ETlNYbUswRURna2lJck1aT192cllWdlpGbEJ6QnJVWXdFa1ozYjU4aw?oc=5) — Google News: PGA Tour OR LIV Golf · 08:00 PT · #sports #golf
+- [Bryson DeChambeau's Future Path: LIV Golf 2.0 Insights - Yahoo Sports](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclpEZjVXSnZEVzcwaWlFZ0pWam1CUE1NY1dmdUJSdGM3Q01PbWdPVjJCY0NIOFVDaXREZVYzanZvLXVNdTdBMGRmWUxUclh5eGZJaGUyYzFEd3FpRGVVdzA0amp3LTR6TGlLTWtFR3dsUWtvbXJxN3BGUzZMUFpEV3ktaGpqcEFt?oc=5) — Google News: PGA Tour OR LIV Golf · 07:58 PT · #sports #golf
 - [Furyk & Friends PGA Tour Champions event blown away by break in weather - Yahoo Sports](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLV9kdEpubUw0Ty1PSkJfd01WRTJXTGJGbGZpY1J5ZWd6RktPbTU2TllleXNTc1lER05EZVdBNnlrZ2F5TXlyMW80YUM3WkFCcVkzUmZ3N3dQb1ZHZGpnQjg2VzlwaUtkRk5xUmoydGt5ZG0yVV9ZTVgxSEtVLWFxbjBIMmtMaW03?oc=5) — Google News: PGA Tour OR LIV Golf · 07:33 PT · #sports #golf
 - [Austin Lemieux, son of NHL legend, qualifies for first PGA Tour event - Golf Channel](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2oxVk5iSmxDdVhPTTRBR2FfWHNncE9NVjBUQWNwci1CVWRIRnpsbmhTVExhVWZyNUtPTzJhYWNlT0pkQ18tZElGakhodzRBX3FDZHNodHRpNkRiejJoQUNKZDJJekVFUGhrdVlzOVJjczl5aFpJVnNkalBjMzBmVXVXZ0xfMHBuZW4wN2VxR3NSUmIyMWJpTHFJNzEyZW4zRmJ1c2VZVGJNbEgxRnZWNDdoZy0?oc=5) — Google News: PGA Tour OR LIV Golf · 07:33 PT · #sports #golf
 - [Furyks had friends among weather gods; PGA Tour Champions event somehow dodged rain - Daytona Beach News-Journal](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUE0RTlaSjB2RU5DTm96LTlKdnlZR1VnQlprcjBXdVVHcHl5b3A3RWozd1FnWW9EU2ZjeGxLcUdicHJKcEhDNjJ0ZkVJZkxIMTVZa2FXd3NfblZmMlppby03eW9TOFJPR05oYTNzTTdsb0xudEZyaDVfTHdJdXJPWXE2ZHBqNVRHR2tUalhQVkxadklkS016RkZsN0RtOVA5dUg0NEdkRnhzUEIwcXhzMmR3LTR6SDlkNVZOdnJKNA?oc=5) — Google News: PGA Tour OR LIV Golf · 07:33 PT · #sports #golf
