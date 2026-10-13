@@ -1,16 +1,18 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T13:47:54-07:00
-count: 383
+updated: 2026-10-13T13:58:27-07:00
+count: 385
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-383 most recent items (14-day window).
+385 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Humans and songbirds hear the same sounds, but organize them differently](https://phys.org/news/2026-10-humans-songbirds-differently.html) — Phys.org - latest science and technology news stories · 13:50 PT · #science
+- [NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer](https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/) — NASA · 13:41 PT · #science
 - [Sequence changes help modified mRNA avoid protein-making errors to improve vaccine design](https://phys.org/news/2026-10-sequence-mrna-protein-errors-vaccine.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
 - [Researchers uncover multiple genetic paths that lead to mottled feathers in chickens](https://phys.org/news/2026-10-uncover-multiple-genetic-paths-mottled.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
 - [Quantum physicists trace a century of controlling spin](https://phys.org/news/2026-10-quantum-physicists-century.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science

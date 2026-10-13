@@ -1,6 +1,6 @@
 ---
 title: "Category: markets"
-updated: 2026-10-13T13:47:54-07:00
+updated: 2026-10-13T13:58:27-07:00
 count: 400
 tags: ["category", "markets"]
 ---
@@ -11,6 +11,10 @@ tags: ["category", "markets"]
 
 ## 2026-10-13
 
+- [Ripple Teams With Stripe-Owned Privy to Bring Wallet Tech to XRP Ledger](https://news.bitcoin.com/technology/ripple-teams-stripe-owned-privy-wallet-tech-xrp-ledger/) — Bitcoin News · 13:55 PT · #markets #ai
+- [How PSLF Buyback Amounts Are Calculated](https://thecollegeinvestor.com/66898/how-pslf-buyback-amounts-are-calculated/) — The College Investor · 13:53 PT · #markets
+- [SAIC names Kenneth Crews as new CFO](https://seekingalpha.com/news/4652689-saic-names-kenneth-crews-as-new-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:51 PT · #markets
+- [Applied Materials retreats 7% as losing streak reaches six sessions](https://seekingalpha.com/news/4652681-applied-materials-retreats-7-as-losing-streak-reaches-six-sessions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:50 PT · #markets
 - [Johnson & Johnson raises 2026 sales outlook to 6.7%-7.1% while projecting $100.7B midpoint revenue](https://seekingalpha.com/news/4652697-johnson-and-johnson-raises-2026-sales-outlook-to-6_7-percentminus-7_1-percent-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:43 PT · #markets
 - [Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds](https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html) — CNBC Top News · 13:42 PT · #markets #fed
 - [B&G Foods sells more assets as looks to simplify the portfolio](https://seekingalpha.com/news/4652690-bg-foods-sells-more-assets-as-looks-to-simplify-the-portfolio?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:42 PT · #markets
@@ -21,6 +25,7 @@ tags: ["category", "markets"]
 - [Six Flags’ stock slumps near 17-year low after fatal incident](https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:41 PT · #markets
 - [PBF Energy climbs 7% amid broad refining sector rally](https://seekingalpha.com/news/4652678-pbf-energy-climbs-7-percent-amid-broad-refining-sector-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:40 PT · #markets
 - [Stocks making big moves after hours: BAC, KNDI, C](https://seekingalpha.com/news/4652693-stocks-making-big-moves-after-hours-bac-kndi-c?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:40 PT · #markets
+- [UK Judge Says Chinese Law Applies to Claims Over £4B Bitcoin Fraud](https://cryptopotato.com/uk-judge-says-chinese-law-applies-to-claims-over-4b-bitcoin-fraud/) — CryptoPotato · 13:40 PT · #markets
 - [Fed’s Collins signals further rate hikes likely as inflation risks persist](https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534) — Investing.com Stock Market · 13:40 PT · #markets #fed
 - [AT&T to sell Mexico unit for $2 billion](https://www.investing.com/news/stock-market-news/att-to-sell-mexico-unit-for-2-billion-4947508) — Investing.com Stock Market · 13:36 PT · #markets
 - [Am I Moneymaxxing? Plus, More October Money Questions](https://www.nerdwallet.com/finance/news/top-october-money-questions) — NerdWallet · 13:35 PT · #markets
@@ -406,8 +411,3 @@ tags: ["category", "markets"]
 - [Romania inflation rises to 6.6% in September on fuel costs](https://www.investing.com/news/economic-indicators/romania-inflation-rises-to-66-in-september-on-fuel-costs-93CH-4946383) — Investing.com Economic Indicators · 04:37 PT · #markets #fed
 - [10 Cryptos to Buy Under $1 in October 2026](https://zebpay.com/blog/10-cryptos-to-buy-under-one-dollar-in-2026) — ZebPay · 04:34 PT · #markets
 - [Meta представила ИИ-модели Muse Wonder и Muse Wonder Full для автономного выполнения сложных задач](https://incrypted.com/meta-predstavyla-yy-modely-muse-wonder-y-muse-wonder-full-dlja-avtonomnogo-vypolnenyja-slozhnyh-zadach/) — INCRYPTED · 04:34 PT · #markets
-- [A $377M Bitcoin Whale Wakes up While Another Dumps BTC for Ether](https://news.bitcoin.com/crypto-news/bitcoin-whale-wakes-377m-another-swaps-btc-for-eth/) — Bitcoin News · 04:30 PT · #markets
-- [Japan to Compensate Oil Importers for High Shipping Costs](https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Compensate-Oil-Importers-for-High-Shipping-Costs.html) — OilPrice.com · 04:30 PT · #markets #oil
-- [The Key Catalyst That Could Unlock Bitcoin’s Next Rally: Analyst](https://cryptopotato.com/the-key-catalyst-that-could-unlock-bitcoins-next-rally-analyst/) — CryptoPotato · 04:26 PT · #markets
-- [XRP News: Evernorth’s Listing Exposes a $677M Gap](https://cryptonews.com/news/evernorth-xrp-news-valuation-gap/) — News - Cryptonews · 04:25 PT · #markets
-- [ENS seeks DAO approval to activate upgraded Ethereum naming system](https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 04:11 PT · #markets

@@ -1,17 +1,20 @@
 ---
 title: "Category: sports"
-updated: 2026-10-13T13:47:54-07:00
-count: 159
+updated: 2026-10-13T13:58:27-07:00
+count: 163
 tags: ["category", "sports"]
 ---
 
 # Category: sports
 
-159 most recent items (14-day window).
+163 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Rory McIlroy would welcome LIV Golf members back to the PGA Tour, though still with conditions - Yahoo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSnZCSUpZOXE0YnJBVFVnQ0RzU01OU3cyem1aUTdMbUF4eU9FSVNVM19RZklBR2hvTzdHX01YMGtyakE3Q2hfbkZjZVN0ZVNJUE9zeHBxLVpIbklFUTl6clN2RXdZZlZ1TTJfRVF5UWwtakV5ODA4R3JPajU2LUI0Vjh2UXYtb2stUjRMSDVIUWp4bW1yWDNSQjZBeVZ1cDg4LU1pSjZSVG1FbTdYbUktc3p1NHNvdjdxQjk1YjlORXhlbXh1c0hudGZ1M3UySkpUbjNzcXBHN3I?oc=5) — Google News: PGA Tour OR LIV Golf · 13:51 PT · #sports #golf
 - [Rory McIlroy's newest sponsorship includes an insane travel perk](https://golf.com/news/rory-mcilroy-new-sponsorship-insane-travel-perk/) — Golf.com · 13:37 PT · #sports #golf
+- [Rory McIlroy contends LIV 'wasted' its money and says he'd vote 'yes' on bringing LIV players back into PGA Tour fold - Golf Digest](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWtySTVoNmtHY0M4WnNmWW9tTDRjN09TdE9QNkpPMjdXcHpqNWV3SHJHR2FsT3I1cXFKdktObFB5b21aUXpzcmViZV9lN2FvSThNeWpQZHRqU2xpdWpicEctYmlvaEJDZktiaHlONUlKdEZpdkhlT0F3TWNhQm5MM1hRN2NONzQxbTRNb1h1OTVqM1hDOXp6eQ?oc=5) — Google News: PGA Tour OR LIV Golf · 13:35 PT · #sports #golf
+- [Rory McIlroy Reveals The Truth About Jon Rahm Post-LIV - Yahoo Sports](https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUI4bnRGZ2NjLUlPQkdKallNejViMlpMeE5IS0tZN2ItSEt2TGcwVl9UM0U2VzBQZHdCZmZtd0hRUE9OOHlDQURsUXZOcFNvMk1yQUR2SUJNZ1hTZThpZ3Q5VTdIaklPVUVFTXkwc25Kam1FZWY0SE1LTDVOY0YtZk1rU1pPZw?oc=5) — Google News: PGA Tour OR LIV Golf · 13:30 PT · #sports #golf
 - [McIlroy says he would vote for LIV Golf stars to be welcomed back to DP World Tour - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVhDckJRbEhpdlRqQS1fTmtjbzMtTDZTd2w0bXFTajNSd25DUmlhZFNWeFRQdWhhUmJlUUtxQ2NXYXFXbm9SYkMxVlRvTUxrSmlVUVhaQzRoR0d1ZFloWUpoNnFLbG1KQ0t6czQzQU15WUVQYmdxc0w0bXhqWGE3bFZJWFNRNTVPY3Utd0NtWW5FYkVpOEJjalI4VW1XUmc?oc=5) — Google News: PGA Tour OR LIV Golf · 13:19 PT · #sports #golf
 - [JumboMax Golf Grips Celebrates Ambassador Ian Gilligan Earning PGA Tour Card - The Golf Wire](https://news.google.com/rss/articles/CBMibEFVX3lxTE1NNnFXelk5TXdfSjNuLWJFd2xmRmQtZXRDdFFmamd2bGlvR1RBVlZTQWh4WUVkVG1CT19JT0F5RDVqLXNVWXNRaDNIejdjWFVDR2d4LVY4dG1oc0UyNUpoa1Q4THQ2QmdpSXhYSA?oc=5) — Google News: PGA Tour OR LIV Golf · 13:17 PT · #sports #golf
 - [LIV Golf players face another deadline with their future in golf at stake - Bryan Times](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM0I4d2poaFZndUhHb1hyc0UyOGpMNno2OHRZOE9ma3RMM2hNaTJmSkhVTnM1SGUzVVVlXy1rTUpZazRSRlByMnhKU0cxTGg3Mm9Yd0pqZ2xNY2IycXNSRTVnTTBRMGFweXEzbkhaSG5OUjh1dkZIMjQtV2xwMzZSVnY5VnNRZ3NrakdXVDgxNHREWVlfelNzMzJ4cDVYbXAyYVJSYmRkQzEwZExtaDNVNFJPaEVpa0ltUURqMjdEb1RZX2xBZE9QbGNwaXNyczg3SGtFS2otVEtYTm1WSkhrbHBoR0M1ZnpWNTJXWHJPOTVLMkM3d0NfYVhoUQ?oc=5) — Google News: PGA Tour OR LIV Golf · 13:07 PT · #sports #golf
@@ -73,6 +76,7 @@ tags: ["category", "sports"]
 - [Austin Lemieux, son of NHL legend, qualifies for first PGA Tour event - Golf Channel](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2oxVk5iSmxDdVhPTTRBR2FfWHNncE9NVjBUQWNwci1CVWRIRnpsbmhTVExhVWZyNUtPTzJhYWNlT0pkQ18tZElGakhodzRBX3FDZHNodHRpNkRiejJoQUNKZDJJekVFUGhrdVlzOVJjczl5aFpJVnNkalBjMzBmVXVXZ0xfMHBuZW4wN2VxR3NSUmIyMWJpTHFJNzEyZW4zRmJ1c2VZVGJNbEgxRnZWNDdoZy0?oc=5) — Google News: PGA Tour OR LIV Golf · 07:33 PT · #sports #golf
 - [Furyks had friends among weather gods; PGA Tour Champions event somehow dodged rain - Daytona Beach News-Journal](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUE0RTlaSjB2RU5DTm96LTlKdnlZR1VnQlprcjBXdVVHcHl5b3A3RWozd1FnWW9EU2ZjeGxLcUdicHJKcEhDNjJ0ZkVJZkxIMTVZa2FXd3NfblZmMlppby03eW9TOFJPR05oYTNzTTdsb0xudEZyaDVfTHdJdXJPWXE2ZHBqNVRHR2tUalhQVkxadklkS016RkZsN0RtOVA5dUg0NEdkRnhzUEIwcXhzMmR3LTR6SDlkNVZOdnJKNA?oc=5) — Google News: PGA Tour OR LIV Golf · 07:33 PT · #sports #golf
 - [Austin Lemieux, son of NHL legend, qualifies for first PGA Tour event - Yahoo Sports](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGpVOGZzRkdvUkxtTFRiTnFjNkZ5M0dVNF94bjZ2VG9aNDMtY1FhQ3FnLXdiVFJsdC1LOWNYajNjRDFWUDViWWtMcTJkNXptRmgyUXdTcGpacHR5OUV1WGF3Z0xMcWhoNVlVc2tQVkVaQUdiTXEtYWFHX2tvRlZYcEE2Y3dhb2t2RE5qdQ?oc=5) — Google News: PGA Tour OR LIV Golf · 07:29 PT · #sports #golf
+- [LIV Golf players face another deadline with their future in golf at stake - Alton Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTk1WXhSbzgzaE83LW5qNEZIN3NjQmY5NHhSeFJRbmVyTDFCM3h5ZkdlQlNlcFAzTmVKcWtDUkh0QkctLVY4VzZsRXRDRWNaZG5CWkVTa1hudHN2VWpxNjJweWxGUGpFZl83SjdwSWVQS1NHREZ0ejFYVWViZzFLV3hsNEdLMG4tR0FMZjJoS1dVTFVjUTBsalREMndaeW1NM0VUMzQxWjdwZw?oc=5) — Google News: PGA Tour OR LIV Golf · 07:02 PT · #sports #golf
 - [McIlroy Says ‘Very Difficult’ for LIV Golf to Survive Bankruptcy - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkNoU1g2SmZpNkp3NmlENE54dmV0Ylg4RGxBT3ltcHFKdkpwQWRMVW1yel9FYTJldmpsUnRrejJfLTRiYjhqZ1g4TUFGNEtJUGktd0Vpc0VvQzJ3UGpqTEhXOWlhSVZsZVcwVVFRdWMxVzdGRUpQb21CaWNnQjk3Z2M3WktrVnBmNDAySG9OYmRxVVNMVEllNk5WdXdPQm9SVktlMVA4dXU2RWhsLVhuVHNZTQ?oc=5) — Google News: PGA Tour OR LIV Golf · 06:54 PT · #sports #golf
 - [LIV Golf players face another deadline with their future in golf at stake - theScore](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnSElqLUhpMGx6eU9IOGVIT3JUUmF6ZTJOcXJLanNOSmtfT19OaVVQcmR0TTRQakx4anAwRUVIZWV4dmdmR3otYjU1S1VvZw?oc=5) — Google News: PGA Tour OR LIV Golf · 06:51 PT · #sports #golf
 - [The 10 DP World Tour players leading the race for PGA Tour cards - bunkered.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcG1VRUFReXJ4WnhBSXlLMmRSZFhOUHBUaTYyNTZHNXZYbXFNbkpEdHpNVDlzVDlJUGYwdmtPT0JvMXJWRWI3VWVYQkZtTUZwU0k0YlRqWnJxanJfZWdkQ3hXY0xRUEJpMDd2NTBCUHk4dVNKYk4yWEV6aVRtY0JrU19XVHZkV0xaeVprMS1GeXF2dzN3LVlQNU1yR2M?oc=5) — Google News: PGA Tour OR LIV Golf · 06:50 PT · #sports #golf

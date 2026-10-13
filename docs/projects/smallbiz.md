@@ -1,16 +1,19 @@
 ---
 title: "Project: Entrepreneurship / Small Business"
-updated: 2026-10-13T13:47:54-07:00
-count: 277
+updated: 2026-10-13T13:58:27-07:00
+count: 281
 tags: ["project", "smallbiz"]
 ---
 
 # Project: Entrepreneurship / Small Business
 
-277 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
+281 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
 
 ## 2026-10-13
 
+- [Small business optimism falls, hit by inflation, low labor quality: NFIB - CFO Dive](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEtKc2ozcDBWWXNCY1V0TkdITFNyX0dGTDh1Wk1VRHBHa3ZWSTdURFdxVXJoc0w3cmlWLU5vMVVQWHQ0aW94bXpHR2k0U3ozQk14YlpNNDJkOHFJeWJ2Ym9QbHRoZjRRNUNhWGV1dVgzY3RCZ3Y0ZkhUWl9mSmZ3SmhrN1BsdkV4OWF4WldnbW8zTTVfbk5aemozVklMTEZOdi1KT0FIR1RXYkFpS2FDN3ZHODZPVjFFZTNXbWJR?oc=5) — Google News: small business owners · 13:56 PT · #business #fed #smallbiz
+- [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - WKEF](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUEFzUzF0SGZjTkViMXFCX1dtN0t3RFZndVNneVkzNDVaVzlVMzBtcmVTM2lsT2FVb1BuMDVVQWJlUGVWN3FBaVlLbHlleHRRWGhabVhsQzRmcUlFQ1JrQTZ4NEtOV3NmdlkwcmVxYzV6YThsVUNXb2lJdmh0S0dxMWwxaWJXbmZhLWZhazJNMU9WOWlsYkpuT0gyYUNCQ0ttNFZqU29jRTBKWGNLZEZ0QVJZeDlDWEtPdk43NG44VGdmZTZnc0ZYRUpzZGY?oc=5) — Google News: small business owners · 13:55 PT · #business #smallbiz
+- [Canadian cannabis company Organigram enters fight for Aurora](https://mjbizdaily.com/canadian-cannabis-company-organigram-enters-fight-for-aurora/618604/) — MJBizDaily · 13:48 PT · #business #cannabis #smallbiz
 - [Why do you think people have such a hard time taking responsibility](https://www.youtube.com/shorts/g90_AFrW7Y8) — GaryVee · 13:15 PT · #tech #smallbiz
 - [Galaxy Schedules Webcast and Investor Call to Review Third Quarter 2026 Results on October 27, 2026](https://www.prnewswire.com/news-releases/galaxy-schedules-webcast-and-investor-call-to-review-third-quarter-2026-results-on-october-27-2026-302907582.html) — PR Newswire M&A · 13:15 PT · #business #markets #smallbiz $GLXY
 - [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/) — TechCrunch · 13:13 PT · #tech #smallbiz
@@ -224,6 +227,7 @@ tags: ["project", "smallbiz"]
 - [https://komonews.com/news/local/canda-trade-tensions-united-states-blaine-washington-econo - 13WHAM-TV](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLUVVUFg5SEFrRVJCN2gzc1VzaEowYzR6X1JIS0FGNzN5UFJzQ3FnNjN3cmhHVXE0and6dFhQRjdpalJvMGt1X093UF9SbGdvS181Yml4MnJRM0xhWEIxRTAzRUFIUFE3WW5nTm5wRm1Da01zME9kM2pDQUdvV1BkVTNPckdWQ0o5M2JKVnE1Qm5IYXhEOVJpZ3dodGRsNXJ4ZUpTU1I5WEhoSW9DejJPVXgtemRDdmFVV0t2MUYzVDN0TDJySUg5Z2V0UV9EM1RlTVdQVlJkOUp1MlJiR1AzU0FCQW5hTEk4MkNqSlMtbVpDNlRpWE5tdWJIRi1DWkpjeHljVHlyUGhVRFk?oc=5) — Google News: small business owners · 00:00 PT · #business #smallbiz
 - [https://komonews.com/news/local/canda-trade-tensions-united-states-blaine-washington-econo - WJLA](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPYnZlbUNzMXFUMXdFLWlxdnN6SnFscGZCVUszVW5Pc0llWmNIdXpOZkpVUHlDMDRQY0pFSFFuek56V2szTkNPQ2lPZk53UUViUHpJVDNzYXpGTm1icTFyZUxHZzB3dG91a2VaX2I4Rld0dWN4WnRWUV94MmJvVGl2TTkya1ZCUlFET0U0c1RnUlN3TmdlR0lxNE5LUEtQNnpyV3VwRnNOdFhRZ0VfUlBITm5tQzFRcFNZOEhBcGhUeFNQdTFjcjFDRk0xSWk4ZzRoNGp1TU1TZEVNd0p6R0g3OEM5d01WVlVuSXJzczdwbkVDdW8tbWhjSjI0WXVSaXJkOWg5RndsTUo?oc=5) — Google News: small business owners · 00:00 PT · #business #smallbiz
 - [https://komonews.com/news/local/canda-trade-tensions-united-states-blaine-washington-econo - WSTM](https://news.google.com/rss/articles/CBMikAJBVV95cUxNejEwSTJKSGZEMzN2aWxIZmpOSWVSdk91VHJfOUMwdU9tUFI0NVgxTWliTFltbWxKMm9KSXRUMXJzWE9JbGQ3MF9FUV9CUWxEem5FSzFPbXRRSVluNnlrWC1WWGMzN0YxdnBnNEpucmtTcUU5bnJTR0hVQmRaeUEwQTFydVNGZVMyU3RzMGx1UHpDU3dmN01BU0JHRXQwYVp0Ml9odFVhUGdwTFY0Q3RnU2JZTndTMVNkaFlmNTcycWx3U19DTHloaUprclBSSU9mQkxQcGNSRENCNURGSk9mLUpHR01uc1ZnUmRUY2swVjc5OFJ6eHJfWmFWZFZRX2ItaVNLLU5nbU1veDVUeG4yUg?oc=5) — Google News: small business owners · 00:00 PT · #business #smallbiz
+- [https://komonews.com/news/local/canda-trade-tensions-united-states-blaine-washington-econo - NBC 15 WPMI](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSVN6UFBzN3lmTUtKRUhZLWh2UGNyeWNnS21YN0lYTlBiUmdlazlkQ1pPaVF4MGVyYjZKQXk2U3BTWnpNWmM3ZDhScnIzSmU1aV9TaEVUa2NtZU1LQUZIZmFjUWZpV2RDVWh0ZXUtVmg1aC1hWVJEdTMzMW5wdHFyWmxodkdpQWVJSDlGX0pyVG1CRWtpU2oxNkVLOVdEMlVCSlAwWm1lcHQ4MGJkQWxQUTNZbGJGOF9mTk1MSjlJeXgzRm4tR2RFLVJVU3pLX1o3UW5oSjIxUGJzbzZzRER3RUZWZDZhSFpPR2Vuc2xxS3QzNi1GNUhiUTZuZmpxckhaLWRUejEzRHZZYnUy?oc=5) — Google News: small business owners · 00:00 PT · #business #smallbiz
 
 ## 2026-10-11
 

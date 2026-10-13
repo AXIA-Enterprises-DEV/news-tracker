@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T13:47:54-07:00
+updated: 2026-10-13T13:58:27-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -23,6 +23,7 @@ tags: ["category", "tech"]
 - [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/) — TechCrunch · 13:00 PT · #tech
 - [HR Giant SHRM Hit With a $400,000 Verdict After Rescinding a Job Offer Over a Service Dog](https://www.inc.com/kaylawebster/hr-giant-shrm-hit-with-a-400000-verdict-after-rescinding-a-job-offer-over-a-service-dog/91419318) — Inc.com · 12:56 PT · #tech
 - [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132) — Hacker News · 12:55 PT · #tech #ai
+- [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) — Hacker News · 12:50 PT · #tech #ai
 - [No biometrics are needed for HomeView to show a user's personal data](https://appleinsider.com/articles/26/10/13/no-biometrics-are-needed-for-homeview-to-show-a-users-personal-data?utm_source=rss) — AppleInsider · 12:45 PT · #tech #ai
 - [After a $1.95 Billion Sale, Allison Ellsworth Is Launching Jetty. It Won’t Compete With Poppi](https://www.inc.com/victoria-salves/allison-ellsworth-launching-jetty-wont-compete-with-poppi/91419200) — Inc.com · 12:42 PT · #tech #smallbiz
 - [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents) — The Verge · 12:42 PT · #tech #ai
@@ -413,4 +414,3 @@ tags: ["category", "tech"]
 - [Wayfair Coupons: Up to 80% Off October 2026](https://www.wired.com/story/wayfair-promo-code/) — WIRED · 22:00 PT · #tech
 - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/) — WIRED · 22:00 PT · #tech
 - [Google Workspace Promo Codes: 14% Off for October 2026](https://www.wired.com/story/google-workspace-promo-code/) — WIRED · 22:00 PT · #tech
-- [Nike Promo Codes and Discounts: 30% for October 2026](https://www.wired.com/story/nike-promo-code/) — WIRED · 22:00 PT · #tech

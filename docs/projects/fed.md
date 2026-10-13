@@ -1,16 +1,17 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-13T13:47:54-07:00
-count: 132
+updated: 2026-10-13T13:58:27-07:00
+count: 134
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-132 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+134 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-13
 
+- [Small business optimism falls, hit by inflation, low labor quality: NFIB - CFO Dive](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEtKc2ozcDBWWXNCY1V0TkdITFNyX0dGTDh1Wk1VRHBHa3ZWSTdURFdxVXJoc0w3cmlWLU5vMVVQWHQ0aW94bXpHR2k0U3ozQk14YlpNNDJkOHFJeWJ2Ym9QbHRoZjRRNUNhWGV1dVgzY3RCZ3Y0ZkhUWl9mSmZ3SmhrN1BsdkV4OWF4WldnbW8zTTVfbk5aemozVklMTEZOdi1KT0FIR1RXYkFpS2FDN3ZHODZPVjFFZTNXbWJR?oc=5) — Google News: small business owners · 13:56 PT · #business #fed #smallbiz
 - [Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds](https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html) — CNBC Top News · 13:42 PT · #markets #fed
 - [Fed’s Collins signals further rate hikes likely as inflation risks persist](https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534) — Investing.com Stock Market · 13:40 PT · #markets #fed
 - [Boston Fed's Collins expects another rate hike will be needed by year-end](https://seekingalpha.com/news/4652616-boston-feds-collins-expects-another-rate-hike-will-be-needed-by-year-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets #fed
@@ -111,6 +112,7 @@ tags: ["project", "fed"]
 
 - [Gold Silver Price Today (October 12): MCX Gold Slips to ₹1.50 Lakh, Silver at ₹2.25 Lakh As Investors Track US Inflation, Fed Signals – Check City Wise Rates in Delhi, Mumbai, Bangalore & More - The Sunday Guardian](https://news.google.com/rss/articles/CBMizgJBVV95cUxQVjA3VENweWhfLXV6M2UyM2o3aVhNZ2daNEV0NENUbHJYS2JvWXJ4Vmh1ZEFpcjBQVVdmYUJnZjRfazBJZ1VobkdXUlRzdEREU0cwRFdncjJnN2FwS2JvdmdHOE5ldVVxQ1VydENBdUVKU2ZyeHRuQjhWN19CU3BIcnJSeVBKUnlWZ1NjZ1FHTTJ1dGw5UzdrMWItUDRTM2lIVy05LTU0a0dTMnctSFFsMU5BYXVGNTVnMW5rLVpPZk1yelhZbWd5bG4xekZUTFNrYmpnQ2xkYXRtVjhOeE1yQ2pWTFdwQ29LRnlsVmswZkpUaVNQbThldkRwLVZWYktSS2RtdnpCUzRQVDdFcm9WVTBlcWVidW5ZUWV0MlJVcVlNSjRXd1pBaWY1anBqajQ5Y01XT2JBYlJ5Y2ZkaTNQRjBmZkk3bzBqZ2s3Wjl30gHOAkFVX3lxTFBWMDdUQ3B5aF8tdXozZTIzajdpWE1nZ1o0RXQ0Q1RsclhLYm9ZcnhWaHVkQWlyMFBVV2ZhQmdmNF9rMElnVWhuR1dSVHN0RERTRzBEV2dyMmc3YXBLYm92Z0c4TmV1VXFDVXJ0Q0F1RUpTZnJ4dG5COFY3X0JTcEhyclJ5UEpSeVZnU2NnUUdNMnV0bDlTN2sxYi1QNFMzaUhXLTktNTRrR1Mydy1IUWwxTkFhdUY1NWcxbmstWk9mTXJ6WFltZ3lsbjF6RlRMU2tiamdDbGRhdG1WOE54TXJDalZMV3BDb0tGeWxWazBmSlRpU1BtOGV2RHAtVlZiS1JLZG12ekJTNFBUN0Vyb1ZVMGVxZWJ1bllRZXQyUlVxWU1KNFd3WkFpZjVqcGpqNDljTVdPYkFiUnljZmRpM1BGMGZmSTdvMGpnazdaOXc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 23:49 PT · #markets #fed
 - [Strong US growth, sticky inflation may prompt two more Fed rate hikes in 2026: BofA - Devdiscourse](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGJ2TWsxaExYQ2wwVlNCMW9aXy15NGxaWlBqd24ycTdhUTE2SzJmak44eFppN2Nha3R0UFFpS0dKd1R6Zl9xdGplTWR1YW1NaVoxUjA2bG9mR3JKaWlVUTN1WFpseUdLNjRtNkU0QTNJSVVZNzNQYmNzWE5Ga0Z4SzJOUzFOUjhQLS1kSU1PQkp5V3Fsc2RrNjd4NUdOMDFMNG1sVXc5V3AteHZIT3pEMmtTYzRrcE5GaTVZdFJmMzc4dkU3bFNtX2QyWEZTSXNKbl9EanV30gHWAUFVX3lxTE1QYnZNazFoTFhDbDBWU0Ixb1pfLXk0bFpaUGp3bjJxN2FRMTZLMmZqTjh4Wmk3Y2FrdHRQUWlLR0p3VHpmX3F0amVNZHVhbU1pWjFSMDZsb2ZHckppaVVRM3VYWmx5R0s2NG02RTRBM0lJVVk3M1BiY3NYTkZrRnhLMk5TMU5SOFAtLWRJTU9CSnlXcWxzZGs2N3g1R04wMUw0bWxVdzlXcC14dkhPekQya1NjNGtwTkZpNVl0UmYzNzh2RTdsU21fZDJYRlNJc0puX0RqdXc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 22:35 PT · #markets #fed
+- [Swissquote: The Federal Reserve is expected to raise interest rates to 5% next year, with the U.S. dollar potentially performing more strongly than previously anticipated. - Moomoo](https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1NDdWVCVUY4azd6OHMxcUZpemVCN0tiYzRwZUV4RVRhYVhlaGRpYU1lWXBqcmtKd1hjMGsxbWZsNkpKM3dSam91N2w0SXpkZWp6eXpTSG5vZTlzZ2l5LVRZc2ZNaXc5MWcxOVVlcWNaak44WWJMaDlkcnNycEpVSjZrbS1KTXQ0b3Z5VE5ycVROVTFEZWlncnMyMm0xY2t4MmNkMHcxdEVoT05xTERN?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 20:36 PT · #markets #fed
 - [News by CNBC TV18 on TradingView, 2026-10-12 — cnbctv:4c31ebf76094b:0 - TradingView](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uaHJJcXRjVzhpanVFWlVTMlBwWnF3dTVQVHA0U3g0U2k0YVZObnNHUmZQTjEtRWJ2VmlLdXE1SFBmeVg1TUYyS3VVN3NkY3lzaHRLOV9pcWlzODZUSWk2Q0dYQ1FZRUE?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 18:59 PT · #markets #fed
 - [Gold steady as markets strap in for US inflation data - NST Online](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEg4eFNSVVpRT1UxREFZdXNiT1dtckxrTkZSekpYTkpaX0ZCalR4QXl2V0M0RGRLemQ5WEpLNHlxWDZ1TTNTY3lxOXNRcHVZR1lTUXU5NUUtT0Q0NWh5VkRxNjB4NFMxbWNRdkNxTVRjalNGZjdZTEVRWXJsd2Q4TGp0SzY4cF9HN2F5eERyZ0p4MGJSRVA1eU5WM0RxMW9xZzg1VGZB0gGmAUFVX3lxTFBkSDh4U1JVWlFPVTFEQVl1c2JPV21yTGtORlJ6SlhOSlpfRkJqVHhBeXZXQzREZEt6ZDlYSks0eXFYNnVNM1NjeXE5c1FwdVlHWVNRdTk1RS1PRDQ1aHlWRHE2MHg0UzFtY1F2Q3FNVGNqU0ZmN1lMRVFZcmx3ZDhManRLNjhwX0c3YXl4RHJnSngwYlJFUDV5TlYzRHExb3FnODVUZkE?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 17:49 PT · #markets #fed
 - [3 Bank Stocks That Could Benefit From Higher Fed Rates - Simply Wall Street](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMV9OeVV5cWJNVnRCM0VROUttQkh6MnJid1R2c0FiZm56WVlra2NSelEzVjZ1ZUFvOVFlSVZUTl9udVdibHhBUEVzb1l4clU1Z3RlV2xJVFVvclZ6ZUU4QVZiNlZsUHFEOHJpbGYtaGRvVDl5QVVWVk9GSnhEd0w4cEk3bnFFRkhNYlB0TV91Mk16ajZMeHMyV096anl0bVo1bUQ0emZtcWpQMWlKajZRZWhYYjdLeURhYnRKekNxVDg?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 13:31 PT · #markets #fed

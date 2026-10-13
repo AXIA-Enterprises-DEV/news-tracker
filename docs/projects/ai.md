@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T13:47:54-07:00
+updated: 2026-10-13T13:58:27-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,6 +11,7 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [Ripple Teams With Stripe-Owned Privy to Bring Wallet Tech to XRP Ledger](https://news.bitcoin.com/technology/ripple-teams-stripe-owned-privy-wallet-tech-xrp-ledger/) — Bitcoin News · 13:55 PT · #markets #ai
 - [Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit](https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/) — 9to5Mac · 13:45 PT · #tech #ai
 - [OpenAI employee arrested for allegedly planting recording device](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — The Verge · 13:45 PT · #tech #ai
 - [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) — TechCrunch · 13:36 PT · #tech #ai
@@ -35,6 +36,7 @@ tags: ["project", "ai"]
 - [Apple's Siri AI integration into new home lineup could drive up Services revenue: Ives](https://seekingalpha.com/news/4652635-apples-siri-ai-integration-into-new-home-lineup-could-drive-up-services-revenue-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 12:55 PT · #markets #ai
 - [Dog Parents Ask AI About Their Dogs Daily. It's Never Met Their Dog. Maven Pet's Companion Has](https://www.prnewswire.com/news-releases/dog-parents-ask-ai-about-their-dogs-daily-its-never-met-their-dog-maven-pets-companion-has-302907575.html) — PR Newswire M&A · 12:53 PT · #business #ai
 - [Strict liability is gaining traction as a solution to force AI companies to institute better safety controls. But it has some big downsides too](https://fortune.com/2026/10/13/strict-liability-is-gaining-traction-as-a-solution-to-force-ai-companies-to-institute-better-safety-controls-but-it-has-some-big-downsides-too/) — Fortune | FORTUNE · 12:52 PT · #business #ai
+- [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) — Hacker News · 12:50 PT · #tech #ai
 - [No biometrics are needed for HomeView to show a user's personal data](https://appleinsider.com/articles/26/10/13/no-biometrics-are-needed-for-homeview-to-show-a-users-personal-data?utm_source=rss) — AppleInsider · 12:45 PT · #tech #ai
 - [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents) — The Verge · 12:42 PT · #tech #ai
 - [Apple TV unveils new heist thriller series coming soon](https://9to5mac.com/2026/10/13/apple-tv-unveils-new-heist-thriller-series-coming-soon/) — 9to5Mac · 12:41 PT · #tech #ai
@@ -412,5 +414,3 @@ tags: ["project", "ai"]
 - [Maui: Unlock free AI tools for your small business through UH Maui College webinar - University of Hawaii System](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxS2QyN3ZBSFN1NnBVcUp2aGswZ01BTV9BQnlyWnM5U2FwZ2V3dUx6ZzZaXzNKQ2lMUWZjQ1pHUkplTGxlZkVQRjJWT0Z4QW1FOGlJQ3lKdHZ0WGdnMWc?oc=5) — Google News: small business owners · 15:26 PT · #business #ai #smallbiz
 - [Apple gets a $360 price target from JP Morgan despite iPhone demand concerns](https://9to5mac.com/2026/10/12/apple-gets-a-360-price-target-from-jp-morgan-despite-iphone-demand-concerns/) — 9to5Mac · 15:23 PT · #tech #ai
 - [Credo Launches Short-Reach Micro-Emitter Optics (SRMO) Standardization for AI Data Center Scale-Up and Scale-Out Applications](http://www.businesswire.com/news/home/20261012753816/en/Credo-Launches-Short-Reach-Micro-Emitter-Optics-SRMO-Standardization-for-AI-Data-Center-Scale-Up-and-Scale-Out-Applications/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 15:20 PT · #business #ai
-- [Anthropic’s Claude AI Predicts a Wild Price for Chainlink (LINK)](https://cryptonews.com/news/anthropics-claude-ai-predicts-chainlink-price/) — News - Cryptonews · 15:18 PT · #markets #ai
-- [Apple trails Samsung as global smartphone shipments hit a 13-year low](https://appleinsider.com/articles/26/10/12/apple-trails-samsung-as-global-smartphone-shipments-hit-a-13-year-low?utm_source=rss) — AppleInsider · 15:02 PT · #tech #ai

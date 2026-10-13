@@ -1,6 +1,6 @@
 ---
 title: "Project: Foreign Policy / Defense"
-updated: 2026-10-13T13:47:54-07:00
+updated: 2026-10-13T13:58:27-07:00
 count: 400
 tags: ["project", "foreign"]
 ---
@@ -11,7 +11,10 @@ tags: ["project", "foreign"]
 
 ## 2026-10-13
 
+- [Avio, Lockheed sign agreement for solid rocket motor production](https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production/) — Breaking Defense · 13:48 PT · #world #foreign
+- [LaNeve to industry: ‘We are not walking away from modernization’](https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/) — Defense News · 13:45 PT · #world #foreign
 - [Bank of America fined over $1.2B for anti-money laundering, sanctions violations](https://seekingalpha.com/news/4652672-bank-of-america-fined-over-12b-for-anti-money-laundering-sanctions-violations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:41 PT · #markets #foreign
+- [Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh](https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss) — Al Jazeera · 13:33 PT · #world #foreign
 - [Micron’s stock extends declines as China competition heats up](https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:25 PT · #markets #foreign
 - [Army’s Project Gatekeeper aims to cut software approval times from months to ‘minutes’](https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes/) — Breaking Defense · 13:23 PT · #world #foreign
 - [BAE Systems unveils new layered air-defense system](https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/) — Defense News · 13:15 PT · #world #foreign
@@ -411,6 +414,3 @@ tags: ["project", "foreign"]
 - [Democratic senator talks Trump's Russian diesel deal](https://www.npr.org/2026/10/12/nx-s1-5998040/democratic-senator-talks-trumps-russian-diesel-deal) — NPR Politics · 04:37 PT · #politics #foreign
 - [Jennifer Griffin has covered 8 defense secretaries. She’s never seen a Pentagon like this.](https://www.poynter.org/commentary/2026/fox-news-jennifer-griffin-pentagon-pete-hegseth/) — Poynter · 04:30 PT · #tech #foreign #media
 - [Trump and Rubio Weigh Kimberly Guilfoyle's Firing as $100K Donor Scandal and Misconduct Claims Explode - inkl](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkhYeUNXQkdMN1ppcVJzVS1wR29LN2hfUDRmQTJjc2NiVmtyaEJkVUlOUzFaMnBzbjVhSG90Wmgyd1NhbGdpbU1XdGtRMEhhRWVsOW5JeEpXU2RxWWdwS2g3STg2NXg4WlZRNGZaZ19jZ2dYa0I4TXEweVpjZ21aM2pvWXptOHNLOVNkSHkwNElzVjBlZ3VHN3BLdXNsdUhJbXRWa2VGYUloOEFCMllNMHVKVkJJOVFUUHplZmEyLU1SWGV5?oc=5) — Google News: "State Department" Rubio OR sanctions · 04:29 PT · #world #foreign
-- [BRICS Traditional Games Celebrate Cultural Heritage and Diversity; Mandaviya Calls for Greater Cooperation - Hindusthan Samachar English](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZU9XTzI4VTU2Z3B2a1lON3dmRVdHLWMwMXNKdVVtWlNnaGdYaDFhU0VuVjBJanlJWkdGTzR5T2NXMjJ0OFAtdEVpLWo2ZFJaUnRJX1lGaDN2cUowNUh6cU90ZkxjbXVGbV9TMEVMcWpZdkZxWktsRG5ra0NmdmJtVVhiaWdtQk95di1zN0ZEdDJ3VW8?oc=5) — Google News: BRICS · 04:25 PT · #world #foreign
-- [EU to limit Chinese hybrid vehicle imports to 350,000 a year](https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles) — Guardian World · 04:23 PT · #world #foreign
-- [What Andy Burnham can learn from Sweden about defending against Russian disinformation - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVhjWVAxbWdsUFk3c254aW5pc19kRTA2ZWxKYXBZMGlmaWZvNTZXQnViNTdyQ3JuUUh1RHBwZHBLa0JVaEUtZ0FoNkF2VWZkbGI5UFpoVkk4UXBMUjN3WS1od2tveXlHeTNXN3RGWXgtYUJJMUMwak1PbGs4UmFUeUJRLV9Da2hoTHAzU29VamtIWU9Ta1BUSXU5VkJsT2lOcU1kYnhucUZzV1V2RE5KVDgwdm5Wem5aT0JYUUNB?oc=5) — Google News: propaganda OR disinformation media · 04:20 PT · #world #foreign #media
