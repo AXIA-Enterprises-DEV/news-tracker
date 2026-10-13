@@ -1,16 +1,17 @@
 ---
 title: "Project: Entrepreneurship / Small Business"
-updated: 2026-10-13T14:59:29-07:00
-count: 292
+updated: 2026-10-13T15:09:45-07:00
+count: 294
 tags: ["project", "smallbiz"]
 ---
 
 # Project: Entrepreneurship / Small Business
 
-292 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
+294 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
 
 ## 2026-10-13
 
+- [Disney Accused Character.ai of Copyright Infringement. Now It’s Bidding on the Bankrupt Startup’s Assets](https://www.inc.com/kevin-haynes/disney-accused-characterai-copyright-infringement-now-bidding-bankrupt-startups-assets/91419440) — Inc.com · 14:54 PT · #tech #ai #smallbiz
 - [Everett eyes small business tax relief in concert with new downtown stadium plan - Everett Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxQak1XNWVUVmhSUDFXVlV2YVlBaEJfUWZmU2I5S19kZ3pSN0dHNmdDdkEtYzFSZ1d0eVFuNGJ0NXN6VUpCbjJEN29pcFFmOEdRaG5hRnkwemVpYXRIMXFkYTJFS0JMRmJHTW5RV3plNzBuQWZhMnJ5RlktVEFSdzZrbDNmUlVMUzBha0d4anpVaDV6ZFVCY0syZUZ2MEttNmtIVHZ2UmhLQVpjMFhYcmh6NE93RV9WdDlPcVN6cA?oc=5) — Google News: small business owners · 14:16 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - WKRC](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWkzMzhnR3pOWTF1U0ZTV2Zrem9waGRGWTZsVGpUMEtOUWF4aHlLV1Jla2czNjk5VzJMd2JtbTFfVlNNLXR6Ynh6dzlDR242VFUxR3A3Sk9HeUlDdGdYRE1TWHgwYjhrZWljN21DTXBCdlZvSlhxeEppX2tWbU50c3UwanFtTHA5SEU3dTBJcTRzeVBGdkMwSVJ1WnVaT0tINnBHRXBQVW9xYURteExnOU5JVmRrd0dfbmtGRW9BWjV6a3RReWc?oc=5) — Google News: small business owners · 14:15 PT · #business #smallbiz
 - [Small business sentiment fades in NFIB survey, but one store owner 'cautiously optimistic' - KDNL](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnlEX0lCelJOb0FWNmYxTHQzd0x5SWxsZGI4SDNEb3BidGExYS1taVJZNVN3UWJhaWZIdWNfd1FvMVhFbkVhNERBaktHVkYzdEZLZGxyQkxNM2pSbkh6NlRrSHhOQ1lhNzVjMnd4eEhVWWliMjFvYWZfajJiREZRdW1rZlQwMDA2RHpwSHpKX19pMVlUUnZZUzNETU1nY2U3dFZRNlVxTC1aNzlFbFNJZjFObm9OQ0NoRGNHTWQ1WDRVU1NYemZQeWFR?oc=5) — Google News: small business owners · 14:03 PT · #business #smallbiz
@@ -50,6 +51,7 @@ tags: ["project", "smallbiz"]
 - [Better Messaging Only Gets You So Far. Before You Change Your Marketing, Learn From Your Customers’ Complaints.](https://www.entrepreneur.com/building-a-business/better-messaging-only-gets-you-so-far-before-you-change-your-marketing-learn-from-your-customers-complaints) — Entrepreneur · 11:30 PT · #business #smallbiz
 - [Meet billionaire Clara Wu Tsai, who built the Liberty into a $600 million team and now plans to fund guaranteed income for new moms](https://fortune.com/2026/10/13/clara-wu-tsai-liberty-guaranteed-income-brooklyn-moms/) — Fortune | FORTUNE · 11:16 PT · #business #smallbiz
 - [Why Kelly Clarkson's Brooklyn Toy Shop Controversy Should Scare Founders - Inc.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxObTFUekFPRkViWERIWlkzajBIQVZfNXBnQmJhejh1OWpCSFM2bjJKMmU3V21MTUN4enRWd2JpR29PSWVQajRqZ3JFVnpfc0h1b1hWMGF2STFSNzY5Nnc5SFhGTjFBenloM1FOUnBRZE10MXBESkxjVFdYR3JvRGg3RlZpZTkxU3BqZnFGT2dNT2NSaDRSalpOeXJRX0ZXUTVtV3I3N21DcUFKclRobGxrYw?oc=5) — Google News: small business owners · 11:12 PT · #business #smallbiz
+- [Anduril founder says 'executions should be public and brutal' - WNWO](https://news.google.com/rss/articles/CBMikAJBVV95cUxPQVVuRUVaay15akRGdm0wa003RHJJcGJJTXg1bUxlSnlPZWZFaGlhVXlSOGg1X21hcWo2ZUVFTE1QRWZzZ2ktS0lFeDVPZHZNUEZtcGVtSHY5XzJCYVZ3LWU3aUdBd0VqdGx0LXFsVVNuc2hKRzBscl9DZFRFajZhQk5IRlBWbE5YdWViamw2YWx4dVJmS0dacTc4bnBkV3FzVWVubjduQnh6Ty1SaTZHUDVhVWtmM1RiUXVpem9CY2FYVnhCUThEN1NEcHFaSHpmZTVCUGtUb0oxTjZvZ1Myd0Q3S3BvRjRGOGdYY2NSN0tfb3luQV82VFZTTUpLRHFRRUNrc2kzanZsVUFBLS1Udw?oc=5) — Google News: small business owners · 11:04 PT · #business #smallbiz
 - [Being an Effective Boss Isn’t About Commanding a Room. Skims Co-Founder Emma Grede Says It Comes Down to 3 Signals](https://www.inc.com/scott-hutcheson/being-an-effective-boss-isnt-about-commanding-a-room-skims-cofounder-emma-grede-says-it-comes-down-to-3-signals/91418933) — Inc.com · 11:00 PT · #tech #smallbiz
 - [How AI Is Helping Companies Catch Performance Issues Before They Turn Into Major Incidents](https://www.entrepreneur.com/business-news/tech/how-ai-is-helping-companies-catch-performance-issues-before-they-turn-into-major-incidents) — Entrepreneur · 11:00 PT · #business #ai #smallbiz
 - [New Tulsa entrepreneurship center aims to expand opportunities for local small businesses - KOKI FOX 23](https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1E2SWxJQlptX1ZCWUpTR01ZLWgwNktyTVE3Z3VOdENlZU5SM3pYMWgzTGQyNlVxc0FMWnlvRVg5VFJwN1BWMnV5ODZWeG12Y25vcnhwaU1hNkd4VWtYZXVGc3Y2XzFCemtRTFk4V0ttckRxWTFpNFl5ZFptcFEwcTJzQTM0OThpOGtpWUJvYjYyaUlpUTNMOTUwcUptM2VZMmRfbHhvZlVxX0p0YlczZzlFRU9IWTVja01CQlBmaG1XSTZyQjBwVFdMZFZOQQ?oc=5) — Google News: small business owners · 10:54 PT · #business #smallbiz

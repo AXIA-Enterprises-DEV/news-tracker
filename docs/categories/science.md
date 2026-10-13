@@ -1,16 +1,18 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T14:59:29-07:00
-count: 395
+updated: 2026-10-13T15:09:45-07:00
+count: 397
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-395 most recent items (14-day window).
+397 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [Hawaiian coral tests reveal heat tolerance varies by species and location](https://phys.org/news/2026-10-hawaiian-coral-reveal-tolerance-varies.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [The politics of city rats: What urban rodents tell us about housing and sanitation](https://phys.org/news/2026-10-politics-city-rats-urban-rodents.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science #civic
 - [Thwaites Glacier could contribute twice as much sea-level rise as previously projected](https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html) — Phys.org - latest science and technology news stories · 14:50 PT · #science
 - [Could meditation reveal an SU(3) symmetry shared by the observer and the universe?](https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
 - [Drier Texas rivers support simpler food webs and higher animal productivity, study finds](https://phys.org/news/2026-10-drier-texas-rivers-simpler-food.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science

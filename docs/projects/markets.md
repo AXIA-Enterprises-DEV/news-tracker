@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-13T14:59:29-07:00
+updated: 2026-10-13T15:09:45-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,15 @@ tags: ["project", "markets"]
 
 ## 2026-10-13
 
+- [4 - WEBTOON Entertainment Inc. (0001997859) (Issuer)](https://www.sec.gov/Archives/edgar/data/1997859/000160518226000018/0001605182-26-000018-index.htm) — SEC EDGAR All Filings · 15:08 PT · #filings #markets
+- [X-17A-5 - CMD GLOBAL PARTNERS, LLC (0001790790) (Filer)](https://www.sec.gov/Archives/edgar/data/1790790/000179079026000002/0001790790-26-000002-index.htm) — SEC EDGAR All Filings · 15:06 PT · #filings #markets
+- [4 - Yearout Karalyn (0001978268) (Reporting)](https://www.sec.gov/Archives/edgar/data/1978268/000071995526000216/0000719955-26-000216-index.htm) — SEC EDGAR All Filings · 15:04 PT · #filings #markets
+- [4 - Construction Partners, Inc. (0001718227) (Issuer)](https://www.sec.gov/Archives/edgar/data/1718227/000119312526420710/0001193125-26-420710-index.htm) — SEC EDGAR All Filings · 15:04 PT · #filings #markets
+- [4 - Workday, Inc. (0001327811) (Issuer)](https://www.sec.gov/Archives/edgar/data/1327811/000093807126000067/0000938071-26-000067-index.htm) — SEC EDGAR All Filings · 15:03 PT · #filings #markets
+- [SCHEDULE 13G/A - iRhythm Holdings, Inc. (0001388658) (Subject)](https://www.sec.gov/Archives/edgar/data/1388658/000110465926115591/0001104659-26-115591-index.htm) — SEC EDGAR All Filings · 15:02 PT · #filings #markets
+- [4 - Siu Chris (0001389044) (Reporting)](https://www.sec.gov/Archives/edgar/data/1389044/000104047026000307/0001040470-26-000307-index.htm) — SEC EDGAR All Filings · 15:01 PT · #filings #markets
+- [Here are the major earnings before the open Wednesday](https://seekingalpha.com/news/4652540-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 15:00 PT · #markets
+- [3 - Monnier Philippe Diego (0002114881) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114881/000121390026109144/0001213900-26-109144-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
 - [3 - WISeSat.Space Holdings Corp. (0002101411) (Issuer)](https://www.sec.gov/Archives/edgar/data/2101411/000121390026109143/0001213900-26-109143-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
 - [3 - ROUY-POIRIER Gwenael Jerome (0002019670) (Reporting)](https://www.sec.gov/Archives/edgar/data/2019670/000121390026109142/0001213900-26-109142-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
 - [3 - Fergusson David Alexander (0002114937) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114937/000121390026109141/0001213900-26-109141-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
@@ -402,12 +411,3 @@ tags: ["project", "markets"]
 - [4 - DOUGLAS J ALEXANDER JR (0001253446) (Reporting)](https://www.sec.gov/Archives/edgar/data/1253446/000162828026065731/0001628280-26-065731-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
 - [FWP - Strive, Inc. (0001920406) (Subject)](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015526/0000950103-26-015526-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
 - [4 - Bushway Mark (0002051362) (Reporting)](https://www.sec.gov/Archives/edgar/data/2051362/000162828026065730/0001628280-26-065730-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
-- [8-K - Revolution Medicines, Inc. (0001628171) (Filer)](https://www.sec.gov/Archives/edgar/data/1628171/000162817126000004/0001628171-26-000004-index.htm) — SEC EDGAR 8-K · 13:32 PT · #filings #markets
-- [8-K - SPIRE INC (0001126956) (Filer)](https://www.sec.gov/Archives/edgar/data/1126956/000119312526420501/0001193125-26-420501-index.htm) — SEC EDGAR 8-K · 13:32 PT · #filings #item-1.01 #markets
-- [4 - Luchini Alfredo (0002146408) (Reporting)](https://www.sec.gov/Archives/edgar/data/2146408/000162828026065729/0001628280-26-065729-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
-- [4 - Tarditi Giorgio Matteo (0002017583) (Reporting)](https://www.sec.gov/Archives/edgar/data/2017583/000162828026065728/0001628280-26-065728-index.htm) — SEC EDGAR All Filings · 13:32 PT · #filings #markets
-- [13F-HR - St. Clair Advisors, LLC (0002056292) (Filer)](https://www.sec.gov/Archives/edgar/data/2056292/000205629226000005/0002056292-26-000005-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
-- [425 - Third Coast Bancshares, Inc. (0001781730) (Subject)](https://www.sec.gov/Archives/edgar/data/1781730/000119312526420500/0001193125-26-420500-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
-- [4 - Dinh Hong Thi (0002114372) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114372/000162828026065727/0001628280-26-065727-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
-- [4 - McConnell John H II (0001959584) (Reporting)](https://www.sec.gov/Archives/edgar/data/1959584/000119312526420499/0001193125-26-420499-index.htm) — SEC EDGAR All Filings · 13:31 PT · #filings #markets
-- [8-K - LCI INDUSTRIES (0000763744) (Filer)](https://www.sec.gov/Archives/edgar/data/763744/000076374426000089/0000763744-26-000089-index.htm) — SEC EDGAR 8-K · 13:31 PT · #filings #markets

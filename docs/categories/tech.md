@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-13T14:59:29-07:00
+updated: 2026-10-13T15:09:45-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,6 +11,9 @@ tags: ["category", "tech"]
 
 ## 2026-10-13
 
+- [iOS 27.2 Adds New Apple Music Icon](https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/) — MacRumors · 15:04 PT · #tech #ai
+- [5 clever ways Gemini can automate everyday tasks](https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/) — Engadget - Technology News & Expert Reviews · 15:00 PT · #tech #ai
+- [Disney Accused Character.ai of Copyright Infringement. Now It’s Bidding on the Bankrupt Startup’s Assets](https://www.inc.com/kevin-haynes/disney-accused-characterai-copyright-infringement-now-bidding-bankrupt-startups-assets/91419440) — Inc.com · 14:54 PT · #tech #ai #smallbiz
 - [Apple HomeView accessories will expand what is possible with the home hub](https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss) — AppleInsider · 14:38 PT · #tech #ai
 - [First look at Apple Home Collection](https://www.youtube.com/shorts/CG5UlQLExCw) — The Verge · 14:35 PT · #tech
 - [OpenAI says it found a 'sophisticated recording device' hidden in its offices](https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/) — Engadget - Technology News & Expert Reviews · 14:34 PT · #tech #ai
@@ -408,6 +411,3 @@ tags: ["category", "tech"]
 - [Playing It SFAPE: Code Execution in Isolated User Mode](https://www.reddit.com/r/netsec/comments/1x4s0yk/playing_it_sfape_code_execution_in_isolated_user/) — Technical Information Security Content & Discussion · 02:25 PT · #tech
 - [4 years in cybersecurity and feeling lost on what to learn next](https://www.reddit.com/r/cybersecurity/comments/1x4rrny/4_years_in_cybersecurity_and_feeling_lost_on_what/) — cybersecurity · 02:08 PT · #tech
 - [6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)](https://www.wired.com/gallery/best-coffee-grinders-2026/) — WIRED · 02:02 PT · #tech
-- [Chatbox AI Review 2026: Download, Free Plan, Login, App & FAQs - Nubia Magazine!](https://news.google.com/rss/articles/CBMif0FVX3lxTFBTWGVBNlJVV3RYYV9JVm9ub3NPdTBHdEF5TUwzWGNMMU1UMW5yZ3VkSjlsVGNWZkxCSFlmT1lmblVCbG5MU0YtcDJnSVpFQkJvQ2NYRWR6U3VZcFdGQ3ctVmNhcVZyTEJmT29IZzFLcksxSV9kNHc5MWtndFlqTXM?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 02:01 PT · #tech #ai
-- [Georgia Man Says Deputies Used Flock Cameras to Track Him After He Sued Sheriff](https://gizmodo.com/georgia-man-says-deputies-used-flock-cameras-to-track-him-after-he-sued-sheriff-2000824987) — Gizmodo · 02:00 PT · #tech
-- [What Flock Actually Costs Cities Across the Country](https://www.wired.com/story/how-much-does-flock-actually-cost-cities/) — WIRED · 02:00 PT · #tech

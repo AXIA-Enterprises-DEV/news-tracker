@@ -1,13 +1,13 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-13T14:59:29-07:00
-count: 44
+updated: 2026-10-13T15:09:45-07:00
+count: 45
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-44 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+45 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-13
 
@@ -24,6 +24,7 @@ tags: ["project", "cannabis"]
 
 ## 2026-10-12
 
+- [Gelato Strain Guide Examines Numbered Cuts, Reported Lineage and Historical Lab Data - StreetInsider](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzNCTGhVUkVJNUtqV2U4c2hPbzE2LXhSSEZ3azlCLWhXZ0ttZXVBRFQzM2lKSVVrMEFnMi01UWVzRHpZX3d4OXhNM0kzSzdsM0tYYTNJbWpyT0xhSE1Ec1BSR3pGNmJxaDdHR2E4WXFRRHh3UnFoc1dUcG9ZNjJSZngtSm1TbTBmbUdrZnZIU3kzVW9rbGpDZWI3bldpZG1OZFloZF9NMFFUTU1sMHkxaWdBSnVaQVRrbE8zcW92Y0NSZWFnZXI3SFBmOTZNSkFUVnFGT2JobTdGdjByNElV?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 18:46 PT · #business #cannabis
 - [Gelato Strain Guide Examines Numbered Cuts, Reported Lineage and Historical Lab Data - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRFg4TndQbzc0eGtfMm5kUXJWSGxlcmFXUWU5S0xaczhfczhDNng1ZW1wRWFrNTY2ZHIyX1hxZjlhd0tKeTJvZmtyT1RtLVM2TVY1bXdYNm85anRQbWREbXFPSzBsZThCLU8zdG9MaGxzcnlMbWdzRVFfRnFlaURqU0VjakVNdk05bHhyYTVkdGRHUzdiQlZoRF8xMzh1UGE3VElCcTgxNFVPOEhwc28xbF91LW5tTXJ3aXF4bjJ5OEU1RTVPSVctVDl4YkJidHVScllicWZQSXpCOGhQRlJtWjlMdVlwVjRPY0g0TkxqUnpiVkJxLUNlTkxOV2x2MHJERTI2RjN3?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 15:22 PT · #business #cannabis
 - [Gelato Strain Guide Examines Numbered Cuts, Reported Lineage and Historical Lab Data - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdFpOZWs4WGVyeEY4UzRNSEVDWU02elVWZFZTQ3BrRUNkUllmeXJhZnUzVWFMSDcxMXlZeDViSFExQ2NGSVJKSlZJSm1xQl9QdWhEUHowS2FpSy1FMi1DNDNkaHd1NGgtUFR2SlJ5Q29JNzBHQUZsSmJhUUdiZ0NVX1pna1dGNjZWaVRvaU9sajZRenBFUTR2RUVlZ1RYc2poWHJ5ZXpVRWlnNDZrZy1TOVRncTd5QldFazhqbUdRengzWS14WjFXbHc0RmtuZlotc1hDOC01TTdhbHRNOHFfdXJoQ2wtY2tPWWZUcjFvNnRvOWFLSHc5QlFn?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 15:22 PT · #business #cannabis
 - [Big Brother’s Amber Siyavus Dies at 46, Milania Giudice Shares Public Apology and More Top Us Stories - AOL.ca](https://news.google.com/rss/articles/CBMifkFVX3lxTE0yc2otNVJjODJ1Ui1pZUZWQ3haOUhlY2lEUzQyaUQ5UmVNN1BoX1VBMHVHaGdSM3cyeWtaRW44Nk9Qa0hlMExnR2FWN0RzMktXVGo0bVNvRXkzbWFZU3RPTDhPY21wczZ4OGxza01kcUF6a3lHM3NTZzRidWtkQQ?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:45 PT · #business #cannabis

@@ -1,13 +1,13 @@
 ---
 title: "Sources"
-updated: 2026-10-13T14:59:29-07:00
+updated: 2026-10-13T15:09:45-07:00
 count: 195
 tags: ["sources"]
 ---
 
 # Sources
 
-184/197 feeds OK at last sync.
+181/197 feeds OK at last sync.
 
 | Source | Category | Items | Status | Latest |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ tags: ["sources"]
 | Ars Technica | tech | 20 | ok | Oct 13 10:33 PT |
 | BBC Business | business | 32 | ok | Oct 13 14:19 PT |
 | BBC Technology | tech | 10 | ok | Oct 10 08:56 PT |
-| BBC World | world | 33 | ok | Oct 13 12:23 PT |
+| BBC World | world | 34 | ok | Oct 13 15:00 PT |
 | BLS Latest Numbers | markets | 1 | ok | Oct 09 07:00 PT |
 | Bitcoin - The Currency of the Internet |  | 24 | down | Oct 13 10:11 PT |
 | Bitcoin Audible | markets | 1 | ok | Oct 06 12:04 PT |
@@ -55,7 +55,7 @@ tags: ["sources"]
 | EU DisinfoLab | world | 1 | ok | Sep 30 00:30 PT |
 | EconTalk | business | 2 | ok | Oct 12 03:30 PT |
 | Economic Times | business | 9 | ok | Oct 13 13:13 PT |
-| Engadget - Technology News & Expert Reviews | tech | 27 | ok | Oct 13 14:34 PT |
+| Engadget - Technology News & Expert Reviews | tech | 28 | ok | Oct 13 15:00 PT |
 | Entrepreneur | business | 21 | ok | Oct 13 13:00 PT |
 | Ethereum |  | 23 | down | Oct 13 08:58 PT |
 | Ethereum Foundation Blog | markets | 2 | ok | Oct 04 17:00 PT |
@@ -67,9 +67,9 @@ tags: ["sources"]
 | Feld Thoughts | tech | 2 | ok | Oct 05 13:08 PT |
 | Financial Samurai | markets | 6 | ok | Oct 12 04:18 PT |
 | FlowingData | science | 11 | ok | Oct 13 11:08 PT |
-| Forbes - Business | business | 39 | ok | Oct 13 13:37 PT |
+| Forbes - Business | business | 40 | ok | Oct 13 14:21 PT |
 | Foreign Affairs | world | 20 | ok | Oct 13 01:00 PT |
-| Foreign Policy | world | 25 | ok | Oct 13 08:55 PT |
+| Foreign Policy | world | 27 | ok | Oct 13 14:50 PT |
 | Fortune | FORTUNE | business | 32 | ok | Oct 13 13:28 PT |
 | GAO Reports | politics | 25 | ok | Oct 08 05:54 PT |
 | GaryVee | tech | 15 | down | Oct 13 13:15 PT |
@@ -77,25 +77,25 @@ tags: ["sources"]
 | Gizmodo |  | 20 | down | Oct 13 10:20 PT |
 | Golf.com | sports | 12 | ok | Oct 13 13:37 PT |
 | Google News: "State Department" Rubio OR sanctions | world | 50 | ok | Oct 13 14:27 PT |
-| Google News: "Supreme Court" ruling | politics | 179 | ok | Oct 13 14:36 PT |
+| Google News: "Supreme Court" ruling | politics | 183 | ok | Oct 13 14:36 PT |
 | Google News: BRICS | world | 104 | ok | Oct 13 12:04 PT |
 | Google News: FOMC OR "Federal Reserve" rates | markets | 52 | ok | Oct 13 14:00 PT |
-| Google News: House vote OR Senate vote bill passes | politics | 26 | ok | Oct 13 12:21 PT |
-| Google News: Las Vegas cannabis OR dispensary Nevada | business | 5 | ok | Oct 13 08:52 PT |
+| Google News: House vote OR Senate vote bill passes | politics | 48 | ok | Oct 13 13:30 PT |
+| Google News: Las Vegas cannabis OR dispensary Nevada | business | 6 | ok | Oct 13 08:52 PT |
 | Google News: Las Vegas real estate | business | 67 | ok | Oct 13 14:42 PT |
 | Google News: Mac Studio OR "M5" Apple silicon AI | tech | 24 | ok | Oct 13 14:13 PT |
 | Google News: Nevada Supreme Court OR "Nevada law" | politics | 33 | ok | Oct 13 12:18 PT |
 | Google News: Nevada ballot question | politics | 23 | ok | Oct 13 14:00 PT |
 | Google News: Nevada legislature | politics | 20 | ok | Oct 13 12:18 PT |
-| Google News: OPEC crude oil | markets | 120 | ok | Oct 13 14:33 PT |
+| Google News: OPEC crude oil | markets | 121 | ok | Oct 13 14:33 PT |
 | Google News: PGA Tour OR LIV Golf | sports | 158 | ok | Oct 13 14:51 PT |
 | Google News: Strait of Hormuz OR tanker OR "oil pipeline" route | markets | 76 | ok | Oct 13 14:34 PT |
 | Google News: federal workforce OR federal employees OPM | politics | 13 | ok | Oct 13 11:55 PT |
 | Google News: government transparency FOIA | politics | 19 | ok | Oct 13 11:54 PT |
 | Google News: local LLM OR llama.cpp OR Ollama OR MLX | tech | 54 | ok | Oct 13 13:14 PT |
-| Google News: political violence | politics | 63 | ok | Oct 13 14:17 PT |
+| Google News: political violence | politics | 64 | ok | Oct 13 14:46 PT |
 | Google News: propaganda OR disinformation media | world | 60 | ok | Oct 13 13:59 PT |
-| Google News: small business owners | business | 151 | ok | Oct 13 14:16 PT |
+| Google News: small business owners | business | 152 | ok | Oct 13 14:16 PT |
 | Google News: unusual options activity | markets | 39 | ok | Oct 13 14:00 PT |
 | Government Executive | politics | 24 | ok | Oct 13 14:23 PT |
 | Guardian Business | business | 17 | ok | Oct 13 13:49 PT |
@@ -108,9 +108,9 @@ tags: ["sources"]
 | Hugging Face Blog | tech | 8 | ok | Oct 13 10:05 PT |
 | INCRYPTED | markets | 9 | ok | Oct 13 07:48 PT |
 | ISF Podcast | tech | 2 | ok | Oct 12 21:00 PT |
-| Inc.com | tech | 54 | ok | Oct 13 13:55 PT |
+| Inc.com | tech | 55 | ok | Oct 13 14:54 PT |
 | Investing.com Economic Indicators | markets | 10 | ok | Oct 13 07:07 PT |
-| Investing.com Stock Market | markets | 49 | ok | Oct 13 14:56 PT |
+| Investing.com Stock Market | markets | 50 | ok | Oct 13 14:56 PT |
 | KTNV Las Vegas | us | 31 | ok | Oct 13 11:54 PT |
 | Las Vegas Review-Journal | us | 37 | ok | Oct 13 13:51 PT |
 | Las Vegas Sun | us | 24 | ok | Oct 13 14:29 PT |
@@ -118,7 +118,7 @@ tags: ["sources"]
 | Latest news | tech | 25 | ok | Oct 13 10:30 PT |
 | Linus Tech Tips | tech | 8 | down | Oct 12 10:25 PT |
 | MJBizDaily | business | 27 | ok | Oct 13 13:48 PT |
-| MacRumors | tech | 29 | ok | Oct 13 14:19 PT |
+| MacRumors | tech | 30 | ok | Oct 13 15:04 PT |
 | Making Sense Of Cents | markets | 2 | ok | Oct 12 04:15 PT |
 | Marie Forleo | tech | 4 | down | Oct 13 12:01 PT |
 | Marijuana Moment | business | 11 | ok | Oct 13 14:40 PT |
@@ -127,7 +127,7 @@ tags: ["sources"]
 | Masters of Scale | tech | 5 | ok | Oct 13 02:00 PT |
 | Money Crashers | markets | 26 | ok | Oct 13 10:04 PT |
 | Money For the Rest of Us | markets | 1 | ok | Sep 30 13:00 PT |
-| Money Saving Mom® | markets | 88 | ok | Oct 13 14:02 PT |
+| Money Saving Mom® | markets | 89 | ok | Oct 13 14:02 PT |
 | Money Under 30 | markets | 10 | ok | Oct 13 09:41 PT |
 | MyWifeQuitHerJob.com | markets | 8 | ok | Oct 12 13:22 PT |
 | NASA | science | 17 | ok | Oct 13 13:41 PT |
@@ -139,23 +139,23 @@ tags: ["sources"]
 | NYT Business | business | 53 | ok | Oct 13 14:03 PT |
 | NYT Politics | politics | 25 | ok | Oct 13 14:10 PT |
 | NYT World | world | 52 | ok | Oct 13 14:00 PT |
-| Nature | science | 75 | ok | Oct 12 17:00 PT |
+| Nature | science | 75 | down | Oct 12 17:00 PT |
 | NerdWallet | markets | 12 | ok | Oct 13 13:35 PT |
 | New Scientist - Space | science | 5 | ok | Oct 09 10:00 PT |
 | News - Cryptonews | markets | 20 | ok | Oct 13 11:44 PT |
 | NewsBTC | markets | 10 | ok | Oct 12 10:08 PT |
 | Nieman Lab | tech | 18 | ok | Oct 13 12:29 PT |
 | Oblivious Investor | markets | 2 | ok | Oct 12 05:00 PT |
-| OilPrice.com | markets | 20 | ok | Oct 13 14:30 PT |
+| OilPrice.com | markets | 21 | ok | Oct 13 15:00 PT |
 | OpenAI News | tech | 23 | ok | Oct 13 05:00 PT |
 | OpenSecrets News |  | 4 | down | Oct 12 09:10 PT |
-| PR Newswire Business Tech | tech | 9 | ok | Oct 13 11:43 PT |
+| PR Newswire Business Tech | tech | 9 | down | Oct 13 11:43 PT |
 | PR Newswire Contracts | business | 20 | ok | Oct 13 11:39 PT |
 | PR Newswire General Business | business | 18 | ok | Oct 13 13:05 PT |
 | PR Newswire Joint Ventures | business | 17 | ok | Oct 13 06:23 PT |
-| PR Newswire M&A | business | 109 | ok | Oct 13 14:57 PT |
+| PR Newswire M&A | business | 114 | ok | Oct 13 15:00 PT |
 | Personal Finance |  | 26 | down | Oct 13 10:53 PT |
-| Phys.org - latest science and technology news stories | science | 60 | ok | Oct 13 14:50 PT |
+| Phys.org - latest science and technology news stories | science | 62 | ok | Oct 13 15:00 PT |
 | Planet Money | business | 4 | ok | Oct 09 14:07 PT |
 | Playbook | us | 14 | ok | Oct 13 03:07 PT |
 | Popular Science | science | 76 | ok | Oct 13 14:02 PT |
@@ -170,12 +170,12 @@ tags: ["sources"]
 | SBA News | business | 1 | ok | Oct 07 09:28 PT |
 | SCOTUSblog | politics | 25 | ok | Oct 13 07:53 PT |
 | SEC EDGAR 8-K | filings | 207 | ok | Oct 13 14:30 PT |
-| SEC EDGAR All Filings | filings | 677 | ok | Oct 13 14:58 PT |
+| SEC EDGAR All Filings | filings | 685 | ok | Oct 13 15:08 PT |
 | SEC Press Releases | politics | 9 | ok | Oct 09 07:59 PT |
 | START (UMD) Terrorism Research | politics | 2 | ok | Oct 02 06:22 PT |
 | Sawbones: A Marital Tour of Misguided Medicine | science | 2 | ok | Oct 13 09:00 PT |
 | Science Latest | science | 15 | ok | Oct 09 11:30 PT |
-| Seeking Alpha Market Currents | markets | 72 | ok | Oct 13 14:53 PT |
+| Seeking Alpha Market Currents | markets | 75 | ok | Oct 13 15:02 PT |
 | Shirtloads of Science | science | 1 | ok | Oct 03 16:00 PT |
 | Simon Willison (LLMs) | tech | 31 | ok | Oct 13 06:32 PT |
 | Small Business Trends | tech | 15 | ok | Oct 13 12:31 PT |
@@ -184,22 +184,22 @@ tags: ["sources"]
 | Technical Information Security Content & Discussion |  | 22 | down | Oct 13 07:40 PT |
 | The College Investor | markets | 6 | ok | Oct 13 13:53 PT |
 | The Duct Tape Marketing Podcast | business | 4 | ok | Oct 09 04:33 PT |
-| The Hill Policy | politics | 16 | ok | Oct 13 14:17 PT |
+| The Hill Policy | politics | 17 | ok | Oct 13 14:59 PT |
 | The Infinite Monkey Cage | science | 1 | ok | Oct 13 07:30 PT |
 | The Keyword | tech | 21 | ok | Oct 13 11:00 PT |
 | The Market's Compass Technical View |  | 3 | down | Oct 12 03:04 PT |
 | The Nevada Independent | us | 59 | ok | Oct 13 12:12 PT |
 | The Ramsey Show | markets | 10 | ok | Oct 13 03:00 PT |
 | The Startup Junkies Podcast | tech | 2 | ok | Oct 13 10:11 PT |
-| The Verge | tech | 35 | ok | Oct 13 14:35 PT |
+| The Verge | tech | 35 | down | Oct 13 14:35 PT |
 | This Week in Tech (Audio) | tech | 2 | ok | Oct 11 21:00 PT |
-| Top stories - Google News | world | 137 | ok | Oct 13 14:42 PT |
+| Top stories - Google News | world | 141 | ok | Oct 13 14:42 PT |
 | US Courts Judiciary News | politics | 1 | ok | Oct 01 05:00 PT |
 | Unbox Therapy | tech | 2 | down | Oct 08 10:36 PT |
 | WIRED | tech | 51 | ok | Oct 13 12:35 PT |
 | War on the Rocks | world | 26 | ok | Oct 13 11:00 PT |
 | World & Nation | us | 42 | ok | Oct 13 13:57 PT |
-| World News - Breaking News, Top Stories | us | 11 | ok | Oct 12 06:51 PT |
+| World News - Breaking News, Top Stories | us | 12 | ok | Oct 13 04:15 PT |
 | World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India | world | 30 | ok | Oct 13 13:34 PT |
 | ZebPay | markets | 10 | ok | Oct 13 06:18 PT |
 | cybersecurity |  | 26 | down | Oct 13 10:55 PT |

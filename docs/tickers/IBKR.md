@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $IBKR"
-updated: 2026-10-13T14:59:29-07:00
+updated: 2026-10-13T15:09:45-07:00
 count: 1
 tags: ["ticker", "IBKR"]
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T14:59:29-07:00
-count: 218
+updated: 2026-10-13T15:09:45-07:00
+count: 219
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-218 most recent items (14-day window).
+219 most recent items (14-day window).
 
 ## 2026-10-13
 
@@ -40,6 +40,7 @@ tags: ["category", "us"]
 - [‘We had some looks’: Knights power play cold against elite Wild PK](https://www.reviewjournal.com/sports/goldenknights/we-had-some-looks-knights-power-play-cold-against-elite-wild-pk-3899448/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [Inside Gaming: Strip resort unveils 275-suite luxury hotel-within-a-hotel](https://www.reviewjournal.com/business/business-columns/inside-gaming/inside-gaming-strip-resort-unveils-275-suite-luxury-hotel-within-a-hotel-3899442/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
 - [Four Seasons condo towers in Henderson reach $950M in sales](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/four-seasons-condo-towers-in-henderson-reach-950m-in-sales-3899438/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
+- [Poland Blames Starlink Sabotage On Russia](https://www.huffpost.com/entry/poland-blames-starlink-sabotage-on-russia_n_6ace11c4e4b0649434775c30) — World News - Breaking News, Top Stories · 04:15 PT · #us #foreign
 - [High on hopium](https://www.politico.com/newsletters/playbook/2026/10/13/high-on-hopium-01116439) — Playbook · 03:07 PT · #us
 - [Saudi Arabia faces a grim choice as Houthis intensify attacks on airports and oil sites](https://www.latimes.com/world-nation/story/2026-10-13/saudi-arabia-faces-grim-choice-as-houthis-intensify-attacks-on-airports-oil-sites) — World & Nation · 03:00 PT · #us #foreign #oil
 - [Liking Las Vegas: UAE delegation visits to explore business, tourism opportunities](https://thenevadaindependent.com/article/liking-las-vegas-uae-delegation-visits-to-explore-business-tourism-opportunities/) — The Nevada Independent · 02:00 PT · #us #nevada

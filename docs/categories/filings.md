@@ -1,6 +1,6 @@
 ---
 title: "Category: filings"
-updated: 2026-10-13T14:59:29-07:00
+updated: 2026-10-13T15:09:45-07:00
 count: 400
 tags: ["category", "filings"]
 ---
@@ -11,6 +11,14 @@ tags: ["category", "filings"]
 
 ## 2026-10-13
 
+- [4 - WEBTOON Entertainment Inc. (0001997859) (Issuer)](https://www.sec.gov/Archives/edgar/data/1997859/000160518226000018/0001605182-26-000018-index.htm) — SEC EDGAR All Filings · 15:08 PT · #filings #markets
+- [X-17A-5 - CMD GLOBAL PARTNERS, LLC (0001790790) (Filer)](https://www.sec.gov/Archives/edgar/data/1790790/000179079026000002/0001790790-26-000002-index.htm) — SEC EDGAR All Filings · 15:06 PT · #filings #markets
+- [4 - Yearout Karalyn (0001978268) (Reporting)](https://www.sec.gov/Archives/edgar/data/1978268/000071995526000216/0000719955-26-000216-index.htm) — SEC EDGAR All Filings · 15:04 PT · #filings #markets
+- [4 - Construction Partners, Inc. (0001718227) (Issuer)](https://www.sec.gov/Archives/edgar/data/1718227/000119312526420710/0001193125-26-420710-index.htm) — SEC EDGAR All Filings · 15:04 PT · #filings #markets
+- [4 - Workday, Inc. (0001327811) (Issuer)](https://www.sec.gov/Archives/edgar/data/1327811/000093807126000067/0000938071-26-000067-index.htm) — SEC EDGAR All Filings · 15:03 PT · #filings #markets
+- [SCHEDULE 13G/A - iRhythm Holdings, Inc. (0001388658) (Subject)](https://www.sec.gov/Archives/edgar/data/1388658/000110465926115591/0001104659-26-115591-index.htm) — SEC EDGAR All Filings · 15:02 PT · #filings #markets
+- [4 - Siu Chris (0001389044) (Reporting)](https://www.sec.gov/Archives/edgar/data/1389044/000104047026000307/0001040470-26-000307-index.htm) — SEC EDGAR All Filings · 15:01 PT · #filings #markets
+- [3 - Monnier Philippe Diego (0002114881) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114881/000121390026109144/0001213900-26-109144-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
 - [3 - WISeSat.Space Holdings Corp. (0002101411) (Issuer)](https://www.sec.gov/Archives/edgar/data/2101411/000121390026109143/0001213900-26-109143-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
 - [3 - ROUY-POIRIER Gwenael Jerome (0002019670) (Reporting)](https://www.sec.gov/Archives/edgar/data/2019670/000121390026109142/0001213900-26-109142-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
 - [3 - Fergusson David Alexander (0002114937) (Reporting)](https://www.sec.gov/Archives/edgar/data/2114937/000121390026109141/0001213900-26-109141-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
@@ -403,11 +411,3 @@ tags: ["category", "filings"]
 - [ABS-15G - KREF CLO Loan Seller LLC (0001757718) (Filer)](https://www.sec.gov/Archives/edgar/data/1757718/000094562126001251/0000945621-26-001251-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
 - [6-K - Wellchange Holdings Co Ltd (0001990251) (Filer)](https://www.sec.gov/Archives/edgar/data/1990251/000121390026109040/0001213900-26-109040-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
 - [4 - BlackRock Portfolio Management LLC (0002052113) (Reporting)](https://www.sec.gov/Archives/edgar/data/2052113/000110465926115524/0001104659-26-115524-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
-- [144 - Jones Jonathan (0002092880) (Reporting)](https://www.sec.gov/Archives/edgar/data/2092880/000195004726010205/0001950047-26-010205-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
-- [4 - Corebridge Financial, Inc. (0001889539) (Issuer)](https://www.sec.gov/Archives/edgar/data/1889539/000119312526420489/0001193125-26-420489-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
-- [6-K - Arbe Robotics Ltd. (0001861841) (Filer)](https://www.sec.gov/Archives/edgar/data/1861841/000121390026109039/0001213900-26-109039-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
-- [6-K - Medirom Healthcare Technologies Inc. (0001819704) (Filer)](https://www.sec.gov/Archives/edgar/data/1819704/000119312526420488/0001193125-26-420488-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
-- [4 - TRex Bio, Inc. (0002139097) (Issuer)](https://www.sec.gov/Archives/edgar/data/2139097/000182912626011084/0001829126-26-011084-index.htm) — SEC EDGAR All Filings · 13:30 PT · #filings #markets
-- [8-K - STERIS plc (0001757898) (Filer)](https://www.sec.gov/Archives/edgar/data/1757898/000119312526420487/0001193125-26-420487-index.htm) — SEC EDGAR 8-K · 13:29 PT · #filings #item-1.01 #markets
-- [144 - Agrawal Archana (0001785447) (Reporting)](https://www.sec.gov/Archives/edgar/data/1785447/000195004726010204/0001950047-26-010204-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets
-- [13F-HR - B. Riley Wealth Advisors, Inc. (0001464811) (Filer)](https://www.sec.gov/Archives/edgar/data/1464811/000146481126000010/0001464811-26-000010-index.htm) — SEC EDGAR All Filings · 13:29 PT · #filings #markets

@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-13T14:59:29-07:00
+updated: 2026-10-13T15:09:45-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,6 +11,10 @@ tags: ["project", "ai"]
 
 ## 2026-10-13
 
+- [iOS 27.2 Adds New Apple Music Icon](https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/) — MacRumors · 15:04 PT · #tech #ai
+- [Blind Veterans Cross the Army Ten-Miler Finish Line, Despite Heavy Rain, with support of Meta AI Glasses and Lighthouse Guild](https://www.prnewswire.com/news-releases/blind-veterans-cross-the-army-ten-miler-finish-line-despite-heavy-rain-with-support-of-meta-ai-glasses-and-lighthouse-guild-302907656.html) — PR Newswire M&A · 15:00 PT · #business #ai
+- [5 clever ways Gemini can automate everyday tasks](https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/) — Engadget - Technology News & Expert Reviews · 15:00 PT · #tech #ai
+- [Disney Accused Character.ai of Copyright Infringement. Now It’s Bidding on the Bankrupt Startup’s Assets](https://www.inc.com/kevin-haynes/disney-accused-characterai-copyright-infringement-now-bidding-bankrupt-startups-assets/91419440) — Inc.com · 14:54 PT · #tech #ai #smallbiz
 - [Apple bets on new screen gadget, Siri AI in home device push](https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992) — Investing.com Stock Market · 14:54 PT · #markets #ai
 - [Apple HomeView accessories will expand what is possible with the home hub](https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss) — AppleInsider · 14:38 PT · #tech #ai
 - [OpenAI says it found a 'sophisticated recording device' hidden in its offices](https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/) — Engadget - Technology News & Expert Reviews · 14:34 PT · #tech #ai
@@ -410,7 +414,3 @@ tags: ["project", "ai"]
 - [Deploying LLMs locally: Ollama, llama.cpp, and vLLM compared - TechGig](https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2VCeTZkaEhSMkp5MzZkNzMwdHRMV3hXaGdVaTZ1YWsxdnZXYkdoN1FQaWNGZzNCN1VkWWZrZFdhREttRnRsMHBBcjBhTWpDekN5OTZJSmJqd3Vabk8zajJKYTZJNEotX0c3cEpxRFJ1amVmaXpMUlBJTlJaYVdyWWlBUnR6cGhsYjEySndiN3pFX2ZhRGNPN045MNIBoAFBVV95cUxNdktBY0xwdEV5a1FrNlVJN1FOSElrMjcyTjRucDE2Q1VlM3dqeXRXS3RLQjBPSkRiTGFzMVUzelZWR0hMWTkzS1ZqT0tfR1pqWTdEblRMc0hiQUJhQ0RDSmJyZFJOc01LM2pLaVpSZDhsSDhWRGdxQWVoWFpSVjBjWW9pY2EtNGJmMzNZSmxZamRHc09RLW9QZE8yaldic3Jo?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 19:37 PT · #tech #ai
 - [HarnessHive](https://www.producthunt.com/products/harnesshive) — Product Hunt — The best new products, every day · 19:17 PT · #tech #ai
 - [‘The norm will be to trade with agents’: Crypto founders learn to love—and fear—AI](https://fortune.com/2026/10/12/crypto-founders-ai-agentic-trading/) — Fortune | FORTUNE · 19:05 PT · #business #ai #smallbiz
-- [Mactracker 8.3 - TidBITS](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fd0tDdDFmeWhCQkxoektZZlB0amZnM3VvOUZEY0lEdFI1WjVsa0RmTUJXWjlFWVU4OWlDN2lpcWNiSkJtWUxkejZ1azZhSFNIMWh0TW9xQjZhM1E?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 19:04 PT · #tech #ai
-- [IMF warns global economy ‘could soon test the limits of resilience’](https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026) — Guardian World · 19:00 PT · #world #ai #oil
-- [Meta claims new Muse Wonder AI models rival OpenAI, Anthropic](https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 18:54 PT · #markets #ai #smallbiz
-- [Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices - Apple Machine Learning Research](https://news.google.com/rss/articles/CBMickFVX3lxTE1CM1hFSzdlUk5zMms5bkZNczdibWpxZTd5RUU2Nk9mOE1qN1daWXNyc0QwRTIwMkk5VjVFWnc2Zkt1SV9BQkN4NFBfTERrWkl2M1VVWGdEU1g1LXR3SEx0VkphdTVvTDdMVk83bzhySFRNQQ?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 18:49 PT · #tech #ai
