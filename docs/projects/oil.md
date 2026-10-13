@@ -1,13 +1,13 @@
 ---
 title: "Project: Oil / Energy Routes"
-updated: 2026-10-13T13:21:43-07:00
-count: 301
+updated: 2026-10-13T13:28:39-07:00
+count: 302
 tags: ["project", "oil"]
 ---
 
 # Project: Oil / Energy Routes
 
-301 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
+302 most recent items (14-day window). Atom feed: [oil.xml](../feeds/oil.xml)
 
 ## 2026-10-13
 
@@ -129,6 +129,7 @@ tags: ["project", "oil"]
 - [Decline in Russian Crude Output Slowed in September, OPEC Says - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlFyemF3czFHbF9Ib3JLMzNxTWhTbGFwSnRJOGJvc2NiMkpRVWRSSXEzWDd6a0cwYXpxS1M5Z0pscmYyMmlUWEZtSEVGWUVWZ2w2SXliU0VRQWM3bkFSaHRWOTZyZlpWdEdHbmMxUGQ0TU4xdVhoaHl3TkxjSEtQcExCdW55dE9SWWRNMUx0cTJZcTR1SkNZNHBOWWZhNGF4QmFGMkk4N1VLaU1WR1pDbnZ3?oc=5) — Google News: OPEC crude oil · 05:08 PT · #markets #foreign #oil
 - [OPEC raises 2027 oil demand view, citing need to rebuild stocks - Central Oregon Daily](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRzlZWG13RHVDTEdFVC1pWnZtckJPTFQtSjdOV2c0V2ZQNjlWQ05oemE0MVFQd1dtaUsxTUkyXy1PQ1gwb2Y3OXhIWmVoNk9LNzB3SFlvX2FfUG12QmkzREtqQVdvVldEbzlGejEyWGMxOWxsNk0yajMyUHlBNVhHYXFkdnBicUpMc2tzaFBYeTFpek9NVGc3N3NXSktvUDFMTHVxNTBCV1VLVHVMVXRFbHNzTHV3UGtKUjR1N3dlQ280UTg5em4zczgtUm5hUnhaeHNnMF9kLUpublU3NmZEX2U4NmlZZ0NNZkxpdkJUeG9GMW8?oc=5) — Google News: OPEC crude oil · 05:07 PT · #markets #oil
 - [South Korean President Hails Arctic Container Shipping Trial, but Commercial and Sanctions Questions Remain](https://gcaptain.com/south-korean-president-hails-arctic-container-shipping-trial-but-commercial-and-sanctions-questions-remain/) — gCaptain (shipping) · 05:05 PT · #world #foreign #oil
+- [Ships in Hormuz strait hit by worst spate of attacks since start of war](https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894?syn-25a6b1a6=1) — FT Home · 05:04 PT · #business #foreign #oil
 - [GasBuddy Flags Fragile Calm at the Pump](https://www.rigzone.com/news/gasbuddy_flags_fragile_calm_at_the_pump-13-oct-2026-184834-article/?rss=true) — Rigzone · 05:03 PT · #markets #oil
 - [ICE Brent Options Reach Record Traded Volume in Q3 2026 as Customers Manage Risk Across the Brent Curve](http://www.businesswire.com/news/home/20261013755877/en/ICE-Brent-Options-Reach-Record-Traded-Volume-in-Q3-2026-as-Customers-Manage-Risk-Across-the-Brent-Curve/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 05:00 PT · #business #oil $ICE
 - [Saudis Tell OPEC That Oil Output Recovered From Three-Decade Low - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjkzY3Y2MWdvOE1pQVhjSnNXWjQ0RGIyTHdrbzhNN1loVzVDZW8yUkh3QmJtdHdSRVR1aUFRdmU4c3l3R09kZVRvQ1RLenpZbHBKV3F2cG9WeU9DcGxhTXBSSFZOVmw5TmlfQlh3RVp3d1JQYzY4UnhwMUFiTnhwQlRVcXFvVTROMG96VUdneW1GbDBsSGs5VnlPRUtUWE9zUVdQeHFGWnpzb2hxWkc5d3NuTWNJUQ?oc=5) — Google News: OPEC crude oil · 05:00 PT · #markets #oil

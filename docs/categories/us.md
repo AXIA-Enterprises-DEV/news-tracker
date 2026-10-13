@@ -1,16 +1,17 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T13:21:43-07:00
-count: 209
+updated: 2026-10-13T13:28:39-07:00
+count: 210
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-209 most recent items (14-day window).
+210 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [LVCVA happy with results of this year’s five-day sale in September](https://www.reviewjournal.com/business/tourism/lvcva-happy-with-results-of-this-years-five-day-sale-in-september-3899593/) — Las Vegas Review-Journal · 12:59 PT · #us #nevada
 - [Vatican says pope’s lung nodule surgery was successfully completed](https://lasvegassun.com/news/2026/oct/13/vatican-says-popes-lung-nodule-surgery-was-success/) — Las Vegas Sun · 12:31 PT · #us #nevada
 - [Es poco probable que debatan Lombardo y Ford — qué saber acerca del estancamiento](https://thenevadaindependent.com/article/es-poco-probable-que-debatan-lombardo-y-ford-que-saber-acerca-del-estancamiento/) — The Nevada Independent · 12:12 PT · #us #nevada
 - [Restaurant chain with 2 Las Vegas locations settles sexual harassment lawsuit for $3M](https://www.reviewjournal.com/news/civil-courts/restaurant-chain-with-2-las-vegas-locations-settles-sexual-harassment-lawsuit-for-3m-3899581/) — Las Vegas Review-Journal · 11:55 PT · #us #nevada

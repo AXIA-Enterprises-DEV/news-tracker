@@ -1,16 +1,18 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T13:21:43-07:00
-count: 378
+updated: 2026-10-13T13:28:39-07:00
+count: 380
 tags: ["category", "science"]
 ---
 
 # Category: science
 
-378 most recent items (14-day window).
+380 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [New electrochemical sensor could make food quality testing faster and less expensive](https://phys.org/news/2026-10-electrochemical-sensor-food-quality-faster.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
+- [Want more women CEOs? Start with company structure, research finds](https://phys.org/news/2026-10-women-ceos-company.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
 - [New carbon calculator helps research labs pinpoint emissions and target reductions](https://phys.org/news/2026-10-carbon-labs-emissions-reductions.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
 - [3D map of rice development charts gene activity across plant's entire life cycle](https://phys.org/news/2026-10-3d-rice-gene-entire-life.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
 - [A new way to replace carbon with nitrogen atoms could lead to better medicines](https://phys.org/news/2026-10-carbon-nitrogen-atoms-medicines.html) — Phys.org - latest science and technology news stories · 12:50 PT · #science

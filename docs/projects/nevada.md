@@ -1,16 +1,17 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-13T13:21:43-07:00
-count: 247
+updated: 2026-10-13T13:28:39-07:00
+count: 249
 tags: ["project", "nevada"]
 ---
 
 # Project: Nevada / Las Vegas
 
-247 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
+249 most recent items (14-day window). Atom feed: [nevada.xml](../feeds/nevada.xml)
 
 ## 2026-10-13
 
+- [LVCVA happy with results of this year’s five-day sale in September](https://www.reviewjournal.com/business/tourism/lvcva-happy-with-results-of-this-years-five-day-sale-in-september-3899593/) — Las Vegas Review-Journal · 12:59 PT · #us #nevada
 - [Las Vegas Global Economic Alliance and Commercial Real Estate Brokers Join Forces and Leverage Assets to Attract Business Investment to Southern Nevada - Nevada Business Magazine](https://news.google.com/rss/articles/CBMilgJBVV95cUxNUXNrWEc4cWZSRDNpR3czRGZLeEZTajljVnNiOXdIUWlCUm8xeHduSjNMOGpMMGRsbVpHRkd1VUYzblJuNkE2QXNtREllTUdNclZPWkp2RGhDdVFRVmFNTWZsalloTVVEOHBFelo5NFFnNDB4Z05uNEhjZVlTVHJxUlgwcVhUUVEzeFljUjhHX1N2MVhHV2hzNmJLTHBSSWpPb2R2T2NBbF9yV1BLOEE5b2NFRXNHNnFaREg3OHRiSW42UzN1WWppSHF2a3d2WGV5UUxnajBBenpiTFJSeFdSREhPcnVaYUpRRzF4RU4wQWtUdnhfbFdJbS1HYUxDdk5IRDB6M0dnb1kwTFJZZ1hLd2tJcDEzdw?oc=5) — Google News: Las Vegas real estate · 12:34 PT · #business #nevada #realestate
 - [Vatican says pope’s lung nodule surgery was successfully completed](https://lasvegassun.com/news/2026/oct/13/vatican-says-popes-lung-nodule-surgery-was-success/) — Las Vegas Sun · 12:31 PT · #us #nevada
 - [Supreme Court agrees to hear watchdog lawsuit seeking records on Elon Musk’s DOGE - The Vacaville Reporter](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2dPazc4a3BnbTRSMnhaVDlNemZZTVc4aUhudEVhcm12dk1OanN2V2hKLUk3RU0wS3V1aWd5ZU1sREtGRmc0UjNvb3pGeHdwXzI1UWlmR3pmZ3plSDRKaHhmVFJKNUVLRFBXcjRDOXFDYTNoVGxJckxkZU4xanc1TnRHV0lNUEtaVWFlbXB6OFA?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 12:18 PT · #politics #civic #nevada
@@ -76,6 +77,7 @@ tags: ["project", "nevada"]
 - [Jake A. Geckler Announces Growing Las Vegas Luxury Relocation Interest Amid West Coast Tax Pressure - FinancialContent](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcEJwVC10LVlUN0hkb0ZHUXV5b0UzNUw3a0pQU0o2UjREZ01ZR2pZT3ZyX2JrQlJlZGtfT09xN0JNRmVKR3diWV9vMkpvcmlqWGd0ZkZOM3BwY0Q2NXdXQk1yNGlXY25xM0lQMFRqc1A4eUtNcmkzZjBlem5BLXExYk90ZGQ0bjREV3BLMU02cVNZSFh0b2JnQlZNTXpyU1RrSFVwSHRzc0pjSC1sYW5tbjJFNkRSVHdxUEVhX1AtY2RqLVYzQlJsSFFyaWNaN2VvYUpab2hKcVNxVEhaUXZqbnN3Y1dGdlQ0bkdFMVdlQVpDamhOOWVCRw?oc=5) — Google News: Las Vegas real estate · 03:59 PT · #business #nevada #realestate
 - [The Cosmopolitan of Las Vegas to Unveil The Corner Store November 9 - WhatNow](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTZwWWlwUndnNTU3ejRCQVphX0VaVy1CTzRDWGZzb25ZUWFDd3o3S1ZIZVN5WS1MVjZ1RWFVNk1JcWhuQmgtaVp1bkhxY1JGYkhzVThBa1l2RlpzQm5KVWhBZzdpWEJGUzk3cC15NVpLUTJkM1lBU2s1VDFUc0UzQzB0YVhiRlE3RHpFWGlMakVFNmJiSVlBQjFuSFlFXzNLYi1lWmxXNlVvTzBnLXY0?oc=5) — Google News: Las Vegas real estate · 03:08 PT · #business #nevada #realestate
 - [The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/) — WIRED · 03:00 PT · #tech #ai #nevada
+- [Candidates Night features sheriff, school board candidates - Nevada Appeal](https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0YzVGtZdXRNTDlTeFdUOXpla2ItT1V0VmR3ZlRoRUxkeUFQN0x1bUtTdHJwbF85VllUaVdrZmdmOTVSTU9uY1J1S3NiOVE2MG5Ub2ZlWHlfWUxRZWo3UFBzZ1ZseVlFbTdtTExUOGg4ZW91akFnZjc3X2hJbWRoTHEwUFVaNnJkQUlreUZpSDdscUtZalhpLXl2Zm9GUkxIbkRubFgxMA?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 03:00 PT · #politics #nevada
 - [Liking Las Vegas: UAE delegation visits to explore business, tourism opportunities](https://thenevadaindependent.com/article/liking-las-vegas-uae-delegation-visits-to-explore-business-tourism-opportunities/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [OPINION: Nevada law is built to tame Big Tech's rogue AI experiments](https://thenevadaindependent.com/article/opinion-nevada-law-is-built-to-tame-big-techs-rogue-ai-experiments/) — The Nevada Independent · 02:00 PT · #us #ai #nevada
 - [Some Nevada unions love data centers. Now they just have to convince everyone else.](https://thenevadaindependent.com/article/some-unions-love-data-centers-now-they-just-have-to-convince-everyone-else/) — The Nevada Independent · 02:00 PT · #us #nevada

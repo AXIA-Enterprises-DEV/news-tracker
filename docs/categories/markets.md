@@ -1,6 +1,6 @@
 ---
 title: "Category: markets"
-updated: 2026-10-13T13:21:43-07:00
+updated: 2026-10-13T13:28:39-07:00
 count: 400
 tags: ["category", "markets"]
 ---
@@ -11,6 +11,8 @@ tags: ["category", "markets"]
 
 ## 2026-10-13
 
+- [Micron’s stock extends declines as China competition heats up](https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories) — MarketWatch Top Stories · 13:25 PT · #markets #foreign
+- [Rice Chex Cereal just $2.85 shipped, plus more!](https://moneysavingmom.com/rice-chex-cereal-family-size-deal/) — Money Saving Mom® · 13:22 PT · #markets
 - [Kandi Technologies announces 1-for-10 reverse stock split](https://seekingalpha.com/news/4652666-kandi-technologies-announces-1-for-10-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:18 PT · #markets
 - [Cummins declares $2.20 dividend](https://seekingalpha.com/news/4652684-cummins-declares-2_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:18 PT · #markets
 - [Kinetik declares $0.81 dividend](https://seekingalpha.com/news/4652682-kinetik-declares-0_81-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:17 PT · #markets
@@ -409,5 +411,3 @@ tags: ["category", "markets"]
 - [Chinese fraud victims lose key court battle over 61,000 Bitcoin](https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 02:03 PT · #markets
 - [South Korea Exchange Ban Hits KuCoin, MEXC and 25 Other Platforms](https://cryptonews.com/news/south-korea-crypto-regulation-exchange-ban/) — News - Cryptonews · 02:01 PT · #markets
 - [Oil retreats as Russian diesel supply prospects counter Gulf supply risks - Zawya](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDdCa25MMm1ybVBoZy1wWUNyWERiVlNiZXUzUC0wR2NrdWVtREp3eVp0b21IOF9yalpkLVc1Q0plUE5TNHptTFNRVVdUWFJMd0ljWUZWS1R2cGhaOC1sa0JZczR0eUNlMXNGTXBDaVNsbE1kY2paOS1ZbUc0VmhUUmVfZWFPMTJPYlR3UncwaF9UREJwVmhhNXdMTWVTU1h4WmIwR1MtUGJZd1FGaTZZT0NvbXhUelduMHZQTEhuS3I?oc=5) — Google News: OPEC crude oil · 02:01 PT · #markets #foreign #oil
-- [Japan plans subsidies for crude purchases outside the Strait of Hormuz - energynews.pro](https://news.google.com/rss/articles/CBMinAFBVV95cUxOclFqcldVMmhsSHM4M1ZocERYY2VUbTZPSWN5MWxuODYxSU5sTjI5WFJxTlhCM2x4UnB5anQ3UUMzdTVrS0trTzkwWEg1YXZiYWFHTE5QY2ROT1lZdk42SW5DZkk4NGhhTy1wZUJtMWdoTl9WZkhtWUZhVWRyVVNYdUJhT2M3ZHlLclZURGkwN3ZEU3dmdThzTFJyd0g?oc=5) — Google News: Strait of Hormuz OR tanker OR "oil pipeline" route · 02:01 PT · #markets #oil
-- [ZEC and NEAR Plummet Hard, BTC Recovers From Rollercoaster Ride: Market Watch](https://cryptopotato.com/zec-and-near-plummet-hard-btc-recovers-from-rollercoaster-ride-market-watch/) — CryptoPotato · 02:00 PT · #markets

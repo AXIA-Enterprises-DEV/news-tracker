@@ -1,13 +1,13 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-13T13:21:43-07:00
-count: 128
+updated: 2026-10-13T13:28:39-07:00
+count: 129
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-128 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+129 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-13
 
@@ -99,6 +99,7 @@ tags: ["project", "fed"]
 - [Bitcoin Traders Brace for CPI and 4 Other Key Events This Week](https://cryptopotato.com/bitcoin-traders-brace-for-cpi-and-4-other-key-events-this-week/) — CryptoPotato · 02:18 PT · #markets #fed
 - [Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - The Motley Fool](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUZ1bHNfOXgzTFdmWkU1SnZmaURVTS14cjB0UWpvaXBLdVpEYkpEUnlUZ2YyUTNGSHpYbmNCY1h5WjBYdVAxT2VhbE01cGJpb3lfeHVNNlBRbDJaMURxY21kTzV1WF9MSVlnZ1h5RVBpOGpwOW5SWHYtWkhlajNJX0F1bVd1U3ZJVkk4SEkzdG56S3NHSmd0MDhTNy1JdEQ3a2IxNU94TmhaY296UVZTNG9TZ05rOGNVSjFXMHVzY3BuVzlxTXFjRm55VQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 02:06 PT · #markets #fed
 - [2 Americans win Nobel Prize in economics for work on boom-bust cycles](https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics) — NPR Business · 01:35 PT · #business #fed
+- [Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0g1SXg2aFA0TDV3Y3J1T1RxSGZ4d3JEcUIwZE1IYmYxallZLXNsNUNoZWRmNDdqS19nTDEzaE1tNkxZR0lnb0VJTDM2cVlYM0l0Y0tHVkpuSlpkcG5Pb0NHNFpUSXJfS21FcHRyU3RySDBadmJldEt3SjJyVEtfRkc2bDJrYlMwZXVvdHBfcnAtMk41QWc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 01:26 PT · #markets #fed
 - [Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - The Globe and Mail](https://news.google.com/rss/articles/CBMinAJBVV95cUxPT3B4b19COUlfdUJQVi1RZ1FBblF0RnN4dHJIQkFvQVJQT2ZWWjhYWDEwWmdvRjVNNko3NFdQUHl4Qk9FNlpOYkptckNveG5jaDJBZjhRTUZZTzlBeER5Q0tQcUx4UWk5ODVTcW5kZVlIMnZtZEZ4QUpLbTE1ZV9ZSHdfcTVQeHNRY2dVN3ZmZ0FDUERxemQxSllsN1d5NzB5Rk9uTFYtXzRIU3NEYmtpNE9MZ2tsWnJNeUo1Q3VoR1l5d0lxaGp0WE9HQTd6ME52Z2I0c1VySERxVmVZNkpDVWhfdVpqcnQ2Q21iYVByX2dKUWJYQWVMWE9hZWEyMU5sb0dQWDRkNEdnWEN0SXY4NTZjM3p6a0xXUmZEdw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 01:26 PT · #markets #fed
 - [Gold rates dipped on Oct 12: Check Prices in Delhi, Mumbai, and other cities - Zee News](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNlZ5Tmt5ZUQtWmlabUR0SENZTkNheE4wbGEzS1pueE1ieVBIby0zWWRWTmUyQXFqVnhsRjBwNHc0c1hfTUZudld1RUhnVzNfNTlJS0psem9zbkdLOGZrTDRiNFp4ZGhlU0cteDNTU0RCZFVWQ1dfb3NHd3ZvaF9JU1locjVQSGRmRTBZRHVURG5MX1I5SXJoUnZDSWFFRGhwclZBRXJYOGhSNU9BdEc0Z2ZfUThCLUxWZlZsLdIBwgFBVV95cUxOczFrd3VUd19DbFpyZlVGM0VpT2JCNjhRZk1feVE2RFRfWWw3a3Z0QTBVSkRVVkkwbEJDTm12c2tkOG11czh3QkhwTXMwZGcyN055LWZGNWt5YmdTMXZQWjlnRkplc3Zrdk0zc1gydjdReERyOERaWG90YWVXREhWRXhhZmJ1SktWOG1Ka2wwUWF2UWNEX0pONmJ5TEFMRmJLa0ZHS2pydDZCUDljRE1vNU4teTdGOG8yWDhSUHU5czJQQQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 01:02 PT · #markets #fed
 - [Early rate hike ahead of Fed's move minimized economic costs: BOK chief - The Korea Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkRydzk0RHFMcUhIVDkxTlJldE9GLTFUanB5NWJLQTF0NTlwR3NDM1VLbHNTQ3JQMFJHZ25wV0Rud0FyWmF5TkhKT2JCazczd0VubGZORjFiU2FzTVp0bVNMcHptdGhxR0NmVUtXWllWaXNrN0JuTnhRTURPQVdnbmotd3dfcVM3cDdScXdxSld2T0tUOG53U05DOG13TW9DaWlibkxfMWR2THR0VzREcGF6bnowZ9IBuwFBVV95cUxQbmVUSzExUzBSV0hiNlkzRmFvX1Z6Z05ZQUlkcmJXNEpxWWpOVUJDRk40bThQTmRMcTNVYVZnMGdDbzI2YUFVVEl0R1d5OTBWU0pGX0xXOS1PS01aLWstMVVyWjhoNDg0b2dsLVNKUmlfeWFFODdPdWdaeV84R0YzMXZzWjctZUNVZlhXOE5EYzlMSG5hVGhSSWtYemNtWjBGb290bGJSZmNqVWFkbzJ2WWJ3RmZubVc0ZUM4?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 00:09 PT · #markets #fed

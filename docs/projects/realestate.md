@@ -1,16 +1,17 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-13T13:21:43-07:00
-count: 113
+updated: 2026-10-13T13:28:39-07:00
+count: 114
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-113 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+114 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-13
 
+- [Miami’s Little Havana confronts housing density’s double edge](https://www.housingwire.com/articles/little-havana-density-housing/) — HousingWire · 13:26 PT · #business #realestate
 - [Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower](https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html) — PR Newswire M&A · 13:15 PT · #business #markets #oil #realestate $BKD
 - [Some builders beat an entry-level retreat. Valera eyes an opening](https://www.housingwire.com/articles/valera-homes-houston-entry-level/) — HousingWire · 13:07 PT · #business #realestate
 - [HUD eyes 203(k) renovation changes to boost housing supply](https://www.housingwire.com/articles/fha-203k-renovation-program/) — HousingWire · 12:59 PT · #business #realestate

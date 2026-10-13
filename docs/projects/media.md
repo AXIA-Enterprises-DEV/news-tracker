@@ -1,13 +1,13 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-13T13:21:43-07:00
-count: 124
+updated: 2026-10-13T13:28:39-07:00
+count: 125
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-124 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+125 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-13
 
@@ -29,6 +29,7 @@ tags: ["project", "media"]
 - [Al Jazeera Inverts Reality in Ode to Mr. FAFO - Honest Reporting](https://news.google.com/rss/articles/CBMifkFVX3lxTFBDLVBscV95N0ZDRjVEWnNEU1liZHdEVHpZWWk3WEZuUXJxT3pfbEdSM3NPZW9Lcl81c1Rma0ZfSnBXaFZma1d3N3B1VjJmN0l6R01DeWh2enVrbFRCc0ZGTVB4Ukt1c0NrZFBBcXpOcHdCSlRMYmp6eDJLdGJOUQ?oc=5) — Google News: propaganda OR disinformation media · 07:36 PT · #world #media
 - [Local newspaper closures have surged to more than three a week](https://www.poynter.org/business-work/2026/local-newspaper-closures-news-deserts-2026/) — Poynter · 07:00 PT · #tech #media
 - [Salome Zourabichvili: My message to European partners is not to downplay what Russia is testing in Georgia—namely, hybrid warfare—where a scenario that once seemed impossible is suddenly becoming a reality - Ipn.ge](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQRnJnakN2ZGdQcXNMVEFHMTNVZUllLWt0X0o3QnFDXzIxLWE1Z3RTU2N6UlFJc2lGaG5feHdRX1ZUYnBKMVBtVU9WTXBzMVdVNk5rdW1ZSHNDSDJJYnJGZ2FoaXh3bDI1d0pUcURSUnpwTmVpSXMwM3hfRnBkLWRkZWZ3WnphbUEzY0JVZ011VzVfQzEzNGhFRjludDhCbElHMzJXSjR2MFZUUG1ZM0hJNS1OWXZTb3NsYVcxV2RwbjhuS0ozWnlCRUR3aFAxam5WQnlrbVNiV0hKdkFSWWpCcVFKTjBNa0ZoSTJnVmJaaF9RaGpzSHAxTk9PMk1PcXJobnZHOXZLbDdvcm5FMG5NQ0J6WnNMU18wMERMQ2VGSUk1TWdKTWVMektUNmF5TW96Mm4tT01rRjV4QmxYRENFUGs4ZEl4aWs4bGQxemR6bTkxaEJVWUlISExfMHRlSGdnNEp4a0RYSHFYTm5S?oc=5) — Google News: propaganda OR disinformation media · 06:14 PT · #world #foreign #media
+- [Could Ukraine Strikes on Russian Data Center Impact Bots? What We Know - Newsweek](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHFNZkhBa0ktSGM2NTRUZnVOS3VZaFJfeEh3M2VyTmZiSGFzT0x1RVpWMXAxRnJ0YUMwdXc5TXVPRlZibUdSZE5iTHYxOHl1Z0g4OW1PckNRcTR6MkNrRnM4TG5qSmpNRGl0ZmFaaHdjTGxWM01aZWZwS3E2REcxRF9wZ1psVHdHcS1GUlBUYV8?oc=5) — Google News: propaganda OR disinformation media · 05:53 PT · #world #foreign #media
 - [The Pentagon plans to livestream an execution. Some Republicans are having second thoughts.](https://www.poynter.org/commentary/2026/pentagon-livestream-execution-republican-concerns/) — Poynter · 04:30 PT · #tech #foreign #media
 - [Did Ukranian drones destroy Russia's disinformation bots? - RTE.ie](https://news.google.com/rss/articles/CBMivgFBVV95cUxORjhJZnUydTJ3Qk1ZM1lRczFRaEtZWlhfZlNCbk9TdlVmdDN0UG12ZUJRcU84UkNDMlc3VTRTdVpyZ00wUThvVldZRF9sandYT1dqUWdaNmpTX25YdTFVdHN3eW1oeGFBVERYclZoM1VqaVo2YzQzaXRSakNjWXZ1a1pfblhoelJtNUNTR0M4UzB6SkYtTV9Wc0NkY2ZsbzdNZG1wYm5vYlAzWG9GNkk2WU9VaW8zSHBBTGQzWGhB?oc=5) — Google News: propaganda OR disinformation media · 04:26 PT · #world #foreign #media
 - [The Ugly Consequences of Biased and Irresponsible Media Reporting - Clarion India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeE1XVUZHT0lEZS1kY1ZyVk01a2pQdnhndUwyVkhwaFhxRzE1cER5aHdsTFcza2dDUTFGR01VOEFQNzhOQWV0dkJhX05zM1Zod1plbEJCeXFPQU8tR2REamxxTHF5aUF2SVQxaUNkRzFiMWx3Q3l0VklxYW1ZQklVUW1iVTdrUXhtdllPZVVQZGpmMkNOR3c?oc=5) — Google News: propaganda OR disinformation media · 04:19 PT · #world #media

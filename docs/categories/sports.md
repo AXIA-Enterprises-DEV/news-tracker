@@ -1,16 +1,18 @@
 ---
 title: "Category: sports"
-updated: 2026-10-13T13:21:43-07:00
-count: 151
+updated: 2026-10-13T13:28:39-07:00
+count: 154
 tags: ["category", "sports"]
 ---
 
 # Category: sports
 
-151 most recent items (14-day window).
+154 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [McIlroy says he would vote for LIV Golf stars to be welcomed back to DP World Tour - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVhDckJRbEhpdlRqQS1fTmtjbzMtTDZTd2w0bXFTajNSd25DUmlhZFNWeFRQdWhhUmJlUUtxQ2NXYXFXbm9SYkMxVlRvTUxrSmlVUVhaQzRoR0d1ZFloWUpoNnFLbG1KQ0t6czQzQU15WUVQYmdxc0w0bXhqWGE3bFZJWFNRNTVPY3Utd0NtWW5FYkVpOEJjalI4VW1XUmc?oc=5) — Google News: PGA Tour OR LIV Golf · 13:19 PT · #sports #golf
+- [JumboMax Golf Grips Celebrates Ambassador Ian Gilligan Earning PGA Tour Card - The Golf Wire](https://news.google.com/rss/articles/CBMibEFVX3lxTE1NNnFXelk5TXdfSjNuLWJFd2xmRmQtZXRDdFFmamd2bGlvR1RBVlZTQWh4WUVkVG1CT19JT0F5RDVqLXNVWXNRaDNIejdjWFVDR2d4LVY4dG1oc0UyNUpoa1Q4THQ2QmdpSXhYSA?oc=5) — Google News: PGA Tour OR LIV Golf · 13:17 PT · #sports #golf
 - [LIV Golf players face another deadline with their future in golf at stake - Bryan Times](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM0I4d2poaFZndUhHb1hyc0UyOGpMNno2OHRZOE9ma3RMM2hNaTJmSkhVTnM1SGUzVVVlXy1rTUpZazRSRlByMnhKU0cxTGg3Mm9Yd0pqZ2xNY2IycXNSRTVnTTBRMGFweXEzbkhaSG5OUjh1dkZIMjQtV2xwMzZSVnY5VnNRZ3NrakdXVDgxNHREWVlfelNzMzJ4cDVYbXAyYVJSYmRkQzEwZExtaDNVNFJPaEVpa0ltUURqMjdEb1RZX2xBZE9QbGNwaXNyczg3SGtFS2otVEtYTm1WSkhrbHBoR0M1ZnpWNTJXWHJPOTVLMkM3d0NfYVhoUQ?oc=5) — Google News: PGA Tour OR LIV Golf · 13:07 PT · #sports #golf
 - [Rory McIlroy admits he’s lost friends over LIV Golf furore after siding with Tiger Woods - talkSPORT](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXdab3gyRmpOTXpENUJDWHJyWmtSNFZyVUxESGNfaS1kcER5VWUzMUplamRxcFRfR05PeGE0OWxSV0xPUXJwaklfUnNSd0J5cUM5bHR2RWJPMGpTQ0o4cEp6ZTJMaUotTUd0VXZyWWJZNjdnbzNaRldjdnJaaldZaXpCUQ?oc=5) — Google News: PGA Tour OR LIV Golf · 12:31 PT · #sports #golf
 - [PGA Tour vs. LIV Golf: A Clash of Financial Titans! - SportsGrid](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnhGYWxlb2pwY2ZhTm9XOS1GQTZYX0dlWm9wTkRrYmJsZFo2UENCVXpxdkdxNTg2Nko1dlRLdXpGUTlEVFFMMTZCdWZUNlJZSnJQM0VrTWQ5VWVnSjVWUUE1RXF1a3MyS1BtZ0hzNDlqM3VlamVBN1k4YW1IWXgzUmxfOUxudkswcTE3akpqWQ?oc=5) — Google News: PGA Tour OR LIV Golf · 12:06 PT · #sports #golf
@@ -57,6 +59,7 @@ tags: ["category", "sports"]
 - [From the Tree to the Tee: PGA TOUR Superstore Launches Holiday Gift Guide - The National Law Review](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFZXS29aOTkteFpDUXR4UXpla19ybjVrY1AwZ0JiU3N3eTI4TVlUeDJwMW05MkRmT0N4NTJtSFhjaWNXTnRmeFRnVENRcTJiakJpYWxreWsyOW9Tck14TlA4aEpFejU3T1IxMDh1TUtWLVFNdW9tSlkyaFgwNHpNWTJOcTkySklqNTk1bHZkZjhTVF9vbkI0b0l0eW0?oc=5) — Google News: PGA Tour OR LIV Golf · 08:54 PT · #sports #golf
 - [Ben Kohles 'betting on myself' in pursuit of 2027 PGA Tour card - Yahoo Sports](https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUVEU084NURlRTRuRXh3OWdyQmp1Y0p6Q0xHOXdCNkZGTjZXRndUR3RzZVIxNWVxdUFtRGVpaUsyTDBjVHlTSWRaVFNCSzRKSVc1TnNQRWsxWDVoZ3BUd2FEMnBoby0wOXg5a1NkNUY4Ukw1amxrZVNDOTdMRXAtaXN5R2d3dkhBaGc?oc=5) — Google News: PGA Tour OR LIV Golf · 08:52 PT · #sports #golf
 - [Rory McIlroy says ‘very difficult’ for LIV Golf to survive bankruptcy - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd19COXA1UFMyaXBleF9VeENpTUU1S0JldmhvWE8xcHJleHRoZUVJSHJtaHBZZnJUZ3licS1yVFZUeEpwU1lrXzBYUjY2SXZZamprU2VJSllzbmpjWjdvMmRFbWZVcHdIZTJjRXlXNjJ0Zmc0TkNFWlZTZ1JLZURhUDV0STllV2dRVC1fQkZPZXhILWpwczBYMHlCbHRVbFJ1SG02ZmRBLXFCS0U?oc=5) — Google News: PGA Tour OR LIV Golf · 08:35 PT · #sports #golf
+- [Brooks Koepka, Justin Thomas Set for Major $4 Million Golf Showdown - Heavy.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5DeXl6MUxYR2tJZ05VZ1VSTThmd3VfMkh3Yzk5Z1VJWlVXUDNYVVAxa09yRTdjaWRYYjc2UGVMTk9wbG5zQzF1c0dFTVA4SnJySWhzcFpJTFZfY19mbWUtZko1ZTF0alA5a0pXbA?oc=5) — Google News: PGA Tour OR LIV Golf · 08:33 PT · #sports #golf
 - [Michael Brennan’s historic stats, Mike Ditka’s legendary golf videos and a slept-on buddies trip destination - Yahoo Sports](https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHF4bl8tS0dTSmhtQzRFbjBMVEp2QVBYUmdydko1ckh1Q1FKc2tocmxnWm80QjZ5VEhqOUU5VjEtd0RSYWxac1g4UjNtS2VhR3RBVzk1WkVuYnJYVk1PcGk0TTNVTkYxSDFodHhuZTUxWkZRRnBNSUZyd3kxRWctV01yYldSMHhSMk1Ncg?oc=5) — Google News: PGA Tour OR LIV Golf · 08:17 PT · #sports #golf
 - [The 90 Percent Mental Golf Myth Is Half Wrong - Yahoo Sports](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSXBhZlNJRm9CWm1hcjRpTUtEbVNvQVVqN1BIeXVLWmF6MnBCdE9NdGh0NWRRM0Q1dXJPMXRZdGR3WVExYjFDNzRHejZsQ3FoSGxPWUFDSXdiX3NFS2J6RGtuSFMtajUxNkVvdHNxYWNfVTNkT0ljUEhTeW8zNDdPSDl3?oc=5) — Google News: PGA Tour OR LIV Golf · 08:16 PT · #sports #golf
 - [The Farmers Insurance Skins Game returns; Jackson Koivun, Brooks Koepka headline field - PGA Tour](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQ3d3VTJoYlFERDJhLUxlT3VPVnJnVGhFWGRIUmg0eDZ0aWlGZG9PZEJTczZVVlBUbDNzWExvZ0J5LTBrODhxZkdkd0ZJTkJmVllab3pHTC1jVlpQenFOeWR5c0tsbTdWVXlyQUZZREpmTG0zSzdOMTVKZDVXdGZ4N1AwWnBrYXl4VWFrNTR1WFJfQmdGYlBXZnFXWDFhYUMwS3pXZ1RDcDNkdi0xTldMZUZ6ZzJKd2RuaGJuMjJBNlNwSVc3cjhwVUswVllDbURzWVgzSjUxRGtxRGtIZV9XQ3ZGUFdFVGdRSGlmYlA1UlB1Z1FiV1FKVDVTTQ?oc=5) — Google News: PGA Tour OR LIV Golf · 08:07 PT · #sports #golf

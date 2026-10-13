@@ -1,13 +1,13 @@
 ---
 title: "Project: Entrepreneurship / Small Business"
-updated: 2026-10-13T13:21:43-07:00
-count: 270
+updated: 2026-10-13T13:28:39-07:00
+count: 271
 tags: ["project", "smallbiz"]
 ---
 
 # Project: Entrepreneurship / Small Business
 
-270 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
+271 most recent items (14-day window). Atom feed: [smallbiz.xml](../feeds/smallbiz.xml)
 
 ## 2026-10-13
 
@@ -217,6 +217,7 @@ tags: ["project", "smallbiz"]
 - [https://komonews.com/news/local/canda-trade-tensions-united-states-blaine-washington-econo - WJAC](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQeTZlSEZkdXhSMWpsWG5vYkVjQzl2NEdleU1SMHFHcUd6bXY1am90LUFId1lGUmE4OFFOdkV0STRNSEJiTm4xdUw5b0MwS2JaNFNDMmZKUUtyVEY3OHo4NkxFZFpSX2N2RTZORlZrUkVUa1ByVDNYQVNTZ1B5WDNMbkFUMU9PQmNUcHJMZlZmVVZWQkllaFFBYUtYS0tTaWhUY2hoYlZVMGU4Vk8tMXNGcFVmS3NlWmlDRlNCRU83N2Z3RG5ubkpVakgtUzBOZ2NJRHcwQTh3QjloaWpVc3NLdXpPd2pLa2N2a0ZWd1EwbWtiQWV6OEo1UllreFhfN2dwQmVTc214OXVBdkNYdXNFWlhxaVJjSjlFWTZjTTRNQWpHRmRPWTdOVg?oc=5) — Google News: small business owners · 00:00 PT · #business #smallbiz
 - [https://komonews.com/news/local/canda-trade-tensions-united-states-blaine-washington-econo - KHGI](https://news.google.com/rss/articles/CBMijAJBVV95cUxNUnUtLUMtY2xzbGtUNU9KVi1xZjJycURxdHdqN3hfQ0dHZ2gyaVlORzg5czFNTDFlNHJ6VVh3UUtaa21KTDNKS3VrMjdTSlhMM2xHUzZkSnh0UFFuQ1VxbGc2NmE1UFhzN0ZUYkNQUWMtTjhXWDBfZVFNbERPM0pnVm05TTJNWldFQ1NUdXVlRXNxVXNQUTFZSm8zQ3FOLTZhSEthcTlWdlFQbTBpcWhPbld3S1M4dmp0OElNMWtzSlhHRXlYRUhocXROekw1a1BVNzJLa2JXUGw0TEFDOW5tYi1ZcUpaSDFsUmF3RVp3TG0zYlZKSnFTUWV6dURySE9ZbUU2THVYc0VfdmRp?oc=5) — Google News: small business owners · 00:00 PT · #business #smallbiz
 - [https://komonews.com/news/local/canda-trade-tensions-united-states-blaine-washington-econo - NBC Montana](https://news.google.com/rss/articles/CBMikAJBVV95cUxQTG9QQ0puY3ZVODlLaXZTY1JOTzY3dDB1azh2SFRaUlh2Rk54UERORVFzSlBaTmZtSE0zdEUtNjFoQXEteWJXRlpCMTBoWmhfSE8ycEJ1YXFGQzk1eE9mT0p5THl0b2trUFE0dnNPVzVGWmZmUTc0aFFWUEx6a3pJbzV3WXcyUDgwWG45TnZNX1NYMC1KWEwwODVTWHgxUWhmOUdFVmpoS0hVSHBzaDFpWUthYThSQWVKV0tlMTQtLTJpdmpQMWdNd0x1ME9kRW55cFJOdGVFYk1ZbERLcFFnbTV4Smo0SnpMbnhCZmhBeUtINXp4dUFwV2s4aXVVZ0JGNmcyWnE4NExwUlROcW95Wg?oc=5) — Google News: small business owners · 00:00 PT · #business #smallbiz
+- [https://komonews.com/news/local/canda-trade-tensions-united-states-blaine-washington-econo - WCIV](https://news.google.com/rss/articles/CBMijgJBVV95cUxQUnM1R2ZHdGpMVnJoeXNiTVcyY1hxT0ZkNFNrVUF0bllUYWFUZDI5UGlPeUQwa1BWTG9SM3dSbU9GMlp4M0p0UHB2LWZjd0xSbUhuMUFQV1I4NXJmTDQ3aUc5ME1mZ3pIRS05RXpHekU5UGJkMEdxdWxZSkFDc2hQYl9xbHlhdW92UEFtZTBJMDM2d0x2cGZCR0p0aVEyS0JrMklEZ3FvT0haYkV2clc3a1NiV3E2T2NRd0lSOGJXNmM5cmptZ2hWS1YxNGQ1YlI4UWMwQXVFUGppNVFpeHNpNkdqRjF4VUJEcWhVdml4MXN6dEkxVndSRjlXWFN0Z0xkZ05mZURDeWlkQTJvMXc?oc=5) — Google News: small business owners · 00:00 PT · #business #smallbiz
 
 ## 2026-10-11
 
