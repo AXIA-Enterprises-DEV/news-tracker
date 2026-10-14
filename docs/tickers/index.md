@@ -1,16 +1,26 @@
 ---
 title: "Tickers"
-updated: 2026-10-13T23:16:00-07:00
-count: 85
+updated: 2026-10-14T05:02:45-07:00
+count: 95
 tags: ["tickers"]
 ---
 
 # Active tickers
 
 - [$LSCC](LSCC.md) — 6 items
+- [$NTCT](NTCT.md) — 5 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
 - [$MRVL](MRVL.md) — 2 items
+- [$AEP](AEP.md) — 1 items
+- [$IBM](IBM.md) — 1 items
+- [$AVNT](AVNT.md) — 1 items
+- [$SCNI](SCNI.md) — 1 items
+- [$FLEX](FLEX.md) — 1 items
+- [$FFAI](FFAI.md) — 1 items
+- [$FFR](FFR.md) — 1 items
+- [$IRDM](IRDM.md) — 1 items
+- [$LDOS](LDOS.md) — 1 items
 - [$DHR](DHR.md) — 1 items
 - [$TLX](TLX.md) — 1 items
 - [$UNCY](UNCY.md) — 1 items

@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $MRVL"
-updated: 2026-10-13T23:16:00-07:00
+updated: 2026-10-14T05:02:45-07:00
 count: 2
 tags: ["ticker", "MRVL"]
 ---

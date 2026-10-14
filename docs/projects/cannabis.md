@@ -1,13 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-13T23:16:00-07:00
-count: 44
+updated: 2026-10-14T05:02:45-07:00
+count: 46
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-44 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+46 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-14
+
+- [Former Staffer At Top Marijuana Policy Group Criticizes Its Push To Keep Hemp THC Products Legal (Op-Ed)](https://www.marijuanamoment.net/former-staffer-at-top-marijuana-policy-group-criticizes-its-push-to-keep-hemp-thc-products-legal-op-ed/) — Marijuana Moment · 04:47 PT · #business #cannabis #civic
+- [New DEA & opponent briefs in cannabis rescheduling hearing (Newsletter: October 14, 2026)](https://www.marijuanamoment.net/new-dea-opponent-briefs-in-cannabis-rescheduling-hearing-newsletter-october-14-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis
 
 ## 2026-10-13
 

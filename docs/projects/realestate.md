@@ -1,16 +1,27 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-13T23:16:00-07:00
-count: 133
+updated: 2026-10-14T05:02:45-07:00
+count: 141
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-133 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+141 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+
+## 2026-10-14
+
+- [Even more borrowers choose riskier mortgages, as higher interest rates crush affordability](https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html) — CNBC Top News · 05:01 PT · #markets #fed #realestate
+- [Florida’s Live Local turns tables in Hollywood’s 30-story tower fight](https://www.housingwire.com/articles/hollywood-live-local-tower/) — HousingWire · 04:50 PT · #business #realestate
+- [Seventy Six By Station Casinos Now Open At Silverado Ranch And Arville - WhatNow](https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3MwTVhZblFnOXpKTEdVYldqWGUxSmpNWFN0MV9wdzJUSVNJRC1EX0tBX2VXZTZwQ3N3V24tRzlJOWRKM0NFMjB3cEdDNGFfYjJTX0F1cDVzYjRtY0h0S01JckNFMHNRZDFWUlNGM1c1LWZ4MEd5N2NZdUxiMEkwbEVQQUJHLTFPbENYNHdVakwwZG5paXBCMVVlQXJGNTA5a1pncmdLRTUxbldH?oc=5) — Google News: Las Vegas real estate · 03:08 PT · #business #realestate
+- [6216 Meadowhaven Ln, Las Vegas, NV 89103 - Realtor.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQYlFNT29Zd0lmaV9fUUF5QU53SFgwbk1vVWtHR3VNYXhuVGVzXzhyUVgyaU1MbF9udXdWOVd4TjZGRHRuUmh0Tk5tSjVSVXgtcEE3SDFPUlZYcy1DcXNGZkxxNWhXdEZ3emphbGJMWUNPcWY3eEhfNGg5cEdoSEh2enVkcTgxYzhfSUNVcTRBNmRZRmJCMkE?oc=5) — Google News: Las Vegas real estate · 00:40 PT · #business #nevada #realestate
+- [CALV class on “Mastering Communications” in commercial real estate - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0VpcmdPcm5SSll2OTI3aXFZd2pGb2hqRTdYZHFJUmNTTXNJNC1RTzNpemZ1Z2R1bm5VRjRRUUh2WjBmLUV6QTBsbHp3c1RYSEwweGJvWEg4S0RLaEZLSmh0anVHczBYUkd4WUp5ak55ZXUxSFdFYnlDbzkyY1AzTE1sdmp3ZkpjU0ZKcGpvdW56S1VwWGM5NDB6SHFXRU1BbDYwZDRjR1lkbXZjcHNxODNOdmhxclZjRDRSMFJ3UjlZZHk0Um0wWFU5Z296RjlyMHl6b3FlNzhxaTlFVHR1TjRTa254YWJvUDlJ?oc=5) — Google News: Las Vegas real estate · 00:26 PT · #business #nevada #realestate
+- [Every servicing exception needs an owner and a clock](https://www.housingwire.com/articles/servicing-exceptions-owner-clock/) — HousingWire · 00:00 PT · #business #realestate
+- [How equity buyouts work in a divorce refinance](https://www.housingwire.com/articles/divorce-refinance-equity-buyout/) — HousingWire · 00:00 PT · #business #realestate
 
 ## 2026-10-13
 
+- [10145 Sangria Ridge St, Las Vegas, NV 89141 - Realtor.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnBGdlBjTzV3ZU82dFo3Njd3M0Y4Sm1DbWRWRFNMekxFWGRKTEczOTVhQzh4bmhKNHRTeC0xVm9PNWdqbWdVa0RsZjFudXdDeHFaRGxsZk5KMkVHYW4xQkxidmNrWFlteHVhN2JucENkeWh5WW1iRUdIQmxkM2pZMk8yNUpObEVnOVRZTXFmbnZ2bXhCaTBEb2Zn?oc=5) — Google News: Las Vegas real estate · 22:55 PT · #business #nevada #realestate
 - [Harvison House furnishes homes for low-income veterans - KLAS 8 News Now](https://news.google.com/rss/articles/CBMinAFBVV95cUxPc1VMeTZHRDRSZHVoYUFQZXRGSXQwN0g1WnZoeG5SVElqeDNNMEc4bE5kSmkyRGdXVjlCckcycDN0bVIxTl9CdlZGNkNIUVRSSzFJc1BJVmhUaXVQX2JmbzFlbU9iUVVXUmRXcE9kaXhSdGtUOTdUSjlSbkFzaVBERU9oaHY5aWF6eFg0MjB6elU3VDhfdDBwcGdKd3jSAaIBQVVfeXFMTUlTWUJyZ0gwcmNZZG92SnVxdjZRUmlWUV9TYnVKM3A0QXFxQXlFN183Zk11REIyV2tpSEM3YnAzRDRNVjFIXzhRTWxjLVhOMGU2RmxjZHQxWU9JTjhLbjdtbXNjdkQzNFJQODZQR0xWY1dGZUZVT1lwcUVJTkVWUzBOSjhSWEtWeXhpaWNYT3hkSmJ0dGd5WWYwZGNqVVBFM05R?oc=5) — Google News: Las Vegas real estate · 17:05 PT · #business #realestate
 - [CALV Announces Officers and Directors for 2027 - Nevada Business Magazine](https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGpscHpjaWh1RkRWR0ZzX084M3Z1ZTM0azI1RjRGSER1OUZNQ0tOY05DSTlkTVFTN2ZHTEI4aFM4ZUpaWXRNenc0eUhEUXdUWE50MWFsRWJwdXIyVGdFLTMwb3EwWVlZOEhDbVdVTWNXWE5iSUFXZ01nd3dVYTM3WVQ1NkFXTzY0aFE?oc=5) — Google News: Las Vegas real estate · 17:05 PT · #business #nevada #realestate
 - [Lombardo’s policies designed to benefit campaign contributors, not Nevadans, Ford says - Nevada Current](https://news.google.com/rss/articles/CBMivgFBVV95cUxPc21LSXBpQ2tiT2hGSk5WNW82NWhWMkxPa25xZ2RUaV84MGVlQVI0QTduWXhMSS1LYUk0SkNyc3FaR3g1OGhTeGREVVFROGhsaUVobG5KVHB3c3lkNHlNWEJ6ZVZ6V2oyYk5qcEtPNWsxRnVkZnlnVzZydnA5S2NPVWEtWmZrR0NNSUxPUHcxY1BXemNuNTdhN2ZIVlRJNU5IdlhYRkFkNXFHUmZ2V0d1U0NvNWJVM05vMlBnaTdn?oc=5) — Google News: Las Vegas real estate · 16:42 PT · #business #nevada #realestate

@@ -1,16 +1,27 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T23:16:00-07:00
-count: 253
+updated: 2026-10-14T05:02:45-07:00
+count: 262
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-253 most recent items (14-day window).
+262 most recent items (14-day window).
+
+## 2026-10-14
+
+- [Residents In Saudi Arabia's Capital Say They Have Heard New Explosions In Riyadh](https://www.huffpost.com/entry/riyadh-explosions-houthi-rebels_n_6acf5645e4b08a0fe85498f8) — World News - Breaking News, Top Stories · 03:20 PT · #us #foreign #oil
+- [Burning down the House](https://www.politico.com/newsletters/playbook/2026/10/14/burning-down-the-house-01117764) — Playbook · 03:13 PT · #us
+- [Joe Lombardo is running as an education governor. Here's how to grade his record.](https://thenevadaindependent.com/article/joe-lombardo-is-running-as-an-education-governor-heres-how-to-grade-his-record/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [OPINION: Nevada is right to sue over its newly curbed Colorado River allocation](https://thenevadaindependent.com/article/opinion-nevada-is-right-to-sue-over-its-newly-curbed-colorado-river-allocation/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [Can you still vote in Nevada even if you miss a registration deadline?](https://thenevadaindependent.com/article/can-you-still-vote-in-nevada-even-if-you-miss-a-registration-deadline/) — The Nevada Independent · 01:55 PT · #us #nevada
+- [Pope Leo Spent 'Tranquil Night' In Hospital After Cancer Surgery, Vatican Says](https://www.huffpost.com/entry/vatican-pope-leo-surgery_n_6acf3854e4b0e26c18d0c30c) — World News - Breaking News, Top Stories · 01:21 PT · #us
+- [Cambio en Servicio Postal podría dejar sin contar algunas boletas por correo en el Condado Washoe](https://thenevadaindependent.com/article/cambio-en-servicio-postal-podria-dejar-sin-contar-algunas-boletas-por-correo-en-el-condado-washoe/) — The Nevada Independent · 01:15 PT · #us #nevada
 
 ## 2026-10-13
 
+- [Tuesday’s Nevada Preps scoreboard: Sunrise Mountain, Shadow Ridge win in boys soccer](https://www.reviewjournal.com/nevada-preps/tuesdays-nevada-preps-scoreboard-sunrise-mountain-shadow-ridge-win-in-boys-soccer-3899850/) — Las Vegas Review-Journal · 23:41 PT · #us #nevada
 - [NSHE launches ‘Eyes Open’ campaign to boost safety awareness on Nevada college campuses](https://www.ktnv.com/news/nshe-launches-eyes-open-campaign-to-boost-safety-awareness-on-nevada-college-campuses) — KTNV Las Vegas · 22:10 PT · #us #nevada
 - [Gordon: Crowd underwhelms for Warriors, Lakers, Stephen Curry](https://www.reviewjournal.com/sports/nba/gordon-crowd-underwhelms-for-warriors-lakers-stephen-curry-3899827/) — Las Vegas Review-Journal · 21:55 PT · #us #nevada
 - [No. 10 Las Vegas High beats No. 3 Eldorado in 5A boys soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-10-las-vegas-high-beats-no-3-eldorado-in-5a-boys-soccer-photos-3899792/) — Las Vegas Review-Journal · 21:33 PT · #us #nevada
@@ -29,6 +40,7 @@ tags: ["category", "us"]
 - [Balanced attack gives Golden Knights bounce-back win in Nashville](https://www.reviewjournal.com/sports/goldenknights/balanced-attack-gives-golden-knights-bounce-back-win-in-nashville-3899705/) — Las Vegas Review-Journal · 20:21 PT · #us #nevada
 - [‘Everything’s changed a lot’: Lakers, Warriors coaches expect potential Las Vegas team to be a success](https://www.reviewjournal.com/sports/nba/everythings-changed-a-lot-lakers-warriors-coaches-expect-potential-las-vegas-team-to-be-a-success-3899700/) — Las Vegas Review-Journal · 20:05 PT · #us #nevada
 - [What we learned: A closer look at the Raiders’ blowout loss to New England](https://www.reviewjournal.com/sports/raiders/what-we-learned-a-closer-look-at-the-raiders-blowout-loss-to-new-england-3899693/) — Las Vegas Review-Journal · 19:58 PT · #us #nevada
+- [Saudi Ministry Of Energy Reports Limited Fire In Building At Aramco Compound Targeted In Attack](https://www.huffpost.com/entry/saudi-arabia-yemen_n_6acee88ce4b064943479761a) — World News - Breaking News, Top Stories · 19:43 PT · #us #oil
 - [Potential juror out after profane remark about accused flamingo abuser, judge says](https://www.reviewjournal.com/crime/courts/potential-juror-out-after-profane-remark-about-accused-flamingo-abuser-judge-says-3899666/) — Las Vegas Review-Journal · 18:44 PT · #us #nevada
 - [Las Vegas sees chilliest day since March as October cold front arrives](https://www.reviewjournal.com/local/weather/las-vegas-sees-chilliest-day-since-march-as-october-cold-front-arrives-3899644/) — Las Vegas Review-Journal · 18:13 PT · #us #nevada
 - [Live chat: Our columnists analyze L.A.'s mayoral debate](https://www.latimes.com/california/story/2026-10-13/live-chat-our-columnists-analyze-l-a-s-mayoral-debate) — World & Nation · 18:09 PT · #us

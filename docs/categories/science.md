@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T23:16:00-07:00
+updated: 2026-10-14T05:02:45-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -8,6 +8,18 @@ tags: ["category", "science"]
 # Category: science
 
 400 most recent items (14-day window).
+
+## 2026-10-14
+
+- [Why the AI shopping revolution could backfire on retailers](https://phys.org/news/2026-10-ai-revolution-backfire-retailers.html) — Phys.org - latest science and technology news stories · 04:40 PT · #science #ai
+- [Children's mental health struggles may expose parents to stigma tied to parenting ideals](https://phys.org/news/2026-10-children-mental-health-struggles-expose.html) — Phys.org - latest science and technology news stories · 04:20 PT · #science
+- [Study finds overlooked 'forever chemicals' widespread in New Jersey tap water and bottled beverages](https://phys.org/news/2026-10-overlooked-chemicals-widespread-jersey-bottled.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
+- [Quantum network test checks entanglement without having to trust detectors](https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
+- [People holding up the internet](https://flowingdata.com/2026/10/14/people-holding-up-the-internet/) — FlowingData · 03:31 PT · #science
+- [Global deforestation slowed in 2025 but surged in Congo basin: Study](https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html) — Phys.org - latest science and technology news stories · 02:10 PT · #science
+- [Trailblazing technique uncovers real shape of scorching-hot exoplanet atmospheres](https://phys.org/news/2026-10-trailblazing-technique-uncovers-real-hot.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science
+- [Amit Forlit, the Israeli Private Eye at the Heart of a Climate Hacking Scandal](https://www.nytimes.com/2026/10/14/climate/amit-forlit-climate-hacking-allegations.html) — NYT > Science · 02:00 PT · #science #foreign
+- [Ancient climate shifts may explain why today's flowering plants are so diverse](https://phys.org/news/2026-10-ancient-climate-shifts-today-diverse.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science
 
 ## 2026-10-13
 
@@ -21,6 +33,8 @@ tags: ["category", "science"]
 - [A planet 320 light-years away confirms what scientists long suspected](https://www.sciencedaily.com/releases/2026/10/261012185015.htm) — Latest Science News -- ScienceDaily · 17:24 PT · #science
 - [Simple cleaning steps could curb deadly fungal disease risks for Australia's wild reptiles](https://phys.org/news/2026-10-simple-curb-deadly-fungal-disease.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
 - [AI reveals a hidden chemical shortcut that could turn CO2 into fuel](https://www.sciencedaily.com/releases/2026/10/261013015758.htm) — Latest Science News -- ScienceDaily · 17:01 PT · #science #ai
+- [China’s AI research is booming. Where is it headed?](https://www.nature.com/articles/d41586-026-03223-8) — Nature · 17:00 PT · #science #ai #foreign
+- [China’s extraordinary rise in science and how it will change the world](https://www.nature.com/articles/d41586-026-03222-9) — Nature · 17:00 PT · #science #foreign
 - [Ultrashort laser pulses offer a new way to probe electrons' quantum geometry](https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years](https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science #foreign
 - [Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur](https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
@@ -421,17 +435,3 @@ tags: ["category", "science"]
 - [Exposure to tariffs in Canada](https://flowingdata.com/2026/10/06/exposure-to-tariffs-in-canada/) — FlowingData · 02:50 PT · #science
 - [Amazon is blowing out DeWalt power tools for clearance prices during the Prime Big Deal Days sale](https://www.popsci.com/gear/dewalt-prime-big-deal-days-sale-2026/) — Popular Science · 00:03 PT · #science
 - [Grab rare deals on Apple MacBooks, AirPods, Mac Minis, and Apple Watch during Amazon Prime Day](https://www.popsci.com/gear/amazon-prime-day-apple-deals-fall-2026-airpods-macbooks-watch/) — Popular Science · 00:00 PT · #science #ai
-
-## 2026-10-05
-
-- [Amazon’s Prime Big Deal Days already has dozens of TVs for prices cheaper than Black Friday](https://www.popsci.com/gear/prime-big-deal-days-tv-deals/) — Popular Science · 17:21 PT · #science
-- [The Life Scientific: Ginger Kerrick](http://www.bbc.co.uk/programmes/w3ct8jt0) — Discovery · 13:00 PT · #science
-- [Walmart is blowing out laptops from HP, Lenovo, Dell, and more during its annual Deal Days sale](https://www.popsci.com/gear/walmart-deal-days-computer-deals/) — Popular Science · 12:49 PT · #science
-- [When Bad Things Happen to Good People](https://www.hiddenbrain.org/) — Hidden Brain · 12:00 PT · #science
-- [Dead star likely birthed a new planet, in astronomical first](https://www.popsci.com/science/dead-star-births-new-planet/) — Popular Science · 11:43 PT · #science
-- [Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever](https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/) — Science Latest · 11:15 PT · #science
-- [57 new species discovered in deep-sea canyon near Argentina](https://www.popsci.com/environment/57-new-ocean-species-argentina/) — Popular Science · 10:48 PT · #science
-- [Apply to be a NASA flight director](https://www.popsci.com/science/nasa-flight-director-job-application/) — Popular Science · 09:00 PT · #science
-- [Extinct ice age bovine discovered in Siberian cave](https://www.popsci.com/science/extinct-ice-age-bovine-siberian-cave/) — Popular Science · 08:00 PT · #science
-- [Chimpanzees steal less pineapple from their friends](https://www.popsci.com/environment/chimpanzees-steal-less-from-friends/) — Popular Science · 06:00 PT · #science
-- [Sound smart about charts](https://flowingdata.com/2026/10/05/sound-smart-about-charts/) — FlowingData · 00:01 PT · #science
