@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-14T05:02:45-07:00
+updated: 2026-10-14T10:05:37-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,11 +11,56 @@ tags: ["category", "science"]
 
 ## 2026-10-14
 
+- [A New World of Lung Cancer Therapy Awaits Pope Leo](https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html) — NYT > Science · 10:02 PT · #science
+- [Local DNA motion inside the cell stays nearly constant throughout interphase](https://phys.org/news/2026-10-local-dna-motion-cell-stays.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
+- [How drought shapes the impact of Xylella fastidiosa on almond trees](https://phys.org/news/2026-10-drought-impact-xylella-fastidiosa-almond.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
+- [Australia's oldest underwater archaeology reveals ancient life within a lost landscape](https://phys.org/news/2026-10-australia-oldest-underwater-archaeology-reveals.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
+- [A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory](https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
+- [Mont Blanc's snowy crown grows nearly 2 meters higher in 3 years](https://phys.org/news/2026-10-mont-blanc-snowy-crown-meters.html) — Phys.org - latest science and technology news stories · 09:36 PT · #science
+- [Ocean discovery: Pacific bluefin tuna confirmed in Victorian waters](https://phys.org/news/2026-10-ocean-discovery-pacific-bluefin-tuna.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
+- [From spin wave to superconducting circuit: A one-way street for quantum information](https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
+- [Storing memory on a chip with flowing water](https://phys.org/news/2026-10-memory-chip.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
+- [Workers who fear AI replacement show worse workplace behavior](https://phys.org/news/2026-10-workers-ai-worse-workplace-behavior.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science #ai
+- [Enzyme discovery opens a new route to natural UV-absorbing saclipins](https://phys.org/news/2026-10-enzyme-discovery-route-natural-uv.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
+- [Rising seas could weaken Chesapeake Bay's natural storm surge buffer](https://phys.org/news/2026-10-seas-weaken-chesapeake-bay-natural.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
+- [Rocks from hydrothermal vents can spontaneously combust, posing potential risks for deep-sea mining operations](https://phys.org/news/2026-10-hydrothermal-vents-spontaneously-combust-posing.html) — Phys.org - latest science and technology news stories · 08:30 PT · #science
+- [AI ethics analysis clarifies why different goals call for different ethical approaches](https://phys.org/news/2026-10-ai-ethics-analysis-goals-ethical.html) — Phys.org - latest science and technology news stories · 08:30 PT · #science #ai
+- [Ivy bees fight back against honeybees that drive other pollinators off flowers](https://phys.org/news/2026-10-ivy-bees-honeybees-pollinators.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
+- [NASA’s Space X CRS-35 Launch Jellyfish](https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/) — NASA · 08:18 PT · #science
+- [Satellites accurately detect methane emissions in largest controlled test yet](https://phys.org/news/2026-10-satellites-accurately-methane-emissions-largest.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
+- [The stubby legs of ancient sled dogs helped people traverse the Arctic for the past 9,000 years](https://phys.org/news/2026-10-stubby-legs-ancient-sled-dogs.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
+- [Sustained pressure halts cancer cell migration and triggers death in 3D lab models](https://phys.org/news/2026-10-sustained-pressure-halts-cancer-cell.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
+- [Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances](https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
+- [Microplastics are chemically active and could cause biological harm](https://phys.org/news/2026-10-microplastics-chemically-biological.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
+- [Not all early birds evolved toward better flight, Jurassic fossil suggests](https://phys.org/news/2026-10-early-birds-evolved-flight-jurassic.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #foreign
+- [Modeling study shows early tetrapods had surprisingly little ability to move their necks](https://phys.org/news/2026-10-early-tetrapods-ability-necks.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
+- [AI-enhanced weather model doubles predictive power two to six weeks out](https://phys.org/news/2026-10-ai-weather-power-weeks.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #ai
+- [Little fish, big deal—Record haul of baby sturgeons offers hope for the future](https://phys.org/news/2026-10-fish-big-haul-baby-sturgeons.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
+- [Sled dogs have stubby legs for a reason](https://www.popsci.com/environment/sled-dog-legs-evolution/) — Popular Science · 08:00 PT · #science
+- [New weather model may finally offer a reliable six-week forecast](https://www.popsci.com/environment/reliable-six-week-weather-forecast/) — Popular Science · 08:00 PT · #science
+- [They Created a Cell That’s Almost Alive. What to Do With It Now?](https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html) — NYT > Science · 07:57 PT · #science
+- [NASA Develops Batteries to Power Humanity’s Return to Moon](https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/) — NASA · 07:41 PT · #science
+- [Team builds resource-sharing technology platform for nonprofits](https://phys.org/news/2026-10-team-resource-technology-platform-nonprofits.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
+- [Could a molecular ZIP code unlock treatments for untreatable diseases?](https://phys.org/news/2026-10-molecular-code-treatments-untreatable-diseases.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
+- [How shark ecotourism sparks long-term conservation](https://phys.org/news/2026-10-shark-ecotourism-term.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
+- [DNA analysis uncovers first known genetic connection between rare New Caledonian plant and parasitic plant](https://phys.org/news/2026-10-dna-analysis-uncovers-genetic-rare.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
+- [Your dog may link sounds with shapes, just like you do](https://phys.org/news/2026-10-dog-link.html) — Phys.org - latest science and technology news stories · 07:10 PT · #science
+- [Jamming the flow to enable memory in quantum materials](https://phys.org/news/2026-10-enable-memory-quantum-materials.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
+- [Chemists develop blueprint for designing powerful fluorescent materials for better disease detection](https://phys.org/news/2026-10-chemists-blueprint-powerful-fluorescent-materials.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
+- [NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions](https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/) — NASA · 06:32 PT · #science
+- [The criminal behind Los Angeles’ Griffith Observatory](https://www.popsci.com/science/griffith-observatory-founder-criminal/) — Popular Science · 05:57 PT · #science
+- [Patagonia now sells its Worn Wear collection of refurbished gear right alongside new products](https://www.popsci.com/gear/patagonia-worn-wear-used-outdoor-gear/) — Popular Science · 05:25 PT · #science
+- [Scientists reveal why some workout recovery tricks can backfire](https://www.sciencedaily.com/releases/2026/10/261013015805.htm) — Latest Science News -- ScienceDaily · 05:04 PT · #science
+- [Cornell scientists identify rare human genetic disorder in two unusually long-legged cats](https://www.sciencedaily.com/releases/2026/10/261013015801.htm) — Latest Science News -- ScienceDaily · 04:56 PT · #science
 - [Why the AI shopping revolution could backfire on retailers](https://phys.org/news/2026-10-ai-revolution-backfire-retailers.html) — Phys.org - latest science and technology news stories · 04:40 PT · #science #ai
+- [The secret to easier exercise as an adult may start in childhood](https://www.sciencedaily.com/releases/2026/10/261013015811.htm) — Latest Science News -- ScienceDaily · 04:36 PT · #science
 - [Children's mental health struggles may expose parents to stigma tied to parenting ideals](https://phys.org/news/2026-10-children-mental-health-struggles-expose.html) — Phys.org - latest science and technology news stories · 04:20 PT · #science
+- [Scientists may have overlooked a hidden Alzheimer's culprit for decades](https://www.sciencedaily.com/releases/2026/10/261013015838.htm) — Latest Science News -- ScienceDaily · 04:06 PT · #science
 - [Study finds overlooked 'forever chemicals' widespread in New Jersey tap water and bottled beverages](https://phys.org/news/2026-10-overlooked-chemicals-widespread-jersey-bottled.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
 - [Quantum network test checks entanglement without having to trust detectors](https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
+- [Scientists may have finally solved the mystery of the Moon’s two faces](https://www.sciencedaily.com/releases/2026/10/261012185019.htm) — Latest Science News -- ScienceDaily · 03:38 PT · #science
 - [People holding up the internet](https://flowingdata.com/2026/10/14/people-holding-up-the-internet/) — FlowingData · 03:31 PT · #science
+- [Scientists discover how harmful “zombie cells” hide from the immune system](https://www.sciencedaily.com/releases/2026/10/261013015800.htm) — Latest Science News -- ScienceDaily · 03:17 PT · #science
 - [Global deforestation slowed in 2025 but surged in Congo basin: Study](https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html) — Phys.org - latest science and technology news stories · 02:10 PT · #science
 - [Trailblazing technique uncovers real shape of scorching-hot exoplanet atmospheres](https://phys.org/news/2026-10-trailblazing-technique-uncovers-real-hot.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science
 - [Amit Forlit, the Israeli Private Eye at the Heart of a Climate Hacking Scandal](https://www.nytimes.com/2026/10/14/climate/amit-forlit-climate-hacking-allegations.html) — NYT > Science · 02:00 PT · #science #foreign
@@ -35,6 +80,50 @@ tags: ["category", "science"]
 - [AI reveals a hidden chemical shortcut that could turn CO2 into fuel](https://www.sciencedaily.com/releases/2026/10/261013015758.htm) — Latest Science News -- ScienceDaily · 17:01 PT · #science #ai
 - [China’s AI research is booming. Where is it headed?](https://www.nature.com/articles/d41586-026-03223-8) — Nature · 17:00 PT · #science #ai #foreign
 - [China’s extraordinary rise in science and how it will change the world](https://www.nature.com/articles/d41586-026-03222-9) — Nature · 17:00 PT · #science #foreign
+- [Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds](https://www.nature.com/articles/s41586-026-11242-8) — Nature · 17:00 PT · #science
+- [This is why butterflies are so hard to catch](https://www.nature.com/articles/d41586-026-03301-x) — Nature · 17:00 PT · #science
+- [Biomedical engineering is growing rapidly, but will it help patients?](https://www.nature.com/articles/d41586-026-03202-z) — Nature · 17:00 PT · #science
+- [The world is closer to a major conservation target than scientists thought](https://www.nature.com/articles/d41586-026-03307-5) — Nature · 17:00 PT · #science
+- [Becoming real](https://www.nature.com/articles/d41586-026-03114-y) — Nature · 17:00 PT · #science
+- [Lay of the land: terrestrial conservation efforts cover a wider area than thought](https://www.nature.com/articles/d41586-026-03081-4) — Nature · 17:00 PT · #science
+- [Will my lack of country-specific grants limit my chances of employment abroad?](https://www.nature.com/articles/d41586-026-02442-3) — Nature · 17:00 PT · #science
+- [A guide to the Nature Index](https://www.nature.com/articles/d41586-026-03206-9) — Nature · 17:00 PT · #science
+- [Nature Index reveals the four countries to watch in biomedical engineering](https://www.nature.com/articles/d41586-026-03204-x) — Nature · 17:00 PT · #science
+- [Some Jurassic period birds were flightless](https://www.nature.com/articles/d41586-026-02645-8) — Nature · 17:00 PT · #science #foreign
+- [Large blind test of methane-detecting satellites lends credibility to emissions data](https://www.nature.com/articles/d41586-026-03075-2) — Nature · 17:00 PT · #science
+- [Protecting nature means valuing biodiversity](https://www.nature.com/articles/d41586-026-03219-4) — Nature · 17:00 PT · #science
+- [Alveolar stem cells go beyond making gas-exchange cells to repair damaged airways](https://www.nature.com/articles/d41586-026-03085-0) — Nature · 17:00 PT · #science
+- [Hydrogels and MRI: meet three biomedical engineers reshaping health care](https://www.nature.com/articles/d41586-026-03205-w) — Nature · 17:00 PT · #science
+- [How early tetrapods got their neck](https://www.nature.com/articles/d41586-026-03061-8) — Nature · 17:00 PT · #science
+- [Structural basis of ligand recognition and gating in mosquito IRs](https://www.nature.com/articles/s41586-026-11239-3) — Nature · 17:00 PT · #science
+- [Overlooked brown fat in our bodies linked to wide range of health benefits](https://www.nature.com/articles/d41586-026-03302-w) — Nature · 17:00 PT · #science
+- [Smartwatch health data are piling up. How can doctors keep pace?](https://www.nature.com/articles/d41586-026-03203-y) — Nature · 17:00 PT · #science
+- [Evidence for multi-Li + clustering in lithium-ion battery electrolytes](https://www.nature.com/articles/s41586-026-11138-7) — Nature · 17:00 PT · #science
+- [Global conservation area coverage substantially exceeds current estimates](https://www.nature.com/articles/s41586-026-11157-4) — Nature · 17:00 PT · #science
+- [Engineered TYK2 dependence enables myeloid-selective IL-10 receptor agonism](https://www.nature.com/articles/s41586-026-11176-1) — Nature · 17:00 PT · #science
+- [Elp1 is required for myeloid differentiation and brain repopulation](https://www.nature.com/articles/s41586-026-11112-3) — Nature · 17:00 PT · #science
+- [Modelling mouse embryogenesis from chemically induced totipotent stem cells](https://www.nature.com/articles/s41586-026-11164-5) — Nature · 17:00 PT · #science
+- [Competing mechanisms toughen bcc binary and medium-entropy alloys at 20 K](https://www.nature.com/articles/s41586-026-11065-7) — Nature · 17:00 PT · #science
+- [Parity-dependent coupling of molecular spin chains to a superconductor](https://www.nature.com/articles/s41586-026-11117-y) — Nature · 17:00 PT · #science
+- [Capillary-selective vasodilation through myosin inhibition halts ischaemic cascades](https://www.nature.com/articles/s41586-026-11171-6) — Nature · 17:00 PT · #science
+- [Evaluating space-based methane detection through a one-year blind test](https://www.nature.com/articles/s41586-026-11115-0) — Nature · 17:00 PT · #science
+- [De novo design of cysteine proteases](https://www.nature.com/articles/s41586-026-11143-w) — Nature · 17:00 PT · #science
+- [Computational design of metalloproteases](https://www.nature.com/articles/s41586-026-11167-2) — Nature · 17:00 PT · #science
+- [Divergent genomic evolution in astrocytomas and oligodendrogliomas](https://www.nature.com/articles/s41586-026-11150-x) — Nature · 17:00 PT · #science
+- [Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation](https://www.nature.com/articles/s41586-026-11136-9) — Nature · 17:00 PT · #science
+- [Targeted stimulation of motor cortex ensembles drives learned movements](https://www.nature.com/articles/s41586-026-11174-3) — Nature · 17:00 PT · #science
+- [Artificial intelligence-enabled clinical phenotyping of human brown fat](https://www.nature.com/articles/s41586-026-11162-7) — Nature · 17:00 PT · #science #ai
+- [Early tetrapod neck mobility modelled using an extant analogue](https://www.nature.com/articles/s41586-026-11158-3) — Nature · 17:00 PT · #science
+- [Intrinsic physicochemical activity at microplastic–water interfaces](https://www.nature.com/articles/s41586-026-11141-y) — Nature · 17:00 PT · #science
+- [Hidden reaction pathways inform additive engineering for perovskite LEDs](https://www.nature.com/articles/s41586-026-11120-3) — Nature · 17:00 PT · #science
+- [Clasping folds enable superior elastic strength of graphene films](https://www.nature.com/articles/s41586-026-11109-y) — Nature · 17:00 PT · #science
+- [Wave coarsening drives time crystallization in mechatronic metamaterials](https://www.nature.com/articles/s41586-026-11163-6) — Nature · 17:00 PT · #science
+- [Sexual dimorphism in epidermal stem cell dynamics](https://www.nature.com/articles/s41586-026-11159-2) — Nature · 17:00 PT · #science
+- [Interhemispheric monsoon dynamics over the past 450,000 years](https://www.nature.com/articles/s41586-026-11166-3) — Nature · 17:00 PT · #science
+- [A microexon regulatory code reveals autism-linked genetic variation](https://www.nature.com/articles/s41586-026-11119-w) — Nature · 17:00 PT · #science
+- [Educational intervention can rewire village social networks](https://www.nature.com/articles/s41586-026-11154-7) — Nature · 17:00 PT · #science
+- [Advancing subseasonal forecasting with machine learning](https://www.nature.com/articles/s41586-026-11126-x) — Nature · 17:00 PT · #science #ai
+- [Jurassic flightless bird reveals early ecological diversity of avialans](https://www.nature.com/articles/s41586-026-10972-z) — Nature · 17:00 PT · #science #foreign
 - [Ultrashort laser pulses offer a new way to probe electrons' quantum geometry](https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years](https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science #foreign
 - [Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur](https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
@@ -180,6 +269,7 @@ tags: ["category", "science"]
 - [In the AI era, coding means thinking like a systems architect](https://www.nature.com/articles/d41586-026-02715-x) — Nature · 17:00 PT · #science #ai
 - [Lead-tainted teeth reveal medieval mines’ unequal toll](https://www.nature.com/articles/d41586-026-03236-3) — Nature · 17:00 PT · #science
 - [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://www.nature.com/articles/d41586-026-03252-3) — Nature · 17:00 PT · #science
+- [Daily briefing: What makes a happy scientist at work?](https://www.nature.com/articles/d41586-026-03306-6) — Nature · 17:00 PT · #science #ai
 - [Europe's new Sentinel-3C satellite just sent back spectacular images of Earth](https://www.sciencedaily.com/releases/2026/10/261011211559.htm) — Latest Science News -- ScienceDaily · 16:48 PT · #science
 - [Human teeth pinpoint when lead began poisoning medieval town](https://www.popsci.com/science/teeth-lead-poisoning-medieval-england/) — Popular Science · 16:01 PT · #science
 - [Scientists find a hidden problem with endless smartphone scrolling](https://www.sciencedaily.com/releases/2026/10/261011211611.htm) — Latest Science News -- ScienceDaily · 15:25 PT · #science
@@ -342,96 +432,3 @@ tags: ["category", "science"]
 - [In Vienna and Beijing, the First Nuclear Clocks Begin to Tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html) — NYT > Science · 19:52 PT · #science
 - [RFK Jr. Plans Vaccine Injury Initiative, Drawing Wary Eye From Experts](https://www.nytimes.com/2026/10/07/us/politics/kennedy-vaccine-injuries.html) — NYT > Science · 18:40 PT · #science
 - [Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies aged 90](https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software) — Space | The Guardian · 17:40 PT · #science
-- [Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity](https://www.nature.com/articles/s41586-026-11266-0) — Nature · 17:00 PT · #science
-- [Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring](https://www.nature.com/articles/s41586-026-11070-w) — Nature · 17:00 PT · #science
-- [Women are talking about menopause — health systems must listen](https://www.nature.com/articles/d41586-026-03218-5) — Nature · 17:00 PT · #science
-- [US proposes $100,000 charge for international students to do postgraduate work](https://www.nature.com/articles/d41586-026-02921-7) — Nature · 17:00 PT · #science #oil
-- [How to build a mouse: embryo development captured in stunning detail](https://www.nature.com/articles/d41586-026-03193-x) — Nature · 17:00 PT · #science
-- [Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions](https://www.nature.com/articles/d41586-026-03045-8) — Nature · 17:00 PT · #science
-- [Daily briefing: Mathematicians up in arms over OpenAI’s preprint deluge](https://www.nature.com/articles/d41586-026-03231-8) — Nature · 17:00 PT · #science #ai
-- [Will AI scoop your science? Some researchers see a gloomy future](https://www.nature.com/articles/d41586-026-03128-6) — Nature · 17:00 PT · #science #ai
-- [Plague scare: what scientists know, and what Russia won’t say](https://www.nature.com/articles/d41586-026-03215-8) — Nature · 17:00 PT · #science #foreign
-- [Big dogs age faster than little ones — rogue ‘jumping genes’ might be to blame](https://www.nature.com/articles/d41586-026-03199-5) — Nature · 17:00 PT · #science
-- [UAE completes Arab world's first solo space probe – and sets course for an asteroid](https://www.nature.com/articles/d41586-026-03154-4) — Nature · 17:00 PT · #science
-- [The best last-minute laptop and computer deals for Amazon Prime Big Deal Days](https://www.popsci.com/gear/amazon-prime-day-laptop-deals-microsoft-surface-monitors/) — Popular Science · 16:53 PT · #science
-- [The best last-minute audio deals for Amazon Prime Big Deal Days](https://www.popsci.com/gear/amazon-prime-big-deal-days-sale-audio-headphones-speakers-soundbars/) — Popular Science · 16:52 PT · #science
-- [Amazon Prime Day ends soon. These are the best deals you can still buy.](https://www.popsci.com/gear/best-prime-big-deal-days-deals-2026-live/) — Popular Science · 16:27 PT · #science
-- [Tropical Storm Isaias Set to Be First Atlantic Hurricane of 2026 Season](https://www.wired.com/story/tropical-storm-isaias-first-atlantic-hurricane-2026/) — Science Latest · 15:00 PT · #science
-- [The Science Behind the Nobel-Winning Technology That Controls Neurons With Light](https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/) — Science Latest · 13:40 PT · #science
-- [Meteor spotted flying over bald eagle nest](https://www.popsci.com/environment/meteor-spotted-flying-over-bald-eagle-nest/) — Popular Science · 13:02 PT · #science
-- [A Public Health-Minded Senator Asks: What Comes After Trump and Kennedy?](https://www.nytimes.com/2026/10/07/us/politics/patty-murray-public-health.html) — NYT > Science · 12:59 PT · #science #civic
-- [The world’s first nuclear clocks start ticking](https://www.popsci.com/technology/first-nuclear-clocks/) — Popular Science · 12:26 PT · #science
-- [Pink, pretty, and protective. A dumbo octopus is here with a message from the deep-sea.](https://www.popsci.com/environment/dumbo-octopus-ocean-conservation-miss-abyss/) — Popular Science · 11:30 PT · #science
-- [Russia Says It Found No ‘Emergency’ in Plague Lab](https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html) — NYT > Science · 11:20 PT · #science #foreign
-- [Jonathan the tortoise is 194 years old and thriving. His genes help explain why.](https://www.popsci.com/environment/jonathan-worlds-oldest-tortoise-genes/) — Popular Science · 11:00 PT · #science
-- [Why gatekeeping is needed in the age of AI](https://www.newscientist.com/article/2592280-__trashed-141/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS) — New Scientist - Space · 10:00 PT · #science #ai
-- [Trump Administration Delays Threaten Funding for HIV Research](https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html) — NYT > Science · 09:33 PT · #science
-- [Was the Human Gut Healthier in Ancient Times?](https://www.nytimes.com/2026/10/07/science/microbiome-evolution-hadza-tsimane.html) — NYT > Science · 08:57 PT · #science
-- [Carhartt built its new ultra-tough Steel series workwear to flex and stretch like athletic gear](https://www.popsci.com/gear/carhartt-steel-workwear-details-jacket-pants-hoodie/) — Popular Science · 08:48 PT · #science
-- [World’s largest steam locomotive returns to the rails for special holiday tour](https://www.popsci.com/science/big-boy-locomotive-holiday-tour/) — Popular Science · 08:35 PT · #science
-- [Nobel Prize in Chemistry Is Awarded to Henri Kagan and Kenso Soai](https://www.nytimes.com/2026/10/07/science/nobel-prize-chemistry.html) — NYT > Science · 08:17 PT · #science
-- [The Nobel Prize in Chemistry 2026: Awarded to Henri B. Kagan and Kenso Soai "for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis"](https://www.reddit.com/r/science/comments/1wzy4qc/the_nobel_prize_in_chemistry_2026_awarded_to/) — Reddit Science · 07:34 PT · #science
-- [NASA’s Webb finds signs of Mars-sized worlds smashing together](https://www.sciencedaily.com/releases/2026/10/261007042108.htm) — Latest Science News -- ScienceDaily · 06:09 PT · #science
-- [Taking antibiotics? Sugar may be making the damage worse](https://www.sciencedaily.com/releases/2026/10/261007042059.htm) — Latest Science News -- ScienceDaily · 06:06 PT · #science
-- [Why did kissing evolve? If we want to find out, we’ve got to decide what counts as a kiss first.](https://www.popsci.com/science/why-humans-kiss-weirdest-thing-podcast/) — Popular Science · 06:02 PT · #science
-- [When data shows that everything causes cancer](https://flowingdata.com/2026/10/07/when-data-shows-that-everything-causes-cancer/) — FlowingData · 04:54 PT · #science
-- [A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat](https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/) — Science Latest · 03:00 PT · #science #smallbiz
-- [The Start-Up That Wants to Build ‘Microrobots’ With A.I.](https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html) — NYT > Science · 02:06 PT · #science #ai
-
-## 2026-10-06
-
-- [51 of the best Amazon Prime Day deals under $50](https://www.popsci.com/gear/best-prime-big-deal-days-deals-under-50-2026/) — Popular Science · 17:27 PT · #science
-- [A guide to Nature Index tables](https://www.nature.com/articles/d41586-026-02999-z) — Nature · 17:00 PT · #science
-- [Nobel prizes 2026: ‘ghost’ particles, mirror molecules and light switches in the brain](https://www.nature.com/articles/d41586-026-03208-7) — Nature · 17:00 PT · #science
-- [NASA releases trove of Moon data from historic Artemis II flight](https://www.nature.com/articles/d41586-026-03197-7) — Nature · 17:00 PT · #science
-- [How we ditched presentations and embraced silence in our lab meetings](https://www.nature.com/articles/d41586-026-02836-3) — Nature · 17:00 PT · #science
-- [Blend](https://www.nature.com/articles/d41586-026-02864-z) — Nature · 17:00 PT · #science
-- [Semiconductors pushed into insulator territory](https://www.nature.com/articles/d41586-026-02968-6) — Nature · 17:00 PT · #science
-- [Genome accessibility reveals disease risk that gene expression misses](https://www.nature.com/articles/d41586-026-03072-5) — Nature · 17:00 PT · #science
-- [Nuclear clocks tick for the first time](https://www.nature.com/articles/d41586-026-03060-9) — Nature · 17:00 PT · #science
-- [Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’](https://www.nature.com/articles/d41586-026-03059-2) — Nature · 17:00 PT · #science #ai
-- [Why sound, strong science alone isn’t enough in pandemic preparedness](https://www.nature.com/articles/d41586-026-02985-5) — Nature · 17:00 PT · #science
-- [‘When prevention disappears, infections rise’: can the world still end AIDS?](https://www.nature.com/articles/d41586-026-03127-7) — Nature · 17:00 PT · #science
-- [The science of superintelligence and why AI is still a useful word](https://www.nature.com/articles/d41586-026-03198-6) — Nature · 17:00 PT · #science #ai
-- [Gut microbes that trace ancient human journeys](https://www.nature.com/articles/d41586-026-02969-5) — Nature · 17:00 PT · #science
-- [An early predecessor to mammals could swim, suckle and swallow](https://www.nature.com/articles/d41586-026-03069-0) — Nature · 17:00 PT · #science
-- [Daily briefing: Chemistry Nobel goes to mirror-molecule researchers](https://www.nature.com/articles/d41586-026-03212-x) — Nature · 17:00 PT · #science
-- [Can your brain grow new neurons? How researchers are solving a century-old puzzle](https://www.nature.com/articles/d41586-026-03132-w) — Nature · 17:00 PT · #science
-- [Australia’s bush fires got worse after British colonization — this is why](https://www.nature.com/articles/d41586-026-03184-y) — Nature · 17:00 PT · #science
-- [Why we must advocate for proper care on the frontlines of the Ebola outbreak](https://www.nature.com/articles/d41586-026-02983-7) — Nature · 17:00 PT · #science
-- [Revealed: how this common gut microbe protects against heart disease](https://www.nature.com/articles/d41586-026-03189-7) — Nature · 17:00 PT · #science
-- [OpenAI posts 700 maths preprints online: mathematicians are up in arms](https://www.nature.com/articles/d41586-026-03196-8) — Nature · 17:00 PT · #science #ai
-- [How to control where semiconductor crystals start growing](https://www.nature.com/articles/d41586-026-02934-2) — Nature · 17:00 PT · #science
-- [Chemistry Nobel awarded for solving mystery of how ‘handed’ organic molecules can emerge](https://www.nature.com/articles/d41586-026-03093-0) — Nature · 17:00 PT · #science
-- [Observation of relativistic bond weakening in seaborgium hexacarbonyl](https://www.nature.com/articles/s41586-026-11105-2) — Nature · 17:00 PT · #science
-- [RNA catalysis emerges from dynamic structural ensembles](https://www.nature.com/articles/s41586-026-11140-z) — Nature · 17:00 PT · #science
-- [A thorium-229 optical nuclear clock with feedback loop](https://www.nature.com/articles/s41586-026-11084-4) — Nature · 17:00 PT · #science
-- [Structural basis for regulating lipopolysaccharide transmembrane transport](https://www.nature.com/articles/s41586-026-11129-8) — Nature · 17:00 PT · #science
-- [A nuclear clock synchronized to 229 Th](https://www.nature.com/articles/s41586-026-11122-1) — Nature · 17:00 PT · #science
-- [Hydrogen bonding in water under extreme confinement](https://www.nature.com/articles/s41586-026-10858-0) — Nature · 17:00 PT · #science
-- [OpenAI Releases Findings on 377 Math Problems, Further Roiling Field](https://www.nytimes.com/2026/10/06/science/openai-math-problems.html) — NYT > Science · 16:46 PT · #science #ai
-- [Fibermaxxing FTW: Meet the Neglected Nutrient That's the Key to Health]() — Gastropod · 16:32 PT · #science
-- [You Probably Aren’t Going to Get the Plague](https://www.wired.com/story/what-we-know-about-plague-russia/) — Science Latest · 16:09 PT · #science #foreign
-- [New crocodile species found in rocks of Egypt’s Great Sphinx](https://www.popsci.com/environment/new-crocodile-rocks-great-sphinx-egypt/) — Popular Science · 16:00 PT · #science
-- [Ditch your crumb-filled keyboard and mouse for these Amazon Prime Day deals on Logitech accessories](https://www.popsci.com/gear/logitech-mouse-keyboard-speaker-deals-prime-day/) — Popular Science · 15:17 PT · #science
-- [These Moultrie trail cameras are the best impulse purchase you can make during Amazon’s Prime Big Deal Days](https://www.popsci.com/gear/moultrie-trail-cameras-prime-day-deals-2026/) — Popular Science · 14:58 PT · #science
-- [The best Yeti deals during Amazon Prime Day include water bottles, tumblers, coolers, bags, and more](https://www.popsci.com/gear/best-yeti-water-bottle-tumbler-cooler-deals-amazon-prime-big-deal-days/) — Popular Science · 14:03 PT · #science
-- [Elderly residents of tiny Scottish island just uncovered a medieval monastery](https://www.popsci.com/science/lismore-medieval-monastery-scotland/) — Popular Science · 13:57 PT · #science
-- [Supreme Court Hears Boulder Climate Case](https://www.nytimes.com/2026/10/06/climate/boulder-supreme-court-climate.html) — NYT > Science · 13:19 PT · #science #civic
-- [Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) — NYT > Science · 12:37 PT · #science
-- [Pikachu spent 67 days in space](https://www.popsci.com/science/pikachu-space-world-space-week/) — Popular Science · 11:00 PT · #science
-- [Beliefs in life after death](https://flowingdata.com/2026/10/06/beliefs-in-life-after-death/) — FlowingData · 10:55 PT · #science
-- [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/) — Science Latest · 10:28 PT · #science #ai
-- [The telescope that could reveal what dark matter and dark energy are](https://www.newscientist.com/article/2591580-the-telescope-that-could-reveal-what-dark-matter-and-dark-energy-are/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS) — New Scientist - Space · 10:00 PT · #science
-- [Bullfrogs have a brain superpower](https://www.popsci.com/environment/bullfrog-brain-superpower-backup-fuel/) — Popular Science · 09:24 PT · #science
-- [Sawbones: Lethal Injection](https://maximumfun.org/podcasts/sawbones/) — Sawbones: A Marital Tour of Misguided Medicine · 09:00 PT · #science
-- [Vanilla could help heal wounds](https://www.popsci.com/health/vanilla-heal-wounds/) — Popular Science · 08:03 PT · #science
-- [Impossibly fast-moving stars are revealing the Milky Way’s mysterious heart](https://www.newscientist.com/article/2590428-impossibly-fast-moving-stars-are-revealing-the-milky-ways-mysterious-heart/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS) — New Scientist - Space · 08:00 PT · #science
-- [A New Neurotech Startup Launches to Rival Sam Altman’s Merge Labs](https://www.wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs/) — Science Latest · 08:00 PT · #science #smallbiz
-- [I’m a professional photographer and these are the camera and creator deals I’d buy during Amazon Prime Day](https://www.popsci.com/gear/amazon-prime-day-camera-creator-deals-fall-26/) — Popular Science · 06:25 PT · #science
-- [Amazon is blowing out portable power stations and solar generators during its Prime Big Deal Days sale](https://www.popsci.com/gear/prime-big-deal-days-power-station-solar-generator-deals-2026/) — Popular Science · 06:09 PT · #science
-- [At the 1904 Olympics, a marathoner took rat poison to win gold](https://www.popsci.com/health/olympic-runner-rat-poison-thomas-hicks/) — Popular Science · 06:03 PT · #science
-- [Our editors hand-picked these Anker charging accessory and Soundcore headphone deals for Amazon Prime Day](https://www.popsci.com/gear/anker-prime-big-deal-days-deals-2026/) — Popular Science · 05:17 PT · #science
-- [Exposure to tariffs in Canada](https://flowingdata.com/2026/10/06/exposure-to-tariffs-in-canada/) — FlowingData · 02:50 PT · #science
-- [Amazon is blowing out DeWalt power tools for clearance prices during the Prime Big Deal Days sale](https://www.popsci.com/gear/dewalt-prime-big-deal-days-sale-2026/) — Popular Science · 00:03 PT · #science
-- [Grab rare deals on Apple MacBooks, AirPods, Mac Minis, and Apple Watch during Amazon Prime Day](https://www.popsci.com/gear/amazon-prime-day-apple-deals-fall-2026-airpods-macbooks-watch/) — Popular Science · 00:00 PT · #science #ai

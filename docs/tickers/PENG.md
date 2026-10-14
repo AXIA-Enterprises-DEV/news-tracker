@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $PENG"
-updated: 2026-10-14T05:02:45-07:00
+updated: 2026-10-14T10:05:37-07:00
 count: 1
 tags: ["ticker", "PENG"]
 ---

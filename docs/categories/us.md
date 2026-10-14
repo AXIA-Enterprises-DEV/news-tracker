@@ -1,20 +1,49 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-14T05:02:45-07:00
-count: 262
+updated: 2026-10-14T10:05:37-07:00
+count: 291
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-262 most recent items (14-day window).
+291 most recent items (14-day window).
 
 ## 2026-10-14
 
+- [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://lasvegassun.com/news/2026/oct/14/judge-extends-order-blocking-trump-from-banning-cn/) — Las Vegas Sun · 09:20 PT · #us #media #nevada
+- [The first new sunscreen type in 25 years has arrived on US store shelves](https://lasvegassun.com/news/2026/oct/14/the-first-new-sunscreen-type-in-25-years-has-arriv/) — Las Vegas Sun · 09:17 PT · #us #nevada
+- [Las Vegas bourbon maker looks to sell land for more than $8M](https://www.reviewjournal.com/business/vegas-business/small-business/las-vegas-bourbon-maker-looks-to-sell-land-for-more-than-8m-3899949/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
+- [Henderson DMV location to permanently close Wednesday](https://www.ktnv.com/news/henderson-dmv-location-to-permanently-close-wednesday) — KTNV Las Vegas · 08:08 PT · #us #nevada
+- [Las Vegas’ R&R Partners joins global tourism marketing giant in major deal](https://www.reviewjournal.com/business/tourism/las-vegas-rr-partners-joins-global-tourism-marketing-giant-in-major-deal-3899937/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada
+- [What happens in Vegas goes global as noted PR, lobbying firm R&R Partners undergoes merger](https://thenevadaindependent.com/article/what-happens-in-vegas-goes-global-as-noted-pr-lobbying-firm-merges-with-national-agency/) — The Nevada Independent · 08:00 PT · #us #markets #nevada
+- [Social Security recipients to get 3.6% cost of living boost, an average of $75 per month](https://www.reviewjournal.com/news/politics-and-government/social-security-recipients-to-get-3-6-cost-of-living-boost-an-average-of-75-per-month-3899907/) — Las Vegas Review-Journal · 07:03 PT · #us #civic #fed #nevada
+- [Las Vegas startup brings AI to the casino eye in the sky](https://www.reviewjournal.com/business/vegas-business/innovation/las-vegas-startup-brings-ai-to-the-casino-eye-in-the-sky-3899903/) — Las Vegas Review-Journal · 07:00 PT · #us #ai #nevada #smallbiz
+- [Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near](https://www.reviewjournal.com/news/nation-and-world/inflation-worsened-last-month-to-3-7-in-sign-that-prices-remain-elevated-as-midterm-elections-near-3899899/) — Las Vegas Review-Journal · 06:50 PT · #us #civic #fed #nevada
+- [Obama backs Aaron Ford in Nevada governor's race](https://lasvegassun.com/news/2026/oct/14/obama-backs-aaron-ford-in-nevada-governors-race/) — Las Vegas Sun · 06:47 PT · #us #nevada
+- [William Karlsson found his scoring touch on Knights’ road trip](https://www.reviewjournal.com/sports/goldenknights/william-karlsson-found-his-scoring-touch-on-knights-road-trip-3899892/) — Las Vegas Review-Journal · 06:15 PT · #us #nevada
+- [Six Flags closes 9 North American roller coasters after families watch man fall to his death](https://www.reviewjournal.com/news/nation-and-world/six-flags-closes-9-north-american-roller-coasters-after-families-watch-man-fall-to-his-death-3899883/) — Las Vegas Review-Journal · 05:51 PT · #us #nevada
 - [Residents In Saudi Arabia's Capital Say They Have Heard New Explosions In Riyadh](https://www.huffpost.com/entry/riyadh-explosions-houthi-rebels_n_6acf5645e4b08a0fe85498f8) — World News - Breaking News, Top Stories · 03:20 PT · #us #foreign #oil
 - [Burning down the House](https://www.politico.com/newsletters/playbook/2026/10/14/burning-down-the-house-01117764) — Playbook · 03:13 PT · #us
+- [La elección de the Sun para gobernador: Aaron Ford](https://lasvegassun.com/news/2026/oct/14/la-eleccin-de-the-sun-para-gobernador-aaron-ford/) — Las Vegas Sun · 02:01 PT · #us #nevada
 - [Joe Lombardo is running as an education governor. Here's how to grade his record.](https://thenevadaindependent.com/article/joe-lombardo-is-running-as-an-education-governor-heres-how-to-grade-his-record/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [OPINION: Nevada is right to sue over its newly curbed Colorado River allocation](https://thenevadaindependent.com/article/opinion-nevada-is-right-to-sue-over-its-newly-curbed-colorado-river-allocation/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [AI data centers are coming for federal land, taking center stage in Nevada governor's race](https://lasvegassun.com/news/2026/oct/14/ai-data-centers-are-coming-for-federal-land-taking/) — Las Vegas Sun · 02:00 PT · #us #ai #nevada
+- [Sandra Jauregui would put the lieutenant governor’s office back to work for Nevada](https://lasvegassun.com/news/2026/oct/14/sandra-jauregui-would-put-the-lieutenant-governors/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [No on Question 7: Rural, elderly Nevadans shouldn’t face barriers to the ballot](https://lasvegassun.com/news/2026/oct/14/no-on-question-7-rural-elderly-nevadans-shouldnt-f/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Question 6 puts Nevada’s abortion protections where they belong: in the constitution](https://lasvegassun.com/news/2026/oct/14/question-6-puts-nevadas-abortion-protections-where/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [The Sun’s pick for Nevada governor: Aaron Ford](https://lasvegassun.com/news/2026/oct/14/the-suns-pick-for-governor-aaron-ford/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Nevada’s controller race leaves voters without a clear option](https://lasvegassun.com/news/2026/oct/14/nevadas-controller-race-leaves-voters-without-a-cl/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Nevada treasurer: Mathis-Coleman offers experience and continuity](https://lasvegassun.com/news/2026/oct/14/nevada-treasurer-mathis-coleman-offers-experience/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [For Nevada attorney general, Nicole Cannizzaro’s record speaks for itself](https://lasvegassun.com/news/2026/oct/14/for-nevada-attorney-general-nicole-cannizzaros-rec/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Cisco Aguilar has earned another term as Nevada’s secretary of state](https://lasvegassun.com/news/2026/oct/14/cisco-aguilar-has-earned-another-term-as-nevadas-s/) — Las Vegas Sun · 02:00 PT · #us #civic #foreign #nevada
+- [The Sun’s endorsements for the Nevada Legislature](https://lasvegassun.com/news/2026/oct/14/the-suns-endorsements-for-the-nevada-legislature/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Local races matter: The Sun’s endorsements for the Clark County Commission and School Board](https://lasvegassun.com/news/2026/oct/14/local-races-matter-the-suns-endorsements-for-the-c/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Municipal races: The Sun’s picks in Las Vegas, Henderson, North Las Vegas and Boulder City](https://lasvegassun.com/news/2026/oct/14/municipal-races-the-suns-picks-in-las-vegas-hender/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Board of Regents: Sun endorsements for Nevada System of Higher Education](https://lasvegassun.com/news/2026/oct/14/board-of-regents-sun-endorsements-for-nevada-syste/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Judicial races: Sun endorsements for Clark County courts](https://lasvegassun.com/news/2026/oct/14/judicial-races-sun-endorsements-for-clark-county-c/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Our picks: The Sun offers its choices for every race on your Southern Nevada ballot](https://lasvegassun.com/news/2026/oct/14/our-picks-the-sun-offers-its-choices-for-every-rac/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Nevada State Railroad Museum in Boulder City unveils new $25M visitor center](https://lasvegassun.com/news/2026/oct/14/nevada-state-railroad-museum-in-boulder-city-unvei/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Can you still vote in Nevada even if you miss a registration deadline?](https://thenevadaindependent.com/article/can-you-still-vote-in-nevada-even-if-you-miss-a-registration-deadline/) — The Nevada Independent · 01:55 PT · #us #nevada
 - [Pope Leo Spent 'Tranquil Night' In Hospital After Cancer Surgery, Vatican Says](https://www.huffpost.com/entry/vatican-pope-leo-surgery_n_6acf3854e4b0e26c18d0c30c) — World News - Breaking News, Top Stories · 01:21 PT · #us
 - [Cambio en Servicio Postal podría dejar sin contar algunas boletas por correo en el Condado Washoe](https://thenevadaindependent.com/article/cambio-en-servicio-postal-podria-dejar-sin-contar-algunas-boletas-por-correo-en-el-condado-washoe/) — The Nevada Independent · 01:15 PT · #us #nevada

@@ -1,22 +1,27 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-14T05:02:45-07:00
-count: 46
+updated: 2026-10-14T10:05:37-07:00
+count: 52
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-46 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+52 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-14
 
+- [DEA Judge Orders Agency To Address Marijuana Rescheduling Opponents’ Request For New Testimony And Document Discovery](https://www.marijuanamoment.net/dea-judge-orders-agency-to-address-marijuana-rescheduling-opponents-request-for-new-testimony-and-document-discovery/) — Marijuana Moment · 09:58 PT · #business #cannabis
+- [Boston Mayor Opposes Massachusetts Ballot Measure To Roll Back Marijuana Legalization](https://www.marijuanamoment.net/boston-mayor-opposes-massachusetts-ballot-measure-to-roll-back-marijuana-legalization/) — Marijuana Moment · 08:58 PT · #business #cannabis #civic
+- [Oklahoma Should Stop Changing Medical Marijuana Rules So Frequently, Lawmaker Says](https://www.marijuanamoment.net/oklahoma-should-stop-changing-medical-marijuana-rules-so-frequently-lawmaker-says/) — Marijuana Moment · 08:43 PT · #business #cannabis
+- [Talarico Says He’ll Work To Federally Legalize Marijuana If Elected To The Senate](https://www.marijuanamoment.net/talarico-says-hell-work-to-federally-legalize-marijuana-if-elected-to-the-senate/) — Marijuana Moment · 06:22 PT · #business #cannabis #civic
 - [Former Staffer At Top Marijuana Policy Group Criticizes Its Push To Keep Hemp THC Products Legal (Op-Ed)](https://www.marijuanamoment.net/former-staffer-at-top-marijuana-policy-group-criticizes-its-push-to-keep-hemp-thc-products-legal-op-ed/) — Marijuana Moment · 04:47 PT · #business #cannabis #civic
 - [New DEA & opponent briefs in cannabis rescheduling hearing (Newsletter: October 14, 2026)](https://www.marijuanamoment.net/new-dea-opponent-briefs-in-cannabis-rescheduling-hearing-newsletter-october-14-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis
 
 ## 2026-10-13
 
 - [7 Non Smoking Hotels in Las Vegas Where the Air Stays Clean - South Florida Reporter](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHBFMU5xUWdxN0Vsb2xHc2lhWC1NRUZuWlhkVUFpSFQ4YllXcldudk1hWl9iUG1BQXNkWW5qaDdKVU1NeHNJenlGa1dKbElPQjJkWHZXVkVvN3pRc09EaDFvc1B1eEY5X0hWUEQ4VXphdk85ellOamdfM1dPT19rOUd5eXBjRUhhUDl6cUU3TzZjMzNDUTBpOQ?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 22:03 PT · #business #cannabis #nevada
+- [Nevada scientist among those logging ‘lost’ species as fewer endangered species are listed - Norwalk Hour](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGNpOG1FSWNsYmxSZ2Q3cFN3RlBYTzJNT2RPbEw3SXo1S010N1V6bWZIRjRSMjhKQmZVX1NhOHAxUXk2Ni16OTRRM0hmZVdlT3dPdTB3NFY2TWg2NXNEQ1R4a2xGYUVjTG5ROXVtaGt1TVRGN0VsclV0TUIzRG1qZzFrU1Mtekt6TkNoc2M3WkJabjA0MkE?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 18:46 PT · #business #cannabis #nevada
 - [Nurse-Founded Culinary & Cannabis Rebrands as Savor & Solace, Returns to Los Angeles With Three November Experiences](https://www.prnewswire.com/news-releases/nurse-founded-culinary--cannabis-rebrands-as-savor--solace-returns-to-los-angeles-with-three-november-experiences-302907761.html) — PR Newswire M&A · 17:20 PT · #business #cannabis
 - [Illinois cannabis sales increase to record levels amid price drop](https://mjbizdaily.com/news/illinois-cannabis-sales-increase-to-record-levels-amid-price-drop/618606/) — MJBizDaily · 15:15 PT · #business #cannabis #smallbiz
 - [DEA Is OK With Including New Report In Marijuana Rescheduling Hearing As Opponents Seek More Testimony And Document Discovery](https://www.marijuanamoment.net/dea-is-ok-with-including-new-report-in-marijuana-rescheduling-hearing-as-opponents-seek-new-testimony-and-document-discovery/) — Marijuana Moment · 14:40 PT · #business #cannabis
@@ -35,6 +40,7 @@ tags: ["project", "cannabis"]
 - [Gelato Strain Guide Examines Numbered Cuts, Reported Lineage and Historical Lab Data - StreetInsider](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzNCTGhVUkVJNUtqV2U4c2hPbzE2LXhSSEZ3azlCLWhXZ0ttZXVBRFQzM2lKSVVrMEFnMi01UWVzRHpZX3d4OXhNM0kzSzdsM0tYYTNJbWpyT0xhSE1Ec1BSR3pGNmJxaDdHR2E4WXFRRHh3UnFoc1dUcG9ZNjJSZngtSm1TbTBmbUdrZnZIU3kzVW9rbGpDZWI3bldpZG1OZFloZF9NMFFUTU1sMHkxaWdBSnVaQVRrbE8zcW92Y0NSZWFnZXI3SFBmOTZNSkFUVnFGT2JobTdGdjByNElV?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 18:46 PT · #business #cannabis
 - [Gelato Strain Guide Examines Numbered Cuts, Reported Lineage and Historical Lab Data - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRFg4TndQbzc0eGtfMm5kUXJWSGxlcmFXUWU5S0xaczhfczhDNng1ZW1wRWFrNTY2ZHIyX1hxZjlhd0tKeTJvZmtyT1RtLVM2TVY1bXdYNm85anRQbWREbXFPSzBsZThCLU8zdG9MaGxzcnlMbWdzRVFfRnFlaURqU0VjakVNdk05bHhyYTVkdGRHUzdiQlZoRF8xMzh1UGE3VElCcTgxNFVPOEhwc28xbF91LW5tTXJ3aXF4bjJ5OEU1RTVPSVctVDl4YkJidHVScllicWZQSXpCOGhQRlJtWjlMdVlwVjRPY0g0TkxqUnpiVkJxLUNlTkxOV2x2MHJERTI2RjN3?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 15:22 PT · #business #cannabis
 - [Gelato Strain Guide Examines Numbered Cuts, Reported Lineage and Historical Lab Data - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdFpOZWs4WGVyeEY4UzRNSEVDWU02elVWZFZTQ3BrRUNkUllmeXJhZnUzVWFMSDcxMXlZeDViSFExQ2NGSVJKSlZJSm1xQl9QdWhEUHowS2FpSy1FMi1DNDNkaHd1NGgtUFR2SlJ5Q29JNzBHQUZsSmJhUUdiZ0NVX1pna1dGNjZWaVRvaU9sajZRenBFUTR2RUVlZ1RYc2poWHJ5ZXpVRWlnNDZrZy1TOVRncTd5QldFazhqbUdRengzWS14WjFXbHc0RmtuZlotc1hDOC01TTdhbHRNOHFfdXJoQ2wtY2tPWWZUcjFvNnRvOWFLSHc5QlFn?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 15:22 PT · #business #cannabis
+- [Gelato Strain Guide Examines Numbered Cuts, Reported Lineage and Historical Lab Data - Newswire.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjRmLTNzTUFSd0FPNDR6dFhZZFJoWDE4ZUtsbTZTQXlmUV9uOTg5MElHSHZMZVM4OE4zWkY5cExnbXVtTGRvaHpRM2UwS01mbktnSW5HSnBNZ0tfRFd6eEhyUW16QTBiRTZ5QUI1TWEzcDlLMUZZSGpxUWZnZVpfa05DcUR3aGlxR3lZSzVqeVFhSTQ3cExUSEEwTVEwU3hfVHlRQmsySkNMTHgw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 15:20 PT · #business #cannabis
 - [Big Brother’s Amber Siyavus Dies at 46, Milania Giudice Shares Public Apology and More Top Us Stories - AOL.ca](https://news.google.com/rss/articles/CBMifkFVX3lxTE0yc2otNVJjODJ1Ui1pZUZWQ3haOUhlY2lEUzQyaUQ5UmVNN1BoX1VBMHVHaGdSM3cyeWtaRW44Nk9Qa0hlMExnR2FWN0RzMktXVGo0bVNvRXkzbWFZU3RPTDhPY21wczZ4OGxza01kcUF6a3lHM3NTZzRidWtkQQ?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:45 PT · #business #cannabis
 - [North Carolina’s $3 Billion Hemp Industry Braces For Impact Of Scheduled Federal THC Product Ban](https://www.marijuanamoment.net/north-carolinas-3-billion-hemp-industry-braces-for-impact-of-scheduled-federal-thc-product-ban/) — Marijuana Moment · 11:05 PT · #business #cannabis
 - [Washington Officials Invite Public Comments On Proposal To Make It Easier For Medical Marijuana Businesses To Access Federal Rescheduling Benefits](https://www.marijuanamoment.net/washington-officials-invite-public-comments-on-proposal-to-make-it-easier-for-medical-marijuana-businesses-to-access-federal-rescheduling-benefits/) — Marijuana Moment · 10:28 PT · #business #cannabis

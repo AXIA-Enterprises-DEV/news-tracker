@@ -1,22 +1,34 @@
 ---
 title: "Tickers"
-updated: 2026-10-14T05:02:45-07:00
-count: 95
+updated: 2026-10-14T10:05:37-07:00
+count: 106
 tags: ["tickers"]
 ---
 
 # Active tickers
 
 - [$LSCC](LSCC.md) — 6 items
+- [$RMNI](RMNI.md) — 5 items
 - [$NTCT](NTCT.md) — 5 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
 - [$MRVL](MRVL.md) — 2 items
+- [$BSP](BSP.md) — 1 items
+- [$AVAV](AVAV.md) — 1 items
+- [$STLA](STLA.md) — 1 items
+- [$KNSL](KNSL.md) — 1 items
+- [$STT](STT.md) — 1 items
+- [$CNXN](CNXN.md) — 1 items
+- [$ARW](ARW.md) — 1 items
+- [$SBAC](SBAC.md) — 1 items
+- [$IONQ](IONQ.md) — 1 items
+- [$SIDU](SIDU.md) — 1 items
 - [$AEP](AEP.md) — 1 items
 - [$IBM](IBM.md) — 1 items
 - [$AVNT](AVNT.md) — 1 items
 - [$SCNI](SCNI.md) — 1 items
 - [$FLEX](FLEX.md) — 1 items
+- [$FICO](FICO.md) — 1 items
 - [$FFAI](FFAI.md) — 1 items
 - [$FFR](FFR.md) — 1 items
 - [$IRDM](IRDM.md) — 1 items
@@ -75,7 +87,6 @@ tags: ["tickers"]
 - [$INFQ](INFQ.md) — 1 items
 - [$SPCB](SPCB.md) — 1 items
 - [$III](III.md) — 1 items
-- [$RMNI](RMNI.md) — 1 items
 - [$BTC](BTC.md) — 1 items
 - [$HLP](HLP.md) — 1 items
 - [$LUMN](LUMN.md) — 1 items
