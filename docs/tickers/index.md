@@ -1,20 +1,34 @@
 ---
 title: "Tickers"
-updated: 2026-10-14T13:39:53-07:00
-count: 136
+updated: 2026-10-14T16:27:38-07:00
+count: 152
 tags: ["tickers"]
 ---
 
 # Active tickers
 
+- [$NTCT](NTCT.md) — 8 items
 - [$LSCC](LSCC.md) — 6 items
 - [$RMNI](RMNI.md) — 5 items
-- [$NTCT](NTCT.md) — 5 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
 - [$C](C.md) — 2 items
 - [$STM](STM.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$ENSG](ENSG.md) — 1 items
+- [$TYGO](TYGO.md) — 1 items
+- [$APP](APP.md) — 1 items
+- [$FLNC](FLNC.md) — 1 items
+- [$SPT](SPT.md) — 1 items
+- [$CHCT](CHCT.md) — 1 items
+- [$PFSF](PFSF.md) — 1 items
+- [$DOCS](DOCS.md) — 1 items
+- [$AWK](AWK.md) — 1 items
+- [$LMT](LMT.md) — 1 items
+- [$FRST](FRST.md) — 1 items
+- [$VISN](VISN.md) — 1 items
+- [$POLY](POLY.md) — 1 items
+- [$REAL](REAL.md) — 1 items
 - [$WHF](WHF.md) — 1 items
 - [$VIAV](VIAV.md) — 1 items
 - [$EAT](EAT.md) — 1 items
@@ -100,6 +114,8 @@ tags: ["tickers"]
 - [$RBBN](RBBN.md) — 1 items
 - [$INBX](INBX.md) — 1 items
 - [$CRUS](CRUS.md) — 1 items
+- [$U](U.md) — 1 items
+- [$NLY](NLY.md) — 1 items
 - [$KRMN](KRMN.md) — 1 items
 - [$FSLR](FSLR.md) — 1 items
 - [$IBKR](IBKR.md) — 1 items

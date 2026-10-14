@@ -1,16 +1,17 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-14T13:39:53-07:00
-count: 186
+updated: 2026-10-14T16:27:38-07:00
+count: 188
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-186 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+188 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-14
 
+- [Joint statement by Azerbaijan’s Media and Broadcasting Council and Ministry of Health - Azərtac](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGNvQUdkNG0wN2cwTlNBckdQbmdXODY0SzhGQnBGcktqOGJmUlhTR05abTdLcXJkekJvRUpjUUdzUk5xUDdsTnY0VFltbHRQQjFOMlZfbTVMdXpLS2wyeU9IT2MzeV92bmtCZE5pbXBLaDYxRWZQTmhrTTdxRjF6a2EtQUVHLTVTcmtpNVU2OWE5M2NiaXgzVEtwOWdkWkhJTEhsNzJPT3h1ZkdQdVRoS1hzVGJHQW9Oc0RldQ?oc=5) — Google News: propaganda OR disinformation media · 14:44 PT · #world #media
 - [Fact-Checking Senate Debates in Georgia, Maine and Michigan](https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html) — NYT Politics · 13:06 PT · #politics #civic #media
 - [Two creators went to NYU’s business school, then decided to make a show about the news](https://www.niemanlab.org/2026/10/two-creators-went-to-nyus-business-school-then-decided-to-make-a-show-about-the-news/) — Nieman Lab · 12:43 PT · #tech #media
 - [The "women-first" #dating app #Bumble is going private — with two new male #CEOs. #datingapps](https://www.youtube.com/shorts/KvSMhA_1f4w) — Business Insider · 12:01 PT · #business #media
@@ -76,6 +77,7 @@ tags: ["project", "media"]
 - [Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut](https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing) — Guardian World · 12:22 PT · #world #ai #media
 - [From bad to worse: 2026 is shaping up to be “a Super El Niño year for local news”](https://www.niemanlab.org/2026/10/from-bad-to-worse-2026-is-shaping-up-to-be-a-super-el-nino-year-for-local-news/) — Nieman Lab · 12:19 PT · #tech #media
 - [Want to get promoted faster? Walmart's CPO has two tips. #careeradvice #leadership #work](https://www.youtube.com/shorts/LM9xRAHLTh0) — Business Insider · 11:59 PT · #business #media
+- [Greek minister dismisses anti-Israel protests as ‘antisemitic propaganda’ - EJ Press](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1R4c3NtLVFfa0RjNnpiWWRBOHZNNjZuYXhKalcxdi1QbFF3YmtEN2xwbm9Nb2lWWjN1TXB4dk1XWTBmYzM1Z2czRUxQVl9oV1dudEQ5VFZ4dUZTNWRwOG9DN29TUEpyd1NMM2RRUFFfV25ZSmEzOWo1LVY2NmlmZTEtU3ppSzROdVh6ZWRkeE40QUwtem1z0gGcAUFVX3lxTFBkUVdzWUhjbXl0TWZxaV9iWTVkVmo2aElVT0dnMU1VQzdaM3pKQ090RGdTX0RHbU9SU3psTVBkMVFwejRER21ScFFFLWhEOFFxclVpVWo4OW5VYmhpY3d3Rk9CZTQ5UHpRcUh0TldrTmI2b2hUbnAtOWh1ZXNfZFg5Z1FJT0kwSV8zMHVzVE9aSkhKUGZIV0hkRTAwUQ?oc=5) — Google News: propaganda OR disinformation media · 11:56 PT · #world #foreign #media
 - [Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex](https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy) — The Verge · 11:31 PT · #tech #foreign #media
 - [Russia arrests Japanese journalist on espionage charges](https://www.ft.com/content/b77a0094-c6f1-449a-9323-2b4d16696cb7?syn-25a6b1a6=1) — FT Home · 11:30 PT · #business #foreign #media
 - [Trump Propaganda on Your TV - Common Cause](https://news.google.com/rss/articles/CBMidkFVX3lxTE1HM3RBZ013NDJZQlVsZGZpdlFCZEdiN1FhdkwtS3U0dDNieU1fTjJUS25YZkYwbEFodHdWWUM2YV8wTjJVdE9zSUZYU1ZGZzNXTWN5dV9la0xvX1o4UzBRWW5hRnNSOUxpSTBGa2hnQ2lMa1RvWXc?oc=5) — Google News: propaganda OR disinformation media · 10:48 PT · #world #media

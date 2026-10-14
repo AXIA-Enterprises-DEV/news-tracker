@@ -1,16 +1,19 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-14T13:39:53-07:00
-count: 56
+updated: 2026-10-14T16:27:38-07:00
+count: 59
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-56 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+59 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-14
 
+- [Nebraska MMJ growers harvest first crops with no path to market](https://mjbizdaily.com/news/nebraska-mmj-growers-harvest-first-crops-with-no-path-to-market/618627/) — MJBizDaily · 15:55 PT · #business #cannabis #smallbiz
+- [As rescheduling fuels cannabis deals, integration decides who wins - MJBizDaily](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX01rZVFJUlJRLVE1N3dQOTZZTjRidlB2T2tqOEltd2NRWHBuR3diV1lhSDlWWGlvOS1BdG5NU1N1U2VMUzBUYk9MX0xSMk1QVUR6YkpHdm5MRl9MdFNCYU5SYzRoS2JZNEczeWc5X2Q2NkFyYzJBcXFoVWV4WWUwZVlnQVQ1UGFYb1AxOWt4VVFaUTdraVhGUXhZLWlCcXVlQ1g0?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:55 PT · #business #cannabis
+- [States don’t need to change rules to comply with federal marijuana rescheduling](https://mjbizdaily.com/news/states-dont-need-to-change-rules-to-comply-with-federal-marijuana-rescheduling/618631/) — MJBizDaily · 13:41 PT · #business #cannabis #smallbiz
 - [Nebraska Officials Consider Changes To Medical Marijuana Rules](https://www.marijuanamoment.net/nebraska-officials-consider-changes-to-medical-marijuana-rules/) — Marijuana Moment · 11:58 PT · #business #cannabis
 - [Proposed New Mexico Psilocybin Rules Get Pushback From Lawmakers And Advocates](https://www.marijuanamoment.net/proposed-new-mexico-psilocybin-rules-get-pushback-from-lawmakers-and-advocates/) — Marijuana Moment · 11:21 PT · #business #cannabis #foreign
 - [Main factors in pornography use among adolescents identified](https://phys.org/news/2026-10-main-factors-pornography-adolescents.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science #cannabis

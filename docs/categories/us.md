@@ -1,16 +1,31 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-14T13:39:53-07:00
-count: 302
+updated: 2026-10-14T16:27:38-07:00
+count: 317
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-302 most recent items (14-day window).
+317 most recent items (14-day window).
 
 ## 2026-10-14
 
+- [Police seeking info on suspect of hit-and-run in southwest Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/police-seeking-info-on-suspect-of-hit-and-run-in-southwest-las-vegas-valley-3900085/) — Las Vegas Review-Journal · 16:21 PT · #us #nevada
+- [Vote delayed on controversial 61-home development in Las Vegas](https://www.reviewjournal.com/business/housing/vote-delayed-on-controversial-61-home-development-in-las-vegas-3900076/) — Las Vegas Review-Journal · 15:48 PT · #us #nevada
+- [Las Vegas Tesla arsonist sentenced to 5 years in prison, judge rules](https://www.reviewjournal.com/crime/courts/las-vegas-tesla-arsonist-sentenced-to-5-years-in-prison-judge-rules-3900070/) — Las Vegas Review-Journal · 15:23 PT · #us #nevada
+- [Authorities seek vehicle involved in hit-and-run that critically injured Las Vegas professor](https://www.ktnv.com/news/authorities-seek-vehicle-involved-in-hit-and-run-that-critically-injured-pedestrian) — KTNV Las Vegas · 15:13 PT · #us #nevada
+- [As turnovers dry up, Raiders defense looks to reverse course](https://www.reviewjournal.com/sports/raiders/as-turnovers-dry-up-raiders-defense-looks-to-reverse-course-3900066/) — Las Vegas Review-Journal · 15:09 PT · #us #nevada
+- [Clark County officials ID body found in barrel at Lake Mead in 2022](https://www.reviewjournal.com/crime/homicides/clark-county-officials-id-body-found-in-barrel-at-lake-mead-in-2022-3900060/) — Las Vegas Review-Journal · 15:03 PT · #us #nevada
+- [Las Vegas woman sentenced to 14 years in prison for child sex trafficking](https://lasvegassun.com/news/2026/oct/14/las-vegas-woman-sentenced-to-14-years-in-prison-fo/) — Las Vegas Sun · 15:02 PT · #us #nevada
+- [Body found in barrel at Lake Mead will be identified this week, officials say](https://www.ktnv.com/news/body-found-in-barrel-at-lake-mead-will-be-identified-this-week-officials-say) — KTNV Las Vegas · 14:58 PT · #us #nevada
+- [Raiders freefall in latest power rankings after blowout loss to Patriots](https://www.reviewjournal.com/sports/raiders/raiders-freefall-in-latest-power-rankings-after-blowout-loss-to-patriots-3900056/) — Las Vegas Review-Journal · 14:56 PT · #us #nevada
+- [Clark County seeks applicants for stadium authority board](https://lasvegassun.com/news/2026/oct/14/clark-county-seeks-applicants-for-stadium-authorit/) — Las Vegas Sun · 14:32 PT · #us #nevada
+- [Court OKs sale of downtown Las Vegas casino property](https://www.reviewjournal.com/business/casinos-gaming/court-oks-sale-of-downtown-las-vegas-casino-property-3900049/) — Las Vegas Review-Journal · 14:23 PT · #us #nevada
+- [Supreme Court sides with Republicans in dispute over cost of campaign ads](https://www.latimes.com/politics/story/2026-10-14/supreme-court-sides-with-republicans-in-dispute-over-cost-of-campaign-ads) — World & Nation · 14:16 PT · #us #civic
+- [Clark County early voting: Voting centers less likely to have a line on Day 1](https://www.ktnv.com/news/clark-county-early-voting-voting-centers-less-likely-to-have-a-line-on-day-1) — KTNV Las Vegas · 13:48 PT · #us #nevada
+- [Trump campaigns in Arizona and Montana on 2nd day of Western swing to help boost GOP candidates](https://lasvegassun.com/news/2026/oct/14/trump-campaigns-in-arizona-and-montana-on-2nd-day/) — Las Vegas Sun · 13:44 PT · #us #nevada
+- [New landlord buys Southern Nevada industrial buildings for $190M](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/new-landlord-buys-southern-nevada-industrial-buildings-for-190m-3900038/) — Las Vegas Review-Journal · 13:42 PT · #us #nevada #realestate
 - [College football predictions: UNC, Auburn among best bets](https://www.reviewjournal.com/sports/betting/college-football-predictions-unc-auburn-among-best-bets-3900032/) — Las Vegas Review-Journal · 13:11 PT · #us #nevada
 - [Thursday night prediction: Broncos, key WR among top picks against Seahawks](https://www.reviewjournal.com/sports/betting/thursday-night-prediction-broncos-key-wr-among-top-picks-against-seahawks-3900027/) — Las Vegas Review-Journal · 12:57 PT · #us #nevada
 - [Nevada seeks public input on first statewide trails plan](https://lasvegassun.com/news/2026/oct/14/nevada-seeks-public-input-on-first-statewide-trail/) — Las Vegas Sun · 12:30 PT · #us #nevada

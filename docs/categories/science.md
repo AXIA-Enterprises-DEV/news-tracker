@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-14T13:39:53-07:00
+updated: 2026-10-14T16:27:38-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,26 @@ tags: ["category", "science"]
 
 ## 2026-10-14
 
+- [Uganda's sugarcane boom leaves families hungry: What needs to change](https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [Fine particles from aircraft exhaust become more harmful over time, lab tests suggest](https://phys.org/news/2026-10-fine-particles-aircraft-exhaust-lab.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [New chip-scale gyroscope measures rotation with unprecedented sensitivity](https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [A trip to Mars could come at a heartbreaking cost](https://phys.org/news/2026-10-mars-heartbreaking.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [Urbanization takes a bigger toll on bird diversity in the tropics than it does at other latitudes, study finds](https://phys.org/news/2026-10-urbanization-bigger-toll-bird-diversity.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [When parents don't see eye to eye: Are differences in parenting styles a bad thing?](https://phys.org/news/2026-10-parents-dont-eye-differences-parenting.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [Waste plastics become molecular sponges that capture water from air](https://phys.org/news/2026-10-plastics-molecular-sponges-capture-air.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [Spawning coral release quintillions of eggs each year, new calculations suggest](https://phys.org/news/2026-10-spawning-coral-quintillions-eggs-year.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [Genome publishing overhaul targets 200 reports per month, up from 30](https://phys.org/news/2026-10-genome-publishing-overhaul-month.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [A single carbon atom stitches flat molecules into 3D structures](https://phys.org/news/2026-10-carbon-atom-flat-molecules-3d.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [How E. coli eavesdrops on the metabolic activity of other gut bacteria](https://phys.org/news/2026-10-coli-eavesdrops-metabolic-gut-bacteria.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
+- [From 'A Little Princess' to 'Black Panther,' how Hollywood films have reimagined the South Asian epic 'Ramayana'](https://phys.org/news/2026-10-princess-black-panther-hollywood-reimagined.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
+- [Warmer climate could reshape hurricane risk and its relationship with El Niño around Hawai'i](https://phys.org/news/2026-10-warmer-climate-reshape-hurricane-relationship.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- [How detection dogs are helping protect one of Australia's most imperiled lizards](https://phys.org/news/2026-10-dogs-australia-imperiled-lizards.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- [Scientists identify avian cholera as major cause of penguin deaths in Antarctica](https://phys.org/news/2026-10-scientists-avian-cholera-major-penguin.html) — Phys.org - latest science and technology news stories · 14:10 PT · #science
+- [Engineered enzyme could improve detection of HIV and other viruses](https://phys.org/news/2026-10-enzyme-hiv-viruses.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [Firms facing tariff shocks choose collaboration over conquest](https://phys.org/news/2026-10-firms-tariff-collaboration-conquest.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [AI-assisted math advance highlights gap between finding answers and judging their significance](https://phys.org/news/2026-10-ai-math-advance-highlights-gap.html) — Phys.org - latest science and technology news stories · 13:50 PT · #science #ai
+- [International business is influenced by local political climate, study finds](https://phys.org/news/2026-10-international-business-local-political-climate.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science #markets
+- [Wide-scale cropland loss has consequences for wildfire resilience in the American West](https://phys.org/news/2026-10-wide-scale-cropland-loss-consequences.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
 - [Mollusk family trees play a key role in shaping microbiomes, researchers find](https://phys.org/news/2026-10-mollusk-family-trees-play-key.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
 - [Examining fraud prevention in federal relief programs](https://phys.org/news/2026-10-fraud-federal-relief.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
 - [New framework links magnetic phase boundaries to string-like defects in spin ice](https://phys.org/news/2026-10-framework-links-magnetic-phase-boundaries.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
@@ -406,26 +426,3 @@ tags: ["category", "science"]
 - [A teen used AI to plan a hiking route. It trapped him on a cliff.](https://www.popsci.com/technology/ai-hiking-route-strands-teen/) — Popular Science · 11:43 PT · #science #ai
 - [Scientists discover 5 hidden brain patterns behind depression](https://www.sciencedaily.com/releases/2026/10/261008005251.htm) — Latest Science News -- ScienceDaily · 11:34 PT · #science
 - [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/) — Science Latest · 11:30 PT · #science
-- [Scientists create a lightsaber-like laser antenna that transmits radio waves](https://www.sciencedaily.com/releases/2026/10/261008005239.htm) — Latest Science News -- ScienceDaily · 10:55 PT · #science
-- [Hubble Space Telescope may have found a planet born after its star died](https://www.sciencedaily.com/releases/2026/10/261007042106.htm) — Latest Science News -- ScienceDaily · 10:31 PT · #science
-- [Two large asteroids found spinning as fast as a fairground ride](https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS) — New Scientist - Space · 10:00 PT · #science
-- [A baby tyrannosaur possibly cannibalized its dead relative](https://www.popsci.com/science/baby-tyrannosaur-cannibal/) — Popular Science · 09:01 PT · #science
-- [Squid are covered in little hairs like the ones in your ear](https://www.popsci.com/environment/squid-covered-in-hair/) — Popular Science · 08:12 PT · #science
-- [Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code](https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html) — NYT > Science · 07:11 PT · #science
-- [Ancient Romans thought drinking gladiator blood could cure epilepsy](https://www.popsci.com/health/ancient-rome-gladiator-blood-epilepsy-cure/) — Popular Science · 05:54 PT · #science
-- [What Are the Remaining Millennium Prize Problems?](https://www.nytimes.com/2026/10/08/science/millennium-prize-problems-explainer.html) — NYT > Science · 05:12 PT · #science #ai
-- [Giant tortoises now outnumber people in the Seychelles](https://www.popsci.com/environment/giant-tortoise-population-reboud/) — Popular Science · 05:06 PT · #science
-- [Only one workout helped older adults lose fat and keep muscle](https://www.sciencedaily.com/releases/2026/10/261007233348.htm) — Latest Science News -- ScienceDaily · 03:57 PT · #science
-- [Scientists find hidden materials that could improve batteries and solar fuels](https://www.sciencedaily.com/releases/2026/10/261007042118.htm) — Latest Science News -- ScienceDaily · 03:20 PT · #science
-- [Interactive map of the Hebrew Bible](https://flowingdata.com/2026/10/09/interactive-map-of-the-hebrew-bible/) — FlowingData · 02:59 PT · #science
-- [Bacteria turn a virus’ own weapon against it](https://www.sciencedaily.com/releases/2026/10/261007042100.htm) — Latest Science News -- ScienceDaily · 02:51 PT · #science
-- [A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up](https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/) — Science Latest · 02:30 PT · #science #foreign
-- [A 9-billion-year-old signal could help explain dark energy](https://www.sciencedaily.com/releases/2026/10/261007042102.htm) — Latest Science News -- ScienceDaily · 01:53 PT · #science
-- [A quantum prediction from 1931 just came to life](https://www.sciencedaily.com/releases/2026/10/261006234517.htm) — Latest Science News -- ScienceDaily · 01:25 PT · #science
-
-## 2026-10-08
-
-- [NASA astronauts splash down after 100 million miles in space](https://www.sciencedaily.com/releases/2026/10/261008232629.htm) — Latest Science News -- ScienceDaily · 20:56 PT · #science
-- [October’s night sky is full of cosmic tricks and treats](https://www.sciencedaily.com/releases/2026/10/261008102704.htm) — Latest Science News -- ScienceDaily · 19:37 PT · #science
-- [Nearly 30,000 people tested quit-smoking methods. One stood out](https://www.sciencedaily.com/releases/2026/10/261006234524.htm) — Latest Science News -- ScienceDaily · 19:07 PT · #science
-- [Scientists tested 5 natural compounds on cancer cells. One stood out](https://www.sciencedaily.com/releases/2026/10/261006234531.htm) — Latest Science News -- ScienceDaily · 18:15 PT · #science
