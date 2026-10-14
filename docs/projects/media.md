@@ -1,24 +1,31 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-14T10:05:37-07:00
-count: 179
+updated: 2026-10-14T13:39:53-07:00
+count: 186
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-179 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+186 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-14
 
+- [Fact-Checking Senate Debates in Georgia, Maine and Michigan](https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html) — NYT Politics · 13:06 PT · #politics #civic #media
+- [Two creators went to NYU’s business school, then decided to make a show about the news](https://www.niemanlab.org/2026/10/two-creators-went-to-nyus-business-school-then-decided-to-make-a-show-about-the-news/) — Nieman Lab · 12:43 PT · #tech #media
+- [The "women-first" #dating app #Bumble is going private — with two new male #CEOs. #datingapps](https://www.youtube.com/shorts/KvSMhA_1f4w) — Business Insider · 12:01 PT · #business #media
+- [Commentary: Karen Bass says L.A.'s political establishment doesn't like Raman. Well, boo hoo - Los Angeles Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFdldDVKNnlUTDFXS2ZHQ1lsRmROdWpuS0ZiMVN2LVR5RllNUTZvX1FCWDFUNjdkcmpURzNfOWk4OFZXTXp3MEVNUEhQa05iLWsxQUItUVIwMi1BczNhYmVvZFFQSlZZcDIyRU1EU0VpRmlvY3RWeG9obHl5RmRKeXpxRHdZajN3cEtyX1pWOW5yYUpablVIb1U4ZTNET2s?oc=5) — Top stories - Google News · 10:34 PT · #world #media
 - [SIMON WIESENTHAL CENTER RELEASES GROUNDBREAKING REPORT ON IRAN'S 30-YEAR DISINFORMATION WAR TO SOW DIVISION IN THE WEST](https://www.prnewswire.com/news-releases/simon-wiesenthal-center-releases-groundbreaking-report-on-irans-30-year-disinformation-war-to-sow-division-in-the-west-302908850.html) — PR Newswire M&A · 09:40 PT · #business #foreign #media
 - [National Press Club Honors The New York Times with John Aubuchon Press Freedom Award for Defending First Amendment Rights](https://www.prnewswire.com/news-releases/national-press-club-honors-the-new-york-times-with-john-aubuchon-press-freedom-award-for-defending-first-amendment-rights-302908844.html) — PR Newswire M&A · 09:34 PT · #business #media
 - [Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy](https://oilprice.com/Latest-Energy-News/World-News/Novak-Calls-US-Diesel-Deal-a-Positive-Signal-for-Russias-Economy.html) — OilPrice.com · 09:30 PT · #markets #foreign #media #oil
 - [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://lasvegassun.com/news/2026/oct/14/judge-extends-order-blocking-trump-from-banning-cn/) — Las Vegas Sun · 09:20 PT · #us #media #nevada
+- [Romance Scams Have Cost Americans Billions—This Journalist Went Undercover To Expose Them](https://www.forbes.com/sites/forbestv/2026/10/14/romance-scams-have-cost-americans-billions-this-journalist-went-undercover-to-expose-them/) — Forbes - Business · 09:15 PT · #business #media
+- [Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests](https://www.forbes.com/sites/saradorn/2026/10/14/katie-zacharia-may-have-committed-a-crime-by-claiming-shes-a-lawyer-complaint-suggests/) — Forbes - Business · 09:09 PT · #business #media
 - [The great Russian bot blackout that wasn’t, and what it means for South Africa - News24](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3h2SGdGNzBLUi10ak8waktNdl91elM5WTVZRGxLa0NMNVR5bDgyMUhJM1dZWmlQV3cyZXhkUHkzYzBuSkEwa1dxUWE1R05PUTE5VURUZ2dmSXpaNUJRRVRkTWZ0Nkl4R0EydFlYT2Jodi1yblc1YzVka20yc253b3ZJV1d6QnU5MUE5QV9SMFVuMFJ0TDY0SjRnakxVd3hNNGZfei01VFhaaWo1U3VpVHRnMjkxSVpPTTd2M1UwS21jbW1uZXhOWFh4OEsxRUVr?oc=5) — Google News: propaganda OR disinformation media · 08:45 PT · #world #foreign #media
 - [It's Day Zero for these plebe candidates at the US Merchant #Marine Academy. #military #bootcamp](https://www.youtube.com/shorts/OTTG9rgl_Cc) — Business Insider · 08:00 PT · #business #foreign #media
 - [In the Kremlin’s AI Propaganda Blitz, the Noise Is the Signal - Carnegie Endowment for International Peace](https://news.google.com/rss/articles/CBMilgFBVV95cUxQODl5bWhON2lVR0V5VGNWcVJDU2hQWWNaZmxTYTZaajlCQWtLQjVyMzJPdGotUmE0RDdXek1EaTY1a0dHejhSNXRaeW85eU9ZVXo3RVdCRmw5M2lNY29vOHRMSXJoOXZLSFpoS0N6ZDM5V2YwbmRELTFwN0FYeEw0c0pNM2ZLUDM0TFh6c0FSTW51QkR2N3c?oc=5) — Google News: propaganda OR disinformation media · 07:25 PT · #world #ai #media
 - [ru-propaganda attempted to influence the Brexit referendum: MI5 statement - Центр протидії дезінформації](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVNIT041WExRMk8wNHRwRFk5Y3FjcXFVVURTX3RCaVV2VHgtU190TmN1eUMzc2FzMEVoRmpISTg2TGo1dWxwSC11Q0dkaUZyZDdoUGs3SERpWUh6NkhnU0VUYXpDeWNCUlZVTE94OFJhN2lQYVRoTnFsbTFSY25iLUQzRzNrOXVFWFpJTGNRcEg0VlJwSjBQMnJKTjlWdFVkVnh5Mmtqd1ZQNVBXZzQ4Vk9GdUUtdVoxRk8xUWZITU9TSkxReVE?oc=5) — Google News: propaganda OR disinformation media · 07:11 PT · #world #media
+- [The Russian Bots Went Silent. Or Did They? - Lawfare](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHF4RWYyekd3cGdxWlNxRnB0R0FFYTNaazdRZ2N2QmFwN0F0MFlCT0h3dnVoSmd6dFRuaXBFWURrUFhaLVc5ek9Zd3dFTDZzeW1iUjBQcmo2YmhDcUJNa2tHN3pVYWlCRmNySmF4THFZdDZia1pSTTVwSlZaWmNFYWdqNzQ?oc=5) — Google News: propaganda OR disinformation media · 06:24 PT · #world #foreign #media
 - [Russia arrests Japanese journalist on suspicion of ‘espionage’](https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss) — Al Jazeera · 06:22 PT · #world #foreign #media
 - [The curious case of Human Online: Pakistan link, pro-CJP propaganda and more - OpIndia](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbEE4LThsMUpuMWRtME44VkdjbG9uNHUxaXBKNEF2WG5QSXdHbktfc2hlbDNxOXdob2NENW9XR1c1WmVUUEJZRW4zaVVBcjRFSXlwM0tPUUljOWhFU3ZwYXZ4b1FQTWpaa3pFZmx5VmRtaVhYU2JrcGJTZ0JaZXNlT1VtcUNaUkQ4Z1RRYm5IMDZXMEJYU1gwdDJHRU1uODAwZWxMN3ZLMUp6bFZwaWZmdkhvc3dRamhlSmJUemtBRDY3bi1MZU05TVV4TzBiNzg?oc=5) — Google News: propaganda OR disinformation media · 06:15 PT · #world #media
 - [Crisis informatics, disinformation and emergency politics - Peace Research Institute Oslo (PRIO)](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hOWhNZHE1dlN2dUdzVFptemlhRndGai1CUG04YXl0YTRWLW9QcTVfbkJ2d2VTM3J6VFRNakNiQUNEWWl1c1I4UER2THpHaXVt?oc=5) — Google News: propaganda OR disinformation media · 04:49 PT · #world #media

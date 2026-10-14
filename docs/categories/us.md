@@ -1,16 +1,27 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-14T10:05:37-07:00
-count: 291
+updated: 2026-10-14T13:39:53-07:00
+count: 302
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-291 most recent items (14-day window).
+302 most recent items (14-day window).
 
 ## 2026-10-14
 
+- [College football predictions: UNC, Auburn among best bets](https://www.reviewjournal.com/sports/betting/college-football-predictions-unc-auburn-among-best-bets-3900032/) — Las Vegas Review-Journal · 13:11 PT · #us #nevada
+- [Thursday night prediction: Broncos, key WR among top picks against Seahawks](https://www.reviewjournal.com/sports/betting/thursday-night-prediction-broncos-key-wr-among-top-picks-against-seahawks-3900027/) — Las Vegas Review-Journal · 12:57 PT · #us #nevada
+- [Nevada seeks public input on first statewide trails plan](https://lasvegassun.com/news/2026/oct/14/nevada-seeks-public-input-on-first-statewide-trail/) — Las Vegas Sun · 12:30 PT · #us #nevada
+- [‘Aggressive’ great white shark seen in waters off Huntington Beach](https://www.reviewjournal.com/news/nation-and-world/aggressive-great-white-shark-seen-in-waters-off-huntington-beach-3900024/) — Las Vegas Review-Journal · 12:18 PT · #us #nevada
+- [Boston construction giant hires new exec to lead Las Vegas office](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/boston-construction-giant-hires-new-exec-to-lead-las-vegas-office-3900016/) — Las Vegas Review-Journal · 11:54 PT · #us #nevada
+- [Texas prosecutor says ICE officer appeared to intentionally strike a man with a vehicle in Houston](https://lasvegassun.com/news/2026/oct/14/texas-prosecutor-says-ice-officer-appeared-to-inte/) — Las Vegas Sun · 11:34 PT · #us #nevada
+- [Raiders QB meets with media to preview Sunday’s game vs. Buffalo Bills](https://www.reviewjournal.com/sports/raiders/raiders-coach-qb-meet-with-media-to-preview-sundays-game-vs-buffalo-bills-3899993/) — Las Vegas Review-Journal · 10:25 PT · #us #nevada
+- [Student arrested after bringing gun on campus at Desert Oasis High School](https://www.ktnv.com/news/student-arrested-after-bringing-gun-on-campus-at-desert-oasis-high-school) — KTNV Las Vegas · 10:12 PT · #us #nevada
+- [Student in custody after gun found at high school in Las Vegas](https://www.reviewjournal.com/crime/student-in-custody-after-gun-found-at-high-school-in-las-vegas-3899984/) — Las Vegas Review-Journal · 09:52 PT · #us #nevada
+- [Trump says he cares for Americans. They think he’s more focused on his wealth, an AP-NORC poll finds](https://www.reviewjournal.com/news/politics-and-government/trump-says-he-cares-for-americans-they-think-hes-more-focused-on-his-wealth-an-ap-norc-poll-finds-3899980/) — Las Vegas Review-Journal · 09:51 PT · #us #nevada
+- [Iran says a ship sank after striking a mine in Strait of Hormuz](https://www.reviewjournal.com/news/politics-and-government/iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-3899974/) — Las Vegas Review-Journal · 09:40 PT · #us #foreign #nevada #oil
 - [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://lasvegassun.com/news/2026/oct/14/judge-extends-order-blocking-trump-from-banning-cn/) — Las Vegas Sun · 09:20 PT · #us #media #nevada
 - [The first new sunscreen type in 25 years has arrived on US store shelves](https://lasvegassun.com/news/2026/oct/14/the-first-new-sunscreen-type-in-25-years-has-arriv/) — Las Vegas Sun · 09:17 PT · #us #nevada
 - [Las Vegas bourbon maker looks to sell land for more than $8M](https://www.reviewjournal.com/business/vegas-business/small-business/las-vegas-bourbon-maker-looks-to-sell-land-for-more-than-8m-3899949/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada

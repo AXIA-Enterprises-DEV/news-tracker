@@ -1,17 +1,21 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-14T10:05:37-07:00
-count: 52
+updated: 2026-10-14T13:39:53-07:00
+count: 56
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-52 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+56 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-14
 
+- [Nebraska Officials Consider Changes To Medical Marijuana Rules](https://www.marijuanamoment.net/nebraska-officials-consider-changes-to-medical-marijuana-rules/) — Marijuana Moment · 11:58 PT · #business #cannabis
+- [Proposed New Mexico Psilocybin Rules Get Pushback From Lawmakers And Advocates](https://www.marijuanamoment.net/proposed-new-mexico-psilocybin-rules-get-pushback-from-lawmakers-and-advocates/) — Marijuana Moment · 11:21 PT · #business #cannabis #foreign
+- [Main factors in pornography use among adolescents identified](https://phys.org/news/2026-10-main-factors-pornography-adolescents.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science #cannabis
 - [DEA Judge Orders Agency To Address Marijuana Rescheduling Opponents’ Request For New Testimony And Document Discovery](https://www.marijuanamoment.net/dea-judge-orders-agency-to-address-marijuana-rescheduling-opponents-request-for-new-testimony-and-document-discovery/) — Marijuana Moment · 09:58 PT · #business #cannabis
+- [As rescheduling fuels cannabis deals, integration decides who wins](https://mjbizdaily.com/news/as-rescheduling-fuels-cannabis-deals-integration-decides-who-wins/618587/) — MJBizDaily · 09:45 PT · #business #cannabis #smallbiz
 - [Boston Mayor Opposes Massachusetts Ballot Measure To Roll Back Marijuana Legalization](https://www.marijuanamoment.net/boston-mayor-opposes-massachusetts-ballot-measure-to-roll-back-marijuana-legalization/) — Marijuana Moment · 08:58 PT · #business #cannabis #civic
 - [Oklahoma Should Stop Changing Medical Marijuana Rules So Frequently, Lawmaker Says](https://www.marijuanamoment.net/oklahoma-should-stop-changing-medical-marijuana-rules-so-frequently-lawmaker-says/) — Marijuana Moment · 08:43 PT · #business #cannabis
 - [Talarico Says He’ll Work To Federally Legalize Marijuana If Elected To The Senate](https://www.marijuanamoment.net/talarico-says-hell-work-to-federally-legalize-marijuana-if-elected-to-the-senate/) — Marijuana Moment · 06:22 PT · #business #cannabis #civic

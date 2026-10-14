@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-14T10:05:37-07:00
+updated: 2026-10-14T13:39:53-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,9 +11,47 @@ tags: ["category", "science"]
 
 ## 2026-10-14
 
+- [Mollusk family trees play a key role in shaping microbiomes, researchers find](https://phys.org/news/2026-10-mollusk-family-trees-play-key.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
+- [Examining fraud prevention in federal relief programs](https://phys.org/news/2026-10-fraud-federal-relief.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
+- [New framework links magnetic phase boundaries to string-like defects in spin ice](https://phys.org/news/2026-10-framework-links-magnetic-phase-boundaries.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
+- [NASA to Host News Conference Previewing US Spacewalks 100, 101](https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/) — NASA · 13:13 PT · #science
+- [Job loss and AI-exposed jobs: Q&A with sociology professor](https://phys.org/news/2026-10-job-loss-ai-exposed-jobs.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science #ai
+- [Learning reshapes inhibitory synapses differently within the same nerve cell, study suggests](https://phys.org/news/2026-10-reshapes-inhibitory-synapses-differently-nerve.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
+- [The moon is shrinking. Astronomers finally know how fast.](https://www.popsci.com/science/how-fast-is-the-moon-shrinking/) — Popular Science · 12:55 PT · #science
+- [Rare particle decays hint at deviations from Standard Model predictions](https://phys.org/news/2026-10-rare-particle-decays-hint-deviations.html) — Phys.org - latest science and technology news stories · 12:50 PT · #science
+- [Sheep grazing in solar fields offers farmers economic, ecological gains](https://phys.org/news/2026-10-sheep-grazing-solar-fields-farmers.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [Superheavy-element compound reveals weaker-than-expected bond due to relativistic effects](https://phys.org/news/2026-10-superheavy-element-compound-reveals-weaker.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [Patchier permafrost is linked to more intense hillslope erosion in Alaska](https://phys.org/news/2026-10-patchier-permafrost-linked-intense-hillslope.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [Employees look to leaders as study finds gap between workplace promises and employee experience](https://phys.org/news/2026-10-employees-leaders-gap-workplace-employee.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [Earth's mantle was 'breathing' oxygen a billion years before it hit the atmosphere, mineral time capsules reveal](https://phys.org/news/2026-10-earth-mantle-oxygen-billion-years.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [NASA Astronauts to Answer Questions from Florida Students](https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/) — NASA · 12:12 PT · #science
+- [SpaceX rocket launch creates glowing 'space jellyfish' cloud – video](https://www.theguardian.com/us-news/video/2026/oct/14/spacex-rocket-launch-creates-glowing-space-jellyfish-cloud-video) — Space | The Guardian · 12:12 PT · #science
+- [How can AI transform education without leaving anyone behind?](https://phys.org/news/2026-10-ai-1.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science #ai
+- [Healthy corals restore bleached neighbors' color after five days of contact](https://phys.org/news/2026-10-healthy-corals-neighbors-days-contact.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
+- [Museum specimens reveal pathogen behind decades-old mystery of disappearing frogs](https://phys.org/news/2026-10-museum-specimens-reveal-pathogen-decades.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
+- [IBM executive warns of risk of quantum computing hacks](https://phys.org/news/2026-10-ibm-quantum-hacks.html) — Phys.org - latest science and technology news stories · 11:50 PT · #science
+- [Border-hopping virus identified in Chilean pepper and tomato crops](https://phys.org/news/2026-10-border-virus-chilean-pepper-tomato.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [Most marine protected areas fail to curb fishing: Study](https://phys.org/news/2026-10-marine-areas-curb-fishing.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [Muscle cells self-organize into spirals, advancing efforts to engineer tiny blood vessels that regulate flow](https://phys.org/news/2026-10-muscle-cells-spirals-advancing-efforts.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [Indonesia rescues starved orangutan from fires: Officials](https://phys.org/news/2026-10-indonesia-starved-orangutan.html) — Phys.org - latest science and technology news stories · 11:36 PT · #science
+- [When ‘T. rex’ died, a new giant fungus named ‘D-rex’ took over](https://www.popsci.com/science/new-giant-fungus-d-rex/) — Popular Science · 11:34 PT · #science #foreign
+- [Same-day heat wave and wildfire smoke exposure is increasing worldwide](https://phys.org/news/2026-10-day-wildfire-exposure-worldwide.html) — Phys.org - latest science and technology news stories · 11:21 PT · #science
+- [Storm Harry: Drifting buoys help improve early forecasts of extreme events in the Mediterranean Sea](https://phys.org/news/2026-10-storm-harry-drifting-buoys-early.html) — Phys.org - latest science and technology news stories · 11:20 PT · #science
+- [Scientists establish new genus of deep-sea 'spaghetti worms'](https://phys.org/news/2026-10-scientists-genus-deep-sea-spaghetti.html) — Phys.org - latest science and technology news stories · 11:20 PT · #science
+- [Software advance brings complex quantum simulations to standard computers](https://phys.org/news/2026-10-software-advance-complex-quantum-simulations.html) — Phys.org - latest science and technology news stories · 11:01 PT · #science
+- [Fighting off microbial invasions drains plants' iron stores, but one protein helps restore balance](https://phys.org/news/2026-10-microbial-invasions-iron-protein.html) — Phys.org - latest science and technology news stories · 11:01 PT · #science #foreign
+- [Bering Land Bridge base camp reveals what life was like nearly 14,000 years ago](https://phys.org/news/2026-10-bering-bridge-base-reveals-life.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science #foreign
+- [Main factors in pornography use among adolescents identified](https://phys.org/news/2026-10-main-factors-pornography-adolescents.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science #cannabis
+- [New DNA tool could help detect harmful algal blooms before they spread](https://phys.org/news/2026-10-dna-tool-algal-blooms.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Removing rats and restoring native plants could help atolls withstand rising seas](https://phys.org/news/2026-10-rats-native-atolls-seas.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Bleached Coral Rebounded After Touching Healthy Coral, Study Finds](https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html) — NYT > Science · 11:00 PT · #science
+- [An AI-racing drone beat the best humans and set a world record](https://www.popsci.com/technology/fastest-ai-racing-drone/) — Popular Science · 11:00 PT · #science #ai
+- [Warmer coastal waters drive heavy cyclone rainfall farther inland, raising flood risks](https://phys.org/news/2026-10-warmer-coastal-heavy-cyclone-rainfall.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
+- [Nine studies reveal consumers favor eco-friendly additions over waste-cutting removals](https://phys.org/news/2026-10-reveal-consumers-favor-eco-friendly.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
 - [A New World of Lung Cancer Therapy Awaits Pope Leo](https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html) — NYT > Science · 10:02 PT · #science
 - [Local DNA motion inside the cell stays nearly constant throughout interphase](https://phys.org/news/2026-10-local-dna-motion-cell-stays.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
 - [How drought shapes the impact of Xylella fastidiosa on almond trees](https://phys.org/news/2026-10-drought-impact-xylella-fastidiosa-almond.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
+- [NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision](https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/) — NASA · 09:46 PT · #science
 - [Australia's oldest underwater archaeology reveals ancient life within a lost landscape](https://phys.org/news/2026-10-australia-oldest-underwater-archaeology-reveals.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
 - [A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory](https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
 - [Mont Blanc's snowy crown grows nearly 2 meters higher in 3 years](https://phys.org/news/2026-10-mont-blanc-snowy-crown-meters.html) — Phys.org - latest science and technology news stories · 09:36 PT · #science
@@ -124,6 +162,9 @@ tags: ["category", "science"]
 - [Educational intervention can rewire village social networks](https://www.nature.com/articles/s41586-026-11154-7) — Nature · 17:00 PT · #science
 - [Advancing subseasonal forecasting with machine learning](https://www.nature.com/articles/s41586-026-11126-x) — Nature · 17:00 PT · #science #ai
 - [Jurassic flightless bird reveals early ecological diversity of avialans](https://www.nature.com/articles/s41586-026-10972-z) — Nature · 17:00 PT · #science #foreign
+- [Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride](https://www.nature.com/articles/s41586-026-11267-z) — Nature · 17:00 PT · #science
+- [Growing plane and ship traffic degrade the air of western North America](https://www.nature.com/articles/d41586-026-03239-0) — Nature · 17:00 PT · #science
+- [‘Incredible’: bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) — Nature · 17:00 PT · #science
 - [Ultrashort laser pulses offer a new way to probe electrons' quantum geometry](https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years](https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science #foreign
 - [Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur](https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
@@ -388,47 +429,3 @@ tags: ["category", "science"]
 - [October’s night sky is full of cosmic tricks and treats](https://www.sciencedaily.com/releases/2026/10/261008102704.htm) — Latest Science News -- ScienceDaily · 19:37 PT · #science
 - [Nearly 30,000 people tested quit-smoking methods. One stood out](https://www.sciencedaily.com/releases/2026/10/261006234524.htm) — Latest Science News -- ScienceDaily · 19:07 PT · #science
 - [Scientists tested 5 natural compounds on cancer cells. One stood out](https://www.sciencedaily.com/releases/2026/10/261006234531.htm) — Latest Science News -- ScienceDaily · 18:15 PT · #science
-- [21 Birds Are Found at Miami Airport Stuffed in Underwear and Hidden in a Belt](https://www.nytimes.com/2026/10/08/us/birds-smuggled-cuba-miami.html) — NYT > Science · 17:36 PT · #science
-- [Breaking down nerve-cell scaffold relieves chronic pain in mice](https://www.nature.com/articles/d41586-026-03159-z) — Nature · 17:00 PT · #science
-- [Briefing Chat: Top researchers are being misled by sham academic societies](https://www.nature.com/articles/d41586-026-03216-7) — Nature · 17:00 PT · #science
-- [Chimp and gorilla brains resist weight loss with age — unlike human brains](https://www.nature.com/articles/d41586-026-03158-0) — Nature · 17:00 PT · #science
-- [The life of Darwin and the science of clouds: Books in brief](https://www.nature.com/articles/d41586-026-03217-6) — Nature · 17:00 PT · #science
-- [Watch this invisible tattoo appear under UV light](https://www.nature.com/articles/d41586-026-03210-z) — Nature · 17:00 PT · #science
-- [An experiment to glimpse the future Amazon — in pictures](https://www.nature.com/articles/d41586-026-02909-3) — Nature · 17:00 PT · #science
-- [Publisher Correction: Sleep chart of biological ageing clocks in middle and late life](https://www.nature.com/articles/s41586-026-11273-1) — Nature · 17:00 PT · #science
-- [Daily briefing: Rogue ‘jumping genes’ age bigs dogs faster than little ones](https://www.nature.com/articles/d41586-026-03243-4) — Nature · 17:00 PT · #science #foreign
-- [Five movements from the edge of the singularity](https://www.nature.com/articles/d41586-026-03116-w) — Nature · 17:00 PT · #science
-- [20,000-pound mosasaurs ambushed prey with sneak attacks](https://www.popsci.com/science/mosasaur-dinosaurs-ambush-attacks/) — Popular Science · 13:30 PT · #science
-- [Sony’s new USB-C spatial mic captures the world around you without capturing you in wires](https://www.popsci.com/gear/sony-ecm-ax10-usb-c-eclipsa-certified-spatial-smartphone-mic-product-news/) — Popular Science · 12:55 PT · #science
-- [Jonathan the Giant Tortoise Is 194 Years Old. He Just Had His Genome Sequenced.](https://www.nytimes.com/2026/10/07/science/jonathan-giant-tortoise-genome-aging.html) — NYT > Science · 12:06 PT · #science
-- [NASA shares Artemis II astronauts’ handwritten mission notes](https://www.popsci.com/science/artemis-ii-astronaut-handwritten-notes/) — Popular Science · 11:40 PT · #science
-- [These EF EcoFlow deals on portable power stations and solar generators are still live for a limited time](https://www.popsci.com/gear/ecoflow-deals-portable-power-stations-solar-generators/) — Popular Science · 11:31 PT · #science
-- [Astronomers detect mysterious burst of energy from a galaxy far, far away](https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves) — Space | The Guardian · 11:00 PT · #science
-- [The National Hurricane Center’s Boss Keeps an Eye on the Storms](https://www.nytimes.com/2026/10/08/weather/hurricane-center-forecast-michael-brennan.html) — NYT > Science · 11:00 PT · #science #civic
-- [Chernobyl particles look remarkably similar to explosion day in 1986](https://www.popsci.com/science/chernobyl-hot-particles-stable/) — Popular Science · 10:45 PT · #science
-- [Population pyramid in 3-D and over time](https://flowingdata.com/2026/10/08/population-pyramid-in-3-d-and-over-time/) — FlowingData · 09:43 PT · #science
-- [Four astronauts return to Earth from ISS after medical relief mission](https://www.theguardian.com/science/2026/oct/08/astronauts-return-iss-nasa-spacex) — Space | The Guardian · 09:24 PT · #science #foreign
-- [2,000-year-old marble torso symbolizes the dawn of ancient Rome](https://www.popsci.com/science/roman-emperor-torso-sculpture-auction/) — Popular Science · 08:50 PT · #science
-- [A Lab Worker’s Death Is Raising Plague Fears in Russia. What Do Experts Want to Know?](https://www.nytimes.com/2026/10/07/science/plague-russia-biosafety.html) — NYT > Science · 08:09 PT · #science #foreign
-- [For Two Sisters, a “Biological Age Test” Measured More Than Their DNA](https://www.nytimes.com/2026/10/08/science/truage-biological-age-test-genetics-sisters.html) — NYT > Science · 08:06 PT · #science
-- [Rare red bat rescued in Maine gobbles up mealworms](https://www.popsci.com/environment/bat-eats-mealworms-maine/) — Popular Science · 08:06 PT · #science
-- [As Flood Risk Increases in Himalayas, Nepal Builds More in Vulnerable Areas](https://www.nytimes.com/2026/10/08/climate/nepal-floods-building-exposure.html) — NYT > Science · 08:00 PT · #science
-- [Stihl built its first battery-powered snow thrower to offer plenty of power with minimal maintenance](https://www.popsci.com/gear/stihl-sfa-120-battery-powered-snow-thrower-specs-details/) — Popular Science · 07:57 PT · #science
-- [FDA-approved epilepsy drug may help reverse osteoarthritis damage](https://www.sciencedaily.com/releases/2026/10/261006234528.htm) — Latest Science News -- ScienceDaily · 06:52 PT · #science
-- [Scientists accidentally discover a genetic code that breaks the rules of life](https://www.sciencedaily.com/releases/2026/10/261007233136.htm) — Latest Science News -- ScienceDaily · 06:31 PT · #science
-- [This “golden tree” coral was too strange for any known family](https://www.sciencedaily.com/releases/2026/10/261007042116.htm) — Latest Science News -- ScienceDaily · 06:18 PT · #science
-- [Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died](https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html) — NYT > Science · 06:09 PT · #science
-- [Why are some animals so colorful? Blame this pigment.](https://www.popsci.com/science/why-animals-are-colorful-carotenoids/) — Popular Science · 06:03 PT · #science
-- [Scientists found Homo erectus 200,000 years earlier than expected](https://www.sciencedaily.com/releases/2026/10/261007042113.htm) — Latest Science News -- ScienceDaily · 05:47 PT · #science
-- [NASA is searching for hidden caves to build its first Moon base](https://www.sciencedaily.com/releases/2026/10/261008005247.htm) — Latest Science News -- ScienceDaily · 05:19 PT · #science
-- [✚ Draw attention visually](https://flowingdata.com/2026/10/08/process-409-attention/) — FlowingData · 04:04 PT · #science
-- [Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry](https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/) — Science Latest · 03:30 PT · #science
-- [Einstein Probe reveals a hidden phase of neutron star collisions](https://www.sciencedaily.com/releases/2026/10/261006234511.htm) — Latest Science News -- ScienceDaily · 03:06 PT · #science #markets
-- [A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology](https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/) — Science Latest · 02:15 PT · #science
-
-## 2026-10-07
-
-- [Scientists warn a popular vitamin D supplement may have a hidden downside](https://www.sciencedaily.com/releases/2026/10/261007232940.htm) — Latest Science News -- ScienceDaily · 21:06 PT · #science
-- [In Vienna and Beijing, the First Nuclear Clocks Begin to Tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html) — NYT > Science · 19:52 PT · #science
-- [RFK Jr. Plans Vaccine Injury Initiative, Drawing Wary Eye From Experts](https://www.nytimes.com/2026/10/07/us/politics/kennedy-vaccine-injuries.html) — NYT > Science · 18:40 PT · #science
-- [Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies aged 90](https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software) — Space | The Guardian · 17:40 PT · #science

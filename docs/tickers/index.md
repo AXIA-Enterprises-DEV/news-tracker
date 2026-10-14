@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-14T10:05:37-07:00
-count: 106
+updated: 2026-10-14T13:39:53-07:00
+count: 136
 tags: ["tickers"]
 ---
 
@@ -12,7 +12,36 @@ tags: ["tickers"]
 - [$NTCT](NTCT.md) — 5 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$C](C.md) — 2 items
+- [$STM](STM.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$WHF](WHF.md) — 1 items
+- [$VIAV](VIAV.md) — 1 items
+- [$EAT](EAT.md) — 1 items
+- [$REPX](REPX.md) — 1 items
+- [$AEE](AEE.md) — 1 items
+- [$ED](ED.md) — 1 items
+- [$UA](UA.md) — 1 items
+- [$WAY](WAY.md) — 1 items
+- [$SWX](SWX.md) — 1 items
+- [$WEX](WEX.md) — 1 items
+- [$EQT](EQT.md) — 1 items
+- [$DOV](DOV.md) — 1 items
+- [$XHLD](XHLD.md) — 1 items
+- [$EFOR](EFOR.md) — 1 items
+- [$FROG](FROG.md) — 1 items
+- [$BSRT](BSRT.md) — 1 items
+- [$BSRT.U](BSRT.U.md) — 1 items
+- [$BDN](BDN.md) — 1 items
+- [$BURL](BURL.md) — 1 items
+- [$MRAM](MRAM.md) — 1 items
+- [$FND](FND.md) — 1 items
+- [$MCHP](MCHP.md) — 1 items
+- [$LQDA](LQDA.md) — 1 items
+- [$JBLU](JBLU.md) — 1 items
+- [$HRTX](HRTX.md) — 1 items
+- [$HSAI](HSAI.md) — 1 items
+- [$DASH](DASH.md) — 1 items
 - [$BSP](BSP.md) — 1 items
 - [$AVAV](AVAV.md) — 1 items
 - [$STLA](STLA.md) — 1 items
@@ -82,6 +111,7 @@ tags: ["tickers"]
 - [$FUN](FUN.md) — 1 items
 - [$HUM](HUM.md) — 1 items
 - [$BP](BP.md) — 1 items
+- [$FIGS](FIGS.md) — 1 items
 - [$PEGA](PEGA.md) — 1 items
 - [$AEIS](AEIS.md) — 1 items
 - [$INFQ](INFQ.md) — 1 items
