@@ -1,16 +1,23 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T15:23:46-07:00
-count: 224
+updated: 2026-10-13T18:19:48-07:00
+count: 231
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-224 most recent items (14-day window).
+231 most recent items (14-day window).
 
 ## 2026-10-13
 
+- ['Money maxxing': How families can make every dollar work harder as costs rise](https://www.ktnv.com/money-maxxing-how-families-can-make-every-dollar-work-harder-as-costs-rise) — KTNV Las Vegas · 18:04 PT · #us #nevada
+- [Early voting approaches in Nevada: What east Las Vegas voters need to know](https://www.ktnv.com/neighborhoods/east-las-vegas/early-voting-approaches-in-nevada-what-east-las-vegas-voters-need-to-know) — KTNV Las Vegas · 17:52 PT · #us #civic #nevada
+- [Fixer in lucrative NCAA basketball betting scheme sentenced to 6 years in prison](https://lasvegassun.com/news/2026/oct/13/fixer-in-lucrative-ncaa-basketball-betting-scheme/) — Las Vegas Sun · 17:31 PT · #us #nevada
+- [Smith's parent company to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence](https://lasvegassun.com/news/2026/oct/13/smiths-parent-company-to-lay-off-3000-corporate-em/) — Las Vegas Sun · 17:15 PT · #us #ai #nevada
+- [North Las Vegas Fire Department opens first dedicated training center](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-fire-department-opens-first-dedicated-training-center) — KTNV Las Vegas · 17:13 PT · #us #nevada
+- [Trump administration cuts refugees’ deadline to contest status termination, raising fears](https://lasvegassun.com/news/2026/oct/13/trump-administration-cuts-refugees-deadline-to-con/) — Las Vegas Sun · 16:17 PT · #us #nevada
+- [Recently unsealed report on coach Brian Flores contains 'racial stereotypes,' according to lawyers](https://lasvegassun.com/news/2026/oct/13/recently-unsealed-report-on-coach-brian-flores-con/) — Las Vegas Sun · 15:29 PT · #us #nevada
 - [City may 'pause' November First Friday event after deadly shooting, mayor says](https://www.ktnv.com/news/city-may-pause-november-first-friday-event-after-deadly-shooting-mayor-says) — KTNV Las Vegas · 15:14 PT · #us #nevada
 - [Battle lines shift in House races as Republicans retreat from front-line districts](https://lasvegassun.com/news/2026/oct/13/battle-lines-shift-in-house-races-as-republicans-r/) — Las Vegas Sun · 15:07 PT · #us #nevada
 - [Las Vegas man gets 35 years in prison for sexual exploitation of children](https://www.reviewjournal.com/crime/courts/las-vegas-man-gets-35-years-in-prison-for-sexual-exploitation-of-children-3899624/) — Las Vegas Review-Journal · 15:06 PT · #us #nevada
@@ -33,6 +40,7 @@ tags: ["category", "us"]
 - [Memo prepared for Raiders used in coach’s lawsuit against NFL, report says](https://www.reviewjournal.com/sports/raiders/memo-prepared-for-raiders-used-in-coachs-lawsuit-against-nfl-report-says-3899553/) — Las Vegas Review-Journal · 10:52 PT · #us #nevada
 - [Man who orchestrated killing of Tupac Shakur to learn his sentence](https://www.reviewjournal.com/crime/courts/man-who-orchestrated-killing-of-tupac-shakur-to-learn-his-sentence-3899543/) — Las Vegas Review-Journal · 10:28 PT · #us #nevada
 - [Judge orders no bail for teen suspect in Las Vegas First Friday shooting](https://www.ktnv.com/news/crime/judge-orders-no-bail-for-teen-suspect-in-las-vegas-first-friday-shooting) — KTNV Las Vegas · 10:06 PT · #us #nevada
+- [Police point to possible ‘gang related fight’ in lead-up to deadly First Friday shooting](https://www.ktnv.com/news/crime/police-point-to-possible-gang-related-fight-in-lead-up-to-deadly-first-friday-shooting-las-vegas) — KTNV Las Vegas · 10:06 PT · #us #nevada
 - [Sting, Brett Young and En Vogue announce new Las Vegas show dates and ticket sales](https://lasvegassun.com/news/2026/oct/13/sting-brett-young-and-en-vogue-announce-new-las-ve/) — Las Vegas Sun · 09:30 PT · #us #nevada
 - [$12.5M Henderson home boasts Strip views, futuristic design — PHOTOS](https://www.reviewjournal.com/business/real-estate-millions/12-5m-henderson-home-boasts-strip-views-futuristic-design-photos-3899521/) — Las Vegas Review-Journal · 09:18 PT · #us #nevada
 - [Man killed on a Six Flags roller coaster was thrown from the ride and hit other patrons, police say](https://www.reviewjournal.com/news/nation-and-world/man-killed-on-a-six-flags-roller-coaster-was-thrown-from-the-ride-and-hit-other-patrons-police-say-3899509/) — Las Vegas Review-Journal · 08:37 PT · #us #nevada
@@ -276,4 +284,3 @@ tags: ["category", "us"]
 
 - [Jaco Muller, who turned his 15-year-old son's idea into 197 rhino births, has died](https://www.latimes.com/science/story/2026-09-29/jaco-muller-who-turned-his-sons-idea-into-197-rhino-births-dies) — World & Nation · 17:59 PT · #us
 - [De última hora: La Policía de Henderson rechaza propuesta para ampliar entrenamiento de ICE](https://thenevadaindependent.com/article/de-ultima-hora-la-policia-de-henderson-rechaza-propuesta-para-ampliar-entrenamiento-de-ice/) — The Nevada Independent · 17:11 PT · #us #nevada
-- [Henderson police reject proposed ICE training expansion, say it breaks current agreement](https://thenevadaindependent.com/article/henderson-police-reject-proposed-ice-training-expansion-say-it-breaks-current-agreement/) — The Nevada Independent · 15:34 PT · #us #nevada

@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T15:23:46-07:00
+updated: 2026-10-13T18:19:48-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,13 @@ tags: ["category", "science"]
 
 ## 2026-10-13
 
+- [Simple cleaning steps could curb deadly fungal disease risks for Australia's wild reptiles](https://phys.org/news/2026-10-simple-curb-deadly-fungal-disease.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
+- [Ultrashort laser pulses offer a new way to probe electrons' quantum geometry](https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years](https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science #foreign
+- [Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur](https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
+- [People with a 'good ear' for sounds make better language learners, study suggests](https://phys.org/news/2026-10-people-good-ear-language-learners.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
+- [Optical skyrmions can control the motion of magnetic skyrmions](https://phys.org/news/2026-10-optical-skyrmions-motion-magnetic.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [Patterned X-rays map 3D chemical structures faster with fewer measurements](https://phys.org/news/2026-10-patterned-rays-3d-chemical-faster.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
 - [Computational model guides lighting design to improve color discrimination in aging eyes](https://phys.org/news/2026-10-discrimination-aging-eyes.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
 - [How eye-catching social media feeds steer attention toward misinformation](https://phys.org/news/2026-10-eye-social-media-attention-misinformation.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science #media
 - [Hawaiian coral tests reveal heat tolerance varies by species and location](https://phys.org/news/2026-10-hawaiian-coral-reveal-tolerance-varies.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
@@ -434,16 +441,3 @@ tags: ["category", "science"]
 
 - [The GLP-1 Side Effect Everyone Ignores With Professor Clare Collins (493)](https://shirtloadsofscience.libsyn.com/the-glp-1-side-effect-everyone-ignores-with-professor-clare-collins-493) — Shirtloads of Science · 16:00 PT · #science
 - [13 unbelievable child car seats from the past century](https://www.popsci.com/technology/vintage-child-car-seat-photos/) — Popular Science · 12:03 PT · #science
-- [A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’](https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/) — Science Latest · 02:00 PT · #science
-
-## 2026-10-02
-
-- [Color gradients that are accessible and perceptually steady](https://flowingdata.com/2026/10/02/color-gradients-that-are-accessible-and-perceptually-steady/) — FlowingData · 03:44 PT · #science #civic
-
-## 2026-10-01
-
-- [‘An amazing ride’: SpaceX flight led by first Black female commander sets US speed record](https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander) — Space | The Guardian · 20:18 PT · #science
-- [SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’](https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch) — Space | The Guardian · 09:22 PT · #science
-- [Measles Is Forcing Hospitals to Adapt to a New Normal](https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/) — Science Latest · 05:00 PT · #science
-- [I went to America’s largest gathering of astrologers. It was a battle over how to read the stars](https://www.theguardian.com/science/ng-interactive/2026/oct/01/united-astrology-conference) — Space | The Guardian · 04:00 PT · #science
-- [A lack of rockets is creating a crisis for space technology companies](https://www.newscientist.com/article/2591502-a-lack-of-rockets-is-creating-a-crisis-for-space-technology-companies/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS) — New Scientist - Space · 04:00 PT · #science #foreign

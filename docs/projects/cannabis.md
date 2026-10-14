@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-13T15:23:46-07:00
-count: 46
+updated: 2026-10-13T18:19:48-07:00
+count: 43
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-46 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+43 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-13
 
+- [Nurse-Founded Culinary & Cannabis Rebrands as Savor & Solace, Returns to Los Angeles With Three November Experiences](https://www.prnewswire.com/news-releases/nurse-founded-culinary--cannabis-rebrands-as-savor--solace-returns-to-los-angeles-with-three-november-experiences-302907761.html) — PR Newswire M&A · 17:20 PT · #business #cannabis
 - [Illinois cannabis sales increase to record levels amid price drop](https://mjbizdaily.com/news/illinois-cannabis-sales-increase-to-record-levels-amid-price-drop/618606/) — MJBizDaily · 15:15 PT · #business #cannabis #smallbiz
 - [DEA Is OK With Including New Report In Marijuana Rescheduling Hearing As Opponents Seek More Testimony And Document Discovery](https://www.marijuanamoment.net/dea-is-ok-with-including-new-report-in-marijuana-rescheduling-hearing-as-opponents-seek-new-testimony-and-document-discovery/) — Marijuana Moment · 14:40 PT · #business #cannabis
 - [Canadian cannabis company Organigram enters fight for Aurora](https://mjbizdaily.com/canadian-cannabis-company-organigram-enters-fight-for-aurora/618604/) — MJBizDaily · 13:48 PT · #business #cannabis #smallbiz
@@ -80,10 +81,3 @@ tags: ["project", "cannabis"]
 
 - [Michigan fines, shuts down cannabis grower for shipping dirt labeled as flower](https://mjbizdaily.com/news/michigan-fines-shuts-down-cannabis-grower-for-shipping-dirt-labeled-as-flower/618392/) — MJBizDaily · 13:58 PT · #business #cannabis #smallbiz
 - [New delay for federal marijuana rescheduling as flaws in process parsed](https://mjbizdaily.com/news/new-delay-for-federal-marijuana-rescheduling-as-flaws-in-process-parsed/618388/) — MJBizDaily · 10:21 PT · #business #cannabis #smallbiz
-
-## 2026-09-29
-
-- [Los Angeles mayoral candidate proposes fix to ‘broken’ cannabis market, largest in the U.S.](https://mjbizdaily.com/news/los-angeles-mayoral-candidate-proposes-fix-to-broken-cannabis-market-largest-in-the-u-s/618379/) — MJBizDaily · 14:14 PT · #business #cannabis #smallbiz
-- [Missouri cannabis retailer fires 12 after union organizing meeting](https://mjbizdaily.com/news/missouri-cannabis-retailer-fires-12-after-union-organizing-meeting/618371/) — MJBizDaily · 13:10 PT · #business #cannabis #smallbiz
-- [Pennsylvania adult-use marijuana legalization needs a blue wave, state Dems claim](https://mjbizdaily.com/news/pennsylvania-adult-use-marijuana-legalization-needs-a-blue-wave-state-dems-claim/618373/) — MJBizDaily · 12:41 PT · #business #cannabis #smallbiz
-- [Are Florida medical cannabis operators looking to exit the $2 billion market?](https://mjbizdaily.com/news/are-florida-medical-cannabis-operators-looking-to-exit-the-2-billion-market/618258/) — MJBizDaily · 11:18 PT · #business #cannabis #smallbiz

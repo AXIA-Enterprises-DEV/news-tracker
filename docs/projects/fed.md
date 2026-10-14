@@ -1,16 +1,23 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-13T15:23:46-07:00
-count: 140
+updated: 2026-10-13T18:19:48-07:00
+count: 148
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-140 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+148 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-13
 
+- [Global Market Today: Asian stocks rise on Fed rate signal, oil gains](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-fed-rate-signal-oil-gains/articleshow/134929560.cms) — Economic Times · 18:01 PT · #business #fed #markets #oil
+- [U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited](https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807) — Investing.com Stock Market · 17:54 PT · #markets #fed
+- [Ringgit opens marginally higher against US dollar on weaker DXY - KLSE Screener](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1FwSkdUbWR4QVJycG9VSTl2ZjRESDluQlpQMlZBTTFhSDAwTDBWT3RwZVk3LWdJaGlnREluZ3JWM2EtOUx0Rm5xM0ptYWVCbnlDVmVMb0k0eEl0R1RzTGRMcERhNHlBSkhHQ1dKd2dRa3ZoM3Y0OG9jX0ZFM1ZESm1CeDRlOWVSWHA5WjZIN2M4S1JURUZwZUE2LVY3cUF6eHlWUmU2SXhIeENXcFFVTmFZQQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 17:52 PT · #markets #fed
+- [Singapore Q3 GDP beats forecasts at 5.4% as growth cools from Q2](https://www.investing.com/news/economic-indicators/singapore-q3-gdp-beats-forecasts-at-54-as-growth-cools-from-q2-4947790) — Investing.com Economic Indicators · 17:38 PT · #markets #fed
+- [Wall Street Sees Inflation Easing Even With Oil Above $90](https://oilprice.com/Energy/Energy-General/Wall-Street-Sees-Inflation-Easing-Even-With-Oil-Above-90.html) — OilPrice.com · 17:00 PT · #markets #fed #oil
+- [The Federal Reserve sounds the alarm on further rate hikes! Caught between the heavy burden of energy-driven inflation and the surge in AI infrastructure investment, the "anchor of global asset pricing" remains elevated. - 富途牛牛](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0hhRVhOT3d0UmtxX09oVlR0dDFSTzdSU09kdmp5dlZTTEZUVy11MnRrMzRhSlg0UEpmdFVyODNlRDg2dkNhNEhPYzdiQ25GNi1DZXFLdXVhcm5Jd0pWY3dTN1RWeTdXT3RpTXcwTUEtTloyWkp6NmZOWUJvYlVYSVRDOEVLMDZJMU9CMzBSdGxwNEhJMjVCLTN0bks3SzBkcmtF?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 16:24 PT · #markets #ai #fed
+- [U.S. Small Business Sentiment Deteriorates Further in September as Inflation Becomes Biggest Headwind - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE1lbWV1RHhvWjhFLWxRa3pQaUN1RlFRLUFDbDA2dW5sQUZuU2JMd0Z1eVM0WXRxYmgyamNXYko0LUhnRzRNcmNsX0tHUWw0TmgwOHljdF84c1BwcXFZVHJvMjBWZHNoWVNGbUlPUkxFaHNXRG5uUWc?oc=5) — Google News: small business owners · 15:35 PT · #business #fed #smallbiz
 - [Gold futures tick lower ahead of key U.S. inflation data](https://seekingalpha.com/news/4652710-gold-futures-tick-lower-ahead-of-key-u-s-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 14:50 PT · #markets #fed
 - [Dollar Extends Decline in NY FX as Rate-Hike Bets Fade and AI Rally Reassessed; Yen Firms to Low-158 Range - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZMlNySVVabzhGTjhXbFpWSXRiaHItUzItV2JuZHdJVFU3UjBZUFIzd21IdDRJb3ZEMExGd0dNT0xYZXd5N1pFSXdsUEQwOXF0TTlFWG5ncVhaNUhwd1E4c01RVUtObTh0bC1IU2dpMmtkNXA3emc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:05 PT · #markets #ai #fed
 - [Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally](https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383) — All News · 14:04 PT · #business #fed
@@ -19,6 +26,7 @@ tags: ["project", "fed"]
 - [Small business optimism falls, hit by inflation, low labor quality: NFIB - CFO Dive](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEtKc2ozcDBWWXNCY1V0TkdITFNyX0dGTDh1Wk1VRHBHa3ZWSTdURFdxVXJoc0w3cmlWLU5vMVVQWHQ0aW94bXpHR2k0U3ozQk14YlpNNDJkOHFJeWJ2Ym9QbHRoZjRRNUNhWGV1dVgzY3RCZ3Y0ZkhUWl9mSmZ3SmhrN1BsdkV4OWF4WldnbW8zTTVfbk5aemozVklMTEZOdi1KT0FIR1RXYkFpS2FDN3ZHODZPVjFFZTNXbWJR?oc=5) — Google News: small business owners · 13:56 PT · #business #fed #smallbiz
 - [Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds](https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html) — CNBC Top News · 13:42 PT · #markets #fed
 - [Fed’s Collins signals further rate hikes likely as inflation risks persist](https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534) — Investing.com Stock Market · 13:40 PT · #markets #fed
+- [Goldman Jumps On Strong Earnings. But Big Bank Rivals Waver, Fall. - Investor's Business Daily](https://news.google.com/rss/articles/CBMilgFBVV95cUxNazZUY180am9JSHVjall1S3FPZEp1bTBRUmN5c2V0aHZxeFgzamEyTE5RYnFnR3IzZF9hajIyMElyT2tmb3RXT042NHFpek1nN2FENFhXcnhCaDlITXNwMUZrZWhsb0VVb0RkcnFYdDdUbE0yQ3gzQTV5MDBsN2JQQkNKMGFxc2xraFBrUnBzYUI2TmNDWGc?oc=5) — Top stories - Google News · 13:37 PT · #world #fed #markets
 - [Boston Fed's Collins expects another rate hike will be needed by year-end](https://seekingalpha.com/news/4652616-boston-feds-collins-expects-another-rate-hike-will-be-needed-by-year-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets #fed
 - [NY Fed's Williams Sees One More Rate Hike This Year as Appropriate, No Need Next Year - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LbUx3ZFJQTHBzUFF0NEZrdnF2d3k0Yk9EeHZYNXpFSm1QZUhaTmVHdVprOU9XUFJ0Yk0xbUF2am9Eanh1eXJ3c0JPeWZ4a0VJNVJWM0hpdThMR2hhRzhIejE1dG9YMTh5Qldyc0RxQ0l5WTZVdkE?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 12:55 PT · #markets #fed
 - [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html) — CNBC Top News · 12:46 PT · #markets #fed
