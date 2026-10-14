@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-13T18:19:48-07:00
+updated: 2026-10-13T23:16:00-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,28 @@ tags: ["project", "markets"]
 
 ## 2026-10-13
 
+- [Earnings Snapshot: ASML Q3 GAAP EPS beats at €12.93; raises Q4 guidance above estimates and updates FY26 sales outlook](https://seekingalpha.com/news/4652736-earnings-snapshot-asml-q3-gaap-eps-beats-at-1293-raises-q4-guidance-above-estimates-and-updates-fy26-sales-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 22:43 PT · #markets
+- [TSMC shares rise ahead of closely watched Q3 earnings](https://www.investing.com/news/stock-market-news/tsmc-shares-rise-ahead-of-closely-watched-q3-earnings-4948022) — Investing.com Stock Market · 22:12 PT · #markets
+- [Telix Highlights Pivotal Trials in Prostate, Brain and Renal Cancers and Next Generation Theranostics at EANM](https://www.prnewswire.com/news-releases/telix-highlights-pivotal-trials-in-prostate-brain-and-renal-cancers-and-next-generation-theranostics-at-eanm-302907930.html) — PR Newswire M&A · 22:00 PT · #business #civic #markets $TLX
+- [Moxa Receives Prequalification from Saudi Energy for Industrial Networking and Computing Solutions](https://www.prnewswire.com/news-releases/moxa-receives-prequalification-from-saudi-energy-for-industrial-networking-and-computing-solutions-302902517.html) — PR Newswire M&A · 22:00 PT · #business #markets
+- [Aegis Logistics shares rise 3% after firm acquires 90% stake worth $809 million in Tristar Holdings](https://economictimes.indiatimes.com/markets/stocks/news/aegis-logistics-shares-in-focus-after-firm-acquires-90-stake-worth-809-million-in-tristar-holdings/articleshow/134931031.cms) — Economic Times · 20:20 PT · #business #markets
+- [Woman spends $380,000 to move her great-great-grandparents’ house to her husband’s family farm](https://timesofindia.indiatimes.com/world/rest-of-world/woman-spends-up-to-380000-to-move-her-great-great-grandparents-112-year-old-house-to-her-husbands-family-farm/articleshow/134922616.cms) — World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India · 19:45 PT · #world #markets
+- [4 - Kim Vyacheslav (0002029485) (Reporting)](https://www.sec.gov/Archives/edgar/data/2029485/000119312526420859/0001193125-26-420859-index.htm) — SEC EDGAR All Filings · 18:52 PT · #filings #markets
+- [4 - Heine Martin Andres (0002118333) (Reporting)](https://www.sec.gov/Archives/edgar/data/2118333/000110465926115671/0001104659-26-115671-index.htm) — SEC EDGAR All Filings · 18:46 PT · #filings #markets
+- [3 - Woltman Clyde M. (0002159507) (Reporting)](https://www.sec.gov/Archives/edgar/data/2159507/000110465926115669/0001104659-26-115669-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
+- [4 - PodcastOne, Inc. (0001940177) (Issuer)](https://www.sec.gov/Archives/edgar/data/1940177/000121390026109198/0001213900-26-109198-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
+- [4 - Liborski Valeri (0002065440) (Reporting)](https://www.sec.gov/Archives/edgar/data/2065440/000123627526000026/0001236275-26-000026-index.htm) — SEC EDGAR All Filings · 18:44 PT · #filings #markets
+- [4 - Nambiar Vijayan (0002089239) (Reporting)](https://www.sec.gov/Archives/edgar/data/2089239/000208923926000001/0002089239-26-000001-index.htm) — SEC EDGAR All Filings · 18:44 PT · #filings #markets
+- [3 - Bradbury Capital Inc. (0001986694) (Issuer)](https://www.sec.gov/Archives/edgar/data/1986694/000149315226046914/0001493152-26-046914-index.htm) — SEC EDGAR All Filings · 18:44 PT · #filings #markets
+- [4 - Nabrotzky Edmund S. (0002090148) (Reporting)](https://www.sec.gov/Archives/edgar/data/2090148/000209014826000001/0002090148-26-000001-index.htm) — SEC EDGAR All Filings · 18:33 PT · #filings #markets
+- [144 - ISQ Global Fund II GP LLC (0001904934) (Reporting)](https://www.sec.gov/Archives/edgar/data/1904934/000090514826004457/0000905148-26-004457-index.htm) — SEC EDGAR All Filings · 18:31 PT · #filings #markets
+- [Former Coinbase Investment Chief Now Manages Evernorth’s 473M XRP](https://news.bitcoin.com/featured/former-coinbase-investment-chief-now-manages-evernorths-473m-xrp/) — Bitcoin News · 18:30 PT · #markets
+- [4 - Lipton Jeffrey Herschel (0002102323) (Reporting)](https://www.sec.gov/Archives/edgar/data/2102323/000210232326000005/0002102323-26-000005-index.htm) — SEC EDGAR All Filings · 18:30 PT · #filings #markets
+- [4 - Maddox Charles K. (0002089238) (Reporting)](https://www.sec.gov/Archives/edgar/data/2089238/000208923826000001/0002089238-26-000001-index.htm) — SEC EDGAR All Filings · 18:26 PT · #filings #markets
+- [4 - Kobler Michael Helmut (0002102334) (Reporting)](https://www.sec.gov/Archives/edgar/data/2102334/000210233426000004/0002102334-26-000004-index.htm) — SEC EDGAR All Filings · 18:25 PT · #filings #markets
+- [4 - Moore Daniel William (0001990547) (Reporting)](https://www.sec.gov/Archives/edgar/data/1990547/000199054726000025/0001990547-26-000025-index.htm) — SEC EDGAR All Filings · 18:21 PT · #filings #markets
+- [144 - LHT I, LLC (0002156811) (Reporting)](https://www.sec.gov/Archives/edgar/data/2156811/000010362326000044/0000103623-26-000044-index.htm) — SEC EDGAR All Filings · 18:21 PT · #filings #markets
+- [4 - Goldmeier Brian Yale (0002102284) (Reporting)](https://www.sec.gov/Archives/edgar/data/2102284/000210228426000003/0002102284-26-000003-index.htm) — SEC EDGAR All Filings · 18:20 PT · #filings #markets
 - [SCHEDULE 13D/A - Independence Energy Aggregator L.P. (0001868340) (Filed by)](https://www.sec.gov/Archives/edgar/data/1868340/000114036126039479/0001140361-26-039479-index.htm) — SEC EDGAR All Filings · 18:15 PT · #filings #markets
 - [4 - Toor Ajaypreet Singh (0002102240) (Reporting)](https://www.sec.gov/Archives/edgar/data/2102240/000210224026000004/0002102240-26-000004-index.htm) — SEC EDGAR All Filings · 18:14 PT · #filings #markets
 - [4 - Zoetis Inc. (0001555280) (Issuer)](https://www.sec.gov/Archives/edgar/data/1555280/000162828026065810/0001628280-26-065810-index.htm) — SEC EDGAR All Filings · 18:13 PT · #filings #markets
@@ -35,6 +57,7 @@ tags: ["project", "markets"]
 - [4 - Ritchie Robert C (0002063843) (Reporting)](https://www.sec.gov/Archives/edgar/data/2063843/000119312526420833/0001193125-26-420833-index.htm) — SEC EDGAR All Filings · 17:48 PT · #filings #markets
 - [4 - Cook Meredith (0001938861) (Reporting)](https://www.sec.gov/Archives/edgar/data/1938861/000193886126000028/0001938861-26-000028-index.htm) — SEC EDGAR All Filings · 17:47 PT · #filings #markets
 - [Ensorcia Announces Agreement to Acquire Argentina Wildcats](https://www.prnewswire.com/news-releases/ensorcia-announces-agreement-to-acquire-argentina-wildcats-302907778.html) — PR Newswire M&A · 17:38 PT · #business #markets
+- [Heritage Cabin Rental Income: Restored 1932 Gold Coast retreat earns up to A$50,000; estate heads to auction](https://timesofindia.indiatimes.com/real-estate/news/a-couple-bought-a-3-04-hectare-australian-estate-for-a1-6-million-and-restored-a-derelict-1932-woodcutters-cabin-the-two-bedroom-retreat-now-earns-up-to-a50000-a-year-as-a-holiday-rental/articleshow/134887369.cms) — World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India · 17:34 PT · #world #markets
 - [4 - Kosasa Thomas (0001989846) (Reporting)](https://www.sec.gov/Archives/edgar/data/1989846/000149315226046909/0001493152-26-046909-index.htm) — SEC EDGAR All Filings · 17:32 PT · #filings #markets
 - [4 - Yu Jeffrey (0001991132) (Reporting)](https://www.sec.gov/Archives/edgar/data/1991132/000149315226046908/0001493152-26-046908-index.htm) — SEC EDGAR All Filings · 17:32 PT · #filings #markets
 - [4 - Infuso David Gregory (0002059140) (Reporting)](https://www.sec.gov/Archives/edgar/data/2059140/000205914026000010/0002059140-26-000010-index.htm) — SEC EDGAR All Filings · 17:29 PT · #filings #markets
@@ -66,6 +89,7 @@ tags: ["project", "markets"]
 - [4 - Voinovich Michael C (0001806753) (Reporting)](https://www.sec.gov/Archives/edgar/data/1806753/000119312526420814/0001193125-26-420814-index.htm) — SEC EDGAR All Filings · 16:47 PT · #filings #markets
 - [Unicycive Deadline: UNCY Investors Have Opportunity to Lead Unicycive Therapeutics, Inc. Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/unicycive-deadline-uncy-investors-have-opportunity-to-lead-unicycive-therapeutics-inc-securities-fraud-lawsuit-302907557.html) — PR Newswire M&A · 16:39 PT · #business #markets $UNCY
 - [Banks And Tech Stocks Dominate - Seeking Alpha](https://news.google.com/rss/articles/CBMidkFVX3lxTE1mUm1BTzgyN0o2Z3U1UFFleU5VOXZjLXFWSmgyTVV3M01uT3MxQVBoOUxBTnhPNVhnTEdOV191Smt0c3BiVHFubDRPWTdfVGE5RU1wTnlpRnR0SV9GYzdaa2JfWm1xZlY2T1FXRlZDMGpfTkZUVWc?oc=5) — Google News: unusual options activity · 16:30 PT · #markets
+- [A couple started a coffee cart using a credit card limit; it now generates $4.5 million a year](https://timesofindia.indiatimes.com/world/rest-of-world/a-couple-started-a-coffee-cart-using-a-1500-credit-card-limit-their-business-now-generates-4-5-million-a-year/articleshow/134922140.cms) — World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India · 15:30 PT · #world #markets
 - [144 - Arora Nikesh (0001468233) (Reporting)](https://www.sec.gov/Archives/edgar/data/1468233/000119312526420726/0001193125-26-420726-index.htm) — SEC EDGAR All Filings · 15:19 PT · #filings #markets
 - [4 - Ropa Bethany Logan (0002157573) (Reporting)](https://www.sec.gov/Archives/edgar/data/2157573/000162828026065778/0001628280-26-065778-index.htm) — SEC EDGAR All Filings · 15:15 PT · #filings #markets
 - [4 - Puri Lovesh Kumar (0002131694) (Reporting)](https://www.sec.gov/Archives/edgar/data/2131694/000110465926115594/0001104659-26-115594-index.htm) — SEC EDGAR All Filings · 15:15 PT · #filings #markets
@@ -387,27 +411,3 @@ tags: ["project", "markets"]
 - [13F-HR - CONTRAVISORY INVESTMENT MANAGEMENT, INC. (0001365707) (Filer)](https://www.sec.gov/Archives/edgar/data/1365707/000158064226006868/0001580642-26-006868-index.htm) — SEC EDGAR All Filings · 13:49 PT · #filings #markets
 - [4 - Robinhood Ventures Fund I (0002085091) (Issuer)](https://www.sec.gov/Archives/edgar/data/2085091/000178387926000151/0001783879-26-000151-index.htm) — SEC EDGAR All Filings · 13:49 PT · #filings #markets
 - [4 - Medi Srini (0002085224) (Reporting)](https://www.sec.gov/Archives/edgar/data/2085224/000095014226002739/0000950142-26-002739-index.htm) — SEC EDGAR All Filings · 13:49 PT · #filings #markets
-- [6-K - SFL Corp Ltd. (0001289877) (Filer)](https://www.sec.gov/Archives/edgar/data/1289877/000128987726000037/0001289877-26-000037-index.htm) — SEC EDGAR All Filings · 13:49 PT · #filings #markets
-- [4/A - HURT CLINT (0000947836) (Reporting)](https://www.sec.gov/Archives/edgar/data/947836/000143774926032571/0001437749-26-032571-index.htm) — SEC EDGAR All Filings · 13:49 PT · #filings #markets
-- [D - 503 Ventures LLC (0002157897) (Filer)](https://www.sec.gov/Archives/edgar/data/2157897/000215789726000001/0002157897-26-000001-index.htm) — SEC EDGAR All Filings · 13:48 PT · #filings #markets
-- [3 - Lauber Charles T (0001566398) (Reporting)](https://www.sec.gov/Archives/edgar/data/1566398/000000695526000053/0000006955-26-000053-index.htm) — SEC EDGAR All Filings · 13:48 PT · #filings #markets
-- [S-8 - OpenWorld, Inc. (0001104038) (Filer)](https://www.sec.gov/Archives/edgar/data/1104038/000121465926012830/0001214659-26-012830-index.htm) — SEC EDGAR All Filings · 13:48 PT · #filings #markets
-- [4 - Lynne Christopher Mark (0002085223) (Reporting)](https://www.sec.gov/Archives/edgar/data/2085223/000095014226002738/0000950142-26-002738-index.htm) — SEC EDGAR All Filings · 13:48 PT · #filings #markets
-- [8-K - ILLUMINA, INC. (0001110803) (Filer)](https://www.sec.gov/Archives/edgar/data/1110803/000111080326000195/0001110803-26-000195-index.htm) — SEC EDGAR 8-K · 13:48 PT · #filings #item-1.01 #markets
-- [4 - Eberwein Jeffrey E. (0001548312) (Reporting)](https://www.sec.gov/Archives/edgar/data/1548312/000154831226000049/0001548312-26-000049-index.htm) — SEC EDGAR All Filings · 13:48 PT · #filings #markets
-- [8-K - KKR Enhanced US Direct Lending Fund-L Inc. (0002012839) (Filer)](https://www.sec.gov/Archives/edgar/data/2012839/000162828026065748/0001628280-26-065748-index.htm) — SEC EDGAR 8-K · 13:48 PT · #filings #markets
-- [4 - PBF Energy Inc. (0001534504) (Issuer)](https://www.sec.gov/Archives/edgar/data/1534504/000114036126039437/0001140361-26-039437-index.htm) — SEC EDGAR All Filings · 13:47 PT · #filings #markets
-- [8-K - THOR INDUSTRIES INC (0000730263) (Filer)](https://www.sec.gov/Archives/edgar/data/730263/000073026326000030/0000730263-26-000030-index.htm) — SEC EDGAR 8-K · 13:47 PT · #filings #markets
-- [Strive plans IPO of 15% preferred stock to fund bitcoin buys](https://www.investing.com/news/stock-market-news/strive-plans-ipo-of-15-preferred-stock-to-fund-bitcoin-buys-432SI-4947526) — Investing.com Stock Market · 13:47 PT · #markets
-- [4 - BRUUN BRENT C (0001441377) (Reporting)](https://www.sec.gov/Archives/edgar/data/1441377/000144137726000016/0001441377-26-000016-index.htm) — SEC EDGAR All Filings · 13:46 PT · #filings #markets #oil
-- [24F-2NT - FIRST TRUST EXCHANGE-TRADED FUND III (0001424212) (Filer)](https://www.sec.gov/Archives/edgar/data/1424212/000144554626007600/0001445546-26-007600-index.htm) — SEC EDGAR All Filings · 13:46 PT · #filings #markets
-- [FWP - LENNAR CORP /NEW/ (0000920760) (Subject)](https://www.sec.gov/Archives/edgar/data/920760/000119312526420546/0001193125-26-420546-index.htm) — SEC EDGAR All Filings · 13:46 PT · #filings #markets
-- [425 - Glucotrack, Inc. (0001506983) (Subject)](https://www.sec.gov/Archives/edgar/data/1506983/000149315226046848/0001493152-26-046848-index.htm) — SEC EDGAR All Filings · 13:46 PT · #filings #markets
-- [4 - Honaker Jeffrey Charles (0002085185) (Reporting)](https://www.sec.gov/Archives/edgar/data/2085185/000095014226002736/0000950142-26-002736-index.htm) — SEC EDGAR All Filings · 13:46 PT · #filings #markets
-- [S-3 - NN INC (0000918541) (Filer)](https://www.sec.gov/Archives/edgar/data/918541/000091854126000114/0000918541-26-000114-index.htm) — SEC EDGAR All Filings · 13:45 PT · #filings #markets
-- [DEFA14A - ETHAN ALLEN INTERIORS INC (0000896156) (Filer)](https://www.sec.gov/Archives/edgar/data/896156/000143774926032570/0001437749-26-032570-index.htm) — SEC EDGAR All Filings · 13:45 PT · #filings #markets
-- [424B2 - BANK OF NOVA SCOTIA (0000009631) (Filer)](https://www.sec.gov/Archives/edgar/data/9631/000183988226050667/0001839882-26-050667-index.htm) — SEC EDGAR All Filings · 13:45 PT · #filings #markets
-- [8-K/A - Glucotrack, Inc. (0001506983) (Filer)](https://www.sec.gov/Archives/edgar/data/1506983/000149315226046847/0001493152-26-046847-index.htm) — SEC EDGAR 8-K · 13:45 PT · #filings #markets
-- [8-K12B - LandBridge Corp (0001995807) (Filer)](https://www.sec.gov/Archives/edgar/data/1995807/000119312526420543/0001193125-26-420543-index.htm) — SEC EDGAR 8-K · 13:45 PT · #filings #item-1.01 #civic #markets
-- [THOR INDUSTRIES ANNOUNCES INCREASED REGULAR QUARTERLY DIVIDEND](https://www.prnewswire.com/news-releases/thor-industries-announces-increased-regular-quarterly-dividend-302907480.html) — PR Newswire M&A · 13:45 PT · #business #markets $THO
-- [Bain Capital and Tillman Global Holdings Complete $1.5 Billion Investment in Eaton Fiber and Acquisition of Ripple Fiber](http://www.businesswire.com/news/home/20261013504369/en/Bain-Capital-and-Tillman-Global-Holdings-Complete-1.5-Billion-Investment-in-Eaton-Fiber-and-Acquisition-of-Ripple-Fiber/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 13:45 PT · #business #markets

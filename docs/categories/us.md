@@ -1,18 +1,40 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-13T18:19:48-07:00
-count: 231
+updated: 2026-10-13T23:16:00-07:00
+count: 253
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-231 most recent items (14-day window).
+253 most recent items (14-day window).
 
 ## 2026-10-13
 
+- [NSHE launches ‘Eyes Open’ campaign to boost safety awareness on Nevada college campuses](https://www.ktnv.com/news/nshe-launches-eyes-open-campaign-to-boost-safety-awareness-on-nevada-college-campuses) — KTNV Las Vegas · 22:10 PT · #us #nevada
+- [Gordon: Crowd underwhelms for Warriors, Lakers, Stephen Curry](https://www.reviewjournal.com/sports/nba/gordon-crowd-underwhelms-for-warriors-lakers-stephen-curry-3899827/) — Las Vegas Review-Journal · 21:55 PT · #us #nevada
+- [No. 10 Las Vegas High beats No. 3 Eldorado in 5A boys soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-10-las-vegas-high-beats-no-3-eldorado-in-5a-boys-soccer-photos-3899792/) — Las Vegas Review-Journal · 21:33 PT · #us #nevada
+- [Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate](https://www.latimes.com/california/story/2026-10-13/bass-vs-raman-heres-who-won-la-mayoral-debate) — World & Nation · 21:03 PT · #us #civic
+- [LETTER: Donald Trump’s latest election pander](https://www.reviewjournal.com/opinion/letters/letter-donald-trumps-latest-election-pander-3899777/) — Las Vegas Review-Journal · 21:01 PT · #us #civic #nevada
+- [LETTER: Higher prescription costs](https://www.reviewjournal.com/opinion/letters/letter-higher-prescription-costs-3899774/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [CLARENCE PAGE: Botched execution shakes attitudes toward death penalty](https://www.reviewjournal.com/opinion/clarence-page-botched-execution-shakes-attitudes-toward-death-penalty-3899771/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [COMMENTARY: Trump’s trade war is driving the world away](https://www.reviewjournal.com/opinion/commentary-trumps-trade-war-is-driving-the-world-away-3899768/) — Las Vegas Review-Journal · 21:01 PT · #us #foreign #nevada
+- [CARTOONS: The advice everyone needs to hear](https://www.reviewjournal.com/opinion/drawing-board/cartoons-the-advice-everyone-needs-to-hear-3899758/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [EDITORIAL: Democratic Assembly supermajority on line](https://www.reviewjournal.com/opinion/editorials/editorial-democratic-assembly-supermajority-on-line-3899755/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [CARTOON: Scapegoat](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-scapegoat-3899752/) — Las Vegas Review-Journal · 21:00 PT · #us #foreign #nevada
+- [VICTOR JOECKS: Ford, Cannizzaro run from soft-on-crime records](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-ford-cannizzaro-run-from-soft-on-crime-records-3899749/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Bishop Gorman wins individual, team 5A girls golf state titles](https://www.reviewjournal.com/nevada-preps/bishop-gorman-wins-individual-team-5a-girls-golf-state-titles-3899745/) — Las Vegas Review-Journal · 20:53 PT · #us #golf #nevada
+- [Trump makes unusual stop in Alaska; heads to Las Vegas, Arizona next](https://www.reviewjournal.com/news/nation-and-world/trump-makes-unusual-stop-in-alaska-heads-to-las-vegas-arizona-next-3899740/) — Las Vegas Review-Journal · 20:51 PT · #us #nevada
+- [No bail for First Friday slaying suspect as mayor says event may be paused](https://www.reviewjournal.com/crime/no-bail-for-first-friday-slaying-suspect-as-mayor-says-event-may-be-paused-3899732/) — Las Vegas Review-Journal · 20:25 PT · #us #nevada
+- [Balanced attack gives Golden Knights bounce-back win in Nashville](https://www.reviewjournal.com/sports/goldenknights/balanced-attack-gives-golden-knights-bounce-back-win-in-nashville-3899705/) — Las Vegas Review-Journal · 20:21 PT · #us #nevada
+- [‘Everything’s changed a lot’: Lakers, Warriors coaches expect potential Las Vegas team to be a success](https://www.reviewjournal.com/sports/nba/everythings-changed-a-lot-lakers-warriors-coaches-expect-potential-las-vegas-team-to-be-a-success-3899700/) — Las Vegas Review-Journal · 20:05 PT · #us #nevada
+- [What we learned: A closer look at the Raiders’ blowout loss to New England](https://www.reviewjournal.com/sports/raiders/what-we-learned-a-closer-look-at-the-raiders-blowout-loss-to-new-england-3899693/) — Las Vegas Review-Journal · 19:58 PT · #us #nevada
+- [Potential juror out after profane remark about accused flamingo abuser, judge says](https://www.reviewjournal.com/crime/courts/potential-juror-out-after-profane-remark-about-accused-flamingo-abuser-judge-says-3899666/) — Las Vegas Review-Journal · 18:44 PT · #us #nevada
+- [Las Vegas sees chilliest day since March as October cold front arrives](https://www.reviewjournal.com/local/weather/las-vegas-sees-chilliest-day-since-march-as-october-cold-front-arrives-3899644/) — Las Vegas Review-Journal · 18:13 PT · #us #nevada
+- [Live chat: Our columnists analyze L.A.'s mayoral debate](https://www.latimes.com/california/story/2026-10-13/live-chat-our-columnists-analyze-l-a-s-mayoral-debate) — World & Nation · 18:09 PT · #us
 - ['Money maxxing': How families can make every dollar work harder as costs rise](https://www.ktnv.com/money-maxxing-how-families-can-make-every-dollar-work-harder-as-costs-rise) — KTNV Las Vegas · 18:04 PT · #us #nevada
 - [Early voting approaches in Nevada: What east Las Vegas voters need to know](https://www.ktnv.com/neighborhoods/east-las-vegas/early-voting-approaches-in-nevada-what-east-las-vegas-voters-need-to-know) — KTNV Las Vegas · 17:52 PT · #us #civic #nevada
+- [Las Vegas lands major convention for 2031](https://www.reviewjournal.com/business/conventions/las-vegas-lands-major-convention-for-2031-3899639/) — Las Vegas Review-Journal · 17:51 PT · #us #nevada
 - [Fixer in lucrative NCAA basketball betting scheme sentenced to 6 years in prison](https://lasvegassun.com/news/2026/oct/13/fixer-in-lucrative-ncaa-basketball-betting-scheme/) — Las Vegas Sun · 17:31 PT · #us #nevada
 - [Smith's parent company to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence](https://lasvegassun.com/news/2026/oct/13/smiths-parent-company-to-lay-off-3000-corporate-em/) — Las Vegas Sun · 17:15 PT · #us #ai #nevada
 - [North Las Vegas Fire Department opens first dedicated training center](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-fire-department-opens-first-dedicated-training-center) — KTNV Las Vegas · 17:13 PT · #us #nevada

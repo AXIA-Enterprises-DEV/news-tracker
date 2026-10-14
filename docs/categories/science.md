@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-13T18:19:48-07:00
+updated: 2026-10-13T23:16:00-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,11 +11,21 @@ tags: ["category", "science"]
 
 ## 2026-10-13
 
+- [Gigantic prehistoric snake discovered in India may have been one of the largest ever](https://www.sciencedaily.com/releases/2026/10/261014001406.htm) — Latest Science News -- ScienceDaily · 22:44 PT · #science
+- [New knee arthritis treatment delivers lasting pain relief without surgery](https://www.sciencedaily.com/releases/2026/10/261013234801.htm) — Latest Science News -- ScienceDaily · 21:39 PT · #science
+- [APOD: 2026 October 14 – Mars and the Beehive Under an Aurora](https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/) — NASA · 21:05 PT · #science
+- [Hurricane Simon Lurks Off the Mexican Coast](https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/) — NASA · 21:01 PT · #science
+- [Wild bobwhite quail spotted after habitat restoration project](https://phys.org/news/2026-10-wild-bobwhite-quail-habitat.html) — Phys.org - latest science and technology news stories · 20:20 PT · #science
+- [AI can act exactly like a human, but we still don't think it's conscious](https://www.sciencedaily.com/releases/2026/10/261012185017.htm) — Latest Science News -- ScienceDaily · 18:41 PT · #science #ai
+- [Black women in food industries face systemic roadblocks](https://phys.org/news/2026-10-black-women-food-industries-roadblocks.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
+- [A planet 320 light-years away confirms what scientists long suspected](https://www.sciencedaily.com/releases/2026/10/261012185015.htm) — Latest Science News -- ScienceDaily · 17:24 PT · #science
 - [Simple cleaning steps could curb deadly fungal disease risks for Australia's wild reptiles](https://phys.org/news/2026-10-simple-curb-deadly-fungal-disease.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
+- [AI reveals a hidden chemical shortcut that could turn CO2 into fuel](https://www.sciencedaily.com/releases/2026/10/261013015758.htm) — Latest Science News -- ScienceDaily · 17:01 PT · #science #ai
 - [Ultrashort laser pulses offer a new way to probe electrons' quantum geometry](https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years](https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science #foreign
 - [Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur](https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
 - [People with a 'good ear' for sounds make better language learners, study suggests](https://phys.org/news/2026-10-people-good-ear-language-learners.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
+- [210-million-year-old dinosaur discovery reveals a lost world in Africa](https://www.sciencedaily.com/releases/2026/10/261012185013.htm) — Latest Science News -- ScienceDaily · 15:53 PT · #science
 - [Optical skyrmions can control the motion of magnetic skyrmions](https://phys.org/news/2026-10-optical-skyrmions-motion-magnetic.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
 - [Patterned X-rays map 3D chemical structures faster with fewer measurements](https://phys.org/news/2026-10-patterned-rays-3d-chemical-faster.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
 - [Computational model guides lighting design to improve color discrimination in aging eyes](https://phys.org/news/2026-10-discrimination-aging-eyes.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
@@ -425,19 +435,3 @@ tags: ["category", "science"]
 - [Extinct ice age bovine discovered in Siberian cave](https://www.popsci.com/science/extinct-ice-age-bovine-siberian-cave/) — Popular Science · 08:00 PT · #science
 - [Chimpanzees steal less pineapple from their friends](https://www.popsci.com/environment/chimpanzees-steal-less-from-friends/) — Popular Science · 06:00 PT · #science
 - [Sound smart about charts](https://flowingdata.com/2026/10/05/sound-smart-about-charts/) — FlowingData · 00:01 PT · #science
-
-## 2026-10-04
-
-- [Starwatch: how to spot Saturn as it makes it closest approach to Earth this year](https://www.theguardian.com/science/2026/oct/05/how-to-spot-saturn-closest-approach-earth) — Space | The Guardian · 22:00 PT · #science
-- [5,000-year-old skull fractures reveal human sacrifices in Ancient Egypt](https://www.popsci.com/science/human-sacrifice-skull-ancient-egypt/) — Popular Science · 21:00 PT · #science
-- [We searched thousands of early Amazon Prime Big Deal Days products and these are the ones worth buying right now](https://www.popsci.com/gear/early-prime-big-deal-days-sale-dyson-ninja-roomba/) — Popular Science · 18:08 PT · #science
-- [3 myths about tech history to erase from your memory](https://www.popsci.com/technology/y2k-myths-moth-computer-bug-bill-gates-640k-quote/) — Popular Science · 10:15 PT · #science
-- [Wildlife camera in Guatemala captures a once-in-a-decade snapshot](https://www.popsci.com/environment/wildlife-camera-in-guatemala-captures-a-once-in-a-decade-snapshot/) — Popular Science · 07:08 PT · #science
-- [What’s the point of beards?](https://www.popsci.com/science/why-men-have-beards/) — Popular Science · 05:03 PT · #science
-- [Rural Data Centers Are in for a Big Federal Tax Break](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/) — Science Latest · 03:00 PT · #science
-- [Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/) — Science Latest · 02:00 PT · #science
-
-## 2026-10-03
-
-- [The GLP-1 Side Effect Everyone Ignores With Professor Clare Collins (493)](https://shirtloadsofscience.libsyn.com/the-glp-1-side-effect-everyone-ignores-with-professor-clare-collins-493) — Shirtloads of Science · 16:00 PT · #science
-- [13 unbelievable child car seats from the past century](https://www.popsci.com/technology/vintage-child-car-seat-photos/) — Popular Science · 12:03 PT · #science

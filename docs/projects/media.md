@@ -1,18 +1,24 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-13T18:19:48-07:00
-count: 134
+updated: 2026-10-13T23:16:00-07:00
+count: 141
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-134 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+141 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-13
 
+- [Judge extends White House access to banned media outlets CNN, MS Now and Politico](https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico) — Guardian World · 21:34 PT · #world #media
+- [China and North Korea to open New Yalu River Bridge, state media reports](https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss) — Al Jazeera · 21:27 PT · #world #foreign #media
+- [Russia arrests Japanese journalist on alleged espionage](https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss) — BBC World · 21:10 PT · #world #foreign #media
+- [Marcos cites journalist safety, media role amid disinformation concerns - Palawan News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNFRfalZ6dVFqV2JSZndWdHdGY3RjUXZESlVuemVPTlZfYmQzOVRQU1NDTFY3aUJiNVJJMXJQZUpFQkFaZE5BVklMcXlhS2hWMkhtaDVOeTZYcFZlbm5kMkJjOFo1aGJfOWhaYmRPVXVoRlFqeE5iQUtGc0RKc2tlMDlCd3dETnFZczZFTktMeUVTUDlqZUVxRkRKZ2M?oc=5) — Google News: propaganda OR disinformation media · 21:00 PT · #world #media
+- [How Russian Propaganda Learned to Look French - UNITED24 Media](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTdYaDZnZkZUSmtIUjIydkR5eXYycUpUNFl0WVp2VEt0TUIwSEx6ZmRRWXBqMEJZUldJSnNxdVRnSm5SYjU4MWJ5MlR1dVcyUkdxNjZfOHBjcnU5VlNZb2tQNExuOWhBMTdoMmhqWjBVWHdkUENTRllwSmtraGhHRkE5SlFkY196cGVj?oc=5) — Google News: propaganda OR disinformation media · 20:10 PT · #world #foreign #media
 - [Russia detains Japanese journalist, accusing him of alleged spying](https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying) — Guardian World · 18:05 PT · #world #foreign #media
 - [Israeli attacks kill one in Gaza, wound journalists in occupied West Bank](https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss) — Al Jazeera · 17:45 PT · #world #foreign #media
+- [What The Yandex Data Center Strikes Reveal About Modern Information Wars - ИФЗ РАН](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVJwU0hJc2R5Slc5Ni1kb014VFRfMXdJeURmUGtDY0F1UF9salh6b2FVM3MxRm51T2JDdnk4bzFqaG1Ja21jZUp2dm5LTmtyTGpIbUYwcUNFb2hKbjJ6OVJrQ0FfZ1dod0xCaGV3UlBQc1V5NFhDQTJmcTZmNjNBRjNhMXdFaDFHX3c?oc=5) — Google News: propaganda OR disinformation media · 16:50 PT · #world #media
 - [Did Ukraine's strikes on Yandex servers take out Russian bots? What we know - Snopes](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWFaaFA0anV5UU9ib1NjMVJHM01MUmJaa25FRklZRzFZZGV0WnZXRnliX2g5V0FfMVV2bkhxSVlNc1l0S09fejhmX3NIbVFiRnhJbXplb3lEWFlWQkhKdnBsM0FRLVpFZFdpSU1BUTdGb09uaTRDa0tSVWRrOGJBTg?oc=5) — Google News: propaganda OR disinformation media · 16:09 PT · #world #foreign #media
 - [Trump’s SPANKING NEW Propaganda Secretary, Katie Zacharia, Has Already Broken the Law - Daily Kos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMmszR0ZUVXJUU3lxSUFWemZ1Skh6YjlPaWZPS0ZHeEVRZFpfZ3hjeXp6WHdkY3VOM1RrTzBFejJqOGFDc24tNmx4XzBjWF9jeHdHdWNVLUlGMUprRTFLQlJjeHhBLW9rTW9RQklJNVhuZjFKcXBmU1dkd3YyTWhhWl81azVkUkV5cDNkSDZIU0ZDTHlscVVkbWt1X3M1REdxMEVWczNwUkFuSDYybWY2TWl5RGcwSmhCWmpieGlRNy11dTFmUnlpNVJwUkRmVzdselp3eHRhY3A3ZmNqemhZcg?oc=5) — Google News: propaganda OR disinformation media · 16:05 PT · #world #media
 - [How eye-catching social media feeds steer attention toward misinformation](https://phys.org/news/2026-10-eye-social-media-attention-misinformation.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science #media
@@ -41,6 +47,7 @@ tags: ["project", "media"]
 - [The Pentagon plans to livestream an execution. Some Republicans are having second thoughts.](https://www.poynter.org/commentary/2026/pentagon-livestream-execution-republican-concerns/) — Poynter · 04:30 PT · #tech #foreign #media
 - [Did Ukranian drones destroy Russia's disinformation bots? - RTE.ie](https://news.google.com/rss/articles/CBMivgFBVV95cUxORjhJZnUydTJ3Qk1ZM1lRczFRaEtZWlhfZlNCbk9TdlVmdDN0UG12ZUJRcU84UkNDMlc3VTRTdVpyZ00wUThvVldZRF9sandYT1dqUWdaNmpTX25YdTFVdHN3eW1oeGFBVERYclZoM1VqaVo2YzQzaXRSakNjWXZ1a1pfblhoelJtNUNTR0M4UzB6SkYtTV9Wc0NkY2ZsbzdNZG1wYm5vYlAzWG9GNkk2WU9VaW8zSHBBTGQzWGhB?oc=5) — Google News: propaganda OR disinformation media · 04:26 PT · #world #foreign #media
 - [The Ugly Consequences of Biased and Irresponsible Media Reporting - Clarion India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeE1XVUZHT0lEZS1kY1ZyVk01a2pQdnhndUwyVkhwaFhxRzE1cER5aHdsTFcza2dDUTFGR01VOEFQNzhOQWV0dkJhX05zM1Zod1plbEJCeXFPQU8tR2REamxxTHF5aUF2SVQxaUNkRzFiMWx3Q3l0VklxYW1ZQklVUW1iVTdrUXhtdllPZVVQZGpmMkNOR3c?oc=5) — Google News: propaganda OR disinformation media · 04:19 PT · #world #media
+- [Ethiopia: Social media becomes a battleground for propaganda - Modern Ghana](https://news.google.com/rss/articles/CBMiZkFVX3lxTE90RTZXUUQxVFYzWGhxTkVLVmtNZVRRTkhTQ2doeFBka3FfQTBpd1pTSHVKWUl1SmNNbWxvblBCLWs2OGdQcDJDTjNqcXI3eW14cnN3a1FYSFpueVBaeHVPUEM0bzFLd9IBXEFVX3lxTE8xUUM2dGFERzlGajhET0RmWmJIOUtURXBOOUN6MW9aNlVlNkYtcW9acG9xZW1VeVBZR0dBSGJYT0RyVFZ0cy1Rb1AwOW5HeHlVeUFXQklvVk5YcWFw?oc=5) — Google News: propaganda OR disinformation media · 04:10 PT · #world #media
 - [How do you land a journalism job right now? Nearly 60 journalists told us](https://www.poynter.org/commentary/2026/how-to-get-journalism-job-2026/) — Poynter · 04:00 PT · #tech #media
 - [OSCE media conference with Turkmenistan’s participation concludes in Bishkek - Arzuw news](https://news.google.com/rss/articles/CBMingFBVV95cUxNS1haZTNrTmxaWmFUNi1RRnh6THI0cTFzRTJfSHNBdDVPWk1RSkZmQWtCdnF2U2U3X1NHSGlxX0U3enkzUG1IV0xzRTU2OWw5Z1VoZkh5YjNsNkZZMzR3eDNsT1VjMXVYT3hxSHNVSnczYUpkZE1rc290ZTFZOV9jNWtla1MzVG9xMEhKSUFCUVg1WEtpdUdPQWthVF9FUQ?oc=5) — Google News: propaganda OR disinformation media · 03:42 PT · #world #media
 - [In Ethiopia, social media became a field for propaganda amid renewed fighting — France 24 - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTThTV2pfemFUTGQ2OXFsdjlTT3RkU0RZLXBSdlNsNHZWZDZRWUhla1dwcmNpTzhOQjBOVUEweEhhUXpfdi0xOW5ONGdiS1JPSUZkTUZYX2VYQ2g3MklORnJldU5IVmRFWmY4SlhkelAwT3dhZzhBdVN0eG5DaUZicUlJY1pDazctSzM4ZlB4aHRwdFVFbDNLVXpkcm5vZ1h2NGtsSF9vQlhWdw?oc=5) — Google News: propaganda OR disinformation media · 03:36 PT · #world #media

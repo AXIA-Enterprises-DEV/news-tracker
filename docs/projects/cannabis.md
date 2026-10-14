@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-13T18:19:48-07:00
-count: 43
+updated: 2026-10-13T23:16:00-07:00
+count: 44
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-43 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+44 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-13
 
+- [7 Non Smoking Hotels in Las Vegas Where the Air Stays Clean - South Florida Reporter](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHBFMU5xUWdxN0Vsb2xHc2lhWC1NRUZuWlhkVUFpSFQ4YllXcldudk1hWl9iUG1BQXNkWW5qaDdKVU1NeHNJenlGa1dKbElPQjJkWHZXVkVvN3pRc09EaDFvc1B1eEY5X0hWUEQ4VXphdk85ellOamdfM1dPT19rOUd5eXBjRUhhUDl6cUU3TzZjMzNDUTBpOQ?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 22:03 PT · #business #cannabis #nevada
 - [Nurse-Founded Culinary & Cannabis Rebrands as Savor & Solace, Returns to Los Angeles With Three November Experiences](https://www.prnewswire.com/news-releases/nurse-founded-culinary--cannabis-rebrands-as-savor--solace-returns-to-los-angeles-with-three-november-experiences-302907761.html) — PR Newswire M&A · 17:20 PT · #business #cannabis
 - [Illinois cannabis sales increase to record levels amid price drop](https://mjbizdaily.com/news/illinois-cannabis-sales-increase-to-record-levels-amid-price-drop/618606/) — MJBizDaily · 15:15 PT · #business #cannabis #smallbiz
 - [DEA Is OK With Including New Report In Marijuana Rescheduling Hearing As Opponents Seek More Testimony And Document Discovery](https://www.marijuanamoment.net/dea-is-ok-with-including-new-report-in-marijuana-rescheduling-hearing-as-opponents-seek-new-testimony-and-document-discovery/) — Marijuana Moment · 14:40 PT · #business #cannabis
