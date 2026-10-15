@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-14T16:27:38-07:00
+updated: 2026-10-14T18:41:50-07:00
 count: 317
 tags: ["category", "us"]
 ---
@@ -11,6 +11,17 @@ tags: ["category", "us"]
 
 ## 2026-10-14
 
+- [UNLV’s Andre Porter is building his own legacy while following father’s footsteps](https://www.reviewjournal.com/sports/unlv/unlv-football/unlvs-andre-porter-is-building-his-own-legacy-while-following-fathers-footsteps-3900129/) — Las Vegas Review-Journal · 18:20 PT · #us #nevada
+- [Henderson mayor unveils homeless transition housing, affordable plans at state of the city address](https://www.ktnv.com/neighborhoods/henderson/henderson-mayor-unveils-homeless-transition-housing-affordable-plans-at-state-of-the-city-address) — KTNV Las Vegas · 18:13 PT · #us #nevada
+- [Trump parades new Air Force One during Arizona rally — PHOTOS](https://www.reviewjournal.com/news/nation-and-world/trump-parades-new-air-force-one-during-arizona-rally-photos-3900111/) — Las Vegas Review-Journal · 18:11 PT · #us #nevada
+- [First Friday pauses monthly downtown Las Vegas event after deadly shooting](https://www.ktnv.com/news/first-friday-pauses-monthly-downtown-las-vegas-event-after-deadly-shooting) — KTNV Las Vegas · 18:01 PT · #us #nevada
+- [Rapper, Las Vegas nightclub sued over alleged assault of teen](https://www.reviewjournal.com/crime/courts/rapper-las-vegas-nightclub-sued-over-alleged-assault-of-teen-3900104/) — Las Vegas Review-Journal · 17:53 PT · #us #nevada
+- [Watchdog group seeks to block Jared Kushner from serving in his volunteer envoy role](https://lasvegassun.com/news/2026/oct/14/watchdog-group-seeks-to-block-jared-kushner-from-s/) — Las Vegas Sun · 17:39 PT · #us #nevada
+- [Federal appeals court hands down ruling on Clark County short-term rental process](https://www.ktnv.com/news/federal-appeals-court-hands-down-ruling-on-clark-county-short-term-rental-process) — KTNV Las Vegas · 17:38 PT · #us #nevada
+- [Luna, a small dog missing for over a month in Yellowstone, is reunited with her owners](https://lasvegassun.com/news/2026/oct/14/luna-a-small-dog-missing-for-over-a-month-in-yello/) — Las Vegas Sun · 17:36 PT · #us #nevada
+- [Two women killed in wrong-way crash near Las Vegas Motor Speedway ID’d](https://www.reviewjournal.com/local/local-nevada/two-women-killed-in-wrong-way-crash-near-las-vegas-motor-speedway-idd-3900093/) — Las Vegas Review-Journal · 17:15 PT · #us #nevada
+- [Green Valley High School crowns a historic homecoming queen](https://www.ktnv.com/sports/green-valley-high-school-crowns-a-historic-homecoming-queen) — KTNV Las Vegas · 16:37 PT · #us #nevada
+- [Man who set fire to vehicles at Las Vegas Tesla facility gets 5 years in prison](https://lasvegassun.com/news/2026/oct/14/man-who-set-fire-to-vehicles-at-las-vegas-tesla-fa/) — Las Vegas Sun · 16:25 PT · #us #nevada
 - [Police seeking info on suspect of hit-and-run in southwest Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/police-seeking-info-on-suspect-of-hit-and-run-in-southwest-las-vegas-valley-3900085/) — Las Vegas Review-Journal · 16:21 PT · #us #nevada
 - [Vote delayed on controversial 61-home development in Las Vegas](https://www.reviewjournal.com/business/housing/vote-delayed-on-controversial-61-home-development-in-las-vegas-3900076/) — Las Vegas Review-Journal · 15:48 PT · #us #nevada
 - [Las Vegas Tesla arsonist sentenced to 5 years in prison, judge rules](https://www.reviewjournal.com/crime/courts/las-vegas-tesla-arsonist-sentenced-to-5-years-in-prison-judge-rules-3900070/) — Las Vegas Review-Journal · 15:23 PT · #us #nevada
@@ -356,20 +367,3 @@ tags: ["category", "us"]
 - ['Nevadans are getting hosed': Why affordability is 2026's buzzword](https://thenevadaindependent.com/article/nevadans-are-getting-hosed-why-affordability-is-2026s-buzzword/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [Saved by the high rollers: Strip sees loss of value customers, but lift from premium play](https://thenevadaindependent.com/article/saved-by-the-high-rollers-strip-sees-loss-of-value-customers-but-lift-from-premium-play/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [Escuelas de Nevada enfrentaron grave crisis de presupuesto. Por esto intervino el estado.](https://thenevadaindependent.com/article/escuelas-de-nevada-enfrentaron-grave-crisis-de-presupuesto-por-esto-intervino-el-estado/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-09-30
-
-- [U.S. troops leave Iraq, but future of Iran-backed militias remains uncertain](https://www.latimes.com/world-nation/story/2026-09-30/u-s-military-says-its-withdrawal-of-troops-from-iraq-is-complete) — World & Nation · 07:01 PT · #us #foreign
-- [House Speaker Mike Johnson stumping and fundraising for California GOP congressional candidates](https://www.latimes.com/politics/story/2026-09-30/house-speaker-mike-johnson-stumping-for-ca-gop-congressional-candidates) — World & Nation · 05:00 PT · #us #civic
-- [Dems boost their odds in Nevada](https://www.politico.com/newsletters/playbook/2026/09/30/dems-boost-their-odds-in-nevada-01098829) — Playbook · 03:07 PT · #us #nevada
-- [Anthropic says its AI models could manipulate, blackmail and harm humans](https://www.latimes.com/business/story/2026-09-30/anthropic-warns-of-ais-existential-risk-to-humans-in-its-ipo-filing) — World & Nation · 03:00 PT · #us #ai #markets
-- [Fewer California Republicans approve of Trump, poll says. That could hurt GOP midterm chances](https://www.latimes.com/politics/story/2026-09-30/fewer-california-republicans-approve-of-trump-poll-says-that-could-hurt-gop-midterm-chances) — World & Nation · 03:00 PT · #us #foreign
-- [Nevada schools faced a major budget crisis. Here's why the state stepped in.](https://thenevadaindependent.com/article/nevada-schools-faced-a-major-budget-crisis-heres-why-the-state-stepped-in/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [OPINION: Todd Blanche's LV visit calls attention to Nevada's awkward U.S. attorney shuffle](https://thenevadaindependent.com/article/opinion-todd-blanches-lv-visit-calls-attention-to-nevadas-awkward-u-s-attorney-shuffle/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
-- [Did Las Vegas cut its water use in half between 2002 and 2025?](https://thenevadaindependent.com/article/did-las-vegas-cut-its-water-use-in-half-between-2002-and-2025/) — The Nevada Independent · 01:55 PT · #us #nevada
-- [Elección general de Nevada 2026: ¿Qué debo saber?](https://thenevadaindependent.com/article/eleccion-general-de-nevada-2026-que-debo-saber/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-09-29
-
-- [Jaco Muller, who turned his 15-year-old son's idea into 197 rhino births, has died](https://www.latimes.com/science/story/2026-09-29/jaco-muller-who-turned-his-sons-idea-into-197-rhino-births-dies) — World & Nation · 17:59 PT · #us
-- [De última hora: La Policía de Henderson rechaza propuesta para ampliar entrenamiento de ICE](https://thenevadaindependent.com/article/de-ultima-hora-la-policia-de-henderson-rechaza-propuesta-para-ampliar-entrenamiento-de-ice/) — The Nevada Independent · 17:11 PT · #us #nevada

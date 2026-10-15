@@ -1,17 +1,19 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-14T16:27:38-07:00
-count: 188
+updated: 2026-10-14T18:41:50-07:00
+count: 189
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-188 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+189 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-14
 
+- [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/) — TechCrunch · 17:00 PT · #tech #ai #media
 - [Joint statement by Azerbaijan’s Media and Broadcasting Council and Ministry of Health - Azərtac](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGNvQUdkNG0wN2cwTlNBckdQbmdXODY0SzhGQnBGcktqOGJmUlhTR05abTdLcXJkekJvRUpjUUdzUk5xUDdsTnY0VFltbHRQQjFOMlZfbTVMdXpLS2wyeU9IT2MzeV92bmtCZE5pbXBLaDYxRWZQTmhrTTdxRjF6a2EtQUVHLTVTcmtpNVU2OWE5M2NiaXgzVEtwOWdkWkhJTEhsNzJPT3h1ZkdQdVRoS1hzVGJHQW9Oc0RldQ?oc=5) — Google News: propaganda OR disinformation media · 14:44 PT · #world #media
+- [OpenAI Disrupts Iranian Operation Using AI to Impersonate Journalists, Spread Disinformation - Le·gal In·sur·rec·tion](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGZ3aVV1UTF3ZS1lRUZieEd0NklSLWdzZnpialRUZ2dndzFqMGVFYmFwR2ZCRTluQzc2bDV3RzZ5bWVJOU1rbFpaeG9fNm5HN3UtdW5lX2xwN3V1eDBtT0hmc0ZOcjFGamhOR0xUUDk2ZmM2YUNENnExVDNxOHRtN0tCTUNMaDZoV3ZWLWdNcjg1ZEZKNG42SFltNnNFOGg4VUF1WkEyckFSeWJxSW9tUWdyLTZpMk13TkZ1MnByUXJVQThSdlp4aVJhNG5HcHPSAc8BQVVfeXFMTkhmd2lVdVExd2UtZUVGYnhHdDZJUi1nc2Z6YmpUVGdnZ3cxajBlRWJhcEdmQkU5bkM3Nmw1d0c2eW1lSTlNa2xaWnhvXzZuRzd1LXVuZV9scDd1dXgwbU9IZnNGTnIxRmpoTkdMVFA5NmZjNmFDRDZxMVQzcTh0bTdLQk1DTGg2aFd2Vi1nTXI4NWRGSjRuNkhZbTZzRThoOFVBdVpBMnJBUnlicUlvbVFnci02aTJNd05GdTJwclFyVUE4UnZaeGlSYTRuR3Bz?oc=5) — Google News: propaganda OR disinformation media · 14:00 PT · #world #ai #media
 - [Fact-Checking Senate Debates in Georgia, Maine and Michigan](https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html) — NYT Politics · 13:06 PT · #politics #civic #media
 - [Two creators went to NYU’s business school, then decided to make a show about the news](https://www.niemanlab.org/2026/10/two-creators-went-to-nyus-business-school-then-decided-to-make-a-show-about-the-news/) — Nieman Lab · 12:43 PT · #tech #media
 - [The "women-first" #dating app #Bumble is going private — with two new male #CEOs. #datingapps](https://www.youtube.com/shorts/KvSMhA_1f4w) — Business Insider · 12:01 PT · #business #media
@@ -37,6 +39,8 @@ tags: ["project", "media"]
 - [College journalism is thriving at schools that don’t teach it](https://www.poynter.org/educators-students/2026/college-newspapers-without-journalism-programs/) — Poynter · 04:00 PT · #tech #media
 - [Media and Broadcasting Council: Iran’s Sahar TV channel spreads disinformation to mislead public opinion - Azərtac](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdmVoNUdhRVVkbENDWlVsSjZYVk9fczU0ODNzU1JxTEJhUlZQMzh0RUZPdWVGWmZPSHhNOFd2cDFYUmZFZjFrbXR2Uk1yZVJiYXhNOFFXc2xRLVB5elFNaU85X3plWUVKZmt2a0M0MmNDNExFYzVrS0EtR19zWmxaUEI1V1ZPSEc5S1FxTUpuTjhzM1ltSWxQVFo4WlVmdE9mVURnemk2NzA3Qkl3TjNhZlk0Ny1GRU9jX2d0YVJPeV9lVVdfbXRmMVZkRWEyekZJR2NWbA?oc=5) — Google News: propaganda OR disinformation media · 03:50 PT · #world #foreign #media
 - [Russia’s arrest of Japanese journalist: Why are tensions rising?](https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss) — Al Jazeera · 03:46 PT · #world #foreign #media
+- [‘Part of Pakistan’s disinformation campaign: Army trashes ‘claim’ of Gen Dhiraj Seth’s removal - tennews.in](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0FrbHVLVE1ENDFmT3NTWkd5MER5UFpCSWZlcm9YZHR3bExPNnotZERadVNoWmtERnM0YmtVR3BIUm9xbnVZd25mZkdCWE9iR2ZiU3BrNTBIcEpHZ1E5X0lhc0prdU5zY0tUWlNGTzR0dkowM2psSG9KTVpyOXhTZkNDX0NvazBEcFFYNzcxSkg0M0hOOS1kWTQ3Y3dVems4bFA5QlJJa0JaNWFu?oc=5) — Google News: propaganda OR disinformation media · 03:41 PT · #world #media
+- [Ossoff Confronts Collins Over Son-in-Law’s Ties to White Nationalist Propaganda - Newsweek](https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0dzMWxLaG9JcVo1YVExb3lOQWpwZ0RaUE5UWXVJR1NyUDUtWjdRTGlITjYyWDV2bDF6cDRRMkRCdk5PUUlFZ0NzTlRkamFzanhaZ1lhaVlLb0hiY1RDSUFkTnpFbk5mVjhtcWJvOUZ1bUVLMk1RWFpKVTMtNmlEek5uYzVqS0s0OWFWbEdQTmRWYkpSdGxndHpyS3M3N0kzZi1OWHIzRnpKaVZYbDFN?oc=5) — Google News: propaganda OR disinformation media · 03:40 PT · #world #media
 - ['Part of Pakistan's disinformation campaign: Army trashes 'claim' of Gen Dhiraj Seth's removal - IANS LIVE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMV9LR0w0WXp6UkZjWXpWSGtvVEpVd2Qxbi1SODlVSUl2RWpxT3NnLVZEZ0M1bVhzUVctQmhNaDRGaVhnZ2J4NWpJVm5Od3VwNl8xTl8zM1BjTkhWQkZZZG1Hb3l0WE40RDNYMkhWUjV2SHFRMVRWa1hNeGVFX1hhVzluSzkyNGxLY1lfbXdfTGQxZWszZUtLMHVhcHhtN3JaZUNPY1FnMjBuRGduNFRQX3RtNDZvT2pEQktN?oc=5) — Google News: propaganda OR disinformation media · 03:36 PT · #world #media
 - [Trump’s latest attack on James Talarico involves veganism, barbecue and vomiting. Here are the facts.](https://www.poynter.org/fact-checking/2026/trump-james-talarico-vegan-vomiting-claim/) — Poynter · 03:30 PT · #tech #civic #media
 - [Steven Brill to headline Investigative Post event on disinformation. - Investigative Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYUlWVlZpQUtDV3pjRm5admdZbkZBWWdTazNyQ0ExalVwZ0VvZVpIR0VCdU9xb1JGZUhEY3ZaNmZseDhORFQzcGJZbXI1V1lOVWc5VVcxaEVXb3h6aGdjd05jRS1sSDZaZDg2VUI3bnJ0STJEZ093bDQtXzROMlgtMEZDUTc1WE5kN21GM1dCTlBPZXRHZkE?oc=5) — Google News: propaganda OR disinformation media · 03:08 PT · #world #media
@@ -229,9 +233,3 @@ tags: ["project", "media"]
 - [Columbia Journalism School will pause its M.A. program (and launch an online degree)](https://www.niemanlab.org/2026/10/columbia-journalism-school-will-temporarily-pause-its-m-a-program-and-launch-an-online-degree/) — Nieman Lab · 12:34 PT · #tech #media
 - [California’s big local news bill becomes law](https://www.niemanlab.org/2026/10/californias-big-local-news-bill-becomes-law/) — Nieman Lab · 11:44 PT · #tech #civic #media
 - [Two 23-year-olds used AI to create a daily audio briefing. It’s now the top news app in Argentina.](https://www.niemanlab.org/2026/10/two-23-year-olds-used-ai-to-create-a-daily-audio-briefing-its-now-the-top-news-app-in-argentina/) — Nieman Lab · 11:13 PT · #tech #ai #media
-
-## 2026-09-30
-
-- [Federal appeals court upholds Thomson Reuters’ landmark AI copyright win](https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/) — Nieman Lab · 14:04 PT · #tech #ai #media #smallbiz
-- [How publishers are rethinking audience engagement: Five takeaways from the Future of Media Technology Conference](https://www.niemanlab.org/2026/09/how-publishers-are-rethinking-audience-engagement-five-takeaways-from-the-future-of-media-technology-conference/) — Nieman Lab · 12:31 PT · #tech #media
-- [Disinfo Update 30/09/2026](https://www.disinfo.eu/disinfo-update-30-09-2026/) — EU DisinfoLab · 00:30 PT · #world #ai #civic #foreign #media

@@ -1,6 +1,6 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-14T16:27:38-07:00
+updated: 2026-10-14T18:41:50-07:00
 count: 59
 tags: ["project", "cannabis"]
 ---
@@ -11,6 +11,8 @@ tags: ["project", "cannabis"]
 
 ## 2026-10-14
 
+- [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - Big News Network.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXhxUVptcU5VR1JfUFc2TTdsb1gtSVVWLWh6NHZreTM4bUx0ZHhrRHRxMnY0djhWRWpVS0ZvZmFpNlgxcE5UNF9wY21idE9ubWU3b1gzQklnRWJab2l2aUJJd0xwYk9aVmwxVU1tUGExYW1PaGtXZGVhYzgwTGcyZmZxVloxTHVNM2Y2b01ILXhjeGl3a3RpdHJ1WjNTaW81OWxHSl9sZ3AxeVdzMnB0Xw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:39 PT · #business #cannabis
+- [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd3ZHeHlwbU9TbF96Y054NWVldWx6NzVCMV9ueXc1elNWWDdrUjNTODFZeUt2a3hNb1dMZ1Fvb0RsdDhjNDM5Zl9fdWo0eEdqWm8yd0N0TVZaMl9uY0g1dnM4bDB4Y1A2SmRoangtb2FkWDR0RklzaElJR3p0NENvVmVKRFVubW1RamRQa2Nvc3ZRUjE4SWk0SWtfZnZOQmxXblNtaFBPR0NKZE5ld0I3RkctV2J3YmswZVk1MkpxbEVHdmd2Q0NrTnVRTkVBclc5TEwyb3hHazk4XzcyNUZOTDRmNnk5LXpqeDA4eWJB?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:32 PT · #business #cannabis
 - [Nebraska MMJ growers harvest first crops with no path to market](https://mjbizdaily.com/news/nebraska-mmj-growers-harvest-first-crops-with-no-path-to-market/618627/) — MJBizDaily · 15:55 PT · #business #cannabis #smallbiz
 - [As rescheduling fuels cannabis deals, integration decides who wins - MJBizDaily](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX01rZVFJUlJRLVE1N3dQOTZZTjRidlB2T2tqOEltd2NRWHBuR3diV1lhSDlWWGlvOS1BdG5NU1N1U2VMUzBUYk9MX0xSMk1QVUR6YkpHdm5MRl9MdFNCYU5SYzRoS2JZNEczeWc5X2Q2NkFyYzJBcXFoVWV4WWUwZVlnQVQ1UGFYb1AxOWt4VVFaUTdraVhGUXhZLWlCcXVlQ1g0?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:55 PT · #business #cannabis
 - [States don’t need to change rules to comply with federal marijuana rescheduling](https://mjbizdaily.com/news/states-dont-need-to-change-rules-to-comply-with-federal-marijuana-rescheduling/618631/) — MJBizDaily · 13:41 PT · #business #cannabis #smallbiz
@@ -95,8 +97,3 @@ tags: ["project", "cannabis"]
 - [Former cannabis worker receives federal grant to study workplace air quality](https://mjbizdaily.com/news/former-cannabis-worker-receives-federal-grant-to-study-workplace-air-quality/618402/) — MJBizDaily · 14:44 PT · #business #cannabis #smallbiz
 - [GOP senators: hemp THC ‘loophole’ helps Chinese criminals](https://mjbizdaily.com/news/gop-senators-hemp-thc-loophole-helps-chinese-criminals/618404/) — MJBizDaily · 13:05 PT · #business #cannabis #smallbiz
 - [arb420? Industry Disputes Deserve Industry Expertise](https://mjbizdaily.com/sponsored/why-arb420-no-cannabis-tutorial-required/618323/) — MJBizDaily · 09:27 PT · #business #cannabis #smallbiz
-
-## 2026-09-30
-
-- [Michigan fines, shuts down cannabis grower for shipping dirt labeled as flower](https://mjbizdaily.com/news/michigan-fines-shuts-down-cannabis-grower-for-shipping-dirt-labeled-as-flower/618392/) — MJBizDaily · 13:58 PT · #business #cannabis #smallbiz
-- [New delay for federal marijuana rescheduling as flaws in process parsed](https://mjbizdaily.com/news/new-delay-for-federal-marijuana-rescheduling-as-flaws-in-process-parsed/618388/) — MJBizDaily · 10:21 PT · #business #cannabis #smallbiz

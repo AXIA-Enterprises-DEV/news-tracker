@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-14T16:27:38-07:00
-count: 152
+updated: 2026-10-14T18:41:50-07:00
+count: 154
 tags: ["tickers"]
 ---
 
@@ -15,6 +15,8 @@ tags: ["tickers"]
 - [$C](C.md) — 2 items
 - [$STM](STM.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$XRPN](XRPN.md) — 1 items
+- [$NCPL](NCPL.md) — 1 items
 - [$ENSG](ENSG.md) — 1 items
 - [$TYGO](TYGO.md) — 1 items
 - [$APP](APP.md) — 1 items

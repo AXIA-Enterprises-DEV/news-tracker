@@ -1,16 +1,27 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-14T16:27:38-07:00
-count: 277
+updated: 2026-10-14T18:41:50-07:00
+count: 285
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-277 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+285 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-14
 
+- [Bond trading weakens for US banks as interest rate volatility affects investors](https://www.investing.com/news/economy-news/bond-trading-weakens-for-us-banks-as-interest-rate-volatility-affects-investors-4949884) — All News · 18:24 PT · #business #fed
+- [Asian markets sell off as AI trades crumble after hot US CPI data](https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348) — All News · 18:18 PT · #business #ai #fed
+- [21shares Strategist Sees Bitcoin Path to $90K After Hotter CPI Report](https://news.bitcoin.com/market-updates/21shares-strategist-sees-bitcoin-path-to-90k-after-hotter-cpi-report/) — Bitcoin News · 18:10 PT · #markets #fed
+- [SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount](https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html) — CNBC Top News · 18:07 PT · #markets #ai #fed
+- [Australia loses 39,300 jobs unexpectedly, easing bets on another RBA rate hike](https://www.investing.com/news/economic-indicators/australia-loses-39300--jobs-unexpectedly-easing-bets-on-another-rba-rate-hike-4950355) — Investing.com Economic Indicators · 18:00 PT · #markets #fed
+- [Australia employment slides 39,300 in September, jobless at 4.7%](https://www.investing.com/news/economic-indicators/australia-employment-slides-39300-in-september-jobless-at-47-4950349) — Investing.com Economic Indicators · 17:54 PT · #markets #fed
+- [U.S. stock futures fall as hot inflation revives Fed hike concerns](https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317) — Investing.com Stock Market · 17:30 PT · #markets #fed
+- [SCHEDULE 13D - Powell Anderson Capital Partners LLC (0002048057) (Filed by)](https://www.sec.gov/Archives/edgar/data/2048057/000121465926012926/0001214659-26-012926-index.htm) — SEC EDGAR All Filings · 17:26 PT · #filings #fed #markets
+- [Surging gasoline prices accounted for more than half of last month's jump in U.S. inflation](https://seekingalpha.com/news/4653219-surging-gasoline-prices-accounted-for-more-than-half-of-last-months-jump-in-us-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 16:50 PT · #markets #fed #oil
+- [Celina Powell Vs. Woah Vicky Hits Brand Risk 16 Free — Here’s How To Watch](https://www.forbes.com/sites/brianmazique/2026/10/14/celina-powell-vs-woah-vicky-hits-brand-risk-16-free---heres-how-to-watch/) — Forbes - Business · 16:40 PT · #business #fed
+- [The AI trade is splintering as inflation fears rattle hyped-up tech stocks](https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories) — MarketWatch Top Stories · 16:36 PT · #markets #ai #fed
 - [Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms](https://www.nytimes.com/2026/10/14/us/politics/inflation-republicans-midterms-trump.html) — NYT Politics · 16:20 PT · #politics #fed
 - [Jim Cramer explains why even strong bank earnings couldn't save their stocks](https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html) — CNBC Top News · 15:48 PT · #markets #fed
 - [Exclusive-Fed’s Daly says rate hikes likely needed, but not urgently](https://www.investing.com/news/economic-indicators/exclusivefeds-daly-says-rate-hikes-likely-needed-but-not-urgently-4950157) — Investing.com Economic Indicators · 15:12 PT · #markets #fed
@@ -38,6 +49,7 @@ tags: ["project", "fed"]
 - [Steve Moore warns stubborn inflation could complicate Fed rate decision - WZTV](https://news.google.com/rss/articles/CBMi6gJBVV95cUxNV1NkdG0yYWt2R3huUy16OFRWOE1YeW10dlJEekVCdW5kN184SndiRXJGREFYemRwTll6ZTZuYmpJLWNrSVBXWk9JSUtWMVdXeFdpRXF2djJwVTJmV1c3X2RMX0ZwaWxYaVFabEVBOXVWNmlldW5yUDFoem9OajBwd0RkMmFjQ1JhU2dRMlFXSzJ5Q3JOM3VrUUNhaUdtVTNydG5aaVlsem50aUNPaGpWWFJ3dkE1RUEtb3VmdVpScmd0cGFobDJmempBaW9KWDFwQ1BPNVhWVS12bGVMclAwOVE1RVRWQ0ZqdENGb2NjSWFmanpWNFNFaENENGdwWXlOekJVWWU5TTdjTzNWMkYxbEFIVjM2aHUwTHR3Zk4wZ2NicUZQZzZKejVOdUozaW5ETFJTdjVuRGdnTm0xV1lzUmVqMlFWQlcycTdkMnBabTRsTEtfYlRnQjd6S1k0TXBLeWNocVhlVENhZw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 10:57 PT · #markets #fed
 - [Bitcoin Price Slips as Saylor’s Bull Market Call Meets Reality](https://news.bitcoin.com/market-updates/bitcoin-price-slips-as-saylors-bull-market-call-meets-reality/) — Bitcoin News · 10:52 PT · #markets #fed
 - [Lawyers for Federal Reserve’s Lisa Cook say White House hearing set up by Trump is ‘biased’ - Hartford Courant](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRS04U3Zvekg5dDlyYnhFLUk1UVJqaVhnZzFYWTVrcWp3S3RpVGpUMU9KdnV6V3E3NC10QXhCcEtncnhXQUVRQ0hJRDVsZk5ZeXlPdTBzUHM2eEV3VFVlRHRBVUFvT09wNWx0OWlPUHM4YlhycWpweFJ1TXIyNU1EeEp4Rzc?oc=5) — Google News: "Supreme Court" ruling · 10:51 PT · #politics #civic #fed
+- [Steve Moore warns stubborn inflation could complicate Fed rate decision - WPEC](https://news.google.com/rss/articles/CBMizAJBVV95cUxQUGRuS2htUEluWGw2OWM5dzRpMDVpYkdOTUJIRE9HVkp2R2hxN1Z2MWlxMmxrYjlLS2NYVmVCZWVuR0FORUQ1U0Zoc1Q1S0cyM3ZvbXk4MWpHd3c1X2NkT3NaeWtzclBmSVhoaU5HeG1qZzN3cXo3TkNIdjZHS2lIZzNCaTN6SEEzSGtDdVdJZ2J0RzczeVVGZzBoYm05U0F0azdkcGtqRUJUUnRMbW5uUVVRblV1YmFEZ3ZqZENCc1ZiWGFZOS15QnNoTzF0NU1BUy16WDJhSUJkYjlILW9fMWRtNkNhcXprelR3TFRVUnd0NlNWUHlJWFFJd1pFYm9UR1ExT3Q1ZGVlUTBTbUU3MTJGUVVlbjVhQkVnX0drNjgzSEgzZXN4ZkVicmlUMGNFZWNyN1I2MkdueUxTdHNCMHFBajlHTHcyTS1rSw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 10:51 PT · #markets #fed
 - [How high inflation became a 'fact of life' in the U.S.](https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html) — CNBC Top News · 10:20 PT · #markets #fed
 - [U.S. equities trade lower after the latest CPI inflation report](https://seekingalpha.com/news/4652940-us-equities-trade-lower-after-the-latest-cpi-inflation-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 09:57 PT · #markets #fed
 - [3 things that are driving inflation higher](https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories) — MarketWatch Top Stories · 09:50 PT · #markets #fed
@@ -314,10 +326,3 @@ tags: ["project", "fed"]
 - [Jefferson, The U.S. Economy and Monetary Policy](https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm) — Federal Reserve Speeches · 10:30 PT · #politics #fed
 - [Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI](https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm) — Federal Reserve Speeches · 07:00 PT · #politics #ai #fed
 - [Navigating Geoeconomic Risk in the U.S. Stock Market](https://libertystreeteconomics.newyorkfed.org/2026/10/navigating-geoeconomic-risk-in-the-u-s-stock-market/) — NY Fed Liberty Street Economics · 04:00 PT · #markets #fed
-
-## 2026-09-30
-
-- [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html) — CNBC Finance · 16:44 PT · #markets #fed
-- [Cook, The Dual Mandate in Rural America](https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm) — Federal Reserve Speeches · 12:25 PT · #politics #fed
-- [Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm) — Federal Reserve Press · 06:00 PT · #politics #civic #fed
-- [The Role of Repos in Monetary Policy Implementation](https://libertystreeteconomics.newyorkfed.org/2026/09/the-role-of-repos-in-monetary-policy-implementation/) — NY Fed Liberty Street Economics · 04:00 PT · #markets #fed

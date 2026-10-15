@@ -1,19 +1,21 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-14T16:27:38-07:00
-count: 209
+updated: 2026-10-14T18:41:50-07:00
+count: 212
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-209 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+212 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-14
 
+- [Court OKs sale of downtown Las Vegas casino property - CDC Gaming](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFhvV1N4Sk45SnVVMkJPT1ppMGpGMF9hUGFNM0ZZY1l0Uk5JRkpSSG1Xc3h0MTNSc3FmV0d0YzgtS2FCZnpWM0RHSnJPcURXdjZuWmFVRWlqR2g0c3Q2aFJZOWQtVlFFRUtCTFVqa3IzZ2QzZGlvNnMzTzdqaC1TM1JmVXozWmRO?oc=5) — Google News: Las Vegas real estate · 18:08 PT · #business #nevada #realestate
 - [Vote delayed on controversial 61-home development in Las Vegas - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMiggNBVV95cUxNOXdQYnlIdWpmbDY2c19pWVdiY2x2V0xmRUFpYk9vSzBFYTRUSURLMDBKblFtWTBYZENYN1Zha2tmX2xXQ3NaOE5kT0Q3cnRQOVR5VnYyOFBMM0dTaTN3VFRPbGQ0enVyQVVjT0NVTmRmZ2lVc0tRa0VnV0tEajJYWmtDbEdMaThNdndleEdyX0RITWRMUzhFSC1RZlZ4anFPSUQ3VUlWNHdwdEwzLWtDRHBCZ0F2Y3ZrVFFPWkxkVVhPWDQ3ZnlwdldiVlhtb0xEUGlkQ3hodWNUTmhwRVRlZGNpcnlIeHA5ZnpnRC1vNVRMRTR5V2p1cU5TQXg5YmlZVE9IYmlScFBNMXktWEVWUzktenE0U2dzX3FYUXdzZUtVWS0tT0JBVE9EaS1aZm1mUUs5NVAzczlFSXJTNDAydTJIOFBGZ1hRYW1zVFozdnNmdjEyazVoTzlTUXR5eVFSR1hKQmxYc1Bha3kzTHlrWmRPeGMtblhOWERTNjZDeS0zQQ?oc=5) — Google News: Las Vegas real estate · 15:51 PT · #business #nevada #realestate
 - [Appeals court sides with Ginnie Mae in Texas Capital Bank’s reverse mortgage lawsuit](https://www.housingwire.com/articles/fifth-circuit-rules-for-ginnie-mae-in-texas-capital-bank-hmbs-tail-lien-case/) — HousingWire · 15:25 PT · #business #realestate
 - [Blueprint President Martin Kelly to receive RED Awards innovation honor - Inman Real Estate News](https://news.google.com/rss/articles/CBMidkFVX3lxTE11TF9MZ3hMOVk1d3pRUlVHYzh4WXdQcVhrclJwWFNyQ01PcEhjOFZ0ckh1OTZtS3ZZYVBGV01VUkRkRENIekVzOE1YV2ZQSjNQeTlXeVExSzBkakdMRXVtQm5RTDdvR0tqM1ZLeS0yckdoSU8yRmc?oc=5) — Google News: Las Vegas real estate · 14:46 PT · #business #realestate
+- [PVOLVE, Functional Weight Training and Sculpt workout Facility, to Debut in Summerlin - WhatNow](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUg3UkVoSmpTZzAyVmdOc21EUE5KV0s1eFZNbW84VVZIT1pBT0RTajUySk5VUnhvM2FhNDJRMmhyQzU0RkhET0otWWw4RWhPYmFRMkJ6eXlQcElPZHgzWEx0d0Y3bWxFUmFoclhRdEU3d2U5WTkyUGFKRTZZWmhsZzI2MmF2TGdMelAyR3ZQMzBycm5xSE5CbUwwdU5OZDR1M2d2a0dKOHcxRDRpWU1TX2dHTnpLV09IU3JPSHln?oc=5) — Google News: Las Vegas real estate · 14:35 PT · #business #realestate
 - [Plaza Hotel & Casino Adding “Dealertainers” to Its Live Streaming Casino Room - Nevada Business Magazine](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDZ5bmwyamliMHBNNzR2LTFORXlqLWNkQVZ5SjAzbGNDbDNtRkZPSjR0UGpxZWtxdlJTNWdRdnkyeXFmSEYtdXlUX2h0T0FKVFlYd3pSV2lVN3lvOGtPeFNYemgySXN6MjlId093cFNvdGIzdVFnZEFFQ1lqcmUzMzdOcWZJSWl6Xzg5SmdMMTlNT0ZXc3A4R1pBcU5NUURXQXhGUHFlRHN2bXktb0E?oc=5) — Google News: Las Vegas real estate · 14:28 PT · #business #nevada #realestate
 - [Court OKs sale of downtown Las Vegas casino property - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWVLRDVLcGRuMlJtaFNHSk13VlB6QlZRNkNBNGNva0toZVlqOHVhQk5xaEUybHNFVU5NdDNhTmM2TkNVRjVYbGUtV0UtdXVzODZ4X2F5RGJmWmtHblRzelItMVVkVmVOMWNMZDJKMDI4eDQwNktILUM3LU5makhUbTZXNy1iOUZ5bGdwNE9haHoyLXdQQTI2ZFpJcUFNbWxfejgxeURUUDhtdGZDYXFPN3J5S09nZw?oc=5) — Google News: Las Vegas real estate · 14:23 PT · #business #nevada #realestate
 - [GSEs target income and occupancy to cut buyback risk](https://www.housingwire.com/articles/gse-fannie-freddie-tech/) — HousingWire · 14:14 PT · #business #markets #realestate
@@ -41,6 +43,7 @@ tags: ["project", "realestate"]
 - [Will mortgage rates stay above 7% in 2027?](https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories) — MarketWatch Top Stories · 11:01 PT · #markets #realestate
 - [8-K - BBCMS Mortgage Trust 2026-5C43 (0002153909) (Filer)](https://www.sec.gov/Archives/edgar/data/2153909/000153949726002683/0001539497-26-002683-index.htm) — SEC EDGAR 8-K · 10:31 PT · #filings #markets #realestate
 - [Trump campaigns in Arizona and Montana on second day of Western swing to help boost GOP candidates - The Boston Globe](https://news.google.com/rss/articles/CBMihwFBVV95cUxQUlN6dVdmLXEzREM0YVJKWW1SclpWa2QxSWlDbFJTSHRFTWhDdlJ3Qmw3eXFJamtOcWlZVlo4Q2hsN2c1TmJpUWlGcGxOcmN5Wl90RWVPbGd3YUVXb0hkVmExclJkUEEtQk82Um5SazBma0ZmazliSWlEU0EyMjIxSi0ySDNCWTQ?oc=5) — Google News: Las Vegas real estate · 10:25 PT · #business #realestate
+- [Median Home Price By State: How Much Do Houses Cost? - Forbes](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObG9Uc21UdWt5VWZ0Zkd2d0Nhekl6eHhaUEdxZ2FyeFdMYlRZWGZsTzdLWk53VVZNMDFEY2t3V0lOLWRwZWNKd3drQVo3ajV6SXdRVG1iTjVUbGw0T2RPN1VqRWpGNFlzYjlGVUVFdklyQTJ5OUoyLWR3cDNoZjBXZ0FZSlZ2TnJM?oc=5) — Google News: Las Vegas real estate · 10:07 PT · #business #realestate
 - [Fannie Mae sharply raises mortgage rate forecast for 2027](https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html) — CNBC Top News · 09:53 PT · #markets #realestate
 - [CreditSights: Genting Could Sell Miami Real Estate to Fend Off Credit Downgrade - Casino.org](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdjF5ZlBEb2kzaEo1RW5id2kwVERRbHJqb2JiMnl3NHc5MzUwZUtaWUpqdldCeUQtVEEtWFI0eFlFOUhKTnVNZHNCeDR2UnNMbGMzclp0NGFMbXJPUVZjQVRsM0ZvSDlYb3J1eVNPUy15bHNlZXZuQ0xSdkUyV2FSWkl3TUdoTGtLcFZ4Ui1sYTJnbHl0OHV1NkZJa0FIN2F6NlhNR3hPSkVNTzA?oc=5) — Google News: Las Vegas real estate · 09:44 PT · #business #realestate
 - [Gavin Ernstone Shows How The Best Real Estate Agent in The Summit Club Isn't Necessarily the One With the Biggest Sale - finehomesandliving.com](https://news.google.com/rss/articles/CBMikwJBVV95cUxQR1haME1fQzdvUC10R21GRGM3WjJOUTY2eFRmTzNmbmJudE5NZzlBdl9ZWE5rU0pWMS1QUDJueTg5SFVFbGdVZWxkUEdMUmlfZGE1d2ItclUyOEZWLWM2OXgyaVR2YUZRNlNGMXhRbkFmVnZNTWJsTkc4WmpsNUkwaDFjZzFIeDc1QUdpTjRUR0JVMnVSRzdTRGk1ODRkYlh3UE9obGtSOFU2OXNkakNkOV9yOHdVYUFKNnhvaXROaEctRFBYTjdpa0dnc1pNRmdIQ3VFTTZiSVhmSWIzOEpzd3hsdVZzbTl6alJiWWhXWWlTSEJmaU9RYU9oeXIycVdSYS1jWjNBQ2lzYXFLT1dZbUdfZw?oc=5) — Google News: Las Vegas real estate · 09:39 PT · #business #realestate

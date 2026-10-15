@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-14T16:27:38-07:00
+updated: 2026-10-14T18:41:50-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,7 +11,22 @@ tags: ["category", "tech"]
 
 ## 2026-10-14
 
+- [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/) — TechCrunch · 18:01 PT · #tech #ai #smallbiz
+- [Apple Maps Gets a Ticket to Austin for the F1 Grand Prix](https://www.cnet.com/tech/services-and-software/apple-maps-gets-a-ticket-to-austin-for-the-f1-grand-prix/) — CNET · 18:01 PT · #tech
+- [LFM2.5-24B (2B Active): Run It Locally \[2026\] - tech-insider.org](https://news.google.com/rss/articles/CBMibEFVX3lxTE81SWY4QVRweVJ3WUZaVng3V0NtX0xNc2pHZlBNMUd5OUpuWVd4Rm1GMmhUOEpGRzNaWEpUUjdTYXpRR1lqVGthUHowVk5fSVZ0YzFDTE1XaXhvbXZYSjJmVHRJVkFULVhPWFF2NA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 18:00 PT · #tech #ai
+- [Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’](https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/) — TechCrunch · 17:49 PT · #tech
+- [Latest HomePods can output Mac system audio in compatible configurations](https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss) — AppleInsider · 17:45 PT · #tech #ai
+- [Apple iPhone Duo LLM Filing Completed: Apple Intelligence, Tongyi Qianwen & More Featured - 36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GTzJKWjVOUEFXUHpZS1VjZVRfWS12Z1BPb05RN25LUENmcmY0TGJHT0ppQV9wb1g0MFZ2dnBRcklnLV9tQmp1dmY1Uk95enRQQ2Nr?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 17:31 PT · #tech #ai
+- [What Is Equipment Lifecycle Management and Why It Matters?](https://smallbiztrends.com/equipment-lifecycle-management/) — Small Business Trends · 17:31 PT · #tech #markets
+- [Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026](https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/) — TechCrunch · 17:30 PT · #tech #smallbiz
+- [iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch](https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/) — MacRumors · 17:20 PT · #tech #ai
+- [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/) — TechCrunch · 17:00 PT · #tech #ai #media
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) — Hacker News · 16:59 PT · #tech
+- [Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter](https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html) — NYT > Technology · 16:57 PT · #tech #ai
+- [A new model for open source: closed to pull requests, open to remix](https://ghuntley.com/remix/) — Hacker News · 16:40 PT · #tech
+- [7 Essential Best Practices for Data Migration You Must Follow](https://smallbiztrends.com/data-migration-best-practices/) — Small Business Trends · 16:31 PT · #tech
 - [YouTube Rolls Out New Labeling System for AI-Generated Music](https://www.cnet.com/tech/services-and-software/youtube-labels-ai-generated-music/) — CNET · 16:18 PT · #tech #ai
+- [Reese Witherspoon Is Buying Back Hello Sunshine 5 Years After Its $900 Million Deal](https://www.inc.com/liyana-illyas/reese-witherspoon-hello-sunshine-buyback-mediawan/91420036) — Inc.com · 16:17 PT · #tech #smallbiz
 - [OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit](https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/) — 9to5Mac · 16:12 PT · #tech #ai
 - [Apple Maps launches Detailed City Experience in Austin, Texas](https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas/) — 9to5Mac · 16:03 PT · #tech #ai
 - [Apple Maps Detailed City Experience comes to Austin, Texas ahead of F1 Grand Prix](https://appleinsider.com/articles/26/10/14/apple-maps-detailed-city-experience-comes-to-austin-texas-ahead-of-f1-grand-prix?utm_source=rss) — AppleInsider · 16:02 PT · #tech #ai
@@ -42,6 +57,7 @@ tags: ["category", "tech"]
 - [AI Is Making Employees More Productive. New Research Shows Why That Could Be a Problem](https://www.inc.com/marcel-schwantes/ai-is-making-employees-more-productive-new-research-shows-why-that-could-be-a-problem/91419244) — Inc.com · 14:29 PT · #tech #ai
 - [Which Apple Home Devices Get Siri AI, and When](https://www.macrumors.com/2026/10/14/apple-home-devices-siri-ai/) — MacRumors · 14:23 PT · #tech #ai
 - [Iowa, Nebraska and six other states are suing OpenAI for endangering children](https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/) — Engadget - Technology News & Expert Reviews · 14:23 PT · #tech #ai
+- [Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/) — Simon Willison (LLMs) · 14:23 PT · #tech #ai
 - [Bulgin stellt die Hybrid-Steckverbinder der Serie 6000 Buccaneer für Strom- und Signalverbindungen vor](https://www.prnewswire.com/news-releases/bulgin-stellt-die-hybrid-steckverbinder-der-serie-6000-buccaneer-fur-strom--und-signalverbindungen-vor-302909158.html) — PR Newswire Business Tech · 14:21 PT · #tech
 - [72 Million Americans Will See Larger Social Security Checks Next Year. Here’s Your 2027 Raise](https://www.inc.com/sage-swaby/72-million-americans-will-see-larger-social-security-checks-next-year-heres-your-2027-raise/91419762) — Inc.com · 14:20 PT · #tech
 - [9to5Mac Daily: October 14, 2026 – Apple Home Collection, iOS 27.2 beta 4](https://9to5mac.com/2026/10/14/daily-october-14-2026/) — 9to5Mac · 14:17 PT · #tech #ai
@@ -342,6 +358,7 @@ tags: ["category", "tech"]
 - [Could a Chipotle Acquisition Stretch Starbucks Too Thin?](https://www.inc.com/scott-hutcheson/starbucks-chipotle-ambitions-raise-a-bigger-question-about-growth/91418944) — Inc.com · 04:00 PT · #tech #markets
 - [Your AI-Generated Flyers Look Terrible. Here Are 100 Prompts to Fix Them in Seconds](https://www.inc.com/jessica-stillman/your-ai-generated-flyers-look-terrible-here-are-100-prompts-to-fix-them-in-seconds/91417289) — Inc.com · 04:00 PT · #tech #ai
 - [Xi's 'death watch' will become a global spectacle](https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle) — Hacker News · 03:55 PT · #tech
+- [Google Antigravity SDK Adds Local Model Support for Hybrid Agent Orchestration - news.lavx.hu](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEVQODd1eUdGSERwVU9ja29uSkVjdmFSLXV0ek1rV0xnVnhPcUptS2loRk1qT2V5MS16ODRhcjRqbmpwb0ZyOC05RmpyS2k5eEdxY2RTQ1JrbjRUZzlBLTdVc1ZRenBPR3RFaXNqU0hham43NzJWMkpHWVF3V1h5Y3NBaHpKNDVHTldnd3ZWN3FNVGtjOUdrREpxb0EyNFFkODduZXRSX2M3NWM?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 03:51 PT · #tech #ai
 - [A Jailbroken PS5 Got Turned Into a Local AI Server That Can Run A 27B LLM, Smaller Models Can Reach Impressive Speeds Of 124 Tok/s, But There Are Limitations - Wccftech](https://news.google.com/rss/articles/CBMibEFVX3lxTFBSME1kUkt5aU5SVHR5bUdoZGlEVVZ3TmJ1ajBabVQ2czY1QWJ1QU1QT0FzSUVzaElSLWd2aDhOczBTNUFrVmpsRGVUQWhlb3piRTJEU0R6NkNoMnR2ZjlpTmYxVzRJOXpzVEItRtIBckFVX3lxTFBkamxHdlRGY29YYWE2ZzFYOWh2SHNuVDFfeEhYN3FCWVVGMXU0VHg0ekZPNWZjNVpnNkh0ZHR0dHBzWXV6YVVYTm5PclI2eFp6TkV1dnozWkowVFF3T3hOZElNWGtpajRWcjNVb1RGa3hQQQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 03:33 PT · #tech #ai
 - [Trump’s latest attack on James Talarico involves veganism, barbecue and vomiting. Here are the facts.](https://www.poynter.org/fact-checking/2026/trump-james-talarico-vegan-vomiting-claim/) — Poynter · 03:30 PT · #tech #civic #media
 - [JackRabbit MG Cargo Bike Review (2026): Compact and Powerful](https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/) — WIRED · 03:30 PT · #tech
@@ -397,20 +414,3 @@ tags: ["category", "tech"]
 - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260) — Hacker News 200+ · 23:18 PT · #tech
 - [Lawmakers Seek FanDuel VIP Data After Harper Video Concern](https://readwrite.com/fanduel-vip-program-scrutiny/) — ReadWrite · 23:12 PT · #tech
 - [Which Forces Are Shaping Metals X (ASX:MLX) Right Now? - Kalkine Media](https://news.google.com/rss/articles/CBMipAFBVV95cUxQOV81M0RqMXNFakpmVzM5YnRnaWhkQU05WGlkOVVuUHR2RXl4cWJGM0RQaW93RU9LSVhMZTVjQVVsMkxWbVV6SzBQWEk5ZzFxVF9nRUFXb29yejVHMjNPOGV3NmpHaDZOd2NZSFFrcmF3TFl6QWdnQ1lfRmpaOGZ4VU5Lc0ZHRGFnVEVJWU9LTTl2NHF6WUYyQXF3UVY4Ukh6OEtpXw?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 23:10 PT · #tech #ai
-- [Everything Apple announced in under 10 mins - Welcome Home 2026](https://www.youtube.com/watch?v=TD74a5g5rp0) — Linus Tech Tips · 23:07 PT · #tech #ai
-- [I Tried Using AI to Shop for a GPU. Here's What Actually Worked - HackerNoon](https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3lzVGdJcWo5ZURRZE9OaWR3YXFnLXNvalh2LXZ4MWdkUkg2MmhiMHctNWFrcW5HbDVZTkM1QjQtMnBVaUdRdjNSNHBjOUkzenZSMmo1X0VueFZMNFBLUXBjYU92MDN5V2txTU9CTGdwNTJLZDRDclVXM2Z1U0FGMmpDMERhcTVubTFxZA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 23:05 PT · #tech #ai
-- [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html) — Hacker News · 23:02 PT · #tech
-- [Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse](https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866) — Hacker News · 22:53 PT · #tech #ai
-- [NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB Laptop - Tech Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFRBbUY4eXZsUlZPeUR5dFh6bm41NHE1cmZSTGV6UzBxWjdHNmQ1ZmdmLUQ2LVAzbFRJcW1UV1pYaFAxcDhBTW1TMDRmSmxESFpGcVNFa0JJamtrZzE1NzRxcGVsWGJNWmpWVm5VLUdWQURZLXIxZjFaWDVQNkdGc3I5eEpHOWZ3dlVCSWdla3JZSHdWSlBKdzNqTGdLNVNMT18wSEF2ZFptVG1oeWVfWnpRTUFsNXVaNjRXQXZ6Y1NFR2ZvdVI4?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 22:40 PT · #tech #ai
-- [I Tested PI-Desktop 0.16.1 on Linux: Here's What Worked and What Broke - HackerNoon](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUx2ZkpyQjg1QXo5VDdZNzNKdWtPYzlYa2hmcEJBMHNIMDNsc0VMQ0QwRzZwWTdJX3VCNWFPb2hLZW5KT0lOUlI3NXlOaFlsNHN4aXpUSzNtMDdqUUtEX3RvaHdnTGEzclZFb2ZrdVhzbzhia3N0WTVydVVteEl5THdvTEY3bWZhb2I1bTZCMjU1aG8?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 22:20 PT · #tech #ai
-- [RoleFit](https://www.producthunt.com/products/rolefit) — Product Hunt — The best new products, every day · 22:07 PT · #tech
-- [HBO Max Promo Code: 50% Off | October 2026](https://www.wired.com/story/max-promo-code/) — WIRED · 22:00 PT · #tech
-- [Uber Eats Promo Codes: $15 Off│October 2026](https://www.wired.com/story/uber-eats-promo-code/) — WIRED · 22:00 PT · #tech
-- [Peacock Promo Codes: 40% Off October 2026](https://www.wired.com/story/peacock-promo-code/) — WIRED · 22:00 PT · #tech
-- [Dell Coupon Codes: 20% Off for October 2026](https://www.wired.com/story/dell-coupon-code/) — WIRED · 22:00 PT · #tech
-- [Expedia Coupons: 40% Off](https://www.wired.com/story/expedia-coupon/) — WIRED · 22:00 PT · #tech
-- [Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026](https://www.wired.com/story/vimeo-promo-code/) — WIRED · 22:00 PT · #tech
-- [Corsair Discount Code: Up to 50% Off for October 2026](https://www.wired.com/story/corsair-coupon/) — WIRED · 22:00 PT · #tech
-- [Castlery Promo Codes: 15% Off for October 2026](https://www.wired.com/story/castlery-promo-code/) — WIRED · 22:00 PT · #tech
-- [Walgreens Photo Coupons: Up to 70% Off This October](https://www.wired.com/story/walgreens-photo-coupon/) — WIRED · 22:00 PT · #tech
-- [Tuft & Needle Promo Codes: 30% Off | October 2026](https://www.wired.com/story/tuft-and-needle-promo-code/) — WIRED · 22:00 PT · #tech

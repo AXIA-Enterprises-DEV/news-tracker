@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-14T16:27:38-07:00
+updated: 2026-10-14T18:41:50-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,14 @@ tags: ["category", "science"]
 
 ## 2026-10-14
 
+- [Social service agencies need safeguards when using AI](https://phys.org/news/2026-10-social-agencies-safeguards-ai.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science #ai
+- [Why caring about climate change does not always translate into greener holidays](https://phys.org/news/2026-10-climate-greener-holidays.html) — Phys.org - latest science and technology news stories · 18:20 PT · #science
+- [Nepal flood triggered by rock and ice avalanche: Report](https://phys.org/news/2026-10-nepal-triggered-ice-avalanche.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
+- [Can AI feel safer than human advice for consumers who face discrimination?](https://phys.org/news/2026-10-ai-safer-human-advice-consumers.html) — Phys.org - latest science and technology news stories · 17:40 PT · #science #ai
+- [Fair climate transitions need more than financial support, evidence review suggests](https://phys.org/news/2026-10-fair-climate-transitions-financial-evidence.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
+- [Green, pink and purple: Astronomers reveal the surprising true colors of white dwarf stars](https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html) — Phys.org - latest science and technology news stories · 17:10 PT · #science
+- [Researchers in exile thrive in new academic settings when they contribute knowledge, not just receive aid](https://phys.org/news/2026-10-exile-academic-contribute-knowledge-aid.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
+- [One-third of food is lost or wasted: How to help farmers cut postharvest losses](https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Uganda's sugarcane boom leaves families hungry: What needs to change](https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
 - [Fine particles from aircraft exhaust become more harmful over time, lab tests suggest](https://phys.org/news/2026-10-fine-particles-aircraft-exhaust-lab.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
 - [New chip-scale gyroscope measures rotation with unprecedented sensitivity](https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
@@ -418,11 +426,3 @@ tags: ["category", "science"]
 ## 2026-10-09
 
 - [Scientists may have found why diabetic wounds refuse to heal](https://www.sciencedaily.com/releases/2026/10/261006234534.htm) — Latest Science News -- ScienceDaily · 20:00 PT · #science
-- [A famous quantum effect can finally be predicted in real materials](https://www.sciencedaily.com/releases/2026/10/261006234520.htm) — Latest Science News -- ScienceDaily · 18:59 PT · #science
-- [‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release](https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html) — NYT > Science · 13:28 PT · #science #ai
-- [Cancer Vaccines Are the N.I.H.’s Next ‘Big Bet’](https://www.nytimes.com/2026/10/09/science/cancer-vaccines-nih-big-bet.html) — NYT > Science · 13:26 PT · #science
-- [Wavy-shaped homes could limit damage from hurricane winds](https://www.popsci.com/technology/wave-shaped-buildings-hurricane-winds/) — Popular Science · 12:45 PT · #science
-- [I went from Milan to Orlando to learn whether glasses that change your look can change your outlook](https://www.popsci.com/gear/essilorluxottica-fashion-trends-ai-powered-frames-nuance-audio-eye-care-varilux-milan-tour/) — Popular Science · 11:45 PT · #science
-- [A teen used AI to plan a hiking route. It trapped him on a cliff.](https://www.popsci.com/technology/ai-hiking-route-strands-teen/) — Popular Science · 11:43 PT · #science #ai
-- [Scientists discover 5 hidden brain patterns behind depression](https://www.sciencedaily.com/releases/2026/10/261008005251.htm) — Latest Science News -- ScienceDaily · 11:34 PT · #science
-- [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/) — Science Latest · 11:30 PT · #science
