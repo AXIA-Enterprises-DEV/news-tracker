@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $LUMN"
-updated: 2026-10-15T09:53:55-07:00
+updated: 2026-10-15T13:11:32-07:00
 count: 2
 tags: ["ticker", "LUMN"]
 ---

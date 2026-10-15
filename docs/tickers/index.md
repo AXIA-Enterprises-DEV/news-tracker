@@ -1,18 +1,20 @@
 ---
 title: "Tickers"
-updated: 2026-10-15T09:53:55-07:00
-count: 179
+updated: 2026-10-15T13:11:32-07:00
+count: 192
 tags: ["tickers"]
 ---
 
 # Active tickers
 
 - [$NTCT](NTCT.md) — 8 items
+- [$VG](VG.md) — 6 items
 - [$LSCC](LSCC.md) — 6 items
 - [$RMNI](RMNI.md) — 5 items
 - [$III](III.md) — 4 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$ERIC](ERIC.md) — 2 items
 - [$LMT](LMT.md) — 2 items
 - [$LUMN](LUMN.md) — 2 items
 - [$IONQ](IONQ.md) — 2 items
@@ -20,6 +22,18 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$RHI](RHI.md) — 1 items
+- [$SOLV](SOLV.md) — 1 items
+- [$G](G.md) — 1 items
+- [$ARXS](ARXS.md) — 1 items
+- [$FFIN](FFIN.md) — 1 items
+- [$SI](SI.md) — 1 items
+- [$TDC](TDC.md) — 1 items
+- [$QFIN](QFIN.md) — 1 items
+- [$ILLR](ILLR.md) — 1 items
+- [$AVXL](AVXL.md) — 1 items
+- [$GOOGL](GOOGL.md) — 1 items
+- [$HOOD](HOOD.md) — 1 items
 - [$DHX](DHX.md) — 1 items
 - [$IOT](IOT.md) — 1 items
 - [$PCOR](PCOR.md) — 1 items
@@ -35,7 +49,6 @@ tags: ["tickers"]
 - [$PTC](PTC.md) — 1 items
 - [$RTX](RTX.md) — 1 items
 - [$LSPD](LSPD.md) — 1 items
-- [$ERIC](ERIC.md) — 1 items
 - [$VZ](VZ.md) — 1 items
 - [$PLD](PLD.md) — 1 items
 - [$FIS](FIS.md) — 1 items

@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-15T09:53:55-07:00
+updated: 2026-10-15T13:11:32-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,35 @@ tags: ["category", "science"]
 
 ## 2026-10-15
 
+- [North Sea heat wave fueled underwater plankton bloom largely missed by satellites](https://phys.org/news/2026-10-north-sea-fueled-underwater-plankton.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
+- [Six lessons to improve leadership opportunities for women with disability](https://phys.org/news/2026-10-lessons-leadership-opportunities-women-disability.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
+- [Two brain circuits coordinate fruit flies' wing and leg movements to threaten rivals](https://phys.org/news/2026-10-brain-circuits-fruit-flies-wing.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [How did Mars get its moons? Japan's MMX space mission aims to solve the puzzle](https://phys.org/news/2026-10-mars-moons-japan-mmx-space.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [Nanotyrannus named Jodi needs a new home (if you have $9M)](https://www.popsci.com/science/nanotyrannus-auction-jodi/) — Popular Science · 12:28 PT · #science
+- [Researchers find that some weeds get supercharged by an indirect hit of herbicide](https://phys.org/news/2026-10-weeds-supercharged-indirect-herbicide.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [Better together? Coral fusion could throw bleached reefs a lifeline](https://phys.org/news/2026-10-coral-fusion-reefs-lifeline.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [Lion tracks from the ice age: How two ways of seeing brought ancient animals to life](https://phys.org/news/2026-10-lion-tracks-ice-age-ways.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
+- [New DNA sequencing methods detect rare mutations acquired as bodies grow and age](https://phys.org/news/2026-10-dna-sequencing-methods-rare-mutations.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science #markets
+- [How COVID reshaped college grading](https://phys.org/news/2026-10-covid-reshaped-college-grading.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [Nearly 600 California earthquakes help validate models that forecast next-day seismic risk](https://phys.org/news/2026-10-california-earthquakes-validate-day-seismic.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [Super El Niño influencing ‘strange uptick’ in illegal Galápagos iguana trafficking](https://www.popsci.com/environment/super-el-nino-galapagos-iguana-smuggling/) — Popular Science · 11:23 PT · #science
+- [El Niño a 'terrifying' threat to coral reefs: UN biodiversity expert](https://phys.org/news/2026-10-el-nio-threat-coral-reefs.html) — Phys.org - latest science and technology news stories · 11:22 PT · #science
+- [Plants use a molecular measuring tape to tell fungal friend from foe](https://phys.org/news/2026-10-molecular-tape-fungal-friend-foe.html) — Phys.org - latest science and technology news stories · 11:21 PT · #science
+- [Study reveals how young adults' work lives affect their parents' mental health](https://phys.org/news/2026-10-reveals-young-adults-affect-parents.html) — Phys.org - latest science and technology news stories · 11:20 PT · #science
+- [In plants, sense of time is connected with sense of danger](https://phys.org/news/2026-10-danger.html) — Phys.org - latest science and technology news stories · 11:20 PT · #science
+- [Scale of proposed billionaire wealth tax in California](https://flowingdata.com/2026/10/15/california-billionaire-tax/) — FlowingData · 11:12 PT · #science
+- [Global ice-cliff survey tests disputed theory behind projections of accelerated sea level rise](https://phys.org/news/2026-10-global-ice-cliff-survey-disputed.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [I discovered a Roman fort in Wales—it may hold the key to the ancient Welsh legend of Macsen Wledig](https://phys.org/news/2026-10-roman-fort-wales-key-ancient.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Wild birds rewrite rules of flight efficiency: Study reveals power of 'free fuel' from the sky](https://phys.org/news/2026-10-wild-birds-rewrite-flight-efficiency.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [NASA Satellites Observe Historic 2026 El Niño](https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/) — NASA · 10:59 PT · #science
+- [We're surprisingly close to conserving 30% of the world's land](https://phys.org/news/2026-10-world.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
+- [Americans who go to church and trust science are also more likely to believe in ghosts and curses, research shows](https://phys.org/news/2026-10-americans-church-science-ghosts-curses.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
+- [Power Up: Roll Out Solar Arrays Boost Space Station Power Supply](https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/) — NASA · 10:30 PT · #science
+- [India's cobras share genetic ties across the mainland, while Sri Lankan cobras form a distinct genetic lineage](https://phys.org/news/2026-10-india-cobras-genetic-mainland-sri.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
+- [Young voters fear mass shootings but are divided on gun control](https://phys.org/news/2026-10-young-voters-mass-gun.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science #civic
+- [Do you think teachers are similar to coaches, pastors or something else? It depends on where you live](https://phys.org/news/2026-10-teachers-similar-pastors.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
+- [Laser pulses bring order to a quantum material's tiny electrical regions](https://phys.org/news/2026-10-laser-pulses-quantum-material-tiny.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
+- [NASA to Conduct Low-Altitude Flights Over Texas Farmland](https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/) — NASA · 09:42 PT · #science
 - [Palm-leaf manuscripts reveal traces of their preparation through X-rays and machine learning](https://phys.org/news/2026-10-palm-leaf-manuscripts-reveal-rays.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
 - [WHO urges action on lead poisoning dangers](https://phys.org/news/2026-10-urges-action-poisoning-dangers.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
 - [How did early Māori society develop? New research reveals a clearer timeline](https://phys.org/news/2026-10-early-mori-society-reveals-clearer.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
@@ -391,32 +420,3 @@ tags: ["category", "science"]
 - [Physicists discover “astonishing” property of light that defies expectations](https://www.sciencedaily.com/releases/2026/10/261011211615.htm) — Latest Science News -- ScienceDaily · 21:19 PT · #science
 - [APOD: 2026 October 13 – Desert Stairway to Heaven](https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/) — NASA · 21:05 PT · #science
 - [An Impact Structure With Legs](https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/) — NASA · 21:01 PT · #science
-- [Scientists just gave the powerhouses of our cells a high-tech upgrade](https://www.sciencedaily.com/releases/2026/10/261012185008.htm) — Latest Science News -- ScienceDaily · 18:33 PT · #science
-- [The untraceable repercussions of chatbot medical advice errors](https://www.reddit.com/r/science/comments/1x4ji10/the_untraceable_repercussions_of_chatbot_medical/) — Reddit Science · 18:15 PT · #science
-- [After 30 years, scientists finally have a drug for a deadly brain disease](https://www.sciencedaily.com/releases/2026/10/261007042111.htm) — Latest Science News -- ScienceDaily · 17:43 PT · #science
-- [Preserve research data for tomorrow’s AI-enabled integrity checks](https://www.nature.com/articles/d41586-026-03244-3) — Nature · 17:00 PT · #science #ai
-- [Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling](https://www.nature.com/articles/s41586-026-11257-1) — Nature · 17:00 PT · #science
-- [Decentralized AI needs more evidence on energy use](https://www.nature.com/articles/d41586-026-03245-2) — Nature · 17:00 PT · #science #ai
-- [Selective, Catalytic Oxidation of Polyethylene Surfaces](https://www.nature.com/articles/s41586-026-11255-3) — Nature · 17:00 PT · #science
-- [When microbes degrade plastic, where does it go?](https://www.nature.com/articles/d41586-026-03246-1) — Nature · 17:00 PT · #science
-- [A mysterious jelly seems to be left behind by toads](https://www.nature.com/articles/d41586-026-02974-8) — Nature · 17:00 PT · #science
-- [Why not every global problem can be tackled by an IPCC-like organization](https://www.nature.com/articles/d41586-026-03234-5) — Nature · 17:00 PT · #science
-- [Diversify Nobel-prize nominations before it’s too late](https://www.nature.com/articles/d41586-026-03220-x) — Nature · 17:00 PT · #science
-- [Is this idea from AI or humans? A detector claims it can tell](https://www.nature.com/articles/d41586-026-03247-0) — Nature · 17:00 PT · #science #ai
-- [Whistleblowing in universities is ‘extraordinarily risky’: stronger protections are needed](https://www.nature.com/articles/d41586-026-03221-w) — Nature · 17:00 PT · #science
-- [What’s the secret sauce for happy scientists at work? These eight countries offer some clues](https://www.nature.com/articles/d41586-026-03226-5) — Nature · 17:00 PT · #science
-- [Inundated AI conferences impose submissions caps](https://www.nature.com/articles/d41586-026-03153-5) — Nature · 17:00 PT · #science #ai
-- [Admire another researcher’s work? Tell them about it](https://www.nature.com/articles/d41586-026-02668-1) — Nature · 17:00 PT · #science
-- [Author Correction: Parkinson’s disease as a somato-cognitive action network disorder](https://www.nature.com/articles/s41586-026-11246-4) — Nature · 17:00 PT · #science
-- [In the AI era, coding means thinking like a systems architect](https://www.nature.com/articles/d41586-026-02715-x) — Nature · 17:00 PT · #science #ai
-- [Lead-tainted teeth reveal medieval mines’ unequal toll](https://www.nature.com/articles/d41586-026-03236-3) — Nature · 17:00 PT · #science
-- [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://www.nature.com/articles/d41586-026-03252-3) — Nature · 17:00 PT · #science
-- [Daily briefing: What makes a happy scientist at work?](https://www.nature.com/articles/d41586-026-03306-6) — Nature · 17:00 PT · #science #ai
-- [Europe's new Sentinel-3C satellite just sent back spectacular images of Earth](https://www.sciencedaily.com/releases/2026/10/261011211559.htm) — Latest Science News -- ScienceDaily · 16:48 PT · #science
-- [Human teeth pinpoint when lead began poisoning medieval town](https://www.popsci.com/science/teeth-lead-poisoning-medieval-england/) — Popular Science · 16:01 PT · #science
-- [Scientists find a hidden problem with endless smartphone scrolling](https://www.sciencedaily.com/releases/2026/10/261011211611.htm) — Latest Science News -- ScienceDaily · 15:25 PT · #science
-- [Your gut bacteria could be changing how many calories you absorb](https://www.sciencedaily.com/releases/2026/10/261011211613.htm) — Latest Science News -- ScienceDaily · 14:44 PT · #science
-- [Scientists uncover the 2.3-billion-year-old secret that helped keep Earth habitable](https://www.sciencedaily.com/releases/2026/10/261011211602.htm) — Latest Science News -- ScienceDaily · 14:27 PT · #science
-- [Menopause isn't a slow fade, it's a sudden switch: a study of 300 million lab tests from over one million women found bones, liver, kidneys, and blood fats all change abruptly at the final period. Men of the same age show no such jump, and hormone shifts that predict it start up to 15 years earlier.](https://www.reddit.com/r/science/comments/1x4e77n/menopause_isnt_a_slow_fade_its_a_sudden_switch_a/) — Reddit Science · 14:15 PT · #science
-- [Scientists find a surprising genetic twist behind octopus intelligence](https://www.sciencedaily.com/releases/2026/10/261011211552.htm) — Latest Science News -- ScienceDaily · 13:44 PT · #science
-- [The Life Scientific: Edith Heard](http://www.bbc.co.uk/programmes/w3ct8jt1) — Discovery · 13:00 PT · #science

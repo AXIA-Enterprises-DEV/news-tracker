@@ -1,16 +1,37 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-15T09:53:55-07:00
-count: 376
+updated: 2026-10-15T13:11:32-07:00
+count: 397
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-376 most recent items (14-day window).
+397 most recent items (14-day window).
 
 ## 2026-10-15
 
+- [Discount airline Avelo plans additional flights to Dallas area](https://www.reviewjournal.com/business/tourism/discount-airline-avelo-plans-additional-flights-to-dallas-area-3900497/) — Las Vegas Review-Journal · 12:41 PT · #us #nevada
+- [Developing: Homicide investigation in east Las Vegas after person shot near business](https://www.ktnv.com/news/crime/developing-homicide-investigation-in-east-las-vegas-after-person-shot-near-business) — KTNV Las Vegas · 12:41 PT · #us #nevada
+- [New project with 1,000-plus homes to be built in downtown Las Vegas](https://www.reviewjournal.com/business/housing/new-project-with-1000-plus-homes-to-be-built-in-downtown-las-vegas-3900493/) — Las Vegas Review-Journal · 12:37 PT · #us #nevada
+- [Person shot, killed near business in east Las Vegas, police say](https://www.reviewjournal.com/crime/homicides/person-shot-killed-near-business-in-east-las-vegas-police-say-3900489/) — Las Vegas Review-Journal · 12:33 PT · #us #nevada
+- [Head-on crash shuts down intersection at Sahara Avenue and Tenaya Way](https://www.ktnv.com/news/head-on-crash-shuts-down-intersection-at-sahara-avenue-and-tenaya-way) — KTNV Las Vegas · 12:31 PT · #us #nevada
+- [Las Vegas man admits to role in 'fixing' of college basketball games](https://lasvegassun.com/news/2026/oct/15/las-vegas-man-admits-to-role-in-fixing-of-college/) — Las Vegas Sun · 12:17 PT · #us #nevada
+- [Justice Dept. sues California, seeks to stop state from counting 20,000 ballots](https://www.latimes.com/politics/story/2026-10-15/justice-dept-sues-california-asks-court-to-force-state-to-stop-counting-20-000-ballots) — World & Nation · 12:04 PT · #us
+- [Man fatally shot after argument with two others, Las Vegas police say](https://lasvegassun.com/news/2026/oct/15/man-fatally-shot-after-argument-with-two-others-la/) — Las Vegas Sun · 11:29 PT · #us #nevada
+- [What we know about the body found in a barrel at Lake Mead in 2022](https://www.ktnv.com/news/what-we-know-about-the-body-found-in-a-barrel-at-lake-mead-in-2022) — KTNV Las Vegas · 11:28 PT · #us #nevada
+- [Suspect charged in death of man dropped off at hospital with gunshot wounds, Las Vegas police say](https://lasvegassun.com/news/2026/oct/15/suspect-charged-in-death-of-man-dropped-off-at-hos/) — Las Vegas Sun · 11:16 PT · #us #nevada
+- [SWAT standoff in east Las Vegas after knife assault, police say](https://www.ktnv.com/news/swat-standoff-in-east-las-vegas-after-knife-assault-police-say) — KTNV Las Vegas · 11:15 PT · #us #nevada
+- [States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults](https://lasvegassun.com/news/2026/oct/15/states-sue-ai-giant-openai-saying-its-popular-chat/) — Las Vegas Sun · 11:06 PT · #us #ai #nevada
+- [College football Friday predictions: Expect Purdue to keep rolling](https://www.reviewjournal.com/sports/betting/college-football-friday-predictions-expect-purdue-to-keep-rolling-3900473/) — Las Vegas Review-Journal · 10:54 PT · #us #nevada
+- [Suspect in fatal shooting outside central Las Vegas Valley business arrested](https://www.reviewjournal.com/crime/homicides/suspect-in-fatal-shooting-outside-central-las-vegas-valley-business-arrested-3900470/) — Las Vegas Review-Journal · 10:52 PT · #us #nevada
+- [Betting: Will the NFL underdogs get enough points to make a play?](https://www.reviewjournal.com/sports/betting/betting-will-the-nfl-underdogs-get-enough-points-to-make-a-play-3900466/) — Las Vegas Review-Journal · 10:46 PT · #us #nevada
+- [Henderson SUV driver killed in single-vehicle crash](https://www.reviewjournal.com/local/henderson/henderson-suv-driver-killed-in-single-vehicle-crash-3900463/) — Las Vegas Review-Journal · 10:45 PT · #us #nevada
+- [In 100th lawsuit against Trump, California challenges immigration arrests near courthouses](https://www.latimes.com/politics/story/2026-10-15/california-files-100th-lawsuit-against-trump-administration) — World & Nation · 10:41 PT · #us
+- [College football prediction trends: Edges go to Ohio State, Tennessee](https://www.reviewjournal.com/sports/betting/college-football-prediction-trends-edges-go-to-ohio-state-tennessee-3900460/) — Las Vegas Review-Journal · 10:37 PT · #us #nevada
+- [Las Vegas police plan to release identity of man found in a barrel in Lake Mead](https://lasvegassun.com/news/2026/oct/15/las-vegas-police-plan-to-release-the-id-of-a-man-f/) — Las Vegas Sun · 10:25 PT · #us #nevada
+- [Where to vote: Midterm election voting sites in Southern Nevada](https://lasvegassun.com/news/2026/oct/15/where-to-vote-midterm-election-voting-sites-in-sou/) — Las Vegas Sun · 10:11 PT · #us #civic #nevada
+- [BBC asks judge to force Trump to sit for deposition in his own lawsuit against the channel](https://www.reviewjournal.com/news/politics-and-government/bbc-asks-judge-to-force-trump-to-sit-for-deposition-in-his-own-lawsuit-against-the-channel-3900446/) — Las Vegas Review-Journal · 09:52 PT · #us #nevada
 - [Man caught with more than 700 pounds of illicit narcotics in rural Nevada, authorities say](https://www.reviewjournal.com/crime/man-caught-with-more-than-700-pounds-of-illicit-narcotics-in-rural-nevada-authorities-say-3900441/) — Las Vegas Review-Journal · 09:31 PT · #us #nevada
 - [What’s next for Las Vegas? Paul Steelman is looking beyond gambling](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/whats-next-for-las-vegas-paul-steelman-is-looking-beyond-gambling-3900425/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
 - [Congo protests Formula 1's 'indefensible' decision to race in Rwanda](https://lasvegassun.com/news/2026/oct/15/congo-protests-formula-1s-indefensible-decision-to/) — Las Vegas Sun · 08:55 PT · #us #nevada

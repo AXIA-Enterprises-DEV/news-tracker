@@ -1,20 +1,28 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-15T09:53:55-07:00
-count: 346
+updated: 2026-10-15T13:11:32-07:00
+count: 355
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-346 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+355 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-15
 
+- [U.S. equities finished in the green after the latest PPI inflation report landed](https://seekingalpha.com/news/4653581-us-equities-finished-in-the-green-after-the-latest-ppi-inflation-report-landed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets #fed
+- [Dow climbs 500 points as investors shake off a tech sell-off, more hot inflation data: Live updates - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5) — Top stories - Google News · 13:01 PT · #world #ai #fed #markets
+- [Diesel’s surge is starting to push other prices around. Here’s how](https://www.investing.com/news/economic-indicators/diesels-surge-is-starting-to-push-other-prices-around-heres-how-4952484) — Investing.com Economic Indicators · 12:12 PT · #markets #fed
+- [US producer prices post largest gain in 4-1/2 years; expensive gasoline boosts retail sales - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjd2SV90YWRKSHlQTTNockxKdmJiNjU5Mzl1a0x0ZlY3LVBHUFVJak5KTGc3eXF3TlpMX191MHROd2VtTkZSYzBzXzdTNktPcTlMZDdDX1NuQmVZYjFtT3RmQlhCUG1TeTBTRGFVN3phM2lHQUgyOU04TVBrMjQ1YU8xQnp4VVNtMDhzR04zNWdvRk9fc09oelNDVjM?oc=5) — Top stories - Google News · 10:28 PT · #world #fed #oil
+- [Did mortgage rates just peak or is this some bond market madness?](https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/) — HousingWire · 10:24 PT · #business #fed #oil #realestate
+- [Bitcoin Price Rebounds Above $82K After Brief Dip Below $80K](https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-above-82k-after-brief-dip-below-80k/) — Bitcoin News · 10:10 PT · #markets #fed
 - [Uncertainty grows on Main Street as labor quality, inflation top small business concerns in September: NFIB survey - ROI-NJ](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVEFoZ2NQdDNGOHF1YmhaV1dmdi1vZHRVYTUzX3lkU2dpc3lvNk5xVWxSckg3YUxSMnIxTEFpZ3Uzc3VxWGpWRkZWbGVSNkFvTGhRZFdEcWtmYUZLVU1TZ1RBNlhaUWdIS3lQUlhTbG1zbkNlUlR1c09tWWtWbjcwTUNmZjUyU1pua1dlanFMcWFTRzJqdVMwVXhycFBqMFJmSFhaalhKY3BPTmFUbDJJaXBnRVJCNUZYdGFHN21NMHRiOXBUMHhqeWFKZDBEMkpubkh1Uk8wTnFwYWJERVQ0cGtrMVNuNHRndnJfMw?oc=5) — Google News: small business owners · 09:18 PT · #business #fed #smallbiz
 - [Treasury yields slide as investors flee to safety of bonds amid tech rout](https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html) — CNBC Top News · 09:14 PT · #markets #fed
+- [Tech sell-off rolls on as hot inflation data stokes rate worries - The Korea Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkdtT2RiTk54T2VxbFF1NUtOYVBBbGFsX1FqRXJoZjdIdWN4R0VqNnJjcFdqUmpNYnlRZ0JVSFUwU21KZG1xVVl1ZDBIQW5ZLVpFTW5YNkNEdFVVQmVodHN2RHlFNmtxMEtkcFhYbDZfLUhIRkI3aVBKZHdfMTFtVTlCYUVFTjc3ZDBEdDg5Z25EOTJfLThRQUhpbXBkYkotU1VYZGZOQTFsUWVP0gGyAUFVX3lxTE5GU3pZeWNYSzgxbVFULWhMbG94THd5Y3dnQlZEMG5HV1dLTE1WdmREbXNQMElsTnZPckUtTFBxbnp5azhHWDFhckx1Y1B5a3pGdDh5UEhKcm4zdGNsR0UydTJPLTE5QXpJcndYU1VTckRIWERWX2FiaGMxcGluOUxYRlN3aXU3aHZFMHZRVkNOLWljMVlGWHpNS1lBazNiS2RNQjFWQzNUZWhxXzVzZTc0MWc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 09:03 PT · #markets #fed
 - [Crude oil inventories show significant decline, surpassing expectations](https://www.investing.com/news/economic-indicators/crude-oil-inventories-show-significant-decline-surpassing-expectations-93CH-4952332) — Investing.com Economic Indicators · 09:02 PT · #markets #fed #oil
 - [IEA to speed up oil stocks release including over 20 million barrels of diesel](https://www.investing.com/news/economic-indicators/iea-to-speed-up-oil-stocks-release-including-over-20-million-barrels-of-diesel-4952328) — Investing.com Economic Indicators · 09:01 PT · #markets #fed #oil
+- [Economists: Hot PPI shows Fed's work is not done](https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html) — CNBC Top News · 08:37 PT · #markets #fed
 - [Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.](https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories) — MarketWatch Top Stories · 08:21 PT · #markets #ai #fed
 - [Bitcoin slips under $80K after US PPI gains most in four years](https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 08:10 PT · #markets #fed
 - [US holiday sales growth to speed up as shoppers stay resilient, NRF forecasts](https://www.investing.com/news/economic-indicators/us-holiday-sales-growth-to-speed-up-as-shoppers-stay-resilientnrf-forecasts-4952241) — Investing.com Economic Indicators · 08:06 PT · #markets #fed
@@ -189,6 +197,7 @@ tags: ["project", "fed"]
 - [XRP Price Prediction: Ripple Makes XRPL Payments Easier With Privy](https://cryptonews.com/news/xrp-price-prediction-privy/) — News - Cryptonews · 00:08 PT · #markets #fed
 - [Spain inflation rises to 5.0% in September](https://www.investing.com/news/economic-indicators/spain-inflation-rises-to-50-in-september-93CH-4948194) — Investing.com Economic Indicators · 00:08 PT · #markets #fed
 - [Bitcoin Dominance on the Rise as Altcoins Retreat Ahead of CPI: Market Watch](https://cryptopotato.com/bitcoin-dominance-on-the-rise-as-altcoins-retreat-ahead-of-cpi-market-watch/) — CryptoPotato · 00:05 PT · #markets #fed
+- [Heathcote named a fellow of the Econometric Society - Federal Reserve Bank of Minneapolis](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2pjUEJaZTdBTjByeENsbW00NDdUaUYtb18taV9leTNFTE5ydF9XSTdZYWJKVUlrWWFDSTUtZzVoOFFQLWc4bEZ2NFVoaldEendZSjZzbHl3NWZHaERkUXNabzdwMXZxM2NzeUY1SHkwek5zdGlOSTVTdUN0YXBYWVVCN2MwMmNoSTRBcEpkMXBHMjU0UXRGUWd1RFhUUzJuU0ZN?oc=5) — Google News: fedgazette OR "Minneapolis Fed" · 00:00 PT · #markets #fed
 
 ## 2026-10-13
 

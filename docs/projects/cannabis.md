@@ -1,16 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-15T09:53:55-07:00
-count: 70
+updated: 2026-10-15T13:11:32-07:00
+count: 73
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-70 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+73 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-15
 
+- [First Time Shopping At A Dispensary? 7 Things To Know Before You Go](https://www.forbes.com/sites/petersu/2026/10/15/first-time-shopping-at-a-dispensary-7-things-to-know-before-you-go/) — Forbes - Business · 10:59 PT · #business #cannabis
+- [Marijuana Businesses Fighting To Ban Hemp THC Products Are Being Short-Sighted (Op-Ed)](https://www.marijuanamoment.net/marijuana-businesses-fighting-to-ban-hemp-thc-products-are-being-short-sighted-op-ed/) — Marijuana Moment · 10:08 PT · #business #cannabis
 - [Marijuana rescheduling opponents ask judge for additional briefings](https://seekingalpha.com/news/4653520-marijuana-rescheduling-opponents-ask-judge-additional-briefings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 09:44 PT · #markets #cannabis
 - [Marijuana Is A Popular Tool For People Trying To Quit Smoking Cigarettes, Rivaling Prescription Nicotine Cessation Medications, Study Shows](https://www.marijuanamoment.net/marijuana-is-a-popular-tool-for-people-trying-to-quit-smoking-cigarettes-rivaling-prescription-nicotine-cessation-medications-study-shows/) — Marijuana Moment · 08:57 PT · #business #cannabis
 - [Police Would Rather Deal With People High On Marijuana Than Drunk On Alcohol, Iowa Governor Candidate Says](https://www.marijuanamoment.net/police-would-rather-deal-with-people-high-on-marijuana-than-drunk-on-alcohol-iowa-governor-candidate-says/) — Marijuana Moment · 07:24 PT · #business #cannabis
@@ -20,6 +22,7 @@ tags: ["project", "cannabis"]
 - [Tropicana Cookies Strain Guide Compares Generations and Names - FinancialContent](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXZFZ2x6ck5wTk5pTVVkbzdpMU5MaUhJQkJVZEFvUnI3WlhzWDVab0RTcUc4RVN0R2JpR1Ntd3ZzaG9TaHh2VWRkZ01VcXByVzkteE1VZDNtbjNrdi10S1Z6cXJDRk1CSDNtU1dXT1NQRUVETUdVcVhWbVBiRGg3UVVhOFNURlkyUDd6UUpDeHVYZUdXQmlISGlwMEd0SC1XcTRoTW1lVTVZdFduZFdsaHh6QzE3SFlYVXJRMUdXaGc?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:00 PT · #business #cannabis
 - [New York cannabis founder on entering the industry in 2026: ‘Don’t do it’](https://mjbizdaily.com/news/new-york-cannabis-founder-on-entering-the-industry-in-2026-dont-do-it/618636/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
 - [DEA ordered to reply to cannabis opponents’ push for more rescheduling testimony (Newsletter: October 15, 2026)](https://www.marijuanamoment.net/dea-ordered-to-reply-to-cannabis-opponents-push-for-more-rescheduling-testimony-newsletter-october-15-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis
+- [Hemp can be a winner for KY. But it needs legislative stability. - News From The States](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTNGeEpqZEM1M2drQ3U0dFE2LXpLSVJGR2V2dW9xNXltTTN6cEVULVB2ODhqOTlEUEpDbVZiRjduWWl6MWxTQ2Rwb1B5cHM1aUkzbi0wckpEenFXTDdFYWtzTTI1S1gwNGtaaXR0aFVoaHRvT1djc3c5ME9aNkFuLW9hbjJocE9XUGVtcUZHRmlIaXlLbE95YjFn?oc=5) — Google News: Nevada legislature · 02:30 PT · #politics #cannabis #nevada
 - [Brick Introduces Marijuana Dispensary Legalization In 6-1 Vote - Shorebeat](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXA2MTZBWmZ5b21tUUNlNFNCUWlxRmMtVjJGWjRuaTl1eDJHTmVMVm9yTmhLY0RzOFFsZ1NFcWdHN3lZbmp2VW9NczNmTzl4cC13Q0VRSTFLZXFxRFFCLWNlb2xGMG1WM2N3ZkdWLUw1eHJ6S29CXzV1cWw0Mlk2c0puZzkxRk54RkdUcnZTdG53eUk3UXcxek1iWE9SQnph?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 02:23 PT · #business #cannabis
 
 ## 2026-10-14
