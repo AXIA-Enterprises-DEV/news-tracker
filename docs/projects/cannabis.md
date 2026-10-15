@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-14T18:41:50-07:00
-count: 59
+updated: 2026-10-14T23:31:46-07:00
+count: 60
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-59 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+60 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-14
 
+- [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - Digital Journal](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzcwYU9uVnk0NXdfZ1hQQW9IWm0yWmQ4RXV2anNZNWZQSUFjN3E1QndEbDFFbm8wNWJhMlEzTlhmbDc5SXpBV2ZnaHFTRFNmdFFpYmEyRUNfbWlYOERtNE1tQ0w1dkRMTVlvVDNFZzlUSlNnaklLalZpb3RVRVZRRzhQcW9BajVwMDc0YlN6akdvajIxNW1oY1ZQWU00RXdwb0U4ZUQyMFp2dkRxUFNR?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 21:00 PT · #business #cannabis
 - [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - Big News Network.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXhxUVptcU5VR1JfUFc2TTdsb1gtSVVWLWh6NHZreTM4bUx0ZHhrRHRxMnY0djhWRWpVS0ZvZmFpNlgxcE5UNF9wY21idE9ubWU3b1gzQklnRWJab2l2aUJJd0xwYk9aVmwxVU1tUGExYW1PaGtXZGVhYzgwTGcyZmZxVloxTHVNM2Y2b01ILXhjeGl3a3RpdHJ1WjNTaW81OWxHSl9sZ3AxeVdzMnB0Xw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:39 PT · #business #cannabis
 - [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd3ZHeHlwbU9TbF96Y054NWVldWx6NzVCMV9ueXc1elNWWDdrUjNTODFZeUt2a3hNb1dMZ1Fvb0RsdDhjNDM5Zl9fdWo0eEdqWm8yd0N0TVZaMl9uY0g1dnM4bDB4Y1A2SmRoangtb2FkWDR0RklzaElJR3p0NENvVmVKRFVubW1RamRQa2Nvc3ZRUjE4SWk0SWtfZnZOQmxXblNtaFBPR0NKZE5ld0I3RkctV2J3YmswZVk1MkpxbEVHdmd2Q0NrTnVRTkVBclc5TEwyb3hHazk4XzcyNUZOTDRmNnk5LXpqeDA4eWJB?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:32 PT · #business #cannabis
 - [Nebraska MMJ growers harvest first crops with no path to market](https://mjbizdaily.com/news/nebraska-mmj-growers-harvest-first-crops-with-no-path-to-market/618627/) — MJBizDaily · 15:55 PT · #business #cannabis #smallbiz

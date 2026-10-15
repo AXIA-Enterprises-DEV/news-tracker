@@ -1,16 +1,21 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-14T18:41:50-07:00
-count: 212
+updated: 2026-10-14T23:31:46-07:00
+count: 218
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-212 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+218 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-14
 
+- [Fitch reaffirms Sirius Real Estate BBB rating with stable outlook](https://www.investing.com/news/company-news/fitch-reaffirms-sirius-real-estate-bbb-rating-with-stable-outlook-93CH-4950611) — All News · 23:16 PT · #business #realestate
+- [9580 Tolland Rd, Las Vegas, NV 89178 - Realtor.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQYklxREZYVmZzZFRQQmxZT0RwbWlrekhHQzEzUlI2dzEzUllyVjZtWkNvaTlUNmNWUDNFS2o5RzZxdzhnenA0QWR0TGhTcW1EQjlZNGJLU2xxZl9uMFpLeUZpeEY2TWZ0R2VaS2M3Y0o5dVZzMEtWalR3dllOdV9VejY0dy0wV3ZoMy1mNDczWXQ?oc=5) — Google News: Las Vegas real estate · 22:08 PT · #business #nevada #realestate
+- [UK households have paid extra £13,961 on bills since 2021 amid soaring inflation, TUC says](https://www.theguardian.com/business/2026/oct/15/uk-households-extra-bills-inflation-tuc) — Guardian World · 22:00 PT · #world #civic #fed #realestate
+- [EQT to acquire Stockbridge, accelerating EQT Real Estate's evolution into a thematically diversified platform](https://www.prnewswire.com/news-releases/eqt-to-acquire-stockbridge-accelerating-eqt-real-estates-evolution-into-a-thematically-diversified-platform-302909464.html) — PR Newswire General Business · 21:29 PT · #business #markets #realestate
+- [A Look Inside Michael Jackson’s Las Vegas Luxury Estate Listed At $12.5 Million - Outlook Luxe](https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUlLYjRMTmFVSTM5b2duNUo1QVlEX0hlcWdzcnJ5XzdfcjFibW5kaWY2bGxqdUdIZ0Y4UFZ2UUxmc245b0p3bXNGRVdkbDlaRVFPYWdjVk8wLWNTR0ZaSExJMlcyby1rZ3Z5QjFuZ3NMd2RuZWcwcTVIcHhlYURnZDAwYzhLMndncjcxWTJfOVpONG9OQUdVUElqa0NEQ2dWa3VQbnVxcXdiNDRMakd3Y0pOTU9TcjRNSjJBa1Bxd25lcXM3VHFrNWVB0gHXAUFVX3lxTE8tMWRBaUQ5TnVWYVI3YTJ6dEppdEM3djYtbmpzWFdoSm9iblVvNldNcE4xazNmOXZiX2NqU0xOWHlSVW5vRFlUM29oNElzTGtvXzVYODM5VjRJNHhzN3UwZ0wtRGhrTjlWVm5YcnVvUHR2MjBlNEM2QzB5Vm5ncW9iSzdhRW55cnh3VWN4cDk4QnRIUnFwMnFYTDZaUmUzQUJuYlZMalhiSTc2VXhOMVBaTVhkNlRtVXVfVEhUWWdYOXBubE1Zb0kxXzlWV0Mxd2hROEU4LXRF?oc=5) — Google News: Las Vegas real estate · 18:30 PT · #business #nevada #realestate
 - [Court OKs sale of downtown Las Vegas casino property - CDC Gaming](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFhvV1N4Sk45SnVVMkJPT1ppMGpGMF9hUGFNM0ZZY1l0Uk5JRkpSSG1Xc3h0MTNSc3FmV0d0YzgtS2FCZnpWM0RHSnJPcURXdjZuWmFVRWlqR2g0c3Q2aFJZOWQtVlFFRUtCTFVqa3IzZ2QzZGlvNnMzTzdqaC1TM1JmVXozWmRO?oc=5) — Google News: Las Vegas real estate · 18:08 PT · #business #nevada #realestate
 - [Vote delayed on controversial 61-home development in Las Vegas - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMiggNBVV95cUxNOXdQYnlIdWpmbDY2c19pWVdiY2x2V0xmRUFpYk9vSzBFYTRUSURLMDBKblFtWTBYZENYN1Zha2tmX2xXQ3NaOE5kT0Q3cnRQOVR5VnYyOFBMM0dTaTN3VFRPbGQ0enVyQVVjT0NVTmRmZ2lVc0tRa0VnV0tEajJYWmtDbEdMaThNdndleEdyX0RITWRMUzhFSC1RZlZ4anFPSUQ3VUlWNHdwdEwzLWtDRHBCZ0F2Y3ZrVFFPWkxkVVhPWDQ3ZnlwdldiVlhtb0xEUGlkQ3hodWNUTmhwRVRlZGNpcnlIeHA5ZnpnRC1vNVRMRTR5V2p1cU5TQXg5YmlZVE9IYmlScFBNMXktWEVWUzktenE0U2dzX3FYUXdzZUtVWS0tT0JBVE9EaS1aZm1mUUs5NVAzczlFSXJTNDAydTJIOFBGZ1hRYW1zVFozdnNmdjEyazVoTzlTUXR5eVFSR1hKQmxYc1Bha3kzTHlrWmRPeGMtblhOWERTNjZDeS0zQQ?oc=5) — Google News: Las Vegas real estate · 15:51 PT · #business #nevada #realestate
 - [Appeals court sides with Ginnie Mae in Texas Capital Bank’s reverse mortgage lawsuit](https://www.housingwire.com/articles/fifth-circuit-rules-for-ginnie-mae-in-texas-capital-bank-hmbs-tail-lien-case/) — HousingWire · 15:25 PT · #business #realestate
@@ -165,6 +170,7 @@ tags: ["project", "realestate"]
 - [Fed Interest Rate Predictions for the Next 5 Years: 2026–2031 - Norada Real Estate Investments](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 00:26 PT · #markets #fed #realestate
 - [Rent Payment Credit Score Changes Arrive in 2027: What First-Time Buyers Need to Know](https://www.moneyunder30.com/rent-payment-credit-score-2027/) — Money Under 30 · 00:24 PT · #markets #realestate
 - [11226 Corsica Mist Ave, Las Vegas, NV 89135 - Realtor.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmdlbUQxTy1JY3Q5UHpTcTdVLWFRdlJaLVUwQlV4eE9wZ2llYUkyUnR0WS1iTElGYkxYRlgxUk1ONTc0clhtS1pDUVNfdEMtTXRVWEM4X3ZFSlFzQXhtZGwtWGVhOGduRkZqd0pNdDhLWUY3YXFHUnRWQ0xzclNSNGdkOGhNSWVmNlJja3ZfYU9HaFMzODFsNUV3?oc=5) — Google News: Las Vegas real estate · 00:05 PT · #business #nevada #realestate
+- [Toya Simon - Nevada Business Magazine](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVdKYW9VSHEwZ1Jia2VYRDZzREVDR0xUWDFZcTFmSWk0RVZDNVdTRTNuaGRNZnZBSkVxSTdCaWN6WnNEbWh2Qm80ek92cHVyTER6SVkwOFJkSDZkZV9YU2xOeF9NTmd5RXJoVWRkRUpCa2NvaUlES0VkX3AzbTRidkdhUWdkQ1BGRG91cFd5NWdYR1hVRnlUZEh5WXJFcEZMZHJ4cA?oc=5) — Google News: Las Vegas real estate · 00:00 PT · #business #nevada #realestate
 
 ## 2026-10-12
 

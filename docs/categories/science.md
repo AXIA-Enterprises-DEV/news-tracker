@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-14T18:41:50-07:00
+updated: 2026-10-14T23:31:46-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,22 +11,36 @@ tags: ["category", "science"]
 
 ## 2026-10-14
 
+- [The First Britons - Tim Minchin, Prof Chris Stringer and Dr Selina Brace](http://www.bbc.co.uk/programmes/m0032r4k) — The Infinite Monkey Cage · 23:00 PT · #science
+- [Ozempic and Wegovy linked to rare risk of sudden vision loss](https://www.sciencedaily.com/releases/2026/10/261014015521.htm) — Latest Science News -- ScienceDaily · 21:14 PT · #science
+- [APOD: 2026 October 15 – The Milky Way over Manhattan](https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/) — NASA · 21:05 PT · #science
+- [Fires Arrive in the Amazon Rainforest](https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/) — NASA · 21:01 PT · #science
+- [Consumers need clearer answers before they can trust precision fermentation, new report finds](https://phys.org/news/2026-10-consumers-clearer-precision-fermentation.html) — Phys.org - latest science and technology news stories · 20:40 PT · #science
+- [Episode 619 - Sarah Morgan](https://probablyscience.libsyn.com/episode-619-sarah-morgan) — Probably Science · 20:33 PT · #science
+- [Report identifies investment priorities for low-emissions agriculture](https://phys.org/news/2026-10-investment-priorities-emissions-agriculture.html) — Phys.org - latest science and technology news stories · 20:00 PT · #science
+- [Now you see them: Researchers uncover patterns in vessels that vanish at sea](https://phys.org/news/2026-10-uncover-patterns-vessels-sea.html) — Phys.org - latest science and technology news stories · 19:40 PT · #science
+- [Scientists alarmed as super El Niño collides with 'strange uptick' in Galapagos iguana trafficking](https://phys.org/news/2026-10-scientists-alarmed-super-el-nio.html) — Phys.org - latest science and technology news stories · 19:20 PT · #science
+- [Climate adaptation's delivery gap: Turning national plans into action](https://phys.org/news/2026-10-climate-delivery-gap-national-action.html) — Phys.org - latest science and technology news stories · 19:00 PT · #science
 - [Social service agencies need safeguards when using AI](https://phys.org/news/2026-10-social-agencies-safeguards-ai.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science #ai
 - [Why caring about climate change does not always translate into greener holidays](https://phys.org/news/2026-10-climate-greener-holidays.html) — Phys.org - latest science and technology news stories · 18:20 PT · #science
 - [Nepal flood triggered by rock and ice avalanche: Report](https://phys.org/news/2026-10-nepal-triggered-ice-avalanche.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
 - [Can AI feel safer than human advice for consumers who face discrimination?](https://phys.org/news/2026-10-ai-safer-human-advice-consumers.html) — Phys.org - latest science and technology news stories · 17:40 PT · #science #ai
+- [A 47-year study reveals the age when your body starts losing strength](https://www.sciencedaily.com/releases/2026/10/261014000912.htm) — Latest Science News -- ScienceDaily · 17:28 PT · #science
 - [Fair climate transitions need more than financial support, evidence review suggests](https://phys.org/news/2026-10-fair-climate-transitions-financial-evidence.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
 - [Green, pink and purple: Astronomers reveal the surprising true colors of white dwarf stars](https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html) — Phys.org - latest science and technology news stories · 17:10 PT · #science
 - [Researchers in exile thrive in new academic settings when they contribute knowledge, not just receive aid](https://phys.org/news/2026-10-exile-academic-contribute-knowledge-aid.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
 - [One-third of food is lost or wasted: How to help farmers cut postharvest losses](https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years](https://www.sciencedaily.com/releases/2026/10/261013015807.htm) — Latest Science News -- ScienceDaily · 16:34 PT · #science
 - [Uganda's sugarcane boom leaves families hungry: What needs to change](https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
 - [Fine particles from aircraft exhaust become more harmful over time, lab tests suggest](https://phys.org/news/2026-10-fine-particles-aircraft-exhaust-lab.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
 - [New chip-scale gyroscope measures rotation with unprecedented sensitivity](https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
 - [A trip to Mars could come at a heartbreaking cost](https://phys.org/news/2026-10-mars-heartbreaking.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [A forgotten fossil reveals a fearsome dinosaur with giant claws](https://www.sciencedaily.com/releases/2026/10/261014015457.htm) — Latest Science News -- ScienceDaily · 15:51 PT · #science
 - [Urbanization takes a bigger toll on bird diversity in the tropics than it does at other latitudes, study finds](https://phys.org/news/2026-10-urbanization-bigger-toll-bird-diversity.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
 - [When parents don't see eye to eye: Are differences in parenting styles a bad thing?](https://phys.org/news/2026-10-parents-dont-eye-differences-parenting.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
 - [Waste plastics become molecular sponges that capture water from air](https://phys.org/news/2026-10-plastics-molecular-sponges-capture-air.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
 - [Spawning coral release quintillions of eggs each year, new calculations suggest](https://phys.org/news/2026-10-spawning-coral-quintillions-eggs-year.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [Cancer is rising in younger adults, and scientists can't fully explain why](https://www.sciencedaily.com/releases/2026/10/261013015837.htm) — Latest Science News -- ScienceDaily · 15:03 PT · #science
 - [Genome publishing overhaul targets 200 reports per month, up from 30](https://phys.org/news/2026-10-genome-publishing-overhaul-month.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
 - [A single carbon atom stitches flat molecules into 3D structures](https://phys.org/news/2026-10-carbon-atom-flat-molecules-3d.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
 - [How E. coli eavesdrops on the metabolic activity of other gut bacteria](https://phys.org/news/2026-10-coli-eavesdrops-metabolic-gut-bacteria.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
@@ -409,20 +423,3 @@ tags: ["category", "science"]
 - [Scientists build a nuclear clock that could make atomic clocks obsolete](https://www.sciencedaily.com/releases/2026/10/261008102701.htm) — Latest Science News -- ScienceDaily · 20:06 PT · #science
 - [A plastic once thought harmless may be fueling fatty liver disease](https://www.sciencedaily.com/releases/2026/10/261008102718.htm) — Latest Science News -- ScienceDaily · 17:47 PT · #science
 - [Neanderthals may have used prehistoric glue as an ancient antibiotic](https://www.sciencedaily.com/releases/2026/10/261008005256.htm) — Latest Science News -- ScienceDaily · 17:45 PT · #science
-- [Scientists created a tiny device that can control your nerves to treat chronic pain](https://www.sciencedaily.com/releases/2026/10/261008005253.htm) — Latest Science News -- ScienceDaily · 17:23 PT · #science
-- [A surprisingly simple way to relieve knee arthritis pain without pills or surgery](https://www.sciencedaily.com/releases/2026/10/261009025434.htm) — Latest Science News -- ScienceDaily · 17:00 PT · #science
-- [Skies across the UK illuminated by the northern lights](https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights) — Space | The Guardian · 15:30 PT · #science
-- [Scientists may have found a shortcut to fusion energy](https://www.sciencedaily.com/releases/2026/10/261008005242.htm) — Latest Science News -- ScienceDaily · 11:57 PT · #science
-- [Loneliness may steal nearly 6 years of good health](https://www.sciencedaily.com/releases/2026/10/261006234514.htm) — Latest Science News -- ScienceDaily · 11:57 PT · #science
-- [MIT astronomers catch a star in a feast that could last billions of years](https://www.sciencedaily.com/releases/2026/10/261008005240.htm) — Latest Science News -- ScienceDaily · 11:56 PT · #science
-- [Bowel cancer “melted away” after immunotherapy, then stayed away](https://www.sciencedaily.com/releases/2026/10/261007042115.htm) — Latest Science News -- ScienceDaily · 11:42 PT · #science
-- [The 2026 Bentley Supersports is what happens when you combine luxury with on-track performance](https://www.popsci.com/technology/2026-bentley-motors-supersports/) — Popular Science · 10:00 PT · #science
-- [The Underappreciated Benefits of Leaving Fallen Leaves Alone](https://www.nytimes.com/2026/10/10/science/fallen-leaves.html) — NYT > Science · 07:20 PT · #science #realestate
-- [NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium](https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/) — NASA · 07:18 PT · #science
-- [Rare ‘pumpkin spice’ baby sea turtle spotted in Florida](https://www.popsci.com/environment/pumpkin-spice-baby-turtle-florida/) — Popular Science · 07:10 PT · #science
-- [How to tell if someone is wearing smart glasses near you](https://www.popsci.com/diy/how-to-avoid-unwanted-smart-glasses-surveillance-ray-ban-meta-tech-tips/) — Popular Science · 05:00 PT · #science
-- [Mathematician Who Waited 50 Years for Proper Credit for Her Work Has Died](https://www.nytimes.com/2026/10/10/science/mary-tsingou-menzel-dead.html) — NYT > Science · 02:00 PT · #science
-
-## 2026-10-09
-
-- [Scientists may have found why diabetic wounds refuse to heal](https://www.sciencedaily.com/releases/2026/10/261006234534.htm) — Latest Science News -- ScienceDaily · 20:00 PT · #science

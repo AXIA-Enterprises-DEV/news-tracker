@@ -1,17 +1,21 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-14T18:41:50-07:00
-count: 189
+updated: 2026-10-14T23:31:46-07:00
+count: 193
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-189 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+193 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-14
 
+- [Propaganda for the Kremlin from Germany? What is known ᐉ News from Fakti.bg - Opinions - Fakti.bg](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjFJbHByTi1INFRFMkZUbnNKdHRBYmNZdEl3NjU5U0t4QWdTZWFsdVhsSTktaWNVV1dLd2NuNHBCVS1WdVVwVXpNWml3U0EzY09IeGtsSWlTMWxHREpDeG04dy1vdExuSXVfMV9sWkpSakd6T2dLY0kwY2RYSmFGdnpHVTFsUU9VQzJqMkhueEtRdm1PaGtv?oc=5) — Google News: propaganda OR disinformation media · 20:32 PT · #world #media
+- [North Korea tests two submarine-launched missiles, state media reports](https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss) — Al Jazeera · 20:23 PT · #world #foreign #media
+- [North Korea and China open new bridge after 12-year delay - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HWEd5VU9mVlpobVFOQXRDWlZ6Y3B4VmsxdTlJV1BBcW9lMGgwbmJ0YXBCdGlJX1BuYzJTdmhLUFJlX3BESmZ0TlNKZ3pvaTAwdDQ5TEtvMHJOSnM?oc=5) — Top stories - Google News · 19:59 PT · #world #foreign #media
 - [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/) — TechCrunch · 17:00 PT · #tech #ai #media
+- [EEA Certifies Climate Data; AI Disinformation Beats It in Distribution Every Time - Tech Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDhuS2xSeVUyWFdQbE1la250aExZTmFTVHlrd2R3eFJPcVA5c1FpaFp6MUd1YzUzTkVSN2d1VHZ2Um9Ja1oxaGsyajFLNE9wN0VpaDNZWnhPdE9ZQ2RtTHlXaXh1TmpHVGJWZ2p3Wmxnb0s0cmR2Q3gyQkFXVllyM2J5UDhHMUFTUXF5NFRJOXJiaUE2TE5uRTJqSnR3c0c5OHZrNHNERVhPeG1EYjUyVkVCR016b284UW9aZFdsY0VkOHVwZ09LTXVRcWI?oc=5) — Google News: propaganda OR disinformation media · 16:48 PT · #world #ai #media
 - [Joint statement by Azerbaijan’s Media and Broadcasting Council and Ministry of Health - Azərtac](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGNvQUdkNG0wN2cwTlNBckdQbmdXODY0SzhGQnBGcktqOGJmUlhTR05abTdLcXJkekJvRUpjUUdzUk5xUDdsTnY0VFltbHRQQjFOMlZfbTVMdXpLS2wyeU9IT2MzeV92bmtCZE5pbXBLaDYxRWZQTmhrTTdxRjF6a2EtQUVHLTVTcmtpNVU2OWE5M2NiaXgzVEtwOWdkWkhJTEhsNzJPT3h1ZkdQdVRoS1hzVGJHQW9Oc0RldQ?oc=5) — Google News: propaganda OR disinformation media · 14:44 PT · #world #media
 - [OpenAI Disrupts Iranian Operation Using AI to Impersonate Journalists, Spread Disinformation - Le·gal In·sur·rec·tion](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGZ3aVV1UTF3ZS1lRUZieEd0NklSLWdzZnpialRUZ2dndzFqMGVFYmFwR2ZCRTluQzc2bDV3RzZ5bWVJOU1rbFpaeG9fNm5HN3UtdW5lX2xwN3V1eDBtT0hmc0ZOcjFGamhOR0xUUDk2ZmM2YUNENnExVDNxOHRtN0tCTUNMaDZoV3ZWLWdNcjg1ZEZKNG42SFltNnNFOGg4VUF1WkEyckFSeWJxSW9tUWdyLTZpMk13TkZ1MnByUXJVQThSdlp4aVJhNG5HcHPSAc8BQVVfeXFMTkhmd2lVdVExd2UtZUVGYnhHdDZJUi1nc2Z6YmpUVGdnZ3cxajBlRWJhcEdmQkU5bkM3Nmw1d0c2eW1lSTlNa2xaWnhvXzZuRzd1LXVuZV9scDd1dXgwbU9IZnNGTnIxRmpoTkdMVFA5NmZjNmFDRDZxMVQzcTh0bTdLQk1DTGg2aFd2Vi1nTXI4NWRGSjRuNkhZbTZzRThoOFVBdVpBMnJBUnlicUlvbVFnci02aTJNd05GdTJwclFyVUE4UnZaeGlSYTRuR3Bz?oc=5) — Google News: propaganda OR disinformation media · 14:00 PT · #world #ai #media
 - [Fact-Checking Senate Debates in Georgia, Maine and Michigan](https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html) — NYT Politics · 13:06 PT · #politics #civic #media

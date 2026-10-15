@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-14T18:41:50-07:00
-count: 154
+updated: 2026-10-14T23:31:46-07:00
+count: 155
 tags: ["tickers"]
 ---
 
@@ -14,7 +14,9 @@ tags: ["tickers"]
 - [$VEEV](VEEV.md) — 3 items
 - [$C](C.md) — 2 items
 - [$STM](STM.md) — 2 items
+- [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$YSG](YSG.md) — 1 items
 - [$XRPN](XRPN.md) — 1 items
 - [$NCPL](NCPL.md) — 1 items
 - [$ENSG](ENSG.md) — 1 items
@@ -58,7 +60,6 @@ tags: ["tickers"]
 - [$HRTX](HRTX.md) — 1 items
 - [$HSAI](HSAI.md) — 1 items
 - [$DASH](DASH.md) — 1 items
-- [$BSP](BSP.md) — 1 items
 - [$AVAV](AVAV.md) — 1 items
 - [$STLA](STLA.md) — 1 items
 - [$KNSL](KNSL.md) — 1 items

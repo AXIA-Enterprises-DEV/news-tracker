@@ -1,16 +1,37 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-14T18:41:50-07:00
-count: 317
+updated: 2026-10-14T23:31:46-07:00
+count: 338
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-317 most recent items (14-day window).
+338 most recent items (14-day window).
 
 ## 2026-10-14
 
+- [1 man dead near Sunrise Manor, Las Vegas police say](https://www.reviewjournal.com/crime/homicides/1-man-dead-near-sunrise-manor-las-vegas-police-say-3900270/) — Las Vegas Review-Journal · 22:40 PT · #us #nevada
+- [A little bipartisan bromance as Schwarzenegger, Newsom laud California's climate-change wins](https://www.latimes.com/california/story/2026-10-14/little-bipartisan-bromance-as-schwarzenegger-newsom-laud-californias-climate-change-wins) — World & Nation · 22:32 PT · #us
+- [Police investigate homicide on Owens Avenue in east Las Vegas](https://www.ktnv.com/news/crime/police-investigate-homicide-on-owens-avenue-in-east-las-vegas) — KTNV Las Vegas · 22:02 PT · #us #nevada
+- [Wednesday’s Nevada Preps scoreboard](https://www.reviewjournal.com/nevada-preps/wednesdays-nevada-preps-scoreboard-3900264/) — Las Vegas Review-Journal · 21:54 PT · #us #nevada
+- [First Friday in downtown Las Vegas paused after fatal shooting](https://lasvegassun.com/news/2026/oct/14/first-friday-in-downtown-las-vegas-paused-after-fa/) — Las Vegas Sun · 21:36 PT · #us #nevada
+- [Henderson mayor touts milestones in State of the City address](https://www.reviewjournal.com/local/henderson/henderson-mayor-touts-milestones-in-state-of-the-city-address-3900243/) — Las Vegas Review-Journal · 21:11 PT · #us #nevada
+- [Clark County issues air quality dust advisory for Thursday; what to know](https://www.ktnv.com/news/clark-county-issues-air-quality-dust-advisory-for-thursday-what-to-know) — KTNV Las Vegas · 21:04 PT · #us #nevada
+- [CARTOONS: The monsters of Halloween](https://www.reviewjournal.com/opinion/drawing-board/cartoons-the-monsters-of-halloween-3900232/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: Voting intelligently](https://www.reviewjournal.com/opinion/letters/letter-voting-intelligently-3900229/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: Democrats and ‘affordability’](https://www.reviewjournal.com/opinion/letters/letter-democrats-and-affordability-3900226/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [CARTOON: Going to extremes](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-going-to-extremes-3900223/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [COMMENTARY: The many ways AI is good for workers](https://www.reviewjournal.com/opinion/commentary-the-many-ways-ai-is-good-for-workers-3900220/) — Las Vegas Review-Journal · 21:00 PT · #us #ai #nevada
+- [EDITORIAL: Recommendations in five more Assembly races](https://www.reviewjournal.com/opinion/rj-endorses-2026/editorial-recommendations-in-five-more-assembly-races-3900217/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Strong winds trigger dust advisory for Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/strong-winds-trigger-dust-advisory-for-las-vegas-valley-3900214/) — Las Vegas Review-Journal · 20:45 PT · #us #nevada
+- [TikTok star arrested after Roomba vacuum dispute in Las Vegas](https://www.reviewjournal.com/crime/tiktok-star-arrested-after-roomba-vacuum-dispute-in-las-vegas-3900201/) — Las Vegas Review-Journal · 19:50 PT · #us #nevada
+- [Las Vegas man sentenced to 5 years in prison for arson at Tesla collision center](https://www.ktnv.com/news/crime/las-vegas-man-sentenced-to-5-years-in-prison-for-arson-at-tesla-collision-center) — KTNV Las Vegas · 19:47 PT · #us #nevada
+- [‘It wasn’t just some prank’: Prosecutors make their pitch as flamingo cruelty trial begins](https://www.reviewjournal.com/crime/courts/it-wasnt-just-some-prank-prosecutors-make-their-pitch-as-flamingo-cruelty-trial-begins-3900194/) — Las Vegas Review-Journal · 19:35 PT · #us #nevada
+- [Boulder City wins 3rd straight Class 3A girls golf state title](https://www.reviewjournal.com/nevada-preps/boulder-city-wins-3rd-straight-class-3a-girls-golf-state-title-3900169/) — Las Vegas Review-Journal · 18:43 PT · #us #golf #nevada
+- [Nye County manager reinstates sheriff’s access to police databases](https://www.reviewjournal.com/news/politics-and-government/nye-county-manager-reinstates-sheriffs-access-to-police-databases-3900165/) — Las Vegas Review-Journal · 18:37 PT · #us #nevada
+- [Raiders minority owner Durban joins Walton Laurie NBA expansion bid, report says](https://www.reviewjournal.com/sports/nba/raiders-minority-owner-durban-joins-walton-laurie-nba-bid-expansion-report-says-3900158/) — Las Vegas Review-Journal · 18:29 PT · #us #nevada
+- [First Friday on hold after fatal shooting](https://www.reviewjournal.com/local/local-las-vegas/first-friday-puts-las-vegas-event-on-pause-after-fatal-shooting-3900154/) — Las Vegas Review-Journal · 18:29 PT · #us #nevada
 - [UNLV’s Andre Porter is building his own legacy while following father’s footsteps](https://www.reviewjournal.com/sports/unlv/unlv-football/unlvs-andre-porter-is-building-his-own-legacy-while-following-fathers-footsteps-3900129/) — Las Vegas Review-Journal · 18:20 PT · #us #nevada
 - [Henderson mayor unveils homeless transition housing, affordable plans at state of the city address](https://www.ktnv.com/neighborhoods/henderson/henderson-mayor-unveils-homeless-transition-housing-affordable-plans-at-state-of-the-city-address) — KTNV Las Vegas · 18:13 PT · #us #nevada
 - [Trump parades new Air Force One during Arizona rally — PHOTOS](https://www.reviewjournal.com/news/nation-and-world/trump-parades-new-air-force-one-during-arizona-rally-photos-3900111/) — Las Vegas Review-Journal · 18:11 PT · #us #nevada

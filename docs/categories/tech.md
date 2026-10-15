@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-14T18:41:50-07:00
+updated: 2026-10-14T23:31:46-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,6 +11,26 @@ tags: ["category", "tech"]
 
 ## 2026-10-14
 
+- [Jev and other decision models can still be tricked with prompt injection](https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184) — www.theregister.com - Articles · 23:28 PT · #tech
+- [AI Questions Put Massachusetts Sportsbooks Under Review](https://readwrite.com/sportsbook-ai-marketing/) — ReadWrite · 23:24 PT · #tech #ai
+- [Sports Contracts Face Nevada Challenge Over CFTC Treatment](https://readwrite.com/prediction-markets-cftc-nevada/) — ReadWrite · 23:22 PT · #tech #nevada
+- [Hacksaw Targets Operators With Peer-to-Peer Prediction Markets](https://readwrite.com/prediction-markets-hacksaw-platform/) — ReadWrite · 23:12 PT · #tech
+- [EQT AB (publ) Q3 Announcement 2026](https://www.prnewswire.com/news-releases/eqt-ab-publ-q3-announcement-2026-302909521.html) — PR Newswire Business Tech · 22:27 PT · #tech
+- [Nedap's total revenue up 7% with growth in key markets of 9% in the third quarter of 2026](https://www.prnewswire.com/news-releases/nedaps-total-revenue-up-7-with-growth-in-key-markets-of-9-in-the-third-quarter-of-2026-302908259.html) — PR Newswire Business Tech · 22:00 PT · #tech
+- [Lenovo Coupon Codes: 15% Off in October 2026](https://www.wired.com/story/lenovo-coupon-code/) — WIRED · 22:00 PT · #tech
+- [Walmart Promo Codes: 20% Off for October 2026](https://www.wired.com/story/top-walmart-promo-codes/) — WIRED · 22:00 PT · #tech
+- [Hotels.com Coupon Codes for October 2026](https://www.wired.com/story/hotels-com-coupon/) — WIRED · 22:00 PT · #tech
+- [ABT Promo Codes & Discounts for October 2026](https://www.wired.com/story/abt-promo-code/) — WIRED · 22:00 PT · #tech
+- [Groupon Promo Codes: 60% Off in October 2026](https://www.wired.com/story/groupon-promo-code/) — WIRED · 22:00 PT · #tech
+- [Design Within Reach Promo Codes: 30% Off | October 2026](https://www.wired.com/story/design-within-reach-promo-code/) — WIRED · 22:00 PT · #tech
+- [Ancestry Coupons│50% Off│October 2026](https://www.wired.com/story/ancestry-coupon-codes/) — WIRED · 22:00 PT · #tech
+- [Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/) — TechCrunch · 21:30 PT · #tech
+- [Show HN: Flipflop, iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop) — Hacker News · 21:25 PT · #tech
+- [An Apology](https://www.elevationlab.com/blogs/news/an-apology) — Hacker News · 21:23 PT · #tech
+- [Warren Buffett, Jeff Bezos, and the Digital Tracks You Probably Forgot You Left](https://www.inc.com/bill-murphy-jr/warren-buffett-jeff-bezos-and-the-digital-tracks-you-probably-forgot-you-left/91420300) — Inc.com · 21:01 PT · #tech
+- [How to stop strangers from getting a clear look at your house in Apple Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-stop-strangers-from-getting-a-clear-look-at-your-house-in-apple-maps?utm_source=rss) — AppleInsider · 19:56 PT · #tech #ai
+- [Navigating Employee Terminations: A Step-by-Step Guide](https://smallbiztrends.com/employee-terminations/) — Small Business Trends · 19:31 PT · #tech
+- [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/) — Hacker News · 19:06 PT · #tech
 - [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/) — TechCrunch · 18:01 PT · #tech #ai #smallbiz
 - [Apple Maps Gets a Ticket to Austin for the F1 Grand Prix](https://www.cnet.com/tech/services-and-software/apple-maps-gets-a-ticket-to-austin-for-the-f1-grand-prix/) — CNET · 18:01 PT · #tech
 - [LFM2.5-24B (2B Active): Run It Locally \[2026\] - tech-insider.org](https://news.google.com/rss/articles/CBMibEFVX3lxTE81SWY4QVRweVJ3WUZaVng3V0NtX0xNc2pHZlBNMUd5OUpuWVd4Rm1GMmhUOEpGRzNaWEpUUjdTYXpRR1lqVGthUHowVk5fSVZ0YzFDTE1XaXhvbXZYSjJmVHRJVkFULVhPWFF2NA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 18:00 PT · #tech #ai
@@ -84,6 +104,7 @@ tags: ["category", "tech"]
 - [The ‘Bots Are Gone’ Mystery May Not Be About Russia—If You’re a Threads User](https://www.inc.com/sage-swaby/the-bots-are-gone-mystery-may-not-be-about-russia-if-youre-a-threads-user/91419008) — Inc.com · 13:43 PT · #tech #foreign
 - [The RealReal Announces Timing of Its Third Quarter 2026 Earnings Conference Call](https://www.prnewswire.com/news-releases/the-realreal-announces-timing-of-its-third-quarter-2026-earnings-conference-call-302909122.html) — PR Newswire Business Tech · 13:38 PT · #tech #markets $REAL
 - [iOS 27 adds brand new widgets for your iPhone’s Home Screen](https://9to5mac.com/2026/10/14/ios-27-adds-brand-new-widgets-for-your-iphones-home-screen/) — 9to5Mac · 13:36 PT · #tech #ai
+- [Apple’s Minions: 4-Part System Pools Idle Mac GPUs \[2026\] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMicEFVX3lxTE82ZEpvbVNfc1dnQzVfazdFRk5SWUVOWU1vTUhvdV9rSF8wd0d2aWRRTXIteEF0cGM1TUN3bnh1UDlpSEhXWDk5S2d5a2poQ2JpV3RNQTY4dGVNWEdOcnFabkFZMkc0bzBpX0tkaUVudGU?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 13:35 PT · #tech #ai
 - [Alvarium Files for Chapter 11 Bankruptcy, Joining a Wave of Distressed Craft Breweries](https://www.inc.com/lucia-auerbach/alvarium-beer-company-chapter-11-bankruptcy/91419736) — Inc.com · 13:31 PT · #tech
 - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/) — Hacker News · 13:30 PT · #tech #ai
 - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/) — Hacker News · 13:29 PT · #tech
@@ -128,6 +149,7 @@ tags: ["category", "tech"]
 - [PetSmart Is Closing Locations in 2026: See Updated List of Doomed Stores](https://www.inc.com/amaya-nichole/petsmart-closing-locations-2026-list-doomed-stores/91418137) — Inc.com · 12:03 PT · #tech
 - [Hiyd is a health tracker that attaches to the watch you already wear](https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/) — TechCrunch · 12:00 PT · #tech
 - [Disney Cut Its Own Logo in Half and Got Praise. Why Other Brands Face Massive Backlash for Far Less](https://www.inc.com/temilola-agbede/disney-logo-redesign-marketing-strategy/91419707) — Inc.com · 12:00 PT · #tech
+- [Ohio Sets Oct. 16 Deadline for Robinhood Sports Contracts](https://readwrite.com/robinhood-event-contracts-ohio/) — ReadWrite · 12:00 PT · #tech
 - [OpenAI Says Ex-Employee Showed Its Device Plans to Apple](https://www.macrumors.com/2026/10/14/openai-apple-potential-counterclaim/) — MacRumors · 11:55 PT · #tech #ai
 - [Now that Character.AI is going bankrupt, what happens to all of its users’ data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy) — The Verge · 11:47 PT · #tech #ai
 - [Your Business Name Isn’t Nearly as Important as You Think](https://www.inc.com/dan-furman/business-name-importance-branding-apple-amazon-nike-walmart/91419344) — Inc.com · 11:45 PT · #tech
@@ -386,31 +408,6 @@ tags: ["category", "tech"]
 - [Men Can’t Stop Faking How Much They Know About AI](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/) — WIRED · 02:30 PT · #tech #ai
 - [17 organizations using AI to accelerate scientific breakthroughs](https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/) — The Keyword · 02:30 PT · #tech #ai
 - [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) — Hacker News · 02:28 PT · #tech
+- [Microsoft Azure Moves 45% of AI Incidents Off LLM Reasoning; Four Layers Cut Per-Incident Cost 70% - Tech Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQamtpTGxUeGIzVnRELUUtLThQNE5Vb3pCcDJyckdIYUtYdGZCVDl2ZkJPa1J2TjlieDhaQ2VhdnhpSG9HMFdaMm1IWFc5VWlIalpFd1AyOUROVURtRVdvN1laLWpiakVLRk5ibFZfbUdiQlhUcjhsZmRucU16MDJIUUNMdmFrTFJrN2M5enNza3JkZ05QZFpqUk5pbVc4dGUzQlV1d2xDcWZvbTM0ZVZ0d0RHWDRRM1VRbnBKNHVZSUJMaXdDUU40T25EanBzUVhXVjRpN3Z5QVpMSmNkX0phag?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 02:16 PT · #tech #ai
 - [Cat-Like Whiskers Help Tiny Drones Fly in the Dark](https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/) — WIRED · 02:15 PT · #tech
 - [Tesla’s Roadster 2 Is Late—and Entering a Different EV World](https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world/) — WIRED · 02:15 PT · #tech
-- [22 People Got Together For a Dinner Party. So Did Their A.I. Agents.](https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html) — NYT > Technology · 02:01 PT · #tech #ai
-- [Newsroom Profile: Black Indy LIVE](https://www.poynter.org/reporting-editing/2026/newsroom-profile-black-indy-live/) — Poynter · 02:00 PT · #tech #media
-- [AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity](https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/) — WIRED · 02:00 PT · #tech #ai
-- [Wall Street Just Can’t Stop Selling Leverage](https://www.inc.com/phil-rosen/wall-street-stock-market-outlook-leverage-ai-anthropic-etfs/91418825) — Inc.com · 02:00 PT · #tech #markets
-- [The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue](https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856) — www.theregister.com - Articles · 02:00 PT · #tech #ai
-- [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/) — Hacker News · 01:49 PT · #tech
-- [Apple Minions turns unused Macs into an AI cloud - Techzine Global](https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3BhQ3Blc1kzTTJGaG9MMUQ2YmhnUmFSZ1haVlg2Y251MjhuUWE4andTWkpSQ2R3cUpaU2h5OThPNWlxRFlOaGZiN3pVQzZ3TkZHdi1TWThmVGo4Um9XaTlxQlFjY21tTGpqRUpBSlVreFgwelRwU2RtOEVpTjlJRjRJekkwc3c4VEhjbjhDOHh3TTFYZl80UFFieXBGNlZLa0E?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:36 PT · #tech #ai
-- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/) — Hacker News 200+ · 01:27 PT · #tech
-- [UK government chases AI while aging IT leaves it exposed, PAC chair warns](https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674) — www.theregister.com - Articles · 01:15 PT · #tech #ai
-- [Self-host a local AI stack and access it from anywhere - HackerNoon](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRV9YOTVIMzYwTm5YdWdGejlzajRCampCc3RyR3Y2TWZlaHZjSWI1SDB5LUc0NHd4bzBHUDVHYmJiaklHYjBMbHNjN2lmQ18wa3A3aDB5amhTdnFRLUlra1QxWDlrTXJTR0ZCclBWSTBobE96bjktZ1ZzRkUzaFhYeDVpOA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:06 PT · #tech #ai
-- [A jailbroken PlayStation 5 is now running a 27 billion parameter AI model - Startup Fortune](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ01ZbTlQbl81SGI0cVFDZmtYNDM2TkF2VzhyOHRxbjNRa0VtX1FMVVp0TFpFdTdZNko1YjFMaEJzVVpORGpwN0RmY256Umx2ZlFSenRjWmNpbDJoaGpoS2lOd2IzUGx3cnRXRE9ZVnc0SXI5NElHUHQxZW13aVhaUWlfMEFQY3VvVXhtTGs1V3JQbGJvQTZXODRBVkI0NkJuXy1V?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:00 PT · #tech #ai #smallbiz
-- [We’re powering European scientific discovery with advanced AI compute and frontier models.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/) — The Keyword · 01:00 PT · #tech #ai
-- [Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents - MarkTechPost](https://news.google.com/rss/articles/CBMic0FVX3lxTE42UTBvLWtDMW9GVEJkSmtWbUM1c2RTUDFfTl9MOWtzcy13dy1wdlBYUFdjRU9ialA3SVhUX29iN0xxZDhwYWFCVHhyTG9rZzBTZ0VXbU5nUWNRVXRLZ2Y3a0g0Zkl0NDdpZUhQVUUteGZSR0XSAXNBVV95cUxONlEwby1rQzFvRlRCZEprVm1DNXNkU1AxX05fTDlrc3Mtd3ctcHZQWFBXY0VPYmpQN0lYVF9vYjdMcWQ4cGFhQlR4ckxva2cwU2dFV21OZ1FjUVV0S2dmN2tINGZJdDQ3aWVIUFVFLXhmUkdF?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 00:50 PT · #tech #ai
-- [It won't kill you, or humanity, to get off the AI upgrade treadmill](https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778) — www.theregister.com - Articles · 00:30 PT · #tech #ai
-- ['LFM2.5-24B-A2B' has been released, offering higher performance than Gemma 4 26B-A4B and Qwen3.6 35B-A3B, and demonstrating its capabilities as a local agent. - GIGAZINE](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rbF9yWnJIYWpDSVVDWWdCY3M3d290ZnNYLVUtMHpRanAtSE1fRWpiU1BJUS1QdmFrSjdPcGdrSGVvXzVTUnNMWTdOYmZSYlBYTHVPY3YxMmM1VEtlZXhkRGhuZDFmU0NL?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 00:30 PT · #tech #ai
-- [Drowning in slop - Sam Freedman | Substack](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsZTNHNnZaNU1sWnVCbHR0M0JsYXQ4U2JqczZzS19LUDNvN0wwYVFnWjZFblNiaW5uNUdUVDliTHhVY3Brd3dfYkdRUGlhbUU1X0kycVNGTQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 00:24 PT · #tech #ai
-- [Enabling an AI-first European economy](https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/) — The Keyword · 00:00 PT · #tech #ai
-- [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research) — OpenAI News · 00:00 PT · #tech #ai
-- [How Block is building AI-powered security with OpenAI technology](https://openai.com/index/block-ai-powered-security) — OpenAI News · 00:00 PT · #tech #ai
-
-## 2026-10-13
-
-- [When LLM Gateways Go Wrong: Findings from LiteLLM - Check Point Research](https://news.google.com/rss/articles/CBMijwFBVV95cUxOcV9xWnhiZXFzMWc2RVN3NXpIbTNiWWZ2LUEyZ1A0QkpPRXcwYTZFYWZaeDUxLWxUNVhROEFVbnFvMXVXRzhBYV9hSF9lamxodWNLSmR1MFpJdnpFUTZ1UmpTa0xsVEhYNVNMaGM2eEZ1Q0VQTU9mTWZyWGpQTXRoR0FUWG9hTUFxbXJ6Mnc1NA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 23:38 PT · #tech #ai
-- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260) — Hacker News 200+ · 23:18 PT · #tech
-- [Lawmakers Seek FanDuel VIP Data After Harper Video Concern](https://readwrite.com/fanduel-vip-program-scrutiny/) — ReadWrite · 23:12 PT · #tech
-- [Which Forces Are Shaping Metals X (ASX:MLX) Right Now? - Kalkine Media](https://news.google.com/rss/articles/CBMipAFBVV95cUxQOV81M0RqMXNFakpmVzM5YnRnaWhkQU05WGlkOVVuUHR2RXl4cWJGM0RQaW93RU9LSVhMZTVjQVVsMkxWbVV6SzBQWEk5ZzFxVF9nRUFXb29yejVHMjNPOGV3NmpHaDZOd2NZSFFrcmF3TFl6QWdnQ1lfRmpaOGZ4VU5Lc0ZHRGFnVEVJWU9LTTl2NHF6WUYyQXF3UVY4Ukh6OEtpXw?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 23:10 PT · #tech #ai
