@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-15T05:04:39-07:00
+updated: 2026-10-15T09:53:55-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,13 +11,52 @@ tags: ["category", "science"]
 
 ## 2026-10-15
 
+- [Palm-leaf manuscripts reveal traces of their preparation through X-rays and machine learning](https://phys.org/news/2026-10-palm-leaf-manuscripts-reveal-rays.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
+- [WHO urges action on lead poisoning dangers](https://phys.org/news/2026-10-urges-action-poisoning-dangers.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
+- [How did early Māori society develop? New research reveals a clearer timeline](https://phys.org/news/2026-10-early-mori-society-reveals-clearer.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
+- [Chandra breaks down 'Treble Clef's' galaxy cluster collision](https://phys.org/news/2026-10-chandra-treble-clef-galaxy-cluster.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
+- [NASA Welcomes All Ages, Experience Levels for Space Apps Challenge](https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/) — NASA · 09:13 PT · #science
+- [AI helps detect media bias, informing voters and news consumers](https://phys.org/news/2026-10-ai-media-bias-voters-news.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science #ai
+- [Mass shooting survivors' memories are full of sensory detail, both positive and negative](https://phys.org/news/2026-10-mass-survivors-memories-full-sensory.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
+- [Sony wants to DAP up your digital audio with the Walkman Signature Series](https://www.popsci.com/gear/sony-dap-digital-audio-players-zx900-wm1am3-wm1zm3-walkman-signature-series-product-news/) — Popular Science · 09:00 PT · #science
+- [NASA Awards Enable Research, Technology to Build Future Workforce](https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/) — NASA · 08:57 PT · #science
+- [Why are pets scared of fireworks?](https://phys.org/news/2026-10-pets-fireworks.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
+- [Quantum calculations reveal how spin defects lose energy](https://phys.org/news/2026-10-quantum-reveal-defects-energy.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
+- [Solving the mystery behind a flightless beetle's transatlantic journey](https://phys.org/news/2026-10-mystery-flightless-beetle-transatlantic-journey.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
+- [Two decades of publications reveal research institutions becoming more alike worldwide](https://phys.org/news/2026-10-decades-reveal-alike-worldwide.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
+- [Fatal Neanderthal wound may be earliest evidence of a wooden spear attack on a human ancestor](https://phys.org/news/2026-10-fatal-neanderthal-wound-earliest-evidence.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
+- [Scorecard: Colombia gets top marks while high-emitting countries doing too little to protect health from climate change](https://phys.org/news/2026-10-scorecard-colombia-high-emitting-countries.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #foreign
+- [75,000 years ago, this Neanderthal was stabbed with a spear](https://www.popsci.com/science/oldest-neanderthal-spear-death/) — Popular Science · 08:00 PT · #science
+- [Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance](https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/) — NASA · 07:57 PT · #science
+- [Scientific expertise does not guarantee greater credibility in public debates, survey suggests](https://phys.org/news/2026-10-scientific-expertise-greater-credibility-debates.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
+- [Astronomers discover first green star and the reddest star ever recorded](https://www.popsci.com/science/first-green-star-reddest-star/) — Popular Science · 07:26 PT · #science
+- [New smart patch could help detect and treat blood clots after spinal surgery](https://phys.org/news/2026-10-smart-patch-blood-clots-spinal.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
+- [Fossil footprints reveal how dinosaur ancestors gradually shifted from sprawling to upright walking](https://phys.org/news/2026-10-fossil-footprints-reveal-dinosaur-ancestors.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
+- [Chandra Finds Possible Origin of ‘Treble Clef’ Waves](https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/) — NASA · 07:19 PT · #science
+- [✚ Getting to know a dataset](https://flowingdata.com/2026/10/15/process-410-know/) — FlowingData · 07:07 PT · #science
+- [Drowned 5,000-year-old forests reborn as thriving peat reefs and biodiversity hotspots off Mozambique](https://phys.org/news/2026-10-year-forests-reborn-peat-reefs.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
+- [Pupil size reveals differences between speaking aloud and inner speech](https://phys.org/news/2026-10-pupil-size-reveals-differences-aloud.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
+- [Research finds vegan honey could be made with similar antimicrobial properties to mānuka honey](https://phys.org/news/2026-10-vegan-honey-similar-antimicrobial-properties.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science
+- [Cortisol is a reproduction friend, not enemy](https://phys.org/news/2026-10-cortisol-reproduction-friend-enemy.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
+- [In 1976, a college paper blamed the Salem witch trials on moldy bread. It wasn’t true.](https://www.popsci.com/science/salem-witch-trials-moldy-bread-ergot/) — Popular Science · 06:02 PT · #science
+- [Finding new ways to catch a thief—via intruders' airborne eDNA](https://phys.org/news/2026-10-ways-thief-intruders-airborne-edna.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
+- [Time to redefine concept of health: Indigenous views of health reveal gaps in Western health frameworks](https://phys.org/news/2026-10-redefine-concept-health-indigenous-views.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
+- [Mysterious brain activity under anesthesia challenges what we know about consciousness](https://www.sciencedaily.com/releases/2026/10/261015003440.htm) — Latest Science News -- ScienceDaily · 05:52 PT · #science
+- [Arctic sea ice hits another troubling low in 2026](https://www.sciencedaily.com/releases/2026/10/261015073212.htm) — Latest Science News -- ScienceDaily · 05:40 PT · #science
+- [Why tightly confined water's response to electric fields depends on direction](https://phys.org/news/2026-10-tightly-confined-response-electric-fields.html) — Phys.org - latest science and technology news stories · 05:40 PT · #science
+- [Q&A: Expanding climate models to better capture the complexities of public health](https://phys.org/news/2026-10-qa-climate-capture-complexities-health.html) — Phys.org - latest science and technology news stories · 05:40 PT · #science
+- [Eating late at night linked to up to 30% higher risk of liver disease](https://www.sciencedaily.com/releases/2026/10/261014015503.htm) — Latest Science News -- ScienceDaily · 05:26 PT · #science
+- [New research challenges the idea that GST always hits lower-income households hardest](https://phys.org/news/2026-10-idea-gst-income-households-hardest.html) — Phys.org - latest science and technology news stories · 05:20 PT · #science
 - [Turning up the heat on chickpea yield](https://phys.org/news/2026-10-chickpea-yield.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
 - [These four companies ain’t playin’ when it comes to playback](https://www.popsci.com/gear/nad-cambridge-andover-audio-focal-naim-utopia-cd-player-turntable-connected-speaker-product-news/) — Popular Science · 05:00 PT · #science
+- [A fungus is threatening the world’s food supply. Scientists just found a new defense](https://www.sciencedaily.com/releases/2026/10/261014015501.htm) — Latest Science News -- ScienceDaily · 04:45 PT · #science
 - [Jackie the bald eagle’s final cause of death revealed](https://www.popsci.com/environment/jackie-eagle-cause-of-death/) — Popular Science · 04:41 PT · #science
 - [Looking for relief from dating app anxiety? Try a variety of platforms](https://phys.org/news/2026-10-relief-dating-app-anxiety-variety.html) — Phys.org - latest science and technology news stories · 04:40 PT · #science
+- [Scientists discover a surprising danger in smaller cancer cells](https://www.sciencedaily.com/releases/2026/10/261013015835.htm) — Latest Science News -- ScienceDaily · 04:27 PT · #science
 - [Early growth differences help explain which beech trees survive forest competition](https://phys.org/news/2026-10-early-growth-differences-beech-trees.html) — Phys.org - latest science and technology news stories · 04:20 PT · #science
 - [Green space is linked with fewer gun-related homicides—but not everywhere](https://phys.org/news/2026-10-green-space-linked-gun-homicides.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
 - [Quantum sensor could measure how Earth drags spacetime](https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html) — Phys.org - latest science and technology news stories · 03:40 PT · #science
+- [Rare study reveals a striking divide inside an Alzheimer’s patient’s brain](https://www.sciencedaily.com/releases/2026/10/261013015814.htm) — Latest Science News -- ScienceDaily · 03:05 PT · #science
 - [Richest getting richer](https://flowingdata.com/2026/10/15/richest-getting-richer/) — FlowingData · 02:42 PT · #science
 - [Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds](https://phys.org/news/2026-10-countries-vulnerable-fossil-fuel-phaseout.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science #foreign #oil
 
@@ -25,6 +64,7 @@ tags: ["category", "science"]
 
 - [Ascension Island: How a planting project created a lush cloud forest](https://phys.org/news/2026-10-ascension-island-lush-cloud-forest.html) — Phys.org - latest science and technology news stories · 23:45 PT · #science
 - [The First Britons - Tim Minchin, Prof Chris Stringer and Dr Selina Brace](http://www.bbc.co.uk/programmes/m0032r4k) — The Infinite Monkey Cage · 23:00 PT · #science
+- [Strokes have nearly doubled among younger adults, and scientists aren't sure why](https://www.sciencedaily.com/releases/2026/10/261014015459.htm) — Latest Science News -- ScienceDaily · 22:28 PT · #science
 - [Ozempic and Wegovy linked to rare risk of sudden vision loss](https://www.sciencedaily.com/releases/2026/10/261014015521.htm) — Latest Science News -- ScienceDaily · 21:14 PT · #science
 - [APOD: 2026 October 15 – The Milky Way over Manhattan](https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/) — NASA · 21:05 PT · #science
 - [Fires Arrive in the Amazon Rainforest](https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/) — NASA · 21:01 PT · #science
@@ -44,6 +84,9 @@ tags: ["category", "science"]
 - [Researchers in exile thrive in new academic settings when they contribute knowledge, not just receive aid](https://phys.org/news/2026-10-exile-academic-contribute-knowledge-aid.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
 - [Give me the good news: four science stories to brighten your day](https://www.nature.com/articles/d41586-026-03152-6) — Nature · 17:00 PT · #science
 - [ArXiv versus AI slop: will capping preprint submissions work?](https://www.nature.com/articles/d41586-026-03194-w) — Nature · 17:00 PT · #science #ai
+- [World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’](https://www.nature.com/articles/d41586-026-03329-z) — Nature · 17:00 PT · #science
+- [Orangutan mothers arrange play dates for their babies](https://www.nature.com/articles/d41586-026-03238-1) — Nature · 17:00 PT · #science
+- [Nearly half of reef-building corals face elevated relative risk of extinction](https://www.nature.com/articles/s41586-026-11263-3) — Nature · 17:00 PT · #science
 - [One-third of food is lost or wasted: How to help farmers cut postharvest losses](https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years](https://www.sciencedaily.com/releases/2026/10/261013015807.htm) — Latest Science News -- ScienceDaily · 16:34 PT · #science
 - [Uganda's sugarcane boom leaves families hungry: What needs to change](https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -377,49 +420,3 @@ tags: ["category", "science"]
 - [Menopause isn't a slow fade, it's a sudden switch: a study of 300 million lab tests from over one million women found bones, liver, kidneys, and blood fats all change abruptly at the final period. Men of the same age show no such jump, and hormone shifts that predict it start up to 15 years earlier.](https://www.reddit.com/r/science/comments/1x4e77n/menopause_isnt_a_slow_fade_its_a_sudden_switch_a/) — Reddit Science · 14:15 PT · #science
 - [Scientists find a surprising genetic twist behind octopus intelligence](https://www.sciencedaily.com/releases/2026/10/261011211552.htm) — Latest Science News -- ScienceDaily · 13:44 PT · #science
 - [The Life Scientific: Edith Heard](http://www.bbc.co.uk/programmes/w3ct8jt1) — Discovery · 13:00 PT · #science
-- [I tested Cricut’s desktop sticker printer, and it makes creating custom stickers almost too easy](https://www.popsci.com/gear/i-tested-cricuts-desktop-sticker-printer-and-it-makes-creating-custom-stickers-almost-too-easy/) — Popular Science · 13:00 PT · #science
-- [Rocky the pumpkin wins ‘Superbowl of Pumpkin Weigh Offs’ at 2,389 pounds](https://www.popsci.com/environment/rocky-the-pumpkin-wins-superbowl-of-pumpkin-weigh-offs-at-2289-pounds/) — Popular Science · 12:54 PT · #science
-- [Bee stingers work like saws to pump venom](https://www.popsci.com/environment/how-bee-stingers-work-saws-pump-venom/) — Popular Science · 12:00 PT · #science
-- [Large dog breeds die younger. Biologists think they finally know why.](https://www.popsci.com/science/why-large-dogs-die-younger/) — Popular Science · 10:55 PT · #science
-- [NASA’s SpaceX CRS-35 Mission to Launch Health Research](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/) — NASA · 10:45 PT · #science
-- [The scientific evidence for human-caused global warming is stronger than ever, according to a major new review – despite a United States government report questioning the science.](https://www.reddit.com/r/science/comments/1x48cui/the_scientific_evidence_for_humancaused_global/) — Reddit Science · 10:36 PT · #science
-- [Why Am I Unhappy?](https://www.hiddenbrain.org/) — Hidden Brain · 10:35 PT · #science
-- [Rewilding urban home gardens increased beneficial environmental bacteria on residents’ skin, reduced bacteria associated with infections and preserved microbial diversity within three months, while greater oral microbiome diversity was linked to lower inflammatory markers](https://www.reddit.com/r/science/comments/1x46xe5/rewilding_urban_home_gardens_increased_beneficial/) — Reddit Science · 09:44 PT · #science
-- [Why Ketamine Immobilizes Some Users](https://www.nytimes.com/2026/10/10/science/ketamine-cornell-anesthesia.html) — NYT > Science · 08:37 PT · #science
-- [Newer Migraine Drugs Linked to a 40% Higher Risk of Miscarriage in Pregnant Women, Study Suggests — Study Raises Questions About the Pregnancy Safety of CGRP-Targeting Treatments, but Further Research Is Needed to Determine Whether the Medications Directly Contribute to Pregnancy Loss.](https://www.reddit.com/r/science/comments/1x44vla/newer_migraine_drugs_linked_to_a_40_higher_risk/) — Reddit Science · 08:28 PT · #science
-- [Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2026: Awarded to Robert E. Hall and Michael Woodford "for microeconomic foundations of macroeconomic stabilisation"](https://www.reddit.com/r/science/comments/1x44j65/sveriges_riksbank_prize_in_economic_sciences_in/) — Reddit Science · 08:14 PT · #science
-- [World War II notes linked to ‘The Great Escape’ prison camp found in garage crawlspace](https://www.popsci.com/science/world-war-ii-notes-garage-great-escape/) — Popular Science · 07:49 PT · #science #foreign
-- [Amazon is blowing out Greenworks electric yard tools for clearance prices just in time for fall cleanup](https://www.popsci.com/gear/amazon-greenworks-electric-yard-tool-clearance-deals/) — Popular Science · 06:43 PT · #science
-- [North America’s tiniest mammals are living at a Marine Corps training area. That’s good.](https://www.popsci.com/environment/pacific-pocket-mice-california/) — Popular Science · 06:00 PT · #science
-- [A cross-cultural study indicates that physical fighting between co-wives is common in polygynous marriages, demonstrating that women resort to direct confrontation over high-stakes resources and partner attention.](https://www.reddit.com/r/science/comments/1x40c6a/a_crosscultural_study_indicates_that_physical/) — Reddit Science · 05:18 PT · #science
-- [People who watched a dull 25-minute video of a man folding laundry punched a punching bag more often and harder than people who watched a fun one. In another test, bored Americans, both liberal and conservative, backed military strikes more. Boredom makes us crave thrills, and that can turn hostile.](https://www.reddit.com/r/science/comments/1x3z76f/people_who_watched_a_dull_25minute_video_of_a_man/) — Reddit Science · 04:19 PT · #science #foreign
-- [Decline in American social activities](https://flowingdata.com/2026/10/12/decline-in-american-social-activities/) — FlowingData · 03:08 PT · #science
-- [Popular weight loss drugs linked to a surprising fingernail problem](https://www.sciencedaily.com/releases/2026/10/261011211604.htm) — Latest Science News -- ScienceDaily · 02:34 PT · #science
-- [Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice](https://www.sciencedaily.com/releases/2026/10/261009025708.htm) — Latest Science News -- ScienceDaily · 02:23 PT · #science
-- [NASA captures a stunning transformation in Australia's red outback](https://www.sciencedaily.com/releases/2026/10/261008102710.htm) — Latest Science News -- ScienceDaily · 01:19 PT · #science
-
-## 2026-10-11
-
-- [Scientists discover a hidden factor that can make or break chemical reactions](https://www.sciencedaily.com/releases/2026/10/261008005244.htm) — Latest Science News -- ScienceDaily · 23:24 PT · #science
-- [Strength training may start changing your fat before you lose any weight. In obese mice, just 7 days of lifting (climbing stairs with weights on their tails) shrank fat cells, reduced belly fat, toned down fat-making signals and boosted fat-burning ones, all before the scale had moved even a little.](https://www.reddit.com/r/science/comments/1x3u1c3/strength_training_may_start_changing_your_fat/) — Reddit Science · 23:00 PT · #science
-- [Scientists discover vanilla’s hidden healing potential](https://www.sciencedaily.com/releases/2026/10/261011211550.htm) — Latest Science News -- ScienceDaily · 21:34 PT · #science
-- [APOD: 2026 October 12 – Jupiter and the Moons](https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/) — NASA · 21:05 PT · #science
-- [Antarctic Sea Ice Grows to Its 2026 Maximum](https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/) — NASA · 21:00 PT · #science
-- [Just 10 minutes of daily exercise could unlock deeper sleep](https://www.sciencedaily.com/releases/2026/10/261008102721.htm) — Latest Science News -- ScienceDaily · 17:51 PT · #science
-- [Award-winning microscopy image disqualified over AI use](https://www.nature.com/articles/d41586-026-03240-7) — Nature · 17:00 PT · #science #ai
-- [Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia](https://www.nature.com/articles/s41586-026-11253-5) — Nature · 17:00 PT · #science
-- [Keep medical doctors in academia — without them, health-care research will suffer](https://www.nature.com/articles/d41586-026-03225-6) — Nature · 17:00 PT · #science
-- [Economics Nobel awarded for work on stabilizing economies in crisis](https://www.nature.com/articles/d41586-026-03251-4) — Nature · 17:00 PT · #science
-- [Beyond the solvent fog: watching molecules dance in the crowd](https://www.nature.com/articles/d41586-026-02970-y) — Nature · 17:00 PT · #science
-- [What does a PhD pay? Data reveal huge gaps across Europe](https://www.nature.com/articles/d41586-026-03181-1) — Nature · 17:00 PT · #science #markets
-- [Hidden signals in sleep can predict future health](https://www.nature.com/articles/d41586-026-03207-8) — Nature · 17:00 PT · #science #ai
-- [I told ChatGPT to ‘continue’ — it went too far](https://www.nature.com/articles/d41586-026-02714-y) — Nature · 17:00 PT · #science
-- [Daily briefing: Visit a huge climate experiment in the Amazon rainforest](https://www.nature.com/articles/d41586-026-03255-0) — Nature · 17:00 PT · #science
-- [Does the decline of book reading mark the end of rational thinking?](https://www.nature.com/articles/d41586-026-03224-7) — Nature · 17:00 PT · #science #ai
-- [Antiviral immunity via telomerase-like reverse transcription in bacteria](https://www.nature.com/articles/s41586-026-11250-8) — Nature · 17:00 PT · #science
-- [Private, offline and yours: how to search the literature with local AI systems](https://www.nature.com/articles/d41586-026-03227-4) — Nature · 17:00 PT · #science #ai
-- [New York City’s Latest Famous Family Is a Hoot. Yes, They’re Barn Owls.](https://www.nytimes.com/2026/10/11/nyregion/owls-upper-west-side-new-york-city.html) — NYT > Science · 14:07 PT · #science
-- [Scientists discover why a 100-year-old mushroom disease won't go away](https://www.sciencedaily.com/releases/2026/10/261008102716.htm) — Latest Science News -- ScienceDaily · 13:01 PT · #science
-- [The hidden math of Alzheimer's could point to new treatments](https://www.sciencedaily.com/releases/2026/10/261008102714.htm) — Latest Science News -- ScienceDaily · 12:24 PT · #science
-- [8 fierce animals show just how metal nature is](https://www.popsci.com/environment/8-animal-photos-nature-is-metal/) — Popular Science · 12:00 PT · #science
-- [The Times’s New Space Editor Has Her Eye on the Cosmos](https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html) — NYT > Science · 11:14 PT · #science

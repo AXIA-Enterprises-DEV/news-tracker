@@ -1,21 +1,31 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-15T05:04:39-07:00
-count: 206
+updated: 2026-10-15T09:53:55-07:00
+count: 216
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-206 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+216 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-15
 
+- [A new report argues newsrooms need to do more experiments — like, the kind with randomization and results](https://www.niemanlab.org/2026/10/a-new-report-argues-newsrooms-need-to-do-more-experiments-like-the-kind-with-randomization-and-results/) — Nieman Lab · 09:47 PT · #tech #media
+- [The Death of Journalism and the Rise of Paid Political Propaganda - LA Progressive](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHhwVmh0aHRoM1N5TGNuVGVUXzNib2poLV9tRlN4bUNoWEdzME5MQ0tqZklPeFBXcFRXQlg1NDVJTTB4RVJDYWFNZk1HZm1vX0djSTVrR2J2NFBVQVVJdVFDRHU1TTNmZUpZMjVzMDgtaUZXLWl3bkd2NWtWV1pGRVFKMEtGT1E?oc=5) — Google News: propaganda OR disinformation media · 09:29 PT · #world #media
+- [Ombudsman warns against paid online propaganda - The Manila Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXUwSlAwcjROaFU1cUg3SEx2d3I1YVNiNXpDN0NnakpYYWJMZTJITVVqMUhSNmZSTDEwdHhXejJLZmMzeF9LMFdXU0FGNkY2X0xudElIRDA3REZteWNyYmZVOUxZN3hJaTR5a3pja0tocWtYM2tPWjFPR2stUE9yNzBKZl9rNE5DMnZvNnVFMXBaV0cxQjBVTUNJWHZtalFnQjhEV2FsdXBTVUHSAbABQVVfeXFMUHBPQnhMWXU4a0RwbTBudmxYYVl0QVI0MlNJQUJJSE80OHI0YWRwVThNTG5GeXRkdWc4SjlkOW9ZM0FXeHdTV1pBTURQaGZlc1VUeFF0OVBSU1ZwYUJjQ29NYWk3MzQ3a3VNdk0wT3I0eWJZMTBjWVB0Q1U4SW53Z0RoS1BXVnF0NDF4MFVETjM3Y3RuWEFnUVppNXJOS1d6UVVIUmwwRVRfYlhmV1FULVA?oc=5) — Google News: propaganda OR disinformation media · 09:18 PT · #world #media
+- [Google’s News AI pilot expands to over 400 publications, including U.S. local news outlets](https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/) — Nieman Lab · 09:01 PT · #tech #ai #media
+- [What does it mean to be workplace-ready in the age of #AI? #GenZ #workforce #futureofwork](https://www.youtube.com/shorts/g5uwHjAjFBc) — Business Insider · 09:00 PT · #business #ai #media
+- [People fully enjoying freedom of speech during post July uprising: BSS MD - Bangladesh Sangbad Sangstha (BSS)](https://news.google.com/rss/articles/CBMiS0FVX3lxTE52Vm96UUFnN2NPeEIxZG14anhWb3Y2UU55M3NVb2FNMVdDTDFndENDRnpwNkJMbUZ1Z0NNc3JPQmU2dmhXa0hXelp0RQ?oc=5) — Google News: propaganda OR disinformation media · 06:47 PT · #world #media
+- [Debunking fake news: How to tell facts from propaganda on social media - K24 Digital](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2plZVhLaDR4MmpVaXVMZzE4Rl94bEdULUJnQWRiT3RVSHJvMHFxUjFPU245bXNjZThvaGwyZDdGbXVraElBaldWY1BBaHI4QzUtcnZRRUVYYm1heTlqWXE2MG1RNU5vVDZCd2wzSHhENG43WDdUYnYyWVdSd1pNTEtwcndRU1dzQUZQTDdKdEo0bzBUdDZHcGV4Vll6ZWpDVGZmWDUyQUFPbFpIUndN?oc=5) — Google News: propaganda OR disinformation media · 06:27 PT · #world #media
+- [Social media campaigns pose new challenge to police: SVPNPA Director - Telangana Today](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnJia0ZjM0hhRE9zbWd3MXM0UE5pVDlzMGxjWTB0RWVJX0VFVGFGdExYZ2UyOWpfT0tralp6R1VqMkh6LVFQUUc4RUp3WHRuU0JzbExmTjc1WXZ2LWZHUWFkTDRzY0hmLWx2Unk1TmNZVTBRcURXcldMM2VnTnNJVTdFR0gxR1dPOGNLWl9OdHFaTTJLOFFrSHhn?oc=5) — Google News: propaganda OR disinformation media · 05:30 PT · #world #media
+- [Use modern media to counter propaganda against KP, says Governor - | Associated Press Of Pakistan](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGQ2R2FiSVc2bnhVLWJ5WEJoSDBUVmIyeVdqUWZhcE1sSzBCLTU0ZHF1b3N0OW0yb0J0X2R4QmYtUzNiaVVpZUd4VjZSM1lac1ZxSDBsOGJHVGJidV9EUksyVEJ6TVZleTU1LW84bWR1UGl4Q3ZhZWtlNlU2eTk0LW4xWTF2VWlFdjhlWjhIaGxXVjZf?oc=5) — Google News: propaganda OR disinformation media · 05:06 PT · #world #media
 - [John Healey vows to give ‘breathing space’ to consumers and businesses in first budget](https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs) — Guardian World · 04:47 PT · #world #media
 - [President Trump’s losing streak versus the press continues](https://www.poynter.org/commentary/2026/trump-cnn-ms-now-politico-white-house-press-access-ruling/) — Poynter · 04:30 PT · #tech #media
 - [Syrian authorities arrest main suspect in 2013 Baniyas mass killings](https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss) — Al Jazeera · 04:12 PT · #world #media
 - [A death at a Russian plague lab raised pandemic fears. Here’s what experts are watching.](https://www.poynter.org/fact-checking/2026/russia-plague-lab-death-pandemic-risk/) — Poynter · 03:30 PT · #tech #foreign #media
 - [An AI Company Wanted to Buy My Reporting Notes](https://www.cjr.org/feature/an-ai-company-wanted-to-buy-my-reporting-notes.php) — Columbia Journalism Review · 03:00 PT · #tech #ai #media
+- [California’s Big Bet on Government-Funded News](https://www.cjr.org/kicker/californias-big-bet-on-government-funded-news.php) — Columbia Journalism Review · 03:00 PT · #tech #media
 - [Pakistan, CJP and SIR Protests: How ISI fuels unrest, exploiting youngsters to incite violence across India; Report - Organiser](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX0c0M1FEdDl0a2lBcUhQeElCa0JYNzR5aEpOd2JnNkFQTE9ndWJpRjJYWUtTem5DTDlVd2NXeVl2UUNvRnQydFJMV0FzMkltYzd2MTI3MlF1ZmNCOC1SVUpfSTJBZFBvWHBwdF9LcGN6UlRKZjVQWkNibzU1OHBvVl9LaWpFVzh3YVk4a1BtVFdnTml4Qjc2TmVrUUJoaVdOR1FvVHNld3ZVVFZVdzlXazNSVVJPZDFsNF9UT21KWThnN1hSTEhyOFpRdTlIQXZjVFZZY1ZnaWcxencxNFgxMUhwRW5BNkpxWlRseURRZ9IB9AFBVV95cUxPOTRwQWdxMVpPNEZBVTdMMnFkNk9RTEFEeU94Q1AwY3MtNV9zMmo0ZTdYWjRLUHJvQzgyVkhnRnlmQ21IdEd6Y1JKVHVzQTBwS1FaaGJaY2tNbXpoTWtocDJTaHZ2OWl5MXRBbHdxY3hQbFl5Mm03dFUyTHphNWJjczRyTndQeG1MYVBqcXVJRDhCRUItWkpNbG5oWWtvZThORHlScUM0QjdHbnRSdElHODk4VkpMYWpxVEFUc1RZeVVSTFphU0xJZjhJTVlGMXMzQ04wOHNvamlvVUI2R0x4ZnM0eEl2QU9GNm9ONnBGcnNBRlQ3?oc=5) — Google News: propaganda OR disinformation media · 02:43 PT · #world #media
 
 ## 2026-10-14

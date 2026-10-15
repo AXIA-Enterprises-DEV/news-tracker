@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $LMT"
-updated: 2026-10-15T05:04:39-07:00
-count: 1
+updated: 2026-10-15T09:53:55-07:00
+count: 2
 tags: ["ticker", "LMT"]
 ---
 
 # Ticker: $LMT
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-15
+
+- [Skunk Works and the Royal Netherlands Aerospace Centre Expand Strategic Collaboration](https://www.prnewswire.com/news-releases/skunk-works-and-the-royal-netherlands-aerospace-centre-expand-strategic-collaboration-302910323.html) — PR Newswire Contracts · 09:00 PT · #business $LMT
 
 ## 2026-10-14
 

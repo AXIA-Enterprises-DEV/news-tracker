@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-15T05:04:39-07:00
-count: 171
+updated: 2026-10-15T09:53:55-07:00
+count: 179
 tags: ["tickers"]
 ---
 
@@ -13,10 +13,20 @@ tags: ["tickers"]
 - [$III](III.md) — 4 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$LMT](LMT.md) — 2 items
+- [$LUMN](LUMN.md) — 2 items
+- [$IONQ](IONQ.md) — 2 items
 - [$C](C.md) — 2 items
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$DHX](DHX.md) — 1 items
+- [$IOT](IOT.md) — 1 items
+- [$PCOR](PCOR.md) — 1 items
+- [$WIPRO](WIPRO.md) — 1 items
+- [$AXON](AXON.md) — 1 items
+- [$BDC](BDC.md) — 1 items
+- [$SNOW](SNOW.md) — 1 items
 - [$QTRH](QTRH.md) — 1 items
 - [$QTRHF](QTRHF.md) — 1 items
 - [$CGNX](CGNX.md) — 1 items
@@ -28,6 +38,7 @@ tags: ["tickers"]
 - [$ERIC](ERIC.md) — 1 items
 - [$VZ](VZ.md) — 1 items
 - [$PLD](PLD.md) — 1 items
+- [$FIS](FIS.md) — 1 items
 - [$QMLS](QMLS.md) — 1 items
 - [$HPQFF](HPQFF.md) — 1 items
 - [$RDW](RDW.md) — 1 items
@@ -45,7 +56,6 @@ tags: ["tickers"]
 - [$PFSF](PFSF.md) — 1 items
 - [$DOCS](DOCS.md) — 1 items
 - [$AWK](AWK.md) — 1 items
-- [$LMT](LMT.md) — 1 items
 - [$FRST](FRST.md) — 1 items
 - [$VISN](VISN.md) — 1 items
 - [$POLY](POLY.md) — 1 items
@@ -84,7 +94,6 @@ tags: ["tickers"]
 - [$CNXN](CNXN.md) — 1 items
 - [$ARW](ARW.md) — 1 items
 - [$SBAC](SBAC.md) — 1 items
-- [$IONQ](IONQ.md) — 1 items
 - [$SIDU](SIDU.md) — 1 items
 - [$AEP](AEP.md) — 1 items
 - [$IBM](IBM.md) — 1 items
@@ -154,7 +163,6 @@ tags: ["tickers"]
 - [$SPCB](SPCB.md) — 1 items
 - [$BTC](BTC.md) — 1 items
 - [$HLP](HLP.md) — 1 items
-- [$LUMN](LUMN.md) — 1 items
 - [$PUSA](PUSA.md) — 1 items
 - [$JBL](JBL.md) — 1 items
 - [$FSLY](FSLY.md) — 1 items

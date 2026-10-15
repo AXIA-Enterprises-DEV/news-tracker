@@ -1,17 +1,23 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-15T05:04:39-07:00
-count: 64
+updated: 2026-10-15T09:53:55-07:00
+count: 70
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-64 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+70 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-15
 
+- [Marijuana rescheduling opponents ask judge for additional briefings](https://seekingalpha.com/news/4653520-marijuana-rescheduling-opponents-ask-judge-additional-briefings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 09:44 PT · #markets #cannabis
+- [Marijuana Is A Popular Tool For People Trying To Quit Smoking Cigarettes, Rivaling Prescription Nicotine Cessation Medications, Study Shows](https://www.marijuanamoment.net/marijuana-is-a-popular-tool-for-people-trying-to-quit-smoking-cigarettes-rivaling-prescription-nicotine-cessation-medications-study-shows/) — Marijuana Moment · 08:57 PT · #business #cannabis
+- [Police Would Rather Deal With People High On Marijuana Than Drunk On Alcohol, Iowa Governor Candidate Says](https://www.marijuanamoment.net/police-would-rather-deal-with-people-high-on-marijuana-than-drunk-on-alcohol-iowa-governor-candidate-says/) — Marijuana Moment · 07:24 PT · #business #cannabis
+- [South Dakota Lawmakers Accused Of Rigging Marijuana Committee Meeting With Opponent Testimony](https://www.marijuanamoment.net/south-dakota-lawmakers-accused-of-rigging-marijuana-committee-meeting-with-opponent-testimony/) — Marijuana Moment · 06:14 PT · #business #cannabis
+- [GOP Senator Attacked Over Push To Keep Hemp THC Products Legal In New Ad From Dark Money Group](https://www.marijuanamoment.net/gop-senator-attacked-over-push-to-keep-hemp-thc-products-legal-in-new-ad-from-dark-money-group/) — Marijuana Moment · 05:10 PT · #business #cannabis
 - [Tropicana Cookies Strain Guide Compares Generations and Names - StreetInsider](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0lRaFgwUzJjRnFWQ0JPOTAzTW1PbUh4eGM4X1lueHZLVmJWOThkY2tHT3Rick4yVV9Scm4zbnd0M1A4NXJIejdFYURMaHFZSmNiS0dXUmJHdHp1VmtHVzBPMEE4ai1HV0tGdDJoaTBzX1dycHo3ZnhzUThqSElBNmgtOWluTEx4TlhKTHFMTzVrV1psdnJ1VG9HOFhTZlRaZURKYWZTeGl0SjU4Z1l1eGtGLWplQlJ4dDAxUnln?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:02 PT · #business #cannabis
+- [Tropicana Cookies Strain Guide Compares Generations and Names - FinancialContent](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXZFZ2x6ck5wTk5pTVVkbzdpMU5MaUhJQkJVZEFvUnI3WlhzWDVab0RTcUc4RVN0R2JpR1Ntd3ZzaG9TaHh2VWRkZ01VcXByVzkteE1VZDNtbjNrdi10S1Z6cXJDRk1CSDNtU1dXT1NQRUVETUdVcVhWbVBiRGg3UVVhOFNURlkyUDd6UUpDeHVYZUdXQmlISGlwMEd0SC1XcTRoTW1lVTVZdFduZFdsaHh6QzE3SFlYVXJRMUdXaGc?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:00 PT · #business #cannabis
 - [New York cannabis founder on entering the industry in 2026: ‘Don’t do it’](https://mjbizdaily.com/news/new-york-cannabis-founder-on-entering-the-industry-in-2026-dont-do-it/618636/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
 - [DEA ordered to reply to cannabis opponents’ push for more rescheduling testimony (Newsletter: October 15, 2026)](https://www.marijuanamoment.net/dea-ordered-to-reply-to-cannabis-opponents-push-for-more-rescheduling-testimony-newsletter-october-15-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis
 - [Brick Introduces Marijuana Dispensary Legalization In 6-1 Vote - Shorebeat](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXA2MTZBWmZ5b21tUUNlNFNCUWlxRmMtVjJGWjRuaTl1eDJHTmVMVm9yTmhLY0RzOFFsZ1NFcWdHN3lZbmp2VW9NczNmTzl4cC13Q0VRSTFLZXFxRFFCLWNlb2xGMG1WM2N3ZkdWLUw1eHJ6S29CXzV1cWw0Mlk2c0puZzkxRk54RkdUcnZTdG53eUk3UXcxek1iWE9SQnph?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 02:23 PT · #business #cannabis

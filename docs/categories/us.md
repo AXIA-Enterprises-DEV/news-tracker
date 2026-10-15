@@ -1,16 +1,30 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-15T05:04:39-07:00
-count: 362
+updated: 2026-10-15T09:53:55-07:00
+count: 376
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-362 most recent items (14-day window).
+376 most recent items (14-day window).
 
 ## 2026-10-15
 
+- [Man caught with more than 700 pounds of illicit narcotics in rural Nevada, authorities say](https://www.reviewjournal.com/crime/man-caught-with-more-than-700-pounds-of-illicit-narcotics-in-rural-nevada-authorities-say-3900441/) — Las Vegas Review-Journal · 09:31 PT · #us #nevada
+- [What’s next for Las Vegas? Paul Steelman is looking beyond gambling](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/whats-next-for-las-vegas-paul-steelman-is-looking-beyond-gambling-3900425/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
+- [Congo protests Formula 1's 'indefensible' decision to race in Rwanda](https://lasvegassun.com/news/2026/oct/15/congo-protests-formula-1s-indefensible-decision-to/) — Las Vegas Sun · 08:55 PT · #us #nevada
+- [Nevadans expected to spend more on Halloween this year](https://www.reviewjournal.com/business/vegas-business/price-points/nevadans-expected-to-spend-more-on-halloween-this-year-3900405/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada
+- [Zero Teen Fatalities Player of the Month: Coronado's Tru Halvorsen](https://lasvegassun.com/news/2026/oct/15/zero-teen-fatalities-player-of-the-month-coronados/) — Las Vegas Sun · 07:36 PT · #us #nevada
+- [After bipartisan backlash, Trump says Pentagon won’t livestream Fort Hood shooter’s execution](https://www.reviewjournal.com/news/politics-and-government/after-bipartisan-backlash-trump-says-pentagon-wont-livestream-fort-hood-shooters-execution-3900397/) — Las Vegas Review-Journal · 07:34 PT · #us #foreign #nevada
+- [Plan to improve Las Vegas’ Arts District draws concerns over cost, gentrification](https://www.reviewjournal.com/business/plan-to-improve-las-vegas-arts-district-draws-concerns-over-cost-gentrification-3900362/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
+- [Michael Douglas tells all in memoir ‘One Helluva Life’](https://www.reviewjournal.com/livewell/michael-douglas-tells-all-in-memoir-one-helluva-life-3900353/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [What are they hiding? NHP keeps arrest in crash death of 7-year-old secret](https://www.reviewjournal.com/crime/what-are-they-hiding-nhp-keeps-arrest-in-crash-death-of-7-year-old-secret-3900349/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Raiders can learn from late-game gaffes in the NFL to master ‘fourth phase’](https://www.reviewjournal.com/sports/raiders/raiders-can-learn-from-late-game-gaffes-in-the-nfl-to-master-fourth-phase-3900346/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Move over 2026, 2028 hopefuls are already swarming Nevada.](https://thenevadaindependent.com/article/move-over-2026-2028-hopefuls-are-already-swarming-nevada/) — The Nevada Independent · 06:00 PT · #us #civic #nevada
+- [Alert! Is your Medicare Advantage plan terminating coverage Dec. 31?](https://www.reviewjournal.com/livewell/alert-is-your-medicare-advantage-plan-terminating-coverage-dec-31-3900343/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
+- [Savvy Senior: Planning a simple, affordable funeral](https://www.reviewjournal.com/livewell/savvy-senior-planning-a-simple-affordable-funeral-3900339/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
+- [‘Built for a different era’: Las Vegas airport prepares for major overhaul](https://www.reviewjournal.com/business/tourism/built-for-a-different-era-las-vegas-airport-prepares-for-major-overhaul-3900325/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
 - [Trump’s ice maiden is under fire](https://www.politico.com/newsletters/playbook/2026/10/15/trumps-ice-maiden-is-under-fire-01119850) — Playbook · 03:10 PT · #us
 - [Nevada's next budget could see at least $1 billion boost. Here's why.](https://thenevadaindependent.com/article/nevadas-next-budget-could-see-at-least-1-billion-boost-heres-why/) — The Nevada Independent · 02:00 PT · #us #fed #nevada
 - [OPINION: Tired of political spam texts and emails? It's only going to get worse.](https://thenevadaindependent.com/article/opinion-tired-of-political-spam-texts-and-emails-its-only-going-to-get-worse/) — The Nevada Independent · 02:00 PT · #us #ai #civic #nevada
