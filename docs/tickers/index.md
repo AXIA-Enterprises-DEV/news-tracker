@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-14T23:31:46-07:00
-count: 155
+updated: 2026-10-15T05:04:39-07:00
+count: 171
 tags: ["tickers"]
 ---
 
@@ -10,12 +10,29 @@ tags: ["tickers"]
 - [$NTCT](NTCT.md) — 8 items
 - [$LSCC](LSCC.md) — 6 items
 - [$RMNI](RMNI.md) — 5 items
+- [$III](III.md) — 4 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
 - [$C](C.md) — 2 items
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$QTRH](QTRH.md) — 1 items
+- [$QTRHF](QTRHF.md) — 1 items
+- [$CGNX](CGNX.md) — 1 items
+- [$SNES](SNES.md) — 1 items
+- [$PTCT](PTCT.md) — 1 items
+- [$PTC](PTC.md) — 1 items
+- [$RTX](RTX.md) — 1 items
+- [$LSPD](LSPD.md) — 1 items
+- [$ERIC](ERIC.md) — 1 items
+- [$VZ](VZ.md) — 1 items
+- [$PLD](PLD.md) — 1 items
+- [$QMLS](QMLS.md) — 1 items
+- [$HPQFF](HPQFF.md) — 1 items
+- [$RDW](RDW.md) — 1 items
+- [$IRM](IRM.md) — 1 items
+- [$CAST](CAST.md) — 1 items
 - [$YSG](YSG.md) — 1 items
 - [$XRPN](XRPN.md) — 1 items
 - [$NCPL](NCPL.md) — 1 items
@@ -135,7 +152,6 @@ tags: ["tickers"]
 - [$AEIS](AEIS.md) — 1 items
 - [$INFQ](INFQ.md) — 1 items
 - [$SPCB](SPCB.md) — 1 items
-- [$III](III.md) — 1 items
 - [$BTC](BTC.md) — 1 items
 - [$HLP](HLP.md) — 1 items
 - [$LUMN](LUMN.md) — 1 items

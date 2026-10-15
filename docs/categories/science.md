@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-14T23:31:46-07:00
+updated: 2026-10-15T05:04:39-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -9,8 +9,21 @@ tags: ["category", "science"]
 
 400 most recent items (14-day window).
 
+## 2026-10-15
+
+- [Turning up the heat on chickpea yield](https://phys.org/news/2026-10-chickpea-yield.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
+- [These four companies ain’t playin’ when it comes to playback](https://www.popsci.com/gear/nad-cambridge-andover-audio-focal-naim-utopia-cd-player-turntable-connected-speaker-product-news/) — Popular Science · 05:00 PT · #science
+- [Jackie the bald eagle’s final cause of death revealed](https://www.popsci.com/environment/jackie-eagle-cause-of-death/) — Popular Science · 04:41 PT · #science
+- [Looking for relief from dating app anxiety? Try a variety of platforms](https://phys.org/news/2026-10-relief-dating-app-anxiety-variety.html) — Phys.org - latest science and technology news stories · 04:40 PT · #science
+- [Early growth differences help explain which beech trees survive forest competition](https://phys.org/news/2026-10-early-growth-differences-beech-trees.html) — Phys.org - latest science and technology news stories · 04:20 PT · #science
+- [Green space is linked with fewer gun-related homicides—but not everywhere](https://phys.org/news/2026-10-green-space-linked-gun-homicides.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
+- [Quantum sensor could measure how Earth drags spacetime](https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html) — Phys.org - latest science and technology news stories · 03:40 PT · #science
+- [Richest getting richer](https://flowingdata.com/2026/10/15/richest-getting-richer/) — FlowingData · 02:42 PT · #science
+- [Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds](https://phys.org/news/2026-10-countries-vulnerable-fossil-fuel-phaseout.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science #foreign #oil
+
 ## 2026-10-14
 
+- [Ascension Island: How a planting project created a lush cloud forest](https://phys.org/news/2026-10-ascension-island-lush-cloud-forest.html) — Phys.org - latest science and technology news stories · 23:45 PT · #science
 - [The First Britons - Tim Minchin, Prof Chris Stringer and Dr Selina Brace](http://www.bbc.co.uk/programmes/m0032r4k) — The Infinite Monkey Cage · 23:00 PT · #science
 - [Ozempic and Wegovy linked to rare risk of sudden vision loss](https://www.sciencedaily.com/releases/2026/10/261014015521.htm) — Latest Science News -- ScienceDaily · 21:14 PT · #science
 - [APOD: 2026 October 15 – The Milky Way over Manhattan](https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/) — NASA · 21:05 PT · #science
@@ -29,6 +42,8 @@ tags: ["category", "science"]
 - [Fair climate transitions need more than financial support, evidence review suggests](https://phys.org/news/2026-10-fair-climate-transitions-financial-evidence.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
 - [Green, pink and purple: Astronomers reveal the surprising true colors of white dwarf stars](https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html) — Phys.org - latest science and technology news stories · 17:10 PT · #science
 - [Researchers in exile thrive in new academic settings when they contribute knowledge, not just receive aid](https://phys.org/news/2026-10-exile-academic-contribute-knowledge-aid.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
+- [Give me the good news: four science stories to brighten your day](https://www.nature.com/articles/d41586-026-03152-6) — Nature · 17:00 PT · #science
+- [ArXiv versus AI slop: will capping preprint submissions work?](https://www.nature.com/articles/d41586-026-03194-w) — Nature · 17:00 PT · #science #ai
 - [One-third of food is lost or wasted: How to help farmers cut postharvest losses](https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years](https://www.sciencedaily.com/releases/2026/10/261013015807.htm) — Latest Science News -- ScienceDaily · 16:34 PT · #science
 - [Uganda's sugarcane boom leaves families hungry: What needs to change](https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -207,6 +222,7 @@ tags: ["category", "science"]
 - [Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride](https://www.nature.com/articles/s41586-026-11267-z) — Nature · 17:00 PT · #science
 - [Growing plane and ship traffic degrade the air of western North America](https://www.nature.com/articles/d41586-026-03239-0) — Nature · 17:00 PT · #science
 - [‘Incredible’: bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) — Nature · 17:00 PT · #science
+- [Daily briefing: China’s extraordinary rise in science](https://www.nature.com/articles/d41586-026-03322-6) — Nature · 17:00 PT · #science #foreign
 - [Ultrashort laser pulses offer a new way to probe electrons' quantum geometry](https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years](https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science #foreign
 - [Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur](https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
@@ -407,19 +423,3 @@ tags: ["category", "science"]
 - [The hidden math of Alzheimer's could point to new treatments](https://www.sciencedaily.com/releases/2026/10/261008102714.htm) — Latest Science News -- ScienceDaily · 12:24 PT · #science
 - [8 fierce animals show just how metal nature is](https://www.popsci.com/environment/8-animal-photos-nature-is-metal/) — Popular Science · 12:00 PT · #science
 - [The Times’s New Space Editor Has Her Eye on the Cosmos](https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html) — NYT > Science · 11:14 PT · #science
-- [Young parrot rescued from grips of invasive boa snake](https://www.popsci.com/environment/young-parrot-rescued-from-grips-of-invasive-boa-snake/) — Popular Science · 10:09 PT · #science
-- [Scientists make stunning discovery that could help explain why life exists](https://www.sciencedaily.com/releases/2026/10/261009025602.htm) — Latest Science News -- ScienceDaily · 09:35 PT · #science
-- [NASA spots a giant patch of Moon-like rock on Earth](https://www.sciencedaily.com/releases/2026/10/261008102707.htm) — Latest Science News -- ScienceDaily · 08:30 PT · #science
-- [‘One of the ocean’s best-kept secrets’ spotted near Massachusetts](https://www.popsci.com/environment/rare-chilean-devil-rays-massachusetts/) — Popular Science · 08:17 PT · #science
-- [New injection makes fat cells self-destruct](https://www.sciencedaily.com/releases/2026/10/261008102713.htm) — Latest Science News -- ScienceDaily · 08:08 PT · #science
-- [Can carnivorous plants eat people?](https://www.popsci.com/science/carnivorous-plants-eat-humans/) — Popular Science · 04:56 PT · #science
-- [Who Were the Vikings? 21 Graves Weave a Tale of Hunters, Nomads and Sorceresses.](https://www.nytimes.com/2026/10/11/science/vikings-archaeology-history-sea-king-sorceress.html) — NYT > Science · 02:00 PT · #science
-
-## 2026-10-10
-
-- [The eye has a hidden cleanup system scientists never knew existed](https://www.sciencedaily.com/releases/2026/10/261008005254.htm) — Latest Science News -- ScienceDaily · 23:01 PT · #science
-- [Eating olive oil before carbs has a surprising effect on blood sugar](https://www.sciencedaily.com/releases/2026/10/261008102700.htm) — Latest Science News -- ScienceDaily · 21:32 PT · #science #oil
-- [APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos](https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/) — NASA · 21:05 PT · #science
-- [Scientists build a nuclear clock that could make atomic clocks obsolete](https://www.sciencedaily.com/releases/2026/10/261008102701.htm) — Latest Science News -- ScienceDaily · 20:06 PT · #science
-- [A plastic once thought harmless may be fueling fatty liver disease](https://www.sciencedaily.com/releases/2026/10/261008102718.htm) — Latest Science News -- ScienceDaily · 17:47 PT · #science
-- [Neanderthals may have used prehistoric glue as an ancient antibiotic](https://www.sciencedaily.com/releases/2026/10/261008005256.htm) — Latest Science News -- ScienceDaily · 17:45 PT · #science

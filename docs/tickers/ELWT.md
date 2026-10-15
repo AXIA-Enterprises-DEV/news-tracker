@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $ELWT"
-updated: 2026-10-14T23:31:46-07:00
+updated: 2026-10-15T05:04:39-07:00
 count: 1
 tags: ["ticker", "ELWT"]
 ---

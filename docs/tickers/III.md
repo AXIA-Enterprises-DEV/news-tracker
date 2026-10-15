@@ -1,13 +1,19 @@
 ---
 title: "Ticker: $III"
-updated: 2026-10-14T23:31:46-07:00
-count: 1
+updated: 2026-10-15T05:04:39-07:00
+count: 4
 tags: ["ticker", "III"]
 ---
 
 # Ticker: $III
 
-1 most recent items (14-day window).
+4 most recent items (14-day window).
+
+## 2026-10-15
+
+- [Europäische Unternehmen verbinden Nachhaltigkeit mit unternehmerischer Widerstandsfähigkeit](http://www.businesswire.com/news/home/20261015132373/de/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 02:27 PT · #business #markets $III
+- [Les entreprises européennes associent la durabilité à la résilience commerciale](http://www.businesswire.com/news/home/20261015552286/fr/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 02:27 PT · #business #markets $III
+- [European Firms Link Sustainability to Business Resilience](http://www.businesswire.com/news/home/20261015156507/en/European-Firms-Link-Sustainability-to-Business-Resilience/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 01:00 PT · #business #ai $III
 
 ## 2026-10-13
 

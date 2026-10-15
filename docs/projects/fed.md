@@ -1,16 +1,38 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-14T23:31:46-07:00
-count: 300
+updated: 2026-10-15T05:04:39-07:00
+count: 320
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-300 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+320 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+
+## 2026-10-15
+
+- [Factbox-Major brokerages expect next Fed rate hike in December](https://www.investing.com/news/economy-news/factboxmajor-brokerages-expect-next-fed-rate-hike-in-december-4951431) — All News · 04:48 PT · #business #fed
+- [Premarket movers: Chip stocks slide as inflation fears hit AI trade](https://www.investing.com/news/stock-market-news/premarket-movers-chip-stocks-slide-as-inflation-fears-hit-ai-trade-4951419) — Investing.com Stock Market · 04:44 PT · #markets #ai #fed
+- [Ethereum Price Prediction: ETH Bears Take Over in Latest Liquidation Bloodbath](https://cryptonews.com/news/ethereum-price-prediction-liquidations/) — News - Cryptonews · 04:03 PT · #markets #fed
+- [Revenue per Worker Is Up. Are Firms Getting a Larger Share?](https://libertystreeteconomics.newyorkfed.org/2026/10/revenue-per-worker-is-up-are-firms-getting-a-larger-share/) — NY Fed Liberty Street Economics · 04:00 PT · #markets #fed
+- [Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge](https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html) — CNBC Top News · 03:54 PT · #markets #fed
+- [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt) — Guardian World · 03:38 PT · #world #ai #fed
+- [What Now, FOMC? - The American Action Forum](https://news.google.com/rss/articles/CBMibkFVX3lxTE85N0ZqTjFFcmh6X3hkbVpqX3lwTGhxRlZTNWpRVkFreXJIdzQteEVnaENaZHlZQ25MdU4wWGU1MmU0TVYwN2JLRXRWQmpsSnJ5WGduMFFmZzMteTZyOXE5WW1fWmNXREMwamdRVzVB?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 03:34 PT · #markets #fed
+- [Tech Stocks Plunge as Doubts Over A.I. Spending Intensify](https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html) — NYT Business · 03:10 PT · #business #fed #markets
+- [Bitcoin Slips Under $81K on Hot Inflation, but On-Chain Data Signals Recovery](https://dailycoin.com/bitcoin-price-slips-81k-inflation-but-on-chain-recovery/) — DailyCoin · 03:00 PT · #markets #fed
+- [Bitcoin Price Prediction: Can BTC Rebound After a Brutal Sell-off?](https://cryptonews.com/news/bitcoin-price-prediction-can-btc-recover/) — News - Cryptonews · 02:40 PT · #markets #fed
+- [Toys, tariffs, and AI are making inflation a nightmare for the Federal Reserve - Dagens.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQm9kcm93ZDlKcmtha1c0NlVfNno3UHRZX0xiTzUzb0RXcEFfQXF0N0pjYXQwOEEwMlMtNFdQU0l1aUI3SURVWG1sYWgybEY5X2RsQmJHUzNpUkxiYTlmazVmS1VtMjllcDRwcm1BdmFPNWRpQ3VhRGxtSUNHbkhrcXhPREVtS1lXY2RfeHRYdXRDN3oyaHctVl96bXhndjctRGsxTnl4MkpIQzM2?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 02:15 PT · #markets #ai #fed
+- [Nevada's next budget could see at least $1 billion boost. Here's why.](https://thenevadaindependent.com/article/nevadas-next-budget-could-see-at-least-1-billion-boost-heres-why/) — The Nevada Independent · 02:00 PT · #us #fed #nevada
+- [Gold prices rebound as dollar slips from 18-month high - Profit by Pakistan Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxNY0pIX0tUeHRUWlRaQXRyVl9fMDhmdlVWclY2N1lNSzVTQy0xd0Z2cWJ0aHg1YzllbW1VeEg4VUsyRDZlUXJfM1A5amE2amoxZnFNTmZFaG5WNjdiNWRSWkg4M0lOb0p1a1hzd0Q4b25hNXp0eGFBMFFpbDBqQncxMHRaMzZfTmNDM29TcnZXUzJDdFNiY0lBYUhlTDRsYmZnVEUzeWxMbTNNallEVmI1ZmxDWFBwVndZcG16Rw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 01:24 PT · #markets #fed
+- [Why Is Crypto Down? Hotter CPI Fuels Fears of Delayed Fed Rate Cuts](https://cryptonews.com/news/why-is-crypto-down-cpi-hot-rate-cut-fears/) — News - Cryptonews · 00:28 PT · #markets #fed
+- [Global Market: Citi expects Fed to raise rates by 25 basis points in December after hot US inflation data - The Economic Times](https://news.google.com/rss/articles/CBMinwJBVV95cUxPYXdINS1kY3EzcFlFMjhPcVU0RVJsSFdZcE1CM2FCZDQzNHVJX3g3VFJKT3FCUTRGbkUwQVhsYll1ejVWM1BBMExhb24tZ0FDclh0RS1MNFA4X1hEdk5vbTRVZEZOWUFiTmpQeUREU3RRQTNnWWhUWm5ZQ2VueDM1Yld5SWhkVVFHMUpaSDJ2dUZVdURUM2tFODhZczVOeklWMHhCMzVjalRoUEgxYzNsUVhjZjFzS1NlSG1EazBUYk1rVmY2cVRIeHRRcjZaUEJJc3loV0J3XzlHdjdCdVNVX2Nmc3NOX2laN1h3T1MteTNtX05fNmtoZWVGbE5BRVhvVVNXQU5OeWM2cFpZcmUxNE9RR0RJWEJ6ellFb2Vkd9IBpAJBVV95cUxPVTRhNEpDUjZEWHI4RG0yX3hvNEFmdUdFM0xENXYzQi1aU2JrS202V2YxNEF0WDlzRHVDRmZIZDBhU3pDRHFQeUtrN1pTQmlvd0dsVWxzRzRzUHdiSG9ySnVIVHpVbXdZSGlxRnowWHNsWFZOWmY1Z2JrNEM4Mkl0S2I2UzFRci1sZkN2NWdaWVZiRk4zSlBMMndSQkpvMDkwa2hybW1HUG9RNEhzVXNDVjNMbm1DWThVVlhtdHhZLVJZUnpOMnVOdlo0c2NVTE9qQWpBMXVhVE5aaUllZkJ6MlFZamNhMG9uVnFWc2VJNjVQdmoxcTZ5WUJiWGNIeFlPcTJzZzItYkR2YlBaVk9IWDlqSUtucUJZNFlGelQ4VGtqWmJR?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 00:00 PT · #markets #fed
 
 ## 2026-10-14
 
+- [Ripple Price Forecast: Drops Below $1.3 Amid Heavy Rate Hike Pressure, Risking Test of $1 Mark? - TradingKey](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSG1YZjJsLXI2NzR0NldVZ1h3Y3dpWnk3Ul9sc0JpVXZqTmM0X0lFMXhlMEtWVEZLVFFBVFVlUkoyNkIwMlJ2dVVsMlY3b2RxZGlCUHVVM2p3ZS1lV1VPN2pkNzNUZER2eHNlQWFEUElEb2xVSmpqVjdSZG4yWFpnUTAyUHZBNlZpVlI4V1lFYnRWMm1BYWIxVE1WMUdkczYwUnd3ZDcyQm5CUkFmbHo0UWFoT0VLNFJLbF9nRGp3ZmRIblE?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 23:50 PT · #markets #fed
+- [French inflation rises to 3.4% in September, highest since January 2024](https://www.investing.com/news/economic-indicators/french-inflation-rises-to-34-in-september-highest-since-january-2024-4950657) — Investing.com Economic Indicators · 23:48 PT · #markets #fed
+- [UK GDP beats forecasts with 0.1% growth in August](https://www.investing.com/news/economic-indicators/uk-gdp-beats-forecasts-with-01-growth-in-august-4950649) — Investing.com Economic Indicators · 23:40 PT · #markets #fed
+- [UK economy posts 0.1% growth in August, beats forecasts](https://www.investing.com/news/economic-indicators/uk-economy-posts-01-growth-in-august-beats-forecasts-93CH-4950615) — Investing.com Economic Indicators · 23:22 PT · #markets #fed
 - [Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease](https://www.investing.com/news/economy-news/dollar-retreats-from-18month-high-despite-hot-cpi-as-fed-officials-temper-hike-bets-4950378) — All News · 23:12 PT · #business #fed
 - [UK economy beats forecasts to grow by 0.1% in August](https://www.investing.com/news/economic-indicators/uk-economy-beats-forecasts-to-grow-by-01-in-august-4950588) — Investing.com Economic Indicators · 23:06 PT · #markets #fed
 - [EU leaders to tackle China exports, energy prices, budget at summit](https://www.investing.com/news/economic-indicators/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit-4950477) — Investing.com Economic Indicators · 22:24 PT · #markets #fed #foreign
@@ -34,6 +56,7 @@ tags: ["project", "fed"]
 - [Celina Powell Vs. Woah Vicky Hits Brand Risk 16 Free — Here’s How To Watch](https://www.forbes.com/sites/brianmazique/2026/10/14/celina-powell-vs-woah-vicky-hits-brand-risk-16-free---heres-how-to-watch/) — Forbes - Business · 16:40 PT · #business #fed
 - [The AI trade is splintering as inflation fears rattle hyped-up tech stocks](https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories) — MarketWatch Top Stories · 16:36 PT · #markets #ai #fed
 - [Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms](https://www.nytimes.com/2026/10/14/us/politics/inflation-republicans-midterms-trump.html) — NYT Politics · 16:20 PT · #politics #fed
+- [Federal Reserve Governor Bowman: Does not... - ChainCatcher](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GTzN0bFJIby1pb2l0OEEzYUVsbDRkOHNQRUE4MVFKVzRRWldrcmZtWXdXZTZrckNkYzJSRGJfM3FHazFLeU9aSC1mWjZQWWk3LTM0cm9SanRZcGc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 16:14 PT · #markets #fed
 - [Jim Cramer explains why even strong bank earnings couldn't save their stocks](https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html) — CNBC Top News · 15:48 PT · #markets #fed
 - [Exclusive-Fed’s Daly says rate hikes likely needed, but not urgently](https://www.investing.com/news/economic-indicators/exclusivefeds-daly-says-rate-hikes-likely-needed-but-not-urgently-4950157) — Investing.com Economic Indicators · 15:12 PT · #markets #fed
 - [EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 15:09 PT · #markets #fed

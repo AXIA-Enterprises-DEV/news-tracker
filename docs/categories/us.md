@@ -1,19 +1,45 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-14T23:31:46-07:00
-count: 338
+updated: 2026-10-15T05:04:39-07:00
+count: 362
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-338 most recent items (14-day window).
+362 most recent items (14-day window).
+
+## 2026-10-15
+
+- [Trump’s ice maiden is under fire](https://www.politico.com/newsletters/playbook/2026/10/15/trumps-ice-maiden-is-under-fire-01119850) — Playbook · 03:10 PT · #us
+- [Nevada's next budget could see at least $1 billion boost. Here's why.](https://thenevadaindependent.com/article/nevadas-next-budget-could-see-at-least-1-billion-boost-heres-why/) — The Nevada Independent · 02:00 PT · #us #fed #nevada
+- [OPINION: Tired of political spam texts and emails? It's only going to get worse.](https://thenevadaindependent.com/article/opinion-tired-of-political-spam-texts-and-emails-its-only-going-to-get-worse/) — The Nevada Independent · 02:00 PT · #us #ai #civic #nevada
+- [Los votantes de Nevada tomarán la decisión definitiva sobre la identificación obligatoria del votante](https://lasvegassun.com/news/2026/oct/15/los-votantes-de-nevada-tomarn-la-decisin-definitiv/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Nevada voters will make the final decision on mandatory voter ID in November](https://lasvegassun.com/news/2026/oct/15/nevada-voters-will-make-the-final-decision-on-mand/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Zach Bryan announces Allegiant Stadium stop as part of 2027 tour](https://lasvegassun.com/news/2026/oct/15/zach-bryan-announces-allegiant-stadium-stop-as-par/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Investigadores de Virginia Tech revelan un agotamiento acelerado de las aguas subterráneas en toda la cuenca del río Colorado](https://lasvegassun.com/news/2026/oct/15/investigadores-de-virginia-tech-revelan-un-agotami/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Virginia Tech researchers reveal accelerating groundwater depletion across the Colorado River Basin](https://lasvegassun.com/news/2026/oct/15/virginia-tech-researchers-reveal-accelerating-grou/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Vegas pick'em: NFL Week 6 winners against the spread](https://lasvegassun.com/news/2026/oct/15/nfl-vegas-picks-week6-against-spread-sportsbooks/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [2026 Top Doctors: Recognizing some of Southern Nevada's most respected physicians](https://vegasinc.lasvegassun.com/business/2026/oct/15/2026-top-doctors-recognizing-some-of-las-vegas-mos/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- ['Our ancestors’ wildest dreams’: ‘Spelman 7’ defy college expectations](https://lasvegassun.com/news/2026/oct/15/our-ancestors-wildest-dreams-spelman-7-defy-colleg/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Democratic candidates have nation's best interest at heart](https://lasvegassun.com/news/2026/oct/15/democratic-candidates-have-nations-best-interest-a/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Looking for blame in all the wrong places](https://lasvegassun.com/news/2026/oct/15/looking-for-blame-in-all-the-wrong-places/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Raiders still pointing upward despite two-game losing streak](https://lasvegassun.com/news/2026/oct/15/raiders-still-pointing-upward-despite-two-game-los/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Boy Harsher brings latest album 'Get Mean' to House of Blues Las Vegas](https://lasvegasweekly.com/ae/music/2026/oct/15/boy-harsher-get-mean-house-of-blues-concert/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Award-winning filmmaker Hisonni Mustafa blazes a bright trail in Las Vegas](https://lasvegasweekly.com/ae/film/2026/oct/15/filmmaker-hisonni-mustafa-interview-/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [US bases overseas are becoming prime targets](https://lasvegassun.com/news/2026/oct/15/us-bases-overseas-are-becoming-prime-targets/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
+- [The case for impeachment: What would the founders do?](https://lasvegassun.com/news/2026/oct/15/the-case-for-impeachment-what-would-the-founders-d/) — Las Vegas Sun · 02:00 PT · #us #nevada #smallbiz
+- [Is the Iran war driving up gas prices in Nevada?](https://thenevadaindependent.com/article/is-the-iran-war-driving-up-gas-prices-in-nevada/) — The Nevada Independent · 01:55 PT · #us #foreign #nevada
+- [Algunos sindicatos de Nevada apoyan los centros de datos. Ahora tienen que convencer a los demás.](https://thenevadaindependent.com/article/algunos-sindicatos-de-nevada-apoyan-los-centros-de-datos-ahora-tienen-que-convencer-a-los-demas/) — The Nevada Independent · 01:15 PT · #us #nevada
 
 ## 2026-10-14
 
+- [No. 2 Faith Lutheran blanks No. 1 Bishop Gorman in 5A girls soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-2-faith-lutheran-blanks-no-1-bishop-gorman-in-5a-girls-soccer-photos-3900282/) — Las Vegas Review-Journal · 23:55 PT · #us #nevada
+- [First Friday on pause after deadly Arts District shooting; businesses support safety review](https://www.ktnv.com/news/first-friday-on-pause-after-deadly-arts-district-shooting-businesses-support-safety-review) — KTNV Las Vegas · 23:28 PT · #us #nevada
 - [1 man dead near Sunrise Manor, Las Vegas police say](https://www.reviewjournal.com/crime/homicides/1-man-dead-near-sunrise-manor-las-vegas-police-say-3900270/) — Las Vegas Review-Journal · 22:40 PT · #us #nevada
 - [A little bipartisan bromance as Schwarzenegger, Newsom laud California's climate-change wins](https://www.latimes.com/california/story/2026-10-14/little-bipartisan-bromance-as-schwarzenegger-newsom-laud-californias-climate-change-wins) — World & Nation · 22:32 PT · #us
 - [Police investigate homicide on Owens Avenue in east Las Vegas](https://www.ktnv.com/news/crime/police-investigate-homicide-on-owens-avenue-in-east-las-vegas) — KTNV Las Vegas · 22:02 PT · #us #nevada
+- [Man dead after shooting outside business in northeast Las Vegas; no suspects in custody](https://www.ktnv.com/man-dead-after-shooting-outside-business-in-northeast-las-vegas) — KTNV Las Vegas · 22:02 PT · #us #nevada
 - [Wednesday’s Nevada Preps scoreboard](https://www.reviewjournal.com/nevada-preps/wednesdays-nevada-preps-scoreboard-3900264/) — Las Vegas Review-Journal · 21:54 PT · #us #nevada
 - [First Friday in downtown Las Vegas paused after fatal shooting](https://lasvegassun.com/news/2026/oct/14/first-friday-in-downtown-las-vegas-paused-after-fa/) — Las Vegas Sun · 21:36 PT · #us #nevada
 - [Henderson mayor touts milestones in State of the City address](https://www.reviewjournal.com/local/henderson/henderson-mayor-touts-milestones-in-state-of-the-city-address-3900243/) — Las Vegas Review-Journal · 21:11 PT · #us #nevada
@@ -64,6 +90,7 @@ tags: ["category", "us"]
 - [‘Aggressive’ great white shark seen in waters off Huntington Beach](https://www.reviewjournal.com/news/nation-and-world/aggressive-great-white-shark-seen-in-waters-off-huntington-beach-3900024/) — Las Vegas Review-Journal · 12:18 PT · #us #nevada
 - [Boston construction giant hires new exec to lead Las Vegas office](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/boston-construction-giant-hires-new-exec-to-lead-las-vegas-office-3900016/) — Las Vegas Review-Journal · 11:54 PT · #us #nevada
 - [Texas prosecutor says ICE officer appeared to intentionally strike a man with a vehicle in Houston](https://lasvegassun.com/news/2026/oct/14/texas-prosecutor-says-ice-officer-appeared-to-inte/) — Las Vegas Sun · 11:34 PT · #us #nevada
+- [Ukraine Says Elon Musk’s SpaceX Hampers Drones For Attack And Defence, As U.S. Ties Fray](https://www.huffpost.com/entry/ukraine-zelenskyy-elon-musk-starlink_n_6acfbaa2e4b0bfd25653976d) — World News - Breaking News, Top Stories · 10:30 PT · #us #foreign
 - [Raiders QB meets with media to preview Sunday’s game vs. Buffalo Bills](https://www.reviewjournal.com/sports/raiders/raiders-coach-qb-meet-with-media-to-preview-sundays-game-vs-buffalo-bills-3899993/) — Las Vegas Review-Journal · 10:25 PT · #us #nevada
 - [Student arrested after bringing gun on campus at Desert Oasis High School](https://www.ktnv.com/news/student-arrested-after-bringing-gun-on-campus-at-desert-oasis-high-school) — KTNV Las Vegas · 10:12 PT · #us #nevada
 - [Student in custody after gun found at high school in Las Vegas](https://www.reviewjournal.com/crime/student-in-custody-after-gun-found-at-high-school-in-las-vegas-3899984/) — Las Vegas Review-Journal · 09:52 PT · #us #nevada
