@@ -1,16 +1,28 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-15T13:11:32-07:00
-count: 397
+updated: 2026-10-15T16:06:34-07:00
+count: 400
 tags: ["category", "us"]
 ---
 
 # Category: U.S.
 
-397 most recent items (14-day window).
+400 most recent items (14-day window).
 
 ## 2026-10-15
 
+- [2 hospitalized, shooter dead after shooting at an Oregon elementary school](https://www.reviewjournal.com/crime/shootings/2-hospitalized-shooter-dead-after-shooting-at-an-oregon-elementary-school-3900612/) — Las Vegas Review-Journal · 15:21 PT · #us #nevada
+- [CARTOON: Numbers don’t lie](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-numbers-dont-lie-3900603/) — Las Vegas Review-Journal · 15:15 PT · #us #nevada
+- [Las Vegas gambler pleads guilty to charges in basketball betting scandals](https://www.reviewjournal.com/sports/betting/las-vegas-gambler-pleads-guilty-to-charges-in-basketball-betting-scandals-3900567/) — Las Vegas Review-Journal · 14:59 PT · #us #nevada
+- [‘Domino-like fashion’: Woman trapped in car after utility poles fell on car, lawsuit alleges](https://www.reviewjournal.com/news/civil-courts/domino-like-fashion-woman-trapped-in-car-after-utility-poles-fell-on-car-lawsuit-alleges-3900554/) — Las Vegas Review-Journal · 14:33 PT · #us #nevada
+- [Hot weather and winds raise California wildfire threat as power shutoffs start](https://lasvegassun.com/news/2026/oct/15/hot-weather-and-winds-raise-california-wildfire-th/) — Las Vegas Sun · 14:32 PT · #us #nevada
+- [Tom Brady ‘ready to testify’ over Tuck Rule Game that haunts the Raiders](https://www.reviewjournal.com/sports/raiders/tom-brady-ready-to-testify-over-tuck-rule-game-that-haunts-the-raiders-3900551/) — Las Vegas Review-Journal · 14:30 PT · #us #nevada
+- [‘The complete back’: BYU commit has Liberty ready for Superintendents Cup](https://www.reviewjournal.com/nevada-preps/the-complete-back-byu-commit-has-liberty-ready-for-superintendents-cup-3900548/) — Las Vegas Review-Journal · 14:23 PT · #us #nevada
+- [Found a lost pet? Check it for a microchip with free Clark County scanners](https://www.reviewjournal.com/news/politics-and-government/clark-county/found-a-lost-pet-check-it-for-a-microchip-with-free-clark-county-scanners-3900535/) — Las Vegas Review-Journal · 14:18 PT · #us #nevada
+- [Las Vegas man sentenced in drunken crash that critically injured UK family](https://www.reviewjournal.com/crime/courts/las-vegas-man-sentenced-in-drunken-crash-that-critically-injured-uk-family-3900531/) — Las Vegas Review-Journal · 14:16 PT · #us #nevada
+- [Body in barrel that of Edward ‘Buddy’ Jackson, officials say](https://www.reviewjournal.com/crime/homicides/body-in-the-barrel-case-officials-set-to-provide-update-at-las-vegas-police-hq-3900527/) — Las Vegas Review-Journal · 14:06 PT · #us #nevada
+- [Trump administration sues California to block state from counting alleged noncitizen mail-in ballots](https://lasvegassun.com/news/2026/oct/15/trump-administration-sues-california-to-block-stat/) — Las Vegas Sun · 13:21 PT · #us #civic #nevada
+- [Friday’s Nevada Preps top 5 football games to watch](https://www.reviewjournal.com/nevada-preps/fridays-nevada-preps-top-5-football-games-to-watch-3900505/) — Las Vegas Review-Journal · 12:57 PT · #us #nevada
 - [Discount airline Avelo plans additional flights to Dallas area](https://www.reviewjournal.com/business/tourism/discount-airline-avelo-plans-additional-flights-to-dallas-area-3900497/) — Las Vegas Review-Journal · 12:41 PT · #us #nevada
 - [Developing: Homicide investigation in east Las Vegas after person shot near business](https://www.ktnv.com/news/crime/developing-homicide-investigation-in-east-las-vegas-after-person-shot-near-business) — KTNV Las Vegas · 12:41 PT · #us #nevada
 - [New project with 1,000-plus homes to be built in downtown Las Vegas](https://www.reviewjournal.com/business/housing/new-project-with-1000-plus-homes-to-be-built-in-downtown-las-vegas-3900493/) — Las Vegas Review-Journal · 12:37 PT · #us #nevada
@@ -66,6 +78,7 @@ tags: ["category", "us"]
 - [The case for impeachment: What would the founders do?](https://lasvegassun.com/news/2026/oct/15/the-case-for-impeachment-what-would-the-founders-d/) — Las Vegas Sun · 02:00 PT · #us #nevada #smallbiz
 - [Is the Iran war driving up gas prices in Nevada?](https://thenevadaindependent.com/article/is-the-iran-war-driving-up-gas-prices-in-nevada/) — The Nevada Independent · 01:55 PT · #us #foreign #nevada
 - [Algunos sindicatos de Nevada apoyan los centros de datos. Ahora tienen que convencer a los demás.](https://thenevadaindependent.com/article/algunos-sindicatos-de-nevada-apoyan-los-centros-de-datos-ahora-tienen-que-convencer-a-los-demas/) — The Nevada Independent · 01:15 PT · #us #nevada
+- [School Roof Collapse Kills At Least 29, Injures More Than 3 Dozen In Pakistan](https://www.huffpost.com/entry/pakistan-school-roof-collapse_n_6ad07f7ce4b0f62da445e40b) — World News - Breaking News, Top Stories · 00:28 PT · #us
 
 ## 2026-10-14
 
@@ -112,6 +125,7 @@ tags: ["category", "us"]
 - [Clark County officials ID body found in barrel at Lake Mead in 2022](https://www.reviewjournal.com/crime/homicides/clark-county-officials-id-body-found-in-barrel-at-lake-mead-in-2022-3900060/) — Las Vegas Review-Journal · 15:03 PT · #us #nevada
 - [Las Vegas woman sentenced to 14 years in prison for child sex trafficking](https://lasvegassun.com/news/2026/oct/14/las-vegas-woman-sentenced-to-14-years-in-prison-fo/) — Las Vegas Sun · 15:02 PT · #us #nevada
 - [Body found in barrel at Lake Mead will be identified this week, officials say](https://www.ktnv.com/news/body-found-in-barrel-at-lake-mead-will-be-identified-this-week-officials-say) — KTNV Las Vegas · 14:58 PT · #us #nevada
+- [Mystery solved: Investigators identify body found in barrel at Lake Mead in 2022](https://www.ktnv.com/news/investigators-identify-man-found-in-barrel-at-lake-mead-in-2022) — KTNV Las Vegas · 14:58 PT · #us #nevada
 - [Raiders freefall in latest power rankings after blowout loss to Patriots](https://www.reviewjournal.com/sports/raiders/raiders-freefall-in-latest-power-rankings-after-blowout-loss-to-patriots-3900056/) — Las Vegas Review-Journal · 14:56 PT · #us #nevada
 - [Clark County seeks applicants for stadium authority board](https://lasvegassun.com/news/2026/oct/14/clark-county-seeks-applicants-for-stadium-authorit/) — Las Vegas Sun · 14:32 PT · #us #nevada
 - [Court OKs sale of downtown Las Vegas casino property](https://www.reviewjournal.com/business/casinos-gaming/court-oks-sale-of-downtown-las-vegas-casino-property-3900049/) — Las Vegas Review-Journal · 14:23 PT · #us #nevada
@@ -436,17 +450,3 @@ tags: ["category", "us"]
 - [News Analysis: Saudi Arabia once counted on U.S. protection. Now it's pivoting to new alliances](https://www.latimes.com/world-nation/story/2026-10-02/saudis-who-once-counted-on-u-s-protection-pivot-to-new-alliances) — World & Nation · 03:00 PT · #us #foreign
 - ['It disrespects everybody': Why union Nevada veterans are filming ads opposing Flippo](https://thenevadaindependent.com/article/it-disrespects-everybody-why-union-nevada-veterans-are-filming-ads-opposing-flippo/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
 - [Race for Nevada's chief fiscal officer focuses on collecting debt, government transparency](https://thenevadaindependent.com/article/race-for-nevadas-chief-fiscal-officer-focuses-on-collecting-debt-government-transparency/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
-- [Was $20,000 spent on new curtains for Attorney General Aaron Ford's office?](https://thenevadaindependent.com/article/did-aaron-ford-spend-800k-to-redecorate-his-office/) — The Nevada Independent · 01:55 PT · #us #nevada
-- [Estas son las posturas de las candidatas al 1.er Distrito Congresional de Nevada en temas clave](https://thenevadaindependent.com/article/estas-son-las-posturas-de-las-candidatas-al-1-er-distrito-congresional-de-nevada-en-temas-clave/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-01
-
-- [Data centers, Flock cameras and Reno's budget take center stage in tense mayoral forum](https://thenevadaindependent.com/article/data-centers-flock-cameras-and-renos-budget-take-center-stage-in-tense-mayoral-forum/) — The Nevada Independent · 12:30 PT · #us #nevada
-- [California gets a new eye in the sky to track planet-warming methane](https://www.latimes.com/environment/story/2026-10-01/new-satellite-to-track-powerful-climate-change-driver-launches-from-vandenberg) — World & Nation · 12:06 PT · #us
-- [Hillbilly Autopsy](https://www.politico.com/newsletters/playbook/2026/10/01/hillbilly-autopsy-01102970) — Playbook · 03:24 PT · #us
-- [Influencers filed ethics complaint against Raman campaign — with help from Bass lawyers](https://www.latimes.com/politics/story/2026-10-01/bass-lawyers-help-influencers-file-complaint-against-raman-campaign) — World & Nation · 03:00 PT · #us
-- [Is Cuba on the brink of collapse? A photographer took a road trip to find out](https://www.latimes.com/world-nation/story/2026-10-01/cuba-fuel-shortage-trump) — World & Nation · 03:00 PT · #us #oil
-- [OPINION: Noncitizen voters aren't the real threat to democracy. The president is.](https://thenevadaindependent.com/article/opinion-noncitizen-voters-arent-the-real-threat-to-democracy-the-president-is/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
-- ['Nevadans are getting hosed': Why affordability is 2026's buzzword](https://thenevadaindependent.com/article/nevadans-are-getting-hosed-why-affordability-is-2026s-buzzword/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Saved by the high rollers: Strip sees loss of value customers, but lift from premium play](https://thenevadaindependent.com/article/saved-by-the-high-rollers-strip-sees-loss-of-value-customers-but-lift-from-premium-play/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Escuelas de Nevada enfrentaron grave crisis de presupuesto. Por esto intervino el estado.](https://thenevadaindependent.com/article/escuelas-de-nevada-enfrentaron-grave-crisis-de-presupuesto-por-esto-intervino-el-estado/) — The Nevada Independent · 01:15 PT · #us #nevada

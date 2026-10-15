@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $TNET"
-updated: 2026-10-15T13:11:32-07:00
-count: 1
+updated: 2026-10-15T16:06:34-07:00
+count: 2
 tags: ["ticker", "TNET"]
 ---
 
 # Ticker: $TNET
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-15
+
+- [TriNet to Report Third Quarter 2026 Financial Results on October 29](https://www.prnewswire.com/news-releases/trinet-to-report-third-quarter-2026-financial-results-on-october-29-302910538.html) — PR Newswire Business Tech · 14:00 PT · #tech $TNET
 
 ## 2026-10-13
 

@@ -1,16 +1,20 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-15T13:11:32-07:00
-count: 73
+updated: 2026-10-15T16:06:34-07:00
+count: 77
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-73 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+77 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-15
 
+- [Colorado cannabis vape recall expands as health complaints rise](https://mjbizdaily.com/news/colorado-cannabis-vape-recall-expands-as-health-complaints-rise/618658/) — MJBizDaily · 15:49 PT · #business #cannabis #smallbiz
+- [Denver cannabis lounge expanding to Las Vegas, plans 20 locations by 2035 - The Business Journals](https://news.google.com/rss/articles/CBMipgFBVV95cUxON0lCZG5QTDRBNUMzWWVvVUZKemdqS0JWREl6ZGtGVm1JNTZQXzUwUWptMFpVNFBkUjBhS3RILS1IZ2xQVFVzeXFQbUF1bEtLRGpITEhwT3dxclgwNUgwTEFGbEpfSWdlUTZCOW1EamVoRm5rVXNrT1lQN1FrUlRRdENKZzAtLU5XaDlnNDA3Qy00SUtCYldhcEpZS1hXZTcyanNSZTd3?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:02 PT · #business #cannabis #nevada
+- [Cody Whipple does things 'my way.' Can the small-town rancher flip Nevada's bluest House seat? - Mesa Valleys Progress](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGhoTWhDQjB1MHp0SG0zOUxWXy1mbDJEaTA0YXZfUVh4TzlWSDVIZWhGV29PdW5QeWQzSVlMMUtPX3c4OUxJem5oZGpfSWpodU9zTXhQcnM0TnlKWktVQk5VUVFBR0kxUklMcHJVNjJKNDJpRzhlbGMyTDZ4aWZ3NW52R3Y3WkZ6ZzNWY2s1bDRldEg1SWl4MnFwaEJTRVpySUpxT1IwNGlZaHZxd2FCdUE5cjgzZUZCZmotSG1SVTdmZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:48 PT · #business #cannabis #nevada
+- [Aurora Cannabis board rebuffs Curaleaf takeover again, welcomes other bids](https://mjbizdaily.com/news/aurora-cannabis-board-rebuffs-curaleaf-takeover-again-welcomes-other-bids/618657/) — MJBizDaily · 13:29 PT · #business #cannabis #markets #smallbiz
 - [First Time Shopping At A Dispensary? 7 Things To Know Before You Go](https://www.forbes.com/sites/petersu/2026/10/15/first-time-shopping-at-a-dispensary-7-things-to-know-before-you-go/) — Forbes - Business · 10:59 PT · #business #cannabis
 - [Marijuana Businesses Fighting To Ban Hemp THC Products Are Being Short-Sighted (Op-Ed)](https://www.marijuanamoment.net/marijuana-businesses-fighting-to-ban-hemp-thc-products-are-being-short-sighted-op-ed/) — Marijuana Moment · 10:08 PT · #business #cannabis
 - [Marijuana rescheduling opponents ask judge for additional briefings](https://seekingalpha.com/news/4653520-marijuana-rescheduling-opponents-ask-judge-additional-briefings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 09:44 PT · #markets #cannabis

@@ -1,16 +1,20 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-15T13:11:32-07:00
-count: 226
+updated: 2026-10-15T16:06:34-07:00
+count: 231
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-226 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+231 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-15
 
+- [OMBUDSMAN Jesus Crispin Remulla warned the public against paid social media propaganda aimed at misleading Filipinos about corruption cases, saying money, political connections and online manipulation would not stop the government from pursuing a - LinkedIn](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWtpSnRhZHUwMDZrQmFta0o2UUFoT3hqai0yQlRjb0RLNFJrZ1hlRTQ3UVM2bTBLVTk2WmlNRDNvaWFmT0pIZk5QdWlVR0p1X0I3MDZocUpCRm9KemdQQlh2NGl1NzNOZjhja3FwYnlwZjVRUk5UYmlxUGRiaFhtdlkyWTZwdC1KcENkVHUtV3VCc1NBdzYtYmdiVzN2eE1vQ2F6UXQ3dGlXSktpTDlUQ2NORUNUaTEzTjJ5cmR1a0RMZw?oc=5) — Google News: propaganda OR disinformation media · 14:14 PT · #world #media
+- [The Case of the ‘Magic Number’](https://www.cjr.org/analysis/the-case-of-the-magic-number-cbs-news-death-count-gaza-palestinians-idf-weiss-raice.php) — Columbia Journalism Review · 14:06 PT · #tech #foreign #media
+- [Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices](https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss) — Al Jazeera · 14:05 PT · #world #foreign #media
+- [The intense first hours for candidates at the US Merchant #Marine Academy. #DayZero #bootcamp](https://www.youtube.com/shorts/RjlmncmhCWs) — Business Insider · 13:21 PT · #business #media
 - [713: I Have Medium Hopes](https://atp.fm/713) — Accidental Tech Podcast · 12:24 PT · #tech #ai #media
 - [Anatomy of a lie: James Talarico got the flu – sending rightwing midterm misinformation machine into overdrive - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjItcGpudnJfNUxxV3hrVlFKb3A1TEVCbEdISDdWMnczbXlaSkZEVG5TeDVoRDRGbi1QbUgwVGc4QWpuc0swVDRBc3ZESlBIRnFWS0EzWnVhMVNpUjZXbTJ2VzhtRHZvZVBzUjNKTkJHMHdUd1JfWDlGMVo1NDZhUXJOOXRSdXBXMUE?oc=5) — Google News: propaganda OR disinformation media · 11:21 PT · #world #media
 - [From one #CEO to another: Why it's important to speak up, even if you are wrong. #Uber #GoDaddy](https://www.youtube.com/shorts/0DlNvn3sGpQ) — Business Insider · 11:09 PT · #business #media
@@ -40,6 +44,7 @@ tags: ["project", "media"]
 
 ## 2026-10-14
 
+- [Did Ukrainian Drones Wipe Out Russia’s Bot Networks? - The Dispatch](https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUF9VMk9ZNElIbDdScl9ieG1oajRVZVlzSVVKZWpvMnJJUlNRVHVpU3c4RGZnSFdJdXkzbkxTai13V3VVUjZ1MlMwWnpQRzhad0NXNFZSRko3aUNsNU5URmRCcmlURm5MT2RRSE54TFVUMEVlZXlzdUNUMHl5Zm8?oc=5) — Google News: propaganda OR disinformation media · 22:02 PT · #world #foreign #media
 - [Azerbaijan denies reports of hijab ban in medical institutions - 1News.az](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjNvNGVmcFpYUUhCcWtUTHdVdDNhVU5aUF9BMkxfVlJwSE92UnE1RTBPbXFobXdRbkc3WEpFRDBuWGxlT2RITFF2WWJlWnB1Zko5Ti02RVg1bzNIWHk1OVdvUloyc3FQdmR6Zk5tVEd4RHZpaGtCbzNHanI3a1lRVUs0dDBlVml6X0FfYVJ0UjI0NE1ZbXFMVlJCamFDa1lldjZwZDRUWmk?oc=5) — Google News: propaganda OR disinformation media · 21:55 PT · #world #media
 - [Propaganda for the Kremlin from Germany? What is known ᐉ News from Fakti.bg - Opinions - Fakti.bg](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjFJbHByTi1INFRFMkZUbnNKdHRBYmNZdEl3NjU5U0t4QWdTZWFsdVhsSTktaWNVV1dLd2NuNHBCVS1WdVVwVXpNWml3U0EzY09IeGtsSWlTMWxHREpDeG04dy1vdExuSXVfMV9sWkpSakd6T2dLY0kwY2RYSmFGdnpHVTFsUU9VQzJqMkhueEtRdm1PaGtv?oc=5) — Google News: propaganda OR disinformation media · 20:32 PT · #world #media
 - [North Korea tests two submarine-launched missiles, state media reports](https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss) — Al Jazeera · 20:23 PT · #world #foreign #media

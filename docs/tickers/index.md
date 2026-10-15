@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-15T13:11:32-07:00
-count: 192
+updated: 2026-10-15T16:06:34-07:00
+count: 203
 tags: ["tickers"]
 ---
 
@@ -14,6 +14,8 @@ tags: ["tickers"]
 - [$III](III.md) — 4 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$TNET](TNET.md) — 2 items
+- [$VISN](VISN.md) — 2 items
 - [$ERIC](ERIC.md) — 2 items
 - [$LMT](LMT.md) — 2 items
 - [$LUMN](LUMN.md) — 2 items
@@ -22,6 +24,16 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$ORV](ORV.md) — 1 items
+- [$ORVMF](ORVMF.md) — 1 items
+- [$YSS](YSS.md) — 1 items
+- [$QDEL](QDEL.md) — 1 items
+- [$TZOO](TZOO.md) — 1 items
+- [$HONA](HONA.md) — 1 items
+- [$DFIN](DFIN.md) — 1 items
+- [$DIOD](DIOD.md) — 1 items
+- [$MDT](MDT.md) — 1 items
+- [$NNI](NNI.md) — 1 items
 - [$RHI](RHI.md) — 1 items
 - [$SOLV](SOLV.md) — 1 items
 - [$G](G.md) — 1 items
@@ -29,6 +41,7 @@ tags: ["tickers"]
 - [$FFIN](FFIN.md) — 1 items
 - [$SI](SI.md) — 1 items
 - [$TDC](TDC.md) — 1 items
+- [$PAYC](PAYC.md) — 1 items
 - [$QFIN](QFIN.md) — 1 items
 - [$ILLR](ILLR.md) — 1 items
 - [$AVXL](AVXL.md) — 1 items
@@ -70,7 +83,6 @@ tags: ["tickers"]
 - [$DOCS](DOCS.md) — 1 items
 - [$AWK](AWK.md) — 1 items
 - [$FRST](FRST.md) — 1 items
-- [$VISN](VISN.md) — 1 items
 - [$POLY](POLY.md) — 1 items
 - [$REAL](REAL.md) — 1 items
 - [$WHF](WHF.md) — 1 items
@@ -141,7 +153,6 @@ tags: ["tickers"]
 - [$BIDU](BIDU.md) — 1 items
 - [$ELWT](ELWT.md) — 1 items
 - [$RKTO](RKTO.md) — 1 items
-- [$TNET](TNET.md) — 1 items
 - [$GLXY](GLXY.md) — 1 items
 - [$AZZ](AZZ.md) — 1 items
 - [$BKD](BKD.md) — 1 items

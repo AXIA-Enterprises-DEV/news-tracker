@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-15T13:11:32-07:00
+updated: 2026-10-15T16:06:34-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,8 +11,29 @@ tags: ["category", "science"]
 
 ## 2026-10-15
 
+- [Food, fear and physics help explain group behavior from plankton to whales](https://phys.org/news/2026-10-food-physics-group-behavior-plankton.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [New spectroscopy method enables direct comparisons of nuclear sizes across heavy elements](https://phys.org/news/2026-10-spectroscopy-method-enables-comparisons-nuclear.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [Lunar fault maps reveal how much the moon is shrinking](https://phys.org/news/2026-10-lunar-fault-reveal-moon.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [Nearly half of reef-building coral species face higher risk of extinction](https://phys.org/news/2026-10-reef-coral-species-higher-extinction.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [African American young adults favor family support when it comes to caring for older adults](https://phys.org/news/2026-10-african-american-young-adults-favor.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [First bacterial galactose oxidase expands toolkit for greener drug and food ingredient production](https://phys.org/news/2026-10-bacterial-galactose-oxidase-toolkit-greener.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [Electron density check offers better starting point for chemistry's most difficult metal molecules](https://phys.org/news/2026-10-electron-density-chemistry-difficult-metal.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [Beyond national parks: Researchers explore a broader future for conservation](https://phys.org/news/2026-10-national-explore-broader-future.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [Measuring deep-ocean oxygen with microscopic magnetic fossils](https://phys.org/news/2026-10-deep-ocean-oxygen-microscopic-magnetic.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
+- [Retail research shifted in five ways, study finds](https://phys.org/news/2026-10-retail-shifted-ways.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
+- [Baby lobster decline foreshadows major midcoast population losses, study shows](https://phys.org/news/2026-10-baby-lobster-decline-foreshadows-major.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- [Silicon qubits surpass 99.99% gate fidelity while operating three at once](https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- [Building trust in governments through digital platforms](https://phys.org/news/2026-10-digital-platforms.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [Molecular snapshots reveal how viral enzymes switch between inserting and removing DNA](https://phys.org/news/2026-10-molecular-snapshots-reveal-viral-enzymes.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [Single 2D crystal transforms into transistor with built-in insulation and electrical contacts](https://phys.org/news/2026-10-2d-crystal-transistor-built-insulation.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [Targeting the cell cycle for cancer therapy: From the discovery of CDK9 to precision medicine and beyond](https://phys.org/news/2026-10-cell-cancer-therapy-discovery-cdk9.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [EcoFlow’s new TITAN batteries can keep your central air running through a blackout](https://www.popsci.com/gear/ecoflow-titan-5000-home-battery/) — Popular Science · 13:35 PT · #science
+- [AI turns scrap impurities into useful ingredients for stronger recycled iron](https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science #ai
+- [The little‑known 14th-century battle that has shaped English, Scottish and French relations](https://phys.org/news/2026-10-littleknown-14th-century-english-scottish.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
+- [Powerful image of a grieving elephant wins Wildlife Photographer of the Year](https://www.popsci.com/environment/wildlife-photographer-of-the-year-2026-winners/) — Popular Science · 13:11 PT · #science
 - [North Sea heat wave fueled underwater plankton bloom largely missed by satellites](https://phys.org/news/2026-10-north-sea-fueled-underwater-plankton.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
 - [Six lessons to improve leadership opportunities for women with disability](https://phys.org/news/2026-10-lessons-leadership-opportunities-women-disability.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
+- [NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission](https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/) — NASA · 12:58 PT · #science
 - [Two brain circuits coordinate fruit flies' wing and leg movements to threaten rivals](https://phys.org/news/2026-10-brain-circuits-fruit-flies-wing.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
 - [How did Mars get its moons? Japan's MMX space mission aims to solve the puzzle](https://phys.org/news/2026-10-mars-moons-japan-mmx-space.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
 - [Nanotyrannus named Jodi needs a new home (if you have $9M)](https://www.popsci.com/science/nanotyrannus-auction-jodi/) — Popular Science · 12:28 PT · #science
@@ -116,6 +137,8 @@ tags: ["category", "science"]
 - [World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’](https://www.nature.com/articles/d41586-026-03329-z) — Nature · 17:00 PT · #science
 - [Orangutan mothers arrange play dates for their babies](https://www.nature.com/articles/d41586-026-03238-1) — Nature · 17:00 PT · #science
 - [Nearly half of reef-building corals face elevated relative risk of extinction](https://www.nature.com/articles/s41586-026-11263-3) — Nature · 17:00 PT · #science
+- [Is AI eroding PhD students’ critical thinking and analysis skills?](https://www.nature.com/articles/d41586-026-03178-w) — Nature · 17:00 PT · #science #ai
+- [Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon](https://www.nature.com/articles/d41586-026-03233-6) — Nature · 17:00 PT · #science
 - [One-third of food is lost or wasted: How to help farmers cut postharvest losses](https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years](https://www.sciencedaily.com/releases/2026/10/261013015807.htm) — Latest Science News -- ScienceDaily · 16:34 PT · #science
 - [Uganda's sugarcane boom leaves families hungry: What needs to change](https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -394,29 +417,3 @@ tags: ["category", "science"]
 - [Illegal fungus release reveals tangled history of Australia's decadeslong battle with blackberry](https://phys.org/news/2026-10-illegal-fungus-reveals-tangled-history.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
 - [How cells make their command center accessible](https://phys.org/news/2026-10-cells-center-accessible.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
 - [In 1960, scientists predicted the world would end on November 13, 2026](https://www.popsci.com/science/world-end-overpopulation-doomsday-november-2026/) — Popular Science · 06:02 PT · #science
-- [NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission](https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/) — NASA · 06:00 PT · #science
-- [Three years after a single RSV vaccination, 60+ year olds were still around 60% less likely to be hospitalized with RSV, down from about 81% in year one; protection against lower respiratory infections fell from 80% to 51% (not significant)](https://www.reddit.com/r/science/comments/1x4v74c/three_years_after_a_single_rsv_vaccination_60/) — Reddit Science · 05:23 PT · #science
-- [People who ghost tend to feel worse about it than the people they ghost realize. Study also indicates that even a brief reply can narrow this emotional misunderstanding.](https://www.reddit.com/r/science/comments/1x4v2ch/people_who_ghost_tend_to_feel_worse_about_it_than/) — Reddit Science · 05:16 PT · #science
-- [James Webb reveals a massive cosmic structure that challenges our understanding of the Universe](https://www.sciencedaily.com/releases/2026/10/261012185021.htm) — Latest Science News -- ScienceDaily · 04:27 PT · #science
-- [NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/) — NASA · 04:12 PT · #science
-- [Scientists discover a surprising paradox in how our cells age](https://www.sciencedaily.com/releases/2026/10/261012185009.htm) — Latest Science News -- ScienceDaily · 04:01 PT · #science
-- [This tiny jurassic predator helped pave the way for the human brain](https://www.sciencedaily.com/releases/2026/10/261012185005.htm) — Latest Science News -- ScienceDaily · 03:44 PT · #science
-- [Women ‘more likely to be told autoimmune conditions are psychological’. Cambridge University study suggests stark gender divide in misdiagnosis, with women also waiting longer for treatment.](https://www.reddit.com/r/science/comments/1x4t2ip/women_more_likely_to_be_told_autoimmune/) — Reddit Science · 03:29 PT · #science
-- [DNA recording system reveals how a single cell becomes a body](https://www.sciencedaily.com/releases/2026/10/261011211556.htm) — Latest Science News -- ScienceDaily · 03:17 PT · #science
-- [Creatine, the cheap gym supplement, protected the brain from gut inflammation in rats with chronic colitis. It blocked brain inflammation, neuron loss and faulty electrical signals in the brain's memory center (hippocampus). Male rats were hit much harder than females. It's not yet tested in humans.](https://www.reddit.com/r/science/comments/1x4spe1/creatine_the_cheap_gym_supplement_protected_the/) — Reddit Science · 03:08 PT · #science
-- [Scientists recreate a bizarre quantum effect that stops a particle cold](https://www.sciencedaily.com/releases/2026/10/261011211554.htm) — Latest Science News -- ScienceDaily · 02:47 PT · #science
-- [Learning is the thing](https://flowingdata.com/2026/10/13/learning-is-the-thing/) — FlowingData · 02:30 PT · #science
-- [The secret to handling stress better may start at breakfast](https://www.sciencedaily.com/releases/2026/10/261012185023.htm) — Latest Science News -- ScienceDaily · 02:19 PT · #science #oil
-- [How a Logging Industry Downturn Fuels Wildfires](https://www.nytimes.com/2026/10/13/climate/timber-industry-wildfire-risk.html) — NYT > Science · 02:01 PT · #science
-- [What Can Four-Winged Dinosaurs Teach Us About Birds?](https://www.nytimes.com/2026/10/13/science/four-winged-dinosaur-early-birds-flight.html) — NYT > Science · 02:01 PT · #science
-- [There’s Worlds Out There More Habitable Than Earth](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html) — NYT > Science · 02:00 PT · #science
-- [A recent neuroimaging study indicates that creative drawing ability is connected to an extensive network of white matter pathways that link sensory, motor, and cognitive brain systems.](https://www.reddit.com/r/science/comments/1x4qixt/a_recent_neuroimaging_study_indicates_that/) — Reddit Science · 00:45 PT · #science
-
-## 2026-10-12
-
-- [11.4 million people developed dementia in 2023 and the number of new dementia cases is set to rise to 24.7 million a year by 2050](https://www.reddit.com/r/science/comments/1x4opuo/114_million_people_developed_dementia_in_2023_and/) — Reddit Science · 22:51 PT · #science
-- [Scientists uncover a hidden map of the brain with 539 distinct regions](https://www.sciencedaily.com/releases/2026/10/261012185011.htm) — Latest Science News -- ScienceDaily · 22:00 PT · #science
-- [Nutrient legacies from elephant megacarcasses create coldspots of biodiversity and hotspots of ecosystem processes](https://www.reddit.com/r/science/comments/1x4n7hx/nutrient_legacies_from_elephant_megacarcasses/) — Reddit Science · 21:24 PT · #science
-- [Physicists discover “astonishing” property of light that defies expectations](https://www.sciencedaily.com/releases/2026/10/261011211615.htm) — Latest Science News -- ScienceDaily · 21:19 PT · #science
-- [APOD: 2026 October 13 – Desert Stairway to Heaven](https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/) — NASA · 21:05 PT · #science
-- [An Impact Structure With Legs](https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/) — NASA · 21:01 PT · #science

@@ -1,16 +1,18 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-15T13:11:32-07:00
-count: 355
+updated: 2026-10-15T16:06:34-07:00
+count: 358
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-355 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+358 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-15
 
+- [Fed Officials Troubled by Hot Inflation Data as Rate Hike Looms - Investopedia](https://news.google.com/rss/articles/CBMimgFBVV95cUxObFhTR3R1MjNEY0VkVldFRlFlWXVhUVhaMEMzYXkwYnZ2UGs1cXJCRVY1X0p5ckVmcVpwQlZGMEJCNHdJcEN3dmZzblR1QzQtUFlUeGRoTU5TT2ZFWVdTdG9EMmlmRllBZjIyMEgxMnRyOUlXaEdCc3VjWFYxQ2dlYWtEQmtqX3A5OERGZmNzVDBrZ3V5X1N1eDNR?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:42 PT · #markets #fed
+- [EY Survey: Cost Per Payroll Error Climbs to $339 Average for Companies](http://www.businesswire.com/news/home/20261015000761/en/EY-Survey-Cost-Per-Payroll-Error-Climbs-to-339-Average-for-Companies/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 13:05 PT · #business #fed $PAYC
 - [U.S. equities finished in the green after the latest PPI inflation report landed](https://seekingalpha.com/news/4653581-us-equities-finished-in-the-green-after-the-latest-ppi-inflation-report-landed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets #fed
 - [Dow climbs 500 points as investors shake off a tech sell-off, more hot inflation data: Live updates - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5) — Top stories - Google News · 13:01 PT · #world #ai #fed #markets
 - [Diesel’s surge is starting to push other prices around. Here’s how](https://www.investing.com/news/economic-indicators/diesels-surge-is-starting-to-push-other-prices-around-heres-how-4952484) — Investing.com Economic Indicators · 12:12 PT · #markets #fed
@@ -47,6 +49,7 @@ tags: ["project", "fed"]
 - [Ethereum Price Prediction: ETH Bears Take Over in Latest Liquidation Bloodbath](https://cryptonews.com/news/ethereum-price-prediction-liquidations/) — News - Cryptonews · 04:03 PT · #markets #fed
 - [Revenue per Worker Is Up. Are Firms Getting a Larger Share?](https://libertystreeteconomics.newyorkfed.org/2026/10/revenue-per-worker-is-up-are-firms-getting-a-larger-share/) — NY Fed Liberty Street Economics · 04:00 PT · #markets #fed
 - [Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge](https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html) — CNBC Top News · 03:54 PT · #markets #fed
+- [UBS Predicts Further US Interest Rate Hikes As Inflation Remains Persistent - Arise News](https://news.google.com/rss/articles/CBMingFBVV95cUxOdzJCSUhwNDVHM29jZms2SVpjUmpIYVZwVDRtOHl3TzlDbE43ekEtb3poRy03UndjeG5ZbTZrQWFzUGJJRWdsaU40NmN3LTMtLVBqZDFpUnIteHNPcVNNQ2l2MEY0M2lZZHdhZzRKa2pEbkRDZk95ZmltV2VJMEtjQTU2TmVSTUtWdGR6a3ptUWJXY3dqMjVNTXhuS2dWdw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 03:39 PT · #markets #fed
 - [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt) — Guardian World · 03:38 PT · #world #ai #fed
 - [What Now, FOMC? - The American Action Forum](https://news.google.com/rss/articles/CBMibkFVX3lxTE85N0ZqTjFFcmh6X3hkbVpqX3lwTGhxRlZTNWpRVkFreXJIdzQteEVnaENaZHlZQ25MdU4wWGU1MmU0TVYwN2JLRXRWQmpsSnJ5WGduMFFmZzMteTZyOXE5WW1fWmNXREMwamdRVzVB?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 03:34 PT · #markets #fed
 - [Federal Reserve communication strategy draws pushback as policymakers shape rate outlook - Traders Union](https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVZYblJQZmZ3ZFFTWVdoOFhQRDVMd3h3czgzcWVOcjJ6RnVTU1N0Rjd4TzlqaG53N0RTQTV5eGpKbXI4dGxxRHdwVEhFYU93a3dfS0xtaWlVclg4SzJCZ0t3SDdQZF94dkI1OXJwTUVtbHZiTjJ5c0VuVDcwUkQyT0JvWndhVDEzVFhyQ29wdTdDcGxUNVFoQUN6SFY?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 03:12 PT · #markets #fed
