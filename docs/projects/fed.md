@@ -1,21 +1,40 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-15T22:56:05-07:00
-count: 362
+updated: 2026-10-16T03:42:13-07:00
+count: 378
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-362 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+378 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+
+## 2026-10-16
+
+- [Fed chair Warsh says price stability is key but shies away from signals about rates - The Washington Post](https://news.google.com/rss/articles/CBMixAFBVV95cUxNOU1vcUw0THNGVzNzanp4bkxhODR6c1Z2ejRiTXB0SXdJcE1YYVJJOGN1Qm9WRG1TVUYydnloWWYxZnpTNUJBRzI0eW8zRjdIZG1RTzhueEZsc0lESnRYa1lVMW9FYWR2a0pjZG00RUN5cDJQSHRuajlNZG5BdVdQS2RrdldBTkVFWWYySi16UXZRYW5LQ05LZUxUcmgtbjRGTHNPdXJyYlozU2NlY2JjTFU2VzFNdTZ1cnlocENzc2pxdGw2?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 03:07 PT · #markets #fed
+- [Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night](https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories) — MarketWatch Top Stories · 02:16 PT · #markets #fed
+- [The ultra-rich are piling into Rolexes, rubies and Klimts as inflation hedges—but the real return may be about more than money](https://fortune.com/2026/10/16/ultra-rich-family-offices-luxury-assets-art-watches-inflation-hedge/) — Fortune | FORTUNE · 02:06 PT · #business #fed
+- [Ethereum Price Prediction: ETH Outpaces the Market as Crypto Rebounds](https://cryptonews.com/news/ethereum-price-prediction-eth-rebound-tests-key-levels/) — News - Cryptonews · 02:06 PT · #markets #fed
+- [US consumers are muscling through higher prices, but for how long?](https://lasvegassun.com/news/2026/oct/16/us-consumers-are-muscling-through-higher-prices-bu/) — Las Vegas Sun · 02:00 PT · #us #fed #nevada
+- [Nobel Prize in economics is a message to the Fed](https://lasvegassun.com/news/2026/oct/16/nobel-prize-in-economics-is-a-message-to-the-fed/) — Las Vegas Sun · 02:00 PT · #us #fed #nevada
+- [There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market - The Motley Fool](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZndPbWl4d21vYkhOQnpPRzJvc0RqNGczbHBLYkY4RmZGRzlOdWlTQ0tFYTJuZ3A2X0NxbnhlazVzTlh1VWNDSzlrcjdQZkU2dEhpVTBJWnVhZ2Y0bWV6a09xV2ExUXc4ZG5ZTnhiSVMzYS1lZzlvTExESVRGSTBJa1VDem9sclJYLXhYYW4xY0Nyd1NqMjZSZllwQ2E1SGU3T2EySXEzVm9URnlwVkI2MG5mLVVjc3VpeEFwMHcxajdSNmhNZUxMQUpraDdZb00?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 01:23 PT · #markets #ai #fed
+- [Federal Reserve Chair Warsh Prioritises Price Stability, Withholds Rate Signals - streamlinefeed.co.ke](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGpNeHowUVZIbVBlTFFENXpXYjd3VkVVd3p0bm8taFB5dEcxdlhXbXBrT2FmMDJ6aF9rUGNrdjR4SjhERE1FejRURHYwSVp2bFdSdFE2TEtUTlFlLTFucXJwb2pjMnJkREFhQnBRVTRnUFF5WHhnYTdOQ192dm9mY2tuYXVGVDdSWFdQR0M5WkRGeUVEakh1YjRPckN6eUI2Y2tpcDE2SE5DU0RRRVg2VUt3?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 01:14 PT · #markets #fed
+- [Fed Chair Warsh’s Bangkok Speech: 4 Key Takeaways and What They Mean for Bitcoin](https://cryptopotato.com/fed-chair-warshs-bangkok-speech-4-key-takeaways-and-what-they-mean-for-bitcoin/) — CryptoPotato · 00:56 PT · #markets #fed
+- [Warsh Vows Price Stability as A.I. Delivers ‘Shock’ to Economy - The New York Times](https://news.google.com/rss/articles/CBMiekFVX3lxTE92Rk9VSzVNVHNBSmk1b3BzMTQyemFQdHNiSWVQYU1uVVJ1cEd4Y1lJTVlqZUU2TVNkb2drcEg5X1FxN2E1RWdKMjN6QmZwOTR4U0ZGay1yNXBxa1BaemN2ZXh3QkQ5UlV3MnFDSVBLS2k3REJqelluUnNB?oc=5) — Top stories - Google News · 00:41 PT · #world #fed
+- [Fed chair Kevin Warsh boosts market expectations of rate hold in October - The Business Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGFkQlBXMkNETTFfdTBRdVBBaWtxdFM3YUJMNUUzT01aRjlsMWQ3eE4zSGxsTE5taUE4YTdyX2g1NUNDb2J5MW1rUXdwUVUxYzBQU1p1MHZyaGZ5cndXWjl1WlNJNlJfazBsVEVDRWNyRS1sUl9rajhpeU53LUdfVy02RnpzOEhCS0sxVUdyc2FmM2djZDZkVy1qNmVpeldGRVJIendpMXVvZ2JYYk1zMlU2VQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 00:24 PT · #markets #fed
 
 ## 2026-10-15
 
+- [Fed chair Warsh says price stability is key but shies away from signals about rates - Bozeman Daily Chronicle](https://news.google.com/rss/articles/CBMikwJBVV95cUxQb0kyc21QeURsNjVFQzJ0YVM3X3YxVTZTbThqbHNIZGRTcFYxRjctVjZtSWZVUW13cWQwS2pjQW9sTnNWbGJJLUVrMFZmNEZiTWZmeG1tTGdEN1Q4OVlOVFM0NV9YRTRQX0tyQ1kwTUhfdnF6Y2FUWU9LaEdxN0h3WjhFeHBwbk03RTZzRnNRNkloaVRIZ0VvUk5YZTMyVlc0OGxQazMzcnpZNjZTdXNIM2lNcnBGSDNaMGVmSVdXRnlBWTZtM3RxNkplUF9lWXd6Q0llS3VzYnliamgtVUNEY1BNZ1hoTFNWYzVqVEFkM2FKNVZHX0c4VmZUNXp0c0Z3VUpQb1RiQWRjUXJSRGl6XzJEZw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 23:51 PT · #markets #fed
 - [Dollar weakens as Fed’s Warsh declines to hint at October rate rise](https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1) — FT Home · 22:25 PT · #business #fed
+- [Bets on Fed rate hold in October strengthen after Warsh comments - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkowQ1I4RlFmbDVzQTBjVXJMdzlqamF3bnhidDJOTlc4VnBVT1F3VDE3cExoQzRJWWdsU1Uxc2F6Q3dmWlRBR01DNXhRV05KdGMwT1RacVVGNXFoMHlOVTJGbmVweHp5dzZGRUFEV1pDcWV2MlEtY21nMEY0WEE2SzEwclg?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 22:25 PT · #markets #fed
 - [Warsh Avoids Signal on October Rate Move - WSJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaThqQ25PaWtHbG1VbkprR2Q4dXNOa3F1VDBDcVItS0dtRnBXQlVRS19VMFJ3YXdVVHlHWlFnZURQa3U4czRYQVJubmp2dXlGOHdneVU4cWp2YlVVdHlPNlh5dEo4V3k4Ri1KVHNaRmdLaDk1WDNYcVhEU1JxUzNsaDJPcGVuS0xsLUFJVG1yUjNUa24wRkdjVQ?oc=5) — Top stories - Google News · 22:23 PT · #world #fed
 - [Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'](https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html) — CNBC Top News · 22:07 PT · #markets #fed
 - [Why Bad News in the Bond Market May Be Good News for Investors](https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html) — NYT Business · 22:07 PT · #business #fed
 - [Warsh Vows Price Stability as A.I. Delivers ‘Shock’ to Economy](https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html) — NYT Business · 22:02 PT · #business #fed
+- [Fed's Warsh to look beyond interest rates over next 100 days - American Banker](https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTlmbWx3QldWcFBEb3hSY0gtRGZENG9HQURPQWJ1aGZVSElNM0dfVUdSaGVBZEJEY1EyczZGWmFwOG5NdmxwV21LWnoyQ2ZfakhBVXY4UkhPZUdjZUJkbGpGQTVYNjNUcWZnSFcxd05OS25IX2pBeDVCS3R1TFZBTEFVNFV3N0dxcHVLYjJxSUE3MjBLZHFtZjQzdFJ1dW83LXc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 22:00 PT · #markets #fed
+- [Fed Funds Futures Put 66% Odds on No Rate Hike at the October 28 FOMC Meeting - Tekedia](https://news.google.com/rss/articles/CBMiowFBVV95cUxPanpDNnR2MVRUZHZ6UjZTamVMbVVnYTlXU005LUdzc2k0ZFVtSG5QZzhBMUJ0ZGRXdWVJWXl5eFJtMFlGQ1cwdDBxMlVFRHpRa2RBeXEyazhOWFRnZlNYYVZnalU3M1NKc1piNDYwREdnZXpONk1JMF95eVVoMVlZdlRZTVNHazhqV1NXdHNVSkpKWTh3T0dENkZNQ1d5RUozNms0?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 21:12 PT · #markets #fed
+- [Fed's Warsh sees US resilience, mum on rate-path view - Reuters](https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 20:57 PT · #markets #fed
 - [‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says](https://www.ft.com/content/b6255adb-3ce5-4463-92cd-de2f8e9a1f74?syn-25a6b1a6=1) — FT Home · 20:12 PT · #business #fed
 - [Global EV sales fall 2% in September, ending six-month growth streak](https://www.investing.com/news/economic-indicators/globalev-sales-fall-2-in-september-ending-sixmonth-growth-streak-4952814) — Investing.com Economic Indicators · 16:12 PT · #markets #fed
 - [Fed Officials Troubled by Hot Inflation Data as Rate Hike Looms - Investopedia](https://news.google.com/rss/articles/CBMimgFBVV95cUxObFhTR3R1MjNEY0VkVldFRlFlWXVhUVhaMEMzYXkwYnZ2UGs1cXJCRVY1X0p5ckVmcVpwQlZGMEJCNHdJcEN3dmZzblR1QzQtUFlUeGRoTU5TT2ZFWVdTdG9EMmlmRllBZjIyMEgxMnRyOUlXaEdCc3VjWFYxQ2dlYWtEQmtqX3A5OERGZmNzVDBrZ3V5X1N1eDNR?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:42 PT · #markets #fed

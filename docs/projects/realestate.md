@@ -1,13 +1,20 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-15T22:56:05-07:00
-count: 295
+updated: 2026-10-16T03:42:13-07:00
+count: 300
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-295 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+300 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+
+## 2026-10-16
+
+- [Could your lead-gen and referral practices face FTC scrutiny? Senators want a closer look](https://www.housingwire.com/articles/ftc-online-real-estate-practices/) — HousingWire · 03:40 PT · #business #realestate
+- [Florida and Texas are drowning in 'For Sale' signs, and Miami is deepest (XLRE:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTJrNkI1Q1NnZC1UVWtFdjBvU1RNWW1vaW9lZ0wwbC1yM19aRGQyZlNjcFMxSUI3MnlUclRvMkxtaWdGRkY2eVNNby1uSk00c2Q4UW5kTC1ybmlRcDNlMHJ0MDVjajZJbV9FNlNkMnR6X3dNdDlfc1Z5c3NGQzhpbjJ2ajBBSUF5TXZzUFY3RVUwOWNhT0U5M3o2WmtfalVEbmxvWW5uSEx6MGs?oc=5) — Google News: Las Vegas real estate · 02:03 PT · #business #realestate
+- [Meadows at Sandstone at Tule Springs Community - Realtor.com](https://news.google.com/rss/articles/CBMigAJBVV95cUxPczlTVGFCN2RmeEZLb3NuTWp5M1ZjOVRBYkpFc1VpQmw2ZlpEb1RxampoUUFDUzlvaHdGckRYSFVURVpaek1qWi1TYjVrY29YOVVWR3otVEVZMGxGMTBwWHllUDZTb0VUb3gxbURPbnRBdndoX2FGWDNWQi1EYUkxdnFwd0RHWFE5ekxDd2ExaHNvYURxMWNzWFpWcXJDWjFRZ19CdGVodjk4Qm01czV6aEpiVkhNV0hTTmJvTXZVbzhoMGRkV3Q5ZU9rUGNrdllnM2U5dUxNNGlZbmdmVk5WNDA1anVjOUxBeHAtMTNZdWpIWWFMdUhoTU51alJXcFFD?oc=5) — Google News: Las Vegas real estate · 00:53 PT · #business #realestate
+- [Mortgage underwriting has a blind spot: The homeowner’s largest risk](https://www.housingwire.com/articles/homeowner-concentration-risk/) — HousingWire · 00:00 PT · #business #realestate
 
 ## 2026-10-15
 
@@ -91,6 +98,7 @@ tags: ["project", "realestate"]
 - [A Look Inside Michael Jackson’s Las Vegas Luxury Estate Listed At $12.5 Million - Outlook Luxe](https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUlLYjRMTmFVSTM5b2duNUo1QVlEX0hlcWdzcnJ5XzdfcjFibW5kaWY2bGxqdUdIZ0Y4UFZ2UUxmc245b0p3bXNGRVdkbDlaRVFPYWdjVk8wLWNTR0ZaSExJMlcyby1rZ3Z5QjFuZ3NMd2RuZWcwcTVIcHhlYURnZDAwYzhLMndncjcxWTJfOVpONG9OQUdVUElqa0NEQ2dWa3VQbnVxcXdiNDRMakd3Y0pOTU9TcjRNSjJBa1Bxd25lcXM3VHFrNWVB0gHXAUFVX3lxTE8tMWRBaUQ5TnVWYVI3YTJ6dEppdEM3djYtbmpzWFdoSm9iblVvNldNcE4xazNmOXZiX2NqU0xOWHlSVW5vRFlUM29oNElzTGtvXzVYODM5VjRJNHhzN3UwZ0wtRGhrTjlWVm5YcnVvUHR2MjBlNEM2QzB5Vm5ncW9iSzdhRW55cnh3VWN4cDk4QnRIUnFwMnFYTDZaUmUzQUJuYlZMalhiSTc2VXhOMVBaTVhkNlRtVXVfVEhUWWdYOXBubE1Zb0kxXzlWV0Mxd2hROEU4LXRF?oc=5) — Google News: Las Vegas real estate · 18:30 PT · #business #nevada #realestate
 - [Inside Kelly Clarkson’s multimillion-dollar property portfolio - Real Estate](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3B3NmU0MG1QVERPb0QyNGtUelM3UFg4SEtUb1FnVVNGTmo0bGdWVzNyeV9kUDRrR203RG9kRDdxVjFpaGkzSXN5dkxBUVA4aHNsOEFCaHBqbEE1Y18tY015UE1Md1RkRDJabDVYYTZEUHhCd3paVDc2bzNWeGJ1Mm9tVEU1ckFWbW9GQXJxMXpvNjN3bnlsRWlaakw?oc=5) — Google News: Las Vegas real estate · 18:14 PT · #business #realestate
 - [Court OKs sale of downtown Las Vegas casino property - CDC Gaming](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFhvV1N4Sk45SnVVMkJPT1ppMGpGMF9hUGFNM0ZZY1l0Uk5JRkpSSG1Xc3h0MTNSc3FmV0d0YzgtS2FCZnpWM0RHSnJPcURXdjZuWmFVRWlqR2g0c3Q2aFJZOWQtVlFFRUtCTFVqa3IzZ2QzZGlvNnMzTzdqaC1TM1JmVXozWmRO?oc=5) — Google News: Las Vegas real estate · 18:08 PT · #business #nevada #realestate
+- [3450 Erva St Apt 261, Las Vegas, NV 89117 - Realtor.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2sxWUl2S0N2aVIycE56ZEZLTUNiQ1FlRi1YR3RQMUZjb19VTHJxczcyZ0NmRUE2ajB6UjhpaWtrR0J5d2tKWjJ1WUl3WF9EZWpnRmVaVndVazRLMU4zNVl5RlQ2eFhPRFhLR2JJa0NzRXJyemI2VndYYk9rSkJUeWMyTUl6VURLR3hoTEk2RjNkNF9TVl9j?oc=5) — Google News: Las Vegas real estate · 18:05 PT · #business #nevada #realestate
 - [Sources: Durban part of Walton-Laurie’s Las Vegas NBA expansion bid - Sports Business Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3kzUFluZlFBMkZSUExJQWFkb3V6ZngxR0xwRjVacFBuanZwM09kVnNuTnljWDV5MXctRlotSWY0eGJLWkp3cm5ueEwwemo1cjBfS3pLM3Z3c2lGMVNNWjNzd0dSc2NTbVV1VnFLU19BN2h5cmxGOVJ0TVphdnU1MjlkLTZtUzdVVjNMQlV2OVpfMFh5dEE2SExqNFNjcHhVTGNGWENWYl9DR3N4LUNRZFo1VXljeDRneVdVWUZZb0FSUQ?oc=5) — Google News: Las Vegas real estate · 16:39 PT · #business #nevada #realestate
 - [Vote delayed on controversial 61-home development in Las Vegas - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMiggNBVV95cUxNOXdQYnlIdWpmbDY2c19pWVdiY2x2V0xmRUFpYk9vSzBFYTRUSURLMDBKblFtWTBYZENYN1Zha2tmX2xXQ3NaOE5kT0Q3cnRQOVR5VnYyOFBMM0dTaTN3VFRPbGQ0enVyQVVjT0NVTmRmZ2lVc0tRa0VnV0tEajJYWmtDbEdMaThNdndleEdyX0RITWRMUzhFSC1RZlZ4anFPSUQ3VUlWNHdwdEwzLWtDRHBCZ0F2Y3ZrVFFPWkxkVVhPWDQ3ZnlwdldiVlhtb0xEUGlkQ3hodWNUTmhwRVRlZGNpcnlIeHA5ZnpnRC1vNVRMRTR5V2p1cU5TQXg5YmlZVE9IYmlScFBNMXktWEVWUzktenE0U2dzX3FYUXdzZUtVWS0tT0JBVE9EaS1aZm1mUUs5NVAzczlFSXJTNDAydTJIOFBGZ1hRYW1zVFozdnNmdjEyazVoTzlTUXR5eVFSR1hKQmxYc1Bha3kzTHlrWmRPeGMtblhOWERTNjZDeS0zQQ?oc=5) — Google News: Las Vegas real estate · 15:51 PT · #business #nevada #realestate
 - [Appeals court sides with Ginnie Mae in Texas Capital Bank’s reverse mortgage lawsuit](https://www.housingwire.com/articles/fifth-circuit-rules-for-ginnie-mae-in-texas-capital-bank-hmbs-tail-lien-case/) — HousingWire · 15:25 PT · #business #realestate

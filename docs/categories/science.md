@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-15T22:56:05-07:00
+updated: 2026-10-16T03:42:13-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -8,6 +8,14 @@ tags: ["category", "science"]
 # Category: science
 
 400 most recent items (14-day window).
+
+## 2026-10-16
+
+- [Resistance to change has 12 different drivers, new measurement tool reveals](https://phys.org/news/2026-10-resistance-drivers-tool-reveals.html) — Phys.org - latest science and technology news stories · 03:24 PT · #science
+- [Warming Stripes as a screensaver](https://flowingdata.com/2026/10/16/warming-stripes-as-a-screensaver/) — FlowingData · 02:06 PT · #science
+- [Citizen Science Groups Grapple With the Rise of A.I. Slop](https://www.nytimes.com/2026/10/16/science/citizen-science-ai-slop.html) — NYT > Science · 02:02 PT · #science
+- [‘I’m on a War Footing’: Terry Tao and the Crisis in Math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html) — NYT > Science · 02:02 PT · #science #ai #foreign
+- [Winter sea ice loss may be underestimated, ancient clues from a warmer Arctic suggest](https://phys.org/news/2026-10-winter-sea-ice-loss-underestimated.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science
 
 ## 2026-10-15
 
@@ -19,6 +27,7 @@ tags: ["category", "science"]
 - [A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated](https://phys.org/news/2026-10-rare-family-barn-owls-manhattan.html) — Phys.org - latest science and technology news stories · 19:00 PT · #science
 - [Can extra weight weigh on your dog's brain?](https://phys.org/news/2026-10-extra-weight-dog-brain.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
 - [In animated films, nonhuman characters are still overwhelmingly male](https://phys.org/news/2026-10-animated-nonhuman-characters-overwhelmingly-male.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
+- [PhD students who write dissertation with AI less likely to stay in academia](https://www.nature.com/articles/d41586-026-03253-2) — Nature · 17:00 PT · #science #ai
 - [Newly discovered viruses reveal an evolutionary missing link](https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age](https://phys.org/news/2026-10-white-sands-footprints-humans-experienced.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
 - [Imperial woodpecker returns to life as a detailed digital specimen](https://phys.org/news/2026-10-imperial-woodpecker-life-digital-specimen.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -150,6 +159,7 @@ tags: ["category", "science"]
 - [Nearly half of reef-building corals face elevated relative risk of extinction](https://www.nature.com/articles/s41586-026-11263-3) — Nature · 17:00 PT · #science
 - [Is AI eroding PhD students’ critical thinking and analysis skills?](https://www.nature.com/articles/d41586-026-03178-w) — Nature · 17:00 PT · #science #ai
 - [Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon](https://www.nature.com/articles/d41586-026-03233-6) — Nature · 17:00 PT · #science
+- [Daily briefing: Bleached corals revived by healthy neighbour’s touch](https://www.nature.com/articles/d41586-026-03336-0) — Nature · 17:00 PT · #science
 - [One-third of food is lost or wasted: How to help farmers cut postharvest losses](https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years](https://www.sciencedaily.com/releases/2026/10/261013015807.htm) — Latest Science News -- ScienceDaily · 16:34 PT · #science
 - [Uganda's sugarcane boom leaves families hungry: What needs to change](https://phys.org/news/2026-10-uganda-sugarcane-boom-families-hungry.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -410,10 +420,3 @@ tags: ["category", "science"]
 - [Copper-resistant bacteria complicate efforts to keep ship hulls clean](https://phys.org/news/2026-10-copper-resistant-bacteria-complicate-efforts.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
 - [How much training is too much for a racehorse? New bone research has some answers](https://phys.org/news/2026-10-racehorse-bone.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
 - [University students say that procrastination is the biggest threat to their academic performance](https://www.reddit.com/r/science/comments/1x4yxgj/university_students_say_that_procrastination_is/) — Reddit Science · 07:59 PT · #science
-- [Webb spots possible early-universe supernova just days after it happened](https://phys.org/news/2026-10-webb-early-universe-supernova-days.html) — Phys.org - latest science and technology news stories · 07:50 PT · #science
-- [Scientists uncover an ancient link between viral defense and chromosome protection](https://www.reddit.com/r/science/comments/1x4yjld/scientists_uncover_an_ancient_link_between_viral/) — Reddit Science · 07:43 PT · #science
-- [Reaching net zero sooner could limit long-lasting El Niño-like shift in the Pacific](https://phys.org/news/2026-10-net-sooner-limit-el-nio.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
-- [What sets Gen-Z entrepreneurs apart from prior generations](https://phys.org/news/2026-10-gen-entrepreneurs-prior-generations.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science #smallbiz
-- [Trailer](http://www.bbc.co.uk/programmes/p0pggjg9) — The Infinite Monkey Cage · 07:30 PT · #science
-- [Planetary systems reveal two distinct families tied to their host stars](https://phys.org/news/2026-10-planetary-reveal-distinct-families-host.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [Conflict with father can influence whether teens receive mental health support](https://phys.org/news/2026-10-conflict-father-teens-mental-health.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science

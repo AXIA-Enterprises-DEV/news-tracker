@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-15T22:56:05-07:00
+updated: 2026-10-16T03:42:13-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -8,6 +8,26 @@ tags: ["category", "us"]
 # Category: U.S.
 
 400 most recent items (14-day window).
+
+## 2026-10-16
+
+- [El-Sayed’s missing piece](https://www.politico.com/newsletters/playbook/2026/10/16/el-sayeds-missing-piece-01123135) — Playbook · 03:21 PT · #us
+- [Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution](https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution) — World & Nation · 03:00 PT · #us
+- [Nevada takes back $52 million for rural broadband amid fears of missed spending deadline](https://thenevadaindependent.com/article/nevada-takes-back-52-million-for-rural-broadband-amid-fears-of-missed-spending-deadline/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [Can Henderson elect a progressive? This Assembly race is a litmus test](https://thenevadaindependent.com/article/can-henderson-elect-a-progressive-this-assembly-race-is-a-litmus-test/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [Raiders seek a rebound as Bills aim to avoid a letdown in Las Vegas as the](https://lasvegassun.com/news/2026/oct/16/raiders-seek-a-rebound-as-bills-aim-to-avoid-a-let/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [US consumers are muscling through higher prices, but for how long?](https://lasvegassun.com/news/2026/oct/16/us-consumers-are-muscling-through-higher-prices-bu/) — Las Vegas Sun · 02:00 PT · #us #fed #nevada
+- [US winter is likely to be wetter and warmer, forecasters say](https://lasvegassun.com/news/2026/oct/16/us-winter-is-likely-to-be-wetter-and-warmer-foreca/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [American youths are taking steps backward](https://lasvegassun.com/news/2026/oct/16/american-youth-are-taking-steps-backward/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Guilfoyle case is the tip of a corruption iceberg](https://lasvegassun.com/news/2026/oct/16/guilfoyle-case-is-the-tip-of-a-corruption-iceberg/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Despidiéndonos del Cashman Field y de los innumerables recuerdos que se crearon entre sus paredes](https://lasvegassun.com/news/2026/oct/16/despidindonos-del-cashman-field-y-de-los-innumerab/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Saying farewell to Cashman Field and the countless memories made inside its walls](https://lasvegassun.com/news/2026/oct/16/saying-farewell-to-cashman-field-and-the-countless/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [The numbers don't lie on Trump's high prices and shrinking wages](https://lasvegassun.com/news/2026/oct/16/the-numbers-dont-lie-on-trumps-high-prices-and-shr/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Nobel Prize in economics is a message to the Fed](https://lasvegassun.com/news/2026/oct/16/nobel-prize-in-economics-is-a-message-to-the-fed/) — Las Vegas Sun · 02:00 PT · #us #fed #nevada
+- [Why we shouldn’t expect rape survivors to report](https://lasvegassun.com/news/2026/oct/16/why-we-shouldnt-expect-rape-survivors-to-report/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Flu could be bad this year, so make a plan for vaccination](https://lasvegassun.com/news/2026/oct/16/flu-could-be-bad-this-year-so-make-a-plan-for-vacc/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Would Question 6 eliminate parental notification for minors seeking abortions?](https://thenevadaindependent.com/article/would-question-6-eliminate-parental-notification-for-minors-seeking-abortions/) — The Nevada Independent · 01:55 PT · #us #nevada
+- [Joe Lombardo se presenta como gobernador de la educación. Así se puede evaluar su historial.](https://thenevadaindependent.com/article/joe-lombardo-se-presenta-como-gobernador-de-la-educacion-asi-se-puede-evaluar-su-historial/) — The Nevada Independent · 01:15 PT · #us #nevada
 
 ## 2026-10-15
 
@@ -59,6 +79,7 @@ tags: ["category", "us"]
 - [New project with 1,000-plus homes to be built in downtown Las Vegas](https://www.reviewjournal.com/business/housing/new-project-with-1000-plus-homes-to-be-built-in-downtown-las-vegas-3900493/) — Las Vegas Review-Journal · 12:37 PT · #us #nevada
 - [Person shot, killed near business in east Las Vegas, police say](https://www.reviewjournal.com/crime/homicides/person-shot-killed-near-business-in-east-las-vegas-police-say-3900489/) — Las Vegas Review-Journal · 12:33 PT · #us #nevada
 - [Head-on crash shuts down intersection at Sahara Avenue and Tenaya Way](https://www.ktnv.com/news/head-on-crash-shuts-down-intersection-at-sahara-avenue-and-tenaya-way) — KTNV Las Vegas · 12:31 PT · #us #nevada
+- [Two critically injured in wrong-way crash on Sahara Ave., Tenaya Way](https://www.ktnv.com/news/two-critically-injured-in-wrong-way-crash-on-sahara-ave-tenaya-way) — KTNV Las Vegas · 12:31 PT · #us #nevada
 - [Las Vegas man admits to role in 'fixing' of college basketball games](https://lasvegassun.com/news/2026/oct/15/las-vegas-man-admits-to-role-in-fixing-of-college/) — Las Vegas Sun · 12:17 PT · #us #nevada
 - [Justice Dept. sues California, seeks to stop state from counting 20,000 ballots](https://www.latimes.com/politics/story/2026-10-15/justice-dept-sues-california-asks-court-to-force-state-to-stop-counting-20-000-ballots) — World & Nation · 12:04 PT · #us
 - [Man fatally shot after argument with two others, Las Vegas police say](https://lasvegassun.com/news/2026/oct/15/man-fatally-shot-after-argument-with-two-others-la/) — Las Vegas Sun · 11:29 PT · #us #nevada
@@ -79,7 +100,9 @@ tags: ["category", "us"]
 - [Man caught with more than 700 pounds of illicit narcotics in rural Nevada, authorities say](https://www.reviewjournal.com/crime/man-caught-with-more-than-700-pounds-of-illicit-narcotics-in-rural-nevada-authorities-say-3900441/) — Las Vegas Review-Journal · 09:31 PT · #us #nevada
 - [What’s next for Las Vegas? Paul Steelman is looking beyond gambling](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/whats-next-for-las-vegas-paul-steelman-is-looking-beyond-gambling-3900425/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
 - [Congo protests Formula 1's 'indefensible' decision to race in Rwanda](https://lasvegassun.com/news/2026/oct/15/congo-protests-formula-1s-indefensible-decision-to/) — Las Vegas Sun · 08:55 PT · #us #nevada
+- [Prince Harry, Meghan Markle Step Out For U.K. Appearance ― And It's Like Nothing's Changed](https://www.huffpost.com/entry/prince-harry-meghan-markle-uk-engagements_n_6ad0d407e4b08a0fe8562679) — World News - Breaking News, Top Stories · 08:14 PT · #us
 - [Nevadans expected to spend more on Halloween this year](https://www.reviewjournal.com/business/vegas-business/price-points/nevadans-expected-to-spend-more-on-halloween-this-year-3900405/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada
+- [Israel Says Commercial Goods Will Not Enter Gaza, A Major Shut-Off For The Hungry Territory](https://www.huffpost.com/entry/israel-cuts-off-commercial-goods-gaza_n_6ad0e80ae4b08a0fe85632b1) — World News - Breaking News, Top Stories · 07:58 PT · #us #foreign
 - [Zero Teen Fatalities Player of the Month: Coronado's Tru Halvorsen](https://lasvegassun.com/news/2026/oct/15/zero-teen-fatalities-player-of-the-month-coronados/) — Las Vegas Sun · 07:36 PT · #us #nevada
 - [After bipartisan backlash, Trump says Pentagon won’t livestream Fort Hood shooter’s execution](https://www.reviewjournal.com/news/politics-and-government/after-bipartisan-backlash-trump-says-pentagon-wont-livestream-fort-hood-shooters-execution-3900397/) — Las Vegas Review-Journal · 07:34 PT · #us #foreign #nevada
 - [Plan to improve Las Vegas’ Arts District draws concerns over cost, gentrification](https://www.reviewjournal.com/business/plan-to-improve-las-vegas-arts-district-draws-concerns-over-cost-gentrification-3900362/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
@@ -412,29 +435,3 @@ tags: ["category", "us"]
 - [With violins, trumpets and the guitarrón, Las Vegas is training the mariachi educators of tomorrow](https://thenevadaindependent.com/article/with-violins-trumpets-and-the-guitarron-las-vegas-is-training-the-mariachi-educators-of-tomorrow/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [OPINION: Flippo's follies are making Nevada politics interesting again](https://thenevadaindependent.com/article/opinion-flippos-follies-are-making-nevada-politics-interesting-again/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [A los nevadenses los están afectando en su bolsillo": Por qué la accesibilidad económica es el tema del 2026](https://thenevadaindependent.com/article/a-los-nevadenses-los-estan-afectando-en-su-bolsillo-por-que-la-accesibilidad-economica-es-el-tema-del-2026/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-07
-
-- [Trump says he won't let Iran strike L.A. or San Diego: 'Not going to let that happen'](https://www.latimes.com/politics/story/2026-10-07/trump-says-he-wont-let-iran-strike-la-or-san-diego-not-going-to-let-that-happen) — World & Nation · 18:30 PT · #us #foreign
-- [Maverick repurchasing rural Nevada properties from a bankrupt Texas-based holding company](https://thenevadaindependent.com/article/two-elko-casinos-closing-more-than-a-year-after-its-operator-said-they-wouldnt/) — The Nevada Independent · 09:23 PT · #us #nevada
-- [Trump’s cracking Latino coalition](https://www.politico.com/newsletters/playbook/2026/10/07/trumps-cracking-latino-coalition-01109763) — Playbook · 03:14 PT · #us
-- [California's trucking industry is running out of gas—and money](https://www.latimes.com/business/story/2026-10-07/los-angeles-truckers-agonize-over-8-diesel-prices) — World & Nation · 03:00 PT · #us
-- [ChatGPT's teen safeguards failed to alert parents during suicide conversations, report finds](https://www.latimes.com/business/story/2026-10-07/chatgpts-teen-safeguards-failed-to-alert-parents-during-suicide-conversations-report-finds) — World & Nation · 02:00 PT · #us #ai
-- [Big cost hikes possible for some retirees in Nevada worker health insurance program](https://thenevadaindependent.com/article/big-premium-hikes-possible-for-retirees-in-nevada-worker-health-insurance-program/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Why aren't there more street vendors in Clark County? Vendors blame tough rules and rising immigration enforcement](https://thenevadaindependent.com/article/why-arent-there-more-street-vendors-in-clark-county-vendors-blame-tough-rules-and-rising-immigration-enforcement/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [OPINION: They're called the Raiders for a reason](https://thenevadaindependent.com/article/opinion-theyre-called-the-raiders-for-a-reason/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Did Nicole Cannizzaro give $26 million in taxpayer dollars to her husband's client?](https://thenevadaindependent.com/article/did-nicole-cannizzaro-give-26-million-in-taxpayer-dollars-to-her-husbands-client/) — The Nevada Independent · 01:55 PT · #us #nevada
-- [ACLU pierde recurso legal contra prohibición del Condado Clark para "selfis" en puentes peatonales](https://thenevadaindependent.com/article/aclu-pierde-recurso-legal-contra-prohibicion-del-condado-clark-para-selfis-en-puentes-peatonales/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-06
-
-- [ACLU loses challenge against Clark County's 'selfie ban' on pedestrian bridges](https://thenevadaindependent.com/article/aclu-loses-challenge-against-clark-countys-selfie-ban-on-pedestrian-bridges/) — The Nevada Independent · 16:19 PT · #us #nevada
-- [Lopez: 'Take out' L.A. or San Diego? This buffoon thinks Trump was way out of line](https://www.latimes.com/california/story/2026-10-06/take-out-la-or-san-diego-this-buffoon-thinks-trump-was-way-out-of-line) — World & Nation · 14:14 PT · #us
-- [Trump loves to bash California to rally the base. 'Let 'em take out' L.A. is just the latest](https://www.latimes.com/politics/story/2026-10-06/trump-loves-to-bash-california-to-rally-base-let-em-take-out-la-is-just-latest) — World & Nation · 13:53 PT · #us
-- [La policía escolar del Condado Clark dice que no tramitará contrato con sistema de cámaras Flock](https://thenevadaindependent.com/article/la-policia-escolar-del-condado-clark-dice-que-no-tramitara-contrato-con-sistema-de-camaras-flock/) — The Nevada Independent · 11:10 PT · #us #nevada
-- [Clark County school police say it won't pursue contract with Flock](https://thenevadaindependent.com/article/clark-county-school-police-say-it-wont-pursue-contract-with-flock/) — The Nevada Independent · 10:22 PT · #us #nevada
-- [The early voting blog, 2026 general](https://thenevadaindependent.com/article/the-early-voting-blog-2026-general/) — The Nevada Independent · 08:32 PT · #us #civic #nevada
-- [Can Nevada Dems oust the GOP lieutenant governor? A national org is spending $1.75M to try.](https://thenevadaindependent.com/article/can-nevada-dems-oust-the-gop-lieutenant-governor-a-national-org-is-spending-1-5m-to-try/) — The Nevada Independent · 07:00 PT · #us #nevada
-- [Jim Bakker, televangelist who rose to fame and fell from grace, dies at 86](https://www.latimes.com/entertainment-arts/tv/story/2026-10-06/jim-bakker-dies-televangelist-who-rose-to-fame-and-fell-from-grace) — World & Nation · 06:55 PT · #us
-- [Obama returns as closer-in-chief](https://www.politico.com/newsletters/playbook/2026/10/06/obama-returns-as-closer-in-chief-01108295) — Playbook · 03:07 PT · #us
-- [Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy](https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy) — World & Nation · 03:00 PT · #us

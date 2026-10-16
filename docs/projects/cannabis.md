@@ -1,13 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-15T22:56:05-07:00
-count: 74
+updated: 2026-10-16T03:42:13-07:00
+count: 76
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-74 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+76 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-16
+
+- [Beyond 280E relief: The hidden tax audit risks of marijuana rescheduling](https://mjbizdaily.com/news/beyond-280e-relief-the-hidden-tax-audit-risks-of-marijuana-rescheduling/618669/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
+- [Dark money ads slam GOP senator’s hemp stance (Newsletter: October 16, 2026)](https://www.marijuanamoment.net/dark-money-ads-slam-gop-senators-hemp-stance-newsletter-october-16-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis
 
 ## 2026-10-15
 

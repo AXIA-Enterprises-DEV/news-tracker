@@ -2,7 +2,7 @@
 
 > Live news aggregator (RSS/Atom only) updated ~every 10 min. All pages are plain Markdown with YAML frontmatter; item lines are `- [Title](url) — Source · HH:MM PT · #category #project $TICKER`.
 
-Last sync: 2026-10-15 22:56 PT · 13463 items · 185/197 feeds OK
+Last sync: 2026-10-16 03:42 PT · 14006 items · 193/197 feeds OK
 
 ## Core
 
@@ -14,6 +14,7 @@ Last sync: 2026-10-15 22:56 PT · 13463 items · 185/197 feeds OK
 
 ## Days
 
+- [2026-10-16](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-16.md)
 - [2026-10-15](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-15.md)
 - [2026-10-14](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-14.md)
 - [2026-10-13](https://axia-enterprises-dev.github.io/news-tracker/news/2026-10-13.md)
