@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $VISN"
-updated: 2026-10-15T18:16:20-07:00
+updated: 2026-10-15T22:56:05-07:00
 count: 2
 tags: ["ticker", "VISN"]
 ---

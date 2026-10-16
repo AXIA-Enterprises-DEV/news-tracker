@@ -1,13 +1,13 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-15T18:16:20-07:00
-count: 229
+updated: 2026-10-15T22:56:05-07:00
+count: 231
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-229 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+231 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-15
 
@@ -58,6 +58,7 @@ tags: ["project", "media"]
 - [The Media and Broadcasting Council and the Ministry of Health issued a joint statement - Baku.ws](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkg5bzBRSFVfWmFrMHpWVDlnYWVuZFEtcVA4b00yZXFqZ2I1clVtSnE4UEVVRTBiZFdkMHFoRUtycjY4R2ZreDZpQTNPV0Q0UTM1ejh5eDBVd3Z0cU9nYVo1UUJpbG9SWnh0YWN2NjZVUDZvUG50STZIUEt2c3NqZ2YzM0JjVTdmUVVOVngtRjVFcVVxc1JDN2I2UEgySmlESzAyRDN4cHh0WGxtMmZ5VXFUd2g?oc=5) — Google News: propaganda OR disinformation media · 14:36 PT · #world #media
 - [How did a migrating bird inspire this #electricplane? #travel #aviation #pushinglimits](https://www.youtube.com/shorts/7Km3Ckm4NG4) — Business Insider · 14:05 PT · #business #media
 - [OpenAI Disrupts Iranian Operation Using AI to Impersonate Journalists, Spread Disinformation - Le·gal In·sur·rec·tion](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGZ3aVV1UTF3ZS1lRUZieEd0NklSLWdzZnpialRUZ2dndzFqMGVFYmFwR2ZCRTluQzc2bDV3RzZ5bWVJOU1rbFpaeG9fNm5HN3UtdW5lX2xwN3V1eDBtT0hmc0ZOcjFGamhOR0xUUDk2ZmM2YUNENnExVDNxOHRtN0tCTUNMaDZoV3ZWLWdNcjg1ZEZKNG42SFltNnNFOGg4VUF1WkEyckFSeWJxSW9tUWdyLTZpMk13TkZ1MnByUXJVQThSdlp4aVJhNG5HcHPSAc8BQVVfeXFMTkhmd2lVdVExd2UtZUVGYnhHdDZJUi1nc2Z6YmpUVGdnZ3cxajBlRWJhcEdmQkU5bkM3Nmw1d0c2eW1lSTlNa2xaWnhvXzZuRzd1LXVuZV9scDd1dXgwbU9IZnNGTnIxRmpoTkdMVFA5NmZjNmFDRDZxMVQzcTh0bTdLQk1DTGg2aFd2Vi1nTXI4NWRGSjRuNkhZbTZzRThoOFVBdVpBMnJBUnlicUlvbVFnci02aTJNd05GdTJwclFyVUE4UnZaeGlSYTRuR3Bz?oc=5) — Google News: propaganda OR disinformation media · 14:00 PT · #world #ai #media
+- [Brazil’s President Lula Accuses Meta of Helping His Right-Wing Opponent - The New York Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFBBZk5MNTltdzhhVFJpSTVDTDMwRWtXV0RQSmJMSmhCeUVfdE5JQnJ1YlV2Nmx2QTJuUkszOUN5ZnhEenM2RW1ONFpVM25zLTVzRk9FUGFYb0g2TXJ2TXZHaHduUi1YTmk3VFVIRU5qaTFNRXUyU3NOeTdsVW1pMnlPUVIyT1Nhd05CUkNEOURTTkdlUlE?oc=5) — Google News: propaganda OR disinformation media · 13:28 PT · #world #media
 - [Fact-Checking Senate Debates in Georgia, Maine and Michigan](https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html) — NYT Politics · 13:06 PT · #politics #civic #media
 - [Two creators went to NYU’s business school, then decided to make a show about the news](https://www.niemanlab.org/2026/10/two-creators-went-to-nyus-business-school-then-decided-to-make-a-show-about-the-news/) — Nieman Lab · 12:43 PT · #tech #media
 - [The "women-first" #dating app #Bumble is going private — with two new male #CEOs. #datingapps](https://www.youtube.com/shorts/KvSMhA_1f4w) — Business Insider · 12:01 PT · #business #media
@@ -68,6 +69,7 @@ tags: ["project", "media"]
 - [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://lasvegassun.com/news/2026/oct/14/judge-extends-order-blocking-trump-from-banning-cn/) — Las Vegas Sun · 09:20 PT · #us #media #nevada
 - [Romance Scams Have Cost Americans Billions—This Journalist Went Undercover To Expose Them](https://www.forbes.com/sites/forbestv/2026/10/14/romance-scams-have-cost-americans-billions-this-journalist-went-undercover-to-expose-them/) — Forbes - Business · 09:15 PT · #business #media
 - [Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests](https://www.forbes.com/sites/saradorn/2026/10/14/katie-zacharia-may-have-committed-a-crime-by-claiming-shes-a-lawyer-complaint-suggests/) — Forbes - Business · 09:09 PT · #business #media
+- [Mapping propaganda: practices, media and power - Nature](https://news.google.com/rss/articles/CBMiWEFVX3lxTE03djlrWEJLQksxWDNWX3Q2YkV0NlJFTExyR2wtZnhLVy1GYlE2UENQU21FOThGc203NDdnejREQUtuNDY4MXRKQUoxd29ycjdyWEZtVzNRNGs?oc=5) — Google News: propaganda OR disinformation media · 08:52 PT · #world #media
 - [The great Russian bot blackout that wasn’t, and what it means for South Africa - News24](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3h2SGdGNzBLUi10ak8waktNdl91elM5WTVZRGxLa0NMNVR5bDgyMUhJM1dZWmlQV3cyZXhkUHkzYzBuSkEwa1dxUWE1R05PUTE5VURUZ2dmSXpaNUJRRVRkTWZ0Nkl4R0EydFlYT2Jodi1yblc1YzVka20yc253b3ZJV1d6QnU5MUE5QV9SMFVuMFJ0TDY0SjRnakxVd3hNNGZfei01VFhaaWo1U3VpVHRnMjkxSVpPTTd2M1UwS21jbW1uZXhOWFh4OEsxRUVr?oc=5) — Google News: propaganda OR disinformation media · 08:45 PT · #world #foreign #media
 - [It's Day Zero for these plebe candidates at the US Merchant #Marine Academy. #military #bootcamp](https://www.youtube.com/shorts/OTTG9rgl_Cc) — Business Insider · 08:00 PT · #business #foreign #media
 - [In the Kremlin’s AI Propaganda Blitz, the Noise Is the Signal - Carnegie Endowment for International Peace](https://news.google.com/rss/articles/CBMilgFBVV95cUxQODl5bWhON2lVR0V5VGNWcVJDU2hQWWNaZmxTYTZaajlCQWtLQjVyMzJPdGotUmE0RDdXek1EaTY1a0dHejhSNXRaeW85eU9ZVXo3RVdCRmw5M2lNY29vOHRMSXJoOXZLSFpoS0N6ZDM5V2YwbmRELTFwN0FYeEw0c0pNM2ZLUDM0TFh6c0FSTW51QkR2N3c?oc=5) — Google News: propaganda OR disinformation media · 07:25 PT · #world #ai #media

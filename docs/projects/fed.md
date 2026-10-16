@@ -1,16 +1,22 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-15T18:16:20-07:00
-count: 355
+updated: 2026-10-15T22:56:05-07:00
+count: 362
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-355 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+362 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-15
 
+- [Dollar weakens as Fed’s Warsh declines to hint at October rate rise](https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1) — FT Home · 22:25 PT · #business #fed
+- [Warsh Avoids Signal on October Rate Move - WSJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaThqQ25PaWtHbG1VbkprR2Q4dXNOa3F1VDBDcVItS0dtRnBXQlVRS19VMFJ3YXdVVHlHWlFnZURQa3U4czRYQVJubmp2dXlGOHdneVU4cWp2YlVVdHlPNlh5dEo4V3k4Ri1KVHNaRmdLaDk1WDNYcVhEU1JxUzNsaDJPcGVuS0xsLUFJVG1yUjNUa24wRkdjVQ?oc=5) — Top stories - Google News · 22:23 PT · #world #fed
+- [Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'](https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html) — CNBC Top News · 22:07 PT · #markets #fed
+- [Why Bad News in the Bond Market May Be Good News for Investors](https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html) — NYT Business · 22:07 PT · #business #fed
+- [Warsh Vows Price Stability as A.I. Delivers ‘Shock’ to Economy](https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html) — NYT Business · 22:02 PT · #business #fed
+- [‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says](https://www.ft.com/content/b6255adb-3ce5-4463-92cd-de2f8e9a1f74?syn-25a6b1a6=1) — FT Home · 20:12 PT · #business #fed
 - [Global EV sales fall 2% in September, ending six-month growth streak](https://www.investing.com/news/economic-indicators/globalev-sales-fall-2-in-september-ending-sixmonth-growth-streak-4952814) — Investing.com Economic Indicators · 16:12 PT · #markets #fed
 - [Fed Officials Troubled by Hot Inflation Data as Rate Hike Looms - Investopedia](https://news.google.com/rss/articles/CBMimgFBVV95cUxObFhTR3R1MjNEY0VkVldFRlFlWXVhUVhaMEMzYXkwYnZ2UGs1cXJCRVY1X0p5ckVmcVpwQlZGMEJCNHdJcEN3dmZzblR1QzQtUFlUeGRoTU5TT2ZFWVdTdG9EMmlmRllBZjIyMEgxMnRyOUlXaEdCc3VjWFYxQ2dlYWtEQmtqX3A5OERGZmNzVDBrZ3V5X1N1eDNR?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:42 PT · #markets #fed
 - [Will the Fed raise interest rates this month? A Kevin Warsh speech could offer clues - NBC News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 13:28 PT · #markets #fed
@@ -18,6 +24,7 @@ tags: ["project", "fed"]
 - [U.S. equities finished in the green after the latest PPI inflation report landed](https://seekingalpha.com/news/4653581-us-equities-finished-in-the-green-after-the-latest-ppi-inflation-report-landed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets #fed
 - [Dow climbs 500 points as investors shake off a tech sell-off, more hot inflation data: Live updates - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5) — Top stories - Google News · 13:01 PT · #world #ai #fed #markets
 - [Diesel’s surge is starting to push other prices around. Here’s how](https://www.investing.com/news/economic-indicators/diesels-surge-is-starting-to-push-other-prices-around-heres-how-4952484) — Investing.com Economic Indicators · 12:12 PT · #markets #fed
+- [Average long-term US mortgage rate holds at 7.4%, remaining at highest level in nearly 3 years - AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPclU2UDRyMlZPRXJlUExmTFpSN0tXUVItTFVQbTY3dmtxelZIUDl3RXY2ZmlLYUNiMXJnaDBvanpRRk1ldktmcndKV0JOT2s0endZTzlUdFI0SXN6M1dRVE1XVnBsbVFKbU5DX0pOQmJtV1pQZXFsNE1LN0ladVdKc2dlUGVaNENrX1p3QThKZHZraVhxU3JCQ0ZmY2NFYmdyZEE?oc=5) — Top stories - Google News · 11:11 PT · #world #fed #realestate
 - [US producer prices post largest gain in 4-1/2 years; expensive gasoline boosts retail sales - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjd2SV90YWRKSHlQTTNockxKdmJiNjU5Mzl1a0x0ZlY3LVBHUFVJak5KTGc3eXF3TlpMX191MHROd2VtTkZSYzBzXzdTNktPcTlMZDdDX1NuQmVZYjFtT3RmQlhCUG1TeTBTRGFVN3phM2lHQUgyOU04TVBrMjQ1YU8xQnp4VVNtMDhzR04zNWdvRk9fc09oelNDVjM?oc=5) — Top stories - Google News · 10:28 PT · #world #fed #oil
 - [Did mortgage rates just peak or is this some bond market madness?](https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/) — HousingWire · 10:24 PT · #business #fed #oil #realestate
 - [Bitcoin Price Rebounds Above $82K After Brief Dip Below $80K](https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-above-82k-after-brief-dip-below-80k/) — Bitcoin News · 10:10 PT · #markets #fed

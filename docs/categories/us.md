@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-15T18:16:20-07:00
+updated: 2026-10-15T22:56:05-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,23 @@ tags: ["category", "us"]
 
 ## 2026-10-15
 
+- [Thursday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/thursdays-nevada-preps-high-school-sports-scoreboard-3900831/) — Las Vegas Review-Journal · 22:08 PT · #us #nevada
+- [2 critically hurt after wrong-way crash in west Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/2-critically-hurt-after-wrong-way-crash-in-west-las-vegas-valley-3900827/) — Las Vegas Review-Journal · 22:02 PT · #us #nevada
+- [Mark Stone hat trick powers Golden Knights to win over Flames](https://www.reviewjournal.com/sports/goldenknights/mark-stone-hat-trick-powers-golden-knights-to-win-over-flames-3900801/) — Las Vegas Review-Journal · 21:52 PT · #us #nevada
+- [Teen shooter kills 4 at Oregon elementary school before being shot by a witness](https://lasvegassun.com/news/2026/oct/15/teen-shooter-kills-4-at-oregon-elementary-school-b/) — Las Vegas Sun · 21:25 PT · #us #nevada
+- [Desert Oasis repeats as 4A girls state golf champion — PHOTOS](https://www.reviewjournal.com/nevada-preps/desert-oasis-repeats-as-4a-girls-state-golf-champion-3900771/) — Las Vegas Review-Journal · 21:23 PT · #us #golf #nevada
+- [Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982](https://lasvegassun.com/news/2026/oct/15/brewers-sweep-the-dodgers-in-the-nlcs-to-reach-the/) — Las Vegas Sun · 21:10 PT · #us #nevada
+- [COMMENTARY: Pain at the pump, profits at the refinery](https://www.reviewjournal.com/opinion/commentary-pain-at-the-pump-profits-at-the-refinery-3900768/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada #oil
+- [CARTOONS: When birds of a feather flock together](https://www.reviewjournal.com/opinion/drawing-board/cartoons-when-birds-of-a-feather-flock-together-3900758/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: Abortion is fine, but televising the execution of a terrorist?](https://www.reviewjournal.com/opinion/letters/letter-abortion-is-fine-but-televising-the-execution-of-a-terrorist-3900755/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: A sad narrative](https://www.reviewjournal.com/opinion/letters/letter-a-sad-narrative-3900752/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [VICTOR JOECKS: Nevada’s election hinges on these four questions](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-nevadas-election-hinges-on-these-four-questions-3900749/) — Las Vegas Review-Journal · 21:00 PT · #us #civic #nevada
+- [EDITORIAL: Democratic House incumbents on the ballot](https://www.reviewjournal.com/opinion/editorials/editorial-democratic-house-incumbents-on-the-ballot-3900746/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [JONAH GOLDBERG: Politicians can’t just ‘give the people what they want’](https://www.reviewjournal.com/opinion/jonah-goldberg-politicians-cant-just-give-the-people-what-they-want-3900743/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Inspired by family, Las Vegas-born tequila brand honors its Mexican heritage](https://www.ktnv.com/news/inspired-by-family-las-vegas-born-tequila-brand-honors-its-mexican-heritage) — KTNV Las Vegas · 20:34 PT · #us #nevada #smallbiz
+- [Nevada Supreme Court rejects blanket secrecy rule for active criminal case records](https://www.reviewjournal.com/news/politics-and-government/nevada/nevada-supreme-court-rejects-blanket-secrecy-rule-for-active-criminal-case-records-3900733/) — Las Vegas Review-Journal · 19:55 PT · #us #civic #nevada
+- [Henderson unveils $70 million Sports and Social Complex, the valley's largest indoor sports facility](https://www.ktnv.com/neighborhoods/henderson/henderson-unveils-70-million-sports-and-social-complex-the-valleys-largest-indoor-sports-facility) — KTNV Las Vegas · 19:09 PT · #us #nevada
+- [College Football Playoff set to expand to 24 teams in 2027](https://www.reviewjournal.com/sports/unlv/unlv-football/college-football-playoff-set-to-expand-to-24-teams-in-2027-3900707/) — Las Vegas Review-Journal · 18:57 PT · #us #nevada
 - [California orders lenders to report on handling of insurance payouts to LA fire survivors](https://lasvegassun.com/news/2026/oct/15/california-orders-lenders-to-report-on-handling-of/) — Las Vegas Sun · 17:59 PT · #us #nevada #realestate
 - [More roller coasters close as officials investigate fatal fall in Georgia](https://www.reviewjournal.com/news/nation-and-world/more-roller-coasters-close-as-officials-investigate-fatal-fall-in-georgia-3900680/) — Las Vegas Review-Journal · 17:49 PT · #us #nevada
 - [Battered and bruised Ashton Jeanty ‘feeling great’ and ‘ready to go’ for Raiders](https://www.reviewjournal.com/sports/raiders/battered-and-bruised-ashton-jeanty-feeling-great-and-ready-to-go-for-raiders-3900675/) — Las Vegas Review-Journal · 17:47 PT · #us #nevada
@@ -421,26 +438,3 @@ tags: ["category", "us"]
 - [Jim Bakker, televangelist who rose to fame and fell from grace, dies at 86](https://www.latimes.com/entertainment-arts/tv/story/2026-10-06/jim-bakker-dies-televangelist-who-rose-to-fame-and-fell-from-grace) — World & Nation · 06:55 PT · #us
 - [Obama returns as closer-in-chief](https://www.politico.com/newsletters/playbook/2026/10/06/obama-returns-as-closer-in-chief-01108295) — Playbook · 03:07 PT · #us
 - [Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy](https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy) — World & Nation · 03:00 PT · #us
-- [An expiring Las Vegas-Clark County compact is raising accusations of a 'money grab.' Here's what's going on:](https://thenevadaindependent.com/article/long-simmering-tensions-flare-as-a-las-vegas-clark-county-agreement-over-services-is-set-to-expire/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Aaron Ford's secret weapon in Nevada's governor's race? Influencers.](https://thenevadaindependent.com/article/aaron-fords-secret-weapon-in-nevadas-governors-race-influencers/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Are there more churches per capita in Las Vegas than in any other city in the country?](https://thenevadaindependent.com/article/are-there-more-churches-per-capita-in-las-vegas-than-in-any-other-city-in-the-country/) — The Nevada Independent · 01:55 PT · #us #nevada
-- [¿Por qué no hay más vendedores ambulantes en el Condado Clark?](https://thenevadaindependent.com/article/por-que-no-hay-mas-vendedores-ambulantes-en-el-condado-clark/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-05
-
-- [Supreme Court sounds wary of state-based climate change suits against oil producers](https://www.latimes.com/politics/story/2026-10-05/supreme-court-sounds-wary-of-state-based-climate-change-suits-against-oil-producers) — World & Nation · 10:23 PT · #us #civic #oil
-- [A Saudi-led coalition says it has reclaimed territory overrun by Yemen's Iran-backed Houthi rebels](https://www.latimes.com/world-nation/story/2026-10-05/saudi-led-coalition-says-its-fighter-jets-are-bombing-yemens-iran-backed-houthi-rebels) — World & Nation · 09:30 PT · #us #foreign
-- [Department of Homeland Security buys two more detention centers in California for $950 million](https://www.latimes.com/politics/story/2026-10-05/dhs-buys-three-detention-centers-in-california-for-950-million) — World & Nation · 07:48 PT · #us
-- [Campaign ‘all coming from DC,’ Paxton says](https://www.politico.com/newsletters/playbook/2026/10/05/campaign-all-coming-from-dc-paxton-says-01106543) — Playbook · 03:05 PT · #us
-- [When is war not 'war'? In Iran, according to the U.S.](https://www.latimes.com/politics/story/2026-10-05/why-trump-administration-is-reluctant-to-call-ongoing-conflict-with-iran-war) — World & Nation · 03:00 PT · #us #foreign
-- [U.S. sends torture survivor back to Nicaragua, where he is immediately jailed again](https://www.latimes.com/world-nation/story/2026-10-05/nicaragua-deportations-trump) — World & Nation · 03:00 PT · #us
-- [Google cuestiona orden de registro de la policía de Las Vegas para obtener términos de búsqueda](https://thenevadaindependent.com/article/google-cuestiona-orden-de-registro-de-la-policia-de-las-vegas-para-obtener-terminos-de-busqueda/) — The Nevada Independent · 02:30 PT · #us #nevada
-- [Google challenges Las Vegas police's warrant as an "illegal general warrant"](https://thenevadaindependent.com/article/google-challenges-las-vegas-polices-search-warrant-for-keyword-terms-calling-it-unconstitutional/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [She went to prison for her miscarriage. Now she's won $1.6 million from a rural Nevada county.](https://thenevadaindependent.com/article/she-went-to-prison-for-her-miscarriage-now-shes-won-1-6-million-from-a-rural-nevada-county/) — The Nevada Independent · 02:00 PT · #us #nevada
-
-## 2026-10-04
-
-- [Buttigieg goes big to help 2026 Dems](https://www.politico.com/newsletters/playbook/2026/10/04/buttigieg-goes-big-to-help-2026-dems-01106138) — Playbook · 08:28 PT · #us #ai
-- [Supreme Court to weigh whether oil companies can be forced to pay for climate damage](https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change) — World & Nation · 03:00 PT · #us #civic #oil
-- [Barabak: What's going to happen in the midterm election? Find out here. (Maybe)](https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales) — World & Nation · 03:00 PT · #us #civic
-- [Nevada backcountry vulnerable to more off-roading, logging under federal rule changes](https://thenevadaindependent.com/article/nevada-backcountry-vulnerable-to-more-off-roading-logging-under-federal-rule-changes/) — The Nevada Independent · 02:00 PT · #us #nevada

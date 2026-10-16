@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-15T18:16:20-07:00
+updated: 2026-10-15T22:56:05-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,12 @@ tags: ["category", "science"]
 
 ## 2026-10-15
 
+- [Performance under pressure: A new perspective on why we fail—or rise to the occasion](https://phys.org/news/2026-10-pressure-perspective-occasion.html) — Phys.org - latest science and technology news stories · 22:38 PT · #science
+- [APOD: 2026 October 16 – Chasing the International Space Station](https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/) — NASA · 21:05 PT · #science
+- [Isaias Dims the Gulf Coast](https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/) — NASA · 21:00 PT · #science
+- [First in-depth map of 'forever chemicals' in the Finger Lakes created](https://phys.org/news/2026-10-depth-chemicals-finger-lakes.html) — Phys.org - latest science and technology news stories · 20:40 PT · #science
+- [Endangered species in Canada face extensive delays receiving protection](https://phys.org/news/2026-10-endangered-species-canada-extensive-delays.html) — Phys.org - latest science and technology news stories · 20:00 PT · #science
+- [A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated](https://phys.org/news/2026-10-rare-family-barn-owls-manhattan.html) — Phys.org - latest science and technology news stories · 19:00 PT · #science
 - [Can extra weight weigh on your dog's brain?](https://phys.org/news/2026-10-extra-weight-dog-brain.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
 - [In animated films, nonhuman characters are still overwhelmingly male](https://phys.org/news/2026-10-animated-nonhuman-characters-overwhelmingly-male.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
 - [Newly discovered viruses reveal an evolutionary missing link](https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
@@ -411,9 +417,3 @@ tags: ["category", "science"]
 - [Trailer](http://www.bbc.co.uk/programmes/p0pggjg9) — The Infinite Monkey Cage · 07:30 PT · #science
 - [Planetary systems reveal two distinct families tied to their host stars](https://phys.org/news/2026-10-planetary-reveal-distinct-families-host.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
 - [Conflict with father can influence whether teens receive mental health support](https://phys.org/news/2026-10-conflict-father-teens-mental-health.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [NASA’s Perseverance Rover Sets a Mars Driving Record](https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html) — NYT > Science · 07:09 PT · #science
-- [Research slows down and shines light on honey bee stinging mechanisms | The honey bee stinger: An unusual pump with collapsible double pistons](https://www.reddit.com/r/science/comments/1x4xm52/research_slows_down_and_shines_light_on_honey_bee/) — Reddit Science · 07:07 PT · #science
-- [Random mutations turn RNA droplets into cell-like structures that move and store cargo](https://phys.org/news/2026-10-random-mutations-rna-droplets-cell.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [Highly educated women continue to find partners](https://phys.org/news/2026-10-highly-women-partners.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [Using smartwatches and daily surveys to track people's lifestyle, study finds that machine learning-guided interventions significantly reduce depression symptoms](https://www.reddit.com/r/science/comments/1x4x0mi/using_smartwatches_and_daily_surveys_to_track/) — Reddit Science · 06:44 PT · #science
-- [Damaged and drained, Indonesia's peatlands go up in smoke](https://phys.org/news/2026-10-indonesia-peatlands.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science
