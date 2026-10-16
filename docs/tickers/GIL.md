@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $GIL"
-updated: 2026-10-16T14:47:03-07:00
-count: 2
+updated: 2026-10-16T16:57:57-07:00
+count: 3
 tags: ["ticker", "GIL"]
 ---
 
 # Ticker: $GIL
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-16
+
+- [GIL INVESTOR ALERT: Gildan Activewear Inc. Investors with Substantial Losses May Seek to Lead the Gildan Activewear Class Action Lawsuit](https://www.prnewswire.com/news-releases/gil-investor-alert-gildan-activewear-inc-investors-with-substantial-losses-may-seek-to-lead-the-gildan-activewear-class-action-lawsuit-302911636.html) — PR Newswire M&A · 15:55 PT · #business #markets $GIL
 
 ## 2026-10-15
 

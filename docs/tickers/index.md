@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-16T14:47:03-07:00
+updated: 2026-10-16T16:57:57-07:00
 count: 235
 tags: ["tickers"]
 ---
@@ -12,6 +12,7 @@ tags: ["tickers"]
 - [$LSCC](LSCC.md) — 6 items
 - [$RMNI](RMNI.md) — 5 items
 - [$III](III.md) — 4 items
+- [$GIL](GIL.md) — 3 items
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
@@ -19,7 +20,6 @@ tags: ["tickers"]
 - [$IOT](IOT.md) — 2 items
 - [$BULL](BULL.md) — 2 items
 - [$CNC](CNC.md) — 2 items
-- [$GIL](GIL.md) — 2 items
 - [$TNET](TNET.md) — 2 items
 - [$VISN](VISN.md) — 2 items
 - [$ERIC](ERIC.md) — 2 items

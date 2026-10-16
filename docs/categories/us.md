@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-16T14:47:03-07:00
+updated: 2026-10-16T16:57:57-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,16 @@ tags: ["category", "us"]
 
 ## 2026-10-16
 
+- [No injuries reported after shots fired near Clark High School, police say](https://www.ktnv.com/news/no-injuries-reported-after-shots-fired-near-clark-high-school-police-say) — KTNV Las Vegas · 16:53 PT · #us #nevada
+- [Friday night roundup: High school football scores in Las Vegas](https://lasvegassun.com/news/2026/oct/16/friday-night-roundup-high-school-football-scores-i/) — Las Vegas Sun · 16:07 PT · #us #nevada
+- [Shohei Ohtani's health and a possible lockout loom over an uncertain offseason for the Dodgers](https://lasvegassun.com/news/2026/oct/16/shohei-ohtanis-health-and-a-possible-lockout-loom/) — Las Vegas Sun · 16:05 PT · #us #nevada
+- [California officials who process ballots from suspected noncitizens risk prosecution, US warns](https://lasvegassun.com/news/2026/oct/16/california-officials-who-process-ballots-from-susp/) — Las Vegas Sun · 16:00 PT · #us #civic #nevada
+- [COMMENTARY: Fewer students should mean smarter schools, not permanent budgets](https://www.reviewjournal.com/opinion/commentary-fewer-students-should-mean-smarter-schools-not-permanent-budgets-3901171/) — Las Vegas Review-Journal · 15:47 PT · #us #nevada
+- [NFL trends, predictions: Bears, Colts show best chance to pay off](https://www.reviewjournal.com/sports/betting/nfl-trends-predictions-bears-colts-show-best-chance-to-pay-off-3901167/) — Las Vegas Review-Journal · 15:38 PT · #us #nevada
+- [Lombardo defends Nevada economic record, touts no new taxes](https://lasvegassun.com/news/2026/oct/16/lombardo-defends-nevada-economic-record-touts-no-n/) — Las Vegas Sun · 15:18 PT · #us #nevada
+- ['Drawing a line in the sand': Arizona joins Nevada's lawsuit over Colorado River cuts](https://thenevadaindependent.com/article/drawing-a-line-in-the-sand-arizona-joins-nevadas-lawsuit-over-colorado-river-cuts/) — The Nevada Independent · 14:46 PT · #us #nevada
+- [Cashman Field to see 1 last game before decades-old stadium is gone forever](https://www.reviewjournal.com/sports/cashman-field-to-see-1-last-game-before-decades-old-stadium-is-gone-forever-3901154/) — Las Vegas Review-Journal · 14:45 PT · #us #nevada
+- [Turnstile's Las Vegas stop provides a unifying catharsis among fans](https://lasvegasweekly.com/ae/music/2026/oct/16/turnstiles-las-vegas-the-amp-craig-ranch/) — Las Vegas Sun · 14:45 PT · #us #nevada
 - [Multiple Southern California homes are ablaze in a fast-moving wildfire fueled by hot, windy weather](https://lasvegassun.com/news/2026/oct/16/multiple-southern-california-homes-are-ablaze-in-a/) — Las Vegas Sun · 14:40 PT · #us #nevada
 - [SNHBA names Trilogy Sunstone Best 55+ Community of the Year](https://www.reviewjournal.com/homes/advertising-features/snhba-names-trilogy-sunstone-best-55-community-of-the-year-3901148/) — Las Vegas Review-Journal · 14:35 PT · #us #nevada
 - [Bills-Raiders tickets in high demand as Bills Mafia has first chance to visit Allegiant Stadium](https://www.reviewjournal.com/sports/raiders/bills-raiders-tickets-in-high-demand-as-bills-mafia-has-first-chance-to-visit-allegiant-stadium-3901143/) — Las Vegas Review-Journal · 14:21 PT · #us #nevada
@@ -56,6 +66,7 @@ tags: ["category", "us"]
 - [Flamingo abuse trial testimony details bird’s injuries, alcohol-soaked Las Vegas trip](https://www.reviewjournal.com/crime/courts/flamingo-abuse-trial-testimony-details-birds-injuries-alcohol-soaked-las-vegas-trip-3900889/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
 - [Proposed changes to health survey worry disability advocates](https://www.reviewjournal.com/livewell/proposed-changes-to-health-survey-worry-disability-advocates-3900885/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
 - [On the issues: can the economy tip the Nevada governor’s race?](https://www.reviewjournal.com/news/politics-and-government/nevada/on-the-issues-can-the-economy-tip-the-nevada-governors-race-3900882/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
+- [Russia Strikes 9 Ukrainian Regions As Strain Grows Between Zelenskyy And Trump](https://www.huffpost.com/entry/russia-ukraine-attacks-trump-zelenskyy-spat_n_6ad20346e4b0bfd25657a02a) — World News - Breaking News, Top Stories · 04:06 PT · #us #foreign
 - [El-Sayed’s missing piece](https://www.politico.com/newsletters/playbook/2026/10/16/el-sayeds-missing-piece-01123135) — Playbook · 03:21 PT · #us
 - [Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution](https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution) — World & Nation · 03:00 PT · #us
 - [Mark Carney Says U.S. Is Trying To Break Canada As Alberta Votes On Separation Path](https://www.huffpost.com/entry/carney-canada-alberta-separation_n_6ad1e781e4b0dccf572ab254) — World News - Breaking News, Top Stories · 02:07 PT · #us
@@ -412,17 +423,3 @@ tags: ["category", "us"]
 - [Judging the judges](https://thenevadaindependent.com/article/judging-the-judges/) — The Nevada Independent · 08:50 PT · #us #nevada
 - [Las Vegas law enforcement joins traffic safety campaign amid recent pedestrian-related crashes](https://www.ktnv.com/news/law-enforcement-agencies-join-traffic-safety-campaign-as-las-vegas-valley-sees-multiple-pedestrian-related-accidents) — KTNV Las Vegas · 08:21 PT · #us #nevada
 - [Skies Over Saudi Capital Empty After Deadly Houthi Airport Strikes](https://www.huffpost.com/entry/riyadh-attack-houthis-saudi-arabia_n_6acce4dce4b0ec20eb6b45c5) — World News - Breaking News, Top Stories · 06:51 PT · #us #foreign
-- [MAGA Inc. trims the map](https://www.politico.com/newsletters/playbook/2026/10/12/maga-inc-trims-the-map-01116150) — Playbook · 04:05 PT · #us
-- [Zelenskyy Says Russia Strikes Energy Facilities Despite Trump Claim Of Energy Ceasefire](https://www.huffpost.com/entry/zelenskyy-trump-energy-ceasefire-russia_n_6accb07be4b0ec20eb6b105d) — World News - Breaking News, Top Stories · 03:11 PT · #us #foreign
-- [Robert E. Hall And Michael Woodford Win Nobel Memorial Prize In Economics](https://www.huffpost.com/entry/nobel-economics-2026_n_6accae4be4b0ec20eb6b0f19) — World News - Breaking News, Top Stories · 02:57 PT · #us
-- [How one inmate's clemency request took over the Nevada's governor race](https://thenevadaindependent.com/article/how-one-inmates-clemency-request-took-over-the-nevadas-governor-race/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Reno es la ciudad más reciente de Nevada en terminar su contrato con cámaras Flock Safety](https://thenevadaindependent.com/article/reno-es-la-ciudad-mas-reciente-de-nevada-en-terminar-su-contrato-con-camaras-flock-safety/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-11
-
-- [Rainy, cooler weather draws Las Vegas locals to Red Rock Canyon](https://www.ktnv.com/rainy-cooler-weather-draws-las-vegas-locals-to-red-rock-canyon) — KTNV Las Vegas · 17:37 PT · #us #nevada
-- [Rachel deluges Southwest with rain, but battered coast catches a break](https://www.latimes.com/world-nation/story/2026-10-11/rachel-deluges-southwest-with-rain-but-battered-coast-catches-break) — World & Nation · 16:32 PT · #us
-- [66-year-old man dead after being struck by vehicle in east valley](https://www.ktnv.com/news/66-year-old-man-dead-after-being-struck-by-vehicle-in-east-valley) — KTNV Las Vegas · 12:06 PT · #us #nevada
-- [VIDEO: Rain from Tropical Storm Rachel causes flooding across Las Vegas valley](https://www.ktnv.com/news/video-rain-from-tropical-storm-rachel-causes-flooding-across-las-vegas-valley) — KTNV Las Vegas · 10:35 PT · #us #nevada
-- [Oct. 7 and Nov. 3](https://www.politico.com/newsletters/playbook/2026/10/11/oct-7-and-nov-3-01115941) — Playbook · 08:48 PT · #us
-- [Passenger Terminal At Riyadh Airport Is Struck Again, A Day After 12 Were Killed](https://www.huffpost.com/entry/ap-ml-saudi-arabia-airport-attack_n_6acb7ee3e4b0a568b68e242d) — World News - Breaking News, Top Stories · 05:22 PT · #us

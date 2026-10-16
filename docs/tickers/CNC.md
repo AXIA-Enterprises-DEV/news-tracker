@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $CNC"
-updated: 2026-10-16T14:47:03-07:00
+updated: 2026-10-16T16:57:57-07:00
 count: 2
 tags: ["ticker", "CNC"]
 ---

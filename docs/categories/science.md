@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-16T14:47:03-07:00
+updated: 2026-10-16T16:57:57-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,15 @@ tags: ["category", "science"]
 
 ## 2026-10-16
 
+- [Scientists uncover mystery of how snail shells coil to the right or to the left](https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [Rabbits were a medieval royal luxury in England—until the Black Death made them commonplace](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [Astronomer leads global team on NASA mission to create unprecedented view of the early universe](https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [Plants shift gene activity within minutes of entering spaceflight, experiment reveals](https://phys.org/news/2026-10-shift-gene-minutes-spaceflight-reveals.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [New 3D model reveals how shadows reshape chemistry in stellar nurseries](https://phys.org/news/2026-10-3d-reveals-shadows-reshape-chemistry.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [Scientists discover cell division does more than make new cells: It helps reshape tissues](https://phys.org/news/2026-10-scientists-cell-division-cells-reshape.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [Sexual violence concepts launched online are spilling into the real world](https://phys.org/news/2026-10-sexual-violence-concepts-online-real.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [New high-frequency method boosts 2D material readout for next-gen quantum computers](https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [30+ editor-approved practical gifts for 2026](https://www.popsci.com/gear/practical-gift-guide-2026/) — Popular Science · 14:55 PT · #science
 - [Sunlight gives biodiesel byproduct a second life as hydrogen and valuable chemicals](https://phys.org/news/2026-10-sunlight-biodiesel-byproduct-life-hydrogen.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
 - [A highway instead of a racetrack: Strong coupling of light and sound in an optical fiber](https://phys.org/news/2026-10-highway-racetrack-strong-coupling-optical.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
 - [Infrared light overcomes mirror coating obstacle in gravitational wave detector upgrades](https://phys.org/news/2026-10-infrared-mirror-coating-obstacle-gravitational.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
@@ -411,12 +420,3 @@ tags: ["category", "science"]
 - [Elp1 is required for myeloid differentiation and brain repopulation](https://www.nature.com/articles/s41586-026-11112-3) — Nature · 17:00 PT · #science
 - [Modelling mouse embryogenesis from chemically induced totipotent stem cells](https://www.nature.com/articles/s41586-026-11164-5) — Nature · 17:00 PT · #science
 - [Competing mechanisms toughen bcc binary and medium-entropy alloys at 20 K](https://www.nature.com/articles/s41586-026-11065-7) — Nature · 17:00 PT · #science
-- [Parity-dependent coupling of molecular spin chains to a superconductor](https://www.nature.com/articles/s41586-026-11117-y) — Nature · 17:00 PT · #science
-- [Capillary-selective vasodilation through myosin inhibition halts ischaemic cascades](https://www.nature.com/articles/s41586-026-11171-6) — Nature · 17:00 PT · #science
-- [Evaluating space-based methane detection through a one-year blind test](https://www.nature.com/articles/s41586-026-11115-0) — Nature · 17:00 PT · #science
-- [De novo design of cysteine proteases](https://www.nature.com/articles/s41586-026-11143-w) — Nature · 17:00 PT · #science
-- [Computational design of metalloproteases](https://www.nature.com/articles/s41586-026-11167-2) — Nature · 17:00 PT · #science
-- [Divergent genomic evolution in astrocytomas and oligodendrogliomas](https://www.nature.com/articles/s41586-026-11150-x) — Nature · 17:00 PT · #science
-- [Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation](https://www.nature.com/articles/s41586-026-11136-9) — Nature · 17:00 PT · #science
-- [Targeted stimulation of motor cortex ensembles drives learned movements](https://www.nature.com/articles/s41586-026-11174-3) — Nature · 17:00 PT · #science
-- [Artificial intelligence-enabled clinical phenotyping of human brown fat](https://www.nature.com/articles/s41586-026-11162-7) — Nature · 17:00 PT · #science #ai
