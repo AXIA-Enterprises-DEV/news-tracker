@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-15T16:06:34-07:00
+updated: 2026-10-15T18:16:20-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,11 @@ tags: ["category", "science"]
 
 ## 2026-10-15
 
+- [Can extra weight weigh on your dog's brain?](https://phys.org/news/2026-10-extra-weight-dog-brain.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
+- [In animated films, nonhuman characters are still overwhelmingly male](https://phys.org/news/2026-10-animated-nonhuman-characters-overwhelmingly-male.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
+- [Newly discovered viruses reveal an evolutionary missing link](https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age](https://phys.org/news/2026-10-white-sands-footprints-humans-experienced.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [Imperial woodpecker returns to life as a detailed digital specimen](https://phys.org/news/2026-10-imperial-woodpecker-life-digital-specimen.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
 - [Food, fear and physics help explain group behavior from plankton to whales](https://phys.org/news/2026-10-food-physics-group-behavior-plankton.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
 - [New spectroscopy method enables direct comparisons of nuclear sizes across heavy elements](https://phys.org/news/2026-10-spectroscopy-method-enables-comparisons-nuclear.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
 - [Lunar fault maps reveal how much the moon is shrinking](https://phys.org/news/2026-10-lunar-fault-reveal-moon.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
@@ -412,8 +417,3 @@ tags: ["category", "science"]
 - [Highly educated women continue to find partners](https://phys.org/news/2026-10-highly-women-partners.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
 - [Using smartwatches and daily surveys to track people's lifestyle, study finds that machine learning-guided interventions significantly reduce depression symptoms](https://www.reddit.com/r/science/comments/1x4x0mi/using_smartwatches_and_daily_surveys_to_track/) — Reddit Science · 06:44 PT · #science
 - [Damaged and drained, Indonesia's peatlands go up in smoke](https://phys.org/news/2026-10-indonesia-peatlands.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science
-- [Increasing woody vegetation may boost populations of Georgia's gamebird](https://phys.org/news/2026-10-woody-vegetation-boost-populations-georgia.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science
-- [How literature can inspire us to forgive: In a new study, the use of a writing technique called ‘internal focalization’ fosters empathy.](https://www.reddit.com/r/science/comments/1x4wieh/how_literature_can_inspire_us_to_forgive_in_a_new/) — Reddit Science · 06:22 PT · #science
-- [Illegal fungus release reveals tangled history of Australia's decadeslong battle with blackberry](https://phys.org/news/2026-10-illegal-fungus-reveals-tangled-history.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [How cells make their command center accessible](https://phys.org/news/2026-10-cells-center-accessible.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [In 1960, scientists predicted the world would end on November 13, 2026](https://www.popsci.com/science/world-end-overpopulation-doomsday-november-2026/) — Popular Science · 06:02 PT · #science

@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-15T16:06:34-07:00
-count: 77
+updated: 2026-10-15T18:16:20-07:00
+count: 74
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-77 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+74 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-15
 
+- [Homegrown Cannabis Co. Publishes Updated 2026 Guide to Buying Autoflower Cannabis Seeds Online](https://www.prnewswire.com/news-releases/homegrown-cannabis-co-publishes-updated-2026-guide-to-buying-autoflower-cannabis-seeds-online-302909739.html) — PR Newswire M&A · 17:02 PT · #business #cannabis
 - [Colorado cannabis vape recall expands as health complaints rise](https://mjbizdaily.com/news/colorado-cannabis-vape-recall-expands-as-health-complaints-rise/618658/) — MJBizDaily · 15:49 PT · #business #cannabis #smallbiz
 - [Denver cannabis lounge expanding to Las Vegas, plans 20 locations by 2035 - The Business Journals](https://news.google.com/rss/articles/CBMipgFBVV95cUxON0lCZG5QTDRBNUMzWWVvVUZKemdqS0JWREl6ZGtGVm1JNTZQXzUwUWptMFpVNFBkUjBhS3RILS1IZ2xQVFVzeXFQbUF1bEtLRGpITEhwT3dxclgwNUgwTEFGbEpfSWdlUTZCOW1EamVoRm5rVXNrT1lQN1FrUlRRdENKZzAtLU5XaDlnNDA3Qy00SUtCYldhcEpZS1hXZTcyanNSZTd3?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:02 PT · #business #cannabis #nevada
 - [Cody Whipple does things 'my way.' Can the small-town rancher flip Nevada's bluest House seat? - Mesa Valleys Progress](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGhoTWhDQjB1MHp0SG0zOUxWXy1mbDJEaTA0YXZfUVh4TzlWSDVIZWhGV29PdW5QeWQzSVlMMUtPX3c4OUxJem5oZGpfSWpodU9zTXhQcnM0TnlKWktVQk5VUVFBR0kxUklMcHJVNjJKNDJpRzhlbGMyTDZ4aWZ3NW52R3Y3WkZ6ZzNWY2s1bDRldEg1SWl4MnFwaEJTRVpySUpxT1IwNGlZaHZxd2FCdUE5cjgzZUZCZmotSG1SVTdmZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:48 PT · #business #cannabis #nevada
@@ -111,10 +112,3 @@ tags: ["project", "cannabis"]
 - [New York cannabis sales on pace to break record, but signs of stall appear](https://mjbizdaily.com/news/new-york-cannabis-sales-on-pace-to-break-record-but-signs-of-stall-appear/618440/) — MJBizDaily · 14:55 PT · #business #cannabis #smallbiz
 - [Health problems reported after Colorado cannabis vaporizer recall](https://mjbizdaily.com/news/health-problems-reported-after-colorado-cannabis-vaporizer-recall/618431/) — MJBizDaily · 11:27 PT · #business #cannabis #smallbiz
 - [The test all cannabis operators need to run when selecting a vendor](https://mjbizdaily.com/news/the-test-all-cannabis-operators-need-to-run-when-selecting-a-vendor/618422/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
-
-## 2026-10-01
-
-- [How cannabis MSO Verano is preparing for a major new market](https://mjbizdaily.com/news/how-cannabis-mso-verano-is-preparing-for-a-major-new-market/618307/) — MJBizDaily · 15:55 PT · #business #cannabis #smallbiz
-- [Former cannabis worker receives federal grant to study workplace air quality](https://mjbizdaily.com/news/former-cannabis-worker-receives-federal-grant-to-study-workplace-air-quality/618402/) — MJBizDaily · 14:44 PT · #business #cannabis #smallbiz
-- [GOP senators: hemp THC ‘loophole’ helps Chinese criminals](https://mjbizdaily.com/news/gop-senators-hemp-thc-loophole-helps-chinese-criminals/618404/) — MJBizDaily · 13:05 PT · #business #cannabis #smallbiz
-- [arb420? Industry Disputes Deserve Industry Expertise](https://mjbizdaily.com/sponsored/why-arb420-no-cannabis-tutorial-required/618323/) — MJBizDaily · 09:27 PT · #business #cannabis #smallbiz

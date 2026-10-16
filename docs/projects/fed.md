@@ -1,17 +1,19 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-15T16:06:34-07:00
-count: 358
+updated: 2026-10-15T18:16:20-07:00
+count: 355
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-358 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+355 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-15
 
+- [Global EV sales fall 2% in September, ending six-month growth streak](https://www.investing.com/news/economic-indicators/globalev-sales-fall-2-in-september-ending-sixmonth-growth-streak-4952814) — Investing.com Economic Indicators · 16:12 PT · #markets #fed
 - [Fed Officials Troubled by Hot Inflation Data as Rate Hike Looms - Investopedia](https://news.google.com/rss/articles/CBMimgFBVV95cUxObFhTR3R1MjNEY0VkVldFRlFlWXVhUVhaMEMzYXkwYnZ2UGs1cXJCRVY1X0p5ckVmcVpwQlZGMEJCNHdJcEN3dmZzblR1QzQtUFlUeGRoTU5TT2ZFWVdTdG9EMmlmRllBZjIyMEgxMnRyOUlXaEdCc3VjWFYxQ2dlYWtEQmtqX3A5OERGZmNzVDBrZ3V5X1N1eDNR?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 14:42 PT · #markets #fed
+- [Will the Fed raise interest rates this month? A Kevin Warsh speech could offer clues - NBC News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 13:28 PT · #markets #fed
 - [EY Survey: Cost Per Payroll Error Climbs to $339 Average for Companies](http://www.businesswire.com/news/home/20261015000761/en/EY-Survey-Cost-Per-Payroll-Error-Climbs-to-339-Average-for-Companies/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 13:05 PT · #business #fed $PAYC
 - [U.S. equities finished in the green after the latest PPI inflation report landed](https://seekingalpha.com/news/4653581-us-equities-finished-in-the-green-after-the-latest-ppi-inflation-report-landed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 13:02 PT · #markets #fed
 - [Dow climbs 500 points as investors shake off a tech sell-off, more hot inflation data: Live updates - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5) — Top stories - Google News · 13:01 PT · #world #ai #fed #markets
@@ -191,6 +193,7 @@ tags: ["project", "fed"]
 - [Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations](https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories) — MarketWatch Top Stories · 04:18 PT · #markets #ai #fed
 - [Has the AI Boom Impacted the U.S. Current Account?](https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/) — NY Fed Liberty Street Economics · 04:00 PT · #markets #ai #fed
 - [Energy Pushes Inflation to 3.7%: Why the Federal Reserve Can No Longer Even Pretend to Raise Rates - Moomoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3ItUDhmNzFVd2hCT1RSZGxvc0dXek5ZZnkxNTBCajE4WVlSZFVSWDJxWFlZMWZtZEZGQTRqR285Z2x4UjQzMjZEaFYxNFFKdDhGdzBkSlp4MkxjQmo4Q0Q2STlRZ3M0SXZyZTE4aFRlcFhMWmxwSVd4elUzZnB3TThtMXd1dHJGS2d1aEhNOGcwNWppaU1zTVVIbG5yc28?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 02:58 PT · #markets #fed
+- [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections - The New York Times](https://news.google.com/rss/articles/CBMiekFVX3lxTFA2OXA5blhFSVhQWC1HOGpGeDJCdkQxV0xyUHYxck1nUVlEa1QxMm5HV1lacEYxR09WNUM4cVhBTy1rZlNhalZ3WVVORkxMLWZMNGxIUnFMYVpEOWtZSXlRd3Z2TmExRUdqT0pBRHY5UGJFZFI4SldfUUd3?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 02:47 PT · #markets #civic #fed
 - [Fed Rate Polymarket Odds Point to an October Hold - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wSHZGaFU5MEFRLXEwVHY1STZ1ZjQ4ZUdIejdBMWRVaklmaS1nTk9ZSXlNUjJWSm9sTllLQ3pfOTFwVXowRkg1cm42TUtMUVVySHBmcVI4S19mbzdvSU4xdVVJUdIBY0FVX3lxTE5wSHZGaFU5MEFRLXEwVHY1STZ1ZjQ4ZUdIejdBMWRVaklmaS1nTk9ZSXlNUjJWSm9sTllLQ3pfOTFwVXowRkg1cm42TUtMUVVySHBmcVI4S19mbzdvSU4xdVVJUQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 02:01 PT · #markets #fed
 - [German economy likely slowed in third quarter, ministry says](https://www.investing.com/news/economic-indicators/german-economy-likely-slowed-in-third-quarter-ministry-says-4948362) — Investing.com Economic Indicators · 01:30 PT · #markets #fed
 - [Italian growth outlook brightens but slowdown ahead, business lobby says](https://www.investing.com/news/economic-indicators/italian-growth-outlook-brightens-but-slowdown-ahead-business-lobby-says-4948294) — Investing.com Economic Indicators · 01:06 PT · #markets #fed
@@ -393,12 +396,3 @@ tags: ["project", "fed"]
 - [Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm) — Federal Reserve Press · 13:00 PT · #politics #fed
 - [Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm) — Federal Reserve Press · 08:00 PT · #politics #fed
 - [Traders now see little chance of a Fed rate hike in October after weak jobs report](https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html) — CNBC Finance · 06:29 PT · #markets #fed
-
-## 2026-10-01
-
-- [Best High-Yield Savings Accounts for October 2026](https://www.moneycrashers.com/best-high-yield-savings-accounts-interest-rates/) — Money Crashers · 10:54 PT · #markets #fed
-- [Best CD Rates for October 2026](https://www.moneycrashers.com/best-banks-highest-interest-cd-rates/) — Money Crashers · 10:54 PT · #markets #fed
-- [Best High-Yield Checking Accounts for October 2026](https://www.moneycrashers.com/best-high-yield-checking-accounts-interest/) — Money Crashers · 10:53 PT · #markets #fed
-- [Jefferson, The U.S. Economy and Monetary Policy](https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm) — Federal Reserve Speeches · 10:30 PT · #politics #fed
-- [Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI](https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm) — Federal Reserve Speeches · 07:00 PT · #politics #ai #fed
-- [Navigating Geoeconomic Risk in the U.S. Stock Market](https://libertystreeteconomics.newyorkfed.org/2026/10/navigating-geoeconomic-risk-in-the-u-s-stock-market/) — NY Fed Liberty Street Economics · 04:00 PT · #markets #fed

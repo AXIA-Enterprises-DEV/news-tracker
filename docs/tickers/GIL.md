@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $GIL"
-updated: 2026-10-15T16:06:34-07:00
-count: 1
+updated: 2026-10-15T18:16:20-07:00
+count: 2
 tags: ["ticker", "GIL"]
 ---
 
 # Ticker: $GIL
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-15
+
+- [GIL Investors Have Opportunity to Lead Gildan Activewear Inc. Securities Fraud Lawsuit Filed by The Rosen Law Firm](https://www.prnewswire.com/news-releases/gil-investors-have-opportunity-to-lead-gildan-activewear-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302910606.html) — PR Newswire M&A · 18:00 PT · #business $GIL
 
 ## 2026-10-13
 

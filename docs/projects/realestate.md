@@ -1,16 +1,19 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-15T16:06:34-07:00
-count: 282
+updated: 2026-10-15T18:16:20-07:00
+count: 286
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-282 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+286 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-15
 
+- [California orders lenders to report on handling of insurance payouts to LA fire survivors](https://lasvegassun.com/news/2026/oct/15/california-orders-lenders-to-report-on-handling-of/) — Las Vegas Sun · 17:59 PT · #us #nevada #realestate
+- [News | Henderson attracts Las Vegas' top homebuyers as luxury market gains momentum - CoStar](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHB4ZFdadHVHNUJhOWFVV0ZtLXJOZmViTHFCOGJHdTRCVjNBazI5S3dtbTFLVTBYdGYwQjBwcS1EMW1MU24xTVV6dU1tWl9Gc2Q4U1J2REJ5d05kNGpaYWY4Tjc4SWppUEJ6VkxKZGgxWjFvbG5fbmVtQlpDLVdLMkVCNlVoUGZZMlJXV2N0cXVhaU0zZG94MThGLVhoa25WUFRURU5uWkU4SWpEcnJBZXhYc2pCa3M?oc=5) — Google News: Las Vegas real estate · 16:36 PT · #business #nevada #realestate
+- [Beazer Homes stockholders approve $2.2B sale to Dream Finders](https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/) — HousingWire · 16:10 PT · #business #realestate
 - [Donnie Wahlberg and Jenny McCarthy set to sell longtime Illinois home for $2.8 million - The Economic Times](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMFh1TGt3Znp1MGJ0STNsNUVwcE4tT2M2QTVwVDJ4Z3pPUno0N0REaWpOUlNYcFZhMnRKQ0p4QUZUZFY0OG9pZlNuTkEySGNvWFo3cDBaV281MWUzUHlIcGVRMExlSXV3THpmRVZXMEg3cEJDUzNqWGwtN1BNREd0VW1Vb0RxeUFfdzFpdzNYbmxhSXgxZ2JaSXI4TlFCQmY1c05QRzRZVmZ1RVRqT0RBZEJJWGwyZVdRaWFfRi10eWlRMEZlbFJidUhRdDdjM2dDQ3BScjByeUw2RF8xY0RVU0RmdHlwaEJGVlNNN2t30gHzAUFVX3lxTFBlc2Z2Z0x2Sm5aYjk5U09aNWhnWXUxS0laNTNYamNZYTVRYzNQV2puYlBpaDBzTW8yMmJHVGwyT2dpd2s2MjRhczI2a2htSzNhdHVMZUJSZnUyclZBUEpHd3BYRXVZMVZMaUxHV2VQeE9NUVlMQmRDSTJEX3BnTlVtaUtRVVJZbm93YTVCa0R3WUp1QjYxdmdwaUtTX2JoSFR0NGlwODBvYjlETVhVX3FHUWpDLUh6NkZETkpXRlZRcm5BUm03X3VnT29yc0RyNHRySUNGRmJWUmdQZ0hNTElha2ZFMVkzaG1UNUlVWVByQjlsbw?oc=5) — Google News: Las Vegas real estate · 15:31 PT · #business #realestate
 - [EXCLUSIVE: HGTV Star Alison Victoria Takes Aim at ‘Boring’ Las Vegas Homes With a Radical New Design Trend - Realtor.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSDVkem5xMk9Oc3BmOEZHNXhfWXlmZ0dmU0tvMmd0RjZnUVhNcTlKNXhsYmpFYXdGaWZyUTQ1QWRSNXFZRjIzMUl6VWNXWXZYX0UyaFMwbWQ0VWk3azM2MzR5RDBNUmRENWRsd0xhVjFwOVJEek1aVHBHd2oyT3FkcnY1dXZLS0hRaXJEUkdnZ3VrZ2EteXBDYzZJdFROZU4zcWNxOFk0MEJ3dTJqTElOeThYU3VXeURINHNBc3VfczJrejl3RXFPN3c5Zm5nUnY1d2Y1QjlkaFNwcUxHb3liYjhyQ3pkaFBVVlZFWUd4Z0tPc2NhREo5eFlxaGZoUQ?oc=5) — Google News: Las Vegas real estate · 14:32 PT · #business #nevada #realestate
 - [Concierge Auctions: October Auction Lineup Ahead of London Global Sale with More Than US$185M in Marquee Properties - Bergen Record](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQTF2U3lnMWc5YmhzWXQ2aUNZalJtX2phcmNfNXJlV1B3el81NjRnRmVJNGdlcFZQZGY0dHNkcXo3T3JFU2dPd0wtZnA5bmEzYkljekxPRkMyNTVhbVdYYVpnVmtIWnFFX1FqSC11dUEzUmRGS0taWHQ2LUo5dS1mSHg4THI1OWJrLWtLdXBYTlFKc0gyOHpVaE1SSFlnX1ptMFJrTnc4eDBoVEp1ZUlONmYwWEZvbXpjQUl4VWp6MF9RajVmb1ZQdGhId1pnRWhGQjExeGdwUVg2U2c2M1NZS3lZT2J4X2ZLVzBfT2NHalFYQUtqdUxkcW12TzdoUQ?oc=5) — Google News: Las Vegas real estate · 14:29 PT · #business #realestate
@@ -31,6 +34,7 @@ tags: ["project", "realestate"]
 - [What midterms could mean for Realtors and the housing market](https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/) — HousingWire · 12:37 PT · #business #civic #realestate
 - [Will home equity investments take flight once their regulatory status is resolved?](https://www.housingwire.com/articles/home-equity-investments-regulation/) — HousingWire · 12:05 PT · #business #realestate
 - [Bob + Molly Hamrick Receive 2026 Coldwell Banker Preserving the Trust Award - PRLog](https://news.google.com/rss/articles/CBMirgFBVV95cUxPYXpMMEVLT1B2aTlndkJmQjU4T0lzLXFsY2VoZkF6aTdGSDU4eDg4TnFVQ0pQVG8xNnlBa2ZTZlRSNUU0UEFWbWJ1QU1wVjlGUVVaVFkyS2U5dm5RMTl2Q2JIdEpqMkc4U25fM2piSWVYdjZjMEt1eDlXbzhua1RHU2ZpM1lSemZ6ME40eFFGaTJ3Mm54MmZxVHFrUTVsZmVLWWVnMUo3eFNQaDBJU2c?oc=5) — Google News: Las Vegas real estate · 12:04 PT · #business #realestate
+- [5395 Crossgates Ave, Las Vegas, NV 89139 - Realtor.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHJkMG02YUJKMlI3bEhtNWViU2NyVWhDZ2d2VnpjR1lkU0lpRjQyS1A3RVh0cjZIZldZTlhucmpld0NXM2djMEVNMFFhS05sSjhMRTZvRXJsM3A5cTNUZHdGWHJLeGZ6VzFwczdfOW50LUVhY21qZVFWS0NQS2htNWlWUWxkTXJfS2JyTmtYU2lQQjdrN1E?oc=5) — Google News: Las Vegas real estate · 11:19 PT · #business #nevada #realestate
 - [The problem with 'good debt': Why borrowers should think twice about the label](https://www.cnbc.com/2026/10/15/good-debt-vs-bad-debt-why-experts-say-rethink-labels.html) — CNBC Top News · 10:52 PT · #markets #realestate
 - [Four vieing for spot on council, community to vote to elect two - Imperial Republican |](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSmU0WmdJaEU3Z296SmJDemFsS3BDRGVsM0pmU1Q3dUh3Z2t5X0kxN1hhRUF3SG1lSE5ZTks1NC1vcWk2VUwyclJoU2tmRUlwdFFoVEttWFEySzJTcHdOU2YxdkVmalc4SzljY1hUQ211VkRsTlpOSVdIR3V6SDFWTFNfYi1sYTRRYzNEZ1NoVGx1QkFR?oc=5) — Google News: Las Vegas real estate · 10:50 PT · #business #realestate
 - [8-K - Sculptor Diversified Real Estate Income Trust, Inc. (0001914496) (Filer)](https://www.sec.gov/Archives/edgar/data/1914496/000191449626000152/0001914496-26-000152-index.htm) — SEC EDGAR 8-K · 10:46 PT · #filings #markets #realestate

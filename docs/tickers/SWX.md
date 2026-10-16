@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $SWX"
-updated: 2026-10-15T16:06:34-07:00
+updated: 2026-10-15T18:16:20-07:00
 count: 1
 tags: ["ticker", "SWX"]
 ---

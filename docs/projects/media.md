@@ -1,13 +1,13 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-15T16:06:34-07:00
-count: 231
+updated: 2026-10-15T18:16:20-07:00
+count: 229
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-231 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+229 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-15
 
@@ -18,6 +18,7 @@ tags: ["project", "media"]
 - [713: I Have Medium Hopes](https://atp.fm/713) — Accidental Tech Podcast · 12:24 PT · #tech #ai #media
 - [Anatomy of a lie: James Talarico got the flu – sending rightwing midterm misinformation machine into overdrive - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjItcGpudnJfNUxxV3hrVlFKb3A1TEVCbEdISDdWMnczbXlaSkZEVG5TeDVoRDRGbi1QbUgwVGc4QWpuc0swVDRBc3ZESlBIRnFWS0EzWnVhMVNpUjZXbTJ2VzhtRHZvZVBzUjNKTkJHMHdUd1JfWDlGMVo1NDZhUXJOOXRSdXBXMUE?oc=5) — Google News: propaganda OR disinformation media · 11:21 PT · #world #media
 - [From one #CEO to another: Why it's important to speak up, even if you are wrong. #Uber #GoDaddy](https://www.youtube.com/shorts/0DlNvn3sGpQ) — Business Insider · 11:09 PT · #business #media
+- [FM Fidan warns against turning Türkiye–Azerbaijan differences into social media propaganda - AzerNews](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cd0poN3BQVnFkUVVoTFNabE55QkFjZDg4emQ4T3FjMmVqLWw5eVpSdUZrR1ZoXzI0R3VQMlV2aGJuOS02RzhMSlV5R3FFRl9BSU9IYw?oc=5) — Google News: propaganda OR disinformation media · 10:32 PT · #world #media
 - [Meta’s new commercial terms will allow the scraping of news sites, legal experts say](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) — Nieman Lab · 09:59 PT · #tech #media
 - [A shrinking local press is making it easier for public officials to restrict access](https://www.poynter.org/reporting-editing/2026/local-news-press-access-public-officials/) — Poynter · 09:55 PT · #tech #media
 - [A new report argues newsrooms need to do more experiments — like, the kind with randomization and results](https://www.niemanlab.org/2026/10/a-new-report-argues-newsrooms-need-to-do-more-experiments-like-the-kind-with-randomization-and-results/) — Nieman Lab · 09:47 PT · #tech #media
@@ -272,9 +273,3 @@ tags: ["project", "media"]
 ## 2026-10-03
 
 - [The Trump administration's critical minerals agenda comes for America's 'Forgotten Wildlife Corridor'](https://thenevadaindependent.com/article/the-trump-administrations-critical-minerals-agenda-comes-for-americas-forgotten-wildlife-corridor/) — The Nevada Independent · 02:00 PT · #us #media #nevada
-
-## 2026-10-01
-
-- [Columbia Journalism School will pause its M.A. program (and launch an online degree)](https://www.niemanlab.org/2026/10/columbia-journalism-school-will-temporarily-pause-its-m-a-program-and-launch-an-online-degree/) — Nieman Lab · 12:34 PT · #tech #media
-- [California’s big local news bill becomes law](https://www.niemanlab.org/2026/10/californias-big-local-news-bill-becomes-law/) — Nieman Lab · 11:44 PT · #tech #civic #media
-- [Two 23-year-olds used AI to create a daily audio briefing. It’s now the top news app in Argentina.](https://www.niemanlab.org/2026/10/two-23-year-olds-used-ai-to-create-a-daily-audio-briefing-its-now-the-top-news-app-in-argentina/) — Nieman Lab · 11:13 PT · #tech #ai #media

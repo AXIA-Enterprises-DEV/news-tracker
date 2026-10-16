@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-15T16:06:34-07:00
+updated: 2026-10-15T18:16:20-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,19 @@ tags: ["category", "us"]
 
 ## 2026-10-15
 
+- [California orders lenders to report on handling of insurance payouts to LA fire survivors](https://lasvegassun.com/news/2026/oct/15/california-orders-lenders-to-report-on-handling-of/) — Las Vegas Sun · 17:59 PT · #us #nevada #realestate
+- [More roller coasters close as officials investigate fatal fall in Georgia](https://www.reviewjournal.com/news/nation-and-world/more-roller-coasters-close-as-officials-investigate-fatal-fall-in-georgia-3900680/) — Las Vegas Review-Journal · 17:49 PT · #us #nevada
+- [Battered and bruised Ashton Jeanty ‘feeling great’ and ‘ready to go’ for Raiders](https://www.reviewjournal.com/sports/raiders/battered-and-bruised-ashton-jeanty-feeling-great-and-ready-to-go-for-raiders-3900675/) — Las Vegas Review-Journal · 17:47 PT · #us #nevada
+- [Las Vegas taxpayers pay $20,000 after jail officer preached religious sermon to ICE protest detainees](https://www.ktnv.com/13-investigates/las-vegas-taxpayers-pay-20-000-after-jail-officer-preached-religious-sermon-to-ice-protest-detainees) — KTNV Las Vegas · 17:41 PT · #us #nevada
+- [Remains in Lake Mead barrel identified as Arkansas man by Las Vegas police](https://lasvegassun.com/news/2026/oct/15/remains-in-lake-mead-barrel-identified-as-arkansas/) — Las Vegas Sun · 17:37 PT · #us #nevada
+- [California power shutoffs start as Santa Ana winds arrive](https://www.reviewjournal.com/news/nation-and-world/california-power-shutoffs-start-as-santa-ana-winds-arrive-3900667/) — Las Vegas Review-Journal · 17:21 PT · #us #nevada
+- [CBS’ ‘NFL Today’ pregame show to broadcast live from Allegiant Stadium parking lot](https://www.reviewjournal.com/sports/raiders/cbs-nfl-today-pregame-show-to-broadcast-live-from-allegiant-stadium-parking-lot-3900660/) — Las Vegas Review-Journal · 17:10 PT · #us #nevada
+- [Movie Review: 'Street Fighter' is a campy '90s nostalgia ride and a complete mess](https://lasvegassun.com/news/2026/oct/15/movie-review-street-fighter-is-a-campy-90s-nostalg/) — Las Vegas Sun · 17:03 PT · #us #nevada
+- [Discipline takes center stage as UNLV prepares for Air Force’s ground attack](https://www.reviewjournal.com/sports/unlv/unlv-football/discipline-takes-center-stage-as-unlv-prepares-for-air-forces-ground-attack-3900656/) — Las Vegas Review-Journal · 16:57 PT · #us #nevada
+- ['The Foundry' promises to bring 1,000 affordable homes to downtown Las Vegas area](https://www.ktnv.com/news/the-foundry-promises-to-bring-1-000-affordable-homes-to-downtown-las-vegas-area) — KTNV Las Vegas · 16:57 PT · #us #nevada #smallbiz
+- [NSP releases photos of truck sought in hit-and-run that critically injured Las Vegas professor](https://www.ktnv.com/neighborhoods/southwest-las-vegas/nsp-releases-photos-of-truck-sought-in-hit-and-run-that-critically-injured-las-vegas-professor) — KTNV Las Vegas · 16:48 PT · #us #nevada
+- [Poker star Bryn Kenney sues GGPoker executive over alleged broken deal](https://www.reviewjournal.com/business/casinos-gaming/poker-star-bryn-kenney-sues-ggpoker-executive-over-alleged-broken-deal-3900646/) — Las Vegas Review-Journal · 16:30 PT · #us #nevada
+- [5 people believed dead following shooting at Oregon elementary school, 2 officials tell AP](https://lasvegassun.com/news/2026/oct/15/5-people-believed-dead-following-shooting-at-orego/) — Las Vegas Sun · 16:25 PT · #us #nevada
 - [2 hospitalized, shooter dead after shooting at an Oregon elementary school](https://www.reviewjournal.com/crime/shootings/2-hospitalized-shooter-dead-after-shooting-at-an-oregon-elementary-school-3900612/) — Las Vegas Review-Journal · 15:21 PT · #us #nevada
 - [CARTOON: Numbers don’t lie](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-numbers-dont-lie-3900603/) — Las Vegas Review-Journal · 15:15 PT · #us #nevada
 - [Las Vegas gambler pleads guilty to charges in basketball betting scandals](https://www.reviewjournal.com/sports/betting/las-vegas-gambler-pleads-guilty-to-charges-in-basketball-betting-scandals-3900567/) — Las Vegas Review-Journal · 14:59 PT · #us #nevada
@@ -25,6 +38,7 @@ tags: ["category", "us"]
 - [Friday’s Nevada Preps top 5 football games to watch](https://www.reviewjournal.com/nevada-preps/fridays-nevada-preps-top-5-football-games-to-watch-3900505/) — Las Vegas Review-Journal · 12:57 PT · #us #nevada
 - [Discount airline Avelo plans additional flights to Dallas area](https://www.reviewjournal.com/business/tourism/discount-airline-avelo-plans-additional-flights-to-dallas-area-3900497/) — Las Vegas Review-Journal · 12:41 PT · #us #nevada
 - [Developing: Homicide investigation in east Las Vegas after person shot near business](https://www.ktnv.com/news/crime/developing-homicide-investigation-in-east-las-vegas-after-person-shot-near-business) — KTNV Las Vegas · 12:41 PT · #us #nevada
+- [Employee killed in attempted robbery in east Las Vegas, LVMPD shares](https://www.ktnv.com/news/crime/employee-killed-in-attempted-robbery-in-east-las-vegas-lvmpd-says) — KTNV Las Vegas · 12:41 PT · #us #nevada
 - [New project with 1,000-plus homes to be built in downtown Las Vegas](https://www.reviewjournal.com/business/housing/new-project-with-1000-plus-homes-to-be-built-in-downtown-las-vegas-3900493/) — Las Vegas Review-Journal · 12:37 PT · #us #nevada
 - [Person shot, killed near business in east Las Vegas, police say](https://www.reviewjournal.com/crime/homicides/person-shot-killed-near-business-in-east-las-vegas-police-say-3900489/) — Las Vegas Review-Journal · 12:33 PT · #us #nevada
 - [Head-on crash shuts down intersection at Sahara Avenue and Tenaya Way](https://www.ktnv.com/news/head-on-crash-shuts-down-intersection-at-sahara-avenue-and-tenaya-way) — KTNV Las Vegas · 12:31 PT · #us #nevada
@@ -34,6 +48,7 @@ tags: ["category", "us"]
 - [What we know about the body found in a barrel at Lake Mead in 2022](https://www.ktnv.com/news/what-we-know-about-the-body-found-in-a-barrel-at-lake-mead-in-2022) — KTNV Las Vegas · 11:28 PT · #us #nevada
 - [Suspect charged in death of man dropped off at hospital with gunshot wounds, Las Vegas police say](https://lasvegassun.com/news/2026/oct/15/suspect-charged-in-death-of-man-dropped-off-at-hos/) — Las Vegas Sun · 11:16 PT · #us #nevada
 - [SWAT standoff in east Las Vegas after knife assault, police say](https://www.ktnv.com/news/swat-standoff-in-east-las-vegas-after-knife-assault-police-say) — KTNV Las Vegas · 11:15 PT · #us #nevada
+- [Man in custody after reported knife assault leads to SWAT standoff in east Las Vegas](https://www.ktnv.com/news/man-in-custody-after-knife-assault-leads-to-swat-standoff-in-east-las-vegas) — KTNV Las Vegas · 11:15 PT · #us #nevada
 - [States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults](https://lasvegassun.com/news/2026/oct/15/states-sue-ai-giant-openai-saying-its-popular-chat/) — Las Vegas Sun · 11:06 PT · #us #ai #nevada
 - [College football Friday predictions: Expect Purdue to keep rolling](https://www.reviewjournal.com/sports/betting/college-football-friday-predictions-expect-purdue-to-keep-rolling-3900473/) — Las Vegas Review-Journal · 10:54 PT · #us #nevada
 - [Suspect in fatal shooting outside central Las Vegas Valley business arrested](https://www.reviewjournal.com/crime/homicides/suspect-in-fatal-shooting-outside-central-las-vegas-valley-business-arrested-3900470/) — Las Vegas Review-Journal · 10:52 PT · #us #nevada
@@ -429,24 +444,3 @@ tags: ["category", "us"]
 - [Supreme Court to weigh whether oil companies can be forced to pay for climate damage](https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change) — World & Nation · 03:00 PT · #us #civic #oil
 - [Barabak: What's going to happen in the midterm election? Find out here. (Maybe)](https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales) — World & Nation · 03:00 PT · #us #civic
 - [Nevada backcountry vulnerable to more off-roading, logging under federal rule changes](https://thenevadaindependent.com/article/nevada-backcountry-vulnerable-to-more-off-roading-logging-under-federal-rule-changes/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Lombardo says he cut 900 regulations. Did it actually make a difference for Nevada?](https://thenevadaindependent.com/article/lombardo-says-he-cut-900-regulations-did-it-actually-make-a-difference-for-nevada/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [OPINION: Students need internet access, but our 'digital divide' keeps many offline](https://thenevadaindependent.com/article/opinion-students-need-internet-access-but-our-digital-divide-keeps-many-offline/) — The Nevada Independent · 02:00 PT · #us #nevada
-
-## 2026-10-03
-
-- [Provocative, sexually suggestive ad by Hilton campaign condemned by political allies on the right](https://www.latimes.com/california/story/2026-10-03/provocative-sexually-suggestive-ad-by-hilton-campaign-condemned-by-political-allies-on-right) — World & Nation · 14:34 PT · #us
-- [Why hasn't the Trump administration decided the fate of TPS for Salvadorans?](https://www.latimes.com/politics/story/2026-10-03/why-hasnt-trump-administration-decided-fate-of-tps-for-salvadorans) — World & Nation · 09:35 PT · #us
-- [DOJ subpoenas Gallego’s PAC for Disneyland records](https://www.politico.com/newsletters/playbook/2026/10/03/doj-subpoenas-gallegos-pac-for-disneyland-records-01105924) — Playbook · 07:09 PT · #us
-- [At Oktoberfest, nonalcoholic beer is no longer a punchline](https://www.latimes.com/world-nation/story/2026-10-03/at-oktoberfest-nonalcoholic-beer-is-no-longer-punchline) — World & Nation · 03:00 PT · #us
-- [Trump is campaigning in reliably red states, a sign of midterm concerns](https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns) — World & Nation · 03:00 PT · #us #civic
-- [As other Strip leaders decry prediction markets, Wynn CEO offers different view](https://thenevadaindependent.com/article/as-other-strip-leaders-decry-prediction-markets-wynn-ceo-offers-different-view/) — The Nevada Independent · 02:01 PT · #us #nevada
-- [The Trump administration's critical minerals agenda comes for America's 'Forgotten Wildlife Corridor'](https://thenevadaindependent.com/article/the-trump-administrations-critical-minerals-agenda-comes-for-americas-forgotten-wildlife-corridor/) — The Nevada Independent · 02:00 PT · #us #media #nevada
-
-## 2026-10-02
-
-- [Lyft will pay more than $270 million in California wage-theft settlement](https://www.latimes.com/business/story/2026-10-02/lyft-will-pay-more-than-270-million-in-california-wage-theft-settlement) — World & Nation · 10:50 PT · #us
-- [Aaron Ford gets seven-figure boost from outside group in Nevada governor's race](https://thenevadaindependent.com/article/aaron-ford-gets-seven-figure-boost-from-outside-group-in-nevada-governors-race/) — The Nevada Independent · 07:00 PT · #us #nevada
-- [The reverend’s run](https://www.politico.com/newsletters/playbook/2026/10/02/the-reverends-run-01104674) — Playbook · 03:12 PT · #us
-- [News Analysis: Saudi Arabia once counted on U.S. protection. Now it's pivoting to new alliances](https://www.latimes.com/world-nation/story/2026-10-02/saudis-who-once-counted-on-u-s-protection-pivot-to-new-alliances) — World & Nation · 03:00 PT · #us #foreign
-- ['It disrespects everybody': Why union Nevada veterans are filming ads opposing Flippo](https://thenevadaindependent.com/article/it-disrespects-everybody-why-union-nevada-veterans-are-filming-ads-opposing-flippo/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
-- [Race for Nevada's chief fiscal officer focuses on collecting debt, government transparency](https://thenevadaindependent.com/article/race-for-nevadas-chief-fiscal-officer-focuses-on-collecting-debt-government-transparency/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
