@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-16T08:02:04-07:00
-count: 216
+updated: 2026-10-16T11:46:54-07:00
+count: 225
 tags: ["tickers"]
 ---
 
@@ -14,6 +14,9 @@ tags: ["tickers"]
 - [$III](III.md) — 4 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$QBTS](QBTS.md) — 2 items
+- [$IOT](IOT.md) — 2 items
+- [$BULL](BULL.md) — 2 items
 - [$CNC](CNC.md) — 2 items
 - [$GIL](GIL.md) — 2 items
 - [$TNET](TNET.md) — 2 items
@@ -26,6 +29,15 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$CC](CC.md) — 1 items
+- [$OLED](OLED.md) — 1 items
+- [$PMT](PMT.md) — 1 items
+- [$BRUN](BRUN.md) — 1 items
+- [$UPS](UPS.md) — 1 items
+- [$PLAY](PLAY.md) — 1 items
+- [$EGY](EGY.md) — 1 items
+- [$EH](EH.md) — 1 items
+- [$SMTC](SMTC.md) — 1 items
 - [$MRP](MRP.md) — 1 items
 - [$FATN](FATN.md) — 1 items
 - [$VNT](VNT.md) — 1 items
@@ -63,7 +75,6 @@ tags: ["tickers"]
 - [$HOOD](HOOD.md) — 1 items
 - [$OII](OII.md) — 1 items
 - [$DHX](DHX.md) — 1 items
-- [$IOT](IOT.md) — 1 items
 - [$PCOR](PCOR.md) — 1 items
 - [$WIPRO](WIPRO.md) — 1 items
 - [$AXON](AXON.md) — 1 items
@@ -148,7 +159,6 @@ tags: ["tickers"]
 - [$DHR](DHR.md) — 1 items
 - [$TLX](TLX.md) — 1 items
 - [$UNCY](UNCY.md) — 1 items
-- [$BULL](BULL.md) — 1 items
 - [$BBW](BBW.md) — 1 items
 - [$GTES](GTES.md) — 1 items
 - [$BBNX](BBNX.md) — 1 items
@@ -205,7 +215,6 @@ tags: ["tickers"]
 - [$FSLY](FSLY.md) — 1 items
 - [$ICE](ICE.md) — 1 items
 - [$AIRG](AIRG.md) — 1 items
-- [$QBTS](QBTS.md) — 1 items
 - [$UPBD](UPBD.md) — 1 items
 - [$CALX](CALX.md) — 1 items
 - [$ADM](ADM.md) — 1 items

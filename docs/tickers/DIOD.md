@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $DIOD"
-updated: 2026-10-16T08:02:04-07:00
+updated: 2026-10-16T11:46:54-07:00
 count: 1
 tags: ["ticker", "DIOD"]
 ---

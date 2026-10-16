@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-16T08:02:04-07:00
+updated: 2026-10-16T11:46:54-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,20 @@ tags: ["category", "us"]
 
 ## 2026-10-16
 
+- [Raiders vs. Bills predictions: RJ staffers pick winner of Week 6 game](https://www.reviewjournal.com/sports/raiders/raiders-vs-bills-predictions-rj-staffers-pick-winner-of-week-6-game-3901037/) — Las Vegas Review-Journal · 11:38 PT · #us #nevada
+- [Governor praises local who ‘heroically’ helped end mass shooting at Oregon school](https://www.reviewjournal.com/news/nation-and-world/governor-praises-local-who-heroically-helped-end-mass-shooting-at-oregon-school-3901030/) — Las Vegas Review-Journal · 11:30 PT · #us #nevada
+- [Police say former Chicago cop, Las Vegas federal investigator killed 8-year-old 65 years ago](https://www.reviewjournal.com/news/nation-and-world/police-say-former-chicago-cop-las-vegas-federal-investigator-killed-8-year-old-65-years-ago-3901022/) — Las Vegas Review-Journal · 11:14 PT · #us #nevada
+- [‘Nevadans need to step up’: 2 weeks of early voting starts Saturday](https://www.reviewjournal.com/news/politics-and-government/nevada/nevadans-need-to-step-up-2-weeks-of-early-voting-starts-saturday-3901015/) — Las Vegas Review-Journal · 11:11 PT · #us #civic #nevada
+- [NIAA selects, approves new executive director](https://www.reviewjournal.com/nevada-preps/niaa-selects-approves-new-executive-director-3901006/) — Las Vegas Review-Journal · 10:57 PT · #us #nevada
+- [Trump casts doubt on press secretary Zacharia’s future](https://www.reviewjournal.com/news/politics-and-government/trump-casts-doubt-on-press-secretary-zacharias-future-3901002/) — Las Vegas Review-Journal · 10:55 PT · #us #media #nevada
+- [US Coast Guard rescues at least 16 in the water off Mexico’s Baja Coast](https://www.reviewjournal.com/news/nation-and-world/us-coast-guard-rescues-at-least-16-in-the-water-off-mexicos-baja-coast-3900996/) — Las Vegas Review-Journal · 10:53 PT · #us #nevada
+- [Off-Strip hotel-casino brings guest services to ChatGPT](https://www.reviewjournal.com/business/casinos-gaming/off-strip-hotel-casino-brings-guest-services-to-chatgpt-3900986/) — Las Vegas Review-Journal · 10:21 PT · #us #nevada
+- [NCAA sues Ohio governor over his executive order allowing schools to ignore new eligibility rule](https://lasvegassun.com/news/2026/oct/16/ncaa-sues-ohio-governor-over-his-executive-order-a/) — Las Vegas Sun · 10:15 PT · #us #nevada
+- [Some wagers, certain parlays no longer can be offered to bettors, NBA tells sportsbooks](https://lasvegassun.com/news/2026/oct/16/some-wagers-certain-parlays-no-longer-can-be-offer/) — Las Vegas Sun · 10:09 PT · #us #nevada
+- [Nevada Preps Girls Athlete of the Week: Sky Pointe’s Rayna Lewis](https://www.reviewjournal.com/nevada-preps/nevada-preps-girls-athlete-of-the-week-sky-pointes-rayna-lewis-3900982/) — Las Vegas Review-Journal · 10:00 PT · #us #nevada
+- [Nevada Preps Boys Athlete of the Week: Sky Pointe’s Ryan Petty](https://www.reviewjournal.com/nevada-preps/nevada-preps-boys-athlete-of-the-week-sky-pointes-ryan-petty-3900978/) — Las Vegas Review-Journal · 10:00 PT · #us #nevada
+- [Banana Ball returning to Las Vegas for 3 games](https://www.reviewjournal.com/sports/baseball/banana-ball-returning-to-las-vegas-for-3-games-3900972/) — Las Vegas Review-Journal · 09:48 PT · #us #nevada
+- [Metro: Man shot and killed during robbery at Las Vegas business](https://lasvegassun.com/news/2026/oct/16/metro-man-shot-and-killed-during-robbery-at-las-ve/) — Las Vegas Sun · 09:26 PT · #us #nevada
 - [Mark Stone has 3rd-period hat trick in the Golden Knights' 6-2 win over the Flames](https://lasvegassun.com/news/2026/oct/16/mark-stone-has-3rd-period-hat-trick-in-the-golden/) — Las Vegas Sun · 07:58 PT · #us #nevada
 - [RJ reporters, editors make picks for UNLV’s football game at Air Force](https://www.reviewjournal.com/sports/unlv/rj-reporters-editors-make-picks-for-unlvs-football-game-at-air-force-3900942/) — Las Vegas Review-Journal · 07:30 PT · #us #nevada
 - [Bills’ Dalton Kincaid expects ‘surreal’ Las Vegas homecoming game vs. Raiders](https://www.reviewjournal.com/sports/raiders/bills-dalton-kincaid-expects-surreal-las-vegas-homecoming-game-vs-raiders-3900921/) — Las Vegas Review-Journal · 07:00 PT · #us #nevada
@@ -46,9 +60,11 @@ tags: ["category", "us"]
 - [Thursday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/thursdays-nevada-preps-high-school-sports-scoreboard-3900831/) — Las Vegas Review-Journal · 22:08 PT · #us #nevada
 - [2 critically hurt after wrong-way crash in west Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/2-critically-hurt-after-wrong-way-crash-in-west-las-vegas-valley-3900827/) — Las Vegas Review-Journal · 22:02 PT · #us #nevada
 - [Mark Stone hat trick powers Golden Knights to win over Flames](https://www.reviewjournal.com/sports/goldenknights/mark-stone-hat-trick-powers-golden-knights-to-win-over-flames-3900801/) — Las Vegas Review-Journal · 21:52 PT · #us #nevada
+- [Ukraine Abandons Truce That Moscow Did Not Heed, Attacks Russian Oil Refinery](https://www.huffpost.com/entry/russia-ukraine-war_n_6ad1a9a4e4b0bfd256577839) — World News - Breaking News, Top Stories · 21:50 PT · #us #foreign #oil
 - [Teen shooter kills 4 at Oregon elementary school before being shot by a witness](https://lasvegassun.com/news/2026/oct/15/teen-shooter-kills-4-at-oregon-elementary-school-b/) — Las Vegas Sun · 21:25 PT · #us #nevada
 - [Desert Oasis repeats as 4A girls state golf champion — PHOTOS](https://www.reviewjournal.com/nevada-preps/desert-oasis-repeats-as-4a-girls-state-golf-champion-3900771/) — Las Vegas Review-Journal · 21:23 PT · #us #golf #nevada
 - [Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982](https://lasvegassun.com/news/2026/oct/15/brewers-sweep-the-dodgers-in-the-nlcs-to-reach-the/) — Las Vegas Sun · 21:10 PT · #us #nevada
+- [Order To Limit Starshield For Ukraine Came From Inside White House, Sources Say](https://www.huffpost.com/entry/starshield-order-ukraine-white-house_n_6ad1a16ce4b0f62da448978a) — World News - Breaking News, Top Stories · 21:07 PT · #us #foreign
 - [COMMENTARY: Pain at the pump, profits at the refinery](https://www.reviewjournal.com/opinion/commentary-pain-at-the-pump-profits-at-the-refinery-3900768/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada #oil
 - [CARTOONS: When birds of a feather flock together](https://www.reviewjournal.com/opinion/drawing-board/cartoons-when-birds-of-a-feather-flock-together-3900758/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
 - [LETTER: Abortion is fine, but televising the execution of a terrorist?](https://www.reviewjournal.com/opinion/letters/letter-abortion-is-fine-but-televising-the-execution-of-a-terrorist-3900755/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
@@ -416,19 +432,3 @@ tags: ["category", "us"]
 - [Valkyries secure WNBA Finals spot with OT win over the Aces, face the Dream next](https://www.ktnv.com/sports/las-vegas-aces/valkyries-secure-wnba-finals-spot-with-ot-win-over-the-aces-face-the-dream-next) — KTNV Las Vegas · 21:17 PT · #us #nevada
 - [Man stabbed near downtown Las Vegas, LVMPD investigating](https://www.ktnv.com/news/crime/man-stabbed-near-downtown-las-vegas-lvmpd-investigating) — KTNV Las Vegas · 20:39 PT · #us #nevada
 - [Panama Rocked By 2 Powerful Earthquakes And Multiple Aftershocks, Prompting Evacuations](https://www.huffpost.com/entry/panama-earthquakes_n_6ac98ef6e4b01d1704fa084a) — World News - Breaking News, Top Stories · 18:07 PT · #us
-- [Millions of dollars in Nevada gaming tax revenue at risk over prediction markets](https://www.ktnv.com/13-investigates/millions-of-dollars-in-nevada-gaming-tax-revenue-at-risk-over-prediction-markets) — KTNV Las Vegas · 17:30 PT · #us #nevada
-- [North Las Vegas Airport expansion could lead to closure of part of Carey Avenue](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-airport-expansion-could-lead-to-closure-of-part-of-carey-avenue) — KTNV Las Vegas · 17:14 PT · #us #nevada
-- [Las Vegas parent launches petition calling for speed cushions near schools](https://www.ktnv.com/neighborhoods/southwest-las-vegas/las-vegas-parent-launches-petition-calling-for-speed-cushions-near-schools) — KTNV Las Vegas · 17:08 PT · #us #nevada
-- [Roads reopen after 'suspicious item' investigation in downtown Las Vegas](https://www.ktnv.com/news/roads-reopen-after-suspicious-item-investigation-downtown-las-vegas) — KTNV Las Vegas · 16:21 PT · #us #nevada
-- [Nevada suspends enforcement of red-dyed diesel restrictions](https://www.ktnv.com/news/nevada-suspends-enforcement-of-red-dyed-diesel-restrictions) — KTNV Las Vegas · 16:01 PT · #us #nevada
-- [Reno is latest city in Nevada to end contract with Flock Safety](https://thenevadaindependent.com/article/reno-is-latest-city-in-nevada-to-end-contract-with-flock-safety/) — The Nevada Independent · 15:48 PT · #us #nevada
-- [Las Vegas valley under flood watch as Tropical Storm Rachel takes aim at US Southwest](https://www.ktnv.com/news/las-vegas-valley-under-flood-watch-as-tropical-storm-rachel-takes-aim-at-us-southwest) — KTNV Las Vegas · 15:39 PT · #us #nevada
-- [FlyDubai Co-Pilot Intended To Crash Plane Into Tel Aviv Airport, UAE Prosecutor Says](https://www.huffpost.com/entry/flydubai-attack_n_6ac960cae4b01d1704f9fb60) — World News - Breaking News, Top Stories · 14:50 PT · #us #foreign
-- [Two massive solar plants proposed for Washoe's Pyramid Lake area](https://thenevadaindependent.com/article/two-massive-solar-plants-proposed-for-washoes-pyramid-lake-area/) — The Nevada Independent · 14:49 PT · #us #nevada
-- [Son of rancher Cliven Bundy arrested after southern Utah traffic stop](https://www.ktnv.com/news/crime/son-of-rancher-cliven-bundy-arrested-for-traffic-violations-interfering-with-officer) — KTNV Las Vegas · 14:33 PT · #us #nevada
-- ['We will never forget': Officer Abdelnabi's portrait added to LVMPD Wall of Honor](https://www.ktnv.com/news/we-will-never-forget-officer-abdelnabis-portrait-added-to-lvmpd-wall-of-honor) — KTNV Las Vegas · 13:59 PT · #us #nevada
-- [Las Vegas could see an inch of rain by Tuesday from remnants of Tropical Storm Rachel](https://www.ktnv.com/news/las-vegas-could-see-an-inch-of-rain-by-tuesday-from-tropical-storm-rachels-remnants) — KTNV Las Vegas · 11:54 PT · #us #nevada
-- [U.S. plan to livestream execution by firing squad draws bipartisan, international outrage](https://www.latimes.com/politics/story/2026-10-09/u-s-plan-to-live-stream-execution-by-firing-squad-draws-bipartisan-international-outrage) — World & Nation · 11:47 PT · #us
-- [CEO takes blame as Crumbl sees dozens of store closures, 'worst month in company history'](https://www.ktnv.com/news/ceo-takes-blame-as-crumbl-sees-dozens-of-store-closures-worst-month-in-company-history) — KTNV Las Vegas · 11:10 PT · #us #nevada
-- [The hidden cost of farmed fish: Pollution, forced labor and the depletion of wild fish](https://www.latimes.com/world-nation/story/2026-10-09/fish-farming) — World & Nation · 06:00 PT · #us
-- [The battle for Black voters](https://www.politico.com/newsletters/playbook/2026/10/09/the-battle-for-black-voters-01113316) — Playbook · 03:11 PT · #us

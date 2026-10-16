@@ -1,19 +1,37 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-16T08:02:04-07:00
-count: 393
+updated: 2026-10-16T11:46:54-07:00
+count: 400
 tags: ["project", "fed"]
 ---
 
 # Project: Fed Policy
 
-393 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+400 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
 
 ## 2026-10-16
 
+- [U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting](https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html) — NYT Business · 11:28 PT · #business #fed #foreign
+- [UK PM adviser’s wife expresses ‘support’ for Palestine Action](https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss) — Al Jazeera · 11:26 PT · #world #fed
+- [Federal Budget Deficit Narrows More Than Expected](https://www.investing.com/news/economic-indicators/federal-budget-deficit-narrows-more-than-expected-93CH-4954702) — Investing.com Economic Indicators · 11:00 PT · #markets #fed
+- [Putin says Russia is building non-negotiable ’security zone’ in Ukraine along border](https://www.investing.com/news/economic-indicators/putin-says-russia-is-building-nonnegotiable-security-zone-in-ukraine-along-border-4954673) — Investing.com Economic Indicators · 10:24 PT · #markets #fed #foreign
+- [Warsh signals steady Fed outlook despite inflation jump - Axios](https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5) — Top stories - Google News · 10:11 PT · #world #fed
+- [Here’s how the Fed should reveal its outlook for the economy](https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories) — MarketWatch Top Stories · 10:07 PT · #markets #fed
+- [UK national security adviser under pressure over wife’s comment on supporting Palestine Action](https://www.theguardian.com/uk-news/2026/oct/16/uk-national-security-adviser-jonathan-powell-sarah-helm-sally-rooney-palestine-action) — Guardian World · 10:03 PT · #world #fed
+- [Traders bet on October interest-rate hold after Kevin Warsh is tight-lipped at conference - New York Post](https://news.google.com/rss/articles/CBMizwFBVV95cUxPTjFIZG9nc284YjRLT1Bsb1ZwTnlSazBsSUtDNkR2UnhLNzM0UTY3c19wWGdzVjd1TnpERzRZdDBsT0l4dk1ZYUk5WmJSQmp2a2tEcW9OMnByY2lKV0xpU25rbUdtUEc2X2k2di1qX1RjbUVGdWpXdWk5ZUliWWl6bUNkcTVDNWJlLTZ6VzdvUlgxYXZ6VjVaTHhvZ1E4Q29FcUx5ZUF4a1gtSzI4QTJhVDZpQWY0VmM4Nm1QTlJZRC1JNHR4WUFwaHJBdnhLSjg?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 09:19 PT · #markets #fed
+- [Older Americans feel less of the affordability crunch. How that could affect the midterm elections](https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html) — CNBC Top News · 09:12 PT · #markets #civic #fed
+- [Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints](https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 08:45 PT · #markets #fed
+- [Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all - CNBC](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFl6VlNnRU5TX2V4NEx3eEEwWDhfZGMxS3FsUVd2Z0FMZzJLcnNfOEQ1Z2xxYmc5Nk1SYVNFQkhQeFZiX21fdFJTOWZ4aEhvTU1mQTRIdEFYMms2Q093RS0xMURjb3RwTVNfQXp0cVhjTHpGUEdENzBHeERCYW84dnRkRE1DVjRuTXo5c3M5aEkzOXNkMnlFX9IBngFBVV95cUxQUjQ0SjZBMDNsSDI4cDdJVTgtUFlVdnlhQXN4ZjViU2R2bWdobHQ4RDM2cDVIc1J5RGJwOXZsNnRUQTh6QkFyVEFjbUc0blFvNUE4M2tZN1NnRTJhbnVLa1AxYkk3R0xCTUpQN1dRV0dNckx2NzFXZktaLW1QOXlCMVJmN1FfWjJNZmJma3hQcGZvQUF6NkNaZGwySWtmQQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 08:38 PT · #markets #fed
+- [Polymarket Bitcoin and Rate Hike Odds Shift as CME Says No Change](https://cryptonews.com/news/polymarket-bitcoin-rate-hike-odds-vs-cme/) — News - Cryptonews · 08:35 PT · #markets #fed
+- [Bitcoin Dumps to Monthly Lows on Hot Inflation Data and Warsh Comments: Weekly Crypto Recap](https://cryptopotato.com/bitcoin-dumps-to-monthly-lows-on-hot-inflation-data-and-warsh-comments-weekly-crypto-recap/) — CryptoPotato · 08:20 PT · #markets #fed
+- [Traders maintain expectations that the Federal Reserve will hold rates steady in October; U.S. stocks show divergent performance, with the Nasdaq 100 poised to fall more than 3.5% this week. - 富途牛牛](https://news.google.com/rss/articles/CBMiswFBVV95cUxQblVWcXdoZEZwN190NlRQZmtpVFpLQzI1dGFUa3hLVWVTWDQ4Rmt4Yzd0azJZenZuYzB6d2o5Z21rWS0wWGh5cTJpMTFkbmpaQ1lHa3UyZUdqV3NqeHU2SHhzRUJ3RE80TkZLRWE5ZzNvUm9NZF9vY19zcFFFSzg0SWdFVE53RkktVElYdnZXbTA3anc1eG9HNEtmQm5vWFhueVNMcTc4NFFRa1JacmdDb2ZxQQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 08:09 PT · #markets #fed
 - [Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm) — Federal Reserve Press · 08:00 PT · #politics #fed #smallbiz
 - [NY Fed service sector survey finds notable price pressures](https://www.investing.com/news/economic-indicators/ny-fed-service-sector-survey-finds-notable-price-pressures-4954466) — Investing.com Economic Indicators · 07:36 PT · #markets #fed
+- [Federal Reserve Chairman Kevin Warsh Signals Caution on Interest Rates Amid Inflation Fears - https://streamlinefeed.co.ke/](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd1pwY2NfMEkzaHd3aFdZbXphbmlWT0c3MGM2QmcwT2ljRnMzd1ljYkNtcUphUlhlVW5KS3A5YVNXa0dxUGpzdUdPUWMxR2xpT2NudUhJUDdtX2JrZ0RHLV9Kbkw5RTJQTzFkNlVPZFVJSHFaQ2NrdW9QY3pERGVJclhtd21FOGxxcktmcGJfejRuUEVQdWdPR3AwOUtYYVNRWnd1cXI2OXNxQWJNSUQxeWh0MUVNLTNZU2RNaWJtanFPbVk?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 07:31 PT · #markets #fed
+- [Warsh offers no fresh signals on interest rates - The Hill](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ195RmlnMk9xbzl3Y1MzZnMxLVNiQ19IOVhCUXhvaXlDSDRnbDU0YTVPWVctUnhvUnVkbHRCUjhxNGNmWHIzZGhUSDZvUnlNZWRzcWZnQ2dOSzJIbzBqcnE5OTZSUGpXM3psQXZtR01LaGR2YTJsbjN4aWt1ZXlGdDlB0gGHAUFVX3lxTFBuOFlFdFFiLTllM0pNejc1MUFHbFZuTE5SUTlEa2lObkstb2ZmYUNiUzQ1bFFsTFRtY0o0a0VmbzZRQWlyLTZmR3NGWHlzRFVzSDB6enJxU3VBNGNkT0hsZlFXT1MyUGc0eGRfTm1FSi1sdTdELUZMSEl3LXB4VkVScXdhb1U1aw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 07:31 PT · #markets #fed
 - [US manufacturing output rises in September](https://www.investing.com/news/economic-indicators/us-manufacturing-output-rises-in-september-4954422) — Investing.com Economic Indicators · 07:18 PT · #markets #fed
+- [Diane Swonk: Federal Reserve expected to skip October rate hike - Traders Union](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmdlWXJBRmdwODdnaWptOG1FdTNRdlpBcGdyOWh6SDEzRXhhbUhRTXJ4WFMyN0dJSHJYYUJCSUFiYXFYQ3NmdjlhSHJGcWREMFk1dDYyTTdON29ORjB0NFlWLURxV3Q0N081cjVITEVmYXpDYUhvdjhkRmlQMmc5azdNMDdDQQ?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 07:00 PT · #markets #fed
+- [Farm Loan Quality Concerns Rise Ahead of 2027 - RFD-TV](https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZQzdWS3k0MzgyYTNJQWpnTzg2S1dMd3FXY2JvRUpfTHFzWjVSM3RVR052U1A3OV9ORFNaY0Q3Wm81OXdhcjdMcXRKZWh0Z09yMTNSZWViMFV6RjRTQm9NclZ0UEVQX3o2QXc4WVFSdzdIUURGQUE?oc=5) — Google News: fedgazette OR "Minneapolis Fed" · 06:32 PT · #markets #fed
 - [Industrial production surges past expectations, boosting USD outlook](https://www.investing.com/news/economic-indicators/industrial-production-surges-past-expectations-boosting-usd-outlook-93CH-4954208) — Investing.com Economic Indicators · 06:16 PT · #markets #fed
 - [When Will the Fed Move on Rates?](https://www.nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html) — NYT Business · 05:00 PT · #business #fed
 - [Fed chair Warsh says U.S. price stability is key but shies away from signals about rates - BNN Bloomberg](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNVk2bVJwcHpVbGxzelBPOFd2cWZWcW92MVdrbzJGSVV6cUNhNVZkc0IzN19lOWdwOUJ3QnA4dG8tV3hPbG1Wa081aktGNHpzOTBLUHNlTHVjNjJDb05sOThGNFZHaHBiSXhuZWpjVlo1Sk5vZHZncGRvaGRHN1ZESVMwZHlmdVJJNEJkSDhRYkh6dWlycF9NbTFMRW1OYzczU3NLa1FtQXJzQzA4OGpoLUlBZ1FGNGgybUxDSzFWVlowSHhRcjJoc2tlS2dVR1d2bXc3WXBEdWNUTGExZHc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 04:59 PT · #markets #fed
@@ -417,23 +435,3 @@ tags: ["project", "fed"]
 
 - [Fed officials see another hike coming, but no sign as to when, minutes show](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) — CNBC Finance · 11:42 PT · #markets #fed
 - [Firm Heterogeneity and the Response of Investment to Monetary Policy](https://libertystreeteconomics.newyorkfed.org/2026/10/firm-heterogeneity-and-the-response-of-investment-to-monetary-policy/) — NY Fed Liberty Street Economics · 06:00 PT · #markets #fed
-- [The 2027 Social Security COLA Could Be the Biggest in Years: Why It Matters Before You’re Collecting](https://www.moneyunder30.com/social-security-cola-2027/) — Money Under 30 · 00:48 PT · #markets #fed
-
-## 2026-10-06
-
-- [Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva](https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html) — CNBC Finance · 23:16 PT · #markets #ai #fed
-- [Chart: A look at the S&P 500's remarkable and defiant trip to a new record](https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html) — CNBC Finance · 15:23 PT · #markets #fed #oil
-- [Bowman, Modernizing the Regulatory and Supervisory Landscape](https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm) — Federal Reserve Speeches · 07:45 PT · #politics #fed
-- [How Fast Do Tariffs Pass Through into Consumer Prices?](https://libertystreeteconomics.newyorkfed.org/2026/10/how-fast-do-tariffs-pass-through-into-consumer-prices/) — NY Fed Liberty Street Economics · 04:00 PT · #markets #fed
-
-## 2026-10-05
-
-- [Federal Reserve Board announces approval of application by Isabella Bank Corporation](https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm) — Federal Reserve Press · 13:30 PT · #politics #fed
-- [Insured, but Still on the Hook: Who Bears the Most Risk in Homeowner’s Insurance?](https://libertystreeteconomics.newyorkfed.org/2026/10/insured-but-still-on-the-hook-who-bears-the-most-risk-in-homeowners-insurance/) — NY Fed Liberty Street Economics · 04:00 PT · #markets #fed
-
-## 2026-10-02
-
-- [Federal Reserve Board announces approval of application by Fleur Capital Corporation](https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm) — Federal Reserve Press · 13:45 PT · #politics #fed
-- [Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm) — Federal Reserve Press · 13:00 PT · #politics #fed
-- [Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm) — Federal Reserve Press · 08:00 PT · #politics #fed
-- [Traders now see little chance of a Fed rate hike in October after weak jobs report](https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html) — CNBC Finance · 06:29 PT · #markets #fed

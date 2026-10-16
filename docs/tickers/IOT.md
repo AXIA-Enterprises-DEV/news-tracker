@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $IOT"
-updated: 2026-10-16T08:02:04-07:00
-count: 1
+updated: 2026-10-16T11:46:54-07:00
+count: 2
 tags: ["ticker", "IOT"]
 ---
 
 # Ticker: $IOT
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-16
+
+- [Traders Buy Large Volume of Call Options on Samsara (NYSE:IOT) - MarketBeat](https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3hOdXM4dWVCSEVFSVBMZjQwTlNuX1otTEgzWFY4eTIzbHpkeUZYa01GUEQ3OHZvNThteVp1MkpuWHpSOW1sRUdPd1YzYTJPRTRGclctOTNFcFlSWXp3Mll3Z3dwZ29FaGFfWGctdVkxMDNBamtLcEFzZ2N6ZmlHQ0tmZnFOaGRXM08yNUtpOGo4V1JkN1djbWswVzNZajRzdlVqR2tXcll6aExqNFZ2bm93OXdDWjMyNThLVXVDVQ?oc=5) — Google News: unusual options activity · 10:52 PT · #markets $IOT
 
 ## 2026-10-15
 

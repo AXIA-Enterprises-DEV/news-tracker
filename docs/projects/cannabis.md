@@ -1,17 +1,19 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-16T08:02:04-07:00
-count: 81
+updated: 2026-10-16T11:46:54-07:00
+count: 84
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-81 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+84 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-16
 
+- [Florida Should Regulate Hemp THC Drinks To Show The Rest Of The Country That Legalization Is Better Than Prohibition (Op-Ed)](https://www.marijuanamoment.net/florida-should-regulate-hemp-thc-drinks-to-show-the-rest-of-the-country-that-legalization-is-better-than-prohibition-op-ed/) — Marijuana Moment · 10:22 PT · #business #cannabis
 - [Kentucky Now Has Medical Marijuana Dispensaries Open In Every Region Of The State, Governor Announces](https://www.marijuanamoment.net/kentucky-now-has-medical-marijuana-dispensaries-open-in-every-region-of-the-state-governor-announces/) — Marijuana Moment · 07:54 PT · #business #cannabis
+- [Guava Strain Guide Disambiguates Phenotypes and Breeders - Digital Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUx0NEVnVE11UUYtcDJPWXVQeGVieHo3R2xMYmNEVHdCY3pNb2dNSGVPWldaWU5TTVpwc01oY25jOTZYZUhXTEl1REcyN3QzenUtcFJhZmNQb3ZmNVBiODFBRHFNX241bFotSHlIWW5rd0R6bXFCN3dYOVB6QVpidTR2VzZ5VUVjeUdTYkJEeEJuZmZYNmFZX0c2VE13N2JZdDJwYTFoMjBGNHh0LTJ3NGd5enI?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 06:47 PT · #business #cannabis
 - [North Carolinians Support Legalizing Marijuana, Including Majorities Of Republicans And Democrats, Poll Shows](https://www.marijuanamoment.net/north-carolinians-support-legalizing-marijuana-including-majorities-of-republicans-and-democrats-poll-shows/) — Marijuana Moment · 06:20 PT · #business #cannabis
 - [Guava Strain Guide Disambiguates Phenotypes and Breeders - GazetteXtra](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWJJQ3Y5SHRpMHR2LUwwajR2M0NLRXdVUzNVUkM1X2NoMlg1Q1kxRFA5TS1zWXZTVUtnNXB6ekZtWWswU0ZOOFRWTUFCSGVsVWRrODNvWkk1c01uRHVxaGNmeFpxa1FCbEVsQXlDS21SSUpvR1FWVTRiNVUyV0NoSnZ4NUF5NENuX1FCREtuQ0VEWUxkSmZIVVpoRHFWRnZLZ1EtRmtIcnl3SnZ3TUNCTzdWYkVSQm9wUjlwN3hoVXdHSXFrcGtLbHI3QXJIdm42YUdGVVFuR2YtQTNpZnJJOG4tdnVMZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:02 PT · #business #cannabis
 - [Dozens Of Massachusetts Lawmakers Urge Voters To Keep Marijuana Sales Legal By Rejecting Measure On November Ballot](https://www.marijuanamoment.net/dozens-of-massachusetts-lawmakers-urge-voters-to-keep-marijuana-sales-legal-by-rejecting-measure-on-november-ballot/) — Marijuana Moment · 04:45 PT · #business #cannabis #civic
@@ -45,6 +47,7 @@ tags: ["project", "cannabis"]
 - [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - Digital Journal](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzcwYU9uVnk0NXdfZ1hQQW9IWm0yWmQ4RXV2anNZNWZQSUFjN3E1QndEbDFFbm8wNWJhMlEzTlhmbDc5SXpBV2ZnaHFTRFNmdFFpYmEyRUNfbWlYOERtNE1tQ0w1dkRMTVlvVDNFZzlUSlNnaklLalZpb3RVRVZRRzhQcW9BajVwMDc0YlN6akdvajIxNW1oY1ZQWU00RXdwb0U4ZUQyMFp2dkRxUFNR?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 21:00 PT · #business #cannabis
 - [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - Big News Network.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXhxUVptcU5VR1JfUFc2TTdsb1gtSVVWLWh6NHZreTM4bUx0ZHhrRHRxMnY0djhWRWpVS0ZvZmFpNlgxcE5UNF9wY21idE9ubWU3b1gzQklnRWJab2l2aUJJd0xwYk9aVmwxVU1tUGExYW1PaGtXZGVhYzgwTGcyZmZxVloxTHVNM2Y2b01ILXhjeGl3a3RpdHJ1WjNTaW81OWxHSl9sZ3AxeVdzMnB0Xw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:39 PT · #business #cannabis
 - [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd3ZHeHlwbU9TbF96Y054NWVldWx6NzVCMV9ueXc1elNWWDdrUjNTODFZeUt2a3hNb1dMZ1Fvb0RsdDhjNDM5Zl9fdWo0eEdqWm8yd0N0TVZaMl9uY0g1dnM4bDB4Y1A2SmRoangtb2FkWDR0RklzaElJR3p0NENvVmVKRFVubW1RamRQa2Nvc3ZRUjE4SWk0SWtfZnZOQmxXblNtaFBPR0NKZE5ld0I3RkctV2J3YmswZVk1MkpxbEVHdmd2Q0NrTnVRTkVBclc5TEwyb3hHazk4XzcyNUZOTDRmNnk5LXpqeDA4eWJB?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:32 PT · #business #cannabis
+- [Papaya Strain Guide Clarifies Genealogy and Conflicting Pedigrees - FinancialContent](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGEyY09hS3NwNHJqSGZtUE1qaDlqd0FaaURxZ00yb0pJU1NsZWJDZHVjLUNtRjdXSC10R1dDLTV6YVYyN1pxdHhqa1lkQk1pS1RITm5OSjQ0anp1Z2ZkNWhfOFB1OXF4N2ZCaW9DSG5wMTV3dTR3VGZDX2R5bzhHUVU0Smd1WkRJMTZPS092eUpLQ1QtajJzczc2NUhpc2phbl9CMWJ4MzdPWE1NODdmdVF1NHd1MVdxZEMwT0RvUnN2ZXZ5Y0E?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:25 PT · #business #cannabis
 - [Nebraska MMJ growers harvest first crops with no path to market](https://mjbizdaily.com/news/nebraska-mmj-growers-harvest-first-crops-with-no-path-to-market/618627/) — MJBizDaily · 15:55 PT · #business #cannabis #smallbiz
 - [As rescheduling fuels cannabis deals, integration decides who wins - MJBizDaily](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX01rZVFJUlJRLVE1N3dQOTZZTjRidlB2T2tqOEltd2NRWHBuR3diV1lhSDlWWGlvOS1BdG5NU1N1U2VMUzBUYk9MX0xSMk1QVUR6YkpHdm5MRl9MdFNCYU5SYzRoS2JZNEczeWc5X2Q2NkFyYzJBcXFoVWV4WWUwZVlnQVQ1UGFYb1AxOWt4VVFaUTdraVhGUXhZLWlCcXVlQ1g0?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:55 PT · #business #cannabis
 - [States don’t need to change rules to comply with federal marijuana rescheduling](https://mjbizdaily.com/news/states-dont-need-to-change-rules-to-comply-with-federal-marijuana-rescheduling/618631/) — MJBizDaily · 13:41 PT · #business #cannabis #smallbiz
