@@ -1,16 +1,17 @@
 ---
 title: "Ticker: $QBTS"
-updated: 2026-10-16T11:46:54-07:00
-count: 2
+updated: 2026-10-16T14:47:03-07:00
+count: 3
 tags: ["ticker", "QBTS"]
 ---
 
 # Ticker: $QBTS
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
 
 ## 2026-10-16
 
+- [QBTS Stockholder Notice: Robbins LLP Reminds Investors of the Class Action Lawsuit Against D-Wave Quantum Inc.](https://www.prnewswire.com/news-releases/qbts-stockholder-notice-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-d-wave-quantum-inc-302911530.html) — PR Newswire M&A · 13:24 PT · #business #markets $QBTS
 - [QBTS INVESTOR ALERT: D-Wave Quantum Inc. Investors with Substantial Losses May Seek to Lead the D-Wave Class Action Lawsuit](https://www.prnewswire.com/news-releases/qbts-investor-alert-d-wave-quantum-inc-investors-with-substantial-losses-may-seek-to-lead-the-d-wave-class-action-lawsuit-302911532.html) — PR Newswire M&A · 11:35 PT · #business #markets $QBTS
 
 ## 2026-10-13

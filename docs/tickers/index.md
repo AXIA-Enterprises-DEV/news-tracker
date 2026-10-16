@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-16T11:46:54-07:00
-count: 225
+updated: 2026-10-16T14:47:03-07:00
+count: 235
 tags: ["tickers"]
 ---
 
@@ -12,9 +12,10 @@ tags: ["tickers"]
 - [$LSCC](LSCC.md) — 6 items
 - [$RMNI](RMNI.md) — 5 items
 - [$III](III.md) — 4 items
+- [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
-- [$QBTS](QBTS.md) — 2 items
+- [$GPUS](GPUS.md) — 2 items
 - [$IOT](IOT.md) — 2 items
 - [$BULL](BULL.md) — 2 items
 - [$CNC](CNC.md) — 2 items
@@ -29,9 +30,19 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$ATNM](ATNM.md) — 1 items
+- [$BHR](BHR.md) — 1 items
+- [$BUUU](BUUU.md) — 1 items
+- [$SRV](SRV.md) — 1 items
+- [$CELH](CELH.md) — 1 items
+- [$OMC](OMC.md) — 1 items
+- [$EGHT](EGHT.md) — 1 items
+- [$AIIO](AIIO.md) — 1 items
+- [$BX](BX.md) — 1 items
 - [$CC](CC.md) — 1 items
 - [$OLED](OLED.md) — 1 items
 - [$PMT](PMT.md) — 1 items
+- [$BORR](BORR.md) — 1 items
 - [$BRUN](BRUN.md) — 1 items
 - [$UPS](UPS.md) — 1 items
 - [$PLAY](PLAY.md) — 1 items
@@ -44,7 +55,6 @@ tags: ["tickers"]
 - [$BOX](BOX.md) — 1 items
 - [$VICI](VICI.md) — 1 items
 - [$EFN](EFN.md) — 1 items
-- [$GPUS](GPUS.md) — 1 items
 - [$HIT](HIT.md) — 1 items
 - [$TFC](TFC.md) — 1 items
 - [$JKS](JKS.md) — 1 items

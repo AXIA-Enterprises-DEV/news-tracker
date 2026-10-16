@@ -1,16 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-16T11:46:54-07:00
-count: 84
+updated: 2026-10-16T14:47:03-07:00
+count: 87
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-84 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+87 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-16
 
+- [Controversial Oregon cannabis executive charged with tax fraud](https://mjbizdaily.com/news/controversial-oregon-cannabis-executive-charged-with-tax-fraud/618693/) — MJBizDaily · 12:36 PT · #business #cannabis #smallbiz
+- [Bipartisan New Jersey bill targets unlicensed cannabis retailers](https://mjbizdaily.com/news/bipartisan-new-jersey-bill-targets-unlicensed-cannabis-retailers/618689/) — MJBizDaily · 12:10 PT · #business #cannabis #civic #smallbiz
 - [Florida Should Regulate Hemp THC Drinks To Show The Rest Of The Country That Legalization Is Better Than Prohibition (Op-Ed)](https://www.marijuanamoment.net/florida-should-regulate-hemp-thc-drinks-to-show-the-rest-of-the-country-that-legalization-is-better-than-prohibition-op-ed/) — Marijuana Moment · 10:22 PT · #business #cannabis
 - [Kentucky Now Has Medical Marijuana Dispensaries Open In Every Region Of The State, Governor Announces](https://www.marijuanamoment.net/kentucky-now-has-medical-marijuana-dispensaries-open-in-every-region-of-the-state-governor-announces/) — Marijuana Moment · 07:54 PT · #business #cannabis
 - [Guava Strain Guide Disambiguates Phenotypes and Breeders - Digital Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUx0NEVnVE11UUYtcDJPWXVQeGVieHo3R2xMYmNEVHdCY3pNb2dNSGVPWldaWU5TTVpwc01oY25jOTZYZUhXTEl1REcyN3QzenUtcFJhZmNQb3ZmNVBiODFBRHFNX241bFotSHlIWW5rd0R6bXFCN3dYOVB6QVpidTR2VzZ5VUVjeUdTYkJEeEJuZmZYNmFZX0c2VE13N2JZdDJwYTFoMjBGNHh0LTJ3NGd5enI?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 06:47 PT · #business #cannabis
@@ -26,6 +28,7 @@ tags: ["project", "cannabis"]
 - [Colorado cannabis vape recall expands as health complaints rise](https://mjbizdaily.com/news/colorado-cannabis-vape-recall-expands-as-health-complaints-rise/618658/) — MJBizDaily · 15:49 PT · #business #cannabis #smallbiz
 - [Denver cannabis lounge expanding to Las Vegas, plans 20 locations by 2035 - The Business Journals](https://news.google.com/rss/articles/CBMipgFBVV95cUxON0lCZG5QTDRBNUMzWWVvVUZKemdqS0JWREl6ZGtGVm1JNTZQXzUwUWptMFpVNFBkUjBhS3RILS1IZ2xQVFVzeXFQbUF1bEtLRGpITEhwT3dxclgwNUgwTEFGbEpfSWdlUTZCOW1EamVoRm5rVXNrT1lQN1FrUlRRdENKZzAtLU5XaDlnNDA3Qy00SUtCYldhcEpZS1hXZTcyanNSZTd3?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:02 PT · #business #cannabis #nevada
 - [Cody Whipple does things 'my way.' Can the small-town rancher flip Nevada's bluest House seat? - Mesa Valleys Progress](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGhoTWhDQjB1MHp0SG0zOUxWXy1mbDJEaTA0YXZfUVh4TzlWSDVIZWhGV29PdW5QeWQzSVlMMUtPX3c4OUxJem5oZGpfSWpodU9zTXhQcnM0TnlKWktVQk5VUVFBR0kxUklMcHJVNjJKNDJpRzhlbGMyTDZ4aWZ3NW52R3Y3WkZ6ZzNWY2s1bDRldEg1SWl4MnFwaEJTRVpySUpxT1IwNGlZaHZxd2FCdUE5cjgzZUZCZmotSG1SVTdmZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:48 PT · #business #cannabis #nevada
+- [Nevada Regulators Approve Vireo Growth’s Acquisition of Planet 13 Holdings - The Marijuana Herald](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWVjaDNVdlpUMmF3OHJyZWhidUZGVkxQNHpJb1FoXzZoOE5sRHlWeTU1V3d4UDM3RF9zWUZXMXgxQzVxcEo5djlXWnNvSHhKWVhvZTZ1dzFha29jNjFDVHRtazBHZWNkNjgzcE1GMzBONWdXRDBJdW00QU5Takl1S3E0ZUthdG12dHNyd202RlVSTWFnOUR4Q3czeXZmSlRnaW1NcGVCSGplZUJWS3FqV0w4cw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 13:36 PT · #business #cannabis #markets #nevada
 - [Aurora Cannabis board rebuffs Curaleaf takeover again, welcomes other bids](https://mjbizdaily.com/news/aurora-cannabis-board-rebuffs-curaleaf-takeover-again-welcomes-other-bids/618657/) — MJBizDaily · 13:29 PT · #business #cannabis #markets #smallbiz
 - [First Time Shopping At A Dispensary? 7 Things To Know Before You Go](https://www.forbes.com/sites/petersu/2026/10/15/first-time-shopping-at-a-dispensary-7-things-to-know-before-you-go/) — Forbes - Business · 10:59 PT · #business #cannabis
 - [Marijuana Businesses Fighting To Ban Hemp THC Products Are Being Short-Sighted (Op-Ed)](https://www.marijuanamoment.net/marijuana-businesses-fighting-to-ban-hemp-thc-products-are-being-short-sighted-op-ed/) — Marijuana Moment · 10:08 PT · #business #cannabis

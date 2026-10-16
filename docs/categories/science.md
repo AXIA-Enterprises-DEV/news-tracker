@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-16T11:46:54-07:00
+updated: 2026-10-16T14:47:03-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,26 @@ tags: ["category", "science"]
 
 ## 2026-10-16
 
+- [Sunlight gives biodiesel byproduct a second life as hydrogen and valuable chemicals](https://phys.org/news/2026-10-sunlight-biodiesel-byproduct-life-hydrogen.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
+- [A highway instead of a racetrack: Strong coupling of light and sound in an optical fiber](https://phys.org/news/2026-10-highway-racetrack-strong-coupling-optical.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- [Infrared light overcomes mirror coating obstacle in gravitational wave detector upgrades](https://phys.org/news/2026-10-infrared-mirror-coating-obstacle-gravitational.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [First comprehensive Mars soil classification offers framework for exploration and future farming](https://phys.org/news/2026-10-comprehensive-mars-soil-classification-framework.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [Judging strangers' preferences may actually be easier when they're less like our own](https://phys.org/news/2026-10-strangers-easier-theyre.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [Essential oil sprays kill cockroaches on contact but offer little lasting control](https://phys.org/news/2026-10-essential-oil-sprays-cockroaches-contact.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science #oil
+- [NASA Names Stephen Cash Marshall Space Flight Center Director](https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/) — NASA · 13:14 PT · #science
+- [The Leap Second Has Been Canceled](https://www.nytimes.com/2026/10/16/science/leap-second-abolished-vote.html) — NYT > Science · 13:13 PT · #science
+- [Wider approach needed to mitigate rising rechargeable battery emissions](https://phys.org/news/2026-10-wider-approach-mitigate-rechargeable-battery.html) — Phys.org - latest science and technology news stories · 13:10 PT · #science
+- [Belief in change matters more than political anger when it comes to voting intentions, study suggests](https://phys.org/news/2026-10-belief-political-anger-voting-intentions.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science #civic
+- [Genetic evidence raises questions about settler-Indigenous relations in New France](https://phys.org/news/2026-10-genetic-evidence-settler-indigenous-france.html) — Phys.org - latest science and technology news stories · 12:50 PT · #science
+- [Climate warming can slow how tree roots feed soil microbes](https://phys.org/news/2026-10-climate-tree-roots-soil-microbes.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [About 2% of natural gas supplied to a Midwest city leaks into the atmosphere](https://phys.org/news/2026-10-natural-gas-midwest-city-leaks.html) — Phys.org - latest science and technology news stories · 12:30 PT · #science #oil
+- [New alloy design strategy combines strength and ductility by timing hardening mechanisms](https://phys.org/news/2026-10-alloy-strategy-combines-strength-ductility.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [Light and ultrasound reveal renewable routes to compounds for pharmaceutical research](https://phys.org/news/2026-10-ultrasound-reveal-renewable-routes-compounds.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [National Park Service names 10 new American World War II Heritage cities](https://www.popsci.com/technology/national-parks-world-war-ii-heritage-cities-2026/) — Popular Science · 12:16 PT · #science #foreign
+- [World-record intensity in attosecond hard-X-ray pulses could unlock closer study of electrons in atoms and molecules](https://phys.org/news/2026-10-world-intensity-attosecond-hard-ray.html) — Phys.org - latest science and technology news stories · 12:10 PT · #science
+- [Automated essay assessment can grade writing more accurately across topics, study finds](https://phys.org/news/2026-10-automated-essay-grade-accurately-topics.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science #ai
+- [Spiny dogfish blood contains a hormone long thought absent in sharks](https://phys.org/news/2026-10-spiny-dogfish-blood-hormone-thought.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
+- [Maxwell's demon learns to turn concealed information into usable energy for microscopic systems](https://phys.org/news/2026-10-maxwell-demon-concealed-usable-energy.html) — Phys.org - latest science and technology news stories · 11:50 PT · #science
 - [Replanted landscapes can look restored while soil fungi still lag behind](https://phys.org/news/2026-10-replanted-landscapes-soil-fungi-lag.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
 - [Finding their sense of direction: Cell movement helps tissues establish polarity](https://phys.org/news/2026-10-cell-movement-tissues-polarity.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
 - [Adaptive molecular convergence more common than previously thought, distant jellyfish relatives reveal](https://phys.org/news/2026-10-molecular-convergence-common-previously-thought.html) — Phys.org - latest science and technology news stories · 11:30 PT · #science
@@ -400,23 +420,3 @@ tags: ["category", "science"]
 - [Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation](https://www.nature.com/articles/s41586-026-11136-9) — Nature · 17:00 PT · #science
 - [Targeted stimulation of motor cortex ensembles drives learned movements](https://www.nature.com/articles/s41586-026-11174-3) — Nature · 17:00 PT · #science
 - [Artificial intelligence-enabled clinical phenotyping of human brown fat](https://www.nature.com/articles/s41586-026-11162-7) — Nature · 17:00 PT · #science #ai
-- [Early tetrapod neck mobility modelled using an extant analogue](https://www.nature.com/articles/s41586-026-11158-3) — Nature · 17:00 PT · #science
-- [Intrinsic physicochemical activity at microplastic–water interfaces](https://www.nature.com/articles/s41586-026-11141-y) — Nature · 17:00 PT · #science
-- [Hidden reaction pathways inform additive engineering for perovskite LEDs](https://www.nature.com/articles/s41586-026-11120-3) — Nature · 17:00 PT · #science
-- [Clasping folds enable superior elastic strength of graphene films](https://www.nature.com/articles/s41586-026-11109-y) — Nature · 17:00 PT · #science
-- [Wave coarsening drives time crystallization in mechatronic metamaterials](https://www.nature.com/articles/s41586-026-11163-6) — Nature · 17:00 PT · #science
-- [Sexual dimorphism in epidermal stem cell dynamics](https://www.nature.com/articles/s41586-026-11159-2) — Nature · 17:00 PT · #science
-- [Interhemispheric monsoon dynamics over the past 450,000 years](https://www.nature.com/articles/s41586-026-11166-3) — Nature · 17:00 PT · #science
-- [A microexon regulatory code reveals autism-linked genetic variation](https://www.nature.com/articles/s41586-026-11119-w) — Nature · 17:00 PT · #science
-- [Educational intervention can rewire village social networks](https://www.nature.com/articles/s41586-026-11154-7) — Nature · 17:00 PT · #science
-- [Advancing subseasonal forecasting with machine learning](https://www.nature.com/articles/s41586-026-11126-x) — Nature · 17:00 PT · #science #ai
-- [Jurassic flightless bird reveals early ecological diversity of avialans](https://www.nature.com/articles/s41586-026-10972-z) — Nature · 17:00 PT · #science #foreign
-- [Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride](https://www.nature.com/articles/s41586-026-11267-z) — Nature · 17:00 PT · #science
-- [Growing plane and ship traffic degrade the air of western North America](https://www.nature.com/articles/d41586-026-03239-0) — Nature · 17:00 PT · #science
-- [‘Incredible’: bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) — Nature · 17:00 PT · #science
-- [Daily briefing: China’s extraordinary rise in science](https://www.nature.com/articles/d41586-026-03322-6) — Nature · 17:00 PT · #science #foreign
-- [Ultrashort laser pulses offer a new way to probe electrons' quantum geometry](https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
-- [Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years](https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science #foreign
-- [Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur](https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
-- [People with a 'good ear' for sounds make better language learners, study suggests](https://phys.org/news/2026-10-people-good-ear-language-learners.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
-- [210-million-year-old dinosaur discovery reveals a lost world in Africa](https://www.sciencedaily.com/releases/2026/10/261012185013.htm) — Latest Science News -- ScienceDaily · 15:53 PT · #science
