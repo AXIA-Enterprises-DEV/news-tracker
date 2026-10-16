@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-16T03:42:13-07:00
+updated: 2026-10-16T08:02:04-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,18 @@ tags: ["category", "us"]
 
 ## 2026-10-16
 
+- [Mark Stone has 3rd-period hat trick in the Golden Knights' 6-2 win over the Flames](https://lasvegassun.com/news/2026/oct/16/mark-stone-has-3rd-period-hat-trick-in-the-golden/) — Las Vegas Sun · 07:58 PT · #us #nevada
+- [RJ reporters, editors make picks for UNLV’s football game at Air Force](https://www.reviewjournal.com/sports/unlv/rj-reporters-editors-make-picks-for-unlvs-football-game-at-air-force-3900942/) — Las Vegas Review-Journal · 07:30 PT · #us #nevada
+- [Bills’ Dalton Kincaid expects ‘surreal’ Las Vegas homecoming game vs. Raiders](https://www.reviewjournal.com/sports/raiders/bills-dalton-kincaid-expects-surreal-las-vegas-homecoming-game-vs-raiders-3900921/) — Las Vegas Review-Journal · 07:00 PT · #us #nevada
+- [Foundation honors RJ columnist with two national awards for opinion writing](https://www.reviewjournal.com/local/local-las-vegas/foundation-honors-rj-columnist-with-two-national-awards-for-opinion-writing-3900918/) — Las Vegas Review-Journal · 07:00 PT · #us #nevada
+- [Darien Porter, Hezekiah Masses embracing battle for Raiders No. 2 corner](https://www.reviewjournal.com/sports/raiders/darien-porter-hezekiah-masses-embracing-battle-for-raiders-no-2-corner-3900909/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
+- [Are there actually health benefits to eating an apple a day?](https://www.reviewjournal.com/livewell/are-there-actually-health-benefits-to-eating-an-apple-a-day-3900904/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Golden Knights flip the script, use fast start to douse Flames](https://www.reviewjournal.com/sports/goldenknights/golden-knights-flip-the-script-use-fast-start-to-douse-flames-3900901/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Switch plans massive natural gas plant to power Nevada data centers](https://www.reviewjournal.com/business/energy/switch-plans-massive-natural-gas-plant-to-power-nevada-data-centers-3900897/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada #oil
+- [Before saying yes to a medical test, know the risks and benefits](https://www.reviewjournal.com/livewell/before-saying-yes-to-a-medical-test-know-the-risks-and-benefits-3900893/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
+- [Flamingo abuse trial testimony details bird’s injuries, alcohol-soaked Las Vegas trip](https://www.reviewjournal.com/crime/courts/flamingo-abuse-trial-testimony-details-birds-injuries-alcohol-soaked-las-vegas-trip-3900889/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
+- [Proposed changes to health survey worry disability advocates](https://www.reviewjournal.com/livewell/proposed-changes-to-health-survey-worry-disability-advocates-3900885/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
+- [On the issues: can the economy tip the Nevada governor’s race?](https://www.reviewjournal.com/news/politics-and-government/nevada/on-the-issues-can-the-economy-tip-the-nevada-governors-race-3900882/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
 - [El-Sayed’s missing piece](https://www.politico.com/newsletters/playbook/2026/10/16/el-sayeds-missing-piece-01123135) — Playbook · 03:21 PT · #us
 - [Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution](https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution) — World & Nation · 03:00 PT · #us
 - [Nevada takes back $52 million for rural broadband amid fears of missed spending deadline](https://thenevadaindependent.com/article/nevada-takes-back-52-million-for-rural-broadband-amid-fears-of-missed-spending-deadline/) — The Nevada Independent · 02:00 PT · #us #nevada
@@ -420,18 +432,3 @@ tags: ["category", "us"]
 - [CEO takes blame as Crumbl sees dozens of store closures, 'worst month in company history'](https://www.ktnv.com/news/ceo-takes-blame-as-crumbl-sees-dozens-of-store-closures-worst-month-in-company-history) — KTNV Las Vegas · 11:10 PT · #us #nevada
 - [The hidden cost of farmed fish: Pollution, forced labor and the depletion of wild fish](https://www.latimes.com/world-nation/story/2026-10-09/fish-farming) — World & Nation · 06:00 PT · #us
 - [The battle for Black voters](https://www.politico.com/newsletters/playbook/2026/10/09/the-battle-for-black-voters-01113316) — Playbook · 03:11 PT · #us
-- [With Hollywood's history of failed mergers, this is the rocky road ahead for David Ellison and Skydance](https://www.latimes.com/entertainment-arts/business/story/2026-10-09/skydance-david-ellison-conquered-hollywood-now-work-begins) — World & Nation · 03:00 PT · #us #markets
-- [They're bright, loud, here to stay: Slots are a key part of gaming, say their makers' CEOs](https://thenevadaindependent.com/article/theyre-bright-loud-here-to-stay-slots-are-a-key-part-of-gaming-say-their-makers-ceos/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Con violines, trompetas y guitarrón, Las Vegas forma a futuros profesores de mariachi](https://thenevadaindependent.com/article/con-violines-trompetas-y-guitarron-las-vegas-forma-a-futuros-profesores-de-mariachi/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-08
-
-- [Las Vegas family business Stingray Spot Remover expands after national recognition](https://www.ktnv.com/news/las-vegas-family-business-stingray-spot-remover-expands-after-national-recognition) — KTNV Las Vegas · 23:00 PT · #us #nevada
-- [White House targets Stanford, Caltech and tech giants in visa crackdown](https://www.latimes.com/business/story/2026-10-08/white-house-cracks-down-on-student-visas-at-stanford-caltech-as-well-as-tech-work-visas) — World & Nation · 15:36 PT · #us
-- [Commentary: To Trump, the Cornell Seven are victims. It's a familiar refrain for him](https://www.latimes.com/world-nation/story/2026-10-08/cornell-seven-wont-get-fair-shake-trump-says) — World & Nation · 12:58 PT · #us
-- [Knives out for Blair and LaCivita](https://www.politico.com/newsletters/playbook/2026/10/08/knives-out-for-blair-and-lacivita-01111479) — Playbook · 03:11 PT · #us
-- [At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology](https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology) — World & Nation · 03:00 PT · #us #ai
-- [ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement](https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement) — World & Nation · 03:00 PT · #us
-- [With violins, trumpets and the guitarrón, Las Vegas is training the mariachi educators of tomorrow](https://thenevadaindependent.com/article/with-violins-trumpets-and-the-guitarron-las-vegas-is-training-the-mariachi-educators-of-tomorrow/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [OPINION: Flippo's follies are making Nevada politics interesting again](https://thenevadaindependent.com/article/opinion-flippos-follies-are-making-nevada-politics-interesting-again/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [A los nevadenses los están afectando en su bolsillo": Por qué la accesibilidad económica es el tema del 2026](https://thenevadaindependent.com/article/a-los-nevadenses-los-estan-afectando-en-su-bolsillo-por-que-la-accesibilidad-economica-es-el-tema-del-2026/) — The Nevada Independent · 01:15 PT · #us #nevada

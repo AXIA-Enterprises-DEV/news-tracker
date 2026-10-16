@@ -1,16 +1,20 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-16T03:42:13-07:00
-count: 76
+updated: 2026-10-16T08:02:04-07:00
+count: 81
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-76 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+81 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-16
 
+- [Kentucky Now Has Medical Marijuana Dispensaries Open In Every Region Of The State, Governor Announces](https://www.marijuanamoment.net/kentucky-now-has-medical-marijuana-dispensaries-open-in-every-region-of-the-state-governor-announces/) — Marijuana Moment · 07:54 PT · #business #cannabis
+- [North Carolinians Support Legalizing Marijuana, Including Majorities Of Republicans And Democrats, Poll Shows](https://www.marijuanamoment.net/north-carolinians-support-legalizing-marijuana-including-majorities-of-republicans-and-democrats-poll-shows/) — Marijuana Moment · 06:20 PT · #business #cannabis
+- [Guava Strain Guide Disambiguates Phenotypes and Breeders - GazetteXtra](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWJJQ3Y5SHRpMHR2LUwwajR2M0NLRXdVUzNVUkM1X2NoMlg1Q1kxRFA5TS1zWXZTVUtnNXB6ekZtWWswU0ZOOFRWTUFCSGVsVWRrODNvWkk1c01uRHVxaGNmeFpxa1FCbEVsQXlDS21SSUpvR1FWVTRiNVUyV0NoSnZ4NUF5NENuX1FCREtuQ0VEWUxkSmZIVVpoRHFWRnZLZ1EtRmtIcnl3SnZ3TUNCTzdWYkVSQm9wUjlwN3hoVXdHSXFrcGtLbHI3QXJIdm42YUdGVVFuR2YtQTNpZnJJOG4tdnVMZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:02 PT · #business #cannabis
+- [Dozens Of Massachusetts Lawmakers Urge Voters To Keep Marijuana Sales Legal By Rejecting Measure On November Ballot](https://www.marijuanamoment.net/dozens-of-massachusetts-lawmakers-urge-voters-to-keep-marijuana-sales-legal-by-rejecting-measure-on-november-ballot/) — Marijuana Moment · 04:45 PT · #business #cannabis #civic
 - [Beyond 280E relief: The hidden tax audit risks of marijuana rescheduling](https://mjbizdaily.com/news/beyond-280e-relief-the-hidden-tax-audit-risks-of-marijuana-rescheduling/618669/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
 - [Dark money ads slam GOP senator’s hemp stance (Newsletter: October 16, 2026)](https://www.marijuanamoment.net/dark-money-ads-slam-gop-senators-hemp-stance-newsletter-october-16-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis
 
@@ -28,6 +32,7 @@ tags: ["project", "cannabis"]
 - [Police Would Rather Deal With People High On Marijuana Than Drunk On Alcohol, Iowa Governor Candidate Says](https://www.marijuanamoment.net/police-would-rather-deal-with-people-high-on-marijuana-than-drunk-on-alcohol-iowa-governor-candidate-says/) — Marijuana Moment · 07:24 PT · #business #cannabis
 - [South Dakota Lawmakers Accused Of Rigging Marijuana Committee Meeting With Opponent Testimony](https://www.marijuanamoment.net/south-dakota-lawmakers-accused-of-rigging-marijuana-committee-meeting-with-opponent-testimony/) — Marijuana Moment · 06:14 PT · #business #cannabis
 - [GOP Senator Attacked Over Push To Keep Hemp THC Products Legal In New Ad From Dark Money Group](https://www.marijuanamoment.net/gop-senator-attacked-over-push-to-keep-hemp-thc-products-legal-in-new-ad-from-dark-money-group/) — Marijuana Moment · 05:10 PT · #business #cannabis
+- [Tropicana Cookies Strain Guide Compares Generations and Names - The Daily Reflector](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYlRqWEJIR3Zid3hmYUhGbHlFNlU0aHFkaFpySUE1ZFZxMW1wbEUxWnBGU2dUanQ5WkY3VmdzUkk1TjZNN1hOaDZnQmlfUHdNckxqckxJb1ctN1lFN1JRU19uZWZwY0I4cG5DOUYzRzVQWGh3MTZCWWc5a1R4MmhZelllMlBsWmxYb2dYTWxHcVRqaEpwMlVsemtPSmxpX1A4UFVRUFpEb013ZVFxcHo5NFNPRVdmTW5FejBwTXZPNEEzUnduM0k5R21NY0NLLS1vb3RsTE1GVjNBbmkzRzJXTG5rR3hsZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:03 PT · #business #cannabis
 - [Tropicana Cookies Strain Guide Compares Generations and Names - StreetInsider](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0lRaFgwUzJjRnFWQ0JPOTAzTW1PbUh4eGM4X1lueHZLVmJWOThkY2tHT3Rick4yVV9Scm4zbnd0M1A4NXJIejdFYURMaHFZSmNiS0dXUmJHdHp1VmtHVzBPMEE4ai1HV0tGdDJoaTBzX1dycHo3ZnhzUThqSElBNmgtOWluTEx4TlhKTHFMTzVrV1psdnJ1VG9HOFhTZlRaZURKYWZTeGl0SjU4Z1l1eGtGLWplQlJ4dDAxUnln?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:02 PT · #business #cannabis
 - [Tropicana Cookies Strain Guide Compares Generations and Names - FinancialContent](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXZFZ2x6ck5wTk5pTVVkbzdpMU5MaUhJQkJVZEFvUnI3WlhzWDVab0RTcUc4RVN0R2JpR1Ntd3ZzaG9TaHh2VWRkZ01VcXByVzkteE1VZDNtbjNrdi10S1Z6cXJDRk1CSDNtU1dXT1NQRUVETUdVcVhWbVBiRGg3UVVhOFNURlkyUDd6UUpDeHVYZUdXQmlISGlwMEd0SC1XcTRoTW1lVTVZdFduZFdsaHh6QzE3SFlYVXJRMUdXaGc?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:00 PT · #business #cannabis
 - [New York cannabis founder on entering the industry in 2026: ‘Don’t do it’](https://mjbizdaily.com/news/new-york-cannabis-founder-on-entering-the-industry-in-2026-dont-do-it/618636/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz

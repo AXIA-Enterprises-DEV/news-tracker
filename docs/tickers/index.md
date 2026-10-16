@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-16T03:42:13-07:00
-count: 211
+updated: 2026-10-16T08:02:04-07:00
+count: 216
 tags: ["tickers"]
 ---
 
@@ -14,6 +14,7 @@ tags: ["tickers"]
 - [$III](III.md) — 4 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$CNC](CNC.md) — 2 items
 - [$GIL](GIL.md) — 2 items
 - [$TNET](TNET.md) — 2 items
 - [$VISN](VISN.md) — 2 items
@@ -25,6 +26,11 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$MRP](MRP.md) — 1 items
+- [$FATN](FATN.md) — 1 items
+- [$VNT](VNT.md) — 1 items
+- [$BOX](BOX.md) — 1 items
+- [$VICI](VICI.md) — 1 items
 - [$EFN](EFN.md) — 1 items
 - [$GPUS](GPUS.md) — 1 items
 - [$HIT](HIT.md) — 1 items
@@ -151,7 +157,6 @@ tags: ["tickers"]
 - [$JBHT](JBHT.md) — 1 items
 - [$COO](COO.md) — 1 items
 - [$ASTS](ASTS.md) — 1 items
-- [$CNC](CNC.md) — 1 items
 - [$THO](THO.md) — 1 items
 - [$BUKS](BUKS.md) — 1 items
 - [$ATI](ATI.md) — 1 items

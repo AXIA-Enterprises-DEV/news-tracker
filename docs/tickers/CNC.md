@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $CNC"
-updated: 2026-10-16T03:42:13-07:00
-count: 1
+updated: 2026-10-16T08:02:04-07:00
+count: 2
 tags: ["ticker", "CNC"]
 ---
 
 # Ticker: $CNC
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-16
+
+- [Centene Corporation Demonstrates Commitment to CHOICE Arrangements through Benefit Programs in Indiana, Ohio and Oklahoma](https://www.prnewswire.com/news-releases/centene-corporation-demonstrates-commitment-to-choice-arrangements-through-benefit-programs-in-indiana-ohio-and-oklahoma-302910801.html) — PR Newswire Contracts · 05:00 PT · #business $CNC
 
 ## 2026-10-13
 
