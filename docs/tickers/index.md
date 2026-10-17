@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-17T13:04:30-07:00
-count: 245
+updated: 2026-10-17T15:14:38-07:00
+count: 248
 tags: ["tickers"]
 ---
 
@@ -16,12 +16,14 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$MRP](MRP.md) — 2 items
 - [$DOCS](DOCS.md) — 2 items
 - [$TBLA](TBLA.md) — 2 items
 - [$YSS](YSS.md) — 2 items
 - [$JKS](JKS.md) — 2 items
 - [$GPUS](GPUS.md) — 2 items
 - [$IOT](IOT.md) — 2 items
+- [$VRNS](VRNS.md) — 2 items
 - [$BULL](BULL.md) — 2 items
 - [$CNC](CNC.md) — 2 items
 - [$TNET](TNET.md) — 2 items
@@ -34,6 +36,8 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$HIMS](HIMS.md) — 1 items
+- [$LINC](LINC.md) — 1 items
 - [$BCS](BCS.md) — 1 items
 - [$OXY](OXY.md) — 1 items
 - [$AI](AI.md) — 1 items
@@ -58,11 +62,10 @@ tags: ["tickers"]
 - [$BRUN](BRUN.md) — 1 items
 - [$UPS](UPS.md) — 1 items
 - [$PLAY](PLAY.md) — 1 items
+- [$FOXA](FOXA.md) — 1 items
 - [$EGY](EGY.md) — 1 items
 - [$EH](EH.md) — 1 items
 - [$SMTC](SMTC.md) — 1 items
-- [$VRNS](VRNS.md) — 1 items
-- [$MRP](MRP.md) — 1 items
 - [$FATN](FATN.md) — 1 items
 - [$VNT](VNT.md) — 1 items
 - [$BOX](BOX.md) — 1 items

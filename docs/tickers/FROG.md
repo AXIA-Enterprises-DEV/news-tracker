@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $FROG"
-updated: 2026-10-17T13:04:30-07:00
+updated: 2026-10-17T15:14:38-07:00
 count: 1
 tags: ["ticker", "FROG"]
 ---

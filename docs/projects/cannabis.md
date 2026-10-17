@@ -1,13 +1,13 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-17T13:04:30-07:00
-count: 87
+updated: 2026-10-17T15:14:38-07:00
+count: 88
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-87 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+88 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-17
 
@@ -24,6 +24,7 @@ tags: ["project", "cannabis"]
 - [North Carolinians Support Legalizing Marijuana, Including Majorities Of Republicans And Democrats, Poll Shows](https://www.marijuanamoment.net/north-carolinians-support-legalizing-marijuana-including-majorities-of-republicans-and-democrats-poll-shows/) — Marijuana Moment · 06:20 PT · #business #cannabis
 - [Guava Strain Guide Disambiguates Phenotypes and Breeders - Big News Network.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzYzNzh3WW5ud1ZLdGZ2VER5VUMwMmNHWWpENFVydGRIUDlPM1M0TUZNemt0Q2RGbmZ0ZF80YmhFMEJPZ2tUWTBtQ28wbm95UENtQ2s2akhXNnNNM0tmOUZPMF9HT1EzTGRlLXhIOXBIVzROdHhCbWdzc2E5d3p3bEJDWDFSV2ktTFp3SWk4c01OZEdnbVJLQjVtck5DTmExYUlxbA?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:03 PT · #business #cannabis
 - [Guava Strain Guide Disambiguates Phenotypes and Breeders - GazetteXtra](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWJJQ3Y5SHRpMHR2LUwwajR2M0NLRXdVUzNVUkM1X2NoMlg1Q1kxRFA5TS1zWXZTVUtnNXB6ekZtWWswU0ZOOFRWTUFCSGVsVWRrODNvWkk1c01uRHVxaGNmeFpxa1FCbEVsQXlDS21SSUpvR1FWVTRiNVUyV0NoSnZ4NUF5NENuX1FCREtuQ0VEWUxkSmZIVVpoRHFWRnZLZ1EtRmtIcnl3SnZ3TUNCTzdWYkVSQm9wUjlwN3hoVXdHSXFrcGtLbHI3QXJIdm42YUdGVVFuR2YtQTNpZnJJOG4tdnVMZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:02 PT · #business #cannabis
+- [Guava Strain Guide Disambiguates Phenotypes and Breeders - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcllkbjBtR19hWW5CMHdCVTZoVXcyMWljcVhmSDJWYk9PYzE0X3E3TUxwMnJ1a1drbGdZTFRvRmduNUh5c2dWRllHOTFxYXE1ZExGUGlUNFJVZE5iNkxqRzByTGQ4WUhlMmd4RHVySVhyTGdCVUtFeG9KMTBNT3hMUVNRRWhLRktQbUtuQXM5LXpnWmplU2MzR0t2eEpNSDFweG5nNzFIbldDSEhqalhPTFV5Q0F2MW9HOFJCT1pMLXZnRVp5MmVndUJrVC14aDFwWjM2cXN2cDUwS3NDeTRNRC13?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:02 PT · #business #cannabis
 - [Dozens Of Massachusetts Lawmakers Urge Voters To Keep Marijuana Sales Legal By Rejecting Measure On November Ballot](https://www.marijuanamoment.net/dozens-of-massachusetts-lawmakers-urge-voters-to-keep-marijuana-sales-legal-by-rejecting-measure-on-november-ballot/) — Marijuana Moment · 04:45 PT · #business #cannabis #civic
 - [Beyond 280E relief: The hidden tax audit risks of marijuana rescheduling](https://mjbizdaily.com/news/beyond-280e-relief-the-hidden-tax-audit-risks-of-marijuana-rescheduling/618669/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
 - [Dark money ads slam GOP senator’s hemp stance (Newsletter: October 16, 2026)](https://www.marijuanamoment.net/dark-money-ads-slam-gop-senators-hemp-stance-newsletter-october-16-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis

@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $MRP"
-updated: 2026-10-17T13:04:30-07:00
-count: 1
+updated: 2026-10-17T15:14:38-07:00
+count: 2
 tags: ["ticker", "MRP"]
 ---
 
 # Ticker: $MRP
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-17
+
+- [MRP Investors Have Opportunity to Lead Millrose Properties, Inc. Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/mrp-investors-have-opportunity-to-lead-millrose-properties-inc-securities-fraud-lawsuit-302911675.html) — PR Newswire M&A · 13:51 PT · #business $MRP
 
 ## 2026-10-16
 

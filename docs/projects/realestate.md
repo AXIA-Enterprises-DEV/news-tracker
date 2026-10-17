@@ -1,19 +1,27 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-17T13:04:30-07:00
-count: 398
+updated: 2026-10-17T15:14:38-07:00
+count: 400
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-398 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+400 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-17
 
+- [It’s Not a Passive House but a Passive Mansion in Melbourne, and It’s Selling for North of A$11.5 Million - Realtor.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcUpVX0FTcW5Bd2FNdXJEVENJUG1COWJlX1VVUjBVNTM4TExrYW1Td2c3QnZOZ2hwUWFwaElLSndlbF9ROVhiVzd2T1YtVzhxMU53dlZNTEFFS3QwRUVPR2E1SGM5MW42WFgwRndLTkVULWJXTWRxeGE0dm11aFhyVzhXMHNaVDV4ZUdFMmhLYXRyUnlaT0xqaGZpOTJNekE4RUNORDR4MF8yaXExNV9kWnFLOFBwRVRfUHZwRXhZWVc0RmYxNWpaY3JsZXRRa0NlMmVmbUFzZlZpdERO?oc=5) — Google News: Las Vegas real estate · 14:27 PT · #business #realestate
+- [Group proposes changes to regulations affecting HOAs - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMihANBVV95cUxOeGNPNFFMWXhHaktZYkNrS2tZN01BQzZTOXI2dWY1bTRFbmlRYUt2NklUNjFZTjFCQkkzajJYMW5sWGd4R18zOWVneWYyZ2hJeWVnTlRmZ0piM0dHTGJURmR1UWM5WFlVdFdMaHVKTzZUZnBZazZLU1RSd1htRjYxR1Q0aVB0RmhLVjg5M2lsTmJkdmhMUzJGN2IwNHNIOE00U1pmQ0JmMjctSmlCZVRYdVl2RFExVjdXQi1lei03Z3l5UzRfaEF3b1dpb0dwb3lDR2NLMEdWUWM5aXhxVWVBbE1pMjI4NS1xVW9MUnZ2ZlBhZzQ5eloyTUZqTTBtQ2xiVFBCUUlOUzR1T1lQN1RPbkZLdkpLa3g4UzNkRWY2NzNFWHJGZEZWT2pwR1pWODdMX3MxTzVKMGtEVHpJZmw1eUVoaU5KTUZRYVlCTjZTTE15UC1qaTVDRzBuZUNuSmVSRFdWUjBLZTQxQXg1Q3pRQ05WQlVZLURkS1lVakRmQXlwM2dF?oc=5) — Google News: Las Vegas real estate · 14:00 PT · #business #nevada #realestate
+- [New Luxury Community Offers Rare Waterfront Living Near the Las Vegas Strip - Realtor.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPYmRNTVRhMUs3RVplZTdEcTlhYTktX3FlLXZNY0tLblRCVVlaRG1JMUMwM013T2x1aEZ1VnJCS2FyelVaRjdTN2h5TkFCc3pBU25tR1BWN0h4MzJoTEpjeGxUVDFDTG5yUWR4MUdTSGJnWGFzU2l6VEg4ZWZtRkcwQ2U4NmlzTlk?oc=5) — Google News: Las Vegas real estate · 13:40 PT · #business #nevada #realestate
+- [Can mortgage rates get under 7% for the holidays?](https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/) — HousingWire · 13:31 PT · #business #realestate
+- [Inside Ben Affleck’s 87-acre Georgia estate with 3 homes, including a 10,000-square-foot guest house wher - The Times of India](https://news.google.com/rss/articles/CBMiygJBVV95cUxQSkpUYVdvYjREOF9hd1d6cFNRS2RnY1M0U3RoSlkwSTVNcFozYkhBQ0lyYTVZVFprTTM1cm45WGZKem5sd193ei0yQUxJb0k1Q1JCeHV5dmExX1lnczJFZ3ktWkJJSFYzNGtubDNMM3oxaGp0SmhzelNISTZhUHQ2NjVIbGZjOTEwN0t3cmFOYVdVTGQ1NXk4ckF1WGVramFJcDBORUVJandvT2ZubW52d3NhVVA0TlltdTdxMThQZU52c1IyLUlFS1RsZ25TVUFkRkhaQk5mZUpPWDhWTDZVT2FTblpoT253cmtsWTdwWWdmc0NEejRVdUZLRGRyNnducDYxWTg5ZENvU3htTV8wbmk2MDd2UXEtdzdoZG5IMHRsZ1V6RUY4UXBYN1ZCalRybXA2UEF0UTQxQV9HSm9zTFNWSjczb3huUkHSAc8CQVVfeXFMUE9FaGR2NkZwdjBBajVaWWFGM2d1Y0xfR3BPZVdtazczcVdnLXNRUzN0SWJhR2phZ05FcXRvbFRGWHlqQ1poNDJZSXNwX0FVRDVpTS1MQWdXQ1EzbHhJVVNwVEdUZ0p5Q1ZRbGNPek9maEhPYkZwa2xqc0VFc3pQMV8yR1lRZFhteEVtc01fRktDYmRRRjlWYlBEamZMQlhDaWN6S3NYWWZXWWp3QW1hZGw5WGVjVFhvSzA5OVZXcVVxcThJRWFvcFFZTFE3RjZ4a0xIenM3bjVTT0VHcHRHZkUxNU03RVNMSVg4S2luMWpUcnNYZ2h6aDdRVWRsUDlfc1hibGhGNEVhODYxdWQ2Uy1zalBKNm1XQmVJQmtKMmRXSVV5ZDVBTDhVcG5vNFAyb3dsMTZYY1kwU3ZpeUZBYnZVQ3NEUk1kc2pSMVM2azA?oc=5) — Google News: Las Vegas real estate · 13:00 PT · #business #realestate
+- [House speaker to rally with GOP congressional candidates in Las Vegas - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMiogNBVV95cUxQa05NakRFdXhVQ2o2VlZpSmliazhrMEV6akdiRmNmcENhSjd6VFVEbWlHbTdDU19BMktDVWJIQ1FON0daTThBdmJLeGhGcnVjMVRUY2F5WkJROU55LVgwdWh2TlpaNFowUTZuZzJkaXJOTk1yakhkSUM2M1JhUzlDWXFRa1MtSTZjdUtEdTc4V0RiajhZR2VHU0pPOG4zQ25aMDBidVZqOVJqTGltVEhycGFZSnBBNTRWbjc5QkdVWnlYMWtNcmNyUUpudkV1MGhHRXZvWm9zNjhmV2hiNFVyUml3LXpWam41ME9lNVRIWXFmMnlzZ3JpQVJjS3BoYUM0b1pCQWVEUFZ2ZGRwQzlkLVl5RHZnaEtwalRoRE5RTHdMWEVfN2ZwenpmQTJ2VTJ6MUVTMVE4bC0yR1ppNDZHeFJISG13M0F3REVPVFBnTU9rbmJHNmhmSzluakdKbUVCMUFLWG83ZlVOcjczdHZhYTRnaERPNkpVa1U0OXZJSkNLcmVyYlB6QVNkdUM4aHNfaUNOZnZ4eTRzcWJwSnoxTkhB?oc=5) — Google News: Las Vegas real estate · 12:41 PT · #business #civic #nevada #realestate
 - [A Private Island Minutes From Sydney Sweeney’s Florida Keys Mansion Offers Off-Grid Living and a Sandy Beach - Realtor.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVEpzTmRUSFp3eE1PNlRCVXlqdXh4b09jQklhNlpuQXZuQWc3bmF6aTV3RkZzYWxPekNJZlpack43TUNvZnowX0h1Yy1nbEpLZmRzdGtCdzZ0QTRmZ0p2RHZ1V0Y3b1ZxTkp6ek5FMVFsSTF4TkZseENHOTV1elVERjFValVNRWNPRXNMNDNEdTZrRTJqc2d2d3RKN2JwX0VNZnY3cHN0b1N2NTJLWURkWVhiVFdUZUxOTml2Wlp0Q0MxdHgzZWViNzR0SU9TNG1ZbmV5QldEZzlhTUt3eUNQQ1NfbXc?oc=5) — Google News: Las Vegas real estate · 12:14 PT · #business #realestate
 - [Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues](https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues) — Guardian World · 12:00 PT · #world #realestate
 - [Your Mortgage Payment Jumped Because of Escrow – Fix the Bills, Not Just the Shortage](https://www.moneycrashers.com/escrow-shortage-mortgage-payment/) — Money Crashers · 11:45 PT · #markets #realestate
+- [Who is Steve Kerr’s doppelganger? Las Vegas man goes viral again - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMijANBVV95cUxOTjA3SFQ0UngzdVBsYndpSGRLTUk0MldlS2Y1WUc2OEFyTGRJN0xRdEJGYnUzbmhuY0hqVTV5OERsYVhfZUt2Yno3YURVZzFodDRCX1hBZVM0ckFnSFZmZkpjR24teHozQUREUXhqbHhiVTFhOTZmcTJIMGJxNjZ0N2w5MUdpUmYyQWhZV3RxRThmTzRnTGxpUDFhdlNoN203VC1Qdktld2hueWpYbmxnamtNY25VVVJpWEg0dWF5cURIR3ItaUprLUFPMzl0RHREYVBMVnpUdjJUMXNtcllsLW4xeFVmU2ZZalFTT3RxY3QzbVYtazBMMG1yallYazhEalFUUEo0MGZKUmtnWEN5RlNXRUpWYm1CT3lzM2xYYkJ3YjdLb1BkbDJVejdSRWUxUk9YcWREWGp4bHRpSUxBTFlONHY3VU0yOV82V3V2Mnl6c01sVVlRZ1VZV09uNDRrdkJ1ZHpkdlhiMlp1TUdodERQUE9WMU1tSHVPWS1iWWhDOEplOUVNM1k2V1U?oc=5) — Google News: Las Vegas real estate · 11:26 PT · #business #nevada #realestate
+- [Lisa Vanderpump & controversial co-star reunite as she races to open Vegas hotel - www.the-sun.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDQyYl9ZQlJKaEZLVU1feW9BelVkaElFa2RYbWp3MldaZU9fVGdrT0lZT2xZd2s2MUZ6UHl0dzA1V3BJaGt5TlVjNmhzSXBQV1JnelJRZUd2eHZjQlU0MlhiUGhJSEJTR0pTWDkydF9jRUcxTXhhSUxyMWoxa1RzRzN5YkJ1WHY5cWFoa29iTXJwTjdCR2c?oc=5) — Google News: Las Vegas real estate · 10:57 PT · #business #realestate
 - [Real estate stocks surge as rate hike odds decrease](https://seekingalpha.com/news/4653963-real-estate-stocks-surge-as-rate-hike-odds-decrease?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 09:00 PT · #markets #fed #realestate
 - [Meet the home buyers totally unfazed by 7% mortgage rates](https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories) — MarketWatch Top Stories · 06:00 PT · #markets #realestate
 - [Online forum controlled by Nevada GOP House candidate contains slurs and Nazi talk, AP review finds - News-Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdklBWi1leldKTjUyYVZwSkJPWFNOUHBMRXZzTF9EWWRPT3hvRzZKc01YRllTdHlCMmxLUFdDZWZNMGp0WGZsTU56NFRfRkE0VnBnOER2cXBSc09xMTNPRE9TTW03dS1wcEJNa1cxbTctTU80NjZpSGVHd1cwdXRiekc1aXVndmxDZ3otVTJpWWtxV09Jd3pSX3JiY3ExVUQ0XzRqOEFyMA?oc=5) — Google News: Las Vegas real estate · 05:48 PT · #business #nevada #realestate
@@ -82,6 +90,7 @@ tags: ["project", "realestate"]
 - [Mortgage Rates Today, Friday, October 16: A Little Higher](https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-friday-october-16-2026) — NerdWallet · 07:15 PT · #markets #realestate
 - [Candidates pitch housing affordability fixes as a midterm gambit](https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/) — HousingWire · 07:13 PT · #business #realestate
 - [California's Central Valley Dominates Industrial Boomtown Ranking - Kingsbarn Realty Capital](https://news.google.com/rss/articles/CBMibkFVX3lxTE81akFlUnhKVnREQU9kRFQ5OHdSMW54WXlFa0t3Y2tzYUJSS1lRQXU0cVFKUzVJMjhlcktpcUJqM3RlSkt1YnN1NkZsc0hpWmVSM2ZHQk0tbFlPM2sxaGVsSmc1NzZnSUY1VVZaT0dR?oc=5) — Google News: Las Vegas real estate · 07:01 PT · #business #realestate
+- [Boxing legend George Foreman's Huffman estate in Texas up for grabs for $6 million - The Economic Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ1hLVmdpaGJTdlVqSWdIUXotUk5ockV2dXVVNmd6VFFjaERBVmdnOHVjdFB2ZUlaNG04SEgwUF9vbnUyQmZVRXFwSXFqRkR5bEtqRVZfZ2FMOXg4azd5N3RicjBibC1OQlpXak5lT0NuZjlDdmZLS3FvWTgtS3QtOThJelJhVWdEb3VwWlJ4TGktUUpxNnVKV2wwTFV5REVEMTVnUVRXT00zazlEdU0zaVI1SXJsS2ZzZWIzWlJWYTcwV3dPWk9KZDhaVjdaTXRVSmhBOEI1TGlvdlJNc2hWdjBoeGo2cFnSAewBQVVfeXFMTk1mQzBpNzNkN0trSnZnNzdUY1I1WVNZT2hUalh1cTFid1lkVGtSMHFDSGFRN3FsdWMwWnBVaGxyLW1mRUdVLV95Mk9xSnV0QU9ReFk1RDhFODc0SktpQXEtcUhkb01VNmFQUXA3dnhOZno1SmJ0cmpnazlDdEotVzYyQ0VvcjY1dy12ME15LXl5cktva2hhWWVhVTJWM3RZZ2NCYXJ0TlZzNUVZcVJIQW5sejNINWR0cDBsN0FQQUliVVA0bXM0MDRyeGpheXh1WTB4ZkRhajFUcEdjd0Jid0pNRFpXYThXLUwzXzk?oc=5) — Google News: Las Vegas real estate · 06:45 PT · #business #realestate
 - [AI voice agents target real estate’s next conversion opportunity](https://www.housingwire.com/articles/ai-voice-real-estate-leads/) — HousingWire · 06:00 PT · #business #ai #realestate
 - [Krista Kolijn's Lord Diamond Sold to Switzerland - | Eurodressage](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTBZS2k0TTVXeExXczNldFBnUUluekRrQVpUa2JxdFBRT3h5VERWTExTMC05Z2NJSndGc0xsUllMZXZLWG9nb2ZuNHF4RklGY2JZcjVLdV8xR2FjV05CdnhBUVNvenlmQVA1c1VOUGE3dnJOcGQ1eEMwenU3Nkt6RTY0TXluNnBZdzRMbg?oc=5) — Google News: Las Vegas real estate · 05:03 PT · #business #realestate
 - [Homesage.ai launches Sage, an AI real estate investment analyst - Kitsap Sun](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWlQYkhZT1pwUWF1bUJUYmNUUkVpZkVWdmJiNkpsLU90Z2JZR2o3VkgxMnlkbXpEWWVsUkNMRTBpYlQyWWVaUHg2bGppT1hWUnVZb3I5MjZiRlhVdV9BVHFabEFBY0dYSnBSVF9oZkZnTWdPUHBUTG16bFl4VFVjT0J5Vm8yc19YSEJKcVRaYmt5RHZ5UkxlX25SMWtxMlo0MENqNmZrdmE3c0wxbHg4cEtJb0tvc3c?oc=5) — Google News: Las Vegas real estate · 04:33 PT · #business #ai #realestate
@@ -423,22 +432,3 @@ tags: ["project", "realestate"]
 ## 2026-10-10
 
 - [The Underappreciated Benefits of Leaving Fallen Leaves Alone](https://www.nytimes.com/2026/10/10/science/fallen-leaves.html) — NYT > Science · 07:20 PT · #science #realestate
-
-## 2026-10-09
-
-- [Trump Announces White House Inquiry Into Fed Governor Lisa Cook](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html) — NYT Business · 15:24 PT · #business #realestate
-- [Trump establishes committee to investigate Fed governor Lisa Cook](https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor) — Guardian Business · 11:05 PT · #business #civic #fed #realestate
-- [Highest Mortgage Rates in 3 Years Chills the Housing Market](https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html) — NYT Business · 07:08 PT · #business #realestate
-- [Mortgage Rates Today, Friday, October 9: Easing Down](https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-friday-october-9-2026) — NerdWallet · 06:16 PT · #markets #fed #foreign #realestate
-
-## 2026-10-08
-
-- [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) — CNBC Finance · 02:27 PT · #markets #foreign #realestate
-
-## 2026-10-07
-
-- [Rate Shopping Counts as One Credit Inquiry – If You Finish Within 14 Days](https://www.moneycrashers.com/inquiries-time-on-credit-report/) — Money Crashers · 06:47 PT · #markets #realestate
-
-## 2026-10-06
-
-- [Mortgage Lending: Newly Enacted Restrictions May Help Curb Unwanted Solicitations While Preserving Comparison Shopping](https://www.gao.gov/products/gao-27-108874) — GAO Reports · 04:29 PT · #politics #civic #realestate
