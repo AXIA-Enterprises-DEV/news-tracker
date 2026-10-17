@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-17T08:29:17-07:00
+updated: 2026-10-17T10:55:14-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,10 @@ tags: ["category", "science"]
 
 ## 2026-10-17
 
+- [What an ancient volcanic eruption teaches us about resilience today](https://phys.org/news/2026-10-ancient-volcanic-eruption-resilience-today.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
+- [WhatsApp like a pro with these 7 expert tricks and hidden features](https://www.popsci.com/diy/how-to-get-more-out-of-whatsapp-change-how-you-message-tech-tips/) — Popular Science · 10:00 PT · #science
+- [Hand-cranked device tells blood type and red cell levels in 1 minute](https://phys.org/news/2026-10-cranked-device-blood-red-cell.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
+- [Salt crystals could hold clues to life beneath Enceladus's ice](https://phys.org/news/2026-10-salt-crystals-clues-life-beneath.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
 - [Australian scavengers don't just eat everything and slink away. They approach a carcass like a buffet](https://phys.org/news/2026-10-australian-scavengers-dont-approach-carcass.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
 - [A Reporter Who Saw Covid Coming Has Died](https://www.nytimes.com/2026/10/17/health/helen-branswell-dead.html) — NYT > Science · 07:49 PT · #science #media
 - [The ambiguous costs of climate change](https://phys.org/news/2026-10-ambiguous-climate.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
@@ -419,7 +423,3 @@ tags: ["category", "science"]
 - [APOD: 2026 October 14 – Mars and the Beehive Under an Aurora](https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/) — NASA · 21:05 PT · #science
 - [Hurricane Simon Lurks Off the Mexican Coast](https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/) — NASA · 21:01 PT · #science
 - [Wild bobwhite quail spotted after habitat restoration project](https://phys.org/news/2026-10-wild-bobwhite-quail-habitat.html) — Phys.org - latest science and technology news stories · 20:20 PT · #science
-- [AI can act exactly like a human, but we still don't think it's conscious](https://www.sciencedaily.com/releases/2026/10/261012185017.htm) — Latest Science News -- ScienceDaily · 18:41 PT · #science #ai
-- [Black women in food industries face systemic roadblocks](https://phys.org/news/2026-10-black-women-food-industries-roadblocks.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
-- [A planet 320 light-years away confirms what scientists long suspected](https://www.sciencedaily.com/releases/2026/10/261012185015.htm) — Latest Science News -- ScienceDaily · 17:24 PT · #science
-- [Simple cleaning steps could curb deadly fungal disease risks for Australia's wild reptiles](https://phys.org/news/2026-10-simple-curb-deadly-fungal-disease.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science

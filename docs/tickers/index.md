@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-17T08:29:17-07:00
-count: 240
+updated: 2026-10-17T10:55:14-07:00
+count: 241
 tags: ["tickers"]
 ---
 
@@ -16,6 +16,7 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$DOCS](DOCS.md) — 2 items
 - [$TBLA](TBLA.md) — 2 items
 - [$YSS](YSS.md) — 2 items
 - [$JKS](JKS.md) — 2 items
@@ -33,6 +34,7 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$AI](AI.md) — 1 items
 - [$INV](INV.md) — 1 items
 - [$DAVA](DAVA.md) — 1 items
 - [$FCEL](FCEL.md) — 1 items
@@ -122,7 +124,6 @@ tags: ["tickers"]
 - [$SPT](SPT.md) — 1 items
 - [$CHCT](CHCT.md) — 1 items
 - [$PFSF](PFSF.md) — 1 items
-- [$DOCS](DOCS.md) — 1 items
 - [$AWK](AWK.md) — 1 items
 - [$FRST](FRST.md) — 1 items
 - [$POLY](POLY.md) — 1 items

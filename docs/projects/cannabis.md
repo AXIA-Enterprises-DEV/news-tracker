@@ -1,17 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-17T08:29:17-07:00
-count: 85
+updated: 2026-10-17T10:55:14-07:00
+count: 87
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-85 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+87 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-17
 
 - [Psychedelic Church’s Secret Agreement With DEA And Approval From Iowa Officials Allows Import And Manufacturing Of Ayahuasca](https://www.marijuanamoment.net/psychedelic-churchs-secret-agreement-with-dea-and-approval-from-iowa-officials-allows-import-and-manufacturing-of-ayahuasca/) — Marijuana Moment · 06:35 PT · #business #cannabis
+- [Election 2026 Nevada Data Centers - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVlfSXZ4aHpnMEdjTWYxaXZ3TTJ2ZVhvNGlpbklvdnlDRG9YWmlBb0I5cXhFTjdVN2RBSk5mYVY0Q1g3NGdQM242MlRMUnNidmlNRTlMRF8tZC1yUkFNNGN3VkFFWFpsV0g0Nm9wN3BJMmpYQlI2bktnWkJaeDVTdXFha3RfeGdKSjJfRVE0RmdVcXBOaFhtMXRkdXp4T0NGWEg3WElabHVpb0ZSUkNKQ2NucEE1b2dxM2RJMlg4SUh0ekE?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 02:43 PT · #business #cannabis #civic #nevada
 
 ## 2026-10-16
 
@@ -21,6 +22,7 @@ tags: ["project", "cannabis"]
 - [Kentucky Now Has Medical Marijuana Dispensaries Open In Every Region Of The State, Governor Announces](https://www.marijuanamoment.net/kentucky-now-has-medical-marijuana-dispensaries-open-in-every-region-of-the-state-governor-announces/) — Marijuana Moment · 07:54 PT · #business #cannabis
 - [Guava Strain Guide Disambiguates Phenotypes and Breeders - Digital Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUx0NEVnVE11UUYtcDJPWXVQeGVieHo3R2xMYmNEVHdCY3pNb2dNSGVPWldaWU5TTVpwc01oY25jOTZYZUhXTEl1REcyN3QzenUtcFJhZmNQb3ZmNVBiODFBRHFNX241bFotSHlIWW5rd0R6bXFCN3dYOVB6QVpidTR2VzZ5VUVjeUdTYkJEeEJuZmZYNmFZX0c2VE13N2JZdDJwYTFoMjBGNHh0LTJ3NGd5enI?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 06:47 PT · #business #cannabis
 - [North Carolinians Support Legalizing Marijuana, Including Majorities Of Republicans And Democrats, Poll Shows](https://www.marijuanamoment.net/north-carolinians-support-legalizing-marijuana-including-majorities-of-republicans-and-democrats-poll-shows/) — Marijuana Moment · 06:20 PT · #business #cannabis
+- [Guava Strain Guide Disambiguates Phenotypes and Breeders - Big News Network.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzYzNzh3WW5ud1ZLdGZ2VER5VUMwMmNHWWpENFVydGRIUDlPM1M0TUZNemt0Q2RGbmZ0ZF80YmhFMEJPZ2tUWTBtQ28wbm95UENtQ2s2akhXNnNNM0tmOUZPMF9HT1EzTGRlLXhIOXBIVzROdHhCbWdzc2E5d3p3bEJDWDFSV2ktTFp3SWk4c01OZEdnbVJLQjVtck5DTmExYUlxbA?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:03 PT · #business #cannabis
 - [Guava Strain Guide Disambiguates Phenotypes and Breeders - GazetteXtra](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWJJQ3Y5SHRpMHR2LUwwajR2M0NLRXdVUzNVUkM1X2NoMlg1Q1kxRFA5TS1zWXZTVUtnNXB6ekZtWWswU0ZOOFRWTUFCSGVsVWRrODNvWkk1c01uRHVxaGNmeFpxa1FCbEVsQXlDS21SSUpvR1FWVTRiNVUyV0NoSnZ4NUF5NENuX1FCREtuQ0VEWUxkSmZIVVpoRHFWRnZLZ1EtRmtIcnl3SnZ3TUNCTzdWYkVSQm9wUjlwN3hoVXdHSXFrcGtLbHI3QXJIdm42YUdGVVFuR2YtQTNpZnJJOG4tdnVMZw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 05:02 PT · #business #cannabis
 - [Dozens Of Massachusetts Lawmakers Urge Voters To Keep Marijuana Sales Legal By Rejecting Measure On November Ballot](https://www.marijuanamoment.net/dozens-of-massachusetts-lawmakers-urge-voters-to-keep-marijuana-sales-legal-by-rejecting-measure-on-november-ballot/) — Marijuana Moment · 04:45 PT · #business #cannabis #civic
 - [Beyond 280E relief: The hidden tax audit risks of marijuana rescheduling](https://mjbizdaily.com/news/beyond-280e-relief-the-hidden-tax-audit-risks-of-marijuana-rescheduling/618669/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz

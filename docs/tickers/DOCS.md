@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $DOCS"
-updated: 2026-10-17T08:29:17-07:00
-count: 1
+updated: 2026-10-17T10:55:14-07:00
+count: 2
 tags: ["ticker", "DOCS"]
 ---
 
 # Ticker: $DOCS
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-17
+
+- [DOCS Investors Have Opportunity to Lead Doximity, Inc. Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/docs-investors-have-opportunity-to-lead-doximity-inc-securities-fraud-lawsuit-302911554.html) — PR Newswire M&A · 09:37 PT · #business $DOCS
 
 ## 2026-10-14
 
