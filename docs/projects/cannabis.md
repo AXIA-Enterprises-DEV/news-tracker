@@ -1,13 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-17T05:07:50-07:00
-count: 84
+updated: 2026-10-17T08:29:17-07:00
+count: 85
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-84 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+85 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-17
+
+- [Psychedelic Church’s Secret Agreement With DEA And Approval From Iowa Officials Allows Import And Manufacturing Of Ayahuasca](https://www.marijuanamoment.net/psychedelic-churchs-secret-agreement-with-dea-and-approval-from-iowa-officials-allows-import-and-manufacturing-of-ayahuasca/) — Marijuana Moment · 06:35 PT · #business #cannabis
 
 ## 2026-10-16
 

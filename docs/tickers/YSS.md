@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $YSS"
-updated: 2026-10-17T05:07:50-07:00
-count: 1
+updated: 2026-10-17T08:29:17-07:00
+count: 2
 tags: ["ticker", "YSS"]
 ---
 
 # Ticker: $YSS
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-17
+
+- [YSS SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds York Space Systems (NYSE: YSS) Investors of Securities Class Action Lawsuit Deadline on October 30, 2026](https://www.prnewswire.com/news-releases/yss-shareholder-action-reminder-faruqi--faruqi-llp-reminds-york-space-systems-nyse-yss-investors-of-securities-class-action-lawsuit-deadline-on-october-30-2026-302911411.html) — PR Newswire M&A · 05:07 PT · #business #markets $YSS
 
 ## 2026-10-15
 

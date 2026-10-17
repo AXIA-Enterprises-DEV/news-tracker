@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-17T05:07:50-07:00
+updated: 2026-10-17T08:29:17-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,10 @@ tags: ["category", "us"]
 
 ## 2026-10-17
 
+- [Sullivan walks the line in Alaska](https://www.politico.com/newsletters/playbook/2026/10/17/sullivan-walks-the-line-in-alaska-01125232) — Playbook · 07:47 PT · #us
+- [Ex-Las Vegas TV reporter says wrongfully convicted woman gave money to her son](https://www.reviewjournal.com/crime/courts/ex-las-vegas-tv-reporter-says-wrongfully-convicted-woman-gave-money-to-her-son-3901449/) — Las Vegas Review-Journal · 07:00 PT · #us #media #nevada
+- [Raiders vs. Bills preview: How they match up, injuries, bold predictions](https://www.reviewjournal.com/sports/raiders/raiders-vs-bills-preview-how-they-match-up-injuries-bold-predictions-3901444/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [How a Raiders newcomer from Buffalo sees path toward building a contender](https://www.reviewjournal.com/sports/raiders/how-a-raiders-newcomer-from-buffalo-sees-path-toward-building-a-contender-3901431/) — Las Vegas Review-Journal · 06:00 PT · #us #markets #nevada
 - [Our top takeaways from Nevada's new campaign finance reports](https://thenevadaindependent.com/article/our-top-takeaways-from-nevadas-new-campaign-finance-reports/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
 - [Banana Ball returns to Las Vegas for three games in March](https://lasvegassun.com/news/2026/oct/17/banana-ball-returns-to-las-vegas-for-three-games-i/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Reversing the decision to livestream an execution doesn't erase Trump's politics of cruelty](https://lasvegassun.com/news/2026/oct/17/reversing-the-decision-to-livestream-an-execution/) — Las Vegas Sun · 02:00 PT · #us #nevada
@@ -419,7 +423,3 @@ tags: ["category", "us"]
 - [College football by the odds: Vegas picks and preview of every Week 7 game](https://lasvegassun.com/blogs/talking-points/2026/oct/13/college-football-odds-vegas-picks-spread-jeremiah/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Vegas Inc celebrates 2026 Women Inspiring Nevada honorees at AREA15](https://vegasinc.lasvegassun.com/business/2026/oct/13/vegas-inc-celebrates-2026-women-inspiring-nevada-h/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Pacific hurricane region sets record for big, long-lasting storms thanks to El Niño](https://lasvegassun.com/news/2026/oct/13/pacific-hurricane-region-sets-record-for-big-long/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Community briefs: North Las Vegas to dedicate new fire training center](https://lasvegassun.com/news/2026/oct/13/community-events-more-than-400-ccsd-students-will/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Ford pledges consistent education funding and questions Lombardo's budget record](https://lasvegassun.com/news/2026/oct/13/ford-pledges-consistent-education-funding-and-ques/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [What to know about casting and tracking your mail ballot in Clark County](https://lasvegassun.com/news/2026/oct/13/what-to-know-about-casting-and-tracking-your-mail/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
-- [Who are we as a nation?](https://lasvegassun.com/news/2026/oct/13/who-are-we-as-a-nation/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada

@@ -1,16 +1,21 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-17T05:07:50-07:00
-count: 324
+updated: 2026-10-17T08:29:17-07:00
+count: 329
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-324 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+329 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-17
 
+- [Real Madrid intensify pressure on Javier Tebas as international media react to Nazi propaganda comparison - Yahoo Sports](https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1JfOElDRmc0N01Cb2IzREZ1NEhpcHN1eUxYSjNDdC1Jdzk5RVUtNGdGeEFTcDVfVklEM3BZcTF3RjNibkdnWmZITGtIeHBpaDZ3aUZ4Q2trZHJjek01Z0tPQ2RsYkRtOU5kU0JJYllCdVJxcnNMMDJIZTJRM0lSQ2t3a3pvZThicTFGQk5xVQ?oc=5) — Google News: propaganda OR disinformation media · 08:19 PT · #world #media
+- [A Reporter Who Saw Covid Coming Has Died](https://www.nytimes.com/2026/10/17/health/helen-branswell-dead.html) — NYT > Science · 07:49 PT · #science #media
+- [Weifang: A National Historical and Cultural City Where Diverse Cultures Blend and Flourish](https://www.prnewswire.com/news-releases/weifang-a-national-historical-and-cultural-city-where-diverse-cultures-blend-and-flourish-302911819.html) — PR Newswire M&A · 07:28 PT · #business #foreign #media
+- [Ex-Las Vegas TV reporter says wrongfully convicted woman gave money to her son](https://www.reviewjournal.com/crime/courts/ex-las-vegas-tv-reporter-says-wrongfully-convicted-woman-gave-money-to-her-son-3901449/) — Las Vegas Review-Journal · 07:00 PT · #us #media #nevada
+- [‘You Can See Everything’ Sparks Elizabeth Holmes Craze: ‘The Dropout’ Series, ‘Bad Blood’ Book Surge](https://www.forbes.com/sites/conormurray/2026/10/17/you-can-see-everything-sparks-elizabeth-holmes-craze-the-dropout-series-bad-blood-book-surge/) — Forbes - Business · 07:00 PT · #business #media
 - [Mourinho Responds to Tebas’ Nazi Propaganda Comparison: ‘There Are Limits’ - Morocco World News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWltVnNVZGRNTUtnMnAxN2lSOWUyRlVzeG92SFEtVHdQOEVhMVVzZzd4RDhOWTRiYmRYV0R2YUtXdnVsWDRQbzlBT3huZGpiUTk4NVNIZldYRWRjUmwxTFpGc192Ym8waGhFOVJOTGo5a1VVU1FiTzVaTzBLaGlOc2x4bkpMOVhIZXdQY1owb1pzNlprWVRuTTZuV0FZMW12OWoySjdOamI3bmFYcWh4T1VWVzBPc25mNDkw?oc=5) — Google News: propaganda OR disinformation media · 04:37 PT · #world #media
 - [Real Madrid demand Javier Tebas resignation over Nazi propaganda comparison - Geo Super](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1pFTzBQMkhTTkY5ei1LOUNHb0hzQ0U0d3Y2em9XdGs2ei00TE9JV0RvYnh5TDhDMnNzX0xqcjNndDlLMFViSW1wQTZkTjMyUWhTSnExOTg5RmJINEMwbmdjV1VtUU9UVGVXSGRVd1lzYlh0ckJyQmVxOHYyUjhPZE5XQVJTYzFRUkRYd19tYVJxSXN2cEhFdkdkU2hRM1FMa0MzWmMtemPSAaQBQVVfeXFMUHNJWXVJdTRneUN5UHZwWTNteWVhLWY2V2w4NGQxUW10RWt3UzZlZmcxMXRjWlFnU1lTd3JkSml3NnNELW14clpOcEZBTXdiRngyeGppelBNY0FrbXVERXU4OGlIVXI0LUpnTmtyR2p2WFFDYWstQkp2ZmpxdHR6dG9DR0dmZnVwclU5WW9xYzR4TExKcXVnVGpSb3MwSVVaUk5NRGs?oc=5) — Google News: propaganda OR disinformation media · 02:07 PT · #world #media
 - [Real Madrid demand La Liga chief Javier Tebas quits after Nazi comparison - The Mirror](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWI5UDVTYldWNVRvY2d5ZG1JRUZsTXh2NGp6SHRFcGV3MGNmaUlYN1Vydk5RbmxIWkQ4RGRJWkE2dWtONE9KRkRkSmc5czRHTENCazV6bGx5T24yRmlYQmdIajFkakJHUmtfQUZMNUFiLWV1NG5wNVBHRnlsQm5rVUg2M294Wnl1UERNSU1NWGJ0Z9IBkgFBVV95cUxPdWI5UDVTYldWNVRvY2d5ZG1JRUZsTXh2NGp6SHRFcGV3MGNmaUlYN1Vydk5RbmxIWkQ4RGRJWkE2dWtONE9KRkRkSmc5czRHTENCazV6bGx5T24yRmlYQmdIajFkakJHUmtfQUZMNUFiLWV1NG5wNVBHRnlsQm5rVUg2M294Wnl1UERNSU1NWGJ0Zw?oc=5) — Google News: propaganda OR disinformation media · 01:32 PT · #world #media

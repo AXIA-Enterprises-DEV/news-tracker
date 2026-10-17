@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $TBLA"
-updated: 2026-10-17T05:07:50-07:00
-count: 1
+updated: 2026-10-17T08:29:17-07:00
+count: 2
 tags: ["ticker", "TBLA"]
 ---
 
 # Ticker: $TBLA
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-17
+
+- [TBLA SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Taboola.com (NASDAQ: TBLA) Investors of Securities Class Action Lawsuit Deadline on October 20, 2026](https://www.prnewswire.com/news-releases/tbla-shareholder-action-reminder-faruqi--faruqi-llp-reminds-taboolacom-nasdaq-tbla-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026-302911416.html) — PR Newswire M&A · 05:10 PT · #business #markets $TBLA
 
 ## 2026-10-13
 

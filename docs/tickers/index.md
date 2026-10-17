@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-17T05:07:50-07:00
-count: 238
+updated: 2026-10-17T08:29:17-07:00
+count: 240
 tags: ["tickers"]
 ---
 
@@ -16,6 +16,8 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$TBLA](TBLA.md) — 2 items
+- [$YSS](YSS.md) — 2 items
 - [$JKS](JKS.md) — 2 items
 - [$GPUS](GPUS.md) — 2 items
 - [$IOT](IOT.md) — 2 items
@@ -31,6 +33,8 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$INV](INV.md) — 1 items
+- [$DAVA](DAVA.md) — 1 items
 - [$FCEL](FCEL.md) — 1 items
 - [$BLDP](BLDP.md) — 1 items
 - [$ATNM](ATNM.md) — 1 items
@@ -64,7 +68,6 @@ tags: ["tickers"]
 - [$GDDY](GDDY.md) — 1 items
 - [$ORV](ORV.md) — 1 items
 - [$ORVMF](ORVMF.md) — 1 items
-- [$YSS](YSS.md) — 1 items
 - [$QDEL](QDEL.md) — 1 items
 - [$TZOO](TZOO.md) — 1 items
 - [$HONA](HONA.md) — 1 items
@@ -193,7 +196,6 @@ tags: ["tickers"]
 - [$AZZ](AZZ.md) — 1 items
 - [$BKD](BKD.md) — 1 items
 - [$NET](NET.md) — 1 items
-- [$TBLA](TBLA.md) — 1 items
 - [$MTUS](MTUS.md) — 1 items
 - [$YFOR](YFOR.md) — 1 items
 - [$ANDE](ANDE.md) — 1 items
