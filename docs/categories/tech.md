@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-16T20:29:32-07:00
+updated: 2026-10-17T01:00:41-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -9,12 +9,24 @@ tags: ["category", "tech"]
 
 400 most recent items (14-day window).
 
+## 2026-10-17
+
+- [Get in the bin! UK Space Agency wants public to name its debris removal mission](https://www.theregister.com/science/2026/10/17/get-in-the-bin-uk-space-agency-wants-public-to-name-its-debris-removal-mission/5303555) — www.theregister.com - Articles · 00:29 PT · #tech
+
 ## 2026-10-16
 
+- [Kalshi Keeps New Jersey Sports Contracts Under Court Protection](https://readwrite.com/kalshi-new-jersey-sports-contracts/) — ReadWrite · 23:11 PT · #tech #civic
+- [HP's OmniBook Ultra 16 delivers fast local AI at a steep price - news.lavx.hu](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjBQc0N0ZmxsZ3V0LWZyR3JxYTJJZ2NvcTRmZ1B3TEhxdGRmMDJRdHA1NmZCYl8yb1J0cWJ6MFROTnl4b3pabTJSRTQ5bzVpY01rcF9ucEtQU192VV9NNGprV0Z4Q2RTTUFXVmVwV2J6UkhnSGliS2JtQWhYSzBJUmJOUzE0WUlHU1ZSQXVjVmRnNzFUa3c?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 22:21 PT · #tech #ai
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) — Hacker News · 21:36 PT · #tech #ai
+- [NVIDIA RTX Spark review: what the ProArt tests show - NeoTeo](https://news.google.com/rss/articles/CBMiggFBVV95cUxNajJaSzhEazFmMlZDck5SNzAzcmxnUHEwR2dIZmZSQktUcmJQTmRNZ3N4ZE1LOVpYT09sTUpScFJ2X0dGNTZzTTlDT0tQT0tfTDhaWUVEMTBmUjZPQ2NfTzRBZlhIdkZ6by1HcjlJSUp1TnRtaWZlRTB4UEUxVnJjY0Nn?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 21:00 PT · #tech #ai
+- [Salience](https://www.producthunt.com/products/salience) — Product Hunt — The best new products, every day · 20:46 PT · #tech
 - [Apple Runs Meta’s Muse Spark Open Across: Explained - JournalArta](https://news.google.com/rss/articles/CBMifEFVX3lxTE51UU5qbXBCRlV2R1l0VjNPdXB2QVZLa2NrQ0VQUGppNXZGZWRqdkFtM2E5Ql9zbkNYY1I0UkxMN01pWWVGM3g5TFFrWUJURGtBMlVXOUVzUW5kQWZyMktaeUJzMUlXMUh1Wl8zRG9jaHQ5TFlYRXNGMjdfeUg?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 19:56 PT · #tech #ai
 - [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/) — TechCrunch · 19:36 PT · #tech #smallbiz
+- [Creating a Personal Performance Review Sample: A Guide](https://smallbiztrends.com/personal-performance-review-sample/) — Small Business Trends · 19:31 PT · #tech
 - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) — Hacker News · 19:21 PT · #tech
+- [The NEW Tesla Roadster: My Honest Reaction](https://www.youtube.com/watch?v=scwlR0QHGOk) — Marques Brownlee · 19:09 PT · #tech
 - [The Tesla Roadster should go into production in 2028, but don't get your hopes up](https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/) — Engadget - Technology News & Expert Reviews · 18:50 PT · #tech
+- [GPU Terminal by Context.dev](https://www.producthunt.com/products/context-dev) — Product Hunt — The best new products, every day · 18:32 PT · #tech #ai
 - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/) — Hacker News · 18:01 PT · #tech
 - [Vitalik Buterin integrates zkAPI and Tor for anonymous Ethereum AI agent payments - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JdmNIUXdEQ3J6VGJJQnp4YS1MeXlfOXh4ZC1NUVBuVmpoQlp5aXc4R3RudU91VEFwbEpUbmJQZFV4S3YtSV9SNUpzdzN1Wl9zc0R5SXdRZUZCLXRNRFhjeGk5TdIBY0FVX3lxTE1JdmNIUXdEQ3J6VGJJQnp4YS1MeXlfOXh4ZC1NUVBuVmpoQlp5aXc4R3RudU91VEFwbEpUbmJQZFV4S3YtSV9SNUpzdzN1Wl9zc0R5SXdRZUZCLXRNRFhjeGk5TQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 18:01 PT · #tech #ai
 - [7 Essential Tools for Managing Equipment and Assets](https://smallbiztrends.com/equipment-and-asset-management/) — Small Business Trends · 17:31 PT · #tech
@@ -102,6 +114,7 @@ tags: ["category", "tech"]
 - [Adding the Right Amount of Mischief Can Make Anything Go Viral—Here’s How](https://www.inc.com/bryan-elliott/mschf-gabe-whaley-viral-marketing-strategy-mischief/91418600) — Inc.com · 12:00 PT · #tech #smallbiz
 - [HomeKit Weekly: Get your Halloween and Christmas automations set up now](https://9to5mac.com/2026/10/16/homekit-weekly-get-your-halloween-and-christmas-automations-set-up-now/) — 9to5Mac · 12:00 PT · #tech #ai
 - [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) — OpenAI News · 12:00 PT · #tech #ai
+- [Kalshi’s Sports Contracts Face Nevada Licensing Challenge](https://readwrite.com/kalshi-sports-contracts-licensing/) — ReadWrite · 12:00 PT · #tech #nevada
 - [NVIDIA’s Tesla V100 Picks Up In Popularity And Price Thanks To AI Boom, PCIe & SXM2 Versions With 32GB VRAM Available To Purchase, But At A $200 Premium - Wccftech](https://news.google.com/rss/articles/CBMif0FVX3lxTE1mMVJtWjhqeHpDdkR2OWxBaGFsWVVENkthY3Z6aVgyTTV4WjRuVVFGbUdTMTliUVoteEt4UmswOEQtZGNwcVpseFdtRlRBYjQ1OWFNVnJoZl9GRUlFYkx2a0FRQlU2aXVRdTYyOU4xazVwTDNPb3dBYTdESkRhOUHSAYQBQVVfeXFMTTMtM0R1ZE5hMGZHX1dlNV9wNDlMQVpGNC0wM0YzMUJQX3M4eXdsajVmQW9RQ3kxNk5RLTZPSndLYmg2VTV5UXBHWjIwdlN2NFVVcm5ZTmFGWElpbC1JekJ5NTlzeHRfYmYxalNkeGNlMmQ2dk9xb3cxcFF3Umc2ZWk5R0Ex?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 11:56 PT · #tech #ai
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) — Hacker News 200+ · 11:55 PT · #tech
 - [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) — Hacker News · 11:54 PT · #tech
@@ -192,6 +205,7 @@ tags: ["category", "tech"]
 - [AI Helps Accounting Practices Boost Productivity Without Cutting Jobs](https://smallbiztrends.com/ai-helps-accounting-practices-boost-productivity-without-cutting-jobs/) — Small Business Trends · 08:11 PT · #tech #ai
 - [iPhone Duo launch is a massive success, but Apple has a problem](https://9to5mac.com/2026/10/16/iphone-duo-launch-is-a-massive-success-but-apple-has-a-problem/) — 9to5Mac · 08:10 PT · #tech #ai
 - [Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades](https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus) — The Verge · 08:08 PT · #tech
+- [Step 5 Preview](https://www.producthunt.com/products/step-3-5-flash) — Product Hunt — The best new products, every day · 08:06 PT · #tech
 - [A fake WhatsApp clone is showing up before the real version on the Play Store](https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android) — The Verge · 08:02 PT · #tech
 - [Best iPhone Duo cases now available for purchase: Fabric, leather, aramid fiber, metal, more](https://9to5mac.com/2026/10/16/best-iphone-duo-cases-now-available-purchase/) — 9to5Mac · 08:00 PT · #tech #ai
 - [Is Amazon Bee always listening? #Vergecast](https://www.youtube.com/shorts/dWmEKM4_lKQ) — The Verge · 08:00 PT · #tech
@@ -217,6 +231,7 @@ tags: ["category", "tech"]
 - [iPhone 18 Pro one month later: These features keep impressing me](https://9to5mac.com/2026/10/16/iphone-18-pro-one-month-later-these-features-keep-impressing-me/) — 9to5Mac · 07:23 PT · #tech #ai
 - [Polymarket saw $600 million in election trades after the elections were over](https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/) — Ars Technica · 07:19 PT · #tech #civic
 - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/) — Hacker News · 07:18 PT · #tech #ai
+- [Meta Unveils Muse Spark Open, Its Most Powerful Open-Weight AI Yet - TechRepublic](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHppaUR1bWQ3c0R0NEVnc2xMZDJ2cDFuallIdi1NMmZzODQ4c0VOQVNwS3h6c0Z0eTdEV3VDZ0VoZTdBRzNsTlVBVG5nVEdxNzBYZG15QUNjSGVGMU5mY3Z5cE9tSlJOdUZPTU9MVU9kYlZGREdXYTdPVVlCUnlZWEpJYXBSSkE?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 07:18 PT · #tech #ai
 - [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113) — Hacker News · 07:16 PT · #tech #ai
 - [CTM y Huawei se asocian para reforzar la seguridad de la red en la era de la IA](https://www.prnewswire.com/news-releases/ctm-y-huawei-se-asocian-para-reforzar-la-seguridad-de-la-red-en-la-era-de-la-ia-302911336.html) — PR Newswire Business Tech · 07:16 PT · #tech
 - [The incredible flying Tesla Roadster is just for show](https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk) — The Verge · 07:15 PT · #tech
@@ -354,6 +369,7 @@ tags: ["category", "tech"]
 - [Gas Prices Dip Slightly, Yet Remain Above $4 Amid Oil Market Volatility](https://smallbiztrends.com/gas-prices-dip-slightly-yet-remain-above-4-amid-oil-market-volatility/) — Small Business Trends · 01:09 PT · #tech #oil
 - [Llama - llama.cpp's local AI, no command line required - Korben](https://news.google.com/rss/articles/CBMid0FVX3lxTE9FR3VEdlZPT21QWlo1ZVg1cVNUdzM1dEVuelRaNTFuSWkxYzV4MWduOG84NHFHZDVYVTFOOWVpYzZwbDMxMEtJZmlSOS1nQnNDLThKbTZHZWhJSGRMU3ZfMHhkc0dOeVNsVEIyRk9MTU1JUVVneUFv?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:04 PT · #tech #ai
 - [Online Apple Store goes down ahead of iPhone Duo pre-orders](https://appleinsider.com/articles/26/10/16/online-apple-store-goes-down-ahead-of-iphone-duo-pre-orders?utm_source=rss) — AppleInsider · 01:03 PT · #tech #ai
+- [Emochi](https://www.producthunt.com/products/emochi-2) — Product Hunt — The best new products, every day · 00:43 PT · #tech
 - [User refused to change her password because everyone already knew it](https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864) — www.theregister.com - Articles · 00:28 PT · #tech
 - [TEAMGROUP T-CREATE EXPERT Ai CQDIMM DDR5 Delivers 256GB Capacity at 8,000 MT/s for Local AI - eTeknix](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWxGMlZvZXV1VFgwNm0xWFVJWmJpT3hOWmRPMFprUXNPVm9yYjRUb3QwTUpDdVFVVndmbkJnOUI5MW0weFFna2NMZnlTSThmUGp6Z3BYZkVHa1dBYmN2RFd3SktGWXFLcVEwS2lYZlVEZkFjMktUel9FZzU5dFhxa2VhM2hDSkRUWFJ1T25paExvVk85TmtELVJRRWh1X3VHcE1hU2NoVDNtRlhXdnV4emlZekdrQQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 00:27 PT · #tech #ai
 - [Meta launches Muse Spark Open model to run on Mac Studio: How it can benefit users - Business Today](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ3hUVHA4UnROdFFWeEZ2MGt1bGhfWWh5ak1SMDBOalNPRzlTeldWdVlsUXQ5UXJfa2p4ODdYUGM4X2FBU28tNFVMM29DT1BFZFd4dVdsT1VtWGdoTlRBZklDNDhmUnVaR2xvbU1CWHB1UWloOTVVMDMtcTBrbHFLc2xPeEtoTGxzcG1lMFIwbF9NWkFZUE85cUdVbktMTTVLM0c1Y3NUTUU2VVNySzNpQ1EtaEIzRGstM25jbno4U2h5NHF5OV9ublJWNWxIWHpqOUxpMDhUcHdIT2wyWjhvUVVtSmZMNmxZOEVsS2tFa0RZelhwT0J1SEJNQ0FlUdIBgwJBVV95cUxOaEstQW1TNDlnMFFsY0htb2MzaVVZdkdjVDdnYkRTdDBzT0JRakk3TEVUWDFIdUlQOU90Q0t0N0hja1F1UHA0RjZ2dkU3RXY3MTNOOXpuMkRpdm5rY0FhVE1qYnluc0FEbkxORUVJRVFJbmczNnZ3TVRUci1Ud2NKQ01BYnVabnpzTHpNQUZCUlM2Tk9nNWNBaHdXUG5rU2NUdEQwNExZOElURE9vUi1BdkZkc0pyM2dJRDNXSm5nRTY1ZTVvdy16Zk5hcUpTa2xvSVZ5aWd1YmZScEtqWTBZZE83YUFXOFlGbDdvWlJ4dHM2RkpQSjFnZFgwZUhRdGJhb29Z?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 00:15 PT · #tech #ai
@@ -383,6 +399,7 @@ tags: ["category", "tech"]
 - [How to manage your iPhone notifications on iOS 27](https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss) — AppleInsider · 20:00 PT · #tech #ai
 - [Tesla Roadster](https://www.producthunt.com/products/tesla-roadster) — Product Hunt — The best new products, every day · 19:49 PT · #tech
 - [Trade secret lawsuit on iPhone's anodization process now being appealed](https://appleinsider.com/articles/26/10/16/trade-secret-lawsuit-on-iphones-anodization-process-now-being-appealed?utm_source=rss) — AppleInsider · 19:45 PT · #tech #ai
+- [Meta has released 'Muse Spark Open,' an open-weight AI with 816 billion parameters, which runs on just two Mac Studios. - GIGAZINE](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nZ1NIeWJyUUlNaGk1T2F6ZDB3bW1NV195SVJUSUpFalVTMmtVZ1lVUkJmSTJHeklZX1h0aDJURmpabGdFTkV3cllHODZyVTBTTnZvam96MGN3Z2hnVm9pT2V2dG5tVW1ucTYzenFaYlo?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 19:35 PT · #tech #ai
 - [7 Essential Tips for Effective Employee Performance Review Feedback](https://smallbiztrends.com/employee-performance-review-feedback/) — Small Business Trends · 19:31 PT · #tech
 - [Relive Tesla's ridiculous(ly fun) Roadster stunt show](https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/) — Engadget - Technology News & Expert Reviews · 19:24 PT · #tech
 - [NVIDIA RTX Spark Ships Oct. 16, Eyes Apple’s 128GB Lead \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMie0FVX3lxTFBCZkVlOEtvNXFSNDZoajBmQm5vNzBNeUZZaVl2MG5pXzB3TGp6RDdfVnhKWUhUY1E4MnNjUjhrLXZhNVY0VHdMa0VzRVVrV2xOQy1Xb3d4T0ZFbkFtaXVWLTU1Tk9jcVBKanFQU2poaDl1TGZYOXlCYUlJOA?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 19:24 PT · #tech #ai
@@ -400,17 +417,3 @@ tags: ["category", "tech"]
 - [The Tesla Roadster flew, drove upside down, and hit 60mph in under a second](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk) — The Verge · 18:28 PT · #tech
 - [The Tesla Roadster 2 Is Here—and It Flies](https://www.wired.com/story/tesla-roadster-2-launch/) — WIRED · 18:22 PT · #tech
 - [Tesla Roadster does a “kickflip”](https://www.youtube.com/shorts/dqTzB6NbdCE) — The Verge · 18:21 PT · #tech
-- [Tesla reveals SpaceX-powered Roadster that flies and falls with style](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/) — TechCrunch · 18:17 PT · #tech
-- [Tesla announces the new Roadster](https://www.youtube.com/shorts/u0oM6hIg0bk) — The Verge · 18:14 PT · #tech
-- [‘Tenzing’ premieres on Apple TV, starring Tom Hiddleston and Willem Dafoe](https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/) — 9to5Mac · 18:00 PT · #tech #ai
-- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving) — Hacker News · 17:52 PT · #tech
-- [RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago](https://ipinfo.io/blog/rpki-protects-70-internet-routes) — Hacker News · 17:52 PT · #tech
-- [GBrain Tools](https://www.producthunt.com/products/gbrain) — Product Hunt — The best new products, every day · 17:51 PT · #tech #ai
-- [Apple lists unreleased iPad mini accessory ahead of rumored launch](https://9to5mac.com/2026/10/15/apple-lists-unreleased-ipad-mini-accessory-ahead-of-rumored-launch/) — 9to5Mac · 17:49 PT · #tech #ai
-- [What Is Physical Asset Management Software and Why Need It?](https://smallbiztrends.com/physical-asset-management-software/) — Small Business Trends · 17:31 PT · #tech
-- [ASUS 'UGen300' Series Enables Cloud-Independent Generative AI, Supporting LLM, VLM, and Speech Recognition - ASCII.jp](https://news.google.com/rss/articles/CBMiWEFVX3lxTE54WXF5c3l4UUlfQW9tek9lWWY1LTZzT29aVkZpUTgtNEVFQ3lHdm9BcGY5SkNPa1k2QWY2TWNma2hreE1nSjY5Ym1vLTdyNkFMWTU4Wi1SS28?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 17:30 PT · #tech #ai
-- [Oops, Apple's Website Just Hinted at iPad Mini 8](https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/) — MacRumors · 17:27 PT · #tech #ai
-- [Anthropic Grants METR Employee-Level Access to Assess AI Risks, Will Publish Results: 10 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzdMbS1BNzZ2c3JfYWRaSVdmUF9TdHdPVXlfTU9qUWVEaWM2OGNFV0E5TDlOaUt5S3JubGZGWmV3SVl5RjBsM1ZEbWxPV0VENFdoRGVWa0oyWFVnaEJTMTYyQVI3WUZXTTM1dlJzZ1g5anhqSDRBdGtRYnFEZFJzcHBuaUlhUUxldnNRQWJOLTdjT3NCTnpwWjROSXFCM3pfdVRvdVNGckU1TzdRM0tESWN5LTI1c3NXdE5XbElIX3ZHZmxERy1PUGdGTnA5YU5ncFoxSzZBc1BBcXoxWmY0MmlRZzI5S2loM2c?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 17:08 PT · #tech #ai
-- [Meta Releases Muse Spark Open With 816B Parameters for Local Mac Studio Execution: 21 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdEQ1NDFEOFR3b0R3RmhRckN4VW51aERsVUdCMFprYmJPTlBuajA1Zm1zdUF1ZTRqajRENEdVTEF4LWMyaU9Jd2VoeTVCN05Xb2dwVEZWUG5WWmRwWEhJZ3BLakJmdkY4Y0ZVWUpPTjhKME9lc1hXRkRab2lmUGdKQ0xtUy1NUlZaV2lBenV2RnVDaU5PNUR0OExpRUdlQVIxUFZUQ1VMVnJPb3JzbEtXdjVSODhFeTFJbmx1Tnh3Y042T3ZXem5UbTFWVk1IZG9pZ0hUT1VHU3VTZ1VJXzQxRUxralRFTHh0TXc?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 17:01 PT · #tech #ai
-- [Did AI Just Erase an Entire Swedish TV Show?](https://www.cnet.com/culture/entertainment/swedish-tv-challenge-ai-deletion/) — CNET · 17:00 PT · #tech #ai
-- [The Events Business Is Relentless. Susan Southerland Made Work-Life Balance Part of the Model.](https://www.inc.com/inc-video/the-events-business-is-relentless-susan-southerland-made-work-life-balance-part-of-the-model/91416163) — Inc.com · 17:00 PT · #tech #smallbiz

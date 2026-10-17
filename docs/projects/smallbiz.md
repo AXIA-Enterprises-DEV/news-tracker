@@ -1,6 +1,6 @@
 ---
 title: "Project: Entrepreneurship / Small Business"
-updated: 2026-10-16T20:29:32-07:00
+updated: 2026-10-17T01:00:41-07:00
 count: 400
 tags: ["project", "smallbiz"]
 ---
@@ -11,6 +11,9 @@ tags: ["project", "smallbiz"]
 
 ## 2026-10-16
 
+- [Border cafes warn surcharge ban will force price hikes and shop closures - The Border Mail](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGZsaExZT1hhY3VxcVktT0JkZ2xTRjhHdHctVnlPUEZCaVl4UWRfd0ZPY1lMVm9DRWFqandHNy1NTDVWSVE1cGVXVE16NXBKamFMMmVsNGIwMjVldXNBSGxFemtqX3dlY1BwSXc5OFhTajVzUk9NckRmcmxOYWFvTWlhTDJIaE9jc1c4MExlRVRnMUVNQzFwQnQ3b2JsQ2tYMWJZQzJxenVpVGVoRzBB?oc=5) — Google News: small business owners · 23:16 PT · #business #smallbiz
+- [Aussie small business owner reveals 'absolute nightmare' after Meta accounts suddenly banned - Yahoo Finance Australia](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0o5M0NhSHQ5bHVwR1dsNTROSWVsV3cwUHJlSmZ0OUVmdWpKVl8yc0trTV9kV0RocF9OZzg5TjJhSENYbmtrdjc0ejAzSU1SZVVvN2MyVnAxT0tSNzBjZFBBMjYxWFoyekVBbWNrVmw3bU04aGhPbUV3c0pNVEUyYjRpU1g2UUJ6UkNqS3NNQ0J3QXNzSlM0ME04YW96eUZCeDFQb1Z6aVhzRHJGc1U0Y1laSEIteFBMWTg0N3NkMHdNVkJWbVlReG1QWHFDdGVVNGh2eGF3?oc=5) — Google News: small business owners · 22:00 PT · #business #smallbiz
+- [War Eagle Fair is back, bringing big business to vendors - 5newsonline.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVZ6WFFpTmx4WnB6a2NOd3NqSy1wN2Y0MVVBanN3U0k2R1dsX1JjUlZMQnl1WXpIdU5oSjN1RmVOUll5TnhSUjg1aDhJbEVFTmdZeGdfMTFab0dMS1VmNjVrdlJ1a0g5cUtVRUJ4Ti1yRXdDczFNWDlwZzBpVjRadUR3Mjd0RFpiSERMOUcyNXdzckJWQWdrcXFRUmhwX3ozWmo0RXRrNU4wSU5zcjlYVGpZQ2NyMmtyX1ZMbDAtLWdWZlpRSkc1WDVCUE9IZWU2NW9CYXU0ejRiemoxeXVGNw?oc=5) — Google News: small business owners · 20:36 PT · #business #foreign #smallbiz
 - [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/) — TechCrunch · 19:36 PT · #tech #smallbiz
 - [Starting an AI Side Hustle is Easy — Steal This System](https://www.entrepreneur.com/business-news/tech/starting-an-ai-side-hustle-is-easy-steal-this-system) — Entrepreneur · 19:00 PT · #business #ai #smallbiz
 - [Some Mill Avenue business owners oppose Tempe sales tax - Your Valley](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3RaRmY0RTdOSzcwS0d1REJRLVEwUjZpZ2dacVRkZl8xVHJoS0dNLThjZXdadmpqV2pnM0VOTDBFTkxVaHZMZlppc2h0U2ZCYXJldDVOeXBzLTBTMUpnSGlHWGFMQW5QSXAtb1dyRlJiODVRVnFuY2c5bUZndHg5eS1NTVAwVVUzV0dCRUtHVWROZ3F2dXloMDRXV0Qta21uaVRYamctbktIeVNrdEhKNA?oc=5) — Google News: small business owners · 19:00 PT · #business #smallbiz
@@ -417,6 +420,3 @@ tags: ["project", "smallbiz"]
 
 - [New Small Business Commissioner Appointed 14 October - Mirage News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkxKLVlrT0tjbFowTXNjV0FvNDcyTmNPRDk4RmdpWGZjdlBvWXpoODdWR0toY0Vka2ZKcjRFSGsybndQeHN3OTEybTBJY3BPX2xOV3l2M3VSdnBzX004MndWRHlwUFlqc0g5Nk5jUU4zenl0WURac3owZ1Z0eDlKdGQ1NXZ1Nms?oc=5) — Google News: small business owners · 23:34 PT · #business #smallbiz
 - [Bank of Baroda shares drop 3% after NMC Healthcare founder BR Shetty files $15 bn lawsuit; lender issues clarification](https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-drop-3-after-nmc-healthcare-founder-br-shetty-files-15-bn-lawsuit-lender-issues-clarification/articleshow/134933740.cms) — Economic Times · 22:56 PT · #business #smallbiz
-- [COSBOA, Square Launch Small Business Report in Canberra - Mirage News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0ZhNEcweFZmWjN0aC1mSEZaSUpIajNpZjZHV2R0ekpBVFUtUE9jS1ZpekJtZXBGRklSR09ZU29JQ2dkZ3R5d1ExbUUxSVQtWUdkVFZzTDdnZkp6VlRsa2cwNjRwcWl2a1FQUEZNcDhJRWptaFhOSGhXclNSVHpZWGNjTEl1eXdQ?oc=5) — Google News: small business owners · 22:38 PT · #business #smallbiz
-- [10 Best Credit Card Machines For Small Business In 2026 - Forbes](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WVXJiMEVvOUdaeUNhRHlSMm9LcG9SRXVoVTlGVlNWRVNmRU9OZlRscW56RHN3UWlidEVRc2VuZXE1a2pEbm9obC1sMmEyT1poTlRtWjA3RWZXc3RpSTB2WFNGLUdCVjlfUzZpdHZwTU56VVV3TjVzRHk5M0JrTjg?oc=5) — Google News: small business owners · 22:35 PT · #business #smallbiz
-- [Average Salary By Age In 2026 - Forbes](https://news.google.com/rss/articles/CBMib0FVX3lxTE44Qi1WTV9GdkpVa0FubmlqRm1CM05JMmFGMDBXTHVnWG1lcXFxX2xaRkhHeGcySHBmQmQ4ZHBYT1NKQXVyNWtfOXFMX093c1FGaEhNc2EtU3lKZENldEttaUJOdnJOQzhLUHNyZG1wTQ?oc=5) — Google News: small business owners · 22:34 PT · #business #smallbiz

@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-16T20:29:32-07:00
+updated: 2026-10-17T01:00:41-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,20 @@ tags: ["category", "us"]
 
 ## 2026-10-16
 
+- [Basic, Green Valley advance to Division II Superintendent’s Cup final](https://www.reviewjournal.com/nevada-preps/basic-green-valley-advance-to-division-ii-superintendents-cup-final-3901404/) — Las Vegas Review-Journal · 23:42 PT · #us #nevada
+- [5A state tennis: Coronado girls duo perseveres for doubles state title](https://www.reviewjournal.com/nevada-preps/5a-state-tennis-coronado-girls-duo-perseveres-for-doubles-state-title-3901377/) — Las Vegas Review-Journal · 23:39 PT · #us #nevada
+- [Centennial football shocks Liberty for spot in championship game](https://lasvegassun.com/news/2026/oct/16/centennial-football-shocks-liberty-for-spot-in-cha/) — Las Vegas Sun · 23:02 PT · #us #nevada
+- [Friday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/fridays-nevada-preps-high-school-sports-scoreboard-3901360/) — Las Vegas Review-Journal · 22:20 PT · #us #nevada
+- [Centennial takes down Liberty in OT, advances to Division I title game](https://www.reviewjournal.com/nevada-preps/centennial-triumphs-over-liberty-in-overtime-advances-to-division-i-title-game-3901346/) — Las Vegas Review-Journal · 22:18 PT · #us #nevada
+- [Arbor View crushes Coronado to reach Superintendents Cup final — PHOTOS](https://www.reviewjournal.com/nevada-preps/arbor-view-crushes-coronado-to-reach-superintendents-cup-final-photos-3901342/) — Las Vegas Review-Journal · 22:13 PT · #us #nevada
+- [‘Doesn’t sound like Tommy’: Former Nevada colleagues react after police identify 1960 child killer](https://www.reviewjournal.com/crime/doesnt-sound-like-tommy-former-nevada-colleagues-react-after-police-identify-1960-child-killer-3901330/) — Las Vegas Review-Journal · 21:46 PT · #us #nevada
+- [Valley powers past Cimarron, earns spot in Division III Superintendent’s Cup — PHOTOS](https://www.reviewjournal.com/nevada-preps/valley-powers-past-cimarron-earns-spot-in-division-iii-superintendents-cup-photos-3901287/) — Las Vegas Review-Journal · 21:40 PT · #us #nevada
+- [LETTER: Advice for candidates](https://www.reviewjournal.com/opinion/letters/letter-advice-for-candidates-3901277/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: The Social Security conundrum](https://www.reviewjournal.com/opinion/letters/letter-the-social-security-conundrum-3901274/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [LETTER: Don’t blame the victim](https://www.reviewjournal.com/opinion/letters/letter-dont-blame-the-victim-3901271/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [EDITORIAL: Recommendations for Question 6 and 7](https://www.reviewjournal.com/opinion/rj-endorses-2026/editorial-recommendations-for-question-6-and-7-3901268/) — Las Vegas Review-Journal · 21:00 PT · #us #civic #nevada
+- [Clark High School locked down for hours after shooting in nearby Las Vegas neighborhood](https://www.ktnv.com/news/clark-high-school-locked-down-for-hours-after-shooting-in-nearby-las-vegas-neighborhood) — KTNV Las Vegas · 20:59 PT · #us #nevada
+- [Syracuse names Las Vegas event planner to be city’s first ‘night mayor’](https://lasvegassun.com/news/2026/oct/16/syracuse-names-las-vegas-event-planner-to-be-citys/) — Las Vegas Sun · 20:53 PT · #us #nevada
 - [Man killed during attempted robbery at east Las Vegas business identified; three suspects sought](https://www.ktnv.com/news/man-killed-during-attempted-robbery-at-east-las-vegas-business-identified-three-suspects-sought) — KTNV Las Vegas · 20:05 PT · #us #nevada
 - [Nevada Preps Friday night football results: Scores from Week 10 from Las Vegas, Nevada schools](https://www.reviewjournal.com/nevada-preps/np-football/nevada-preps-friday-night-football-results-scores-from-week-10-from-las-vegas-nevada-schools-3901258/) — Las Vegas Review-Journal · 19:49 PT · #us #nevada
 - [Former Las Vegas resident says clean up voter rolls](https://www.ktnv.com/news/former-las-vegas-resident-says-clean-up-voter-rolls) — KTNV Las Vegas · 19:33 PT · #us #nevada
@@ -409,17 +423,3 @@ tags: ["category", "us"]
 
 - [Silverado beats SECTA in 4A girls soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/silverado-beats-secta-in-4a-girls-soccer-photos-3899398/) — Las Vegas Review-Journal · 23:36 PT · #us #nevada
 - [Las Vegas mother credits specialized pediatric emergency care with saving 10-year-old daughter’s life](https://www.ktnv.com/neighborhoods/east-las-vegas/las-vegas-mother-credits-specialized-pediatric-emergency-care-with-saving-10-year-old-daughters-life) — KTNV Las Vegas · 22:29 PT · #us #nevada
-- [Sports on TV in Las Vegas](https://www.reviewjournal.com/sports/todays-local-and-national-sports-schedule/) — Las Vegas Review-Journal · 21:49 PT · #us #nevada
-- [Monday’s Nevada Preps high school scoreboard](https://www.reviewjournal.com/nevada-preps/mondays-nevada-preps-high-school-scoreboard-3899373/) — Las Vegas Review-Journal · 21:44 PT · #us #nevada
-- [First snow flurries of the season fall on Mount Charleston as cooler weather reaches Las Vegas valley](https://www.ktnv.com/news/first-snow-flurries-of-the-season-fall-on-mount-charleston-as-cooler-weather-reaches-las-vegas-valley) — KTNV Las Vegas · 21:43 PT · #us #nevada
-- [Weekend flooding, DUI arrests highlight road safety concerns in the valley](https://www.ktnv.com/news/weekend-flooding-dui-arrests-highlight-road-safety-concerns-in-the-valley) — KTNV Las Vegas · 21:22 PT · #us #nevada
-- [LETTER: Time to revisit HillaryCare](https://www.reviewjournal.com/opinion/letters/letter-time-to-revisit-hillarycare-3899363/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [LETTER: A livestreamed execution?](https://www.reviewjournal.com/opinion/letters/letter-a-livestreamed-execution-3899360/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [CARTOONS: What both parties agree on](https://www.reviewjournal.com/opinion/drawing-board/cartoons-what-both-parties-agree-on-3899350/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [EDITORIAL: Taxpayers singed by subsidies to failed solar plant](https://www.reviewjournal.com/opinion/editorials/editorial-taxpayers-singed-by-subsidies-to-failed-solar-plant-3899347/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire](https://lasvegassun.com/news/2026/oct/12/zelenskyy-says-russia-strikes-energy-facilities-de/) — Las Vegas Sun · 20:33 PT · #us #foreign #nevada
-- [Golden Knights give up 3 goals in first period, fall to Minnesota](https://lasvegassun.com/news/2026/oct/12/golden-knights-give-up-3-goals-in-first-period-fal/) — Las Vegas Sun · 20:22 PT · #us #nevada
-- [Stock up, stock down for Raiders after loss, thoughts on Fernando Mendoza](https://www.reviewjournal.com/sports/raiders/stock-up-stock-down-for-raiders-after-loss-thoughts-on-fernando-mendoza-3899344/) — Las Vegas Review-Journal · 19:57 PT · #us #nevada
-- [Golden Knights fall in hole again, win streak snapped vs. Wild](https://www.reviewjournal.com/sports/goldenknights/golden-knights-have-4-game-win-streak-end-in-loss-to-wild-3899336/) — Las Vegas Review-Journal · 19:50 PT · #us #nevada
-- [What to watch for when Lakers, Warriors meet at T-Mobile Arena](https://www.reviewjournal.com/sports/nba/what-to-watch-for-when-lakers-warriors-meet-at-t-mobile-arena-3899332/) — Las Vegas Review-Journal · 19:40 PT · #us #nevada
-- [Are Klint Kubiak, Raiders open to changes along offensive line?](https://www.reviewjournal.com/sports/raiders/are-klint-kubiak-raiders-open-to-changes-along-offensive-line-3899300/) — Las Vegas Review-Journal · 18:32 PT · #us #nevada

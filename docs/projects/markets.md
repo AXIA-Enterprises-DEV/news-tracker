@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-16T20:29:32-07:00
+updated: 2026-10-17T01:00:41-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -9,8 +9,15 @@ tags: ["project", "markets"]
 
 400 most recent items (14-day window). Atom feed: [markets.xml](../feeds/markets.xml)
 
+## 2026-10-17
+
+- [F&O Talk: Nifty’s break above 23,450 could push index to 23,650; Sudeep Shah picks Tech Mahindra, TCS strategy](https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-23450-could-push-index-to-23650-sudeep-shah-picks-tech-mahindra-tcs-strategy/articleshow/135009790.cms) — Economic Times · 00:27 PT · #business #markets
+- [Earnings call transcript: DLF posts strong q2 2026 results on luxury sales](https://www.investing.com/news/transcripts/earnings-call-transcript-dlf-posts-strong-q2-2026-results-on-luxury-sales-93CH-4955295) — All News · 00:23 PT · #business #markets
+- [8 small, midcap stocks with upside potential of up to 50%. How many are in your portfolio?](https://economictimes.indiatimes.com/markets/stocks/news/8-small-midcap-stocks-with-upside-potential-of-up-to-50-how-many-are-in-your-portfolio/bullish-bets/slideshow/135009761.cms) — Economic Times · 00:20 PT · #business #markets
+
 ## 2026-10-16
 
+- [Jio IPO’s grey market hints at 20% listing pop. What are Emkay, SBI Securities saying?](https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-grey-market-hints-at-20-listing-pop-what-are-emkay-sbi-securities-saying/articleshow/135008712.cms) — Economic Times · 23:21 PT · #business #markets
 - [Jio’s $3.2 billion IPO tests investor appetite as Ambani legacy faces scrutiny](https://www.investing.com/news/stock-market-news/jios-32-billion-ipo-tests-investor-appetite-as-ambani-legacy-faces-scrutiny-4955160) — Investing.com Stock Market · 20:00 PT · #markets
 - [Ballard Announces Q3 2026 Results Conference Call](https://www.prnewswire.com/news-releases/ballard-announces-q3-2026-results-conference-call-302911661.html) — PR Newswire M&A · 19:30 PT · #business #markets $BLDP
 - [Navan Investigation Initiated: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Navan, Inc. - NAVN](https://www.prnewswire.com/news-releases/navan-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-navan-inc---navn-302911694.html) — PR Newswire M&A · 19:08 PT · #business #markets
@@ -156,6 +163,7 @@ tags: ["project", "markets"]
 - [ABS-15G - Saluda Grade Mortgage Funding LLC (0001831646) (Filer)](https://www.sec.gov/Archives/edgar/data/1831646/000199937126022991/0001999371-26-022991-index.htm) — SEC EDGAR All Filings · 14:25 PT · #filings #markets #realestate
 - [SoftBank weighs $18 billion acquisition of Allied Universal, source says](https://www.investing.com/news/stock-market-news/softbank-weighs-18-billion-acquisition-of-allied-universal-bloomberg-news-reports-4954792) — Investing.com Stock Market · 14:25 PT · #markets
 - [8-K - TITAN INTERNATIONAL INC (0000899751) (Filer)](https://www.sec.gov/Archives/edgar/data/899751/000089975126000075/0000899751-26-000075-index.htm) — SEC EDGAR 8-K · 14:19 PT · #filings #civic #markets
+- [Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May - NBC News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a?oc=5) — Top stories - Google News · 14:16 PT · #world #ai #markets #oil
 - [Archimedes Tech SPAC shareholders approve Forge Nano merger](https://www.investing.com/news/company-news/archimedes-tech-spac-shareholders-approve-forge-nano-merger-93CH-4954868) — All News · 14:16 PT · #business #markets
 - [8-K - SentinelOne, Inc. (0001583708) (Filer)](https://www.sec.gov/Archives/edgar/data/1583708/000110465926116654/0001104659-26-116654-index.htm) — SEC EDGAR 8-K · 14:16 PT · #filings #item-1.01 #markets
 - [8-K - NRX Pharmaceuticals, Inc. (0001719406) (Filer)](https://www.sec.gov/Archives/edgar/data/1719406/000143774926032828/0001437749-26-032828-index.htm) — SEC EDGAR 8-K · 14:16 PT · #filings #markets
@@ -406,8 +414,3 @@ tags: ["project", "markets"]
 - [8-K - New Mountain Net Lease Trust (0002033695) (Filer)](https://www.sec.gov/Archives/edgar/data/2033695/000119312526423434/0001193125-26-423434-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #item-1.01 #markets
 - [8-K - Erasca, Inc. (0001761918) (Filer)](https://www.sec.gov/Archives/edgar/data/1761918/000119312526423433/0001193125-26-423433-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #civic #markets
 - [8-K - Change Agents Corporation. (0001630212) (Filer)](https://www.sec.gov/Archives/edgar/data/1630212/000121390026110039/0001213900-26-110039-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #civic #markets
-- [8-K - QNB CORP. (0000750558) (Filer)](https://www.sec.gov/Archives/edgar/data/750558/000119312526423431/0001193125-26-423431-index.htm) — SEC EDGAR 8-K · 05:53 PT · #filings #markets
-- [8-K - AUTONATION, INC. (0000350698) (Filer)](https://www.sec.gov/Archives/edgar/data/350698/000162828026066051/0001628280-26-066051-index.htm) — SEC EDGAR 8-K · 05:31 PT · #filings #civic #markets
-- [8-K - Ladder Capital Corp (0001577670) (Filer)](https://www.sec.gov/Archives/edgar/data/1577670/000157767026000050/0001577670-26-000050-index.htm) — SEC EDGAR 8-K · 05:31 PT · #filings #markets
-- [8-K - MiniMed Group, Inc. (0002062583) (Filer)](https://www.sec.gov/Archives/edgar/data/2062583/000110465926116441/0001104659-26-116441-index.htm) — SEC EDGAR 8-K · 05:30 PT · #filings #civic #markets
-- [8-K - Blink Charging Co. (0001429764) (Filer)](https://www.sec.gov/Archives/edgar/data/1429764/000149315226047342/0001493152-26-047342-index.htm) — SEC EDGAR 8-K · 05:30 PT · #filings #markets

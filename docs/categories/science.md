@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-16T20:29:32-07:00
+updated: 2026-10-17T01:00:41-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,7 @@ tags: ["category", "science"]
 
 ## 2026-10-16
 
+- [APOD: 2026 October 17 – 3D 67P](https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/) — NASA · 21:05 PT · #science
 - [How animal identifiability affects children's food choices](https://phys.org/news/2026-10-animal-affects-children-food-choices.html) — Phys.org - latest science and technology news stories · 19:40 PT · #science
 - [Political violence: How justifications influence voter approval](https://phys.org/news/2026-10-political-violence-justifications-voter.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science #civic
 - [Scientists uncover mystery of how snail shells coil to the right or to the left](https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
@@ -419,4 +420,3 @@ tags: ["category", "science"]
 - [Evidence for multi-Li + clustering in lithium-ion battery electrolytes](https://www.nature.com/articles/s41586-026-11138-7) — Nature · 17:00 PT · #science
 - [Global conservation area coverage substantially exceeds current estimates](https://www.nature.com/articles/s41586-026-11157-4) — Nature · 17:00 PT · #science
 - [Engineered TYK2 dependence enables myeloid-selective IL-10 receptor agonism](https://www.nature.com/articles/s41586-026-11176-1) — Nature · 17:00 PT · #science
-- [Elp1 is required for myeloid differentiation and brain repopulation](https://www.nature.com/articles/s41586-026-11112-3) — Nature · 17:00 PT · #science
