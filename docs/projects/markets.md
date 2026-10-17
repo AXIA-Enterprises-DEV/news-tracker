@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-17T01:00:41-07:00
+updated: 2026-10-17T05:07:50-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,12 @@ tags: ["project", "markets"]
 
 ## 2026-10-17
 
+- [Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays](https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories) — MarketWatch Top Stories · 05:01 PT · #markets #ai
+- [States Are Stepping Up as the New Antitrust Enforcers](https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html) — NYT Business · 05:00 PT · #business #markets
+- [XTIA SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds XTI Aerospace Investors of Securities Class Action Lawsuit Deadline on October 27, 2026](https://www.prnewswire.com/news-releases/xtia-shareholder-action-reminder-faruqi--faruqi-llp-reminds-xti-aerospace-investors-of-securities-class-action-lawsuit-deadline-on-october-27-2026-302911430.html) — PR Newswire M&A · 04:59 PT · #business #markets
+- [Reese Witherspoon moves to buy back Hello Sunshine after 2021’s $900 million deal](https://timesofindia.indiatimes.com/world/us/reese-witherspoon-sold-control-of-hello-sunshine-at-a-900-million-valuation-in-2021-five-years-later-she-has-teamed-with-mediawan-to-buy-the-company-back-at-a-reported-fraction-of-that-price/articleshow/134997313.cms) — World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India · 04:35 PT · #world #markets
+- [It was another great week for the average stock as market leadership shifts away from tech](https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories) — MarketWatch Top Stories · 04:30 PT · #markets
+- [FCEL Investors Have Opportunity to Lead FuelCell Energy, Inc. Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/fcel-investors-have-opportunity-to-lead-fuelcell-energy-inc-securities-fraud-lawsuit-302911656.html) — PR Newswire M&A · 04:15 PT · #business #markets $FCEL
 - [F&O Talk: Nifty’s break above 23,450 could push index to 23,650; Sudeep Shah picks Tech Mahindra, TCS strategy](https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-23450-could-push-index-to-23650-sudeep-shah-picks-tech-mahindra-tcs-strategy/articleshow/135009790.cms) — Economic Times · 00:27 PT · #business #markets
 - [Earnings call transcript: DLF posts strong q2 2026 results on luxury sales](https://www.investing.com/news/transcripts/earnings-call-transcript-dlf-posts-strong-q2-2026-results-on-luxury-sales-93CH-4955295) — All News · 00:23 PT · #business #markets
 - [8 small, midcap stocks with upside potential of up to 50%. How many are in your portfolio?](https://economictimes.indiatimes.com/markets/stocks/news/8-small-midcap-stocks-with-upside-potential-of-up-to-50-how-many-are-in-your-portfolio/bullish-bets/slideshow/135009761.cms) — Economic Times · 00:20 PT · #business #markets
@@ -18,6 +24,7 @@ tags: ["project", "markets"]
 ## 2026-10-16
 
 - [Jio IPO’s grey market hints at 20% listing pop. What are Emkay, SBI Securities saying?](https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-grey-market-hints-at-20-listing-pop-what-are-emkay-sbi-securities-saying/articleshow/135008712.cms) — Economic Times · 23:21 PT · #business #markets
+- [Earnings Calendar for: - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxPTXFmeXV1MXIwS1lmclBkMVBkajBnS2ZyOUF2RnYta2dYQmlubmY2RFplaEpHUS1qa1ZWaExDZWZtRnVJVHpYajlYRWNjOHM5S1kzaTVENUZkM2E1azJHR0JlM2JVV1JrYWZfUDRfQkh4SDQyWGJhalEtX3BaUmV3enR0RXYtRzRWelkybl9hVmVJUQ?oc=5) — Google News: unusual options activity · 21:40 PT · #markets
 - [Jio’s $3.2 billion IPO tests investor appetite as Ambani legacy faces scrutiny](https://www.investing.com/news/stock-market-news/jios-32-billion-ipo-tests-investor-appetite-as-ambani-legacy-faces-scrutiny-4955160) — Investing.com Stock Market · 20:00 PT · #markets
 - [Ballard Announces Q3 2026 Results Conference Call](https://www.prnewswire.com/news-releases/ballard-announces-q3-2026-results-conference-call-302911661.html) — PR Newswire M&A · 19:30 PT · #business #markets $BLDP
 - [Navan Investigation Initiated: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Navan, Inc. - NAVN](https://www.prnewswire.com/news-releases/navan-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-navan-inc---navn-302911694.html) — PR Newswire M&A · 19:08 PT · #business #markets
@@ -116,6 +123,7 @@ tags: ["project", "markets"]
 - [3 - Nelson Wills Courtney (0002110477) (Reporting)](https://www.sec.gov/Archives/edgar/data/2110477/000089706926001851/0000897069-26-001851-index.htm) — SEC EDGAR All Filings · 14:40 PT · #filings #markets
 - [SCHEDULE 13G - B Group, Inc. (0002043476) (Filed by)](https://www.sec.gov/Archives/edgar/data/2043476/000121390026110378/0001213900-26-110378-index.htm) — SEC EDGAR All Filings · 14:40 PT · #filings #markets
 - [4 - Star Equity Holdings, Inc. (0001210708) (Issuer)](https://www.sec.gov/Archives/edgar/data/1210708/000154831226000051/0001548312-26-000051-index.htm) — SEC EDGAR All Filings · 14:39 PT · #filings #markets
+- [U.S. Stocks Fall as Credit Fears Haunt Tech Sector - WSJ](https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXBpcEpXNEdyTTRkb0VfcDRmVEdGM0NTbEY5ZXlBc2N2STdjLXBtWGtTVnZYbHlkNFlFVVBnWFdxUlgzNzR2bFlWQjJ2Q3lQYXo4NXFfSEN3bmJPME5BMDdvcjBtSWJqSmRaM2txNVg0MHZzOXg2M2MyWVV3U1BzZjRBY25lWG8xb1JZalBGV0EwdV85RTI1cnlQd0U?oc=5) — Top stories - Google News · 14:39 PT · #world #ai #fed #markets #oil
 - [TA-1/A - West Coast Stock Transfer Inc. (0001455353) (Filer)](https://www.sec.gov/Archives/edgar/data/1455353/000152013826000422/0001520138-26-000422-index.htm) — SEC EDGAR All Filings · 14:36 PT · #filings #markets
 - [4 - Nguyen Diane (0001974777) (Reporting)](https://www.sec.gov/Archives/edgar/data/1974777/000197477726000020/0001974777-26-000020-index.htm) — SEC EDGAR All Filings · 14:35 PT · #filings #markets
 - [TA-1/A - Fidelity Stock Transfer Solutions LLC (0001920289) (Filer)](https://www.sec.gov/Archives/edgar/data/1920289/000192028926000008/0001920289-26-000008-index.htm) — SEC EDGAR All Filings · 14:34 PT · #filings #markets
@@ -406,11 +414,3 @@ tags: ["project", "markets"]
 - [8-K - Capitol Federal Financial, Inc. (0001490906) (Filer)](https://www.sec.gov/Archives/edgar/data/1490906/000149090626000034/0001490906-26-000034-index.htm) — SEC EDGAR 8-K · 06:47 PT · #filings #markets
 - [8-K - ETOILES CAPITAL GROUP CO., LTD (0002058349) (Filer)](https://www.sec.gov/Archives/edgar/data/2058349/000121390026110060/0001213900-26-110060-index.htm) — SEC EDGAR 8-K · 06:30 PT · #filings #markets
 - [8-K - Coronado Global Resources Inc. (0001770561) (Filer)](https://www.sec.gov/Archives/edgar/data/1770561/000110465926116465/0001104659-26-116465-index.htm) — SEC EDGAR 8-K · 06:29 PT · #filings #markets
-- [8-K - Moleculin Biotech, Inc. (0001659617) (Filer)](https://www.sec.gov/Archives/edgar/data/1659617/000143774926032762/0001437749-26-032762-index.htm) — SEC EDGAR 8-K · 06:29 PT · #filings #markets
-- [8-K - Sanara MedTech Inc. (0000714256) (Filer)](https://www.sec.gov/Archives/edgar/data/714256/000121390026110053/0001213900-26-110053-index.htm) — SEC EDGAR 8-K · 06:20 PT · #filings #markets
-- [8-K - OSR Health, Inc. (0001840425) (Filer)](https://www.sec.gov/Archives/edgar/data/1840425/000121390026110051/0001213900-26-110051-index.htm) — SEC EDGAR 8-K · 06:17 PT · #filings #item-1.01 #markets
-- [8-K - UNION PACIFIC CORP (0000100885) (Filer)](https://www.sec.gov/Archives/edgar/data/100885/000010088526000305/0000100885-26-000305-index.htm) — SEC EDGAR 8-K · 06:01 PT · #filings #civic #markets
-- [8-K - MIMEDX GROUP, INC. (0001376339) (Filer)](https://www.sec.gov/Archives/edgar/data/1376339/000121390026110041/0001213900-26-110041-index.htm) — SEC EDGAR 8-K · 06:01 PT · #filings #markets
-- [8-K - New Mountain Net Lease Trust (0002033695) (Filer)](https://www.sec.gov/Archives/edgar/data/2033695/000119312526423434/0001193125-26-423434-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #item-1.01 #markets
-- [8-K - Erasca, Inc. (0001761918) (Filer)](https://www.sec.gov/Archives/edgar/data/1761918/000119312526423433/0001193125-26-423433-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #civic #markets
-- [8-K - Change Agents Corporation. (0001630212) (Filer)](https://www.sec.gov/Archives/edgar/data/1630212/000121390026110039/0001213900-26-110039-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #civic #markets

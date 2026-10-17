@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-17T01:00:41-07:00
+updated: 2026-10-17T05:07:50-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -8,6 +8,16 @@ tags: ["category", "science"]
 # Category: science
 
 400 most recent items (14-day window).
+
+## 2026-10-17
+
+- [15 uplifting images from Dog Photography Awards 2026](https://www.popsci.com/environment/dog-photography-awards-2026/) — Popular Science · 05:05 PT · #science
+- [Electrical sliding switches graphene between magnetic states](https://phys.org/news/2026-10-electrical-graphene-magnetic-states.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
+- [Global survey links financial hardship to lower trust in science](https://phys.org/news/2026-10-global-survey-links-financial-hardship.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
+- [Popular song lyrics express less emotion over time, analysis of 38K+ songs finds](https://phys.org/news/2026-10-popular-song-lyrics-emotion-analysis.html) — Phys.org - latest science and technology news stories · 04:20 PT · #science
+- [During El Niño, a perfect storm of weather systems could spell disaster for the Great Barrier Reef](https://phys.org/news/2026-10-el-nio-storm-weather-disaster.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
+- [For a Mere $2 Million, You Could Own Three Books That Unlocked the Universe](https://www.nytimes.com/2026/10/17/science/sothebys-science-books-auction.html) — NYT > Science · 02:01 PT · #science
+- [Optical imaging links altered metabolism and oxygen use in Alzheimer's disease](https://phys.org/news/2026-10-optical-imaging-links-metabolism-oxygen.html) — Phys.org - latest science and technology news stories · 01:16 PT · #science
 
 ## 2026-10-16
 
@@ -413,10 +423,3 @@ tags: ["category", "science"]
 - [Protecting nature means valuing biodiversity](https://www.nature.com/articles/d41586-026-03219-4) — Nature · 17:00 PT · #science
 - [Alveolar stem cells go beyond making gas-exchange cells to repair damaged airways](https://www.nature.com/articles/d41586-026-03085-0) — Nature · 17:00 PT · #science
 - [Hydrogels and MRI: meet three biomedical engineers reshaping health care](https://www.nature.com/articles/d41586-026-03205-w) — Nature · 17:00 PT · #science
-- [How early tetrapods got their neck](https://www.nature.com/articles/d41586-026-03061-8) — Nature · 17:00 PT · #science
-- [Structural basis of ligand recognition and gating in mosquito IRs](https://www.nature.com/articles/s41586-026-11239-3) — Nature · 17:00 PT · #science
-- [Overlooked brown fat in our bodies linked to wide range of health benefits](https://www.nature.com/articles/d41586-026-03302-w) — Nature · 17:00 PT · #science
-- [Smartwatch health data are piling up. How can doctors keep pace?](https://www.nature.com/articles/d41586-026-03203-y) — Nature · 17:00 PT · #science
-- [Evidence for multi-Li + clustering in lithium-ion battery electrolytes](https://www.nature.com/articles/s41586-026-11138-7) — Nature · 17:00 PT · #science
-- [Global conservation area coverage substantially exceeds current estimates](https://www.nature.com/articles/s41586-026-11157-4) — Nature · 17:00 PT · #science
-- [Engineered TYK2 dependence enables myeloid-selective IL-10 receptor agonism](https://www.nature.com/articles/s41586-026-11176-1) — Nature · 17:00 PT · #science

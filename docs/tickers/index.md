@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-17T01:00:41-07:00
-count: 237
+updated: 2026-10-17T05:07:50-07:00
+count: 238
 tags: ["tickers"]
 ---
 
@@ -16,6 +16,7 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$JKS](JKS.md) — 2 items
 - [$GPUS](GPUS.md) — 2 items
 - [$IOT](IOT.md) — 2 items
 - [$BULL](BULL.md) — 2 items
@@ -30,6 +31,7 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$FCEL](FCEL.md) — 1 items
 - [$BLDP](BLDP.md) — 1 items
 - [$ATNM](ATNM.md) — 1 items
 - [$BHR](BHR.md) — 1 items
@@ -58,7 +60,6 @@ tags: ["tickers"]
 - [$EFN](EFN.md) — 1 items
 - [$HIT](HIT.md) — 1 items
 - [$TFC](TFC.md) — 1 items
-- [$JKS](JKS.md) — 1 items
 - [$YUMC](YUMC.md) — 1 items
 - [$GDDY](GDDY.md) — 1 items
 - [$ORV](ORV.md) — 1 items

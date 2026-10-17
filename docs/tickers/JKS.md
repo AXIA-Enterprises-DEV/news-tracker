@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $JKS"
-updated: 2026-10-17T01:00:41-07:00
-count: 1
+updated: 2026-10-17T05:07:50-07:00
+count: 2
 tags: ["ticker", "JKS"]
 ---
 
 # Ticker: $JKS
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-17
+
+- [JinkoSolar Unveils Tiger Neo 5.0 All-Black Residential Solar Module with 25.52% Efficiency](https://www.prnewswire.com/news-releases/jinkosolar-unveils-tiger-neo-5-0-all-black-residential-solar-module-with-25-52-efficiency-302911814.html) — PR Newswire M&A · 04:33 PT · #business #foreign $JKS
 
 ## 2026-10-16
 

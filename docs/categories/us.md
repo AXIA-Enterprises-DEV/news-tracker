@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-17T01:00:41-07:00
+updated: 2026-10-17T05:07:50-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -8,6 +8,20 @@ tags: ["category", "us"]
 # Category: U.S.
 
 400 most recent items (14-day window).
+
+## 2026-10-17
+
+- [Our top takeaways from Nevada's new campaign finance reports](https://thenevadaindependent.com/article/our-top-takeaways-from-nevadas-new-campaign-finance-reports/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
+- [Banana Ball returns to Las Vegas for three games in March](https://lasvegassun.com/news/2026/oct/17/banana-ball-returns-to-las-vegas-for-three-games-i/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Reversing the decision to livestream an execution doesn't erase Trump's politics of cruelty](https://lasvegassun.com/news/2026/oct/17/reversing-the-decision-to-livestream-an-execution/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [El nuevo centro de Boulder City busca impulsar la creciente economía de la recreación al aire libre en Nevada](https://lasvegassun.com/news/2026/oct/17/el-nuevo-centro-de-boulder-city-busca-impulsar-la/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [New Boulder City hub aims to drive Nevada’s growing outdoor recreation economy](https://lasvegassun.com/news/2026/oct/17/new-boulder-city-hub-aims-to-drive-nevadas-growing/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [We're stuck with a quixotic president, for now](https://lasvegassun.com/news/2026/oct/17/were-stuck-with-a-quixotic-president-for-now/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada #oil
+- [Decline of morality starts from the top](https://lasvegassun.com/news/2026/oct/17/decline-of-morality-starts-from-the-top/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Why Putin says Russia could ‘cease to exist’ if it loses](https://lasvegassun.com/news/2026/oct/17/why-putin-says-russia-could-cease-to-exist-if-it-l/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
+- [Raise a family, then pursue a career? The math doesn’t work](https://lasvegassun.com/news/2026/oct/17/raise-a-family-then-pursue-a-career-the-math-doesn/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Patriarchy and machismo are fghting to hang on in an outdated world](https://lasvegassun.com/news/2026/oct/17/patriarchy-and-machismo-are-fighting-to-hang-on-in/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [AI’s risks are no reason for panic](https://lasvegassun.com/news/2026/oct/17/ais-risks-are-no-reason-for-panic/) — Las Vegas Sun · 02:00 PT · #us #ai #nevada
 
 ## 2026-10-16
 
@@ -409,17 +423,3 @@ tags: ["category", "us"]
 - [Ford pledges consistent education funding and questions Lombardo's budget record](https://lasvegassun.com/news/2026/oct/13/ford-pledges-consistent-education-funding-and-ques/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [What to know about casting and tracking your mail ballot in Clark County](https://lasvegassun.com/news/2026/oct/13/what-to-know-about-casting-and-tracking-your-mail/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
 - [Who are we as a nation?](https://lasvegassun.com/news/2026/oct/13/who-are-we-as-a-nation/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
-- [Test your knowledge of recent news events](https://lasvegassun.com/news/2026/oct/13/test-your-knowledge-of-recent-news-events/) — Las Vegas Sun · 02:00 PT · #us #markets #nevada
-- [High School Football Picks: Week 10](https://lasvegassun.com/news/2026/oct/13/high-school-football-picks-week-10/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [What's to be said about an American dictator?](https://lasvegassun.com/news/2026/oct/13/whats-to-be-said-about-an-american-dictator/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
-- [Artificial superintelligence: Let's start with Congress](https://lasvegassun.com/news/2026/oct/13/artificial-superintelligence-lets-start-with-congr/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
-- [UNR nursing school receives $3 million grant to prepare nurses to serve in rural Nevada](https://lasvegassun.com/news/2026/oct/13/unr-nursing-school-receives-3-million-grant-to-pre/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Hospital consolidation is making healthcare more expensive; Congress can fix it](https://lasvegassun.com/news/2026/oct/13/hospital-consolidation-is-making-healthcare-more-e/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
-- [The fates of Jane Doe and Nolan Wells leave us longing for the Golden Rule](https://lasvegassun.com/news/2026/oct/13/the-fates-of-jane-doe-and-nolan-wells-leave-us-lon/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [What’s in Russian permafrost may be scarier than plague](https://lasvegassun.com/news/2026/oct/13/whats-in-russian-permafrost-may-be-scarier-than-pl/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
-- [Proponen dos enormes plantas solares para el área Pyramid Lake de Washoe](https://thenevadaindependent.com/article/proponen-dos-enormes-plantas-solares-para-la-zona-de-pyramid-lake-en-el-condado-washoe/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-12
-
-- [Silverado beats SECTA in 4A girls soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/silverado-beats-secta-in-4a-girls-soccer-photos-3899398/) — Las Vegas Review-Journal · 23:36 PT · #us #nevada
-- [Las Vegas mother credits specialized pediatric emergency care with saving 10-year-old daughter’s life](https://www.ktnv.com/neighborhoods/east-las-vegas/las-vegas-mother-credits-specialized-pediatric-emergency-care-with-saving-10-year-old-daughters-life) — KTNV Las Vegas · 22:29 PT · #us #nevada

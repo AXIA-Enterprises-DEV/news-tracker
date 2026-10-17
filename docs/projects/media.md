@@ -1,16 +1,20 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-17T01:00:41-07:00
-count: 320
+updated: 2026-10-17T05:07:50-07:00
+count: 324
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-320 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+324 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-17
 
+- [Mourinho Responds to Tebas’ Nazi Propaganda Comparison: ‘There Are Limits’ - Morocco World News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWltVnNVZGRNTUtnMnAxN2lSOWUyRlVzeG92SFEtVHdQOEVhMVVzZzd4RDhOWTRiYmRYV0R2YUtXdnVsWDRQbzlBT3huZGpiUTk4NVNIZldYRWRjUmwxTFpGc192Ym8waGhFOVJOTGo5a1VVU1FiTzVaTzBLaGlOc2x4bkpMOVhIZXdQY1owb1pzNlprWVRuTTZuV0FZMW12OWoySjdOamI3bmFYcWh4T1VWVzBPc25mNDkw?oc=5) — Google News: propaganda OR disinformation media · 04:37 PT · #world #media
+- [Real Madrid demand Javier Tebas resignation over Nazi propaganda comparison - Geo Super](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1pFTzBQMkhTTkY5ei1LOUNHb0hzQ0U0d3Y2em9XdGs2ei00TE9JV0RvYnh5TDhDMnNzX0xqcjNndDlLMFViSW1wQTZkTjMyUWhTSnExOTg5RmJINEMwbmdjV1VtUU9UVGVXSGRVd1lzYlh0ckJyQmVxOHYyUjhPZE5XQVJTYzFRUkRYd19tYVJxSXN2cEhFdkdkU2hRM1FMa0MzWmMtemPSAaQBQVVfeXFMUHNJWXVJdTRneUN5UHZwWTNteWVhLWY2V2w4NGQxUW10RWt3UzZlZmcxMXRjWlFnU1lTd3JkSml3NnNELW14clpOcEZBTXdiRngyeGppelBNY0FrbXVERXU4OGlIVXI0LUpnTmtyR2p2WFFDYWstQkp2ZmpxdHR6dG9DR0dmZnVwclU5WW9xYzR4TExKcXVnVGpSb3MwSVVaUk5NRGs?oc=5) — Google News: propaganda OR disinformation media · 02:07 PT · #world #media
+- [Real Madrid demand La Liga chief Javier Tebas quits after Nazi comparison - The Mirror](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWI5UDVTYldWNVRvY2d5ZG1JRUZsTXh2NGp6SHRFcGV3MGNmaUlYN1Vydk5RbmxIWkQ4RGRJWkE2dWtONE9KRkRkSmc5czRHTENCazV6bGx5T24yRmlYQmdIajFkakJHUmtfQUZMNUFiLWV1NG5wNVBHRnlsQm5rVUg2M294Wnl1UERNSU1NWGJ0Z9IBkgFBVV95cUxPdWI5UDVTYldWNVRvY2d5ZG1JRUZsTXh2NGp6SHRFcGV3MGNmaUlYN1Vydk5RbmxIWkQ4RGRJWkE2dWtONE9KRkRkSmc5czRHTENCazV6bGx5T24yRmlYQmdIajFkakJHUmtfQUZMNUFiLWV1NG5wNVBHRnlsQm5rVUg2M294Wnl1UERNSU1NWGJ0Zw?oc=5) — Google News: propaganda OR disinformation media · 01:32 PT · #world #media
+- [Real Madrid call for resignation of LaLiga President Javier Tebas over Nazi propaganda comparison - Pakistan Observer](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmNKanZKakoyb0xqcE5mT1AyX1Y5QUtoQTNJdjZxNURzU2hmZm1KUlVCZDZLNzZLZTh4cTVHTEduS05NeV93SHhfN2lqUmZRNU5tQldiVV9jbk5GYnVPbmFURVlING1ZQTlqcnRyVXBGS3g5ejhXVDQ1Ujg0b3lkS1VIN2FkY3hiNmpDNHE1VExmODVSR3F4bU5SZGdnVjNzVnRDbWlyS25jbGt5S01ZazRrbjU3MXJKa2NiNVJrRQ?oc=5) — Google News: propaganda OR disinformation media · 01:20 PT · #world #media
 - [Real Madrid Fumes At La Liga President Javier Tebas, Demands Resignation Over Nazi Propaganda Dig - Times Now](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX2FJU2dYbVNYUEI0VXloT2R0LXdnanBxei1TYzVMejRvNVBORzdXVUhrNUhRcFcwWC1xR3RCcVBRTWJIVFJidlVfQUxWenl2YlJuSGR5dlNDZl8tX2U4eHBqU212dEI2TXZMWGs0YzRCMHVsNFVldmJIbWNBdEtJZXRKcVR0Z0ZNSjJxbGVzS1FVLWV1Mjc2NVlEaVRmdGtmMVZVMWlqNTI1WWNmZG9COFVtSE0tS2FiRHQwUnh0TTNKVXVuVmxDZ0YxVk9XVTN6QUkyTlNfakRDR0FQTUdtNmJMaWN6a0gyLWtneElqdTnSAfYBQVVfeXFMTVJVdHIzZV9ZQnhMbFJ3NVFYZVAtM29YX0Q0VHk2WlZ1UmRPU3BuYXFyVUZyczhyb0c2RUR0c2NvdVA3QXNob0hRNFg4UWFpaFVmdEJyTVhCNzZUbWZnS1J3bmFXQmhNRVNCRFpGaFFjTFNBaDA4Ym5neGdZNWdVTjIwWS1CMjcyR0JUVnBTdGRuNXZ3RWU2REpBSjhpZjZSa2VIaFVsbFpMc3liWkJwaERGVGtBTW5TV1hvdVlRQVFaZkdlU0V2YmV6MWZDSDlZSWw5Wk1TQ0RGYVkzeGE4TXQxempOMW96Qno2WnRPdXFqSnRjVmln?oc=5) — Google News: propaganda OR disinformation media · 00:07 PT · #world #media
 
 ## 2026-10-16
