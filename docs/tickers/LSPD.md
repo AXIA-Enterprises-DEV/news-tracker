@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $LSPD"
-updated: 2026-10-16T16:57:57-07:00
+updated: 2026-10-16T20:29:32-07:00
 count: 1
 tags: ["ticker", "LSPD"]
 ---

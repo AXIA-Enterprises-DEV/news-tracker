@@ -1,17 +1,19 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-16T16:57:57-07:00
-count: 360
+updated: 2026-10-16T20:29:32-07:00
+count: 362
 tags: ["project", "realestate"]
 ---
 
 # Project: Las Vegas Real Estate / Auctions
 
-360 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
+362 most recent items (14-day window). Atom feed: [realestate.xml](../feeds/realestate.xml)
 
 ## 2026-10-16
 
+- [Atlanta Dream and Golden State Valkyries are top defensive teams in WNBA, now facing off in finals - The Boston Globe](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWNOV3hTdU9uWmRxRGlxbjd0S1FjTEJWWUR6Z1pDWFpOYW1Pdk52RHBVTmdOSTA2a0NBZFJKZ3c1cnM2bkR3eXRoMjNpZFNiOUg1SUdvRFpmemtoNjJNVVpxd2hIY29FZjhhUF9VaWdpV3JtRkFKZ0l5SUF0X2NQR1VjRW1MUlo1ZTQwU1VoZmZRZE4xSlNlcXhSOA?oc=5) — Google News: Las Vegas real estate · 18:14 PT · #business #realestate
 - [Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?](https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs) — Guardian World · 16:00 PT · #world #realestate
+- [Cities Where Buying a Home Is Favorable to Renting - MoneyLion](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNG9DTzBrWXNIeXRtbFB3cjJxNGUtRVBkZmUzV0lQNXBvZ0pBMnJEaGEzdUVXd3ZfdWZ1bHR0UGt0NW13dERNd1ZGQi02dGFaeXVDS1RjQ2l1c3hITF8xRFJQOHNLbVNqZXJUWldwb0p0cmFjWXRzVmFIQmN6d0JpVDhyd0hkRnc5OUU3aWFn?oc=5) — Google News: Las Vegas real estate · 15:10 PT · #business #realestate
 - [Housing exec pleads guilty to bilking $23M in homelessness funds - The Real Deal](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHJzOTE4dmhNeWtoanZ2clhjdktBVFh0N0hEdV85OVNSSWNreHlySnN5LXJMb1lCN09aWVVpZmpMRVUtTlBTTUMxVDZiWmowaVdvcW9CZWdHem5vZFplQUZ6akI1ZTlxNUttQVdTSl9EcGg0R2FCUVJjNDFsd0dPSWktSnFSc011QlJWWUw1bVF4ZXUyZUZJ?oc=5) — Google News: Las Vegas real estate · 14:55 PT · #business #realestate
 - [ABS-15G - Saluda Grade Mortgage Funding LLC (0001831646) (Filer)](https://www.sec.gov/Archives/edgar/data/1831646/000199937126022991/0001999371-26-022991-index.htm) — SEC EDGAR All Filings · 14:25 PT · #filings #markets #realestate
 - [New hotel opening in North Las Vegas - Las Vegas Review-Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1hlSUFqdnlwOHV6dFZyR0tpY1pZY3JpMVp4NXdrbGl2c0dPMktUOWxhRlZkRVphMG1rbEY4NFZnOEdyQTlYX0lvMXdWTHRKaFNGQnJHanY3aFpIS3lIZVFUMHR3anQtUENPYlpyeGIzMFVuQzY0ekJFeGZSVUNjX3E1UzNuWkFuSGJuQmxrUmw0UnBNYlRsT1NoS0xFa2JrNTI1dTg1N2xyeUVuOGdpMjBHNnd4dHRnalE?oc=5) — Google News: Las Vegas real estate · 14:15 PT · #business #nevada #realestate

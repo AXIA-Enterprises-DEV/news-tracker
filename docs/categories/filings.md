@@ -1,6 +1,6 @@
 ---
 title: "Category: filings"
-updated: 2026-10-16T16:57:57-07:00
+updated: 2026-10-16T20:29:32-07:00
 count: 400
 tags: ["category", "filings"]
 ---
@@ -11,6 +11,35 @@ tags: ["category", "filings"]
 
 ## 2026-10-16
 
+- [4 - Ainscow Robert (0001951275) (Reporting)](https://www.sec.gov/Archives/edgar/data/1951275/000147793226006312/0001477932-26-006312-index.htm) — SEC EDGAR All Filings · 18:57 PT · #filings #markets
+- [4 - Singleton Nicole Marie (0002132337) (Reporting)](https://www.sec.gov/Archives/edgar/data/2132337/000180166126000124/0001801661-26-000124-index.htm) — SEC EDGAR All Filings · 18:56 PT · #filings #markets
+- [4 - Paradise Andrew (0001836621) (Reporting)](https://www.sec.gov/Archives/edgar/data/1836621/000180166126000123/0001801661-26-000123-index.htm) — SEC EDGAR All Filings · 18:56 PT · #filings #markets
+- [SCHEDULE 13D/A - Hilltop Holdings Inc. (0001265131) (Subject)](https://www.sec.gov/Archives/edgar/data/1265131/000119312526424467/0001193125-26-424467-index.htm) — SEC EDGAR All Filings · 18:52 PT · #filings #markets
+- [4 - Maloney John Patrick (0002119248) (Reporting)](https://www.sec.gov/Archives/edgar/data/2119248/000110465926116675/0001104659-26-116675-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
+- [4 - Sanfilippo Thomas (0002058414) (Reporting)](https://www.sec.gov/Archives/edgar/data/2058414/000121390026110436/0001213900-26-110436-index.htm) — SEC EDGAR All Filings · 18:42 PT · #filings #markets
+- [4 - Tabar Samir (0002046468) (Reporting)](https://www.sec.gov/Archives/edgar/data/2046468/000121390026110434/0001213900-26-110434-index.htm) — SEC EDGAR All Filings · 18:37 PT · #filings #markets
+- [4 - Zhu Justin (0002082678) (Reporting)](https://www.sec.gov/Archives/edgar/data/2082678/000121390026110433/0001213900-26-110433-index.htm) — SEC EDGAR All Filings · 18:36 PT · #filings #markets
+- [4 - Rabinowitz Matthew (0001646382) (Reporting)](https://www.sec.gov/Archives/edgar/data/1646382/000164638226000023/0001646382-26-000023-index.htm) — SEC EDGAR All Filings · 18:35 PT · #filings #markets
+- [SCHEDULE 13D/A - ALX ONCOLOGY HOLDINGS INC (0001810182) (Subject)](https://www.sec.gov/Archives/edgar/data/1810182/000090514826004485/0000905148-26-004485-index.htm) — SEC EDGAR All Filings · 18:21 PT · #filings #markets
+- [4 - Vittitow Matthew W. (0002060636) (Reporting)](https://www.sec.gov/Archives/edgar/data/2060636/000121390026110429/0001213900-26-110429-index.htm) — SEC EDGAR All Filings · 18:20 PT · #filings #markets
+- [4 - Nemati Marc A. (0002060619) (Reporting)](https://www.sec.gov/Archives/edgar/data/2060619/000121390026110428/0001213900-26-110428-index.htm) — SEC EDGAR All Filings · 18:20 PT · #filings #markets
+- [4 - Moleculin Biotech, Inc. (0001659617) (Issuer)](https://www.sec.gov/Archives/edgar/data/1659617/000143774926032866/0001437749-26-032866-index.htm) — SEC EDGAR All Filings · 18:01 PT · #filings #markets
+- [4 - KLEMP WALTER V (0000938419) (Reporting)](https://www.sec.gov/Archives/edgar/data/938419/000143774926032865/0001437749-26-032865-index.htm) — SEC EDGAR All Filings · 18:00 PT · #filings #markets
+- [4 - Foster Jonathan P. (0001545414) (Reporting)](https://www.sec.gov/Archives/edgar/data/1545414/000143774926032864/0001437749-26-032864-index.htm) — SEC EDGAR All Filings · 18:00 PT · #filings #markets
+- [SCHEDULE 13D/A - Clear Channel Outdoor Holdings, Inc. (0001334978) (Subject)](https://www.sec.gov/Archives/edgar/data/1334978/000119312526424443/0001193125-26-424443-index.htm) — SEC EDGAR All Filings · 17:53 PT · #filings #markets
+- [4 - Clear Channel Outdoor Holdings, Inc. (0001334978) (Issuer)](https://www.sec.gov/Archives/edgar/data/1334978/000119312526424439/0001193125-26-424439-index.htm) — SEC EDGAR All Filings · 17:48 PT · #filings #markets
+- [4 - Grace Therapeutics, Inc. (0001444192) (Issuer)](https://www.sec.gov/Archives/edgar/data/1444192/000149315226047473/0001493152-26-047473-index.htm) — SEC EDGAR All Filings · 17:42 PT · #filings #markets
+- [4 - Xenon Pharmaceuticals Inc. (0001582313) (Issuer)](https://www.sec.gov/Archives/edgar/data/1582313/000119312526424428/0001193125-26-424428-index.htm) — SEC EDGAR All Filings · 17:22 PT · #filings #markets
+- [4 - Joint Stock Co Kaspi.kz (0001985487) (Issuer)](https://www.sec.gov/Archives/edgar/data/1985487/000119312526424426/0001193125-26-424426-index.htm) — SEC EDGAR All Filings · 17:20 PT · #filings #markets
+- [4 - Evans John M. (0001786304) (Reporting)](https://www.sec.gov/Archives/edgar/data/1786304/000119312526424421/0001193125-26-424421-index.htm) — SEC EDGAR All Filings · 17:09 PT · #filings #markets
+- [144 - Vittitow Matthew W. (0002060636) (Reporting)](https://www.sec.gov/Archives/edgar/data/2060636/000206063626000002/0002060636-26-000002-index.htm) — SEC EDGAR All Filings · 17:09 PT · #filings #markets
+- [4 - Charuvastra Marcus (0001725161) (Reporting)](https://www.sec.gov/Archives/edgar/data/1725161/000121465926013018/0001214659-26-013018-index.htm) — SEC EDGAR All Filings · 17:07 PT · #filings #markets
+- [144 - Nemati Marc A. (0002060619) (Reporting)](https://www.sec.gov/Archives/edgar/data/2060619/000206061926000002/0002060619-26-000002-index.htm) — SEC EDGAR All Filings · 17:07 PT · #filings #markets
+- [4 - Gintz Douglas (0001946892) (Reporting)](https://www.sec.gov/Archives/edgar/data/1946892/000121465926013017/0001214659-26-013017-index.htm) — SEC EDGAR All Filings · 17:06 PT · #filings #markets
+- [4 - TurnOnGreen, Inc. (0001349706) (Issuer)](https://www.sec.gov/Archives/edgar/data/1349706/000121465926013016/0001214659-26-013016-index.htm) — SEC EDGAR All Filings · 17:06 PT · #filings #markets
+- [4 - WHITE JAMES D (0001280940) (Reporting)](https://www.sec.gov/Archives/edgar/data/1280940/000119312526424413/0001193125-26-424413-index.htm) — SEC EDGAR All Filings · 17:00 PT · #filings #markets
+- [4 - Tick Lyle (0002037188) (Reporting)](https://www.sec.gov/Archives/edgar/data/2037188/000119312526424414/0001193125-26-424414-index.htm) — SEC EDGAR All Filings · 17:00 PT · #filings #markets
+- [4 - Brandt Christopher W (0001675463) (Reporting)](https://www.sec.gov/Archives/edgar/data/1675463/000119312526424412/0001193125-26-424412-index.htm) — SEC EDGAR All Filings · 17:00 PT · #filings #markets
 - [144 - Roush Lukas M. (0001758209) (Reporting)](https://www.sec.gov/Archives/edgar/data/1758209/000175820926000016/0001758209-26-000016-index.htm) — SEC EDGAR All Filings · 16:48 PT · #filings #markets
 - [SCHEDULE 13D/A - MAK Capital Fund LP (0001426156) (Filed by)](https://www.sec.gov/Archives/edgar/data/1426156/000092189526002812/0000921895-26-002812-index.htm) — SEC EDGAR All Filings · 16:42 PT · #filings #markets
 - [4/A - McCarthy Sean A. (0001654058) (Reporting)](https://www.sec.gov/Archives/edgar/data/1654058/000161071726000442/0001610717-26-000442-index.htm) — SEC EDGAR All Filings · 16:40 PT · #filings #markets
@@ -385,32 +414,3 @@ tags: ["category", "filings"]
 - [EFFECT - Alpine Income Property Trust, Inc. (0001786117) (Filer)](https://www.sec.gov/Archives/edgar/data/1786117/999999999526003255/9999999995-26-003255-index.htm) — SEC EDGAR All Filings · 21:15 PT · #filings #markets
 - [EFFECT - Health In Tech, Inc. (0002019505) (Filer)](https://www.sec.gov/Archives/edgar/data/2019505/999999999526003254/9999999995-26-003254-index.htm) — SEC EDGAR All Filings · 21:15 PT · #filings #markets
 - [EFFECT - Nexalin Technology, Inc. (0001527352) (Filer)](https://www.sec.gov/Archives/edgar/data/1527352/999999999526003253/9999999995-26-003253-index.htm) — SEC EDGAR All Filings · 21:15 PT · #filings #markets
-- [EFFECT - Rallybio Corp (0001739410) (Filer)](https://www.sec.gov/Archives/edgar/data/1739410/999999999526003252/9999999995-26-003252-index.htm) — SEC EDGAR All Filings · 21:15 PT · #filings #markets
-- [EFFECT - ODYSSEY MARINE EXPLORATION INC (0000798528) (Filer)](https://www.sec.gov/Archives/edgar/data/798528/999999999526003251/9999999995-26-003251-index.htm) — SEC EDGAR All Filings · 21:15 PT · #filings #markets
-- [EFFECT - Silvia, Inc. (0002076163) (Filer)](https://www.sec.gov/Archives/edgar/data/2076163/999999999526003250/9999999995-26-003250-index.htm) — SEC EDGAR All Filings · 21:15 PT · #filings #markets
-- [EFFECT - COMTECH TELECOMMUNICATIONS CORP /DE/ (0000023197) (Filer)](https://www.sec.gov/Archives/edgar/data/23197/999999999526003249/9999999995-26-003249-index.htm) — SEC EDGAR All Filings · 21:15 PT · #filings #markets
-- [QUALIF - My Racehorse CA LLC (0001744448) (Filer)](https://www.sec.gov/Archives/edgar/data/1744448/999999999426000191/9999999994-26-000191-index.htm) — SEC EDGAR All Filings · 21:15 PT · #filings #markets
-- [D - Equitybee 22-46410 a Series of Equitybee cFund Master LLC (0002160588) (Filer)](https://www.sec.gov/Archives/edgar/data/2160588/000216058826000001/0002160588-26-000001-index.htm) — SEC EDGAR All Filings · 18:57 PT · #filings #markets
-- [F-3/A - Webull Corp (0001866364) (Filer)](https://www.sec.gov/Archives/edgar/data/1866364/000121390026109974/0001213900-26-109974-index.htm) — SEC EDGAR All Filings · 18:56 PT · #filings #markets
-- [8-K/A - Ensysce Biosciences, Inc. (0001716947) (Filer)](https://www.sec.gov/Archives/edgar/data/1716947/000149315226047317/0001493152-26-047317-index.htm) — SEC EDGAR 8-K · 18:56 PT · #filings #markets
-- [D - Equitybee 22-75072 a Series of Equitybee cFund Master LLC (0002160583) (Filer)](https://www.sec.gov/Archives/edgar/data/2160583/000216058326000001/0002160583-26-000001-index.htm) — SEC EDGAR All Filings · 18:55 PT · #filings #markets
-- [D - Equitybee 22-84626 a Series of Equitybee cFund Master LLC (0002160479) (Filer)](https://www.sec.gov/Archives/edgar/data/2160479/000216047926000001/0002160479-26-000001-index.htm) — SEC EDGAR All Filings · 18:51 PT · #filings #markets
-- [F-6 - OPay Ltd / ADR (0002152323) (Subject)](https://www.sec.gov/Archives/edgar/data/2152323/000119380526001371/0001193805-26-001371-index.htm) — SEC EDGAR All Filings · 18:50 PT · #filings #markets
-- [4 - Hyperliquid Strategies Inc (0002078856) (Issuer)](https://www.sec.gov/Archives/edgar/data/2078856/000119312526423229/0001193125-26-423229-index.htm) — SEC EDGAR All Filings · 18:38 PT · #filings #markets
-- [4 - KING THOMAS C. (0001774975) (Reporting)](https://www.sec.gov/Archives/edgar/data/1774975/000119312526423228/0001193125-26-423228-index.htm) — SEC EDGAR All Filings · 18:38 PT · #filings #markets
-- [4 - Rosengren Eric S (0001973576) (Reporting)](https://www.sec.gov/Archives/edgar/data/1973576/000119312526423227/0001193125-26-423227-index.htm) — SEC EDGAR All Filings · 18:37 PT · #filings #markets
-- [4 - LEIBOWITZ LAWRENCE E (0001276505) (Reporting)](https://www.sec.gov/Archives/edgar/data/1276505/000119312526423224/0001193125-26-423224-index.htm) — SEC EDGAR All Filings · 18:36 PT · #filings #markets
-- [3 - ALABEDIN ALI MOHAMMAD AHMAD MOHAMMAD (0002159719) (Reporting)](https://www.sec.gov/Archives/edgar/data/2159719/000121390026109968/0001213900-26-109968-index.htm) — SEC EDGAR All Filings · 18:33 PT · #filings #markets
-- [S-1MEF - CITY THERAPEUTICS, INC. (0002143850) (Filer)](https://www.sec.gov/Archives/edgar/data/2143850/000110465926116363/0001104659-26-116363-index.htm) — SEC EDGAR All Filings · 18:32 PT · #filings #markets
-- [8-K - Brand Engagement Network Inc. (0001838163) (Filer)](https://www.sec.gov/Archives/edgar/data/1838163/000149315226047314/0001493152-26-047314-index.htm) — SEC EDGAR 8-K · 18:30 PT · #filings #item-1.01 #markets
-- [3 - TCGX Sponsor II, LLC (0002149914) (Reporting)](https://www.sec.gov/Archives/edgar/data/2149914/000119312526423216/0001193125-26-423216-index.htm) — SEC EDGAR All Filings · 18:18 PT · #filings #markets
-- [3 - ARC Group International Ltd (0002152924) (Reporting)](https://www.sec.gov/Archives/edgar/data/2152924/000149315226047312/0001493152-26-047312-index.htm) — SEC EDGAR All Filings · 18:16 PT · #filings #markets
-- [3 - ARCH Venture Partners XII, L.P. (0001979765) (Reporting)](https://www.sec.gov/Archives/edgar/data/1979765/000110465926116360/0001104659-26-116360-index.htm) — SEC EDGAR All Filings · 18:16 PT · #filings #markets
-- [3 - TCGX Acquisition Corp. II (0002149916) (Issuer)](https://www.sec.gov/Archives/edgar/data/2149916/000119312526423212/0001193125-26-423212-index.htm) — SEC EDGAR All Filings · 18:14 PT · #filings #markets
-- [3 - CITY THERAPEUTICS, INC. (0002143850) (Issuer)](https://www.sec.gov/Archives/edgar/data/2143850/000110465926116359/0001104659-26-116359-index.htm) — SEC EDGAR All Filings · 18:13 PT · #filings #markets
-- [SCHEDULE 13D/A - William Anderson Wittekind (0001753085) (Filed by)](https://www.sec.gov/Archives/edgar/data/1753085/000121465926012970/0001214659-26-012970-index.htm) — SEC EDGAR All Filings · 18:13 PT · #filings #markets
-- [3 - Trousil Sebastian (0002158853) (Reporting)](https://www.sec.gov/Archives/edgar/data/2158853/000110465926116358/0001104659-26-116358-index.htm) — SEC EDGAR All Filings · 18:13 PT · #filings #markets
-- [3 - Regnante Keith (0001682068) (Reporting)](https://www.sec.gov/Archives/edgar/data/1682068/000110465926116357/0001104659-26-116357-index.htm) — SEC EDGAR All Filings · 18:11 PT · #filings #markets
-- [3 - Philip Ron M (0002063957) (Reporting)](https://www.sec.gov/Archives/edgar/data/2063957/000110465926116355/0001104659-26-116355-index.htm) — SEC EDGAR All Filings · 18:10 PT · #filings #markets
-- [3 - ORTH ANDREW C. (0001860010) (Reporting)](https://www.sec.gov/Archives/edgar/data/1860010/000110465926116353/0001104659-26-116353-index.htm) — SEC EDGAR All Filings · 18:09 PT · #filings #markets
-- [3 - Nochur Sara (0001852196) (Reporting)](https://www.sec.gov/Archives/edgar/data/1852196/000110465926116352/0001104659-26-116352-index.htm) — SEC EDGAR All Filings · 18:08 PT · #filings #markets

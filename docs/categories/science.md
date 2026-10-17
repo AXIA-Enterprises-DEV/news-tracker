@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-16T16:57:57-07:00
+updated: 2026-10-16T20:29:32-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,8 @@ tags: ["category", "science"]
 
 ## 2026-10-16
 
+- [How animal identifiability affects children's food choices](https://phys.org/news/2026-10-animal-affects-children-food-choices.html) — Phys.org - latest science and technology news stories · 19:40 PT · #science
+- [Political violence: How justifications influence voter approval](https://phys.org/news/2026-10-political-violence-justifications-voter.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science #civic
 - [Scientists uncover mystery of how snail shells coil to the right or to the left](https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Rabbits were a medieval royal luxury in England—until the Black Death made them commonplace](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Astronomer leads global team on NASA mission to create unprecedented view of the early universe](https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -418,5 +420,3 @@ tags: ["category", "science"]
 - [Global conservation area coverage substantially exceeds current estimates](https://www.nature.com/articles/s41586-026-11157-4) — Nature · 17:00 PT · #science
 - [Engineered TYK2 dependence enables myeloid-selective IL-10 receptor agonism](https://www.nature.com/articles/s41586-026-11176-1) — Nature · 17:00 PT · #science
 - [Elp1 is required for myeloid differentiation and brain repopulation](https://www.nature.com/articles/s41586-026-11112-3) — Nature · 17:00 PT · #science
-- [Modelling mouse embryogenesis from chemically induced totipotent stem cells](https://www.nature.com/articles/s41586-026-11164-5) — Nature · 17:00 PT · #science
-- [Competing mechanisms toughen bcc binary and medium-entropy alloys at 20 K](https://www.nature.com/articles/s41586-026-11065-7) — Nature · 17:00 PT · #science

@@ -1,13 +1,13 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-16T16:57:57-07:00
-count: 87
+updated: 2026-10-16T20:29:32-07:00
+count: 84
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-87 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+84 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-16
 
@@ -122,9 +122,3 @@ tags: ["project", "cannabis"]
 - [Curaleaf increases price for Aurora Cannabis hostile takeover bid](https://mjbizdaily.com/news/curaleaf-increases-price-for-aurora-cannabis-hostile-takeover-bid/618466/) — MJBizDaily · 16:05 PT · #business #cannabis #smallbiz
 - [Why are marijuana multistate operators supporting an anti-marijuana Senate candidate?](https://mjbizdaily.com/news/why-are-marijuana-multistate-operators-supporting-an-anti-marijuana-senate-candidate/618470/) — MJBizDaily · 13:11 PT · #business #cannabis #civic #smallbiz
 - [How the federal hemp ban treats delta-8 THC differently – and what operators are doing](https://mjbizdaily.com/news/how-the-federal-hemp-ban-treats-delta-8-thc-differently-and-what-operators-are-doing/618459/) — MJBizDaily · 10:40 PT · #business #cannabis #smallbiz
-
-## 2026-10-02
-
-- [New York cannabis sales on pace to break record, but signs of stall appear](https://mjbizdaily.com/news/new-york-cannabis-sales-on-pace-to-break-record-but-signs-of-stall-appear/618440/) — MJBizDaily · 14:55 PT · #business #cannabis #smallbiz
-- [Health problems reported after Colorado cannabis vaporizer recall](https://mjbizdaily.com/news/health-problems-reported-after-colorado-cannabis-vaporizer-recall/618431/) — MJBizDaily · 11:27 PT · #business #cannabis #smallbiz
-- [The test all cannabis operators need to run when selecting a vendor](https://mjbizdaily.com/news/the-test-all-cannabis-operators-need-to-run-when-selecting-a-vendor/618422/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz

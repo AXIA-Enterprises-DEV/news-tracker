@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-16T16:57:57-07:00
+updated: 2026-10-16T20:29:32-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,8 +11,25 @@ tags: ["category", "us"]
 
 ## 2026-10-16
 
+- [Man killed during attempted robbery at east Las Vegas business identified; three suspects sought](https://www.ktnv.com/news/man-killed-during-attempted-robbery-at-east-las-vegas-business-identified-three-suspects-sought) — KTNV Las Vegas · 20:05 PT · #us #nevada
+- [Nevada Preps Friday night football results: Scores from Week 10 from Las Vegas, Nevada schools](https://www.reviewjournal.com/nevada-preps/np-football/nevada-preps-friday-night-football-results-scores-from-week-10-from-las-vegas-nevada-schools-3901258/) — Las Vegas Review-Journal · 19:49 PT · #us #nevada
+- [Former Las Vegas resident says clean up voter rolls](https://www.ktnv.com/news/former-las-vegas-resident-says-clean-up-voter-rolls) — KTNV Las Vegas · 19:33 PT · #us #nevada
+- [How Culver City is quietly emerging as a new mecca for AI filmmaking](https://www.latimes.com/business/story/2026-10-16/as-hollywood-warms-to-ai-culver-city-fills-with-ai-studios) — World & Nation · 19:33 PT · #us #ai
+- [Jalen Nailor focused on winning, returning to Raiders receiving corps](https://www.reviewjournal.com/sports/raiders/jalen-nailor-focused-on-winning-returning-to-raiders-receiving-corps-3901244/) — Las Vegas Review-Journal · 19:09 PT · #us #nevada
+- [‘Literally relentless’: Bills praise Raiders’ Maxx Crosby before Week 6 game](https://www.reviewjournal.com/sports/raiders/literally-relentless-bills-praise-raiders-maxx-crosby-before-week-6-game-3901224/) — Las Vegas Review-Journal · 18:40 PT · #us #nevada
+- [How a bone sample and a social media post helped identify Lake Mead barrel victim](https://www.reviewjournal.com/local/local-las-vegas/how-a-bone-sample-and-a-social-media-post-helped-identify-lake-mead-barrel-victim-3901215/) — Las Vegas Review-Journal · 18:36 PT · #us #nevada
+- [College football picks, predictions: Games get personal for Northwestern, BYU](https://www.reviewjournal.com/sports/betting/college-football-picks-predictions-games-get-personal-for-northwestern-byu-3901206/) — Las Vegas Review-Journal · 17:21 PT · #us #nevada
+- [College football betting, predictions: Trust underdogs in Week 7](https://www.reviewjournal.com/sports/betting/college-football-betting-predictions-trust-underdogs-in-week-7-3901202/) — Las Vegas Review-Journal · 17:17 PT · #us #nevada
+- [Raiders look to replace key defensive piece against powerful Bills offense](https://www.reviewjournal.com/sports/raiders/raiders-look-to-replace-key-defensive-piece-against-powerful-bills-offense-3901198/) — Las Vegas Review-Journal · 17:10 PT · #us #nevada
+- [Local economist says AI could create jobs as well as eliminate them](https://www.ktnv.com/neighborhoods/southwest-las-vegas/local-economist-says-ai-could-create-jobs-as-well-as-eliminate-them) — KTNV Las Vegas · 17:10 PT · #us #ai #nevada
+- [Las Vegas police investigating shooting near Fremont Street](https://www.reviewjournal.com/crime/shootings/las-vegas-police-investigating-shooting-near-fremont-street-3901195/) — Las Vegas Review-Journal · 17:06 PT · #us #nevada
+- [Southern California homes burned by wildfire fueled by hot weather — PHOTOS](https://www.reviewjournal.com/news/nation-and-world/southern-california-homes-burned-by-wildfire-fueled-by-hot-weather-photos-3901186/) — Las Vegas Review-Journal · 16:58 PT · #us #nevada
+- [Interim no longer: UNLV makes Heavey new president](https://lasvegassun.com/news/2026/oct/16/interim-no-longer-unlv-names-heavey-as-new-preside/) — Las Vegas Sun · 16:56 PT · #us #nevada
 - [No injuries reported after shots fired near Clark High School, police say](https://www.ktnv.com/news/no-injuries-reported-after-shots-fired-near-clark-high-school-police-say) — KTNV Las Vegas · 16:53 PT · #us #nevada
+- [‘We’ll keep working at it’: Knights power play in rut after shorthanded goals](https://www.reviewjournal.com/sports/goldenknights/well-keep-working-at-it-knights-power-play-in-rut-after-shorthanded-goals-3901182/) — Las Vegas Review-Journal · 16:49 PT · #us #nevada
+- [How to watch UNLV vs. Air Force: TV channel, time, radio for Rebels’ Week 7 matchup](https://www.reviewjournal.com/sports/unlv/unlv-football/how-to-watch-unlv-vs-air-force-tv-channel-time-radio-for-rebels-week-7-matchup-3901176/) — Las Vegas Review-Journal · 16:44 PT · #us #nevada
 - [Friday night roundup: High school football scores in Las Vegas](https://lasvegassun.com/news/2026/oct/16/friday-night-roundup-high-school-football-scores-i/) — Las Vegas Sun · 16:07 PT · #us #nevada
+- [De última hora: Arizona se suma a demanda de Nevada por los recortes del Río Colorado](https://thenevadaindependent.com/article/de-ultima-hora-arizona-se-suma-a-demanda-de-nevada-por-los-recortes-del-rio-colorado/) — The Nevada Independent · 16:06 PT · #us #nevada
 - [Shohei Ohtani's health and a possible lockout loom over an uncertain offseason for the Dodgers](https://lasvegassun.com/news/2026/oct/16/shohei-ohtanis-health-and-a-possible-lockout-loom/) — Las Vegas Sun · 16:05 PT · #us #nevada
 - [California officials who process ballots from suspected noncitizens risk prosecution, US warns](https://lasvegassun.com/news/2026/oct/16/california-officials-who-process-ballots-from-susp/) — Las Vegas Sun · 16:00 PT · #us #civic #nevada
 - [COMMENTARY: Fewer students should mean smarter schools, not permanent budgets](https://www.reviewjournal.com/opinion/commentary-fewer-students-should-mean-smarter-schools-not-permanent-budgets-3901171/) — Las Vegas Review-Journal · 15:47 PT · #us #nevada
@@ -53,6 +70,7 @@ tags: ["category", "us"]
 - [Nevada Preps Girls Athlete of the Week: Sky Pointe’s Rayna Lewis](https://www.reviewjournal.com/nevada-preps/nevada-preps-girls-athlete-of-the-week-sky-pointes-rayna-lewis-3900982/) — Las Vegas Review-Journal · 10:00 PT · #us #nevada
 - [Nevada Preps Boys Athlete of the Week: Sky Pointe’s Ryan Petty](https://www.reviewjournal.com/nevada-preps/nevada-preps-boys-athlete-of-the-week-sky-pointes-ryan-petty-3900978/) — Las Vegas Review-Journal · 10:00 PT · #us #nevada
 - [Banana Ball returning to Las Vegas for 3 games](https://www.reviewjournal.com/sports/baseball/banana-ball-returning-to-las-vegas-for-3-games-3900972/) — Las Vegas Review-Journal · 09:48 PT · #us #nevada
+- [Israeli Mob Beats Washington Post Journalist, Burns Olive Trees In West Bank](https://www.huffpost.com/entry/israelis-attack-journalist-burn-olive-trees-west-bank_n_6ad24868e4b0dccf572afdfc) — World News - Breaking News, Top Stories · 09:47 PT · #us #foreign #media
 - [Metro: Man shot and killed during robbery at Las Vegas business](https://lasvegassun.com/news/2026/oct/16/metro-man-shot-and-killed-during-robbery-at-las-ve/) — Las Vegas Sun · 09:26 PT · #us #nevada
 - [Mark Stone has 3rd-period hat trick in the Golden Knights' 6-2 win over the Flames](https://lasvegassun.com/news/2026/oct/16/mark-stone-has-3rd-period-hat-trick-in-the-golden/) — Las Vegas Sun · 07:58 PT · #us #nevada
 - [RJ reporters, editors make picks for UNLV’s football game at Air Force](https://www.reviewjournal.com/sports/unlv/rj-reporters-editors-make-picks-for-unlvs-football-game-at-air-force-3900942/) — Las Vegas Review-Journal · 07:30 PT · #us #nevada
@@ -405,21 +423,3 @@ tags: ["category", "us"]
 - [Golden Knights fall in hole again, win streak snapped vs. Wild](https://www.reviewjournal.com/sports/goldenknights/golden-knights-have-4-game-win-streak-end-in-loss-to-wild-3899336/) — Las Vegas Review-Journal · 19:50 PT · #us #nevada
 - [What to watch for when Lakers, Warriors meet at T-Mobile Arena](https://www.reviewjournal.com/sports/nba/what-to-watch-for-when-lakers-warriors-meet-at-t-mobile-arena-3899332/) — Las Vegas Review-Journal · 19:40 PT · #us #nevada
 - [Are Klint Kubiak, Raiders open to changes along offensive line?](https://www.reviewjournal.com/sports/raiders/are-klint-kubiak-raiders-open-to-changes-along-offensive-line-3899300/) — Las Vegas Review-Journal · 18:32 PT · #us #nevada
-- [Ex-Las Vegas officer pleads guilty to stalking. Police said he made a hit list.](https://www.reviewjournal.com/crime/courts/ex-metro-officer-pleads-guilty-to-stalking-police-said-he-made-a-hit-list-3899295/) — Las Vegas Review-Journal · 18:27 PT · #us #nevada
-- [UNLV football coaches found magic in victory: Run the ball](https://www.reviewjournal.com/sports/unlv/unlv-football/unlv-football-coaches-found-magic-in-victory-run-the-ball-3899292/) — Las Vegas Review-Journal · 18:26 PT · #us #nevada
-- [Duane 'Keefe D' Davis to be sentenced for 1996 murder of rap legend Tupac Shakur](https://www.ktnv.com/news/crime/duane-keefe-d-davis-to-be-sentenced-for-1996-murder-of-rap-legend-tupac-shakur) — KTNV Las Vegas · 18:06 PT · #us #nevada
-- [Storms pound Henderson; big cooldown coming for Las Vegas — PHOTOS](https://www.reviewjournal.com/local/weather/storms-pound-henderson-big-cooldown-coming-for-las-vegas-valley-3899276/) — Las Vegas Review-Journal · 17:56 PT · #us #nevada
-- [Mattress Mania in southwest Las Vegas remains open after break-in, stolen mattresses](https://www.ktnv.com/neighborhoods/southwest-las-vegas/mattress-mania-in-southwest-las-vegas-remains-open-after-break-in-stolen-mattresses) — KTNV Las Vegas · 17:25 PT · #us #nevada
-- [Short-term rentals licensing process might reopen as appeals court rules injunction too broad](https://www.reviewjournal.com/news/politics-and-government/clark-county/short-term-rentals-licensing-process-might-reopen-as-appeals-court-rules-injunction-too-broad-3899273/) — Las Vegas Review-Journal · 17:16 PT · #us #nevada
-- [Six Flags closes 9 rides after fatal roller coaster incident in Georgia](https://www.reviewjournal.com/news/nation-and-world/one-person-dies-after-incident-involving-six-flags-roller-coaster-in-georgia-3899269/) — Las Vegas Review-Journal · 17:12 PT · #us #nevada
-- [Shine A Light teams assist unhoused residents after weekend flooding](https://www.ktnv.com/neighborhoods/north-las-vegas/shine-a-light-teams-assist-unhoused-residents-after-weekend-flooding) — KTNV Las Vegas · 16:48 PT · #us #nevada
-- [New Golden Knights defenseman out indefinitely with injury](https://www.reviewjournal.com/sports/goldenknights/new-golden-knights-defenseman-out-indefinitely-with-injury-3899257/) — Las Vegas Review-Journal · 16:38 PT · #us #nevada
-- [Nevada Preps rankings: Sloan Canyon moves up to No. 5 in football](https://www.reviewjournal.com/nevada-preps/nevada-preps-rankings-sloan-canyon-moves-up-to-no-5-in-football-3899250/) — Las Vegas Review-Journal · 15:47 PT · #us #nevada
-- [‘Breaking Bad’ actor and disability rights champion RJ Mitte dies at 34](https://www.reviewjournal.com/news/nation-and-world/breaking-bad-actor-and-disability-rights-champion-rj-mitte-dies-at-34-3899245/) — Las Vegas Review-Journal · 15:41 PT · #us #nevada
-- [CCSD schools honored for academic achievements by superintendent](https://www.ktnv.com/news/ccsd-schools-honored-for-academic-achievements-by-superintendent) — KTNV Las Vegas · 15:27 PT · #us #nevada
-- [Vote on Nevada Preps girls Athlete of the Week, Oct. 5-10](https://www.reviewjournal.com/nevada-preps/vote-on-nevada-preps-girls-athlete-of-the-week-oct-5-10-3899236/) — Las Vegas Review-Journal · 15:02 PT · #us #nevada
-- [Vote for Nevada Preps boys Athlete of the Week, Oct. 5-10](https://www.reviewjournal.com/nevada-preps/vote-for-nevada-preps-boys-athlete-of-the-week-oct-5-10-3899230/) — Las Vegas Review-Journal · 14:58 PT · #us #nevada
-- [President Donald Trump to campaign in Bullhead City ahead of Midterm Election](https://www.ktnv.com/news/president-donald-trump-to-campaign-in-bullhead-city-ahead-of-midterm-election) — KTNV Las Vegas · 10:33 PT · #us #civic #nevada
-- [Judging the judges](https://thenevadaindependent.com/article/judging-the-judges/) — The Nevada Independent · 08:50 PT · #us #nevada
-- [Las Vegas law enforcement joins traffic safety campaign amid recent pedestrian-related crashes](https://www.ktnv.com/news/law-enforcement-agencies-join-traffic-safety-campaign-as-las-vegas-valley-sees-multiple-pedestrian-related-accidents) — KTNV Las Vegas · 08:21 PT · #us #nevada
-- [Skies Over Saudi Capital Empty After Deadly Houthi Airport Strikes](https://www.huffpost.com/entry/riyadh-attack-houthis-saudi-arabia_n_6acce4dce4b0ec20eb6b45c5) — World News - Breaking News, Top Stories · 06:51 PT · #us #foreign
