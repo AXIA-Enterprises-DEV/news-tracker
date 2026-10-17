@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-17T10:55:14-07:00
+updated: 2026-10-17T13:04:30-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,9 @@ tags: ["category", "us"]
 
 ## 2026-10-17
 
+- [Nevada GOP House candidate’s online forum rife with slurs and Nazi talk, AP review finds](https://www.reviewjournal.com/news/politics-and-government/online-forum-controlled-by-nevada-gop-house-candidate-contains-slurs-and-nazi-talk-ap-review-finds-3901477/) — Las Vegas Review-Journal · 12:21 PT · #us #civic #nevada
+- [Who is Steve Kerr’s doppelganger? Las Vegas man goes viral again](https://www.reviewjournal.com/sports/nba/who-is-steve-kerrs-doppelganger-las-vegas-man-goes-viral-again-3901466/) — Las Vegas Review-Journal · 11:25 PT · #us #nevada
+- [Two hospitalized after shooting in Sunrise Manor, LVMPD says](https://www.ktnv.com/news/crime/two-hospitalized-after-shooting-in-sunrise-manor-lvmpd-says) — KTNV Las Vegas · 11:07 PT · #us #nevada
 - [Sullivan walks the line in Alaska](https://www.politico.com/newsletters/playbook/2026/10/17/sullivan-walks-the-line-in-alaska-01125232) — Playbook · 07:47 PT · #us
 - [Ex-Las Vegas TV reporter says wrongfully convicted woman gave money to her son](https://www.reviewjournal.com/crime/courts/ex-las-vegas-tv-reporter-says-wrongfully-convicted-woman-gave-money-to-her-son-3901449/) — Las Vegas Review-Journal · 07:00 PT · #us #media #nevada
 - [Raiders vs. Bills preview: How they match up, injuries, bold predictions](https://www.reviewjournal.com/sports/raiders/raiders-vs-bills-preview-how-they-match-up-injuries-bold-predictions-3901444/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
@@ -420,6 +423,3 @@ tags: ["category", "us"]
 - [Liking Las Vegas: UAE delegation visits to explore business, tourism opportunities](https://thenevadaindependent.com/article/liking-las-vegas-uae-delegation-visits-to-explore-business-tourism-opportunities/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [OPINION: Nevada law is built to tame Big Tech's rogue AI experiments](https://thenevadaindependent.com/article/opinion-nevada-law-is-built-to-tame-big-techs-rogue-ai-experiments/) — The Nevada Independent · 02:00 PT · #us #ai #nevada
 - [Some Nevada unions love data centers. Now they just have to convince everyone else.](https://thenevadaindependent.com/article/some-unions-love-data-centers-now-they-just-have-to-convince-everyone-else/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [College football by the odds: Vegas picks and preview of every Week 7 game](https://lasvegassun.com/blogs/talking-points/2026/oct/13/college-football-odds-vegas-picks-spread-jeremiah/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Vegas Inc celebrates 2026 Women Inspiring Nevada honorees at AREA15](https://vegasinc.lasvegassun.com/business/2026/oct/13/vegas-inc-celebrates-2026-women-inspiring-nevada-h/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Pacific hurricane region sets record for big, long-lasting storms thanks to El Niño](https://lasvegassun.com/news/2026/oct/13/pacific-hurricane-region-sets-record-for-big-long/) — Las Vegas Sun · 02:00 PT · #us #nevada

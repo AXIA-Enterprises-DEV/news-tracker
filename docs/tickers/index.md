@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-17T10:55:14-07:00
-count: 241
+updated: 2026-10-17T13:04:30-07:00
+count: 245
 tags: ["tickers"]
 ---
 
@@ -34,6 +34,8 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$BCS](BCS.md) — 1 items
+- [$OXY](OXY.md) — 1 items
 - [$AI](AI.md) — 1 items
 - [$INV](INV.md) — 1 items
 - [$DAVA](DAVA.md) — 1 items
@@ -52,12 +54,14 @@ tags: ["tickers"]
 - [$OLED](OLED.md) — 1 items
 - [$PMT](PMT.md) — 1 items
 - [$BORR](BORR.md) — 1 items
+- [$YUM](YUM.md) — 1 items
 - [$BRUN](BRUN.md) — 1 items
 - [$UPS](UPS.md) — 1 items
 - [$PLAY](PLAY.md) — 1 items
 - [$EGY](EGY.md) — 1 items
 - [$EH](EH.md) — 1 items
 - [$SMTC](SMTC.md) — 1 items
+- [$VRNS](VRNS.md) — 1 items
 - [$MRP](MRP.md) — 1 items
 - [$FATN](FATN.md) — 1 items
 - [$VNT](VNT.md) — 1 items

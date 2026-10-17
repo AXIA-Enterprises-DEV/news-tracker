@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-17T10:55:14-07:00
+updated: 2026-10-17T13:04:30-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,9 @@ tags: ["category", "science"]
 
 ## 2026-10-17
 
+- [How one of Earth's worst volcanic disasters affected societies in prehistoric Japan](https://phys.org/news/2026-10-earth-worst-volcanic-disasters-affected.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
+- [Simulations explore nuclear mitigation of asteroid threats](https://phys.org/news/2026-10-simulations-explore-nuclear-mitigation-asteroid.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
+- [Quantum magic state cleanup cuts errors 40-fold in first successful hardware test](https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
 - [What an ancient volcanic eruption teaches us about resilience today](https://phys.org/news/2026-10-ancient-volcanic-eruption-resilience-today.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
 - [WhatsApp like a pro with these 7 expert tricks and hidden features](https://www.popsci.com/diy/how-to-get-more-out-of-whatsapp-change-how-you-message-tech-tips/) — Popular Science · 10:00 PT · #science
 - [Hand-cranked device tells blood type and red cell levels in 1 minute](https://phys.org/news/2026-10-cranked-device-blood-red-cell.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
@@ -420,6 +423,3 @@ tags: ["category", "science"]
 
 - [Gigantic prehistoric snake discovered in India may have been one of the largest ever](https://www.sciencedaily.com/releases/2026/10/261014001406.htm) — Latest Science News -- ScienceDaily · 22:44 PT · #science
 - [New knee arthritis treatment delivers lasting pain relief without surgery](https://www.sciencedaily.com/releases/2026/10/261013234801.htm) — Latest Science News -- ScienceDaily · 21:39 PT · #science
-- [APOD: 2026 October 14 – Mars and the Beehive Under an Aurora](https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/) — NASA · 21:05 PT · #science
-- [Hurricane Simon Lurks Off the Mexican Coast](https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/) — NASA · 21:01 PT · #science
-- [Wild bobwhite quail spotted after habitat restoration project](https://phys.org/news/2026-10-wild-bobwhite-quail-habitat.html) — Phys.org - latest science and technology news stories · 20:20 PT · #science

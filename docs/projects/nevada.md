@@ -1,6 +1,6 @@
 ---
 title: "Project: Nevada / Las Vegas"
-updated: 2026-10-17T10:55:14-07:00
+updated: 2026-10-17T13:04:30-07:00
 count: 400
 tags: ["project", "nevada"]
 ---
@@ -11,6 +11,9 @@ tags: ["project", "nevada"]
 
 ## 2026-10-17
 
+- [Nevada GOP House candidate’s online forum rife with slurs and Nazi talk, AP review finds](https://www.reviewjournal.com/news/politics-and-government/online-forum-controlled-by-nevada-gop-house-candidate-contains-slurs-and-nazi-talk-ap-review-finds-3901477/) — Las Vegas Review-Journal · 12:21 PT · #us #civic #nevada
+- [Who is Steve Kerr’s doppelganger? Las Vegas man goes viral again](https://www.reviewjournal.com/sports/nba/who-is-steve-kerrs-doppelganger-las-vegas-man-goes-viral-again-3901466/) — Las Vegas Review-Journal · 11:25 PT · #us #nevada
+- [Two hospitalized after shooting in Sunrise Manor, LVMPD says](https://www.ktnv.com/news/crime/two-hospitalized-after-shooting-in-sunrise-manor-lvmpd-says) — KTNV Las Vegas · 11:07 PT · #us #nevada
 - [Ex-Las Vegas TV reporter says wrongfully convicted woman gave money to her son](https://www.reviewjournal.com/crime/courts/ex-las-vegas-tv-reporter-says-wrongfully-convicted-woman-gave-money-to-her-son-3901449/) — Las Vegas Review-Journal · 07:00 PT · #us #media #nevada
 - [Trump’s Election Interference Is Underway - The Bulwark](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWN1c0NBZmVPTWwyNW9ubXUwQ0ZLamVQanZ0NERZcFFPQ01WS0wwVWxUcm1iMTUtdmhobnNKaGFMMkxfc0tCaHl5NmZIT1JoNlN3QkEzWmhsM09JT0J1d0hZTm1IU2N2UktyS3lwLTByOWtyajU3dm9jRk1oTk1OblRMblpTNmJSYjA3N3poTnJrVTBnWURzWmhwMGtTS3NMNnB0d2Y0MjlqQlUxMWFTbVUzTnBBVkpUUVln?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 06:40 PT · #politics #civic #nevada
 - [OPINION: Who Controls the Field? When TPAction Enters Local Party Operations - Nevada Globe](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUwxLVJnTGRKMFZiV3hHbHJkbVpwbmZLbTUwU21zVnhGU19YWFlXVC1CNzZNNzI1TkhWNUU0NFVycEdDelB0QTRNeks3UURGcUlMZEc1dVBmT0tZS09oU2lqV0FuOWdhYy14MURldlpqNkYyeU04SmdPekRGVy1id0d6MkRnc19QODE3ZnUzRG5FY2NROEswTnpvVUtHTzZiRGo5OFluWmZUYXVyQ0htSw?oc=5) — Google News: Nevada ballot question · 06:02 PT · #politics #civic #nevada
@@ -417,6 +420,3 @@ tags: ["project", "nevada"]
 - [3450 Erva St Apt 261, Las Vegas, NV 89117 - Realtor.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2sxWUl2S0N2aVIycE56ZEZLTUNiQ1FlRi1YR3RQMUZjb19VTHJxczcyZ0NmRUE2ajB6UjhpaWtrR0J5d2tKWjJ1WUl3WF9EZWpnRmVaVndVazRLMU4zNVl5RlQ2eFhPRFhLR2JJa0NzRXJyemI2VndYYk9rSkJUeWMyTUl6VURLR3hoTEk2RjNkNF9TVl9j?oc=5) — Google News: Las Vegas real estate · 18:05 PT · #business #nevada #realestate
 - [First Friday pauses monthly downtown Las Vegas event after deadly shooting](https://www.ktnv.com/news/first-friday-pauses-monthly-downtown-las-vegas-event-after-deadly-shooting) — KTNV Las Vegas · 18:01 PT · #us #nevada
 - [Rapper, Las Vegas nightclub sued over alleged assault of teen](https://www.reviewjournal.com/crime/courts/rapper-las-vegas-nightclub-sued-over-alleged-assault-of-teen-3900104/) — Las Vegas Review-Journal · 17:53 PT · #us #nevada
-- [Watchdog group seeks to block Jared Kushner from serving in his volunteer envoy role](https://lasvegassun.com/news/2026/oct/14/watchdog-group-seeks-to-block-jared-kushner-from-s/) — Las Vegas Sun · 17:39 PT · #us #nevada
-- [Federal appeals court hands down ruling on Clark County short-term rental process](https://www.ktnv.com/news/federal-appeals-court-hands-down-ruling-on-clark-county-short-term-rental-process) — KTNV Las Vegas · 17:38 PT · #us #nevada
-- [Luna, a small dog missing for over a month in Yellowstone, is reunited with her owners](https://lasvegassun.com/news/2026/oct/14/luna-a-small-dog-missing-for-over-a-month-in-yello/) — Las Vegas Sun · 17:36 PT · #us #nevada
