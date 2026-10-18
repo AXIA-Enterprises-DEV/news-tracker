@@ -1,6 +1,6 @@
 ---
 title: "Project: AI / LLM / Mac"
-updated: 2026-10-17T15:14:38-07:00
+updated: 2026-10-17T17:06:11-07:00
 count: 400
 tags: ["project", "ai"]
 ---
@@ -11,6 +11,8 @@ tags: ["project", "ai"]
 
 ## 2026-10-17
 
+- [OpenAI is building a humanoid robot, but the body isn't the real challenge](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/) — Engadget - Technology News & Expert Reviews · 16:45 PT · #tech #ai
+- [iPhone Duo walk-in purchases might be challenging at launch, per report](https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/) — 9to5Mac · 15:21 PT · #tech #ai
 - [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) — TechCrunch · 14:31 PT · #tech #ai
 - [Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases](https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/) — MacRumors · 14:30 PT · #tech #ai
 - [As AI Speeds Up Marketing, Louisville's RedTag Bets on Strategy](https://www.prnewswire.com/news-releases/as-ai-speeds-up-marketing-louisvilles-redtag-bets-on-strategy-302911869.html) — PR Newswire M&A · 13:35 PT · #business #ai
@@ -415,5 +417,3 @@ tags: ["project", "ai"]
 - [Huawei stelt voor AIDC-gecentreerd volledig optisch netwerk OTN van de volgende generatie voor](https://www.prnewswire.com/news-releases/huawei-stelt-voor-aidc-gecentreerd-volledig-optisch-netwerk-otn-van-de-volgende-generatie-voor-302910938.html) — PR Newswire M&A · 22:25 PT · #business #ai
 - [G7 to launch exercises to guard against AI cyber attacks](https://www.investing.com/news/economy-news/g7-to-launch-exercises-to-guard-against-ai-cyber-attacks-4953109) — All News · 22:24 PT · #business #ai
 - [Even Benchmark thinks AI is eroding the venture pact against backing rivals](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/) — TechCrunch · 22:16 PT · #tech #ai
-- [Fed’s Warsh says AI boom could boost growth, but warns of bumpy transition](https://www.investing.com/news/economy-news/feds-warsh-says-ai-boom-could-boost-growth-but-warns-of-bumpy-transition-4953102) — All News · 22:15 PT · #business #ai
-- [Apple, Meta collaborate on Muse Spark Open for Mac Studio - TechGig](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjd6V2xZMXM0S3YtVE9VcXh6SjlfdEhoN0V3TUFLS2dmOTJXYk0yTnFPOUpaZE1WV0o1VTA1VVpmeWxubjVMTnRVRkZQT1pvZVNGaFdMQXJXRUhVd29ySTZhRUh5ZGllektUSmZNNzV6bjI0OVhhSHlPVkwtS0Z3YXh6VEVxMTdKdkNrNGs5ZDNDVl9mV2RycjN30gGfAUFVX3lxTE1wT1k0eTBGblJPdFNtZ0JWZFZWcjJTSjNrZjJJQ1ZLdG9XNUZ2YzFtTWRWSzVOSHdmc2hZTXhTRVV4cXh5RmRHeFpmQktFZXhkRW50Y1gzeUR1ODFxcVljTE4xOWR6STRkazQtUVpmZU5oTTVrYV8tRFJtUlFyR0d6VW9rVnBMano1czBiUEg1YkFicjdDWUhKT3A5Yjk4WQ?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 22:10 PT · #tech #ai

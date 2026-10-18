@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-17T15:14:38-07:00
+updated: 2026-10-17T17:06:11-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,10 @@ tags: ["category", "us"]
 
 ## 2026-10-17
 
+- [Week 10 scores, Week 11 playoffs schedule for Friday night football](https://www.reviewjournal.com/nevada-preps/np-football/week-10-scores-week-11-playoffs-schedule-for-friday-night-football-3901526/) — Las Vegas Review-Journal · 15:53 PT · #us #civic #nevada
+- [Air Force runs all over UNLV football in Mountain West victory](https://www.reviewjournal.com/sports/unlv/unlv-football/air-force-runs-all-over-unlv-football-in-mountain-west-victory-3901521/) — Las Vegas Review-Journal · 15:49 PT · #us #nevada
+- [NFL betting, player props: Bills defense exposes good bet for Raiders](https://www.reviewjournal.com/sports/betting/nfl-betting-player-props-bills-defense-exposes-good-bet-for-raiders-3901515/) — Las Vegas Review-Journal · 15:09 PT · #us #nevada
+- [NFL betting, predictions: Bet on Sunday’s games to be ‘dog day](https://www.reviewjournal.com/sports/betting/nfl-betting-predictions-bet-on-sundays-games-to-be-dog-day-3901511/) — Las Vegas Review-Journal · 15:06 PT · #us #nevada
 - [Prep football recap: Superintendent’s Cup finals, 5A/Open playoff seeds set](https://www.reviewjournal.com/nevada-preps/prep-football-recap-superintendents-cup-finals-5a-open-playoff-seeds-set-3901504/) — Las Vegas Review-Journal · 14:48 PT · #us #nevada
 - [NFL announces punishment for Raiders defensive end after loss to Patriots](https://www.reviewjournal.com/sports/raiders/nfl-announces-punishment-for-raiders-defensive-end-after-loss-to-patriots-3901500/) — Las Vegas Review-Journal · 14:29 PT · #us #nevada
 - [Group proposes changes to regulations affecting HOAs](https://www.reviewjournal.com/business/business-columns/barbara-holland/group-proposes-changes-to-regulations-affecting-hoas-3901494/) — Las Vegas Review-Journal · 14:00 PT · #us #nevada
@@ -22,8 +26,10 @@ tags: ["category", "us"]
 - [Two hospitalized after shooting in Sunrise Manor, LVMPD says](https://www.ktnv.com/news/crime/two-hospitalized-after-shooting-in-sunrise-manor-lvmpd-says) — KTNV Las Vegas · 11:07 PT · #us #nevada
 - [Sullivan walks the line in Alaska](https://www.politico.com/newsletters/playbook/2026/10/17/sullivan-walks-the-line-in-alaska-01125232) — Playbook · 07:47 PT · #us
 - [Ex-Las Vegas TV reporter says wrongfully convicted woman gave money to her son](https://www.reviewjournal.com/crime/courts/ex-las-vegas-tv-reporter-says-wrongfully-convicted-woman-gave-money-to-her-son-3901449/) — Las Vegas Review-Journal · 07:00 PT · #us #media #nevada
+- [Zelenskyy Urges Support For New U.S. Sanctions On Russia After Trump Puts Them On Hold](https://www.huffpost.com/entry/zelenskyy-urges-support-new-us-sanctions-russia-after-trump-hold_n_6ad37480e4b0ce24aed9f0c2) — World News - Breaking News, Top Stories · 06:19 PT · #us #foreign
 - [Raiders vs. Bills preview: How they match up, injuries, bold predictions](https://www.reviewjournal.com/sports/raiders/raiders-vs-bills-preview-how-they-match-up-injuries-bold-predictions-3901444/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [How a Raiders newcomer from Buffalo sees path toward building a contender](https://www.reviewjournal.com/sports/raiders/how-a-raiders-newcomer-from-buffalo-sees-path-toward-building-a-contender-3901431/) — Las Vegas Review-Journal · 06:00 PT · #us #markets #nevada
+- [Pope Leo Returns To The Vatican 4 Days After Lung Cancer Surgery](https://www.huffpost.com/entry/pope-leo-to-be-released-hospital-saturday-4-days-lung-cancer-surger_n_6ad35f25e4b0ce24aed9f08f) — World News - Breaking News, Top Stories · 04:51 PT · #us
 - [Our top takeaways from Nevada's new campaign finance reports](https://thenevadaindependent.com/article/our-top-takeaways-from-nevadas-new-campaign-finance-reports/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
 - [Banana Ball returns to Las Vegas for three games in March](https://lasvegassun.com/news/2026/oct/17/banana-ball-returns-to-las-vegas-for-three-games-i/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Reversing the decision to livestream an execution doesn't erase Trump's politics of cruelty](https://lasvegassun.com/news/2026/oct/17/reversing-the-decision-to-livestream-an-execution/) — Las Vegas Sun · 02:00 PT · #us #nevada
@@ -417,9 +423,3 @@ tags: ["category", "us"]
 - [Guilfoyle quits Greece post amid latest allegations of improper profiting by Trump associates](https://www.latimes.com/world-nation/story/2026-10-13/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct) — World & Nation · 07:35 PT · #us
 - [Trump’s ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct](https://www.reviewjournal.com/news/politics-and-government/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct-white-house-3899475/) — Las Vegas Review-Journal · 07:26 PT · #us #nevada
 - [Hackers Heat French Supermarket Fridges, Sparking Fires And Spoiling Food](https://www.huffpost.com/entry/french-supermarkets-cyber-attack_n_6ace3836e4b0447f8d488e08) — World News - Breaking News, Top Stories · 07:02 PT · #us
-- [Lombardo and Ford are unlikely to debate — what you need to know about the standoff](https://thenevadaindependent.com/article/lombardo-and-ford-are-unlikely-to-debate-what-you-need-to-know-about-the-standoff/) — The Nevada Independent · 07:00 PT · #us #nevada
-- [Motorcyclist critical after crash in south Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/motorcyclist-critical-after-crash-in-south-las-vegas-valley-3899458/) — Las Vegas Review-Journal · 06:39 PT · #us #nevada
-- [From Naked City to commercial real estate, Steve Neiger has a front-row seat to Las Vegas’ growth](https://www.reviewjournal.com/business/vegas-business/c-suite-insider/from-naked-city-to-commercial-real-estate-steve-neiger-has-a-front-row-seat-to-las-vegas-growth-3899454/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada #realestate
-- [‘We had some looks’: Knights power play cold against elite Wild PK](https://www.reviewjournal.com/sports/goldenknights/we-had-some-looks-knights-power-play-cold-against-elite-wild-pk-3899448/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
-- [Inside Gaming: Strip resort unveils 275-suite luxury hotel-within-a-hotel](https://www.reviewjournal.com/business/business-columns/inside-gaming/inside-gaming-strip-resort-unveils-275-suite-luxury-hotel-within-a-hotel-3899442/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
-- [Four Seasons condo towers in Henderson reach $950M in sales](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/four-seasons-condo-towers-in-henderson-reach-950m-in-sales-3899438/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada

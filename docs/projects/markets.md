@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-17T15:14:38-07:00
+updated: 2026-10-17T17:06:11-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,10 +11,12 @@ tags: ["project", "markets"]
 
 ## 2026-10-17
 
+- [Goldman Sachs CEO Sees Tokenization as Wall Street’s Next Act](https://news.bitcoin.com/finance/goldman-sachs-ceo-sees-tokenization-as-wall-streets-next-act/) — Bitcoin News · 16:30 PT · #markets #realestate
 - [Dividend Reinvestment Is a Setting – Check It on Every Holding You Own](https://www.moneycrashers.com/dividend-reinvestment-setting/) — Money Crashers · 14:45 PT · #markets
 - [LINC Investors Have Opportunity to Lead Lincoln Educational Services Corporation Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/linc-investors-have-opportunity-to-lead-lincoln-educational-services-corporation-securities-fraud-lawsuit-302911677.html) — PR Newswire M&A · 14:29 PT · #business #markets $LINC
 - [The Rule of 72 – Compare Rates in Years, Not Percentages](https://www.moneycrashers.com/rule-of-72-compare-rates/) — Money Crashers · 14:15 PT · #markets
 - [Strategy Declares Daily STRC Dividends As Saylor Targets $100 Share Price](https://www.newsbtc.com/bitcoin-news/strategy-declares-daily-strc-dividends-as-saylor-targets-100-share-pri/) — NewsBTC · 14:13 PT · #markets
+- [Arch Manning struggles, Colin Simmons injured as Florida scores 24 straight to upset No. 7 Texas - Yahoo Sports](https://news.google.com/rss/articles/CBMigwJBVV95cUxNSV96WThDZzk2dlk5eTNfbkU3TE5EUGlhNlpwQ1lrYXlqU2xySkNYcEowQTBDb0ZBd0w1TDRqVVZYV1lOLTFRNldWVFRtT2lzbXlSR21rR3lPYUliOXBCaXFmeUFyTXpFQUk4UFlVUEV1QTQ1UnR5TmJZRExHVmZ6ODF0UDl0SFkyR2xRUE9xbk5raTlUbDdtbXhEZXNWN09CSUhKLXBINGtQVEhUN0VfQUZsZXdOWlJORjlLWDRhSHlFb3FiNXV3ZTJzaFZ5aE5Pd1FlQzVabmVwVm8zT2hNOElJNE85RjEyODdkUGl2dDlSbTZ2Y2Q3ZWQ3aUNkTFlESDZB?oc=5) — Top stories - Google News · 12:25 PT · #world #markets
 - [AVEX SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds AEVEX Investors of Securities Class Action Lawsuit Deadline on October 20, 2026](https://www.prnewswire.com/news-releases/avex-shareholder-action-reminder-faruqi--faruqi-llp-reminds-aevex-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026-302911431.html) — PR Newswire M&A · 11:35 PT · #business #markets
 - [SoftBank in Early Talks to Buy Allied Universal - WSJ](https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JpejBhSm55eU5zM18zZldFMFd1b1hUYWNUQUt2NVY3SEdpZUE0eDZLVjIydHVaVVZ2d2NUSElQeGFPbDFSWGJFRUl6dlpfbk03cVFtTnVmdnJfSWJ0ZFByUkFLRTg2NUprZUZ3OWZzQTl6LS1sSTdTSld1NXBCZm1xem9EYTJ5UzdITE05SllwaktXcGc?oc=5) — Top stories - Google News · 11:14 PT · #world #markets
 - [The S&P 500 Is Near Record Highs: But Most Stocks Are Already in a Bear Market](https://cryptopotato.com/the-sp-500-is-near-record-highs-but-most-stocks-are-already-in-a-bear-market/) — CryptoPotato · 09:55 PT · #markets
@@ -46,6 +48,7 @@ tags: ["project", "markets"]
 - [F&O Talk: Nifty’s break above 23,450 could push index to 23,650; Sudeep Shah picks Tech Mahindra, TCS strategy](https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-23450-could-push-index-to-23650-sudeep-shah-picks-tech-mahindra-tcs-strategy/articleshow/135009790.cms) — Economic Times · 00:27 PT · #business #markets
 - [Earnings call transcript: DLF posts strong q2 2026 results on luxury sales](https://www.investing.com/news/transcripts/earnings-call-transcript-dlf-posts-strong-q2-2026-results-on-luxury-sales-93CH-4955295) — All News · 00:23 PT · #business #markets
 - [8 small, midcap stocks with upside potential of up to 50%. How many are in your portfolio?](https://economictimes.indiatimes.com/markets/stocks/news/8-small-midcap-stocks-with-upside-potential-of-up-to-50-how-many-are-in-your-portfolio/bullish-bets/slideshow/135009761.cms) — Economic Times · 00:20 PT · #business #markets
+- [Tracking Institutional Options Unusual Activity on AVGO (Broadcom) 📊🚀 - Moomoo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWl5UHV3aWVRZzRiVjVtb3I4SlNkdjlqVEhmQXhhaUwweGw0RFctcXloamxWcDE4dzFtazV2bnR6T185WHlHbW9iLWRJV3R6Vm5SVTZJZVRzNW9CcUxudktFWTFPcXFyVExfOTlhenZhVEE5THlsZlR2Qk9Ca080VzNHTEo0Q2hueUJCbGhHanpzbnUtcVZPenVJZGRpQ1QwVTRJX3FBV2UzNVhWQXE3NkQtV3BlRTZJbFE?oc=5) — Google News: unusual options activity · 00:00 PT · #markets
 
 ## 2026-10-16
 
@@ -411,6 +414,3 @@ tags: ["project", "markets"]
 - [D - Immorta Bio, Inc. (0002102665) (Filer)](https://www.sec.gov/Archives/edgar/data/2102665/000210266526000002/0002102665-26-000002-index.htm) — SEC EDGAR All Filings · 07:48 PT · #filings #markets
 - [40-17G - First American Funds Trust (0001890141) (Filer)](https://www.sec.gov/Archives/edgar/data/1890141/000089418926029413/0000894189-26-029413-index.htm) — SEC EDGAR All Filings · 07:48 PT · #filings #markets
 - [497K - STATE STREET INSTITUTIONAL INVESTMENT TRUST (0001107414) (Filer)](https://www.sec.gov/Archives/edgar/data/1107414/000119312526423557/0001193125-26-423557-index.htm) — SEC EDGAR All Filings · 07:45 PT · #filings #markets
-- [City Therapeutics allocated no shares to half of IPO orders - report](https://www.investing.com/news/stock-market-news/city-therapeutics-allocated-no-shares-to-half-of-ipo-orders--report-93CH-4954481) — Investing.com Stock Market · 07:44 PT · #markets
-- [13F-HR - Saratoga Research & Investment Management (0001477872) (Filer)](https://www.sec.gov/Archives/edgar/data/1477872/000147787226000013/0001477872-26-000013-index.htm) — SEC EDGAR All Filings · 07:44 PT · #filings #markets
-- [Las Vegas Sands to Report Q3 Earnings: Key Factors to Watch - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxOejhFX3dRVWZ2cGtpcFVmcE5hX0txRFl4b3hXVzhTTWxRRmtsb2FGMG0xNU9ONDJhVE9XbFRMZlhSY2ZJaVlnVXRvVTNmdXBBTC1nNjBzSnF1SE5OWnJucmZySUZoS2ZCS0NZTTVLLXVLVVc5dUFpREFMLU9LaGlDQXd1WlJ1Y2lZVHhpa0dxNWJ5NEJj?oc=5) — Google News: Las Vegas real estate · 07:44 PT · #business #markets #nevada #realestate

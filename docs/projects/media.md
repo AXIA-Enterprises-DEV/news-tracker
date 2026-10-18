@@ -1,6 +1,6 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-17T15:14:38-07:00
+updated: 2026-10-17T17:06:11-07:00
 count: 337
 tags: ["project", "media"]
 ---
@@ -11,6 +11,7 @@ tags: ["project", "media"]
 
 ## 2026-10-17
 
+- [Russian Media Turn France’s Riots Into Anti-Macron Propaganda - finchannel](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUV4MjhzbkNpcnZ1YW5EdXltWGYxdkVwVXE3bWUxenk4ektJTGxENHhJQlB3VGRjS0IwSEp6MEFSQkItb1ZNeVZJZHVHcUFFcFV5THMwRnh3ZEkxaFBMbUV3Y1hnck5IUlMyeFEzdHpUcFdFaDNOeXY4SjhhOUZISmNtY203em9OWmhNVUNIVjhDYjljWlU1VExUMWFaX0hBdXhmS3F4aHlPYmo2X01hb19FWFI?oc=5) — Google News: propaganda OR disinformation media · 15:47 PT · #world #foreign #media
 - [No action to be taken against wife of PM’s aide over Palestine Action post](https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action) — Guardian World · 12:47 PT · #world #fed #media
 - [Legal experts warn Meta’s new terms still grant broad scraping permissions, despite language changes](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) — Nieman Lab · 11:49 PT · #tech #ai #media
 - [Jerusalem Daily: Israeli settlers attack farmers and journalists](https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss) — Al Jazeera · 10:18 PT · #world #foreign #media
@@ -383,7 +384,3 @@ tags: ["project", "media"]
 - [ChatGPT is adding real cartoonists’ signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/) — Nieman Lab · 13:01 PT · #tech #media
 - [How a plan to turn the Spokane Spokesman-Review into “The People’s Paper” ended in a newsroom revolt](https://www.niemanlab.org/2026/10/how-a-plan-to-turn-the-spokane-spokesman-review-into-the-peoples-paper-ended-in-a-newsroom-revolt/) — Nieman Lab · 11:44 PT · #tech #media
 - [The Triumph of Tech-Fueled Propaganda](https://www.foreignaffairs.com/united-states/triumph-tech-fueled-propaganda) — Foreign Affairs · 01:00 PT · #world #foreign #media
-
-## 2026-10-03
-
-- [The Trump administration's critical minerals agenda comes for America's 'Forgotten Wildlife Corridor'](https://thenevadaindependent.com/article/the-trump-administrations-critical-minerals-agenda-comes-for-americas-forgotten-wildlife-corridor/) — The Nevada Independent · 02:00 PT · #us #media #nevada

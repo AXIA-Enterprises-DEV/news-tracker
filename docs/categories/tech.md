@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-17T15:14:38-07:00
+updated: 2026-10-17T17:06:11-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,9 +11,22 @@ tags: ["category", "tech"]
 
 ## 2026-10-17
 
+- [What to check if your Nintendo Switch 2 isn't connecting to the TV](https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/) — Engadget - Technology News & Expert Reviews · 17:00 PT · #tech
+- [OpenAI is building a humanoid robot, but the body isn't the real challenge](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/) — Engadget - Technology News & Expert Reviews · 16:45 PT · #tech #ai
+- [Retired Penn professor arrested for blocking Uber Eats robot](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l) — Hacker News · 16:31 PT · #tech
+- [These Samsung Galaxy tablets are in their last year of software support](https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/) — Engadget - Technology News & Expert Reviews · 16:30 PT · #tech
+- [SpaceX Sent 6,300 Pounds to the Space Station. The Strangest Cargo Was Grown in a Lab](https://www.inc.com/kevin-haynes/spacex-sent-6300-pounds-space-station-strangest-cargo-grown-in-lab/91421825) — Inc.com · 16:13 PT · #tech
+- [The Company That Put a Gas Generator in a Tesla Is Bankrupt. Its $37 Million Debt Isn’t the Whole Story](https://www.inc.com/kevin-haynes/company-put-gas-generator-in-tesla-bankrupt-37-million-dollar-debt-not-whole-story/91421822) — Inc.com · 16:02 PT · #tech
+- [Why your Wi-Fi speeds can drop in the evening, and what to do about it](https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/) — Engadget - Technology News & Expert Reviews · 16:00 PT · #tech
+- [How to keep your smart home running even if the internet goes down](https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/) — Engadget - Technology News & Expert Reviews · 15:45 PT · #tech
+- [Why it's important to monitor your PC's background processes](https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/) — Engadget - Technology News & Expert Reviews · 15:30 PT · #tech
+- [iPhone Duo walk-in purchases might be challenging at launch, per report](https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/) — 9to5Mac · 15:21 PT · #tech #ai
 - [Don't throw away your old PlayStation — Do this instead](https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/) — Engadget - Technology News & Expert Reviews · 15:00 PT · #tech
+- [JDK 28](https://openjdk.org/projects/jdk/28/) — Hacker News · 14:37 PT · #tech
 - [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) — TechCrunch · 14:31 PT · #tech #ai
+- [5 Powerful Retail Sales Strategies to Boost Profits](https://smallbiztrends.com/retail-sales-strategies/) — Small Business Trends · 14:31 PT · #tech
 - [Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases](https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/) — MacRumors · 14:30 PT · #tech #ai
+- [Google Launches Universal Cart to Transform Online Shopping Experience](https://smallbiztrends.com/google-launches-universal-cart-to-transform-online-shopping-experience/) — Small Business Trends · 14:22 PT · #tech
 - [The Tesla Roadster is far from the first car to use fans for downforce](https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/) — Engadget - Technology News & Expert Reviews · 14:20 PT · #tech
 - [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/) — TechCrunch · 13:55 PT · #tech
 - [JetBrains Mellum 2.1 Debuts: SWE-Bench Jumps to 47% \[2026\] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMieEFVX3lxTE1VNDRRWHQzVXZsdE9Ib0JRRUo4dnI1eWZpVDU3Yi1FLThJRHo1dXFoOTYxMVUzX1RZWnA5dG5oOTBXSEVwM291NjBIaU9ETk1fNUxybndrX0R6eEh4MHN6UDZiNjR6ZlpIYlB1MGQzbG00SnFSQmpiVQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 13:27 PT · #tech #ai
@@ -401,16 +414,3 @@ tags: ["category", "tech"]
 - [FatPipe, Inc. (NASDAQ: FATN) is Pleased to Announce Its Investor Webinar on November 4 to Present Q2 Financial Results](https://www.prnewswire.com/news-releases/fatpipe-inc-nasdaq-fatn-is-pleased-to-announce-its-investor-webinar-on-november-4-to-present-q2-financial-results-302910746.html) — PR Newswire Business Tech · 07:00 PT · #tech #markets $FATN
 - [Lumara Film Festival Announces Finalists for Inaugural AI Film Festival](https://www.prnewswire.com/news-releases/lumara-film-festival-announces-finalists-for-inaugural-ai-film-festival-302911312.html) — PR Newswire Business Tech · 07:00 PT · #tech #ai #civic
 - [5 Student Teams' Innovations Win 2026 Collegiate Inventors Competition](https://www.prnewswire.com/news-releases/5-student-teams-innovations-win-2026-collegiate-inventors-competition-302911149.html) — PR Newswire Business Tech · 07:00 PT · #tech
-- [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/) — TechCrunch · 07:00 PT · #tech #smallbiz
-- [Your Competitors Got There First. SpaceX Shows Why That May Not Matter](https://www.inc.com/kimanzi-constable/your-competitors-got-there-first-spacex-shows-why-that-may-not-matter/91420410) — Inc.com · 07:00 PT · #tech
-- [Security Bite: Americans are contradicting themselves around privacy](https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy/) — 9to5Mac · 06:52 PT · #tech #ai
-- [Will Tesla's new Roadster ship?](https://www.youtube.com/shorts/_EW8O9SLSXs) — The Verge · 06:49 PT · #tech
-- [Adobe, NVIDIA Team Up to Make Creative Tools Run 2x Faster](https://smallbiztrends.com/adobe-nvidia-team-up-to-make-creative-tools-run-2x-faster/) — Small Business Trends · 06:44 PT · #tech #ai
-- [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference) — Hacker News · 06:43 PT · #tech #ai
-- [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/) — Hacker News · 06:43 PT · #tech
-- [Google Advances Sustainability with Repairable Pixel Devices and Support](https://smallbiztrends.com/google-advances-sustainability-with-repairable-pixel-devices-and-support/) — Small Business Trends · 06:42 PT · #tech
-- [Ethereum's Vitalik Buterin Builds Privacy-Focused AI Agent That Limits Identity and Data Leaks - CoinGape](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSlZUM3VFbG9qTmdsT0hKMXBFM0xfWnc2RkpSS3pZY0hnOHY5RWtPdmRPT1M0Uk9SZ2R3OFdUaEtTMUp1ZklBY1QxMDJfd3N2QXpDbzBQN3FITGt4Tkd0cXd3Y3F0dDV4QWc5TVEzM01UaHhUMi1pNTlWV1BHTTRfQUQxNlFQRTZyTEtUalFZcG5HallOc0JEN3UzWnJ5RDB1MlNPVER0bjFWdmZGajZnRTFKZEJlUQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 06:41 PT · #tech #ai
-- [Developers Question Scope of Potential Apple Antitrust Settlement](https://www.macrumors.com/2026/10/16/developers-question-scope-of-antitrust-settlement/) — MacRumors · 06:41 PT · #tech #ai
-- [iPhone Duo Resold for $5,000 on eBay After Selling Out](https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/) — MacRumors · 06:39 PT · #tech #ai
-- [RFC8950: Announce IPv4 with an IPv6 next-hop](https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/) — Hacker News · 06:38 PT · #tech
-- [This stretchy MagSafe storage pouch gives your phone a sizable trunk](https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage) — The Verge · 06:33 PT · #tech
