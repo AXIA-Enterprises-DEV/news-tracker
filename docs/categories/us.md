@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-17T21:23:09-07:00
+updated: 2026-10-18T01:59:30-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,12 @@ tags: ["category", "us"]
 
 ## 2026-10-17
 
+- [Fundora defends super welterweight title by KO, sets up bout with Ennis](https://www.reviewjournal.com/sports/boxing/fundora-defends-super-welterweight-title-by-ko-sets-up-bout-with-ennis-3901736/) — Las Vegas Review-Journal · 22:34 PT · #us #nevada
+- [Field of memories: Cashman had its share of sports moments](https://www.reviewjournal.com/sports/aviators/field-of-memories-cashman-had-its-share-of-sports-moments-3901718/) — Las Vegas Review-Journal · 21:49 PT · #us #nevada
+- [Bison rally, then spank Wolf Pack](https://www.reviewjournal.com/sports/football/bison-rally-then-spank-wolf-pack-3901714/) — Las Vegas Review-Journal · 21:43 PT · #us #nevada
+- [The Road to Las Vegas: Review-Journal’s Week 7 CFP projections](https://www.reviewjournal.com/sports/football/the-road-to-las-vegas-review-journals-week-7-cfp-projections-3901711/) — Las Vegas Review-Journal · 21:41 PT · #us #nevada
+- [Defensemen become offensive in Golden Knights’ rout of Penguins](https://www.reviewjournal.com/sports/goldenknights/defensemen-become-offensive-in-golden-knights-rout-of-penguins-3901693/) — Las Vegas Review-Journal · 21:39 PT · #us #nevada
+- [Marco Romero, Armando Resendiz shine on Fundora undercard](https://www.reviewjournal.com/sports/boxing/marco-romero-armando-resendiz-shine-on-fundora-undercard-3901680/) — Las Vegas Review-Journal · 21:38 PT · #us #nevada
 - [UNLV volleyball retires Mariena Hayden’s No. 7 jersey, a first in program history](https://lasvegassun.com/news/2026/oct/17/unlv-retires-mariena-haydens-no-7-jersey-a-first-i/) — Las Vegas Sun · 21:04 PT · #us #nevada
 - [NEVADA VIEWS: Rent control won’t fix Nevada housing costs](https://www.reviewjournal.com/opinion/nevada-views-rent-control-wont-fix-nevada-housing-costs-3901654/) — Las Vegas Review-Journal · 21:02 PT · #us #nevada
 - [LETTER: Making sense](https://www.reviewjournal.com/opinion/letters/letter-making-sense-3901651/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
@@ -39,6 +45,7 @@ tags: ["category", "us"]
 - [Friday night football: Bishop Gorman beats SLAM! Nevada, Faith Luthern holds off Losee](https://www.reviewjournal.com/nevada-preps/friday-night-football-bishop-gorman-beats-slam-nevada-faith-luthern-holds-off-losee-3901487/) — Las Vegas Review-Journal · 12:43 PT · #us #nevada
 - [House speaker to rally with GOP congressional candidates in Las Vegas](https://www.reviewjournal.com/news/politics-and-government/house-speaker-to-rally-with-gop-congressional-candidates-in-las-vegas-3901483/) — Las Vegas Review-Journal · 12:40 PT · #us #civic #nevada
 - [Nevada GOP House candidate’s online forum rife with slurs and Nazi talk, AP review finds](https://www.reviewjournal.com/news/politics-and-government/online-forum-controlled-by-nevada-gop-house-candidate-contains-slurs-and-nazi-talk-ap-review-finds-3901477/) — Las Vegas Review-Journal · 12:21 PT · #us #civic #nevada
+- [Hurricane Trudy Approaches Mexico Coast As Typhoon Champi Threatens Guam](https://www.huffpost.com/entry/hurricane-trudy-approaches-mexico-coast-as-typhoon-champi-threatens-guam_n_6ad3c304e4b0ce24aed9f89e) — World News - Breaking News, Top Stories · 11:53 PT · #us
 - [Who is Steve Kerr’s doppelganger? Las Vegas man goes viral again](https://www.reviewjournal.com/sports/nba/who-is-steve-kerrs-doppelganger-las-vegas-man-goes-viral-again-3901466/) — Las Vegas Review-Journal · 11:25 PT · #us #nevada
 - [Two hospitalized after shooting in Sunrise Manor, LVMPD says](https://www.ktnv.com/news/crime/two-hospitalized-after-shooting-in-sunrise-manor-lvmpd-says) — KTNV Las Vegas · 11:07 PT · #us #nevada
 - [Sullivan walks the line in Alaska](https://www.politico.com/newsletters/playbook/2026/10/17/sullivan-walks-the-line-in-alaska-01125232) — Playbook · 07:47 PT · #us
@@ -416,10 +423,3 @@ tags: ["category", "us"]
 - [Las Vegas man gets 35 years in prison for sexual exploitation of children](https://www.reviewjournal.com/crime/courts/las-vegas-man-gets-35-years-in-prison-for-sexual-exploitation-of-children-3899624/) — Las Vegas Review-Journal · 15:06 PT · #us #nevada
 - [Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen](https://lasvegassun.com/news/2026/oct/13/greta-gerwig-debuts-first-look-at-an-epic-full-hea/) — Las Vegas Sun · 14:29 PT · #us #nevada
 - [Supreme Court refuses to toss out fees for lawyers who sought hand count in Arizona election](https://lasvegassun.com/news/2026/oct/13/supreme-court-refuses-to-toss-out-fees-for-lawyers/) — Las Vegas Sun · 14:14 PT · #us #civic #nevada
-- [The World Cup was bad for some businesses in Los Angeles](https://www.latimes.com/business/story/2026-10-13/world-cup-was-bad-for-some-businesses-in-los-angeles) — World & Nation · 13:57 PT · #us
-- [Surgery confirms pope has lung cancer; lower lobe of his right lung removed](https://www.reviewjournal.com/life/religion/surgery-confirms-pope-has-lung-cancer-lower-lobe-of-his-right-lung-removed-3899609/) — Las Vegas Review-Journal · 13:51 PT · #us #nevada
-- [Nevada Preps predictions: Week 10 high school football picks](https://www.reviewjournal.com/nevada-preps/nevada-preps-predictions-week-10-high-school-football-picks-3899604/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
-- [Western Kentucky-Sam Houston State prediction: One clear winner in pick ‘em game](https://www.reviewjournal.com/sports/betting/western-kentucky-sam-houston-state-prediction-one-clear-winner-in-pick-em-game-3899600/) — Las Vegas Review-Journal · 13:45 PT · #us #nevada
-- [Chicago police say DNA links former detective with Las Vegas ties to killing of 8-year-old girl](https://lasvegassun.com/news/2026/oct/13/chicago-police-say-dna-links-former-detective-with/) — Las Vegas Sun · 13:39 PT · #us #nevada
-- [Vatican Says The Pope Has Lung Cancer And Lower Lobe Of His Right Lung Was Removed](https://www.huffpost.com/entry/vatican-pope-surgery-lung-cancer_n_6ace90aae4b0447f8d4a9b85) — World News - Breaking News, Top Stories · 13:16 PT · #us
-- [LVCVA happy with results of this year’s five-day sale in September](https://www.reviewjournal.com/business/tourism/lvcva-happy-with-results-of-this-years-five-day-sale-in-september-3899593/) — Las Vegas Review-Journal · 12:59 PT · #us #nevada

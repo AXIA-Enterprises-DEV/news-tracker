@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-17T21:23:09-07:00
+updated: 2026-10-18T01:59:30-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -9,8 +9,13 @@ tags: ["category", "science"]
 
 400 most recent items (14-day window).
 
+## 2026-10-18
+
+- [Japan to launch world-first mission to collect samples from Martian moon](https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples) — Space | The Guardian · 01:11 PT · #science
+
 ## 2026-10-17
 
+- [APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars](https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/) — NASA · 21:05 PT · #science
 - [World's oldest shipwreck discovered off coast of Turkey](https://phys.org/news/2026-10-world-oldest-shipwreck-coast-turkey.html) — Phys.org - latest science and technology news stories · 17:30 PT · #science
 - [Inside Apollo Mission Control With Gerry Griffin (493)](https://shirtloadsofscience.libsyn.com/inside-apollo-mission-control-with-gerry-griffin-493) — Shirtloads of Science · 15:00 PT · #science
 - [What a worm's brain can teach us about sex differences in the nervous system](https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
@@ -418,5 +423,3 @@ tags: ["category", "science"]
 - [People holding up the internet](https://flowingdata.com/2026/10/14/people-holding-up-the-internet/) — FlowingData · 03:31 PT · #science
 - [Scientists discover how harmful “zombie cells” hide from the immune system](https://www.sciencedaily.com/releases/2026/10/261013015800.htm) — Latest Science News -- ScienceDaily · 03:17 PT · #science
 - [Global deforestation slowed in 2025 but surged in Congo basin: Study](https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html) — Phys.org - latest science and technology news stories · 02:10 PT · #science
-- [Trailblazing technique uncovers real shape of scorching-hot exoplanet atmospheres](https://phys.org/news/2026-10-trailblazing-technique-uncovers-real-hot.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science
-- [Amit Forlit, the Israeli Private Eye at the Heart of a Climate Hacking Scandal](https://www.nytimes.com/2026/10/14/climate/amit-forlit-climate-hacking-allegations.html) — NYT > Science · 02:00 PT · #science #foreign

@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-17T21:23:09-07:00
-count: 89
+updated: 2026-10-18T01:59:30-07:00
+count: 90
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-89 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+90 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-17
 
+- [Cody Whipple does things ‘my way.’ Can the small-town rancher flip Nevada’s bluest House seat? - Lincoln County Record](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdV85NmxnczAzdmRFR1pHNUNoSEN6SDJtQ2pJSXM0eFlyQ0RLcTBzYXdXQ0h0OWxNZXhVMGVmRFBYVVdGNWhYWDRiRWktS04yb2ZvUnlnb3JJTXNvS2lLUmtpUHVCVm5OQllMb1FUUXBlbkFzWGQzd0FvRWVhN0toYmhwWnFlT3BOY3RvbTB6ODRxUjVyWFh3Vk5jMGE3bDd6bWtBMVFEQmFPUjZoRnIzbFlGd1hIckg1eW1ZeHpEd2s?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:07 PT · #business #cannabis #nevada
 - [Psychedelic Church’s Secret Agreement With DEA And Approval From Iowa Officials Allows Import And Manufacturing Of Ayahuasca](https://www.marijuanamoment.net/psychedelic-churchs-secret-agreement-with-dea-and-approval-from-iowa-officials-allows-import-and-manufacturing-of-ayahuasca/) — Marijuana Moment · 06:35 PT · #business #cannabis
 - [Election 2026 Nevada Data Centers - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVlfSXZ4aHpnMEdjTWYxaXZ3TTJ2ZVhvNGlpbklvdnlDRG9YWmlBb0I5cXhFTjdVN2RBSk5mYVY0Q1g3NGdQM242MlRMUnNidmlNRTlMRF8tZC1yUkFNNGN3VkFFWFpsV0g0Nm9wN3BJMmpYQlI2bktnWkJaeDVTdXFha3RfeGdKSjJfRVE0RmdVcXBOaFhtMXRkdXp4T0NGWEg3WElabHVpb0ZSUkNKQ2NucEE1b2dxM2RJMlg4SUh0ekE?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 02:43 PT · #business #cannabis #civic #nevada
 
