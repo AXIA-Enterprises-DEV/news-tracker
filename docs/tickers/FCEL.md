@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $FCEL"
-updated: 2026-10-18T01:59:30-07:00
+updated: 2026-10-18T06:09:10-07:00
 count: 1
 tags: ["ticker", "FCEL"]
 ---

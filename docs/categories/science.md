@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-18T01:59:30-07:00
+updated: 2026-10-18T06:09:10-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,13 @@ tags: ["category", "science"]
 
 ## 2026-10-18
 
+- [Hybrid diamond chip strengthens interactions between light and quantum bits](https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
+- [Real-life vampire birds hunt and drink blood in remote Ecuador](https://www.popsci.com/science/vampire-bird-finch-galapagos/) — Popular Science · 05:04 PT · #science
+- [Lion droppings yield previously unknown microbial species, exposing hidden diversity inside Africa's big cats](https://phys.org/news/2026-10-lion-yield-previously-unknown-microbial.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
+- [The New Science of Stuttering](https://www.nytimes.com/2026/10/18/science/the-new-science-of-stuttering.html) — NYT > Science · 04:41 PT · #science
+- [One million migrating raptors dodge illegal hunters above Georgia's Black Sea coast](https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html) — Phys.org - latest science and technology news stories · 04:39 PT · #science
+- [Japan to launch spacecraft on a mission to get samples from a Martian moon](https://phys.org/news/2026-10-japan-spacecraft-mission-samples-martian.html) — Phys.org - latest science and technology news stories · 04:38 PT · #science
+- [Margaret Hamilton obituary](https://www.theguardian.com/science/2026/oct/18/margaret-hamilton-obituary) — Space | The Guardian · 03:43 PT · #science
 - [Japan to launch world-first mission to collect samples from Martian moon](https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples) — Space | The Guardian · 01:11 PT · #science
 
 ## 2026-10-17
@@ -416,10 +423,3 @@ tags: ["category", "science"]
 - [Why the AI shopping revolution could backfire on retailers](https://phys.org/news/2026-10-ai-revolution-backfire-retailers.html) — Phys.org - latest science and technology news stories · 04:40 PT · #science #ai
 - [The secret to easier exercise as an adult may start in childhood](https://www.sciencedaily.com/releases/2026/10/261013015811.htm) — Latest Science News -- ScienceDaily · 04:36 PT · #science
 - [Children's mental health struggles may expose parents to stigma tied to parenting ideals](https://phys.org/news/2026-10-children-mental-health-struggles-expose.html) — Phys.org - latest science and technology news stories · 04:20 PT · #science
-- [Scientists may have overlooked a hidden Alzheimer's culprit for decades](https://www.sciencedaily.com/releases/2026/10/261013015838.htm) — Latest Science News -- ScienceDaily · 04:06 PT · #science
-- [Study finds overlooked 'forever chemicals' widespread in New Jersey tap water and bottled beverages](https://phys.org/news/2026-10-overlooked-chemicals-widespread-jersey-bottled.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
-- [Quantum network test checks entanglement without having to trust detectors](https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
-- [Scientists may have finally solved the mystery of the Moon’s two faces](https://www.sciencedaily.com/releases/2026/10/261012185019.htm) — Latest Science News -- ScienceDaily · 03:38 PT · #science
-- [People holding up the internet](https://flowingdata.com/2026/10/14/people-holding-up-the-internet/) — FlowingData · 03:31 PT · #science
-- [Scientists discover how harmful “zombie cells” hide from the immune system](https://www.sciencedaily.com/releases/2026/10/261013015800.htm) — Latest Science News -- ScienceDaily · 03:17 PT · #science
-- [Global deforestation slowed in 2025 but surged in Congo basin: Study](https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html) — Phys.org - latest science and technology news stories · 02:10 PT · #science

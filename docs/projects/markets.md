@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-18T01:59:30-07:00
+updated: 2026-10-18T06:09:10-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -8,6 +8,15 @@ tags: ["project", "markets"]
 # Project: Markets / Trading Desk
 
 400 most recent items (14-day window). Atom feed: [markets.xml](../feeds/markets.xml)
+
+## 2026-10-18
+
+- [Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs](https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories) — MarketWatch Top Stories · 06:00 PT · #markets #ai
+- [Michigan court allows Kalamazoo County to seize a family’s lakefront cottage for park expansion](https://timesofindia.indiatimes.com/world/us/a-michigan-family-owned-a-one-third-acre-lakefront-cottage-before-prairie-view-park-was-built-more-than-60-years-later-courts-say-kalamazoo-county-can-condemn-it/articleshow/135028735.cms) — World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India · 05:47 PT · #world #markets
+- [Texas Supreme Court to decide if city can seize land for a privately run golf facility](https://timesofindia.indiatimes.com/world/us/in-2021-a-texas-city-moved-to-take-jim-burgess-3-548-acre-property-after-a-1-1-million-purchase-effort-failed-five-years-later-the-state-supreme-court-will-decide-if-it-can-be-condemned-for-a-private-golf-facility/articleshow/135028245.cms) — World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India · 05:16 PT · #world #civic #golf #markets
+- [Earnings Week Ahead: TSLA, META, NFLX, CMCSA, GE, GM, T, VZ, and more](https://seekingalpha.com/news/4653825-earnings-week-ahead-tsla-meta-nflx-cmcsa-ge-gm-t-vz-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 05:07 PT · #markets
+- [New NHS England policy for trans people could have ‘a number of adverse impacts’, report finds](https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report) — Guardian World · 05:00 PT · #world #markets
+- [There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead](https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories) — MarketWatch Top Stories · 05:00 PT · #markets
 
 ## 2026-10-17
 
@@ -408,9 +417,3 @@ tags: ["project", "markets"]
 - [497 - EVERLAKE FINANCIAL ADVISORS SEPARATE ACCOUNT I (0001085612) (Filer)](https://www.sec.gov/Archives/edgar/data/1085612/000108561226000119/0001085612-26-000119-index.htm) — SEC EDGAR All Filings · 07:59 PT · #filings #markets
 - [424B2 - Marex Group Ltd (0001997464) (Filer)](https://www.sec.gov/Archives/edgar/data/1997464/000110465926116500/0001104659-26-116500-index.htm) — SEC EDGAR All Filings · 07:58 PT · #filings #markets
 - [4 - Sugarman Steven (0001504590) (Reporting)](https://www.sec.gov/Archives/edgar/data/1504590/000143774926032768/0001437749-26-032768-index.htm) — SEC EDGAR All Filings · 07:57 PT · #filings #markets
-- [Why Speculators May Want Another Crack at McDonald’s (MCD) a163% Options Payout - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE5QcWktZ0ZlQzFkNWUxaERZN3RmYm9IVUpPV091Sngzb0dFZEprdGpxRm5EbE40T1NTWGdSaVJDdE5XdnVNMXl3b1RSVkZ0RjhfdWVSMzRPdmEwcmV1NF9WeUlqZHR2Q3diaXpsZ2ZUdmhlVW0tQWU3TjgwYl9JZHBsdFZ4LU9JVkJIandyRnExNjZ4UFYxamcxY2tiS2c?oc=5) — Google News: unusual options activity · 07:57 PT · #markets
-- [D/A - DVLP Investors 1 Mar 2026 a Series of CGF2021 LLC (0002127334) (Filer)](https://www.sec.gov/Archives/edgar/data/2127334/000212733426000003/0002127334-26-000003-index.htm) — SEC EDGAR All Filings · 07:57 PT · #filings #markets
-- [13F-HR - Beacon Financial Advisory LLC (0001800502) (Filer)](https://www.sec.gov/Archives/edgar/data/1800502/000180050226000002/0001800502-26-000002-index.htm) — SEC EDGAR All Filings · 07:57 PT · #filings #markets
-- [497 - Everlake Life Insurance Co (0000352736) (Filer)](https://www.sec.gov/Archives/edgar/data/352736/000035273626000051/0000352736-26-000051-index.htm) — SEC EDGAR All Filings · 07:56 PT · #filings #markets
-- [424B2 - NOMURA HOLDINGS INC (0001163653) (Filer)](https://www.sec.gov/Archives/edgar/data/1163653/000110465926116498/0001104659-26-116498-index.htm) — SEC EDGAR All Filings · 07:56 PT · #filings #markets
-- [D/A - Valkyrie X LLC, Series II Anduril (0002064144) (Filer)](https://www.sec.gov/Archives/edgar/data/2064144/000206414426000002/0002064144-26-000002-index.htm) — SEC EDGAR All Filings · 07:55 PT · #filings #markets

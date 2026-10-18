@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-18T01:59:30-07:00
+updated: 2026-10-18T06:09:10-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -8,6 +8,27 @@ tags: ["category", "us"]
 # Category: U.S.
 
 400 most recent items (14-day window).
+
+## 2026-10-18
+
+- [In tight Texas Senate race, Trump's immigration crackdown tests Republicans' hold on voters](https://www.latimes.com/politics/story/2026-10-18/trumps-immigration-crackdown-tests-republicans-hold-on-texas-voters) — World & Nation · 03:00 PT · #us #civic
+- [Barabak: Despite a blue tide, this Democratic governor is fighting to survive](https://www.latimes.com/politics/story/2026-10-18/midterm-election-governor-races-oregon-tina-kotek-christine-drazan) — World & Nation · 03:00 PT · #us #civic
+- [Mexico's beleaguered Pacific coast braces for another storm in record hurricane year](https://www.latimes.com/world-nation/story/2026-10-18/mexico-hurricane-pacific-coast) — World & Nation · 03:00 PT · #us
+- ['Halo guy' Marty O'Donnell wants to flip a Vegas House seat. Can he convince voters IRL?](https://thenevadaindependent.com/article/halo-guy-marty-odonnell-wants-to-flip-a-vegas-house-seat-can-he-convince-voters-irl/) — The Nevada Independent · 02:00 PT · #us #foreign #nevada
+- [As Nevada's 24-hour economy grows, working parents struggle to find overnight childcare](https://thenevadaindependent.com/article/as-nevadas-24-hour-economy-grows-working-parents-struggle-to-find-overnight-childcare/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [OPINION: Why is this 2017 Las Vegas sexual assault case taking so long to come to trial?](https://thenevadaindependent.com/article/opinion-why-is-this-2017-las-vegas-sexual-assault-case-taking-so-long-to-come-to-trial/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [More CCSD students passing AP exams, with qualifying scores up 9.6%](https://lasvegassun.com/news/2026/oct/18/more-ccsd-students-passing-ap-exams-with-qualifyin/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [La ACLU apela el fallo sobre las restricciones en los puentes peatonales del Strip de Las Vegas](https://lasvegassun.com/news/2026/oct/18/la-aclu-apela-el-fallo-sobre-las-restricciones-en/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [ACLU appeals ruling on Las Vegas Strip pedestrian bridge restrictions](https://lasvegassun.com/news/2026/oct/18/aclu-appeals-ruling-on-las-vegas-strip-pedestrian/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [NSHE amplía sus esfuerzos de seguridad en los campus con la nueva campaña ‘Eyes Open’](https://lasvegassun.com/news/2026/oct/18/nshe-ampla-sus-esfuerzos-de-seguridad-en-los-campu/) — Las Vegas Sun · 02:00 PT · #us #ai #nevada
+- [Education board expands college safety efforts with Eyes Open campaign](https://lasvegassun.com/news/2026/oct/18/nshe-expands-campus-safety-efforts-with-new-eyes-o/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Gameday: Crosby must lead charge to repair Raiders’ defense against Allen’s Bills](https://lasvegassun.com/news/2026/oct/18/gameday-crosby-must-lead-charge-to-repair-raiders/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Take a few seconds to advocate for those in need](https://lasvegassun.com/news/2026/oct/18/take-a-few-seconds-to-advocate-for-the-needy/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [America must get tough on Russia](https://lasvegassun.com/news/2026/oct/18/america-must-get-tough-on-russia/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
+- [We need to hear what the democratic socialists have in mind](https://lasvegassun.com/news/2026/oct/18/we-need-to-hear-what-the-democratic-socialists-hav/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Free universal after-school is an easy win in a world of problems](https://lasvegassun.com/news/2026/oct/18/free-universal-after-school-is-an-easy-win-in-a-wo/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Data centers consume like cities; they should contribute like cities as well](https://lasvegassun.com/news/2026/oct/18/data-centers-consume-like-cities-they-should-contr/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Hegseth’s unserious address again shows his unfitness for office](https://lasvegassun.com/news/2026/oct/18/hegseths-unserious-address-again-shows-his-unfitne/) — Las Vegas Sun · 02:00 PT · #us #nevada
 
 ## 2026-10-17
 
@@ -31,9 +52,11 @@ tags: ["category", "us"]
 - [Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen](https://lasvegassun.com/news/2026/oct/17/trumps-decision-to-waive-russian-sanctions-outrage/) — Las Vegas Sun · 20:19 PT · #us #civic #foreign #nevada
 - [UNLV can't stop Air Force ground game in 41-31 loss](https://lasvegassun.com/news/2026/oct/17/unlv-cant-stop-air-force-ground-game-in-41-31-loss/) — Las Vegas Sun · 20:19 PT · #us #nevada
 - [Online forum controlled by Nevada GOP House candidate contains slurs and Nazi talk, AP review finds](https://lasvegassun.com/news/2026/oct/17/online-forum-controlled-by-nevada-gop-house-candid/) — Las Vegas Sun · 20:19 PT · #us #nevada
+- [Major Fire Breaks Out In Alberta After Deadly Incident At Military Base](https://www.huffpost.com/entry/canada-military-base-alberta_n_6ad42993e4b0ce24aed9fee9) — World News - Breaking News, Top Stories · 19:09 PT · #us #foreign
 - [Saturday’s Las Vegas Pride Festival a day of fun, inclusion and equality](https://www.reviewjournal.com/local/local-las-vegas/saturdays-las-vegas-pride-festival-a-day-of-fun-inclusion-and-equality-3901613/) — Las Vegas Review-Journal · 18:58 PT · #us #nevada
 - [Graney: Run out of Air Force, UNLV still has lots to play for](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-run-out-of-air-force-unlv-still-has-lots-to-play-for-3901607/) — Las Vegas Review-Journal · 18:20 PT · #us #nevada
 - [‘Everyone’s voice needs to be heard’: Early voting opens in Nevada](https://www.reviewjournal.com/news/politics-and-government/nevada/everyones-voice-needs-to-be-heard-early-voting-opens-in-nevada-3901570/) — Las Vegas Review-Journal · 17:53 PT · #us #civic #nevada
+- [Clashes, Fires And Looting Break Out As Protesters Rally Across France, Joining Students](https://www.huffpost.com/entry/france-protests_n_6ad4050de4b00caf853ca38c) — World News - Breaking News, Top Stories · 16:35 PT · #us
 - [Week 10 scores, Week 11 playoffs schedule for Friday night football](https://www.reviewjournal.com/nevada-preps/np-football/week-10-scores-week-11-playoffs-schedule-for-friday-night-football-3901526/) — Las Vegas Review-Journal · 15:53 PT · #us #civic #nevada
 - [Air Force runs all over UNLV football in Mountain West victory](https://www.reviewjournal.com/sports/unlv/unlv-football/air-force-runs-all-over-unlv-football-in-mountain-west-victory-3901521/) — Las Vegas Review-Journal · 15:49 PT · #us #nevada
 - [NFL betting, player props: Bills defense exposes good bet for Raiders](https://www.reviewjournal.com/sports/betting/nfl-betting-player-props-bills-defense-exposes-good-bet-for-raiders-3901515/) — Las Vegas Review-Journal · 15:09 PT · #us #nevada
@@ -403,23 +426,3 @@ tags: ["category", "us"]
 - [Bishop Gorman wins individual, team 5A girls golf state titles](https://www.reviewjournal.com/nevada-preps/bishop-gorman-wins-individual-team-5a-girls-golf-state-titles-3899745/) — Las Vegas Review-Journal · 20:53 PT · #us #golf #nevada
 - [Trump makes unusual stop in Alaska; heads to Las Vegas, Arizona next](https://www.reviewjournal.com/news/nation-and-world/trump-makes-unusual-stop-in-alaska-heads-to-las-vegas-arizona-next-3899740/) — Las Vegas Review-Journal · 20:51 PT · #us #nevada
 - [No bail for First Friday slaying suspect as mayor says event may be paused](https://www.reviewjournal.com/crime/no-bail-for-first-friday-slaying-suspect-as-mayor-says-event-may-be-paused-3899732/) — Las Vegas Review-Journal · 20:25 PT · #us #nevada
-- [Balanced attack gives Golden Knights bounce-back win in Nashville](https://www.reviewjournal.com/sports/goldenknights/balanced-attack-gives-golden-knights-bounce-back-win-in-nashville-3899705/) — Las Vegas Review-Journal · 20:21 PT · #us #nevada
-- [‘Everything’s changed a lot’: Lakers, Warriors coaches expect potential Las Vegas team to be a success](https://www.reviewjournal.com/sports/nba/everythings-changed-a-lot-lakers-warriors-coaches-expect-potential-las-vegas-team-to-be-a-success-3899700/) — Las Vegas Review-Journal · 20:05 PT · #us #nevada
-- [What we learned: A closer look at the Raiders’ blowout loss to New England](https://www.reviewjournal.com/sports/raiders/what-we-learned-a-closer-look-at-the-raiders-blowout-loss-to-new-england-3899693/) — Las Vegas Review-Journal · 19:58 PT · #us #nevada
-- [Saudi Ministry Of Energy Reports Limited Fire In Building At Aramco Compound Targeted In Attack](https://www.huffpost.com/entry/saudi-arabia-yemen_n_6acee88ce4b064943479761a) — World News - Breaking News, Top Stories · 19:43 PT · #us #oil
-- [Potential juror out after profane remark about accused flamingo abuser, judge says](https://www.reviewjournal.com/crime/courts/potential-juror-out-after-profane-remark-about-accused-flamingo-abuser-judge-says-3899666/) — Las Vegas Review-Journal · 18:44 PT · #us #nevada
-- [Las Vegas sees chilliest day since March as October cold front arrives](https://www.reviewjournal.com/local/weather/las-vegas-sees-chilliest-day-since-march-as-october-cold-front-arrives-3899644/) — Las Vegas Review-Journal · 18:13 PT · #us #nevada
-- [Live chat: Our columnists analyze L.A.'s mayoral debate](https://www.latimes.com/california/story/2026-10-13/live-chat-our-columnists-analyze-l-a-s-mayoral-debate) — World & Nation · 18:09 PT · #us
-- ['Money maxxing': How families can make every dollar work harder as costs rise](https://www.ktnv.com/money-maxxing-how-families-can-make-every-dollar-work-harder-as-costs-rise) — KTNV Las Vegas · 18:04 PT · #us #nevada
-- [Early voting approaches in Nevada: What east Las Vegas voters need to know](https://www.ktnv.com/neighborhoods/east-las-vegas/early-voting-approaches-in-nevada-what-east-las-vegas-voters-need-to-know) — KTNV Las Vegas · 17:52 PT · #us #civic #nevada
-- [Las Vegas lands major convention for 2031](https://www.reviewjournal.com/business/conventions/las-vegas-lands-major-convention-for-2031-3899639/) — Las Vegas Review-Journal · 17:51 PT · #us #nevada
-- [Fixer in lucrative NCAA basketball betting scheme sentenced to 6 years in prison](https://lasvegassun.com/news/2026/oct/13/fixer-in-lucrative-ncaa-basketball-betting-scheme/) — Las Vegas Sun · 17:31 PT · #us #nevada
-- [Smith's parent company to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence](https://lasvegassun.com/news/2026/oct/13/smiths-parent-company-to-lay-off-3000-corporate-em/) — Las Vegas Sun · 17:15 PT · #us #ai #nevada
-- [North Las Vegas Fire Department opens first dedicated training center](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-fire-department-opens-first-dedicated-training-center) — KTNV Las Vegas · 17:13 PT · #us #nevada
-- [Trump administration cuts refugees’ deadline to contest status termination, raising fears](https://lasvegassun.com/news/2026/oct/13/trump-administration-cuts-refugees-deadline-to-con/) — Las Vegas Sun · 16:17 PT · #us #nevada
-- [Recently unsealed report on coach Brian Flores contains 'racial stereotypes,' according to lawyers](https://lasvegassun.com/news/2026/oct/13/recently-unsealed-report-on-coach-brian-flores-con/) — Las Vegas Sun · 15:29 PT · #us #nevada
-- [City may 'pause' November First Friday event after deadly shooting, mayor says](https://www.ktnv.com/news/city-may-pause-november-first-friday-event-after-deadly-shooting-mayor-says) — KTNV Las Vegas · 15:14 PT · #us #nevada
-- [Battle lines shift in House races as Republicans retreat from front-line districts](https://lasvegassun.com/news/2026/oct/13/battle-lines-shift-in-house-races-as-republicans-r/) — Las Vegas Sun · 15:07 PT · #us #nevada
-- [Las Vegas man gets 35 years in prison for sexual exploitation of children](https://www.reviewjournal.com/crime/courts/las-vegas-man-gets-35-years-in-prison-for-sexual-exploitation-of-children-3899624/) — Las Vegas Review-Journal · 15:06 PT · #us #nevada
-- [Greta Gerwig debuts first look at an epic, full-hearted 'Narnia' for Netflix — and the big screen](https://lasvegassun.com/news/2026/oct/13/greta-gerwig-debuts-first-look-at-an-epic-full-hea/) — Las Vegas Sun · 14:29 PT · #us #nevada
-- [Supreme Court refuses to toss out fees for lawyers who sought hand count in Arizona election](https://lasvegassun.com/news/2026/oct/13/supreme-court-refuses-to-toss-out-fees-for-lawyers/) — Las Vegas Sun · 14:14 PT · #us #civic #nevada

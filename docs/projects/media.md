@@ -1,21 +1,27 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-18T01:59:30-07:00
-count: 348
+updated: 2026-10-18T06:09:10-07:00
+count: 354
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-348 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+354 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-18
 
+- [Hassan Ayariga demands Parliamentary scrutiny of Ghana’s proposed BRICS membership - CitiNewsroom.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXAxQ0J0QkJVS3p0eHlfczVvQXNLSjFMdm56d3pWeVg5eDYxcTlkRHFERmcwU3F4TzFlNWVnMVZCeWxIb3Z5NmJ5S1ViWDRjNmZNTENCTzRQVGJ5WHBkdWJHd0JOc0hVd0dpNEVvdllGZjRnT2llUThUOVg0T1NBUEI4Q2JwZnUtN1BQNjBac3ZBUTN6VWptUEN5WW80UV9lb2RxLS1sYTBCT2xrVFdNVDMyazJfSEU3aUR3?oc=5) — Google News: BRICS · 05:38 PT · #world #foreign #media
+- [Fact Check: Ukrainian Drones Did Not Silence Russian Propaganda Bots - Novinite.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlhwN0FYbmswM3hvazlvRVh0YTdWMnFPRGxhTHZVR2hxTHBsTFBldDVfTGQ4VEt6aklGeVA5ZEhTaFU0cWpYY2t5WVZrRjRCSERsMjFaOHFoVEkyNlBfT2tfd0lEUEVXemhrYjIzUkltTXYwcVdfZW9iWEZlUTVHUVhGd3gycldLUF8tcjNrQ2hCN3RrUTFTTnhKMGxpb3BZU1NaZTZuZkFrNFdXS3pMLQ?oc=5) — Google News: propaganda OR disinformation media · 04:17 PT · #world #foreign #media
+- [The mother of all propaganda: Why the hype over US MOAB strike against Iran is nothing but theater - PressTV](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM012ZUdoSVFHeHd3RThRWDRZbDZpT09HY0M4Q0g1eGJFOFVaZDBZanZmWVlTcWdCc3BZdnBxSkt3ZXhWbkZBR0YxQzhLM2d6VkYxUHZvT1gzYlBrNE9LZ3Q2SnM5Y2lUWTJIbXJoYWdKaEpxNEM1YmZGbXVWQ1BDcVhBVENHdFVJODJIX3RMNDF0MkQxUVBZRjZZbk5tN1hkeDlaNFZHSUNzRzVhbTBsZk1mTnRXWlRGcWJrdE9Ebkdzdm1l?oc=5) — Google News: propaganda OR disinformation media · 03:48 PT · #world #foreign #media
+- [VP Sara denies Jollibee franchise ownership; Rappler stands by report - SunStar Publishing Inc.](https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDE0dnRmS29MdXpHRzFIZ2NFNkFuOVB2NnB3N1lDQmFxaXVxbXQzOU51RGszTUIzNktVeUlOSWt1RmNKWThCc2NfMmIySHROZWZRUExHTVJNcHNrMlNua1g1V2JIbjV3UmJ3UDZ6MWVmSXNZU3pya29hX2l1NHRLdkhSMmhXSnBqZjBVS3NKUzdDWGt6c2gwRmt2UDIwMkdDM1k40gGwAUFVX3lxTE5GZWo0OGpMLXMxaTV4dThSaldPQTRiTmstTTNJUmF4T1g3TGhFU3FBelhEaFlHN0JyNWhXZVc2bGNwbTFya2tGYXg3ZWNRLWtxSXlWTXFIOWNzRWNCYVpkVi1oUG91WEt0V1kxZXR6RTAxbEVPOEd3LV9fbGNDMkFZOEstOGxKMFFyTHZ0OUVUTnhkYjdqclZMc2pkQVo3NXYtZmZOd0xaQlM0Tk82b3Za?oc=5) — Google News: propaganda OR disinformation media · 02:41 PT · #world #media #smallbiz
+- [Arab League Warns Against AI-Driven Disinformation, Calling for Stronger Media Literacy - Sada Elbalad English](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUdNZnF4SFFueUYtdUtNVlZPRzZRQTJoX2lHanJ5MS05NXJZU1pKOG9GV29XS1NzTm9xM0c1anB0U0JOdE1qOWo5eUpnZ2hXNVV3RTRiWXZIT0hjakd4LTg0YjhsT042bXV1a2czMGZuTkIxZFFLVXNyRDRTUkNsNlZYeFliTmo0clNOMXUwYlBDb1hVNnpCQWpfUlRoQjdQdnRDTFdR?oc=5) — Google News: propaganda OR disinformation media · 01:45 PT · #world #ai #media
 - [The Impact of Media Propaganda on the Presence of Kurds in the Syrian Government - کردپرس](https://news.google.com/rss/articles/CBMiywFBVV95cUxNalF2VjAzWURYWk1QSHJWTklLT3M5TEZQLURBajU2ZXk2LW9remFRUHlKSExYcS0tXzJONnNyeDl4TnJtSWs0MnFSQnBLeEtncVlleDJZUjBSMVVaVGZ1RjVJUUpsdzVveUhkb0xZME1CQkdlWHhEeVRudjJzbTRmZ2h2d3RrNUV5STEwRW9UQ0JmalJPU2RXcklWeWxyX003LUxjUFBqRHJxMmJMM2tYeXFCMFZaRUEtR2ZSS0VHQ1g2MzRtRkFpQ2p2Zw?oc=5) — Google News: propaganda OR disinformation media · 00:42 PT · #world #media
 - [‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty](https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty) — Guardian World · 00:00 PT · #world #media
 
 ## 2026-10-17
 
+- [Propaganda, Echo Chambers, And Political Manipulation: Why India’s Youth Must Learn To Think - TheCommuneMag](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkR6dGVFQ2UzN3VnUVpVSmZpeEVINy1yVE9tS19xSTYtcFp5bWhSYUFzSENoV2dsd3hFSEdqRUZUVGI1T0JBTmpnVWtTOW5aaldnbF9nSndnblEtRGk4a1BsZXNtV0QwNW5XTzhVY2tkeUlvejBfQlJqazFXU1Jna3BBcUY2eEdBMFAwUVQ4T05FOGxKUE9BWTUwWlBkV2ljVGc0N2EtOUgweXpydnFPcjJRcnluZw?oc=5) — Google News: propaganda OR disinformation media · 23:28 PT · #world #media
 - [Pakistan calls claims of US Navy using its territory against Iran ‘fabricated propaganda’ - Arab News PK](https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm8wdXh5ekVGVklmSlBBMkxTM3ctU09UUEkwaTAzSHVKUGFzYnVTY0RFeVB0cjhhZDlPS2FBWDcxRkRfelpmdjUzSmxMbDkzQmpZTll1cXZZQ1FjVTlVdTgtVDZlZmt2LTFEZDZXUWx0WWNhWVJqeDZOWTBNb3hQcUdzYlhINU5MLUlBRzExUXBUXzNvdjFjOHJVOENjSUpJNEVPM2F0N2pFeDgyREduUmpQc0VSc2tHMzgzOVdBOEVoSl9Zc2ZF?oc=5) — Google News: propaganda OR disinformation media · 21:45 PT · #world #foreign #media
 - [Marco Rubio calls on Israel to curb settler attacks after US journalist assaulted - The Economic Times](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMG1PVXZWdldBYjBxR3hCLTM2MnVacjBwMElyNUJhM1BWdUM5OUdSLUhsWDlBVVVtRXQ5SFRSYXNpOEN3MzFNVFF0enRvSTliUFl0TFBlQVNJc0UtTUNqRER1eThObXRzWmJ1WTZDMzI1SFRPdGVMcWVnc0E0Z2hsbk9jaDgzYV9rNlZQbTRYMDFmN2NmNUlzRTRNbV9pdllSbUpEejAwbS1MbFZLbU9JSUR4RkNpQ3BkaUtwRE5uaFR3T0V1aXczX0gzODdGTF9lX1VJSG9XWXE3enhaNzFnRmJqVGtNbkxvdFVxcVdfUmFZUUxVS19ybXdrLUpRUdIB_gFBVV95cUxPMG1PVXZWdldBYjBxR3hCLTM2MnVacjBwMElyNUJhM1BWdUM5OUdSLUhsWDlBVVVtRXQ5SFRSYXNpOEN3MzFNVFF0enRvSTliUFl0TFBlQVNJc0UtTUNqRER1eThObXRzWmJ1WTZDMzI1SFRPdGVMcWVnc0E0Z2hsbk9jaDgzYV9rNlZQbTRYMDFmN2NmNUlzRTRNbV9pdllSbUpEejAwbS1MbFZLbU9JSUR4RkNpQ3BkaUtwRE5uaFR3T0V1aXczX0gzODdGTF9lX1VJSG9XWXE3enhaNzFnRmJqVGtNbkxvdFVxcVdfUmFZUUxVS19ybXdrLUpRUQ?oc=5) — Google News: "State Department" Rubio OR sanctions · 20:59 PT · #world #foreign #media
 - [Rubio wants ‘crackdown’ on settler violence after US journalist attack](https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss) — Al Jazeera · 20:44 PT · #world #media
