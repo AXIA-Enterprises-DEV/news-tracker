@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-18T14:14:54-07:00
+updated: 2026-10-18T16:20:01-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,8 +11,19 @@ tags: ["category", "tech"]
 
 ## 2026-10-18
 
+- [Time Lords kill leap seconds, before they become the new Y2K bug](https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711) — www.theregister.com - Articles · 16:01 PT · #tech
+- [An Xbox Series X can now run PlayStation 5 games, but there's a catch](https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/) — Engadget - Technology News & Expert Reviews · 16:00 PT · #tech
+- [Starlink has two $55 plans that are wildly different — here's how](https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different/) — Engadget - Technology News & Expert Reviews · 15:45 PT · #tech
+- [Router and modem or gateway: What's actually in your home network?](https://www.engadget.com/2286663/router-modem-gateway-whats-in-home-network/) — Engadget - Technology News & Expert Reviews · 15:30 PT · #tech
+- [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband) — The Verge · 15:20 PT · #tech
+- [What is Apple's Image Playground app for and how do you use it?](https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use/) — Engadget - Technology News & Expert Reviews · 15:00 PT · #tech
+- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp) — Hacker News · 14:36 PT · #tech
+- [How Much Money Does E-Commerce Make?](https://smallbiztrends.com/how-much-money-does-e-commerce-make/) — Small Business Trends · 14:31 PT · #tech #markets
+- [Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux](https://github.com/omnipty-terminal/omnipty) — Hacker News · 14:24 PT · #tech
+- [Apple keeps making the Phone app better; here’s how](https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/) — 9to5Mac · 14:19 PT · #tech #ai
 - [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/) — TechCrunch · 14:00 PT · #tech
 - [Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference](https://arxiv.org/abs/2610.18861) — Hacker News · 13:48 PT · #tech
+- [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf) — Hacker News · 13:43 PT · #tech
 - [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) — TechCrunch · 13:37 PT · #tech #ai
 - [After five years, Inscryption is finally coming to mobile](https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile/) — Engadget - Technology News & Expert Reviews · 13:27 PT · #tech
 - [Amazon Discounts New Mac Mini by Up to $149, Mac Studio by $200](https://www.macrumors.com/2026/10/18/new-mac-mini-149/) — MacRumors · 13:15 PT · #tech #ai
@@ -137,6 +148,7 @@ tags: ["category", "tech"]
 - [Retired Penn professor arrested for blocking Uber Eats robot](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l) — Hacker News · 16:31 PT · #tech
 - [Leading Demo Platform Software for Product Demos: Top 10 Options](https://smallbiztrends.com/leading-demo-platform-software-for-product-demos/) — Small Business Trends · 16:31 PT · #tech
 - [These Samsung Galaxy tablets are in their last year of software support](https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/) — Engadget - Technology News & Expert Reviews · 16:30 PT · #tech
+- [There's never been a better time to go into math (by: 3blue1brown) \[video\]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) — Hacker News · 16:26 PT · #tech
 - [SpaceX Sent 6,300 Pounds to the Space Station. The Strangest Cargo Was Grown in a Lab](https://www.inc.com/kevin-haynes/spacex-sent-6300-pounds-space-station-strangest-cargo-grown-in-lab/91421825) — Inc.com · 16:13 PT · #tech
 - [Beyond Tetris: The Other Games of Alexey Pajitnov \[video\]](https://www.youtube.com/watch?v=QH_LPimUJMs) — Hacker News · 16:08 PT · #tech
 - [Liquid AI d1-omni-600M is now an Ollama pull: what ships - OrcaRouter](https://news.google.com/rss/articles/CBMiekFVX3lxTE03dTlOd01mRHpvSkw4ckdWQUV1bVBJcTd0UVllSTRxNTlTaHAtOWFPdVRfOVd1c2RHV3ZzclRFU1dNU3BnaGhXdkhPbHdvSkRtSWlweU5UY3lLR01XTzl0NUNway1QZW5xWGZIYWxPSXBIT09LaXRGaXVR?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 16:05 PT · #tech #ai
@@ -212,6 +224,7 @@ tags: ["category", "tech"]
 - [Step Back: The Leadership Lesson High Achievers Often Miss](https://www.inc.com/louise-allen/step-back-the-leadership-lesson-high-achievers-often-miss/91420258) — Inc.com · 09:00 PT · #tech
 - [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) — Hacker News · 08:55 PT · #tech
 - [EE announces iPhone Handoff pricing details for UK customers](https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/) — 9to5Mac · 08:54 PT · #tech #ai
+- [M6 Mac Mini: The Massive Leak That Just Killed Every Other Mac! (BIG NEWS) River Plate (QB7Tq8dg1f) - Unisba Media](https://news.google.com/rss/articles/CBMia0FVX3lxTE83aEVrenlaYTcxN1hRclpldWZQQzhWQlJhTU5qZ3BuQjlGNXNjOHIwRXBwNl81NlA4ZnV0UUxhUTF0aTF5RER5WkZ2ZTZtNHIyTVBtSm96UUM5OTktOFd6NUpWWFJmaXJoWkNr?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 08:48 PT · #tech #ai
 - [This is what you should teach your kids](https://www.youtube.com/shorts/jVIiDkLqKhY) — GaryVee · 08:45 PT · #tech #smallbiz
 - [Latch](https://www.producthunt.com/products/latch-7) — Product Hunt — The best new products, every day · 08:36 PT · #tech
 - [Apple nabs Meta VP for global litigation chief role](https://appleinsider.com/articles/26/10/17/apple-nabs-meta-vp-for-global-litigation-chief-role?utm_source=rss) — AppleInsider · 08:33 PT · #tech #ai
@@ -404,16 +417,3 @@ tags: ["category", "tech"]
 - [Kizik Parent Company Scores Legal Victory Against Skechers in Europe Over Hands-Free Shoe Patents](https://www.inc.com/jennifer-conrad/kizik-handsfree-lab-wins-skechers-patent-lawsuit-europe/91419556) — Inc.com · 12:38 PT · #tech
 - [Have a Meta business account? You’re consenting to AI scraping now, legal experts say](https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/) — Latest news · 12:36 PT · #tech #ai
 - [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health) — Hacker News · 12:33 PT · #tech
-- [Gathering Effective Feedback on Survey Results](https://smallbiztrends.com/feedback-on-survey/) — Small Business Trends · 12:31 PT · #tech
-- [HelloNation Examines Repair vs Replace HVAC Decisions With Insights From HVAC Expert Leslie Roe](https://www.prnewswire.com/news-releases/hellonation-examines-repair-vs-replace-hvac-decisions-with-insights-from-hvac-expert-leslie-roe-302780078.html) — PR Newswire Business Tech · 12:29 PT · #tech
-- [Reed Hastings Says This 1 ‘Big Mistake’ at Netflix Came From ‘Leaning Into the Future’ Too Fast](https://www.inc.com/leah-carroll/reed-hastings-says-this-1-big-mistake-at-netflix-came-from-leaning-into-the-future-too-fast/91421469) — Inc.com · 12:24 PT · #tech #smallbiz
-- [Intuit Acquires Sequence to Enhance AI-Driven Revenue Management Tools](https://smallbiztrends.com/intuit-acquires-sequence-to-enhance-ai-driven-revenue-management-tools/) — Small Business Trends · 12:21 PT · #tech #ai #markets
-- [X is politically irrelevant #Vergecast](https://www.youtube.com/shorts/9h5naV9Ms4s) — The Verge · 12:15 PT · #tech #civic
-- [AMD adds day-0 support for Meta's Muse Spark Open - Blockchain News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFVtZWdyMTRTMTgzLThLOHlzS0pBYWI1TERCZGVsbm5XX2pHeVg2cDkzMkU4ejBxaXV6OFd5REpZTWN4RnVRTTNVcG4yR2xCWkptY0MyMGtxdWlxU21EbGtfQ3M3WUFBbmF2ak9XNUdyY3BqZlBMRWlmZW5CUGU3SmFR?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:15 PT · #tech #ai
-- [Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality](https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/) — Ars Technica · 12:11 PT · #tech
-- [MLX for Mac with Apple Silicon Enables Local Experimentation with the Muse Spark Open Model - SSBCrack](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbkQ2ZnBnUG9YcnkxY2FDaUFuQmUzVENlc2g3Y1ZkSDQyZWlQSnB0b0I2cl9vWWNmbHh5LWJISk9RVF9mM21TWTd1bVNwa1hZNjd6OEhLeS1OMm9kdTFudWcyUzczY1pPZHJ1bjZwMlpIbHJEZXlERUpEMXZrMjA4N3g0LUh1T2NWQkVHSVJmLUhIMkNqX2RSbExoelV0X0hUejF2RDdVT3RuQVBYQXI3VkpxZXpGRzdOQ1E?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:11 PT · #tech #ai
-- [Facebook Launches Forum App to Enhance Community Engagement in Groups](https://smallbiztrends.com/facebook-launches-forum-app-to-enhance-community-engagement-in-groups/) — Small Business Trends · 12:11 PT · #tech
-- [Lyft to Launch Alcove: A New Era in Global Chauffeuring Services](https://smallbiztrends.com/lyft-to-launch-alcove-a-new-era-in-global-chauffeuring-services/) — Small Business Trends · 12:10 PT · #tech
-- [Data Center Fire Detection and Suppression Market to Reach USD 10.35 Billion by 2035 as Battery and AI Risks Drive Protection Upgrades - DC Market Insights](https://www.prnewswire.com/news-releases/data-center-fire-detection-and-suppression-market-to-reach-usd-10-35-billion-by-2035-as-battery-and-ai-risks-drive-protection-upgrades---dc-market-insights-302911580.html) — PR Newswire Business Tech · 12:09 PT · #tech #ai
-- [iPhone Duo delivery dates stabilize on late January deliveries for all models](https://appleinsider.com/articles/26/10/16/iphone-duo-delivery-dates-stabilize-on-late-january-deliveries-for-all-models?utm_source=rss) — AppleInsider · 12:08 PT · #tech #ai
-- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) — Hacker News · 12:04 PT · #tech

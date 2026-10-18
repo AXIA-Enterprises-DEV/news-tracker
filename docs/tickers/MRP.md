@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $MRP"
-updated: 2026-10-18T14:14:54-07:00
+updated: 2026-10-18T16:20:01-07:00
 count: 2
 tags: ["ticker", "MRP"]
 ---

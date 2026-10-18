@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-18T14:14:54-07:00
+updated: 2026-10-18T16:20:01-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,8 @@ tags: ["category", "us"]
 
 ## 2026-10-18
 
+- [Bills starting safety ejected after spitting toward Raiders players](https://www.reviewjournal.com/sports/raiders/bills-starting-safety-ejected-after-spitting-toward-raiders-players-3901908/) — Las Vegas Review-Journal · 14:51 PT · #us #nevada
+- [Road to Vegas: UCLA, Tennessee move into CFP projected bracket](https://www.reviewjournal.com/sports/football/road-to-vegas-ucla-tennessee-move-into-cfp-projected-bracket-3901891/) — Las Vegas Review-Journal · 14:18 PT · #us #nevada
 - [1 dead, 1 in critical condition after head-on crash in North Las Vegas](https://www.ktnv.com/news/1-dead-1-in-critical-condition-after-head-on-crash-in-north-las-vegas) — KTNV Las Vegas · 13:53 PT · #us #nevada
 - [Man killed, woman injured after dispute leads to shooting in northeast Las Vegas Valley](https://www.reviewjournal.com/crime/homicides/man-killed-woman-injured-after-dispute-leads-to-shooting-in-northeast-las-vegas-valley-3901879/) — Las Vegas Review-Journal · 13:38 PT · #us #nevada
 - [NFL Monday Night football betting: Even with injuries, one team is clear choice](https://www.reviewjournal.com/sports/betting/nfl-monday-night-football-betting-even-with-injuries-one-team-is-clear-choice-3901875/) — Las Vegas Review-Journal · 13:32 PT · #us #nevada
@@ -421,5 +423,3 @@ tags: ["category", "us"]
 - [The Sun’s endorsements for the Nevada Legislature](https://lasvegassun.com/news/2026/oct/14/the-suns-endorsements-for-the-nevada-legislature/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
 - [Local races matter: The Sun’s endorsements for the Clark County Commission and School Board](https://lasvegassun.com/news/2026/oct/14/local-races-matter-the-suns-endorsements-for-the-c/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Municipal races: The Sun’s picks in Las Vegas, Henderson, North Las Vegas and Boulder City](https://lasvegassun.com/news/2026/oct/14/municipal-races-the-suns-picks-in-las-vegas-hender/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Board of Regents: Sun endorsements for Nevada System of Higher Education](https://lasvegassun.com/news/2026/oct/14/board-of-regents-sun-endorsements-for-nevada-syste/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Judicial races: Sun endorsements for Clark County courts](https://lasvegassun.com/news/2026/oct/14/judicial-races-sun-endorsements-for-clark-county-c/) — Las Vegas Sun · 02:00 PT · #us #nevada

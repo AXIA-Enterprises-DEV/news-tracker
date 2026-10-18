@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-18T14:14:54-07:00
+updated: 2026-10-18T16:20:01-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,8 @@ tags: ["category", "science"]
 
 ## 2026-10-18
 
+- [Ancient Nubian temple faience workshop reveals links between craft production and royal power](https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [Early humans in America endured climate chaos—new research](https://phys.org/news/2026-10-early-humans-america-climate-chaos.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
 - [Earth's oldest evidence of life is written in stone—but it's at risk of disappearing](https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
 - [Japan to launch historic round-trip mission to Mars moon](https://phys.org/news/2026-10-japan-historic-mission-mars-moon.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
 - [Spatial genomics tool maps long-range DNA interactions while preserving cells' locations within tissues](https://phys.org/news/2026-10-spatial-genomics-tool-range-dna.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
@@ -421,5 +423,3 @@ tags: ["category", "science"]
 - [Storing memory on a chip with flowing water](https://phys.org/news/2026-10-memory-chip.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
 - [Workers who fear AI replacement show worse workplace behavior](https://phys.org/news/2026-10-workers-ai-worse-workplace-behavior.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science #ai
 - [Enzyme discovery opens a new route to natural UV-absorbing saclipins](https://phys.org/news/2026-10-enzyme-discovery-route-natural-uv.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
-- [Rising seas could weaken Chesapeake Bay's natural storm surge buffer](https://phys.org/news/2026-10-seas-weaken-chesapeake-bay-natural.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
-- [Rocks from hydrothermal vents can spontaneously combust, posing potential risks for deep-sea mining operations](https://phys.org/news/2026-10-hydrothermal-vents-spontaneously-combust-posing.html) — Phys.org - latest science and technology news stories · 08:30 PT · #science
