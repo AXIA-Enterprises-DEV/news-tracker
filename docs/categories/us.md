@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-18T11:54:07-07:00
+updated: 2026-10-18T14:14:54-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,13 @@ tags: ["category", "us"]
 
 ## 2026-10-18
 
+- [1 dead, 1 in critical condition after head-on crash in North Las Vegas](https://www.ktnv.com/news/1-dead-1-in-critical-condition-after-head-on-crash-in-north-las-vegas) — KTNV Las Vegas · 13:53 PT · #us #nevada
+- [Man killed, woman injured after dispute leads to shooting in northeast Las Vegas Valley](https://www.reviewjournal.com/crime/homicides/man-killed-woman-injured-after-dispute-leads-to-shooting-in-northeast-las-vegas-valley-3901879/) — Las Vegas Review-Journal · 13:38 PT · #us #nevada
+- [NFL Monday Night football betting: Even with injuries, one team is clear choice](https://www.reviewjournal.com/sports/betting/nfl-monday-night-football-betting-even-with-injuries-one-team-is-clear-choice-3901875/) — Las Vegas Review-Journal · 13:32 PT · #us #nevada
+- [Pedestrian killed in collision with vehicle in North Las Vegas, police say](https://www.ktnv.com/news/man-dead-after-being-struck-by-vehicle-in-north-las-vegas-police-say) — KTNV Las Vegas · 13:28 PT · #us #nevada
+- [No one injured after plane skids off runway at Harry Reid International Airport](https://www.ktnv.com/news/no-one-injured-after-plane-skids-off-runway-at-harry-reid-international-airport) — KTNV Las Vegas · 12:45 PT · #us #nevada
+- [Aircraft skids off runway at Las Vegas airport, causing delays](https://www.reviewjournal.com/local/local-las-vegas/aircraft-skids-off-runway-at-las-vegas-airport-causing-delays-3901859/) — Las Vegas Review-Journal · 12:37 PT · #us #nevada
+- [Raiders officially without key defensive starter against Buffalo Bills](https://www.reviewjournal.com/sports/raiders/raiders-officially-without-key-defensive-starter-against-buffalo-bills-3901855/) — Las Vegas Review-Journal · 12:32 PT · #us #nevada
 - [Democrats’ Tejano star sings to swing South Texas](https://www.politico.com/newsletters/playbook/2026/10/18/democrats-tejano-star-sings-to-swing-south-texas-01125730) — Playbook · 10:13 PT · #us
 - [1.5M pounds of ready-to-eat meats recalled across US over temp scare](https://www.reviewjournal.com/news/nation-and-world/1-5m-pounds-of-ready-to-eat-meats-recalled-across-us-over-temp-scare-3901843/) — Las Vegas Review-Journal · 10:03 PT · #us #nevada
 - [Haas Automation hiring more than 1,000 workers at new Henderson plant during final job fair of year](https://www.ktnv.com/neighborhoods/henderson/haas-automation-hiring-more-than-1-000-workers-at-new-henderson-plant-during-final-job-fair-of-year) — KTNV Las Vegas · 09:53 PT · #us #nevada
@@ -84,6 +91,7 @@ tags: ["category", "us"]
 - [Hurricane Trudy Approaches Mexico Coast As Typhoon Champi Threatens Guam](https://www.huffpost.com/entry/hurricane-trudy-approaches-mexico-coast-as-typhoon-champi-threatens-guam_n_6ad3c304e4b0ce24aed9f89e) — World News - Breaking News, Top Stories · 11:53 PT · #us
 - [Who is Steve Kerr’s doppelganger? Las Vegas man goes viral again](https://www.reviewjournal.com/sports/nba/who-is-steve-kerrs-doppelganger-las-vegas-man-goes-viral-again-3901466/) — Las Vegas Review-Journal · 11:25 PT · #us #nevada
 - [Two hospitalized after shooting in Sunrise Manor, LVMPD says](https://www.ktnv.com/news/crime/two-hospitalized-after-shooting-in-sunrise-manor-lvmpd-says) — KTNV Las Vegas · 11:07 PT · #us #nevada
+- [1 dead, 1 injured after shooting in northeast Las Vegas, police say](https://www.ktnv.com/1-dead-1-injured-after-shooting-in-northeast-las-vegas-police-say) — KTNV Las Vegas · 11:07 PT · #us #nevada
 - [Sullivan walks the line in Alaska](https://www.politico.com/newsletters/playbook/2026/10/17/sullivan-walks-the-line-in-alaska-01125232) — Playbook · 07:47 PT · #us
 - [Ex-Las Vegas TV reporter says wrongfully convicted woman gave money to her son](https://www.reviewjournal.com/crime/courts/ex-las-vegas-tv-reporter-says-wrongfully-convicted-woman-gave-money-to-her-son-3901449/) — Las Vegas Review-Journal · 07:00 PT · #us #media #nevada
 - [Zelenskyy Urges Support For New U.S. Sanctions On Russia After Trump Puts Them On Hold](https://www.huffpost.com/entry/zelenskyy-urges-support-new-us-sanctions-russia-after-trump-hold_n_6ad37480e4b0ce24aed9f0c2) — World News - Breaking News, Top Stories · 06:19 PT · #us #foreign
@@ -415,14 +423,3 @@ tags: ["category", "us"]
 - [Municipal races: The Sun’s picks in Las Vegas, Henderson, North Las Vegas and Boulder City](https://lasvegassun.com/news/2026/oct/14/municipal-races-the-suns-picks-in-las-vegas-hender/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Board of Regents: Sun endorsements for Nevada System of Higher Education](https://lasvegassun.com/news/2026/oct/14/board-of-regents-sun-endorsements-for-nevada-syste/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Judicial races: Sun endorsements for Clark County courts](https://lasvegassun.com/news/2026/oct/14/judicial-races-sun-endorsements-for-clark-county-c/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Our picks: The Sun offers its choices for every race on your Southern Nevada ballot](https://lasvegassun.com/news/2026/oct/14/our-picks-the-sun-offers-its-choices-for-every-rac/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
-- [Nevada State Railroad Museum in Boulder City unveils new $25M visitor center](https://lasvegassun.com/news/2026/oct/14/nevada-state-railroad-museum-in-boulder-city-unvei/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Can you still vote in Nevada even if you miss a registration deadline?](https://thenevadaindependent.com/article/can-you-still-vote-in-nevada-even-if-you-miss-a-registration-deadline/) — The Nevada Independent · 01:55 PT · #us #nevada
-- [Pope Leo Spent 'Tranquil Night' In Hospital After Cancer Surgery, Vatican Says](https://www.huffpost.com/entry/vatican-pope-leo-surgery_n_6acf3854e4b0e26c18d0c30c) — World News - Breaking News, Top Stories · 01:21 PT · #us
-- [Cambio en Servicio Postal podría dejar sin contar algunas boletas por correo en el Condado Washoe](https://thenevadaindependent.com/article/cambio-en-servicio-postal-podria-dejar-sin-contar-algunas-boletas-por-correo-en-el-condado-washoe/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-13
-
-- [Tuesday’s Nevada Preps scoreboard: Sunrise Mountain, Shadow Ridge win in boys soccer](https://www.reviewjournal.com/nevada-preps/tuesdays-nevada-preps-scoreboard-sunrise-mountain-shadow-ridge-win-in-boys-soccer-3899850/) — Las Vegas Review-Journal · 23:41 PT · #us #nevada
-- [NSHE launches ‘Eyes Open’ campaign to boost safety awareness on Nevada college campuses](https://www.ktnv.com/news/nshe-launches-eyes-open-campaign-to-boost-safety-awareness-on-nevada-college-campuses) — KTNV Las Vegas · 22:10 PT · #us #nevada
-- [Gordon: Crowd underwhelms for Warriors, Lakers, Stephen Curry](https://www.reviewjournal.com/sports/nba/gordon-crowd-underwhelms-for-warriors-lakers-stephen-curry-3899827/) — Las Vegas Review-Journal · 21:55 PT · #us #nevada

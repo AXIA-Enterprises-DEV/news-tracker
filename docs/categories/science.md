@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-18T11:54:07-07:00
+updated: 2026-10-18T14:14:54-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,12 @@ tags: ["category", "science"]
 
 ## 2026-10-18
 
+- [Earth's oldest evidence of life is written in stone—but it's at risk of disappearing](https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [Japan to launch historic round-trip mission to Mars moon](https://phys.org/news/2026-10-japan-historic-mission-mars-moon.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
+- [Spatial genomics tool maps long-range DNA interactions while preserving cells' locations within tissues](https://phys.org/news/2026-10-spatial-genomics-tool-range-dna.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
+- [Dozens of orangutans saved from Indonesia blazes as region grapples with haze](https://phys.org/news/2026-10-dozens-orangutans-indonesia-blazes-region.html) — Phys.org - latest science and technology news stories · 12:19 PT · #science
+- [Climate change affects the quality of one of the world's most important staple foods](https://phys.org/news/2026-10-climate-affects-quality-world-important.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
+- [The remarkable bond between a man and a deer](https://www.popsci.com/environment/penelope-book-excerpt/) — Popular Science · 12:00 PT · #science
 - [New monolithic ion trap opens quantum simulations to more researchers](https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
 - [A new way to detect stabilizing properties of optical devices](https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
 - [Physicists prove a long-suspected quantum speed limit for thermalization](https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
@@ -417,9 +423,3 @@ tags: ["category", "science"]
 - [Enzyme discovery opens a new route to natural UV-absorbing saclipins](https://phys.org/news/2026-10-enzyme-discovery-route-natural-uv.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
 - [Rising seas could weaken Chesapeake Bay's natural storm surge buffer](https://phys.org/news/2026-10-seas-weaken-chesapeake-bay-natural.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
 - [Rocks from hydrothermal vents can spontaneously combust, posing potential risks for deep-sea mining operations](https://phys.org/news/2026-10-hydrothermal-vents-spontaneously-combust-posing.html) — Phys.org - latest science and technology news stories · 08:30 PT · #science
-- [AI ethics analysis clarifies why different goals call for different ethical approaches](https://phys.org/news/2026-10-ai-ethics-analysis-goals-ethical.html) — Phys.org - latest science and technology news stories · 08:30 PT · #science #ai
-- [Ivy bees fight back against honeybees that drive other pollinators off flowers](https://phys.org/news/2026-10-ivy-bees-honeybees-pollinators.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
-- [NASA’s Space X CRS-35 Launch Jellyfish](https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/) — NASA · 08:18 PT · #science
-- [Satellites accurately detect methane emissions in largest controlled test yet](https://phys.org/news/2026-10-satellites-accurately-methane-emissions-largest.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
-- [The stubby legs of ancient sled dogs helped people traverse the Arctic for the past 9,000 years](https://phys.org/news/2026-10-stubby-legs-ancient-sled-dogs.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
-- [Sustained pressure halts cancer cell migration and triggers death in 3D lab models](https://phys.org/news/2026-10-sustained-pressure-halts-cancer-cell.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
