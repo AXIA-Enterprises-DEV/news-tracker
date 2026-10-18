@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-18T06:09:10-07:00
+updated: 2026-10-18T09:31:04-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,18 +11,38 @@ tags: ["category", "science"]
 
 ## 2026-10-18
 
+- [Scientists discover a way to reverse coral bleaching at record speed](https://phys.org/news/2026-10-scientists-reverse-coral.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
+- [Warming could help make the Indian Ocean a stronger climate buffer](https://phys.org/news/2026-10-indian-ocean-stronger-climate-buffer.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
+- [New water lily can be seen from space](https://www.popsci.com/environment/new-water-lily-can-be-seen-from-space/) — Popular Science · 08:12 PT · #science
+- [Close social bonds help wild jackdaws hold feeding spots but come with waiting costs](https://phys.org/news/2026-10-social-bonds-wild-jackdaws.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
+- [Japan's MMX mission aims to swipe soil samples from Mars's moon Phobos](https://phys.org/news/2026-10-japan-mmx-mission-aims-swipe.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
+- [Scientists discover a natural compound that could protect the brain from too much salt](https://www.sciencedaily.com/releases/2026/10/261017230032.htm) — Latest Science News -- ScienceDaily · 06:46 PT · #science
+- [Physicists create a bizarre new quantum state called a fractional fermi sea](https://www.sciencedaily.com/releases/2026/10/261018084644.htm) — Latest Science News -- ScienceDaily · 06:37 PT · #science
+- [Eating blueberries every day may have a surprising effect on your mood](https://www.sciencedaily.com/releases/2026/10/261017230028.htm) — Latest Science News -- ScienceDaily · 06:22 PT · #science
+- [Scientists link a strange sugar in red meat to a 63% higher diabetes risk](https://www.sciencedaily.com/releases/2026/10/261017230031.htm) — Latest Science News -- ScienceDaily · 06:09 PT · #science
 - [Hybrid diamond chip strengthens interactions between light and quantum bits](https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
+- [Magic mushroom ingredient takes the fight out of aggressive fish](https://www.sciencedaily.com/releases/2026/10/261017230036.htm) — Latest Science News -- ScienceDaily · 05:52 PT · #science
+- [Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse](https://www.sciencedaily.com/releases/2026/10/261017230023.htm) — Latest Science News -- ScienceDaily · 05:36 PT · #science
+- [Scientists uncover 3 key brain pathways linked to lasting depression relief](https://www.sciencedaily.com/releases/2026/10/261017230021.htm) — Latest Science News -- ScienceDaily · 05:19 PT · #science
 - [Real-life vampire birds hunt and drink blood in remote Ecuador](https://www.popsci.com/science/vampire-bird-finch-galapagos/) — Popular Science · 05:04 PT · #science
+- [Two monster black holes could collide in just 100 years](https://www.sciencedaily.com/releases/2026/10/261016070650.htm) — Latest Science News -- ScienceDaily · 05:03 PT · #science
 - [Lion droppings yield previously unknown microbial species, exposing hidden diversity inside Africa's big cats](https://phys.org/news/2026-10-lion-yield-previously-unknown-microbial.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
 - [The New Science of Stuttering](https://www.nytimes.com/2026/10/18/science/the-new-science-of-stuttering.html) — NYT > Science · 04:41 PT · #science
 - [One million migrating raptors dodge illegal hunters above Georgia's Black Sea coast](https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html) — Phys.org - latest science and technology news stories · 04:39 PT · #science
 - [Japan to launch spacecraft on a mission to get samples from a Martian moon](https://phys.org/news/2026-10-japan-spacecraft-mission-samples-martian.html) — Phys.org - latest science and technology news stories · 04:38 PT · #science
+- [Scientists discover that male and female skin play by different rules](https://www.sciencedaily.com/releases/2026/10/261017230020.htm) — Latest Science News -- ScienceDaily · 03:52 PT · #science
 - [Margaret Hamilton obituary](https://www.theguardian.com/science/2026/oct/18/margaret-hamilton-obituary) — Space | The Guardian · 03:43 PT · #science
+- [Scientists who discovered a third form of magnetism win major physics prize](https://www.sciencedaily.com/releases/2026/10/261017230035.htm) — Latest Science News -- ScienceDaily · 02:41 PT · #science
 - [Japan to launch world-first mission to collect samples from Martian moon](https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples) — Space | The Guardian · 01:11 PT · #science
 
 ## 2026-10-17
 
 - [APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars](https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/) — NASA · 21:05 PT · #science
+- [Scientists tested 39 sweeteners and uncovered surprising gut effects](https://www.sciencedaily.com/releases/2026/10/261016081103.htm) — Latest Science News -- ScienceDaily · 20:55 PT · #science
+- [Scientists find a youth protein that helps aging brain cells act young again](https://www.sciencedaily.com/releases/2026/10/261016070646.htm) — Latest Science News -- ScienceDaily · 20:27 PT · #science
+- [NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish](https://www.sciencedaily.com/releases/2026/10/261016070635.htm) — Latest Science News -- ScienceDaily · 20:02 PT · #science
+- [Archaeologists discover 1,200-year-old mummified hairless dog in Peru](https://www.sciencedaily.com/releases/2026/10/261016070644.htm) — Latest Science News -- ScienceDaily · 19:32 PT · #science
+- [NASA discovers hidden fires burning beneath the Amazon rainforest](https://www.sciencedaily.com/releases/2026/10/261016070633.htm) — Latest Science News -- ScienceDaily · 18:14 PT · #science
 - [World's oldest shipwreck discovered off coast of Turkey](https://phys.org/news/2026-10-world-oldest-shipwreck-coast-turkey.html) — Phys.org - latest science and technology news stories · 17:30 PT · #science
 - [Inside Apollo Mission Control With Gerry Griffin (493)](https://shirtloadsofscience.libsyn.com/inside-apollo-mission-control-with-gerry-griffin-493) — Shirtloads of Science · 15:00 PT · #science
 - [What a worm's brain can teach us about sex differences in the nervous system](https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
@@ -403,23 +423,3 @@ tags: ["category", "science"]
 - [Not all early birds evolved toward better flight, Jurassic fossil suggests](https://phys.org/news/2026-10-early-birds-evolved-flight-jurassic.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #foreign
 - [Modeling study shows early tetrapods had surprisingly little ability to move their necks](https://phys.org/news/2026-10-early-tetrapods-ability-necks.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
 - [AI-enhanced weather model doubles predictive power two to six weeks out](https://phys.org/news/2026-10-ai-weather-power-weeks.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #ai
-- [Little fish, big deal—Record haul of baby sturgeons offers hope for the future](https://phys.org/news/2026-10-fish-big-haul-baby-sturgeons.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
-- [Sled dogs have stubby legs for a reason](https://www.popsci.com/environment/sled-dog-legs-evolution/) — Popular Science · 08:00 PT · #science
-- [New weather model may finally offer a reliable six-week forecast](https://www.popsci.com/environment/reliable-six-week-weather-forecast/) — Popular Science · 08:00 PT · #science
-- [They Created a Cell That’s Almost Alive. What to Do With It Now?](https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html) — NYT > Science · 07:57 PT · #science
-- [NASA Develops Batteries to Power Humanity’s Return to Moon](https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/) — NASA · 07:41 PT · #science
-- [Team builds resource-sharing technology platform for nonprofits](https://phys.org/news/2026-10-team-resource-technology-platform-nonprofits.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
-- [Could a molecular ZIP code unlock treatments for untreatable diseases?](https://phys.org/news/2026-10-molecular-code-treatments-untreatable-diseases.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
-- [How shark ecotourism sparks long-term conservation](https://phys.org/news/2026-10-shark-ecotourism-term.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [DNA analysis uncovers first known genetic connection between rare New Caledonian plant and parasitic plant](https://phys.org/news/2026-10-dna-analysis-uncovers-genetic-rare.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [Your dog may link sounds with shapes, just like you do](https://phys.org/news/2026-10-dog-link.html) — Phys.org - latest science and technology news stories · 07:10 PT · #science
-- [Jamming the flow to enable memory in quantum materials](https://phys.org/news/2026-10-enable-memory-quantum-materials.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [Chemists develop blueprint for designing powerful fluorescent materials for better disease detection](https://phys.org/news/2026-10-chemists-blueprint-powerful-fluorescent-materials.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions](https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/) — NASA · 06:32 PT · #science
-- [The criminal behind Los Angeles’ Griffith Observatory](https://www.popsci.com/science/griffith-observatory-founder-criminal/) — Popular Science · 05:57 PT · #science
-- [Patagonia now sells its Worn Wear collection of refurbished gear right alongside new products](https://www.popsci.com/gear/patagonia-worn-wear-used-outdoor-gear/) — Popular Science · 05:25 PT · #science
-- [Scientists reveal why some workout recovery tricks can backfire](https://www.sciencedaily.com/releases/2026/10/261013015805.htm) — Latest Science News -- ScienceDaily · 05:04 PT · #science
-- [Cornell scientists identify rare human genetic disorder in two unusually long-legged cats](https://www.sciencedaily.com/releases/2026/10/261013015801.htm) — Latest Science News -- ScienceDaily · 04:56 PT · #science
-- [Why the AI shopping revolution could backfire on retailers](https://phys.org/news/2026-10-ai-revolution-backfire-retailers.html) — Phys.org - latest science and technology news stories · 04:40 PT · #science #ai
-- [The secret to easier exercise as an adult may start in childhood](https://www.sciencedaily.com/releases/2026/10/261013015811.htm) — Latest Science News -- ScienceDaily · 04:36 PT · #science
-- [Children's mental health struggles may expose parents to stigma tied to parenting ideals](https://phys.org/news/2026-10-children-mental-health-struggles-expose.html) — Phys.org - latest science and technology news stories · 04:20 PT · #science

@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-18T06:09:10-07:00
+updated: 2026-10-18T09:31:04-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,16 +11,54 @@ tags: ["category", "tech"]
 
 ## 2026-10-18
 
+- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) — TechCrunch · 09:30 PT · #tech #ai #markets #smallbiz
+- [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act) — The Verge · 09:27 PT · #tech #civic
+- [How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8](https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/) — Engadget - Technology News & Expert Reviews · 09:15 PT · #tech
+- [TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/) — TechCrunch · 09:05 PT · #tech #ai
+- [Flat Ethernet cables probably aren't the answer to your home networking problem](https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues/) — Engadget - Technology News & Expert Reviews · 08:45 PT · #tech
+- [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550) — Hacker News · 08:26 PT · #tech
+- [The reason why your drive shows less storage than you paid for](https://www.engadget.com/2286322/why-new-drive-shows-less-storage/) — Engadget - Technology News & Expert Reviews · 08:15 PT · #tech
+- [#1 way to build your brand](https://www.youtube.com/shorts/Cw7pcyJJpd0) — GaryVee · 08:14 PT · #tech #smallbiz
+- [Retail reset set for November 6 as OLED MacBook Pro looms](https://appleinsider.com/articles/26/10/18/retail-reset-set-for-november-6-as-oled-macbook-pro-looms?utm_source=rss) — AppleInsider · 08:12 PT · #tech #ai
+- [Microsoft Unveils Surface Pro 12-inch and Laptop 13-inch with AI Boost](https://smallbiztrends.com/microsoft-unveils-surface-pro-12-inch-and-laptop-13-inch-with-ai-boost/) — Small Business Trends · 08:11 PT · #tech #ai
+- [Apple Reveals iPhone Duo's Battery Capacity](https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/) — MacRumors · 08:07 PT · #tech #ai
+- [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/) — Hacker News · 08:00 PT · #tech
+- [Scientists Find a ‘Ghostly Green’ Star, and That’s Not the Only Crazy Color](https://www.cnet.com/science/space/white-dwarf-star-color-variability/) — CNET · 08:00 PT · #tech
+- [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale) — The Verge · 08:00 PT · #tech
+- [Serena Williams, Kevin Durant, and Aaron Rodgers Have a Business Playbook Beyond Sports](https://www.inc.com/stacey-mickles/serena-williams-kevin-durant-and-aaron-rodgers-have-a-business-playbook-beyond-sports/91421306) — Inc.com · 08:00 PT · #tech
+- [Apple Planning 'HomeView Max' With 9-Inch, 360-Degree Screen](https://www.macrumors.com/2026/10/18/apple-rumored-to-launch-homeview-max/) — MacRumors · 07:54 PT · #tech #ai
+- [Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect](https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/) — 9to5Mac · 07:48 PT · #tech #ai
+- [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/) — Hacker News · 07:47 PT · #tech
+- [iOS 27's new CarPlay features are great, but only these iPhones can actually use them](https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/) — Engadget - Technology News & Expert Reviews · 07:45 PT · #tech
+- [Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders](https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/) — MacRumors · 07:33 PT · #tech #ai
+- [High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/) — Hacker News · 07:31 PT · #tech
+- [HomeView follow-up with robot arm rumored to ship in 2027](https://appleinsider.com/articles/26/10/18/homeview-follow-up-with-robot-arm-rumored-to-ship-in-2027?utm_source=rss) — AppleInsider · 07:30 PT · #tech #ai
+- [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model) — Hacker News · 07:30 PT · #tech #ai
+- [Apple’s next HomeView could debut as soon as next year with a robotic arm: report](https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/) — 9to5Mac · 07:17 PT · #tech #ai
+- [Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car) — Hacker News · 07:16 PT · #tech
+- [The reason your Amazon Alexa devices are always listening](https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/) — Engadget - Technology News & Expert Reviews · 07:15 PT · #tech
+- [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview) — The Verge · 07:00 PT · #tech
+- [What Witches, Batman and Spider-Man Can Teach You About Winning Customers](https://www.inc.com/jennifer-knowles/what-witches-batman-and-spider-man-can-teach-you-about-winning-customers/91421196) — Inc.com · 07:00 PT · #tech
+- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) — Hacker News · 06:48 PT · #tech
+- [These 6 retro sites let you relive the glory days of 2000s Flash games](https://www.engadget.com/2285729/where-to-play-2000s-retro-flash-games/) — Engadget - Technology News & Expert Reviews · 06:45 PT · #tech
+- [The Electronic Disturbance Theater and Electronic Civil Disobedience](https://www.thing.net/~rdom/ecd/EDTECD.html) — Hacker News · 06:41 PT · #tech
+- [How Much GPU Memory Do You Really Need to Run an Open LLM Locally? - HackerNoon](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnI5V2Y3TXNJbnlHM0IxWk1jd2tkckNETDZMSnA5T08yYkNrQUFaVjZhY0phM2ZBSlBUTW1IZk9zSnY2R1dUaDUwRjZwcFJLdmJUNUxicks3OTRIbTJ0NHJPMkM4Z1Z6UDNqaFhXbW83ck9rMkQxbHJOWTlJbVZleHY5b19QVGRIWXZLYW9FNUdiUQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 06:36 PT · #tech #ai
+- [Your smart TV has one big problem: It's tracking what you watch](https://www.engadget.com/2285490/one-problem-smart-tv-tracking-what-you-watch/) — Engadget - Technology News & Expert Reviews · 06:30 PT · #tech
+- [Trump says Google kisses his ass](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass) — The Verge · 06:25 PT · #tech
+- [How to use your Windows PC to make and receive phone calls](https://www.engadget.com/2285327/how-to-use-windows-pc-make-receive-phone-calls/) — Engadget - Technology News & Expert Reviews · 06:15 PT · #tech
+- [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/) — Hacker News · 06:06 PT · #tech
 - [The best gadget I bought this year is a milk frother](https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget) — The Verge · 06:00 PT · #tech
 - [How overhead projectors took over your classroom](https://www.theverge.com/podcast/1013473/overhead-projector-version-history) — The Verge · 05:55 PT · #tech #foreign
 - [Why it's important to avoid plugging in a damaged external hard drive](https://www.engadget.com/2285211/why-its-important-to-avoid-plugging-in-damaged-hard-drive/) — Engadget - Technology News & Expert Reviews · 05:45 PT · #tech
 - [Why are internet upload speeds so much slower than download speeds?](https://www.engadget.com/2285208/why-internet-upload-speeds-slower-download-comparison/) — Engadget - Technology News & Expert Reviews · 05:30 PT · #tech
+- [How Far Will AI Assistants Go for a Refund They Can't Get?](https://www.vals.ai/blogs/impossible-refund) — Hacker News · 05:22 PT · #tech #ai
 - [Why you might not want to join two Ethernet cables (and what you should do instead)](https://www.engadget.com/2285141/ethernet-cables-why-not-join-two-what-do-instead/) — Engadget - Technology News & Expert Reviews · 05:15 PT · #tech
 - [Breakthrough Glasses Slow Myopia in Kids — What It’s Like to Order Stellest](https://www.youtube.com/watch?v=FuIjXL_ODmA) — CNET · 05:00 PT · #tech
 - [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws) — The Verge · 05:00 PT · #tech
 - [ASUS Arc Pro B70: 32GB Intel AI GPU Debuts \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMifkFVX3lxTE5RN1FvTkFWVDBnYnZwYjRjNlYzWGlySWdoOXI2dlQwZ2gwak1WRVdTaUxxYjlsdkdQWVpRR0sycGtETlJaaWVKZnNhWGdxRUYtX2JZWHZib25MTE1GeGxmalFKMUQya1pnMmY2c0l6M2lPYTJWc0E3bGhQbEZFUQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 04:25 PT · #tech #ai
 - [Crime blotter: Man arrested for damage to Macau Apple Store](https://appleinsider.com/articles/26/10/18/crime-blotter-man-arrested-for-damage-to-macau-apple-store?utm_source=rss) — AppleInsider · 04:21 PT · #tech #ai
 - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper) — Hacker News · 04:16 PT · #tech
+- [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/) — Hacker News · 04:15 PT · #tech
 - [NVIDIA RTX Spark laptops are now available globally; Waves of support delivered via software updates - Tech Critter](https://news.google.com/rss/articles/CBMiekFVX3lxTE9qN3NFcXpqaU5PdFZ4d0VTZlJSMzlSLWFSdmF6cEtHRGJpVUI1dnFmY0doalFYdDFacTdUdUVhRWtTb2VIWFU1b3VycS1jOVJBRGpka1V5WkktYWFOaXhNZFBYTFNOTkg4aUs5VzJubHRVSXVENGZfTWZ3?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 04:10 PT · #tech #ai
 - [20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)](https://www.wired.com/gallery/best-gifts-for-manly-men-2026/) — WIRED · 04:01 PT · #tech
 - [OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/) — WIRED · 03:30 PT · #tech #ai
@@ -33,6 +71,7 @@ tags: ["category", "tech"]
 - [Climate Change Has It In for the World’s Best Surfing](https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/) — WIRED · 02:00 PT · #tech
 - [Magnesium May Not Reach Your Brain, Despite Supplement Label Promises](https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/) — WIRED · 02:00 PT · #tech
 - [Voicemod’s New Phone Gadget Changes Your ‘Sonic Identity’ for Mobile Games and Streaming](https://www.cnet.com/tech/mobile/voicemod-phone-gadget-changes-sonic-identity-streaming-mobile-games/) — CNET · 02:00 PT · #tech
+- [Apple announces new $899 M6 Mac mini and $5,499 M5 Ultra Mac Studio - Mashable](https://news.google.com/rss/articles/CBMidkFVX3lxTFBxLVhSS25HclV6WENCY0Y0WVprMGxFT3dhZ3B2b2xvWTJHY3FGemd3dXVHNUp4Vlg3cU1fZmdJSmVIY2pIMzBlSFBvNG5aVlRjV19iZDg5aVVmeTdvV0FVdzNkeUNWMUIzRWhCeHVxMkxGRjRqWmc?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 02:00 PT · #tech #ai
 - [Mac Studio M5 Ultra 64-Core vs 80-Core GPU for Local AI: Is the Upgrade Worth It? - zeera wireless](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR2xMM3N3TlJjS3RmWXJJRlZZMVhEWjdiT0VrTmtxSFdlNFBRWnZzQmhzQjcwaTR2aFJ0cnd0QUZMNE11M0t6RTJpV0xZaVRTY0ZWWTdTU3VtNzBBRjUyWkwwUFBIdkxmZFlIdHByeHZnamtYMDFSV1kwdGNSWVBnT1JlVEJqYm1zeXRF?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:21 PT · #tech #ai
 - [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/) — Hacker News · 01:19 PT · #tech
 - [Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance](https://www.theregister.com/offbeat/2026/10/18/oh-no-what-happened-to-my-oohpod-windows-command-prompt-puts-in-a-surprise-appearance/5303109) — www.theregister.com - Articles · 01:09 PT · #tech
@@ -324,6 +363,7 @@ tags: ["category", "tech"]
 - [Reed Hastings Says This 1 ‘Big Mistake’ at Netflix Came From ‘Leaning Into the Future’ Too Fast](https://www.inc.com/leah-carroll/reed-hastings-says-this-1-big-mistake-at-netflix-came-from-leaning-into-the-future-too-fast/91421469) — Inc.com · 12:24 PT · #tech #smallbiz
 - [Intuit Acquires Sequence to Enhance AI-Driven Revenue Management Tools](https://smallbiztrends.com/intuit-acquires-sequence-to-enhance-ai-driven-revenue-management-tools/) — Small Business Trends · 12:21 PT · #tech #ai #markets
 - [X is politically irrelevant #Vergecast](https://www.youtube.com/shorts/9h5naV9Ms4s) — The Verge · 12:15 PT · #tech #civic
+- [AMD adds day-0 support for Meta's Muse Spark Open - Blockchain News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFVtZWdyMTRTMTgzLThLOHlzS0pBYWI1TERCZGVsbm5XX2pHeVg2cDkzMkU4ejBxaXV6OFd5REpZTWN4RnVRTTNVcG4yR2xCWkptY0MyMGtxdWlxU21EbGtfQ3M3WUFBbmF2ak9XNUdyY3BqZlBMRWlmZW5CUGU3SmFR?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:15 PT · #tech #ai
 - [Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality](https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/) — Ars Technica · 12:11 PT · #tech
 - [MLX for Mac with Apple Silicon Enables Local Experimentation with the Muse Spark Open Model - SSBCrack](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbkQ2ZnBnUG9YcnkxY2FDaUFuQmUzVENlc2g3Y1ZkSDQyZWlQSnB0b0I2cl9vWWNmbHh5LWJISk9RVF9mM21TWTd1bVNwa1hZNjd6OEhLeS1OMm9kdTFudWcyUzczY1pPZHJ1bjZwMlpIbHJEZXlERUpEMXZrMjA4N3g0LUh1T2NWQkVHSVJmLUhIMkNqX2RSbExoelV0X0hUejF2RDdVT3RuQVBYQXI3VkpxZXpGRzdOQ1E?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 12:11 PT · #tech #ai
 - [Facebook Launches Forum App to Enhance Community Engagement in Groups](https://smallbiztrends.com/facebook-launches-forum-app-to-enhance-community-engagement-in-groups/) — Small Business Trends · 12:11 PT · #tech
@@ -331,6 +371,7 @@ tags: ["category", "tech"]
 - [Data Center Fire Detection and Suppression Market to Reach USD 10.35 Billion by 2035 as Battery and AI Risks Drive Protection Upgrades - DC Market Insights](https://www.prnewswire.com/news-releases/data-center-fire-detection-and-suppression-market-to-reach-usd-10-35-billion-by-2035-as-battery-and-ai-risks-drive-protection-upgrades---dc-market-insights-302911580.html) — PR Newswire Business Tech · 12:09 PT · #tech #ai
 - [iPhone Duo delivery dates stabilize on late January deliveries for all models](https://appleinsider.com/articles/26/10/16/iphone-duo-delivery-dates-stabilize-on-late-january-deliveries-for-all-models?utm_source=rss) — AppleInsider · 12:08 PT · #tech #ai
 - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) — Hacker News · 12:04 PT · #tech
+- [Apple and Meta Bring 816-Billion-Parameter AI Model to Mac Computers - The National CIO Review](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMUV6RXZuRzc1eDZ6OXR6Sll5TEh3d1pldEx4ektSTXRnb3NPZFlmTk90X3dDV1l0QVJaVHl5STFpY0pGemJyOE5kLVFJOXlhblNIelRJZGgxbmhMd2pJWm9IWG0zMlRCcnZCSU9kOXJSLWEtRU1BQ3VPdUhuTXU1WUdkRzRwOE1ERmhNZ0ROVHBSOFlRRXBFX3p4c2ZjX3V0T242aGJnSUFLZXFrOGZteUtqUUo5bWNEbkhSRy02YkdPQjJkVlF3ag?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 12:03 PT · #tech #ai
 - [Waymo Puts Toronto on the Map for Its Robotaxis](https://www.cnet.com/home/electric-vehicles/waymo-puts-toronto-on-the-map-for-its-robotaxis/) — CNET · 12:03 PT · #tech
 - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) — Hacker News · 12:01 PT · #tech
 - [Never Let Anyone Take Your Shine](https://www.youtube.com/shorts/dXHewvxlaws) — Marie Forleo · 12:00 PT · #tech #smallbiz
@@ -376,44 +417,3 @@ tags: ["category", "tech"]
 - [Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+](https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/) — Engadget - Technology News & Expert Reviews · 10:03 PT · #tech
 - [Why Your AI Strategy Is Failing (Hint: It’s Not the Technology)](https://www.inc.com/pam-didner/why-ai-strategy-fails-data-quality-budget/91419432) — Inc.com · 10:00 PT · #tech #ai
 - [Paris Court Ruling on Discontinued Feature Will Have Minimal Impact on Angelalign Customers](https://www.prnewswire.com/news-releases/paris-court-ruling-on-discontinued-feature-will-have-minimal-impact-on-angelalign-customers-302911488.html) — PR Newswire Business Tech · 09:59 PT · #tech
-- [/dev/null: social network for developers](https://dev-null.sh) — Hacker News · 09:57 PT · #tech
-- [Warren Buffett’s Successor Is Spending Billions on Housing. It’s Not Just a Bet on Home Prices](https://www.inc.com/moses-jeanfrancois/berkshire-warren-buffetts-successor-housing-investments/91420395) — Inc.com · 09:51 PT · #tech #realestate
-- [Huawei stellt verbesserte Stellar Intelligent Network-Lösung für die Region Europa unter dem Motto „Secure and Intelligent Connectivity" vor](https://www.prnewswire.com/news-releases/huawei-stellt-verbesserte-stellar-intelligent-network-losung-fur-die-region-europa-unter-dem-motto-secure-and-intelligent-connectivity-vor-302911480.html) — PR Newswire Business Tech · 09:51 PT · #tech
-- [Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead](https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/) — Latest news · 09:44 PT · #tech
-- [Apple’s New CEO Just Demonstrated How to Stay Classy While Insulting the Competition](https://www.inc.com/kit-eaton/apples-new-ceo-just-demonstrated-how-to-stay-classy-while-insulting-the-competition/91421326) — Inc.com · 09:43 PT · #tech
-- [Gemini 4 Argon’s Alan Wake 2 Port Claims 140 FPS \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMidEFVX3lxTE8zNW5YU3BnMnpvcGsyMXl2cXQtWlF0cm5pX3hBTk1NR2t4Mm80M2l3MUhtdzBxN0dGQXJfNFd2MU1XVkQtalZ5aGJDT3NoWm9qR2Z3c2hTVTMzMVlPdlFRd0pNdGpVbXoyQnJ1QXhHY0hCQnBH?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 09:39 PT · #tech #ai
-- [What the Milwaukee Brewers Can Teach Every Founder About Winning Against Better-Funded Competitors](https://www.inc.com/stephanie-davis/milwaukee-brewers-world-series-startup-founders-better-funded-competitors/91421121) — Inc.com · 09:39 PT · #tech #smallbiz
-- [TikTok Shop Set to Transform Holiday Shopping with Live Events and Trends](https://smallbiztrends.com/tiktok-shop-set-to-transform-holiday-shopping-with-live-events-and-trends/) — Small Business Trends · 09:37 PT · #tech
-- [If memory shortages last, tech companies should offer cheap battery replacements](https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/) — Engadget - Technology News & Expert Reviews · 09:32 PT · #tech
-- [Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’](https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/) — WIRED · 09:30 PT · #tech
-- [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/) — TechCrunch · 09:30 PT · #tech #ai
-- [Razer Barracuda V2 Pro Review: A Gaming Headset for the Office](https://www.wired.com/review/razer-barracuda-v2-pro/) — WIRED · 09:30 PT · #tech
-- [Ubuntu Stonking Stingray swims into spotlight with pre-release kernel](https://www.theregister.com/os-platforms/2026/10/16/ubuntu-stonking-stingray-swims-into-spotlight-with-pre-release-kernel/5303580) — www.theregister.com - Articles · 09:27 PT · #tech
-- [Sunwoda Digital Battery Passport Solution Among Finalists at 2026 edie Energy & Tech Awards](https://www.prnewswire.com/news-releases/sunwoda-digital-battery-passport-solution-among-finalists-at-2026-edie-energy--tech-awards-302911450.html) — PR Newswire Business Tech · 09:26 PT · #tech
-- ["I wasted time..."](https://www.youtube.com/shorts/hhcc8sHT-zs) — GaryVee · 09:22 PT · #tech #smallbiz
-- [Thank Gen Z for the ‘Girls’ Revival](https://www.wired.com/story/thank-gen-z-for-the-girls-revival/) — WIRED · 09:21 PT · #tech
-- [Second Time Smarter: What Successful Founders Do Differently](https://www.inc.com/inc-video/second-time-smarter-what-successful-founders-do-differently/91421361) — Inc.com · 09:15 PT · #tech #smallbiz
-- [The MacRumors Show: Was HomeView Worth the Wait?](https://www.macrumors.com/2026/10/16/the-macrumors-show-homeview-worth-the-wait/) — MacRumors · 09:13 PT · #tech #ai
-- [In HelloNation, Real Estate Expert Corey Bishop Examines Hidden Maintenance Costs in Older Homes in Western Massachusetts](https://www.prnewswire.com/news-releases/in-hellonation-real-estate-expert-corey-bishop-examines-hidden-maintenance-costs-in-older-homes-in-western-massachusetts-302911435.html) — PR Newswire Business Tech · 09:13 PT · #tech #realestate
-- [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) — Hacker News · 09:12 PT · #tech
-- [Wondershare UniConverter 18 Advances AI-Powered Media Processing with Intelligent Automation and Enhanced Creative Tools](https://www.prnewswire.com/news-releases/wondershare-uniconverter-18-advances-ai-powered-media-processing-with-intelligent-automation-and-enhanced-creative-tools-302911243.html) — PR Newswire Business Tech · 09:12 PT · #tech #ai
-- [/C O R R E C T I O N - UNLEASH World Limited/](https://www.prnewswire.com/news-releases/unleash-2026-hits-record-growth-in-paris-as-ai-triggers-major-investments-in-work-and-hr-302907638.html) — PR Newswire Business Tech · 09:11 PT · #tech #ai
-- [New online tool will check lawyers' sloppy AI-written briefs since they can't seem to be bothered](https://www.theregister.com/ai-and-ml/2026/10/16/new-online-tool-will-check-lawyers-sloppy-ai-written-briefs-since-they-cant-seem-to-be-bothered/5303589) — www.theregister.com - Articles · 09:08 PT · #tech #ai
-- [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/) — TechCrunch · 09:06 PT · #tech
-- [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games) — Hacker News · 09:03 PT · #tech #civic
-- [The new Apple TV 4K just got its first (very small) discount](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale) — The Verge · 09:02 PT · #tech
-- [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/) — TechCrunch · 09:01 PT · #tech #ai
-- [Tressfecta wants to make hair braiding a less arduous task for hairstylists](https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/) — TechCrunch · 09:00 PT · #tech
-- [In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder](https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/) — TechCrunch · 09:00 PT · #tech
-- [Codie Sanchez Has a Warning for Founders Who Need to Be the Hero](https://www.inc.com/colleen-batchelder/codie-sanchez-has-a-warning-for-founders-who-need-to-be-the-hero/91420503) — Inc.com · 09:00 PT · #tech #smallbiz
-- [We’re sharing 3 tips to study smarter with Gemini Notebook.](https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/) — The Keyword · 09:00 PT · #tech #ai
-- [Here’s the difference the variable aperture of the iPhone 18 Pro makes at night](https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night/) — 9to5Mac · 09:00 PT · #tech #ai
-- [Tesla Roadster Fires Up SpaceX Tech for ‘Flying Car’ Demo](https://www.cnet.com/home/electric-vehicles/tesla-roadster-reveal-spacex-tech/) — CNET · 08:57 PT · #tech
-- [Inside Polymarket's paid quote-retweet esports program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation) — Hacker News · 08:56 PT · #tech
-- [Elevation Lab pulls its AirTag Silencer over stalking concerns, issues apology](https://appleinsider.com/articles/26/10/16/elevation-lab-pulls-its-airtag-silencer-over-stalking-concerns-issues-apology?utm_source=rss) — AppleInsider · 08:53 PT · #tech #ai
-- [HomePod is about to get free upgrade with these new features](https://9to5mac.com/2026/10/16/homepod-is-about-to-get-free-upgrade-with-these-new-features/) — 9to5Mac · 08:49 PT · #tech #ai
-- [Apple Refers to HomeView as 'HomePodDevice' in Legal Document](https://www.macrumors.com/2026/10/16/apple-homeview-homepoddevice/) — MacRumors · 08:47 PT · #tech #ai
-- [Gemini 4 Argon Runs Alan Wake 2 Native at 140 FPS \[2026\] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMifEFVX3lxTE45b1VvNHo4UHBFTWlwOHpKNUo2alVRa3lPMFA2aWtPSUtkLXhPLWtQNzVBVVVHQmFnQ3EtYjNKUm5NZUtyNEp5ZXZFWXhuNE93NVlDT1FidUttZnlBa2RpZzNSVERET1IwdXVuS0hJZDV2WlBXYUlqZVpZZnA?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 08:47 PT · #tech #ai
-- [Surprise! Meta and Apple Worked Together on a New Open-Source AI Model](https://www.cnet.com/tech/computing/meta-spark-open-ai-apple-news/) — CNET · 08:46 PT · #tech #ai
-- [Zero Knowledge: 116 Chapters In](https://feld.com/archives/2026/10/zero-knowledge-116-chapters-in/) — Feld Thoughts · 08:45 PT · #tech
-- [Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees](https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/) — Ars Technica · 08:41 PT · #tech #ai

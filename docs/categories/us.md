@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-18T06:09:10-07:00
+updated: 2026-10-18T09:31:04-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,12 @@ tags: ["category", "us"]
 
 ## 2026-10-18
 
+- [LIVE UPDATES: Raiders host Bills looking to snap 2-game losing streak](https://www.reviewjournal.com/sports/raiders/live-updates-raiders-host-bills-looking-to-snap-2-game-losing-streak-3901811/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
+- [Ukraine launches more than 1,000 drones at Russia; St. Petersburg oil facilities ablaze](https://www.reviewjournal.com/news/politics-and-government/ukraine-launches-more-than-1000-drones-at-russia-st-petersburg-oil-facilities-ablaze-3901807/) — Las Vegas Review-Journal · 08:57 PT · #us #foreign #nevada #oil
+- [Pedestrian killed in North Las Vegas crash](https://www.reviewjournal.com/local/north-las-vegas/pedestrian-killed-in-north-las-vegas-crash-3901801/) — Las Vegas Review-Journal · 08:33 PT · #us #nevada
+- [1 dead, 1 injured after 2-vehicle crash in North Las Vegas](https://www.reviewjournal.com/local/north-las-vegas/1-dead-1-injured-after-2-vehicle-crash-in-north-las-vegas-3901794/) — Las Vegas Review-Journal · 07:47 PT · #us #nevada
+- [Hill: NBA makes half-hearted attempt to fix betting business it shouldn’t be in](https://www.reviewjournal.com/sports/sports-columns/adam-hill/hill-nba-makes-half-hearted-attempt-to-fix-betting-business-it-shouldnt-be-in-3901776/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
+- [Las Vegas Lights FC drop last sports contest ever played at Cashman Field](https://www.reviewjournal.com/sports/soccer/las-vegas-lights-fc-loses-last-sport-game-ever-played-at-cashman-fields-3901761/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [In tight Texas Senate race, Trump's immigration crackdown tests Republicans' hold on voters](https://www.latimes.com/politics/story/2026-10-18/trumps-immigration-crackdown-tests-republicans-hold-on-texas-voters) — World & Nation · 03:00 PT · #us #civic
 - [Barabak: Despite a blue tide, this Democratic governor is fighting to survive](https://www.latimes.com/politics/story/2026-10-18/midterm-election-governor-races-oregon-tina-kotek-christine-drazan) — World & Nation · 03:00 PT · #us #civic
 - [Mexico's beleaguered Pacific coast braces for another storm in record hurricane year](https://www.latimes.com/world-nation/story/2026-10-18/mexico-hurricane-pacific-coast) — World & Nation · 03:00 PT · #us
@@ -55,6 +61,7 @@ tags: ["category", "us"]
 - [Major Fire Breaks Out In Alberta After Deadly Incident At Military Base](https://www.huffpost.com/entry/canada-military-base-alberta_n_6ad42993e4b0ce24aed9fee9) — World News - Breaking News, Top Stories · 19:09 PT · #us #foreign
 - [Saturday’s Las Vegas Pride Festival a day of fun, inclusion and equality](https://www.reviewjournal.com/local/local-las-vegas/saturdays-las-vegas-pride-festival-a-day-of-fun-inclusion-and-equality-3901613/) — Las Vegas Review-Journal · 18:58 PT · #us #nevada
 - [Graney: Run out of Air Force, UNLV still has lots to play for](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-run-out-of-air-force-unlv-still-has-lots-to-play-for-3901607/) — Las Vegas Review-Journal · 18:20 PT · #us #nevada
+- [UNLV’s 3 losses share one troubling trend: Second-half struggles](https://www.reviewjournal.com/sports/unlv/unlv-football/unlvs-three-losses-share-one-troubling-trend-second-half-struggles-3901593/) — Las Vegas Review-Journal · 17:57 PT · #us #nevada
 - [‘Everyone’s voice needs to be heard’: Early voting opens in Nevada](https://www.reviewjournal.com/news/politics-and-government/nevada/everyones-voice-needs-to-be-heard-early-voting-opens-in-nevada-3901570/) — Las Vegas Review-Journal · 17:53 PT · #us #civic #nevada
 - [Clashes, Fires And Looting Break Out As Protesters Rally Across France, Joining Students](https://www.huffpost.com/entry/france-protests_n_6ad4050de4b00caf853ca38c) — World News - Breaking News, Top Stories · 16:35 PT · #us
 - [Week 10 scores, Week 11 playoffs schedule for Friday night football](https://www.reviewjournal.com/nevada-preps/np-football/week-10-scores-week-11-playoffs-schedule-for-friday-night-football-3901526/) — Las Vegas Review-Journal · 15:53 PT · #us #civic #nevada
@@ -419,10 +426,3 @@ tags: ["category", "us"]
 - [LETTER: Higher prescription costs](https://www.reviewjournal.com/opinion/letters/letter-higher-prescription-costs-3899774/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
 - [CLARENCE PAGE: Botched execution shakes attitudes toward death penalty](https://www.reviewjournal.com/opinion/clarence-page-botched-execution-shakes-attitudes-toward-death-penalty-3899771/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
 - [COMMENTARY: Trump’s trade war is driving the world away](https://www.reviewjournal.com/opinion/commentary-trumps-trade-war-is-driving-the-world-away-3899768/) — Las Vegas Review-Journal · 21:01 PT · #us #foreign #nevada
-- [CARTOONS: The advice everyone needs to hear](https://www.reviewjournal.com/opinion/drawing-board/cartoons-the-advice-everyone-needs-to-hear-3899758/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [EDITORIAL: Democratic Assembly supermajority on line](https://www.reviewjournal.com/opinion/editorials/editorial-democratic-assembly-supermajority-on-line-3899755/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [CARTOON: Scapegoat](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-scapegoat-3899752/) — Las Vegas Review-Journal · 21:00 PT · #us #foreign #nevada
-- [VICTOR JOECKS: Ford, Cannizzaro run from soft-on-crime records](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-ford-cannizzaro-run-from-soft-on-crime-records-3899749/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [Bishop Gorman wins individual, team 5A girls golf state titles](https://www.reviewjournal.com/nevada-preps/bishop-gorman-wins-individual-team-5a-girls-golf-state-titles-3899745/) — Las Vegas Review-Journal · 20:53 PT · #us #golf #nevada
-- [Trump makes unusual stop in Alaska; heads to Las Vegas, Arizona next](https://www.reviewjournal.com/news/nation-and-world/trump-makes-unusual-stop-in-alaska-heads-to-las-vegas-arizona-next-3899740/) — Las Vegas Review-Journal · 20:51 PT · #us #nevada
-- [No bail for First Friday slaying suspect as mayor says event may be paused](https://www.reviewjournal.com/crime/no-bail-for-first-friday-slaying-suspect-as-mayor-says-event-may-be-paused-3899732/) — Las Vegas Review-Journal · 20:25 PT · #us #nevada

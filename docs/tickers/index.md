@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-18T06:09:10-07:00
+updated: 2026-10-18T09:31:04-07:00
 count: 247
 tags: ["tickers"]
 ---
@@ -16,6 +16,7 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$ASTS](ASTS.md) — 2 items
 - [$MRP](MRP.md) — 2 items
 - [$DOCS](DOCS.md) — 2 items
 - [$TBLA](TBLA.md) — 2 items
@@ -190,7 +191,6 @@ tags: ["tickers"]
 - [$HUBG](HUBG.md) — 1 items
 - [$JBHT](JBHT.md) — 1 items
 - [$COO](COO.md) — 1 items
-- [$ASTS](ASTS.md) — 1 items
 - [$THO](THO.md) — 1 items
 - [$BUKS](BUKS.md) — 1 items
 - [$ATI](ATI.md) — 1 items

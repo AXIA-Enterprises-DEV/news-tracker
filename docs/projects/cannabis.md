@@ -1,13 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-18T06:09:10-07:00
-count: 90
+updated: 2026-10-18T09:31:04-07:00
+count: 91
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-90 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+91 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-18
+
+- [Why Is Marijuana Regulated More Strictly Than Alcohol, Even Though It Is Safer To Use? (Op-Ed)](https://www.marijuanamoment.net/why-is-marijuana-regulated-more-strictly-than-alcohol-even-though-it-is-safer-to-use-op-ed/) — Marijuana Moment · 07:06 PT · #business #cannabis
 
 ## 2026-10-17
 
