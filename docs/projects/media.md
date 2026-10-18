@@ -1,16 +1,18 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-17T17:06:11-07:00
-count: 337
+updated: 2026-10-17T21:23:09-07:00
+count: 340
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-337 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+340 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-17
 
+- [Rubio wants ‘crackdown’ on settler violence after US journalist attack](https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss) — Al Jazeera · 20:44 PT · #world #media
+- [US ambassador urges Israel to prosecute attackers of American journalist](https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss) — Al Jazeera · 16:40 PT · #world #foreign #media
 - [Russian Media Turn France’s Riots Into Anti-Macron Propaganda - finchannel](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUV4MjhzbkNpcnZ1YW5EdXltWGYxdkVwVXE3bWUxenk4ektJTGxENHhJQlB3VGRjS0IwSEp6MEFSQkItb1ZNeVZJZHVHcUFFcFV5THMwRnh3ZEkxaFBMbUV3Y1hnck5IUlMyeFEzdHpUcFdFaDNOeXY4SjhhOUZISmNtY203em9OWmhNVUNIVjhDYjljWlU1VExUMWFaX0hBdXhmS3F4aHlPYmo2X01hb19FWFI?oc=5) — Google News: propaganda OR disinformation media · 15:47 PT · #world #foreign #media
 - [No action to be taken against wife of PM’s aide over Palestine Action post](https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action) — Guardian World · 12:47 PT · #world #fed #media
 - [Legal experts warn Meta’s new terms still grant broad scraping permissions, despite language changes](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) — Nieman Lab · 11:49 PT · #tech #ai #media
@@ -25,6 +27,7 @@ tags: ["project", "media"]
 - [Mourinho Responds to Tebas’ Nazi Propaganda Comparison: ‘There Are Limits’ - Morocco World News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWltVnNVZGRNTUtnMnAxN2lSOWUyRlVzeG92SFEtVHdQOEVhMVVzZzd4RDhOWTRiYmRYV0R2YUtXdnVsWDRQbzlBT3huZGpiUTk4NVNIZldYRWRjUmwxTFpGc192Ym8waGhFOVJOTGo5a1VVU1FiTzVaTzBLaGlOc2x4bkpMOVhIZXdQY1owb1pzNlprWVRuTTZuV0FZMW12OWoySjdOamI3bmFYcWh4T1VWVzBPc25mNDkw?oc=5) — Google News: propaganda OR disinformation media · 04:37 PT · #world #media
 - [Real Madrid demand Javier Tebas resignation over Nazi propaganda comparison - Geo Super](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1pFTzBQMkhTTkY5ei1LOUNHb0hzQ0U0d3Y2em9XdGs2ei00TE9JV0RvYnh5TDhDMnNzX0xqcjNndDlLMFViSW1wQTZkTjMyUWhTSnExOTg5RmJINEMwbmdjV1VtUU9UVGVXSGRVd1lzYlh0ckJyQmVxOHYyUjhPZE5XQVJTYzFRUkRYd19tYVJxSXN2cEhFdkdkU2hRM1FMa0MzWmMtemPSAaQBQVVfeXFMUHNJWXVJdTRneUN5UHZwWTNteWVhLWY2V2w4NGQxUW10RWt3UzZlZmcxMXRjWlFnU1lTd3JkSml3NnNELW14clpOcEZBTXdiRngyeGppelBNY0FrbXVERXU4OGlIVXI0LUpnTmtyR2p2WFFDYWstQkp2ZmpxdHR6dG9DR0dmZnVwclU5WW9xYzR4TExKcXVnVGpSb3MwSVVaUk5NRGs?oc=5) — Google News: propaganda OR disinformation media · 02:07 PT · #world #media
 - [Real Madrid demand La Liga chief Javier Tebas quits after Nazi comparison - The Mirror](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWI5UDVTYldWNVRvY2d5ZG1JRUZsTXh2NGp6SHRFcGV3MGNmaUlYN1Vydk5RbmxIWkQ4RGRJWkE2dWtONE9KRkRkSmc5czRHTENCazV6bGx5T24yRmlYQmdIajFkakJHUmtfQUZMNUFiLWV1NG5wNVBHRnlsQm5rVUg2M294Wnl1UERNSU1NWGJ0Z9IBkgFBVV95cUxPdWI5UDVTYldWNVRvY2d5ZG1JRUZsTXh2NGp6SHRFcGV3MGNmaUlYN1Vydk5RbmxIWkQ4RGRJWkE2dWtONE9KRkRkSmc5czRHTENCazV6bGx5T24yRmlYQmdIajFkakJHUmtfQUZMNUFiLWV1NG5wNVBHRnlsQm5rVUg2M294Wnl1UERNSU1NWGJ0Zw?oc=5) — Google News: propaganda OR disinformation media · 01:32 PT · #world #media
+- [Mayawati alleges fake surveys being circulated against BSP ahead of UP, Uttarakhand, and Punjab elections - Daily Excelsior](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmU5NEdSeVkwWVFGR1pJcVkzTVZFRXJCZzRlUUlVR18tRGZJbUVfdmREVXduTmpDRzlHSm12T3dXcVhLZ29LdXJubDNYbzdGeXFpM2xRbUMxTmdwSS1tS3d2b3k2a0c4V1V5Q090NlJGSmhmM2owc3pVYkZPTGNQV0VHN1FteGpjaUp2bWpGLVVVMks2R2RhcDk0WFEwQ0liZkxHM0FEOVE5T0FVd0tOa2dMdTNDOVU3bnpmLTI4aGdYQkZFbGc2bkZDNGRfWUYyODdsTGtB0gHWAUFVX3lxTFBiZTk0R1J5WTBZUUZHWklxWTNNVkVFckJnNGVRSVVHXy1EZkltRV92ZERVd25OakNHOUdKbXZPd1dxWEtnb0t1cm5sM1hvN0Z5cWkzbFFtQzFOZ3BJLW1Ld3ZveTZrRzhXVXlDT3Q2UkZKaGYzajBzelViRk9MY1BXRUc3UW14amNpSnZtakYtVVUySzZHZGFwOTRYUTBDSWJmTEczQUQ5UTlPQVV3S05rZ0x1M0M5VTduemYtMjhoZ1hCRkVsZzZuRkM0ZF9ZRjI4N2xMa0E?oc=5) — Google News: propaganda OR disinformation media · 01:30 PT · #world #civic #media
 - [Real Madrid call for resignation of LaLiga President Javier Tebas over Nazi propaganda comparison - Pakistan Observer](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmNKanZKakoyb0xqcE5mT1AyX1Y5QUtoQTNJdjZxNURzU2hmZm1KUlVCZDZLNzZLZTh4cTVHTEduS05NeV93SHhfN2lqUmZRNU5tQldiVV9jbk5GYnVPbmFURVlING1ZQTlqcnRyVXBGS3g5ejhXVDQ1Ujg0b3lkS1VIN2FkY3hiNmpDNHE1VExmODVSR3F4bU5SZGdnVjNzVnRDbWlyS25jbGt5S01ZazRrbjU3MXJKa2NiNVJrRQ?oc=5) — Google News: propaganda OR disinformation media · 01:20 PT · #world #media
 - [Real Madrid Fumes At La Liga President Javier Tebas, Demands Resignation Over Nazi Propaganda Dig - Times Now](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX2FJU2dYbVNYUEI0VXloT2R0LXdnanBxei1TYzVMejRvNVBORzdXVUhrNUhRcFcwWC1xR3RCcVBRTWJIVFJidlVfQUxWenl2YlJuSGR5dlNDZl8tX2U4eHBqU212dEI2TXZMWGs0YzRCMHVsNFVldmJIbWNBdEtJZXRKcVR0Z0ZNSjJxbGVzS1FVLWV1Mjc2NVlEaVRmdGtmMVZVMWlqNTI1WWNmZG9COFVtSE0tS2FiRHQwUnh0TTNKVXVuVmxDZ0YxVk9XVTN6QUkyTlNfakRDR0FQTUdtNmJMaWN6a0gyLWtneElqdTnSAfYBQVVfeXFMTVJVdHIzZV9ZQnhMbFJ3NVFYZVAtM29YX0Q0VHk2WlZ1UmRPU3BuYXFyVUZyczhyb0c2RUR0c2NvdVA3QXNob0hRNFg4UWFpaFVmdEJyTVhCNzZUbWZnS1J3bmFXQmhNRVNCRFpGaFFjTFNBaDA4Ym5neGdZNWdVTjIwWS1CMjcyR0JUVnBTdGRuNXZ3RWU2REpBSjhpZjZSa2VIaFVsbFpMc3liWkJwaERGVGtBTW5TV1hvdVlRQVFaZkdlU0V2YmV6MWZDSDlZSWw5Wk1TQ0RGYVkzeGE4TXQxempOMW96Qno2WnRPdXFqSnRjVmln?oc=5) — Google News: propaganda OR disinformation media · 00:07 PT · #world #media
 

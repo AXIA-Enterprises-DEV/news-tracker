@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-17T17:06:11-07:00
+updated: 2026-10-17T21:23:09-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,23 @@ tags: ["category", "us"]
 
 ## 2026-10-17
 
+- [UNLV volleyball retires Mariena Hayden’s No. 7 jersey, a first in program history](https://lasvegassun.com/news/2026/oct/17/unlv-retires-mariena-haydens-no-7-jersey-a-first-i/) — Las Vegas Sun · 21:04 PT · #us #nevada
+- [NEVADA VIEWS: Rent control won’t fix Nevada housing costs](https://www.reviewjournal.com/opinion/nevada-views-rent-control-wont-fix-nevada-housing-costs-3901654/) — Las Vegas Review-Journal · 21:02 PT · #us #nevada
+- [LETTER: Making sense](https://www.reviewjournal.com/opinion/letters/letter-making-sense-3901651/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [CARTOON: The heart of Texas](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-the-heart-of-texas-3901648/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [EDITORIAL: Governor’s race to deterrmine Nevada’s direction](https://www.reviewjournal.com/opinion/editorials/editorial-governors-race-to-deterrmine-nevadas-direction-3901644/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: It’s all about the teacher](https://www.reviewjournal.com/opinion/letters/letter-its-all-about-the-teacher-3901641/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: Very concerning](https://www.reviewjournal.com/opinion/letters/letter-very-concerning-3901638/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [COMMENTARY: The destructive effects of outrageous taxation](https://www.reviewjournal.com/opinion/commentary-the-destructive-effects-of-outrageous-taxation-3901633/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [VICTOR JOECKS: Why the death penalty can be pro-life](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-why-the-death-penalty-can-be-pro-life-3901630/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [COMMENTARY: Changing Congress won’t change the Iran War](https://www.reviewjournal.com/opinion/commentary-changing-congress-wont-change-the-iran-war-3901627/) — Las Vegas Review-Journal · 21:00 PT · #us #civic #foreign #nevada
+- [How a driver, a dad and a teacher tried to stop the Oregon school shooter](https://lasvegassun.com/news/2026/oct/17/how-a-driver-a-dad-and-a-teacher-tried-to-stop-the/) — Las Vegas Sun · 20:19 PT · #us #nevada
+- [Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen](https://lasvegassun.com/news/2026/oct/17/trumps-decision-to-waive-russian-sanctions-outrage/) — Las Vegas Sun · 20:19 PT · #us #civic #foreign #nevada
+- [UNLV can't stop Air Force ground game in 41-31 loss](https://lasvegassun.com/news/2026/oct/17/unlv-cant-stop-air-force-ground-game-in-41-31-loss/) — Las Vegas Sun · 20:19 PT · #us #nevada
+- [Online forum controlled by Nevada GOP House candidate contains slurs and Nazi talk, AP review finds](https://lasvegassun.com/news/2026/oct/17/online-forum-controlled-by-nevada-gop-house-candid/) — Las Vegas Sun · 20:19 PT · #us #nevada
+- [Saturday’s Las Vegas Pride Festival a day of fun, inclusion and equality](https://www.reviewjournal.com/local/local-las-vegas/saturdays-las-vegas-pride-festival-a-day-of-fun-inclusion-and-equality-3901613/) — Las Vegas Review-Journal · 18:58 PT · #us #nevada
+- [Graney: Run out of Air Force, UNLV still has lots to play for](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-run-out-of-air-force-unlv-still-has-lots-to-play-for-3901607/) — Las Vegas Review-Journal · 18:20 PT · #us #nevada
+- [‘Everyone’s voice needs to be heard’: Early voting opens in Nevada](https://www.reviewjournal.com/news/politics-and-government/nevada/everyones-voice-needs-to-be-heard-early-voting-opens-in-nevada-3901570/) — Las Vegas Review-Journal · 17:53 PT · #us #civic #nevada
 - [Week 10 scores, Week 11 playoffs schedule for Friday night football](https://www.reviewjournal.com/nevada-preps/np-football/week-10-scores-week-11-playoffs-schedule-for-friday-night-football-3901526/) — Las Vegas Review-Journal · 15:53 PT · #us #civic #nevada
 - [Air Force runs all over UNLV football in Mountain West victory](https://www.reviewjournal.com/sports/unlv/unlv-football/air-force-runs-all-over-unlv-football-in-mountain-west-victory-3901521/) — Las Vegas Review-Journal · 15:49 PT · #us #nevada
 - [NFL betting, player props: Bills defense exposes good bet for Raiders](https://www.reviewjournal.com/sports/betting/nfl-betting-player-props-bills-defense-exposes-good-bet-for-raiders-3901515/) — Las Vegas Review-Journal · 15:09 PT · #us #nevada
@@ -406,20 +423,3 @@ tags: ["category", "us"]
 - [Chicago police say DNA links former detective with Las Vegas ties to killing of 8-year-old girl](https://lasvegassun.com/news/2026/oct/13/chicago-police-say-dna-links-former-detective-with/) — Las Vegas Sun · 13:39 PT · #us #nevada
 - [Vatican Says The Pope Has Lung Cancer And Lower Lobe Of His Right Lung Was Removed](https://www.huffpost.com/entry/vatican-pope-surgery-lung-cancer_n_6ace90aae4b0447f8d4a9b85) — World News - Breaking News, Top Stories · 13:16 PT · #us
 - [LVCVA happy with results of this year’s five-day sale in September](https://www.reviewjournal.com/business/tourism/lvcva-happy-with-results-of-this-years-five-day-sale-in-september-3899593/) — Las Vegas Review-Journal · 12:59 PT · #us #nevada
-- [Vatican says pope’s lung nodule surgery was successfully completed](https://lasvegassun.com/news/2026/oct/13/vatican-says-popes-lung-nodule-surgery-was-success/) — Las Vegas Sun · 12:31 PT · #us #nevada
-- [Es poco probable que debatan Lombardo y Ford — qué saber acerca del estancamiento](https://thenevadaindependent.com/article/es-poco-probable-que-debatan-lombardo-y-ford-que-saber-acerca-del-estancamiento/) — The Nevada Independent · 12:12 PT · #us #nevada
-- [Restaurant chain with 2 Las Vegas locations settles sexual harassment lawsuit for $3M](https://www.reviewjournal.com/news/civil-courts/restaurant-chain-with-2-las-vegas-locations-settles-sexual-harassment-lawsuit-for-3m-3899581/) — Las Vegas Review-Journal · 11:55 PT · #us #nevada
-- [Duane 'Keefe D' Davis to serve 40 years to life in prison for Tupac Shakur's murder](https://www.ktnv.com/news/crime/duane-keefe-d-davis-to-serve-40-years-to-life-in-prison-for-tupac-shakurs-murder) — KTNV Las Vegas · 11:54 PT · #us #nevada
-- [Duane ‘Keffe D’ Davis gets 40 years to life in prison for orchestrating the murder of Tupac Shakur](https://lasvegassun.com/news/2026/oct/13/duane-keffe-d-davis-faces-life-in-prison-for-orche/) — Las Vegas Sun · 11:38 PT · #us #nevada
-- [Driver killed in rollover crash near Boulder City last week](https://lasvegassun.com/news/2026/oct/13/driver-killed-in-rollover-crash-near-boulder-city/) — Las Vegas Sun · 11:25 PT · #us #nevada
-- [Motorcyclist struck, killed during high-speed chase in Pahrump, police say](https://www.reviewjournal.com/local/local-nevada/motorcyclist-struck-killed-during-high-speed-chase-in-pahrump-police-say-3899559/) — Las Vegas Review-Journal · 11:03 PT · #us #nevada
-- [Memo prepared for Raiders used in coach’s lawsuit against NFL, report says](https://www.reviewjournal.com/sports/raiders/memo-prepared-for-raiders-used-in-coachs-lawsuit-against-nfl-report-says-3899553/) — Las Vegas Review-Journal · 10:52 PT · #us #nevada
-- [Man who orchestrated killing of Tupac Shakur to learn his sentence](https://www.reviewjournal.com/crime/courts/man-who-orchestrated-killing-of-tupac-shakur-to-learn-his-sentence-3899543/) — Las Vegas Review-Journal · 10:28 PT · #us #nevada
-- [Judge orders no bail for teen suspect in Las Vegas First Friday shooting](https://www.ktnv.com/news/crime/judge-orders-no-bail-for-teen-suspect-in-las-vegas-first-friday-shooting) — KTNV Las Vegas · 10:06 PT · #us #nevada
-- [Police point to possible ‘gang related fight’ in lead-up to deadly First Friday shooting](https://www.ktnv.com/news/crime/police-point-to-possible-gang-related-fight-in-lead-up-to-deadly-first-friday-shooting-las-vegas) — KTNV Las Vegas · 10:06 PT · #us #nevada
-- [Sting, Brett Young and En Vogue announce new Las Vegas show dates and ticket sales](https://lasvegassun.com/news/2026/oct/13/sting-brett-young-and-en-vogue-announce-new-las-ve/) — Las Vegas Sun · 09:30 PT · #us #nevada
-- [$12.5M Henderson home boasts Strip views, futuristic design — PHOTOS](https://www.reviewjournal.com/business/real-estate-millions/12-5m-henderson-home-boasts-strip-views-futuristic-design-photos-3899521/) — Las Vegas Review-Journal · 09:18 PT · #us #nevada
-- [Man killed on a Six Flags roller coaster was thrown from the ride and hit other patrons, police say](https://www.reviewjournal.com/news/nation-and-world/man-killed-on-a-six-flags-roller-coaster-was-thrown-from-the-ride-and-hit-other-patrons-police-say-3899509/) — Las Vegas Review-Journal · 08:37 PT · #us #nevada
-- [Guilfoyle quits Greece post amid latest allegations of improper profiting by Trump associates](https://www.latimes.com/world-nation/story/2026-10-13/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct) — World & Nation · 07:35 PT · #us
-- [Trump’s ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct](https://www.reviewjournal.com/news/politics-and-government/trump-asks-greece-ambassador-guilfoyle-to-resign-after-allegations-of-improper-conduct-white-house-3899475/) — Las Vegas Review-Journal · 07:26 PT · #us #nevada
-- [Hackers Heat French Supermarket Fridges, Sparking Fires And Spoiling Food](https://www.huffpost.com/entry/french-supermarkets-cyber-attack_n_6ace3836e4b0447f8d488e08) — World News - Breaking News, Top Stories · 07:02 PT · #us

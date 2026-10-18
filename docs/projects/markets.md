@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-17T17:06:11-07:00
+updated: 2026-10-17T21:23:09-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,11 @@ tags: ["project", "markets"]
 
 ## 2026-10-17
 
+- [NextTrip earnings missed by $0.11, revenue fell short of estimates](https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760) — All News · 21:10 PT · #business #markets
+- [Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg](https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727) — Investing.com Stock Market · 19:00 PT · #markets #ai
+- [Listings in south-east Asia gain momentum with $1bn IPO](https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1) — FT Home · 18:00 PT · #business #markets
+- [SoftBank in early talks to acquire Allied Universal for up to $18 billion - WSJ](https://www.investing.com/news/company-news/softbank-in-early-talks-to-acquire-allied-universal-for-up-to-18-billion--wsj-4955709) — All News · 17:39 PT · #business #markets
+- [The AI bubble is about to burst — and a big market correction is coming - New York Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQcG9sd2p6Ny1ZTDhGcmZ1YzQyVi1KVnhPX1lBT1U2SkJOV0poZVpTaVZoa0p6VDdFX0VIRFJJbGVOZTBFMzZaZTlUVGNPVm94Slg0OVozRnJzdXI5X3FNY05NQ0lLOVhXa1FienFKT1UzVjZfVU5VRGZMTGJpTVlUdUNSV05qY2tWVW95LTVjOXJEaF8zTXFJWFQ2WG9nNFlnQUM0Rk1HVUtDVXdr?oc=5) — Top stories - Google News · 17:21 PT · #world #ai #markets
 - [Goldman Sachs CEO Sees Tokenization as Wall Street’s Next Act](https://news.bitcoin.com/finance/goldman-sachs-ceo-sees-tokenization-as-wall-streets-next-act/) — Bitcoin News · 16:30 PT · #markets #realestate
 - [Dividend Reinvestment Is a Setting – Check It on Every Holding You Own](https://www.moneycrashers.com/dividend-reinvestment-setting/) — Money Crashers · 14:45 PT · #markets
 - [LINC Investors Have Opportunity to Lead Lincoln Educational Services Corporation Securities Fraud Lawsuit](https://www.prnewswire.com/news-releases/linc-investors-have-opportunity-to-lead-lincoln-educational-services-corporation-securities-fraud-lawsuit-302911677.html) — PR Newswire M&A · 14:29 PT · #business #markets $LINC
@@ -409,8 +414,3 @@ tags: ["project", "markets"]
 - [497 - FT 13247 (0002144031) (Filer)](https://www.sec.gov/Archives/edgar/data/2144031/000144554626007666/0001445546-26-007666-index.htm) — SEC EDGAR All Filings · 07:55 PT · #filings #markets
 - [485BXT - Themes ETF Trust (0001976322) (Filer)](https://www.sec.gov/Archives/edgar/data/1976322/000182912626011232/0001829126-26-011232-index.htm) — SEC EDGAR All Filings · 07:54 PT · #filings #markets
 - [13F-HR - UNIQUE WEALTH, LLC (0001957124) (Filer)](https://www.sec.gov/Archives/edgar/data/1957124/000195712426000005/0001957124-26-000005-index.htm) — SEC EDGAR All Filings · 07:54 PT · #filings #markets
-- [Zayo figure dans le classement « Carrier Ethernet LEADERBOARD » de Vertical Systems Group aux États-Unis, passant de la catégorie « Challenge » à une place plus élevée suite à l'accord conclu avec Crown Castle Fiber Solutions](http://www.businesswire.com/news/home/20261015668278/fr/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 07:54 PT · #business #markets
-- [D/A - Thresher Partners, L.P. (0000948249) (Filer)](https://www.sec.gov/Archives/edgar/data/948249/000091957426007006/0000919574-26-007006-index.htm) — SEC EDGAR All Filings · 07:52 PT · #filings #markets
-- [D - Immorta Bio, Inc. (0002102665) (Filer)](https://www.sec.gov/Archives/edgar/data/2102665/000210266526000002/0002102665-26-000002-index.htm) — SEC EDGAR All Filings · 07:48 PT · #filings #markets
-- [40-17G - First American Funds Trust (0001890141) (Filer)](https://www.sec.gov/Archives/edgar/data/1890141/000089418926029413/0000894189-26-029413-index.htm) — SEC EDGAR All Filings · 07:48 PT · #filings #markets
-- [497K - STATE STREET INSTITUTIONAL INVESTMENT TRUST (0001107414) (Filer)](https://www.sec.gov/Archives/edgar/data/1107414/000119312526423557/0001193125-26-423557-index.htm) — SEC EDGAR All Filings · 07:45 PT · #filings #markets

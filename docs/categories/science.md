@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-17T17:06:11-07:00
+updated: 2026-10-17T21:23:09-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,7 @@ tags: ["category", "science"]
 
 ## 2026-10-17
 
+- [World's oldest shipwreck discovered off coast of Turkey](https://phys.org/news/2026-10-world-oldest-shipwreck-coast-turkey.html) — Phys.org - latest science and technology news stories · 17:30 PT · #science
 - [Inside Apollo Mission Control With Gerry Griffin (493)](https://shirtloadsofscience.libsyn.com/inside-apollo-mission-control-with-gerry-griffin-493) — Shirtloads of Science · 15:00 PT · #science
 - [What a worm's brain can teach us about sex differences in the nervous system](https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
 - [How one of Earth's worst volcanic disasters affected societies in prehistoric Japan](https://phys.org/news/2026-10-earth-worst-volcanic-disasters-affected.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
@@ -419,4 +420,3 @@ tags: ["category", "science"]
 - [Global deforestation slowed in 2025 but surged in Congo basin: Study](https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html) — Phys.org - latest science and technology news stories · 02:10 PT · #science
 - [Trailblazing technique uncovers real shape of scorching-hot exoplanet atmospheres](https://phys.org/news/2026-10-trailblazing-technique-uncovers-real-hot.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science
 - [Amit Forlit, the Israeli Private Eye at the Heart of a Climate Hacking Scandal](https://www.nytimes.com/2026/10/14/climate/amit-forlit-climate-hacking-allegations.html) — NYT > Science · 02:00 PT · #science #foreign
-- [Ancient climate shifts may explain why today's flowering plants are so diverse](https://phys.org/news/2026-10-ancient-climate-shifts-today-diverse.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science
