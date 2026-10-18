@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-18T09:31:04-07:00
-count: 247
+updated: 2026-10-18T11:54:07-07:00
+count: 251
 tags: ["tickers"]
 ---
 
@@ -37,6 +37,7 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$AVEX](AVEX.md) — 1 items
 - [$HIMS](HIMS.md) — 1 items
 - [$LINC](LINC.md) — 1 items
 - [$BCS](BCS.md) — 1 items
@@ -46,6 +47,9 @@ tags: ["tickers"]
 - [$DAVA](DAVA.md) — 1 items
 - [$FCEL](FCEL.md) — 1 items
 - [$BLDP](BLDP.md) — 1 items
+- [$COST](COST.md) — 1 items
+- [$TGT](TGT.md) — 1 items
+- [$WMT](WMT.md) — 1 items
 - [$ATNM](ATNM.md) — 1 items
 - [$BHR](BHR.md) — 1 items
 - [$BUUU](BUUU.md) — 1 items

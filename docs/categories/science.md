@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-18T09:31:04-07:00
+updated: 2026-10-18T11:54:07-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,11 @@ tags: ["category", "science"]
 
 ## 2026-10-18
 
+- [New monolithic ion trap opens quantum simulations to more researchers](https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [A new way to detect stabilizing properties of optical devices](https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Physicists prove a long-suspected quantum speed limit for thermalization](https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
+- [Wash your hands. There’s probably poop on them.](https://www.popsci.com/health/why-you-should-wash-your-hands/) — Popular Science · 10:09 PT · #science
+- [Genome detectives: Researchers sequence the genome of a harmful plant pathogen](https://phys.org/news/2026-10-genome-sequence-pathogen.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
 - [Scientists discover a way to reverse coral bleaching at record speed](https://phys.org/news/2026-10-scientists-reverse-coral.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
 - [Warming could help make the Indian Ocean a stronger climate buffer](https://phys.org/news/2026-10-indian-ocean-stronger-climate-buffer.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
 - [New water lily can be seen from space](https://www.popsci.com/environment/new-water-lily-can-be-seen-from-space/) — Popular Science · 08:12 PT · #science
@@ -418,8 +423,3 @@ tags: ["category", "science"]
 - [Satellites accurately detect methane emissions in largest controlled test yet](https://phys.org/news/2026-10-satellites-accurately-methane-emissions-largest.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
 - [The stubby legs of ancient sled dogs helped people traverse the Arctic for the past 9,000 years](https://phys.org/news/2026-10-stubby-legs-ancient-sled-dogs.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
 - [Sustained pressure halts cancer cell migration and triggers death in 3D lab models](https://phys.org/news/2026-10-sustained-pressure-halts-cancer-cell.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
-- [Robotic 'time crystal' organizes itself into a single rhythm despite random disturbances](https://phys.org/news/2026-10-robotic-crystal-rhythm-random-disturbances.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
-- [Microplastics are chemically active and could cause biological harm](https://phys.org/news/2026-10-microplastics-chemically-biological.html) — Phys.org - latest science and technology news stories · 08:01 PT · #science
-- [Not all early birds evolved toward better flight, Jurassic fossil suggests](https://phys.org/news/2026-10-early-birds-evolved-flight-jurassic.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #foreign
-- [Modeling study shows early tetrapods had surprisingly little ability to move their necks](https://phys.org/news/2026-10-early-tetrapods-ability-necks.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
-- [AI-enhanced weather model doubles predictive power two to six weeks out](https://phys.org/news/2026-10-ai-weather-power-weeks.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #ai

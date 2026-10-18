@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-18T09:31:04-07:00
+updated: 2026-10-18T11:54:07-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,12 @@ tags: ["category", "us"]
 
 ## 2026-10-18
 
+- [Democrats’ Tejano star sings to swing South Texas](https://www.politico.com/newsletters/playbook/2026/10/18/democrats-tejano-star-sings-to-swing-south-texas-01125730) — Playbook · 10:13 PT · #us
+- [1.5M pounds of ready-to-eat meats recalled across US over temp scare](https://www.reviewjournal.com/news/nation-and-world/1-5m-pounds-of-ready-to-eat-meats-recalled-across-us-over-temp-scare-3901843/) — Las Vegas Review-Journal · 10:03 PT · #us #nevada
+- [Haas Automation hiring more than 1,000 workers at new Henderson plant during final job fair of year](https://www.ktnv.com/neighborhoods/henderson/haas-automation-hiring-more-than-1-000-workers-at-new-henderson-plant-during-final-job-fair-of-year) — KTNV Las Vegas · 09:53 PT · #us #nevada
+- [What channel is Raiders vs Bills: TV, streaming, radio, kickoff time for Week 6 matchup](https://www.reviewjournal.com/sports/raiders/what-channel-is-raiders-vs-bills-tv-streaming-radio-kickoff-time-for-week-6-matchup-3901834/) — Las Vegas Review-Journal · 09:53 PT · #us #nevada
+- [Jack Eichel, Mark Stone off to blistering start for Golden Knights](https://www.reviewjournal.com/sports/goldenknights/jack-eichel-mark-stone-off-to-blistering-start-for-golden-knights-3901830/) — Las Vegas Review-Journal · 09:43 PT · #us #nevada
+- [Nellis Air Force Base service member dies after rappelling fall at a college football game in Texas](https://www.reviewjournal.com/news/military/nellis-air-force-base-service-member-dies-after-rappelling-fall-at-a-college-football-game-in-texas-3901817/) — Las Vegas Review-Journal · 09:23 PT · #us #nevada
 - [LIVE UPDATES: Raiders host Bills looking to snap 2-game losing streak](https://www.reviewjournal.com/sports/raiders/live-updates-raiders-host-bills-looking-to-snap-2-game-losing-streak-3901811/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
 - [Ukraine launches more than 1,000 drones at Russia; St. Petersburg oil facilities ablaze](https://www.reviewjournal.com/news/politics-and-government/ukraine-launches-more-than-1000-drones-at-russia-st-petersburg-oil-facilities-ablaze-3901807/) — Las Vegas Review-Journal · 08:57 PT · #us #foreign #nevada #oil
 - [Pedestrian killed in North Las Vegas crash](https://www.reviewjournal.com/local/north-las-vegas/pedestrian-killed-in-north-las-vegas-crash-3901801/) — Las Vegas Review-Journal · 08:33 PT · #us #nevada
@@ -420,9 +426,3 @@ tags: ["category", "us"]
 - [Tuesday’s Nevada Preps scoreboard: Sunrise Mountain, Shadow Ridge win in boys soccer](https://www.reviewjournal.com/nevada-preps/tuesdays-nevada-preps-scoreboard-sunrise-mountain-shadow-ridge-win-in-boys-soccer-3899850/) — Las Vegas Review-Journal · 23:41 PT · #us #nevada
 - [NSHE launches ‘Eyes Open’ campaign to boost safety awareness on Nevada college campuses](https://www.ktnv.com/news/nshe-launches-eyes-open-campaign-to-boost-safety-awareness-on-nevada-college-campuses) — KTNV Las Vegas · 22:10 PT · #us #nevada
 - [Gordon: Crowd underwhelms for Warriors, Lakers, Stephen Curry](https://www.reviewjournal.com/sports/nba/gordon-crowd-underwhelms-for-warriors-lakers-stephen-curry-3899827/) — Las Vegas Review-Journal · 21:55 PT · #us #nevada
-- [No. 10 Las Vegas High beats No. 3 Eldorado in 5A boys soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-10-las-vegas-high-beats-no-3-eldorado-in-5a-boys-soccer-photos-3899792/) — Las Vegas Review-Journal · 21:33 PT · #us #nevada
-- [Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate](https://www.latimes.com/california/story/2026-10-13/bass-vs-raman-heres-who-won-la-mayoral-debate) — World & Nation · 21:03 PT · #us #civic
-- [LETTER: Donald Trump’s latest election pander](https://www.reviewjournal.com/opinion/letters/letter-donald-trumps-latest-election-pander-3899777/) — Las Vegas Review-Journal · 21:01 PT · #us #civic #nevada
-- [LETTER: Higher prescription costs](https://www.reviewjournal.com/opinion/letters/letter-higher-prescription-costs-3899774/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [CLARENCE PAGE: Botched execution shakes attitudes toward death penalty](https://www.reviewjournal.com/opinion/clarence-page-botched-execution-shakes-attitudes-toward-death-penalty-3899771/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [COMMENTARY: Trump’s trade war is driving the world away](https://www.reviewjournal.com/opinion/commentary-trumps-trade-war-is-driving-the-world-away-3899768/) — Las Vegas Review-Journal · 21:01 PT · #us #foreign #nevada
