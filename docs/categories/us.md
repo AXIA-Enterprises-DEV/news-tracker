@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-18T16:20:01-07:00
+updated: 2026-10-18T18:25:35-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,13 @@ tags: ["category", "us"]
 
 ## 2026-10-18
 
+- [Bills Mafia invade Las Vegas, takeover Allegiant Stadium](https://www.reviewjournal.com/sports/raiders/bills-mafia-invade-las-vegas-takeover-allegiant-stadium-3902021/) — Las Vegas Review-Journal · 17:33 PT · #us #nevada
+- [Veteran Las Vegas anchor returning after 19-month break](https://www.reviewjournal.com/local/local-las-vegas/veteran-las-vegas-anchor-returning-after-19-month-break-3902018/) — Las Vegas Review-Journal · 17:29 PT · #us #nevada
+- [Raiders grades: Solid effort falls short against Buffalo Bills with coaching, special teams errors](https://www.reviewjournal.com/sports/raiders/raiders-grades-solid-effort-falls-short-against-buffalo-bills-with-coaching-special-teams-errors-3901997/) — Las Vegas Review-Journal · 17:03 PT · #us #nevada
+- [Raiders fall to Buffalo for third straight loss after committing game's only turnover](https://lasvegassun.com/news/2026/oct/18/raiders-slow-but-cant-fully-solve-bills-magic-in-t/) — Las Vegas Sun · 17:02 PT · #us #nevada
+- [Graney: Loss or not, Raiders show something in bouncing back](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-loss-or-not-raiders-show-something-in-bouncing-back-3901989/) — Las Vegas Review-Journal · 16:53 PT · #us #nevada
+- [Raiders lose at home to Bills for third straight loss after 3-0 start — PHOTOS](https://www.reviewjournal.com/sports/raiders/raiders-lose-at-home-to-bills-for-third-straight-loss-after-3-0-start-3901959/) — Las Vegas Review-Journal · 16:43 PT · #us #nevada
+- [Las Vegas high school boys, girls soccer: What’s on line in final week?](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-boys-girls-soccer-whats-on-line-in-final-week-3901950/) — Las Vegas Review-Journal · 16:27 PT · #us #nevada
 - [Bills starting safety ejected after spitting toward Raiders players](https://www.reviewjournal.com/sports/raiders/bills-starting-safety-ejected-after-spitting-toward-raiders-players-3901908/) — Las Vegas Review-Journal · 14:51 PT · #us #nevada
 - [Road to Vegas: UCLA, Tennessee move into CFP projected bracket](https://www.reviewjournal.com/sports/football/road-to-vegas-ucla-tennessee-move-into-cfp-projected-bracket-3901891/) — Las Vegas Review-Journal · 14:18 PT · #us #nevada
 - [1 dead, 1 in critical condition after head-on crash in North Las Vegas](https://www.ktnv.com/news/1-dead-1-in-critical-condition-after-head-on-crash-in-north-las-vegas) — KTNV Las Vegas · 13:53 PT · #us #nevada
@@ -416,10 +423,3 @@ tags: ["category", "us"]
 - [No on Question 7: Rural, elderly Nevadans shouldn’t face barriers to the ballot](https://lasvegassun.com/news/2026/oct/14/no-on-question-7-rural-elderly-nevadans-shouldnt-f/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Question 6 puts Nevada’s abortion protections where they belong: in the constitution](https://lasvegassun.com/news/2026/oct/14/question-6-puts-nevadas-abortion-protections-where/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [The Sun’s pick for Nevada governor: Aaron Ford](https://lasvegassun.com/news/2026/oct/14/the-suns-pick-for-governor-aaron-ford/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Nevada’s controller race leaves voters without a clear option](https://lasvegassun.com/news/2026/oct/14/nevadas-controller-race-leaves-voters-without-a-cl/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Nevada treasurer: Mathis-Coleman offers experience and continuity](https://lasvegassun.com/news/2026/oct/14/nevada-treasurer-mathis-coleman-offers-experience/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [For Nevada attorney general, Nicole Cannizzaro’s record speaks for itself](https://lasvegassun.com/news/2026/oct/14/for-nevada-attorney-general-nicole-cannizzaros-rec/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Cisco Aguilar has earned another term as Nevada’s secretary of state](https://lasvegassun.com/news/2026/oct/14/cisco-aguilar-has-earned-another-term-as-nevadas-s/) — Las Vegas Sun · 02:00 PT · #us #civic #foreign #nevada
-- [The Sun’s endorsements for the Nevada Legislature](https://lasvegassun.com/news/2026/oct/14/the-suns-endorsements-for-the-nevada-legislature/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
-- [Local races matter: The Sun’s endorsements for the Clark County Commission and School Board](https://lasvegassun.com/news/2026/oct/14/local-races-matter-the-suns-endorsements-for-the-c/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Municipal races: The Sun’s picks in Las Vegas, Henderson, North Las Vegas and Boulder City](https://lasvegassun.com/news/2026/oct/14/municipal-races-the-suns-picks-in-las-vegas-hender/) — Las Vegas Sun · 02:00 PT · #us #nevada

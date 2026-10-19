@@ -1,13 +1,13 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-18T16:20:01-07:00
-count: 380
+updated: 2026-10-18T18:25:35-07:00
+count: 381
 tags: ["project", "media"]
 ---
 
 # Project: Propaganda / Media
 
-380 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
+381 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
 ## 2026-10-18
 
@@ -15,6 +15,7 @@ tags: ["project", "media"]
 - [State Media Applauds Radical Leftist Group Code Pink for Propaganda Trip to China - Breitbart News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUZVYnNjTmNTcld0SkR6eE50VFZYdV81WXhWdEE4M0haVFlscGFqcFBLQ2FIbVdkT3pJMF9PYlJmX2UzRXNuZlNZa3RjSWYxeEQzWWhWLVd3UHd1ZWRyY2RYRHI3N1ZIOGdXdnBHbzBGUXZuQ3VHMzA0NlZudWJzVURka3NNXzN6b2JWb2ZTdWhSaVk4LTdza0YtV0tudnRmdkY4dzN0MFcyWEVVdWtFOWJLN1h5OUpmcC1uNXZsM3cyQQ?oc=5) — Google News: propaganda OR disinformation media · 13:37 PT · #world #foreign #media
 - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review) — The Verge · 12:30 PT · #tech #media
 - [CBS Reporter Apologizes For Post About Abdul El-Sayed: ‘It Was A Violation Of CBS News Standards’](https://www.forbes.com/sites/markjoyella/2026/10/18/cbs-reporter-apologizes-for-post-about-abdul-el-sayed-it-was-a-violation-of-cbs-news-standards/) — Forbes - Business · 12:17 PT · #business #media
+- [Ukraine’s drone strikes on Russian data centres may change how we see disinformation - The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaTFRQTRrNDFXZjAwNnU3WGJSQ1JhaVcwNU9tcGstV0VOOFV0VjVsbVJJeVN1Unh6LUpRX0pGWDBwMENmZWo0VlBOLWE0eUQ0YTJkUzZKaTg0SXB5QnJVZENnb2EzWUFyOXl6ZlFfRnNtODdnZEhzN3lpSVkxWEMxWVVvS0pIS1RlcU5CeDUyUWFubklqTnIxbFRpdnc0c3BJQThsOGp1OFJkNEc2dDdleFJEZzJXRF9VQ3c?oc=5) — Google News: propaganda OR disinformation media · 12:11 PT · #world #foreign #media
 - [Outrage after Meta suspends No Kings Instagram account during protests](https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests) — Guardian World · 12:00 PT · #world #media
 - [Police nab 29 men over illegal groups’ online propaganda - The Sun Malaysia](https://news.google.com/rss/articles/CBMif0FVX3lxTE51Y0dMSklmcm9reEpLbHVFZXVxTVBYRUxfa1RQaWV3TXFkRml1Z2NiREtEUy1kLTA2aWhTVEZxaGEtdEE1RUEtMTVReHBZZUlHYWV5eUdsNEd0cGkxSUQ0TEFFbW1ncTg0bm9xcFU0ODh4cWc5aGhEWms5SGRGbDg?oc=5) — Google News: propaganda OR disinformation media · 10:40 PT · #world #media
 - [Sanaa meeting calls for academic efforts to counter disinformation, highlight Yemen’s plight - وكالة سبأ](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDU1VSUmlqM3VIeUR4emJNMkZ1U1BDZzhLQzJvRGFaRm1ESExEUm9UT3owcmRWRGx0cTFXREJUMDB5bTBUQ0RuS2dYTjliZTg?oc=5) — Google News: propaganda OR disinformation media · 09:40 PT · #world #media

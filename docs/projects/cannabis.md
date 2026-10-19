@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-18T16:20:01-07:00
-count: 91
+updated: 2026-10-18T18:25:35-07:00
+count: 92
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-91 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+92 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-18
 
+- [Amazon drone deliveries, marijuana ballot question and street repairs on Worcester council agenda - The Worcester Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUpIRHRDOTFXdzlpSktHTGVKMkRjUnAzOGEtazNFeEFIRzNodWEzZUJJMkdWTXRUdUFFZFZqVU1RM0RkVXlwUHpKYU9pQnlqNkRvdmhOMG4zbW9vQk5fVHl1ankzSEFURFp5ejJvZUN0M0dCTWg0MWxOdUV3dlY1OW55ZzV2Z0xNMEt6VU93ZThRTWttcjFacFhVTDVvbFVsMEZMZkVzeVQ1enVMYVpMSnFqRXd0NU9DSzJwNW01U3ROLW4tN0VCSzRXR0s?oc=5) — Google News: Nevada ballot question · 13:08 PT · #politics #cannabis #civic
 - [Why Is Marijuana Regulated More Strictly Than Alcohol, Even Though It Is Safer To Use? (Op-Ed)](https://www.marijuanamoment.net/why-is-marijuana-regulated-more-strictly-than-alcohol-even-though-it-is-safer-to-use-op-ed/) — Marijuana Moment · 07:06 PT · #business #cannabis
 
 ## 2026-10-17

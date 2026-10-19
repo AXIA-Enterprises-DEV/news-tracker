@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $SI"
-updated: 2026-10-18T16:20:01-07:00
+updated: 2026-10-18T18:25:35-07:00
 count: 1
 tags: ["ticker", "SI"]
 ---

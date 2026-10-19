@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-18T16:20:01-07:00
+updated: 2026-10-18T18:25:35-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,6 +11,14 @@ tags: ["category", "tech"]
 
 ## 2026-10-18
 
+- [What do all the lights on your Netgear router mean, and which ones actually matter?](https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/) — Engadget - Technology News & Expert Reviews · 17:30 PT · #tech
+- [What does the orange dot on your Samsung Galaxy Watch mean?](https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/) — Engadget - Technology News & Expert Reviews · 17:00 PT · #tech
+- [Why you should never point a laser pointer at a security camera](https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera/) — Engadget - Technology News & Expert Reviews · 16:45 PT · #tech
+- [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) — Simon Willison (LLMs) · 16:43 PT · #tech #ai
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) — Hacker News · 16:37 PT · #tech
+- [7 Best Software Review Sites You Should Know](https://smallbiztrends.com/best-software-review-sites/) — Small Business Trends · 16:31 PT · #tech
+- [How to use Google's SynthID AI detection website](https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/) — Engadget - Technology News & Expert Reviews · 16:30 PT · #tech #ai
+- [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/) — Simon Willison (LLMs) · 16:16 PT · #tech #ai
 - [Time Lords kill leap seconds, before they become the new Y2K bug](https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711) — www.theregister.com - Articles · 16:01 PT · #tech
 - [An Xbox Series X can now run PlayStation 5 games, but there's a catch](https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/) — Engadget - Technology News & Expert Reviews · 16:00 PT · #tech
 - [Starlink has two $55 plans that are wildly different — here's how](https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different/) — Engadget - Technology News & Expert Reviews · 15:45 PT · #tech
@@ -21,6 +29,7 @@ tags: ["category", "tech"]
 - [How Much Money Does E-Commerce Make?](https://smallbiztrends.com/how-much-money-does-e-commerce-make/) — Small Business Trends · 14:31 PT · #tech #markets
 - [Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux](https://github.com/omnipty-terminal/omnipty) — Hacker News · 14:24 PT · #tech
 - [Apple keeps making the Phone app better; here’s how](https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/) — 9to5Mac · 14:19 PT · #tech #ai
+- [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) — Hacker News · 14:09 PT · #tech #ai
 - [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/) — TechCrunch · 14:00 PT · #tech
 - [Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference](https://arxiv.org/abs/2610.18861) — Hacker News · 13:48 PT · #tech
 - [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf) — Hacker News · 13:43 PT · #tech
@@ -45,6 +54,7 @@ tags: ["category", "tech"]
 - [From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved](https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/) — Engadget - Technology News & Expert Reviews · 11:00 PT · #tech
 - [PalmOS Lemmings by Aaron Ardiri](https://github.com/ardiri/palmos-lemmings) — Hacker News · 10:56 PT · #tech
 - [Apple Watch Series 12 is excellent, but I find myself missing this one software feature](https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/) — 9to5Mac · 10:56 PT · #tech #ai
+- [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg) — Hacker News · 10:21 PT · #tech
 - [Mitos editor is a fork of Helix](https://mitos.computer/) — Hacker News · 10:19 PT · #tech
 - [Grab Apple's 2026 Mac Studio for $2,299, now $200 off](https://appleinsider.com/articles/26/10/18/grab-apples-2026-mac-studio-for-2299-now-200-off?utm_source=rss) — AppleInsider · 10:13 PT · #tech #ai
 - [Holiday Shoppers Adapt Spending Strategies Amid Rising Financial Concerns](https://smallbiztrends.com/holiday-shoppers-adapt-spending-strategies-amid-rising-financial-concerns/) — Small Business Trends · 10:11 PT · #tech
@@ -98,6 +108,7 @@ tags: ["category", "tech"]
 - [Why are internet upload speeds so much slower than download speeds?](https://www.engadget.com/2285208/why-internet-upload-speeds-slower-download-comparison/) — Engadget - Technology News & Expert Reviews · 05:30 PT · #tech
 - [How Far Will AI Assistants Go for a Refund They Can't Get?](https://www.vals.ai/blogs/impossible-refund) — Hacker News · 05:22 PT · #tech #ai
 - [Why you might not want to join two Ethernet cables (and what you should do instead)](https://www.engadget.com/2285141/ethernet-cables-why-not-join-two-what-do-instead/) — Engadget - Technology News & Expert Reviews · 05:15 PT · #tech
+- [A new way to think about borrow checking (in reverse)](https://verdagon.dev/blog/reverse-borrow-checking) — Hacker News · 05:11 PT · #tech
 - [Breakthrough Glasses Slow Myopia in Kids — What It’s Like to Order Stellest](https://www.youtube.com/watch?v=FuIjXL_ODmA) — CNET · 05:00 PT · #tech
 - [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws) — The Verge · 05:00 PT · #tech
 - [ASUS Arc Pro B70: 32GB Intel AI GPU Debuts \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMifkFVX3lxTE5RN1FvTkFWVDBnYnZwYjRjNlYzWGlySWdoOXI2dlQwZ2gwak1WRVdTaUxxYjlsdkdQWVpRR0sycGtETlJaaWVKZnNhWGdxRUYtX2JZWHZib25MTE1GeGxmalFKMUQya1pnMmY2c0l6M2lPYTJWc0E3bGhQbEZFUQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 04:25 PT · #tech #ai
@@ -157,6 +168,7 @@ tags: ["category", "tech"]
 - [Why your Wi-Fi speeds can drop in the evening, and what to do about it](https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/) — Engadget - Technology News & Expert Reviews · 16:00 PT · #tech
 - [How to keep your smart home running even if the internet goes down](https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/) — Engadget - Technology News & Expert Reviews · 15:45 PT · #tech
 - [Why it's important to monitor your PC's background processes](https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/) — Engadget - Technology News & Expert Reviews · 15:30 PT · #tech
+- [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/) — Hacker News · 15:26 PT · #tech #ai
 - [iPhone Duo walk-in purchases might be challenging at launch, per report](https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/) — 9to5Mac · 15:21 PT · #tech #ai
 - [Don't throw away your old PlayStation — Do this instead](https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/) — Engadget - Technology News & Expert Reviews · 15:00 PT · #tech
 - [JDK 28](https://openjdk.org/projects/jdk/28/) — Hacker News · 14:37 PT · #tech
@@ -405,15 +417,3 @@ tags: ["category", "tech"]
 - [Credit Union of Southern California (CU SoCal) Launches 7% APY, 7-Month Share Certificate](https://www.prnewswire.com/news-releases/credit-union-of-southern-california-cu-socal-launches-7-apy-7-month-share-certificate-302911619.html) — PR Newswire Business Tech · 13:03 PT · #tech
 - [I put all of Wikipedia on my home server, and it still answers when the internet is down - XDA](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2F2MGNRRTBXT3hVaWhjOFU1UXdiQ0oydGo1TTlVR1Y0QVRuYXNPZzJIZUFxSVJRTHFQa3dsQ0U5SGtlNlRhSHlQbEtOelF4X29VSnB6bU0tZkNuYk93dExTZkRGRE5iTFZmWmVmWS1YSWFheEhab0k0a0ZNN0lZR05TUExEbnAzQTdUMkFZLVNYZ0w0X1psNXZBTkJNalV4MnE0cVJGOA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 13:01 PT · #tech #ai
 - [Meta grants itself right to scrape content from business customers for model training](https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658) — www.theregister.com - Articles · 13:00 PT · #tech
-- [Jerry Seinfeld’s Selling a Vintage Rolex Daytona. It’s Expected to Fetch Up to $200,000](https://www.inc.com/lucia-auerbach/jerry-seinfeld-rolex-daytona-vic-elford-auction/91421308) — Inc.com · 13:00 PT · #tech
-- [The Biggest Risk of Using AI at Work Isn’t Getting the Answer Wrong](https://www.inc.com/sadiya-kherani/the-biggest-risk-of-using-ai-at-work-isnt-getting-the-answer-wrong/91420627) — Inc.com · 12:56 PT · #tech #ai
-- [iPhone Duo vs iPhone 18 Pro: Here’s every key difference](https://9to5mac.com/2026/10/16/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/) — 9to5Mac · 12:55 PT · #tech #ai
-- [Apple's $79 iPhone Duo Case Sticks On With Adhesive](https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/) — MacRumors · 12:51 PT · #tech #ai
-- [HomeView will include these Apple apps at launch](https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch/) — 9to5Mac · 12:50 PT · #tech #ai
-- [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein) — Hacker News · 12:47 PT · #tech
-- [US Rep proposes bill to give video game buyers "ownership," not "a license"](https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/) — Ars Technica · 12:41 PT · #tech
-- [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/) — TechCrunch · 12:40 PT · #tech
-- [A Woman Was Arrested for Blocking a Delivery Robot. Her Reason for Doing It Taps Into a Deep Fear](https://www.inc.com/moses-jeanfrancois/a-woman-was-arrested-for-blocking-a-delivery-robot-her-reason-for-doing-it-taps-into-a-deep-fear/91421285) — Inc.com · 12:39 PT · #tech
-- [Kizik Parent Company Scores Legal Victory Against Skechers in Europe Over Hands-Free Shoe Patents](https://www.inc.com/jennifer-conrad/kizik-handsfree-lab-wins-skechers-patent-lawsuit-europe/91419556) — Inc.com · 12:38 PT · #tech
-- [Have a Meta business account? You’re consenting to AI scraping now, legal experts say](https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/) — Latest news · 12:36 PT · #tech #ai
-- [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health) — Hacker News · 12:33 PT · #tech
