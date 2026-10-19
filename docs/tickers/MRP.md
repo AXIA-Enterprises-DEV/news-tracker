@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $MRP"
-updated: 2026-10-19T12:38:48-07:00
-count: 2
+updated: 2026-10-19T16:05:38-07:00
+count: 3
 tags: ["ticker", "MRP"]
 ---
 
 # Ticker: $MRP
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-19
+
+- [INVESTOR ACTION NOTICE: Moore Law PLLC Encourages Investors in Millrose Properties, Inc. to Contact Law Firm](https://www.prnewswire.com/news-releases/investor-action-notice-moore-law-pllc-encourages-investors-in-millrose-properties-inc-to-contact-law-firm-302913099.html) — PR Newswire M&A · 13:27 PT · #business $MRP
 
 ## 2026-10-17
 

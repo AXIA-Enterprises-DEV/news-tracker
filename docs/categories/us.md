@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-19T12:38:48-07:00
+updated: 2026-10-19T16:05:38-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,10 +11,26 @@ tags: ["category", "us"]
 
 ## 2026-10-19
 
+- [CARTOON: How not to fight a fire](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-how-not-to-fight-a-fire-3902336/) — Las Vegas Review-Journal · 15:10 PT · #us #foreign #nevada
+- [Nevada jury weighs charges against Canadian who took Peachy the flamingo in drunken prank](https://www.ktnv.com/news/crime/nevada-jury-weighs-charges-against-canadian-who-took-peachy-the-flamingo-in-drunken-prank) — KTNV Las Vegas · 14:50 PT · #us #nevada
+- [As Lake Mead sinks, Southern Nevada experts outline solutions to water crisis](https://www.reviewjournal.com/news/environment/as-lake-mead-sinks-southern-nevada-experts-outline-solutions-to-water-crisis-3902327/) — Las Vegas Review-Journal · 14:30 PT · #us #nevada
+- [Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples](https://lasvegassun.com/news/2026/oct/19/japan-launches-spacecraft-to-mysterious-moons-of-m/) — Las Vegas Sun · 14:16 PT · #us #nevada
+- [Raiders release former 1st-round pick, sign 2 Super Bowl champions](https://www.reviewjournal.com/sports/raiders/raiders-release-former-1st-round-pick-sign-2-super-bowl-champions-3902321/) — Las Vegas Review-Journal · 14:12 PT · #us #nevada
+- [Vote for Nevada Preps girls Athlete of the Week for Oct. 12-17](https://www.reviewjournal.com/nevada-preps/vote-for-nevada-preps-girls-athlete-of-the-week-for-oct-12-17-3902310/) — Las Vegas Review-Journal · 13:38 PT · #us #nevada
+- [Vote for Nevada Preps boys Athlete of the Week for Oct. 12-17](https://www.reviewjournal.com/nevada-preps/vote-for-nevada-preps-boys-athlete-of-the-week-for-oct-12-17-3902306/) — Las Vegas Review-Journal · 13:33 PT · #us #nevada
+- [Supreme Court may strike down school policies that limit Asian students](https://www.latimes.com/politics/story/2026-10-19/supreme-court-may-strike-down-school-policies-that-limit-asian-students) — World & Nation · 13:27 PT · #us #civic
+- [Nevada jury weighs charges against who took Peachy the flamingo in drunken prank](https://lasvegassun.com/news/2026/oct/19/man-who-took-a-bird-from-flamingo-casino-could-fac/) — Las Vegas Sun · 13:26 PT · #us #nevada
+- [UNLV basketball to retire the jersey of a former star Lady Rebel](https://www.reviewjournal.com/sports/unlv/unlv-basketball/unlv-basketball-to-retire-the-jersey-of-a-former-star-lady-rebel-3902301/) — Las Vegas Review-Journal · 13:12 PT · #us #nevada
+- [Military helicopter makes emergency crash landing in Lake Havasu City parking lot, both pilots walk away](https://www.ktnv.com/news/military-helicopter-makes-emergency-crash-landing-in-lake-havasu-city-parking-lot-both-pilots-walk-away) — KTNV Las Vegas · 13:09 PT · #us #foreign #nevada
+- [NFL suspends Bills’ C.J. Gardner-Johnson for spitting at Raiders](https://www.reviewjournal.com/sports/raiders/nfl-suspends-bills-c-j-gardner-johnson-for-spitting-at-raiders-3902291/) — Las Vegas Review-Journal · 12:55 PT · #us #nevada
+- [NFL suspends Bills safety Gardner-Johnson for 1 game for spitting at Raiders](https://lasvegassun.com/news/2026/oct/19/nfl-suspends-bills-safety-gardner-johnson-for-1-ga/) — Las Vegas Sun · 12:43 PT · #us #nevada
+- [Nevada Preps rankings: Arbor View, Centennial move up in football](https://www.reviewjournal.com/nevada-preps/nevada-preps-rankings-arbor-view-centennial-move-up-in-football-3902283/) — Las Vegas Review-Journal · 12:31 PT · #us #nevada
+- [Rasmus Andersson taking initiative, finding groove offensively for Knights](https://www.reviewjournal.com/sports/goldenknights/rasmus-andersson-taking-initiative-finding-groove-offensively-for-knights-3902278/) — Las Vegas Review-Journal · 12:27 PT · #us #nevada
 - [Jury deliberates flamingo abuse case](https://www.reviewjournal.com/crime/courts/jury-deliberates-flamingo-abuse-case-3902274/) — Las Vegas Review-Journal · 12:13 PT · #us #nevada
 - [Tipping is not required, says new Strip signs](https://www.reviewjournal.com/local/the-strip/tipping-is-not-required-says-new-strip-signs-3902271/) — Las Vegas Review-Journal · 12:05 PT · #us #nevada
 - [Las Vegas home inventory reaches highest level in 4 years](https://www.reviewjournal.com/business/housing/las-vegas-home-inventory-reaches-highest-level-in-4-years-3902267/) — Las Vegas Review-Journal · 11:50 PT · #us #nevada #realestate
 - [Las Vegas man charged with soliciting explicit video from minor](https://lasvegassun.com/news/2026/oct/19/las-vegas-man-charged-with-soliciting-explicit-vid/) — Las Vegas Sun · 11:50 PT · #us #nevada
+- [2026 Nevada election: All Las Vegas Review-Journal endorsements](https://www.reviewjournal.com/opinion/rj-endorses-2026/rj-endorses-our-choices-for-novembers-election-3897944/) — Las Vegas Review-Journal · 11:28 PT · #us #civic #nevada
 - [Henderson police violated state law with delayed notice of inmate’s 2024 death, city says](https://www.reviewjournal.com/local/henderson/henderson-police-violated-state-law-with-delayed-notice-of-inmates-2024-death-city-says-3902252/) — Las Vegas Review-Journal · 11:16 PT · #us #nevada
 - [Midweek storm to bring rain, wind and cooler weather to Las Vegas area](https://lasvegassun.com/news/2026/oct/19/midweek-storm-to-bring-rain-wind-and-cooler-weathe/) — Las Vegas Sun · 11:00 PT · #us #nevada
 - [Athletics hire Taylor Smith as president of baseball operations](https://lasvegassun.com/news/2026/oct/19/athletics-hire-taylor-smith-as-president-of-baseba/) — Las Vegas Sun · 10:32 PT · #us #nevada
@@ -410,19 +426,3 @@ tags: ["category", "us"]
 - [Clark County issues air quality dust advisory for Thursday; what to know](https://www.ktnv.com/news/clark-county-issues-air-quality-dust-advisory-for-thursday-what-to-know) — KTNV Las Vegas · 21:04 PT · #us #nevada
 - [CARTOONS: The monsters of Halloween](https://www.reviewjournal.com/opinion/drawing-board/cartoons-the-monsters-of-halloween-3900232/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
 - [LETTER: Voting intelligently](https://www.reviewjournal.com/opinion/letters/letter-voting-intelligently-3900229/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [LETTER: Democrats and ‘affordability’](https://www.reviewjournal.com/opinion/letters/letter-democrats-and-affordability-3900226/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [CARTOON: Going to extremes](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-going-to-extremes-3900223/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [COMMENTARY: The many ways AI is good for workers](https://www.reviewjournal.com/opinion/commentary-the-many-ways-ai-is-good-for-workers-3900220/) — Las Vegas Review-Journal · 21:00 PT · #us #ai #nevada
-- [EDITORIAL: Recommendations in five more Assembly races](https://www.reviewjournal.com/opinion/rj-endorses-2026/editorial-recommendations-in-five-more-assembly-races-3900217/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [Strong winds trigger dust advisory for Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/strong-winds-trigger-dust-advisory-for-las-vegas-valley-3900214/) — Las Vegas Review-Journal · 20:45 PT · #us #nevada
-- [TikTok star arrested after Roomba vacuum dispute in Las Vegas](https://www.reviewjournal.com/crime/tiktok-star-arrested-after-roomba-vacuum-dispute-in-las-vegas-3900201/) — Las Vegas Review-Journal · 19:50 PT · #us #nevada
-- [Las Vegas man sentenced to 5 years in prison for arson at Tesla collision center](https://www.ktnv.com/news/crime/las-vegas-man-sentenced-to-5-years-in-prison-for-arson-at-tesla-collision-center) — KTNV Las Vegas · 19:47 PT · #us #nevada
-- [‘It wasn’t just some prank’: Prosecutors make their pitch as flamingo cruelty trial begins](https://www.reviewjournal.com/crime/courts/it-wasnt-just-some-prank-prosecutors-make-their-pitch-as-flamingo-cruelty-trial-begins-3900194/) — Las Vegas Review-Journal · 19:35 PT · #us #nevada
-- [Boulder City wins 3rd straight Class 3A girls golf state title](https://www.reviewjournal.com/nevada-preps/boulder-city-wins-3rd-straight-class-3a-girls-golf-state-title-3900169/) — Las Vegas Review-Journal · 18:43 PT · #us #golf #nevada
-- [Nye County manager reinstates sheriff’s access to police databases](https://www.reviewjournal.com/news/politics-and-government/nye-county-manager-reinstates-sheriffs-access-to-police-databases-3900165/) — Las Vegas Review-Journal · 18:37 PT · #us #nevada
-- [Raiders minority owner Durban joins Walton Laurie NBA expansion bid, report says](https://www.reviewjournal.com/sports/nba/raiders-minority-owner-durban-joins-walton-laurie-nba-bid-expansion-report-says-3900158/) — Las Vegas Review-Journal · 18:29 PT · #us #nevada
-- [First Friday on hold after fatal shooting](https://www.reviewjournal.com/local/local-las-vegas/first-friday-puts-las-vegas-event-on-pause-after-fatal-shooting-3900154/) — Las Vegas Review-Journal · 18:29 PT · #us #nevada
-- [UNLV’s Andre Porter is building his own legacy while following father’s footsteps](https://www.reviewjournal.com/sports/unlv/unlv-football/unlvs-andre-porter-is-building-his-own-legacy-while-following-fathers-footsteps-3900129/) — Las Vegas Review-Journal · 18:20 PT · #us #nevada
-- [Henderson mayor unveils homeless transition housing, affordable plans at state of the city address](https://www.ktnv.com/neighborhoods/henderson/henderson-mayor-unveils-homeless-transition-housing-affordable-plans-at-state-of-the-city-address) — KTNV Las Vegas · 18:13 PT · #us #nevada
-- [Trump parades new Air Force One during Arizona rally — PHOTOS](https://www.reviewjournal.com/news/nation-and-world/trump-parades-new-air-force-one-during-arizona-rally-photos-3900111/) — Las Vegas Review-Journal · 18:11 PT · #us #nevada
-- [First Friday pauses monthly downtown Las Vegas event after deadly shooting](https://www.ktnv.com/news/first-friday-pauses-monthly-downtown-las-vegas-event-after-deadly-shooting) — KTNV Las Vegas · 18:01 PT · #us #nevada

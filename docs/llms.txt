@@ -2,7 +2,7 @@
 
 > Live news aggregator (RSS/Atom only) updated ~every 10 min. All pages are plain Markdown with YAML frontmatter; item lines are `- [Title](url) — Source · HH:MM PT · #category #project $TICKER`.
 
-Last sync: 2026-10-19 12:38 PT · 21874 items · 192/197 feeds OK
+Last sync: 2026-10-19 16:05 PT · 22516 items · 191/197 feeds OK
 
 ## Core
 

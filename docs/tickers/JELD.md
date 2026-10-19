@@ -1,0 +1,14 @@
+---
+title: "Ticker: $JELD"
+updated: 2026-10-19T16:05:38-07:00
+count: 1
+tags: ["ticker", "JELD"]
+---
+
+# Ticker: $JELD
+
+1 most recent items (14-day window).
+
+## 2026-10-19
+
+- [JELD-WEN Announces Appointment of Interim Chief Financial Officer](https://www.prnewswire.com/news-releases/jeld-wen-announces-appointment-of-interim-chief-financial-officer-302912859.html) — PR Newswire M&A · 13:30 PT · #business #markets $JELD

@@ -1,19 +1,25 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-19T12:38:48-07:00
-count: 102
+updated: 2026-10-19T16:05:38-07:00
+count: 108
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-102 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+108 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-19
 
+- [Nevada jury weighs charges against Canadian who took Peachy the flamingo in drunken prank - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMikAJBVV95cUxNT1NHUDFROVZKN1hZU1g4X3laNk5HRVFkN3RiSXVMSy0xWlZJVlNrQnJ1ZjBxNWlBM0hGNkN1Z2hTUTJOT0ptVDhuTG5jeWx1SEw4QUxfN2k2X2lPSXlLTFcxWndUb2pWUW52VHZpUF9wUzZ1dzN6b2FQZnlCSmE3SGdLMjIwSlNMMVpiQUhNajdHQjlkY0tYOEJhTVNVVEZ2Q01HMlFjR1lsOXdtS1dyOUdPSTM3bWpuS1RSYVE0UHRqdlNJaWthRFZjRTdqNktHdnI2MzcyWjVJc0wybjYyM2h4N1ZEeUp6YlF3WlRkbnNESHRDZGZtUTNhZGMwQ2VENGRDTmVCNjhWSEd2SkJTXw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:28 PT · #business #cannabis #nevada
+- [Curaleaf pushes back after Aurora rejects enhanced takeover bid](https://mjbizdaily.com/news/curaleaf-pushes-back-after-aurora-rejects-enhanced-takeover-bid/618730/) — MJBizDaily · 14:18 PT · #business #cannabis #smallbiz
+- [Latest poll shows Massachusetts adult-use cannabis sales repeal failing – badly](https://mjbizdaily.com/news/latest-poll-shows-massachusetts-adult-use-cannabis-sales-repeal-failing-badly/618736/) — MJBizDaily · 14:16 PT · #business #cannabis #smallbiz
+- [Hemp THC Drink Company Lets Customers Buy A 6-Pack For Their Congressional Lawmakers As Federal Prohibition Looms](https://www.marijuanamoment.net/hemp-thc-drink-company-lets-customers-buy-a-6-pack-for-their-congressional-lawmakers-as-federal-prohibition-looms/) — Marijuana Moment · 13:16 PT · #business #cannabis #civic
+- [Texas Delta-8 restrictions reshape hemp industry in Spring-Klein - Community Impact Newspaper](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEo3Ml9zYV9oeGM5dVdVdTNOa0N6TUUwd0xJSVFENEc4aXY1eWJucGRGNDBPM01mM2o3Q1dKTUdqRnYtcDk4QzRjbEZXNUtxUy1vWV9KYUhFYXRwYjU2RnVXeGliRURmQ3VxUGhfWDdLUi1RamZVRE1iTWFUQWdHVV9DTmhDMVpWMWlYMzNsSi1xTUJFel9uLWJ2dC1KdGlEa2hZR01ZRllnRDlaZGtuWEVrOFBpQkdT?oc=5) — Google News: small business owners · 13:11 PT · #business #cannabis #smallbiz
 - [Grease Monkey Strain Guide Details Hybrid's Breeding, Effects and Lab Tests - Big News Network.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnVYZ2hxV0ctZTR6M19yTDJ1WmJKeV9oRGF1aGVTRWwtaTF1aXNzT01COTBoUTFfN21NYUpiZnJvMklBbzRSMzFQRzZRTmVxNUkyLU9NWlhSWHg0NmFzVUZ5bnNiRHNoVzNPdTA4bHVvOGNsRUFSTzRLNFIyUmVhcTU4QlhZdkdxZ1hRUEx2ZnZJQzVBT2Ytc2VEMVppSWZSWldWbVp3ZnZ3dlJJVXlreUtENkwySDRlMUE?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 09:51 PT · #business #cannabis
 - [Grease Monkey Strain Guide Details Hybrid's Breeding, Effects and Lab Tests - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNDctU0xMUm5ENmFpSlBHaWNleDBRZndyQ203dlZzVGVZaFlaN2ZXX3ZKVjM0Y08ySUNLWWZjNS1CRE12a0tQQWkxRWVRb0NQTWxRTUc1dmhHNi1oQVFUWlpITWxTbEtPWm42enZrMHpEQ0ZmWTBzQVkwS0FXNC03eU5COFlJY19ZWVhJVmJ2QzZiSGZUcnV6cjlNMzg3MEhqUVlQVlgwajE1cnFzaUxzUW1yYzlKQThVeXZZa3U2T2dpM1M1MEM2bkdCUFRveFRsOXl3anhjV0taMTRkUUM5X1BXQll1SGlBVGRENjhUM3FQNHFLOFl2WQ?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 09:42 PT · #business #cannabis
 - [Grease Monkey Strain Guide Details Hybrid's Breeding, Effects and Lab Tests - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNjl5YVB2NGhMZUdNSHlyRkFZZy1WQXVobWNOZUF2Y00xWjRnNWVDOXUyNV9EYWFSUDljTDNvQ2pZbF9mblNRa2pxRm8tQWJJLTdzMXJlZUZXRENtN2Z4bWZKQWhNZy1ZOHk2Z1hPWi1UUGI1bGV3MWhON2NkR3cxMDJVUWdsS2dNZE9EdG5tTENMZ08ydlBHVWMtUDVKMUZ6UGhOeWNtd3lHVllFSTBPSjhxWU43UHo3Y1haWUNvaGlCWGtwVEVsWVRtdThrMk9MNjN5VWlnTXJjaW1CWXFCRDdVMThLM1B3dVZ3Wg?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 09:42 PT · #business #cannabis
+- [Grease Monkey Strain Guide Details Hybrid's Breeding, Effects and Lab Tests - Corsicana Daily Sun](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcG5WdkdOZVFNb25OV000SGVEQzFZQy1iSjc4TzJGYnM2Y3JPTTQwdWY3eHJFOHN2NGxjcUZWU1M5eTNOOGdzdEROX0t1VE9NdHJHNC1VTDRSTXBZbDN6SURfRzZmZjhhdWtUNFJIWGpNWjFKbGVyYjl2Rzk2WHpKQlFhVnlnaXZ5Q1Bsc1pMS1NfYmVPSHlIbTV5SXlBaHM2aWZoNl9Da2U5aFdYNVhvbXhuWHVEbzRUYjNFWFBJdUE3Xy1BcHpuRHlVLUNxRGF5NHVNUGVkUWNoQXItR213ZnBPLXc5alFTQjNmQ2ZFV0ZaRUZQWnR2SVpn?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 09:42 PT · #business #cannabis
 - [NORML Says Federal Prohibition Shouldn’t Make Marijuana Industry Contracts Unenforceable](https://www.marijuanamoment.net/norml-says-federal-prohibition-shouldnt-make-marijuana-industry-contracts-unenforceable/) — Marijuana Moment · 08:37 PT · #business #cannabis
 - [Most Military Veterans Support Legalizing Marijuana For Recreational And Medical Use, Poll Shows](https://www.marijuanamoment.net/most-military-veterans-support-legalizing-marijuana-for-recreational-and-medical-use-poll-shows/) — Marijuana Moment · 06:08 PT · #business #cannabis #foreign
 - [A Return To Criminalization Is Not The Solution To Unfair Rules Differences Between Hemp And Marijuana (Op-Ed)](https://www.marijuanamoment.net/a-return-to-criminalization-is-not-the-solution-to-unfair-rules-differences-between-hemp-and-marijuana-op-ed/) — Marijuana Moment · 05:16 PT · #business #cannabis
