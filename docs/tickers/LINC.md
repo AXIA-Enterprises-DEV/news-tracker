@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $LINC"
-updated: 2026-10-18T18:25:35-07:00
-count: 1
+updated: 2026-10-18T23:31:19-07:00
+count: 2
 tags: ["ticker", "LINC"]
 ---
 
 # Ticker: $LINC
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-18
+
+- [LINC Investors Have Opportunity to Lead Lincoln Educational Services Corporation Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/linc-investors-have-opportunity-to-lead-lincoln-educational-services-corporation-securities-fraud-lawsuit-with-sbs-law-302912120.html) — PR Newswire M&A · 23:13 PT · #business #markets $LINC
 
 ## 2026-10-17
 

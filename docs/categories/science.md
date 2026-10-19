@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-18T18:25:35-07:00
+updated: 2026-10-18T23:31:19-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,10 @@ tags: ["category", "science"]
 
 ## 2026-10-18
 
+- [Having a baby is too expensive, 4 in 5 parents say](https://phys.org/news/2026-10-baby-expensive-parents.html) — Phys.org - latest science and technology news stories · 21:20 PT · #science
+- [APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source](https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/) — NASA · 21:05 PT · #science
+- [A Japanese Spacecraft Aims to Bring Back a Bit of a Martian Moon](https://www.nytimes.com/2026/10/19/science/mmx-mars-moons-jaxa-launch.html) — NYT > Science · 21:01 PT · #science
+- [Autumn Paints Poland’s Bieszczady Mountains](https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/) — NASA · 21:01 PT · #science
 - [Who's paying whom? The circular money machine behind the AI boom (or bubble)](https://phys.org/news/2026-10-paying-circular-money-machine-ai.html) — Phys.org - latest science and technology news stories · 17:30 PT · #science #ai
 - [Ancient Nubian temple faience workshop reveals links between craft production and royal power](https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
 - [Early humans in America endured climate chaos—new research](https://phys.org/news/2026-10-early-humans-america-climate-chaos.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
@@ -419,7 +423,3 @@ tags: ["category", "science"]
 - [Australia's oldest underwater archaeology reveals ancient life within a lost landscape](https://phys.org/news/2026-10-australia-oldest-underwater-archaeology-reveals.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
 - [A tiny magnetic whirlpool could point to a new kind of ultra-efficient memory](https://phys.org/news/2026-10-tiny-magnetic-whirlpool-kind-ultra.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
 - [Mont Blanc's snowy crown grows nearly 2 meters higher in 3 years](https://phys.org/news/2026-10-mont-blanc-snowy-crown-meters.html) — Phys.org - latest science and technology news stories · 09:36 PT · #science
-- [Ocean discovery: Pacific bluefin tuna confirmed in Victorian waters](https://phys.org/news/2026-10-ocean-discovery-pacific-bluefin-tuna.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
-- [From spin wave to superconducting circuit: A one-way street for quantum information](https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
-- [Storing memory on a chip with flowing water](https://phys.org/news/2026-10-memory-chip.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
-- [Workers who fear AI replacement show worse workplace behavior](https://phys.org/news/2026-10-workers-ai-worse-workplace-behavior.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science #ai

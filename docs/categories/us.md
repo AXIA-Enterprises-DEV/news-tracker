@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-18T18:25:35-07:00
+updated: 2026-10-18T23:31:19-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,18 @@ tags: ["category", "us"]
 
 ## 2026-10-18
 
+- [Vegas Sports Sunday: ‘No moral victories’ Raiders drop third straight](https://www.reviewjournal.com/sports/vegas-sports-sunday-no-moral-victories-raiders-drop-third-straight-3902092/) — Las Vegas Review-Journal · 21:49 PT · #us #nevada
+- [CARTOON: Broke mime](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-broke-mime-3902083/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: Air Force One in Las Vegas](https://www.reviewjournal.com/opinion/letters/letter-air-force-one-in-las-vegas-3902080/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: What are the rules for e-bikes?](https://www.reviewjournal.com/opinion/letters/letter-what-are-the-rules-for-e-bikes-3902077/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [LETTER: Joke prize](https://www.reviewjournal.com/opinion/letters/letter-joke-prize-3902074/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [EDITORIAL: Nevada justices decline to legislate from the bench](https://www.reviewjournal.com/opinion/editorials/editorial-nevada-justices-decline-to-legislate-from-the-bench-3902071/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Causes of death released for 3 men who died at Burning Man in Nevada](https://lasvegassun.com/news/2026/oct/18/causes-of-death-released-for-3-men-who-died-at-bur/) — Las Vegas Sun · 20:29 PT · #us #nevada
+- [Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests](https://lasvegassun.com/news/2026/oct/18/macron-condemns-those-who-sought-to-bring-down-the/) — Las Vegas Sun · 20:16 PT · #us #nevada
+- [Raiders keep running into trouble on fourth-and-short fullback sneaks](https://www.reviewjournal.com/sports/raiders/raiders-keep-running-into-trouble-on-fourth-and-short-fullback-sneaks-3902064/) — Las Vegas Review-Journal · 20:09 PT · #us #nevada
+- [Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery](https://lasvegassun.com/news/2026/oct/18/pope-leo-tells-faithful-in-st-peters-square-he-wil/) — Las Vegas Sun · 19:57 PT · #us #nevada
+- [Private jet skids off runway, hits fence at Las Vegas airport](https://lasvegassun.com/news/2026/oct/18/private-jet-skids-off-runway-hits-fence-at-las-veg/) — Las Vegas Sun · 19:57 PT · #us #nevada
+- [Raiders lose on the margins to Bills, undermining valiant effort](https://www.reviewjournal.com/sports/raiders/raiders-lose-on-the-margins-to-bills-undermining-valiant-effort-3902053/) — Las Vegas Review-Journal · 19:22 PT · #us #nevada
 - [Bills Mafia invade Las Vegas, takeover Allegiant Stadium](https://www.reviewjournal.com/sports/raiders/bills-mafia-invade-las-vegas-takeover-allegiant-stadium-3902021/) — Las Vegas Review-Journal · 17:33 PT · #us #nevada
 - [Veteran Las Vegas anchor returning after 19-month break](https://www.reviewjournal.com/local/local-las-vegas/veteran-las-vegas-anchor-returning-after-19-month-break-3902018/) — Las Vegas Review-Journal · 17:29 PT · #us #nevada
 - [Raiders grades: Solid effort falls short against Buffalo Bills with coaching, special teams errors](https://www.reviewjournal.com/sports/raiders/raiders-grades-solid-effort-falls-short-against-buffalo-bills-with-coaching-special-teams-errors-3901997/) — Las Vegas Review-Journal · 17:03 PT · #us #nevada
@@ -411,15 +423,3 @@ tags: ["category", "us"]
 - [Las Vegas startup brings AI to the casino eye in the sky](https://www.reviewjournal.com/business/vegas-business/innovation/las-vegas-startup-brings-ai-to-the-casino-eye-in-the-sky-3899903/) — Las Vegas Review-Journal · 07:00 PT · #us #ai #nevada #smallbiz
 - [Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near](https://www.reviewjournal.com/news/nation-and-world/inflation-worsened-last-month-to-3-7-in-sign-that-prices-remain-elevated-as-midterm-elections-near-3899899/) — Las Vegas Review-Journal · 06:50 PT · #us #civic #fed #nevada
 - [Obama backs Aaron Ford in Nevada governor's race](https://lasvegassun.com/news/2026/oct/14/obama-backs-aaron-ford-in-nevada-governors-race/) — Las Vegas Sun · 06:47 PT · #us #nevada
-- [William Karlsson found his scoring touch on Knights’ road trip](https://www.reviewjournal.com/sports/goldenknights/william-karlsson-found-his-scoring-touch-on-knights-road-trip-3899892/) — Las Vegas Review-Journal · 06:15 PT · #us #nevada
-- [Six Flags closes 9 North American roller coasters after families watch man fall to his death](https://www.reviewjournal.com/news/nation-and-world/six-flags-closes-9-north-american-roller-coasters-after-families-watch-man-fall-to-his-death-3899883/) — Las Vegas Review-Journal · 05:51 PT · #us #nevada
-- [Residents In Saudi Arabia's Capital Say They Have Heard New Explosions In Riyadh](https://www.huffpost.com/entry/riyadh-explosions-houthi-rebels_n_6acf5645e4b08a0fe85498f8) — World News - Breaking News, Top Stories · 03:20 PT · #us #foreign #oil
-- [Burning down the House](https://www.politico.com/newsletters/playbook/2026/10/14/burning-down-the-house-01117764) — Playbook · 03:13 PT · #us
-- [La elección de the Sun para gobernador: Aaron Ford](https://lasvegassun.com/news/2026/oct/14/la-eleccin-de-the-sun-para-gobernador-aaron-ford/) — Las Vegas Sun · 02:01 PT · #us #nevada
-- [Joe Lombardo is running as an education governor. Here's how to grade his record.](https://thenevadaindependent.com/article/joe-lombardo-is-running-as-an-education-governor-heres-how-to-grade-his-record/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [OPINION: Nevada is right to sue over its newly curbed Colorado River allocation](https://thenevadaindependent.com/article/opinion-nevada-is-right-to-sue-over-its-newly-curbed-colorado-river-allocation/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [AI data centers are coming for federal land, taking center stage in Nevada governor's race](https://lasvegassun.com/news/2026/oct/14/ai-data-centers-are-coming-for-federal-land-taking/) — Las Vegas Sun · 02:00 PT · #us #ai #nevada
-- [Sandra Jauregui would put the lieutenant governor’s office back to work for Nevada](https://lasvegassun.com/news/2026/oct/14/sandra-jauregui-would-put-the-lieutenant-governors/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [No on Question 7: Rural, elderly Nevadans shouldn’t face barriers to the ballot](https://lasvegassun.com/news/2026/oct/14/no-on-question-7-rural-elderly-nevadans-shouldnt-f/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Question 6 puts Nevada’s abortion protections where they belong: in the constitution](https://lasvegassun.com/news/2026/oct/14/question-6-puts-nevadas-abortion-protections-where/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [The Sun’s pick for Nevada governor: Aaron Ford](https://lasvegassun.com/news/2026/oct/14/the-suns-pick-for-governor-aaron-ford/) — Las Vegas Sun · 02:00 PT · #us #nevada

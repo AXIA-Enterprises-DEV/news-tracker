@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $GDDY"
-updated: 2026-10-18T18:25:35-07:00
-count: 1
+updated: 2026-10-18T23:31:19-07:00
+count: 2
 tags: ["ticker", "GDDY"]
 ---
 
 # Ticker: $GDDY
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-18
+
+- [GDDY Investors Have Opportunity to Lead GoDaddy Inc. Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/gddy-investors-have-opportunity-to-lead-godaddy-inc-securities-fraud-lawsuit-with-sbs-law-302912089.html) — PR Newswire M&A · 22:55 PT · #business $GDDY
 
 ## 2026-10-15
 

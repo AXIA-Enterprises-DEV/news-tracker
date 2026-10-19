@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $HYLN"
-updated: 2026-10-18T18:25:35-07:00
-count: 1
+updated: 2026-10-18T23:31:19-07:00
+count: 2
 tags: ["ticker", "HYLN"]
 ---
 
 # Ticker: $HYLN
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-18
+
+- [HYLN Investors Have Opportunity to Lead Hyliion Holdings Corp. Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/hyln-investors-have-opportunity-to-lead-hyliion-holdings-corp-securities-fraud-lawsuit-with-sbs-law-302912108.html) — PR Newswire M&A · 22:59 PT · #business $HYLN
 
 ## 2026-10-13
 

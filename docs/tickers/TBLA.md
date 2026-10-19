@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $TBLA"
-updated: 2026-10-18T18:25:35-07:00
-count: 2
+updated: 2026-10-18T23:31:19-07:00
+count: 3
 tags: ["ticker", "TBLA"]
 ---
 
 # Ticker: $TBLA
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-18
+
+- [TBLA Investors Have Opportunity to Lead Taboola.com Ltd. Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/tbla-investors-have-opportunity-to-lead-taboolacom-ltd-securities-fraud-lawsuit-with-sbs-law-302912094.html) — PR Newswire M&A · 22:56 PT · #business #markets $TBLA
 
 ## 2026-10-17
 

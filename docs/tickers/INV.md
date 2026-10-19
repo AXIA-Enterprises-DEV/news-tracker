@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $INV"
-updated: 2026-10-18T18:25:35-07:00
-count: 1
+updated: 2026-10-18T23:31:19-07:00
+count: 2
 tags: ["ticker", "INV"]
 ---
 
 # Ticker: $INV
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-18
+
+- [INV Investors Have Opportunity to Lead Innventure, Inc. Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/inv-investors-have-opportunity-to-lead-innventure-inc-securities-fraud-lawsuit-with-sbs-law-302912107.html) — PR Newswire M&A · 23:00 PT · #business #markets $INV
 
 ## 2026-10-17
 

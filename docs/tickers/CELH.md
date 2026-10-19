@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $CELH"
-updated: 2026-10-18T18:25:35-07:00
-count: 1
+updated: 2026-10-18T23:31:19-07:00
+count: 2
 tags: ["ticker", "CELH"]
 ---
 
 # Ticker: $CELH
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-18
+
+- [CELH Investors Have Opportunity to Lead Celsius Holdings, Inc. Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/celh-investors-have-opportunity-to-lead-celsius-holdings-inc-securities-fraud-lawsuit-with-sbs-law-302912101.html) — PR Newswire M&A · 23:27 PT · #business #markets $CELH
 
 ## 2026-10-16
 

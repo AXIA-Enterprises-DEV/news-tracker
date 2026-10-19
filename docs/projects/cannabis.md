@@ -1,16 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-18T18:25:35-07:00
-count: 92
+updated: 2026-10-18T23:31:19-07:00
+count: 94
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-92 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+94 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-18
 
+- [A woman sold cannabis through parcel lockers and cryptocurrency, and the court took into account the military merits of her father: what the Supreme Court decided - Судово-юридична газета](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOFJlaVJaWGh4QmhLdEd6Y21sUlFSYU9TcHlhTzgtMUViSGN4T1pqYW9McjFpcF9YMzBCc3ZsdENVZ1M4b3kxelc0V1hXMEZYUW5DVEtQbXNrdDUyNEZVd21uYXIzZEdPdjJtc2pKTnVMbTIyWHA3NHZJSU5hMzlBZERBQ3B6VVBYeklGZm1ySDJkcjBhMVZKWUpCSzM2M09nQlBxSUlWT1JaV0MyendvaVhBNTNGdTdFbFZjbnVUSmdKSEZhZmVzck5DNVhXVEpFY3E3T3FUTDhYTEF1XzJlRmpvcXlGTTBubld6MkZ3?oc=5) — Google News: "Supreme Court" ruling · 23:00 PT · #politics #cannabis #civic #foreign
+- [Manassas CBD store closing after Virginia law change makes most of its products illegal - WUSA9](https://news.google.com/rss/articles/CBMilgJBVV95cUxOV3kyUG55V2t5Smtpam1BNUI2UGJYVjNmVHlPT0ttUDA4WGFQZXFyNi05Ri1QU1ZIRFE1SHFqN2JjMTJJbnEyb2kwbXBRWHFLVUpzeVh2eXkyMzExYzJLUnZMN1N1QnNhUVNycFZMNUxzRFJQa0RfXzVneUUxRVo4RDRvb2ZNV3JQc3VwTUVJNE9mLWd0RXl0bTZQSXlzTGdNZnQ1THh2b2tVWk4yOWNaYmZwbW9MU01neWlhbzBlaWc5a0N3cUZMdXhQazVyQlppb2dDdDZ3SEFiVVh5MGZsWGYwdDZBR2Y2YWJMRVBiQURJY3Jka2FCdDg3T2hVeFhhRWY1Z3BnWDBVWThQNExxWnRiLVFCUQ?oc=5) — Google News: small business owners · 19:32 PT · #business #cannabis #smallbiz
 - [Amazon drone deliveries, marijuana ballot question and street repairs on Worcester council agenda - The Worcester Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUpIRHRDOTFXdzlpSktHTGVKMkRjUnAzOGEtazNFeEFIRzNodWEzZUJJMkdWTXRUdUFFZFZqVU1RM0RkVXlwUHpKYU9pQnlqNkRvdmhOMG4zbW9vQk5fVHl1ankzSEFURFp5ejJvZUN0M0dCTWg0MWxOdUV3dlY1OW55ZzV2Z0xNMEt6VU93ZThRTWttcjFacFhVTDVvbFVsMEZMZkVzeVQ1enVMYVpMSnFqRXd0NU9DSzJwNW01U3ROLW4tN0VCSzRXR0s?oc=5) — Google News: Nevada ballot question · 13:08 PT · #politics #cannabis #civic
 - [Why Is Marijuana Regulated More Strictly Than Alcohol, Even Though It Is Safer To Use? (Op-Ed)](https://www.marijuanamoment.net/why-is-marijuana-regulated-more-strictly-than-alcohol-even-though-it-is-safer-to-use-op-ed/) — Marijuana Moment · 07:06 PT · #business #cannabis
 

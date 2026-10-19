@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-18T18:25:35-07:00
-count: 252
+updated: 2026-10-18T23:31:19-07:00
+count: 255
 tags: ["tickers"]
 ---
 
@@ -12,15 +12,21 @@ tags: ["tickers"]
 - [$LSCC](LSCC.md) — 6 items
 - [$RMNI](RMNI.md) — 5 items
 - [$III](III.md) — 4 items
+- [$YSS](YSS.md) — 3 items
+- [$TBLA](TBLA.md) — 3 items
 - [$GIL](GIL.md) — 3 items
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$CELH](CELH.md) — 2 items
+- [$LINC](LINC.md) — 2 items
+- [$BBNX](BBNX.md) — 2 items
+- [$INV](INV.md) — 2 items
+- [$HYLN](HYLN.md) — 2 items
+- [$GDDY](GDDY.md) — 2 items
 - [$ASTS](ASTS.md) — 2 items
 - [$MRP](MRP.md) — 2 items
 - [$DOCS](DOCS.md) — 2 items
-- [$TBLA](TBLA.md) — 2 items
-- [$YSS](YSS.md) — 2 items
 - [$JKS](JKS.md) — 2 items
 - [$GPUS](GPUS.md) — 2 items
 - [$IOT](IOT.md) — 2 items
@@ -37,14 +43,15 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$DKS](DKS.md) — 1 items
+- [$PZZA](PZZA.md) — 1 items
+- [$FTK](FTK.md) — 1 items
 - [$CCB](CCB.md) — 1 items
 - [$AVEX](AVEX.md) — 1 items
 - [$HIMS](HIMS.md) — 1 items
-- [$LINC](LINC.md) — 1 items
 - [$BCS](BCS.md) — 1 items
 - [$OXY](OXY.md) — 1 items
 - [$AI](AI.md) — 1 items
-- [$INV](INV.md) — 1 items
 - [$DAVA](DAVA.md) — 1 items
 - [$FCEL](FCEL.md) — 1 items
 - [$BLDP](BLDP.md) — 1 items
@@ -55,7 +62,6 @@ tags: ["tickers"]
 - [$BHR](BHR.md) — 1 items
 - [$BUUU](BUUU.md) — 1 items
 - [$SRV](SRV.md) — 1 items
-- [$CELH](CELH.md) — 1 items
 - [$OMC](OMC.md) — 1 items
 - [$EGHT](EGHT.md) — 1 items
 - [$AIIO](AIIO.md) — 1 items
@@ -80,7 +86,6 @@ tags: ["tickers"]
 - [$HIT](HIT.md) — 1 items
 - [$TFC](TFC.md) — 1 items
 - [$YUMC](YUMC.md) — 1 items
-- [$GDDY](GDDY.md) — 1 items
 - [$ORV](ORV.md) — 1 items
 - [$ORVMF](ORVMF.md) — 1 items
 - [$QDEL](QDEL.md) — 1 items
@@ -191,8 +196,6 @@ tags: ["tickers"]
 - [$UNCY](UNCY.md) — 1 items
 - [$BBW](BBW.md) — 1 items
 - [$GTES](GTES.md) — 1 items
-- [$BBNX](BBNX.md) — 1 items
-- [$HYLN](HYLN.md) — 1 items
 - [$HUBG](HUBG.md) — 1 items
 - [$JBHT](JBHT.md) — 1 items
 - [$COO](COO.md) — 1 items
