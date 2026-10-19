@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-19T06:55:17-07:00
-count: 261
+updated: 2026-10-19T12:38:48-07:00
+count: 271
 tags: ["tickers"]
 ---
 
@@ -11,6 +11,7 @@ tags: ["tickers"]
 - [$VG](VG.md) — 6 items
 - [$LSCC](LSCC.md) — 6 items
 - [$RMNI](RMNI.md) — 5 items
+- [$CALX](CALX.md) — 4 items
 - [$III](III.md) — 4 items
 - [$NET](NET.md) — 3 items
 - [$YSS](YSS.md) — 3 items
@@ -19,6 +20,11 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$CCB](CCB.md) — 2 items
+- [$CC](CC.md) — 2 items
+- [$NCPL](NCPL.md) — 2 items
+- [$DAVA](DAVA.md) — 2 items
+- [$SNES](SNES.md) — 2 items
 - [$RTX](RTX.md) — 2 items
 - [$AEIS](AEIS.md) — 2 items
 - [$CELH](CELH.md) — 2 items
@@ -46,6 +52,16 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$HAS](HAS.md) — 1 items
+- [$M](M.md) — 1 items
+- [$TSCO](TSCO.md) — 1 items
+- [$EL](EL.md) — 1 items
+- [$EQPT](EQPT.md) — 1 items
+- [$HPE](HPE.md) — 1 items
+- [$SBLK](SBLK.md) — 1 items
+- [$IRON](IRON.md) — 1 items
+- [$GLUE](GLUE.md) — 1 items
+- [$ITUB](ITUB.md) — 1 items
 - [$GPRO](GPRO.md) — 1 items
 - [$HLSQ](HLSQ.md) — 1 items
 - [$ACN](ACN.md) — 1 items
@@ -54,14 +70,12 @@ tags: ["tickers"]
 - [$DKS](DKS.md) — 1 items
 - [$PZZA](PZZA.md) — 1 items
 - [$FTK](FTK.md) — 1 items
-- [$CCB](CCB.md) — 1 items
 - [$AVEX](AVEX.md) — 1 items
 - [$HIMS](HIMS.md) — 1 items
 - [$BCS](BCS.md) — 1 items
 - [$PBR](PBR.md) — 1 items
 - [$OXY](OXY.md) — 1 items
 - [$AI](AI.md) — 1 items
-- [$DAVA](DAVA.md) — 1 items
 - [$FCEL](FCEL.md) — 1 items
 - [$BLDP](BLDP.md) — 1 items
 - [$COST](COST.md) — 1 items
@@ -75,7 +89,6 @@ tags: ["tickers"]
 - [$EGHT](EGHT.md) — 1 items
 - [$AIIO](AIIO.md) — 1 items
 - [$BX](BX.md) — 1 items
-- [$CC](CC.md) — 1 items
 - [$OLED](OLED.md) — 1 items
 - [$PMT](PMT.md) — 1 items
 - [$BORR](BORR.md) — 1 items
@@ -128,7 +141,6 @@ tags: ["tickers"]
 - [$QTRH](QTRH.md) — 1 items
 - [$QTRHF](QTRHF.md) — 1 items
 - [$CGNX](CGNX.md) — 1 items
-- [$SNES](SNES.md) — 1 items
 - [$PTCT](PTCT.md) — 1 items
 - [$PTC](PTC.md) — 1 items
 - [$LSPD](LSPD.md) — 1 items
@@ -142,7 +154,6 @@ tags: ["tickers"]
 - [$CAST](CAST.md) — 1 items
 - [$YSG](YSG.md) — 1 items
 - [$XRPN](XRPN.md) — 1 items
-- [$NCPL](NCPL.md) — 1 items
 - [$ENSG](ENSG.md) — 1 items
 - [$TYGO](TYGO.md) — 1 items
 - [$APP](APP.md) — 1 items
@@ -253,7 +264,6 @@ tags: ["tickers"]
 - [$ICE](ICE.md) — 1 items
 - [$AIRG](AIRG.md) — 1 items
 - [$UPBD](UPBD.md) — 1 items
-- [$CALX](CALX.md) — 1 items
 - [$ADM](ADM.md) — 1 items
 - [$PENG](PENG.md) — 1 items
 - [$QXO](QXO.md) — 1 items

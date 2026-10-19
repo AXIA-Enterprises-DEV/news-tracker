@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $SNES"
-updated: 2026-10-19T06:55:17-07:00
-count: 1
+updated: 2026-10-19T12:38:48-07:00
+count: 2
 tags: ["ticker", "SNES"]
 ---
 
 # Ticker: $SNES
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-19
+
+- [GLENBROOK CROSSES 30% OWNERSHIP OF SENESTECH](https://www.prnewswire.com/news-releases/glenbrook-crosses-30-ownership-of-senestech-302912974.html) — PR Newswire M&A · 12:00 PT · #business #markets $SNES
 
 ## 2026-10-15
 

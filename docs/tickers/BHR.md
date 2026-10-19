@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $BHR"
-updated: 2026-10-19T06:55:17-07:00
+updated: 2026-10-19T12:38:48-07:00
 count: 1
 tags: ["ticker", "BHR"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-19T06:55:17-07:00
+updated: 2026-10-19T12:38:48-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,12 +11,33 @@ tags: ["category", "us"]
 
 ## 2026-10-19
 
+- [Jury deliberates flamingo abuse case](https://www.reviewjournal.com/crime/courts/jury-deliberates-flamingo-abuse-case-3902274/) — Las Vegas Review-Journal · 12:13 PT · #us #nevada
+- [Tipping is not required, says new Strip signs](https://www.reviewjournal.com/local/the-strip/tipping-is-not-required-says-new-strip-signs-3902271/) — Las Vegas Review-Journal · 12:05 PT · #us #nevada
+- [Las Vegas home inventory reaches highest level in 4 years](https://www.reviewjournal.com/business/housing/las-vegas-home-inventory-reaches-highest-level-in-4-years-3902267/) — Las Vegas Review-Journal · 11:50 PT · #us #nevada #realestate
+- [Las Vegas man charged with soliciting explicit video from minor](https://lasvegassun.com/news/2026/oct/19/las-vegas-man-charged-with-soliciting-explicit-vid/) — Las Vegas Sun · 11:50 PT · #us #nevada
+- [Henderson police violated state law with delayed notice of inmate’s 2024 death, city says](https://www.reviewjournal.com/local/henderson/henderson-police-violated-state-law-with-delayed-notice-of-inmates-2024-death-city-says-3902252/) — Las Vegas Review-Journal · 11:16 PT · #us #nevada
+- [Midweek storm to bring rain, wind and cooler weather to Las Vegas area](https://lasvegassun.com/news/2026/oct/19/midweek-storm-to-bring-rain-wind-and-cooler-weathe/) — Las Vegas Sun · 11:00 PT · #us #nevada
+- [Athletics hire Taylor Smith as president of baseball operations](https://lasvegassun.com/news/2026/oct/19/athletics-hire-taylor-smith-as-president-of-baseba/) — Las Vegas Sun · 10:32 PT · #us #nevada
+- [Florida is No. 1 in preseason AP Top 25 men's basketball poll as Duke, Illini also receive first-place votes](https://lasvegassun.com/news/2026/oct/19/florida-is-no-1-in-preseason-ap-top-25-mens-basket/) — Las Vegas Sun · 10:29 PT · #us #nevada
+- [Justice Department charges more than 2 dozen in California sweep targeting alleged noncitizen voters](https://lasvegassun.com/news/2026/oct/19/justice-department-charges-more-than-2-dozen-in-ca/) — Las Vegas Sun · 10:21 PT · #us #civic #nevada
+- [Billy Joel can’t drive or perform following brain disorder diagnosis](https://www.reviewjournal.com/news/nation-and-world/billy-joel-cant-drive-or-perform-following-brain-disorder-diagnosis-3902219/) — Las Vegas Review-Journal · 10:17 PT · #us #nevada
+- [Lady Rebels to retire Desi-Rae Young’s No. 23 jersey](https://lasvegassun.com/news/2026/oct/19/lady-rebels-to-retire-desi-rae-youngs-no-23-jersey/) — Las Vegas Sun · 09:59 PT · #us #nevada
+- [Russia hits Ukraine power grid again; Zelenskyy says nation got no early warning from partners](https://www.reviewjournal.com/news/politics-and-government/russia-hits-ukraine-power-grid-again-zelenskyy-says-nation-got-no-early-warning-from-partners-3902205/) — Las Vegas Review-Journal · 09:13 PT · #us #foreign #nevada
+- [Iran-backed Houthi rebels strike Yemen’s government forces, killing at least 53](https://www.reviewjournal.com/news/politics-and-government/iran-backed-houthi-rebels-strike-yemens-government-forces-killing-at-least-53-3902201/) — Las Vegas Review-Journal · 09:01 PT · #us #foreign #nevada
+- [Nellis AFB IDs service member killed in rappelling fall at football game](https://www.reviewjournal.com/news/military/nellis-afb-ids-service-member-killed-in-rappelling-fall-at-football-game-3902183/) — Las Vegas Review-Journal · 08:35 PT · #us #nevada
+- [Próximo presupuesto de Nevada podría aumentar en al menos $1 billón. Esta es la razón.](https://thenevadaindependent.com/article/proximo-presupuesto-de-nevada-podria-aumentar-en-al-menos-1-billon-esta-es-la-razon/) — The Nevada Independent · 08:29 PT · #us #nevada
+- [National Teen Driver Safety Week highlights importance of awareness for young drivers](https://www.ktnv.com/news/national-teen-driver-safety-week-highlights-importance-of-awareness-for-young-drivers) — KTNV Las Vegas · 08:27 PT · #us #nevada
+- [Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos](https://www.reviewjournal.com/news/civil-courts/lawsuit-alleges-roblox-didnt-safeguard-girl-from-predators-explicit-photos-3902172/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada
+- [Donnie Wahlberg confirms his flight skidded off Las Vegas airport runway](https://www.ktnv.com/news/donnie-wahlberg-confirms-his-flight-skidded-off-las-vegas-airport-runway) — KTNV Las Vegas · 07:52 PT · #us #nevada
+- [Athletics tab Red Sox executive as new president of baseball operations](https://www.reviewjournal.com/sports/athletics/athletics-tab-red-sox-executive-as-new-president-of-baseball-operations-3902166/) — Las Vegas Review-Journal · 07:44 PT · #us #nevada
+- [Nellis airman killed in Alamodome rappelling accident identified](https://www.ktnv.com/news/nellis-airman-killed-in-alamodome-rappelling-accident-identified) — KTNV Las Vegas · 06:58 PT · #us #nevada
 - [Las Vegas ranks among world’s top cities, Oxford Economics says](https://www.reviewjournal.com/business/vegas-business/bizfeed/las-vegas-ranks-among-worlds-top-cities-oxford-economics-says-3902133/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
 - [New ‘Vegas Effect’ campaign expected to attract meeting planners](https://www.reviewjournal.com/business/conventions/new-vegas-effect-campaign-expected-to-attract-meeting-planners-3902129/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
 - [RTC touts transit safety gains, overdose saves](https://www.reviewjournal.com/news/news-columns/road-warrior/rtc-touts-transit-safety-gains-overdose-saves-3902125/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
 - [What are they hiding? CCSD shields records for school cop accused of misconduct](https://www.reviewjournal.com/investigations/what-are-they-hiding-ccsd-shields-records-for-school-cop-accused-of-misconduct-3902122/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [Tre Tucker impresses as a Raiders WR bright spot with 2 TDs vs. Bills](https://www.reviewjournal.com/sports/raiders/tre-tucker-impresses-as-a-raiders-wr-bright-spot-with-2-tds-vs-bills-3902111/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [Graney: Are Raiders staring at future when looking at Bills?](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-are-raiders-staring-at-future-when-looking-at-bills-3902107/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [U.N. Food Agency Cuts Aid To 500,000 Palestinians In Gaza, Citing Funding Shortages](https://www.huffpost.com/entry/un-food-agency-cuts-to-gaza-aid-program_n_6ad5f539e4b05d72fd92654f) — World News - Breaking News, Top Stories · 03:50 PT · #us #foreign
 - [Republicans fall back to the red wall](https://www.politico.com/newsletters/playbook/2026/10/19/republicans-fall-back-to-the-red-wall-01126009) — Playbook · 03:07 PT · #us
 - [Becerra's muted gubernatorial campaign comes to life in home stretch](https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race) — World & Nation · 03:00 PT · #us
 - ['An opportunity for us to prosper': Why Las Vegas is becoming a magnet for Cubans](https://thenevadaindependent.com/article/an-opportunity-for-us-to-prosper-why-las-vegas-is-becoming-a-magnet-for-cubans/) — The Nevada Independent · 02:00 PT · #us #nevada
@@ -29,6 +50,8 @@ tags: ["category", "us"]
 - [Gaming industry points to financial literacy and player safety in prediction market fight](https://vegasinc.lasvegassun.com/business/2026/oct/19/gaming-industry-points-to-financial-literacy-and-p/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Trump’s desperate campaign to buy off voters](https://lasvegassun.com/news/2026/oct/19/trumps-desperate-campaign-to-buy-off-voters/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Why Europe just can't quit the US](https://lasvegassun.com/news/2026/oct/19/why-europe-just-cant-quit-the-us/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
+- [Australian Lawmaker Critically Injured In Car Attack, Police Say](https://www.huffpost.com/entry/australia-lawmaker-injured-vehicle-attack_n_6ad5da25e4b061c2be446127) — World News - Breaking News, Top Stories · 01:57 PT · #us
+- [France Reels From Weekend Violence As Mayors Rebuke Government For Security Failings](https://www.huffpost.com/entry/macron-france-security-failings-protests_n_6ad5d34ce4b05354557db521) — World News - Breaking News, Top Stories · 01:37 PT · #us
 
 ## 2026-10-18
 
@@ -403,26 +426,3 @@ tags: ["category", "us"]
 - [Henderson mayor unveils homeless transition housing, affordable plans at state of the city address](https://www.ktnv.com/neighborhoods/henderson/henderson-mayor-unveils-homeless-transition-housing-affordable-plans-at-state-of-the-city-address) — KTNV Las Vegas · 18:13 PT · #us #nevada
 - [Trump parades new Air Force One during Arizona rally — PHOTOS](https://www.reviewjournal.com/news/nation-and-world/trump-parades-new-air-force-one-during-arizona-rally-photos-3900111/) — Las Vegas Review-Journal · 18:11 PT · #us #nevada
 - [First Friday pauses monthly downtown Las Vegas event after deadly shooting](https://www.ktnv.com/news/first-friday-pauses-monthly-downtown-las-vegas-event-after-deadly-shooting) — KTNV Las Vegas · 18:01 PT · #us #nevada
-- [Rapper, Las Vegas nightclub sued over alleged assault of teen](https://www.reviewjournal.com/crime/courts/rapper-las-vegas-nightclub-sued-over-alleged-assault-of-teen-3900104/) — Las Vegas Review-Journal · 17:53 PT · #us #nevada
-- [Watchdog group seeks to block Jared Kushner from serving in his volunteer envoy role](https://lasvegassun.com/news/2026/oct/14/watchdog-group-seeks-to-block-jared-kushner-from-s/) — Las Vegas Sun · 17:39 PT · #us #nevada
-- [Federal appeals court hands down ruling on Clark County short-term rental process](https://www.ktnv.com/news/federal-appeals-court-hands-down-ruling-on-clark-county-short-term-rental-process) — KTNV Las Vegas · 17:38 PT · #us #nevada
-- [Luna, a small dog missing for over a month in Yellowstone, is reunited with her owners](https://lasvegassun.com/news/2026/oct/14/luna-a-small-dog-missing-for-over-a-month-in-yello/) — Las Vegas Sun · 17:36 PT · #us #nevada
-- [Two women killed in wrong-way crash near Las Vegas Motor Speedway ID’d](https://www.reviewjournal.com/local/local-nevada/two-women-killed-in-wrong-way-crash-near-las-vegas-motor-speedway-idd-3900093/) — Las Vegas Review-Journal · 17:15 PT · #us #nevada
-- [Green Valley High School crowns a historic homecoming queen](https://www.ktnv.com/sports/green-valley-high-school-crowns-a-historic-homecoming-queen) — KTNV Las Vegas · 16:37 PT · #us #nevada
-- [Man who set fire to vehicles at Las Vegas Tesla facility gets 5 years in prison](https://lasvegassun.com/news/2026/oct/14/man-who-set-fire-to-vehicles-at-las-vegas-tesla-fa/) — Las Vegas Sun · 16:25 PT · #us #nevada
-- [Police seeking info on suspect of hit-and-run in southwest Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/police-seeking-info-on-suspect-of-hit-and-run-in-southwest-las-vegas-valley-3900085/) — Las Vegas Review-Journal · 16:21 PT · #us #nevada
-- [Vote delayed on controversial 61-home development in Las Vegas](https://www.reviewjournal.com/business/housing/vote-delayed-on-controversial-61-home-development-in-las-vegas-3900076/) — Las Vegas Review-Journal · 15:48 PT · #us #nevada
-- [Las Vegas Tesla arsonist sentenced to 5 years in prison, judge rules](https://www.reviewjournal.com/crime/courts/las-vegas-tesla-arsonist-sentenced-to-5-years-in-prison-judge-rules-3900070/) — Las Vegas Review-Journal · 15:23 PT · #us #nevada
-- [Authorities seek vehicle involved in hit-and-run that critically injured Las Vegas professor](https://www.ktnv.com/news/authorities-seek-vehicle-involved-in-hit-and-run-that-critically-injured-pedestrian) — KTNV Las Vegas · 15:13 PT · #us #nevada
-- [As turnovers dry up, Raiders defense looks to reverse course](https://www.reviewjournal.com/sports/raiders/as-turnovers-dry-up-raiders-defense-looks-to-reverse-course-3900066/) — Las Vegas Review-Journal · 15:09 PT · #us #nevada
-- [Clark County officials ID body found in barrel at Lake Mead in 2022](https://www.reviewjournal.com/crime/homicides/clark-county-officials-id-body-found-in-barrel-at-lake-mead-in-2022-3900060/) — Las Vegas Review-Journal · 15:03 PT · #us #nevada
-- [Las Vegas woman sentenced to 14 years in prison for child sex trafficking](https://lasvegassun.com/news/2026/oct/14/las-vegas-woman-sentenced-to-14-years-in-prison-fo/) — Las Vegas Sun · 15:02 PT · #us #nevada
-- [Body found in barrel at Lake Mead will be identified this week, officials say](https://www.ktnv.com/news/body-found-in-barrel-at-lake-mead-will-be-identified-this-week-officials-say) — KTNV Las Vegas · 14:58 PT · #us #nevada
-- [Mystery solved: Investigators identify body found in barrel at Lake Mead in 2022](https://www.ktnv.com/news/investigators-identify-man-found-in-barrel-at-lake-mead-in-2022) — KTNV Las Vegas · 14:58 PT · #us #nevada
-- [Raiders freefall in latest power rankings after blowout loss to Patriots](https://www.reviewjournal.com/sports/raiders/raiders-freefall-in-latest-power-rankings-after-blowout-loss-to-patriots-3900056/) — Las Vegas Review-Journal · 14:56 PT · #us #nevada
-- [Clark County seeks applicants for stadium authority board](https://lasvegassun.com/news/2026/oct/14/clark-county-seeks-applicants-for-stadium-authorit/) — Las Vegas Sun · 14:32 PT · #us #nevada
-- [Court OKs sale of downtown Las Vegas casino property](https://www.reviewjournal.com/business/casinos-gaming/court-oks-sale-of-downtown-las-vegas-casino-property-3900049/) — Las Vegas Review-Journal · 14:23 PT · #us #nevada
-- [Supreme Court sides with Republicans in dispute over cost of campaign ads](https://www.latimes.com/politics/story/2026-10-14/supreme-court-sides-with-republicans-in-dispute-over-cost-of-campaign-ads) — World & Nation · 14:16 PT · #us #civic
-- [Clark County early voting: Voting centers less likely to have a line on Day 1](https://www.ktnv.com/news/clark-county-early-voting-voting-centers-less-likely-to-have-a-line-on-day-1) — KTNV Las Vegas · 13:48 PT · #us #nevada
-- [Trump campaigns in Arizona and Montana on 2nd day of Western swing to help boost GOP candidates](https://lasvegassun.com/news/2026/oct/14/trump-campaigns-in-arizona-and-montana-on-2nd-day/) — Las Vegas Sun · 13:44 PT · #us #nevada
-- [New landlord buys Southern Nevada industrial buildings for $190M](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/new-landlord-buys-southern-nevada-industrial-buildings-for-190m-3900038/) — Las Vegas Review-Journal · 13:42 PT · #us #nevada #realestate

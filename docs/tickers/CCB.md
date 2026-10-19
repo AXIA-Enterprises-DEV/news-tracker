@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $CCB"
-updated: 2026-10-19T06:55:17-07:00
-count: 1
+updated: 2026-10-19T12:38:48-07:00
+count: 2
 tags: ["ticker", "CCB"]
 ---
 
 # Ticker: $CCB
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-19
+
+- [CCB Investors Have Opportunity to Lead Coastal Financial Corporation Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/ccb-investors-have-opportunity-to-lead-coastal-financial-corporation-securities-fraud-lawsuit-with-sbs-law-302912877.html) — PR Newswire M&A · 12:25 PT · #business #markets $CCB
 
 ## 2026-10-18
 

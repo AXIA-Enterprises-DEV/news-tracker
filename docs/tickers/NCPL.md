@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $NCPL"
-updated: 2026-10-19T06:55:17-07:00
-count: 1
+updated: 2026-10-19T12:38:48-07:00
+count: 2
 tags: ["ticker", "NCPL"]
 ---
 
 # Ticker: $NCPL
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-19
+
+- [NCPL Investors Have Opportunity to Lead Netcapital Inc. Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/ncpl-investors-have-opportunity-to-lead-netcapital-inc-securities-fraud-lawsuit-with-sbs-law-302912876.html) — PR Newswire M&A · 12:11 PT · #business #markets $NCPL
 
 ## 2026-10-14
 

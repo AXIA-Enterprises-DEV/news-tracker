@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $DAVA"
-updated: 2026-10-19T06:55:17-07:00
-count: 1
+updated: 2026-10-19T12:38:48-07:00
+count: 2
 tags: ["ticker", "DAVA"]
 ---
 
 # Ticker: $DAVA
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-19
+
+- [DAVA Investors Have Opportunity to Lead Endava plc Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/dava-investors-have-opportunity-to-lead-endava-plc-securities-fraud-lawsuit-with-sbs-law-302912875.html) — PR Newswire M&A · 12:07 PT · #business $DAVA
 
 ## 2026-10-17
 

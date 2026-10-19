@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $CC"
-updated: 2026-10-19T06:55:17-07:00
-count: 1
+updated: 2026-10-19T12:38:48-07:00
+count: 2
 tags: ["ticker", "CC"]
 ---
 
 # Ticker: $CC
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-19
+
+- [CC Investors Have Opportunity to Lead The Chemours Company Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/cc-investors-have-opportunity-to-lead-the-chemours-company-securities-fraud-lawsuit-with-sbs-law-302912887.html) — PR Newswire M&A · 12:12 PT · #business $CC
 
 ## 2026-10-16
 
