@@ -1,13 +1,20 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-18T23:31:19-07:00
-count: 94
+updated: 2026-10-19T06:55:17-07:00
+count: 98
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-94 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+98 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-19
+
+- [Most Military Veterans Support Legalizing Marijuana For Recreational And Medical Use, Poll Shows](https://www.marijuanamoment.net/most-military-veterans-support-legalizing-marijuana-for-recreational-and-medical-use-poll-shows/) — Marijuana Moment · 06:08 PT · #business #cannabis #foreign
+- [A Return To Criminalization Is Not The Solution To Unfair Rules Differences Between Hemp And Marijuana (Op-Ed)](https://www.marijuanamoment.net/a-return-to-criminalization-is-not-the-solution-to-unfair-rules-differences-between-hemp-and-marijuana-op-ed/) — Marijuana Moment · 05:16 PT · #business #cannabis
+- [Massachusetts lawmakers urge voters to keep cannabis sales legal (Newsletter: October 19, 2026)](https://www.marijuanamoment.net/massachusetts-lawmakers-urge-voters-to-keep-cannabis-sales-legal-newsletter-october-19-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis
+- [New York cannabis retailers shrink orders as payment enforcement tightens](https://mjbizdaily.com/news/new-york-cannabis-retailers-shrink-orders-as-payment-enforcement-tightens/618675/) — MJBizDaily · 02:53 PT · #business #cannabis #smallbiz
 
 ## 2026-10-18
 

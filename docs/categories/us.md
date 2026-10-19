@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-18T23:31:19-07:00
+updated: 2026-10-19T06:55:17-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -8,6 +8,27 @@ tags: ["category", "us"]
 # Category: U.S.
 
 400 most recent items (14-day window).
+
+## 2026-10-19
+
+- [Las Vegas ranks among world’s top cities, Oxford Economics says](https://www.reviewjournal.com/business/vegas-business/bizfeed/las-vegas-ranks-among-worlds-top-cities-oxford-economics-says-3902133/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
+- [New ‘Vegas Effect’ campaign expected to attract meeting planners](https://www.reviewjournal.com/business/conventions/new-vegas-effect-campaign-expected-to-attract-meeting-planners-3902129/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
+- [RTC touts transit safety gains, overdose saves](https://www.reviewjournal.com/news/news-columns/road-warrior/rtc-touts-transit-safety-gains-overdose-saves-3902125/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
+- [What are they hiding? CCSD shields records for school cop accused of misconduct](https://www.reviewjournal.com/investigations/what-are-they-hiding-ccsd-shields-records-for-school-cop-accused-of-misconduct-3902122/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Tre Tucker impresses as a Raiders WR bright spot with 2 TDs vs. Bills](https://www.reviewjournal.com/sports/raiders/tre-tucker-impresses-as-a-raiders-wr-bright-spot-with-2-tds-vs-bills-3902111/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Graney: Are Raiders staring at future when looking at Bills?](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-are-raiders-staring-at-future-when-looking-at-bills-3902107/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Republicans fall back to the red wall](https://www.politico.com/newsletters/playbook/2026/10/19/republicans-fall-back-to-the-red-wall-01126009) — Playbook · 03:07 PT · #us
+- [Becerra's muted gubernatorial campaign comes to life in home stretch](https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race) — World & Nation · 03:00 PT · #us
+- ['An opportunity for us to prosper': Why Las Vegas is becoming a magnet for Cubans](https://thenevadaindependent.com/article/an-opportunity-for-us-to-prosper-why-las-vegas-is-becoming-a-magnet-for-cubans/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [Carrot Top returning to stage at Luxor, thanks supporters after suicide attempt](https://lasvegassun.com/news/2026/oct/19/carrot-top-returning-to-stage-at-luxor-thanks-supp/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [High School Football Picks: Week 11](https://lasvegassun.com/news/2026/oct/19/high-school-football-picks-week-11/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Se espera que el nuevo centro de justicia familiar duplique la capacidad de apoyo para las sobrevivientes de violencia doméstica](https://lasvegassun.com/news/2026/oct/19/se-espera-que-el-nuevo-centro-de-justicia-familiar/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [My brother’s last joke changed how I understand grief](https://lasvegassun.com/news/2026/oct/19/my-brothers-last-joke-changed-how-i-understand-gri/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Nevada's first one-stop center for abuse survivors opens](https://lasvegassun.com/news/2026/oct/19/new-family-justice-center-expected-to-double-suppo/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [La industria del juego destaca la educación financiera en la lucha contra los mercados de predicción](https://vegasinc.lasvegassun.com/business/2026/oct/19/la-industria-del-juego-destaca-la-educacin-financi/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Gaming industry points to financial literacy and player safety in prediction market fight](https://vegasinc.lasvegassun.com/business/2026/oct/19/gaming-industry-points-to-financial-literacy-and-p/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Trump’s desperate campaign to buy off voters](https://lasvegassun.com/news/2026/oct/19/trumps-desperate-campaign-to-buy-off-voters/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Why Europe just can't quit the US](https://lasvegassun.com/news/2026/oct/19/why-europe-just-cant-quit-the-us/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
 
 ## 2026-10-18
 
@@ -30,7 +51,9 @@ tags: ["category", "us"]
 - [Graney: Loss or not, Raiders show something in bouncing back](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-loss-or-not-raiders-show-something-in-bouncing-back-3901989/) — Las Vegas Review-Journal · 16:53 PT · #us #nevada
 - [Raiders lose at home to Bills for third straight loss after 3-0 start — PHOTOS](https://www.reviewjournal.com/sports/raiders/raiders-lose-at-home-to-bills-for-third-straight-loss-after-3-0-start-3901959/) — Las Vegas Review-Journal · 16:43 PT · #us #nevada
 - [Las Vegas high school boys, girls soccer: What’s on line in final week?](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-boys-girls-soccer-whats-on-line-in-final-week-3901950/) — Las Vegas Review-Journal · 16:27 PT · #us #nevada
+- [U.S. Resumes Intelligence-sharing With Ukraine After Pause, Zelenskyy Says](https://www.huffpost.com/entry/united-states-ukraine-critical-intelligence-russia_n_6ad53ff1e4b05d72fd921b00) — World News - Breaking News, Top Stories · 15:12 PT · #us #foreign
 - [Bills starting safety ejected after spitting toward Raiders players](https://www.reviewjournal.com/sports/raiders/bills-starting-safety-ejected-after-spitting-toward-raiders-players-3901908/) — Las Vegas Review-Journal · 14:51 PT · #us #nevada
+- [Photographer Attacked By Settlers In The West Bank Feels Insulted By Netanyahu](https://www.huffpost.com/entry/israel-palestinians-journalist-attacked-heidi-levine_n_6ad53819e4b05d72fd9219f2) — World News - Breaking News, Top Stories · 14:23 PT · #us #foreign
 - [Road to Vegas: UCLA, Tennessee move into CFP projected bracket](https://www.reviewjournal.com/sports/football/road-to-vegas-ucla-tennessee-move-into-cfp-projected-bracket-3901891/) — Las Vegas Review-Journal · 14:18 PT · #us #nevada
 - [1 dead, 1 in critical condition after head-on crash in North Las Vegas](https://www.ktnv.com/news/1-dead-1-in-critical-condition-after-head-on-crash-in-north-las-vegas) — KTNV Las Vegas · 13:53 PT · #us #nevada
 - [Man killed, woman injured after dispute leads to shooting in northeast Las Vegas Valley](https://www.reviewjournal.com/crime/homicides/man-killed-woman-injured-after-dispute-leads-to-shooting-in-northeast-las-vegas-valley-3901879/) — Las Vegas Review-Journal · 13:38 PT · #us #nevada
@@ -45,6 +68,8 @@ tags: ["category", "us"]
 - [What channel is Raiders vs Bills: TV, streaming, radio, kickoff time for Week 6 matchup](https://www.reviewjournal.com/sports/raiders/what-channel-is-raiders-vs-bills-tv-streaming-radio-kickoff-time-for-week-6-matchup-3901834/) — Las Vegas Review-Journal · 09:53 PT · #us #nevada
 - [Jack Eichel, Mark Stone off to blistering start for Golden Knights](https://www.reviewjournal.com/sports/goldenknights/jack-eichel-mark-stone-off-to-blistering-start-for-golden-knights-3901830/) — Las Vegas Review-Journal · 09:43 PT · #us #nevada
 - [Nellis Air Force Base service member dies after rappelling fall at a college football game in Texas](https://www.reviewjournal.com/news/military/nellis-air-force-base-service-member-dies-after-rappelling-fall-at-a-college-football-game-in-texas-3901817/) — Las Vegas Review-Journal · 09:23 PT · #us #nevada
+- [Trump Gives Benjamin Netanyahu The Endorsement He's Been Waiting For](https://www.huffpost.com/entry/donald-trump-endorses-benjamin-netanyahu_n_6ad4ec7ee4b0ce24aeda0ec4) — World News - Breaking News, Top Stories · 09:10 PT · #us #civic #foreign
+- [France's Macron Vows To Hold Accountable Those Who 'Sought To Bring Down The Republic'](https://www.huffpost.com/entry/france-protests-arrests_n_6ad4e9d0e4b0dccf572c49b3) — World News - Breaking News, Top Stories · 09:00 PT · #us
 - [LIVE UPDATES: Raiders host Bills looking to snap 2-game losing streak](https://www.reviewjournal.com/sports/raiders/live-updates-raiders-host-bills-looking-to-snap-2-game-losing-streak-3901811/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
 - [Ukraine launches more than 1,000 drones at Russia; St. Petersburg oil facilities ablaze](https://www.reviewjournal.com/news/politics-and-government/ukraine-launches-more-than-1000-drones-at-russia-st-petersburg-oil-facilities-ablaze-3901807/) — Las Vegas Review-Journal · 08:57 PT · #us #foreign #nevada #oil
 - [Pedestrian killed in North Las Vegas crash](https://www.reviewjournal.com/local/north-las-vegas/pedestrian-killed-in-north-las-vegas-crash-3901801/) — Las Vegas Review-Journal · 08:33 PT · #us #nevada
@@ -401,25 +426,3 @@ tags: ["category", "us"]
 - [Clark County early voting: Voting centers less likely to have a line on Day 1](https://www.ktnv.com/news/clark-county-early-voting-voting-centers-less-likely-to-have-a-line-on-day-1) — KTNV Las Vegas · 13:48 PT · #us #nevada
 - [Trump campaigns in Arizona and Montana on 2nd day of Western swing to help boost GOP candidates](https://lasvegassun.com/news/2026/oct/14/trump-campaigns-in-arizona-and-montana-on-2nd-day/) — Las Vegas Sun · 13:44 PT · #us #nevada
 - [New landlord buys Southern Nevada industrial buildings for $190M](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/new-landlord-buys-southern-nevada-industrial-buildings-for-190m-3900038/) — Las Vegas Review-Journal · 13:42 PT · #us #nevada #realestate
-- [College football predictions: UNC, Auburn among best bets](https://www.reviewjournal.com/sports/betting/college-football-predictions-unc-auburn-among-best-bets-3900032/) — Las Vegas Review-Journal · 13:11 PT · #us #nevada
-- [Thursday night prediction: Broncos, key WR among top picks against Seahawks](https://www.reviewjournal.com/sports/betting/thursday-night-prediction-broncos-key-wr-among-top-picks-against-seahawks-3900027/) — Las Vegas Review-Journal · 12:57 PT · #us #nevada
-- [Nevada seeks public input on first statewide trails plan](https://lasvegassun.com/news/2026/oct/14/nevada-seeks-public-input-on-first-statewide-trail/) — Las Vegas Sun · 12:30 PT · #us #nevada
-- [‘Aggressive’ great white shark seen in waters off Huntington Beach](https://www.reviewjournal.com/news/nation-and-world/aggressive-great-white-shark-seen-in-waters-off-huntington-beach-3900024/) — Las Vegas Review-Journal · 12:18 PT · #us #nevada
-- [Boston construction giant hires new exec to lead Las Vegas office](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/boston-construction-giant-hires-new-exec-to-lead-las-vegas-office-3900016/) — Las Vegas Review-Journal · 11:54 PT · #us #nevada
-- [Texas prosecutor says ICE officer appeared to intentionally strike a man with a vehicle in Houston](https://lasvegassun.com/news/2026/oct/14/texas-prosecutor-says-ice-officer-appeared-to-inte/) — Las Vegas Sun · 11:34 PT · #us #nevada
-- [Ukraine Says Elon Musk’s SpaceX Hampers Drones For Attack And Defence, As U.S. Ties Fray](https://www.huffpost.com/entry/ukraine-zelenskyy-elon-musk-starlink_n_6acfbaa2e4b0bfd25653976d) — World News - Breaking News, Top Stories · 10:30 PT · #us #foreign
-- [Raiders QB meets with media to preview Sunday’s game vs. Buffalo Bills](https://www.reviewjournal.com/sports/raiders/raiders-coach-qb-meet-with-media-to-preview-sundays-game-vs-buffalo-bills-3899993/) — Las Vegas Review-Journal · 10:25 PT · #us #nevada
-- [Student arrested after bringing gun on campus at Desert Oasis High School](https://www.ktnv.com/news/student-arrested-after-bringing-gun-on-campus-at-desert-oasis-high-school) — KTNV Las Vegas · 10:12 PT · #us #nevada
-- [Student in custody after gun found at high school in Las Vegas](https://www.reviewjournal.com/crime/student-in-custody-after-gun-found-at-high-school-in-las-vegas-3899984/) — Las Vegas Review-Journal · 09:52 PT · #us #nevada
-- [Trump says he cares for Americans. They think he’s more focused on his wealth, an AP-NORC poll finds](https://www.reviewjournal.com/news/politics-and-government/trump-says-he-cares-for-americans-they-think-hes-more-focused-on-his-wealth-an-ap-norc-poll-finds-3899980/) — Las Vegas Review-Journal · 09:51 PT · #us #nevada
-- [Iran says a ship sank after striking a mine in Strait of Hormuz](https://www.reviewjournal.com/news/politics-and-government/iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-3899974/) — Las Vegas Review-Journal · 09:40 PT · #us #foreign #nevada #oil
-- [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://lasvegassun.com/news/2026/oct/14/judge-extends-order-blocking-trump-from-banning-cn/) — Las Vegas Sun · 09:20 PT · #us #media #nevada
-- [The first new sunscreen type in 25 years has arrived on US store shelves](https://lasvegassun.com/news/2026/oct/14/the-first-new-sunscreen-type-in-25-years-has-arriv/) — Las Vegas Sun · 09:17 PT · #us #nevada
-- [Las Vegas bourbon maker looks to sell land for more than $8M](https://www.reviewjournal.com/business/vegas-business/small-business/las-vegas-bourbon-maker-looks-to-sell-land-for-more-than-8m-3899949/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
-- [Henderson DMV location to permanently close Wednesday](https://www.ktnv.com/news/henderson-dmv-location-to-permanently-close-wednesday) — KTNV Las Vegas · 08:08 PT · #us #nevada
-- [Las Vegas’ R&R Partners joins global tourism marketing giant in major deal](https://www.reviewjournal.com/business/tourism/las-vegas-rr-partners-joins-global-tourism-marketing-giant-in-major-deal-3899937/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada
-- [What happens in Vegas goes global as noted PR, lobbying firm R&R Partners undergoes merger](https://thenevadaindependent.com/article/what-happens-in-vegas-goes-global-as-noted-pr-lobbying-firm-merges-with-national-agency/) — The Nevada Independent · 08:00 PT · #us #markets #nevada
-- [Social Security recipients to get 3.6% cost of living boost, an average of $75 per month](https://www.reviewjournal.com/news/politics-and-government/social-security-recipients-to-get-3-6-cost-of-living-boost-an-average-of-75-per-month-3899907/) — Las Vegas Review-Journal · 07:03 PT · #us #civic #fed #nevada
-- [Las Vegas startup brings AI to the casino eye in the sky](https://www.reviewjournal.com/business/vegas-business/innovation/las-vegas-startup-brings-ai-to-the-casino-eye-in-the-sky-3899903/) — Las Vegas Review-Journal · 07:00 PT · #us #ai #nevada #smallbiz
-- [Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near](https://www.reviewjournal.com/news/nation-and-world/inflation-worsened-last-month-to-3-7-in-sign-that-prices-remain-elevated-as-midterm-elections-near-3899899/) — Las Vegas Review-Journal · 06:50 PT · #us #civic #fed #nevada
-- [Obama backs Aaron Ford in Nevada governor's race](https://lasvegassun.com/news/2026/oct/14/obama-backs-aaron-ford-in-nevada-governors-race/) — Las Vegas Sun · 06:47 PT · #us #nevada

@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $RTX"
-updated: 2026-10-18T23:31:19-07:00
-count: 1
+updated: 2026-10-19T06:55:17-07:00
+count: 2
 tags: ["ticker", "RTX"]
 ---
 
 # Ticker: $RTX
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-19
+
+- [U.S. Army awards Javelin Joint Venture $215 million contract for Lightweight Command Launch Unit production](https://www.prnewswire.com/news-releases/us-army-awards-javelin-joint-venture-215-million-contract-for-lightweight-command-launch-unit-production-302911519.html) — PR Newswire Contracts · 06:00 PT · #business $RTX
 
 ## 2026-10-15
 

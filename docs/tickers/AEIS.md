@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $AEIS"
-updated: 2026-10-18T23:31:19-07:00
-count: 1
+updated: 2026-10-19T06:55:17-07:00
+count: 2
 tags: ["ticker", "AEIS"]
 ---
 
 # Ticker: $AEIS
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-19
+
+- [Advanced Energy Announces Third Quarter 2026 Earnings Date on November 2](http://www.businesswire.com/news/home/20261019128243/en/Advanced-Energy-Announces-Third-Quarter-2026-Earnings-Date-on-November-2/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 03:00 PT · #business #markets $AEIS
 
 ## 2026-10-13
 

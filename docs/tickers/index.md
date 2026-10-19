@@ -1,7 +1,7 @@
 ---
 title: "Tickers"
-updated: 2026-10-18T23:31:19-07:00
-count: 255
+updated: 2026-10-19T06:55:17-07:00
+count: 261
 tags: ["tickers"]
 ---
 
@@ -12,12 +12,15 @@ tags: ["tickers"]
 - [$LSCC](LSCC.md) — 6 items
 - [$RMNI](RMNI.md) — 5 items
 - [$III](III.md) — 4 items
+- [$NET](NET.md) — 3 items
 - [$YSS](YSS.md) — 3 items
 - [$TBLA](TBLA.md) — 3 items
 - [$GIL](GIL.md) — 3 items
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$RTX](RTX.md) — 2 items
+- [$AEIS](AEIS.md) — 2 items
 - [$CELH](CELH.md) — 2 items
 - [$LINC](LINC.md) — 2 items
 - [$BBNX](BBNX.md) — 2 items
@@ -43,6 +46,11 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$GPRO](GPRO.md) — 1 items
+- [$HLSQ](HLSQ.md) — 1 items
+- [$ACN](ACN.md) — 1 items
+- [$SLGN](SLGN.md) — 1 items
+- [$ESLT](ESLT.md) — 1 items
 - [$DKS](DKS.md) — 1 items
 - [$PZZA](PZZA.md) — 1 items
 - [$FTK](FTK.md) — 1 items
@@ -50,6 +58,7 @@ tags: ["tickers"]
 - [$AVEX](AVEX.md) — 1 items
 - [$HIMS](HIMS.md) — 1 items
 - [$BCS](BCS.md) — 1 items
+- [$PBR](PBR.md) — 1 items
 - [$OXY](OXY.md) — 1 items
 - [$AI](AI.md) — 1 items
 - [$DAVA](DAVA.md) — 1 items
@@ -122,7 +131,6 @@ tags: ["tickers"]
 - [$SNES](SNES.md) — 1 items
 - [$PTCT](PTCT.md) — 1 items
 - [$PTC](PTC.md) — 1 items
-- [$RTX](RTX.md) — 1 items
 - [$LSPD](LSPD.md) — 1 items
 - [$VZ](VZ.md) — 1 items
 - [$PLD](PLD.md) — 1 items
@@ -211,7 +219,6 @@ tags: ["tickers"]
 - [$GLXY](GLXY.md) — 1 items
 - [$AZZ](AZZ.md) — 1 items
 - [$BKD](BKD.md) — 1 items
-- [$NET](NET.md) — 1 items
 - [$MTUS](MTUS.md) — 1 items
 - [$YFOR](YFOR.md) — 1 items
 - [$ANDE](ANDE.md) — 1 items
@@ -236,7 +243,6 @@ tags: ["tickers"]
 - [$BP](BP.md) — 1 items
 - [$FIGS](FIGS.md) — 1 items
 - [$PEGA](PEGA.md) — 1 items
-- [$AEIS](AEIS.md) — 1 items
 - [$INFQ](INFQ.md) — 1 items
 - [$SPCB](SPCB.md) — 1 items
 - [$BTC](BTC.md) — 1 items
