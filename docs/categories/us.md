@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-20T05:17:59-07:00
+updated: 2026-10-20T10:20:07-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,8 +11,26 @@ tags: ["category", "us"]
 
 ## 2026-10-20
 
+- [WNBA Finals and the national anthem: The rules and why some teams stay on the court and others don't](https://lasvegassun.com/news/2026/oct/20/wnba-finals-and-the-national-anthem-the-rules-and/) — Las Vegas Sun · 10:10 PT · #us #nevada
+- [LeBron James is set to open his 24th season in New York when his 76ers visit the Knicks](https://lasvegassun.com/news/2026/oct/20/lebron-james-is-set-to-open-his-24th-season-in-new/) — Las Vegas Sun · 09:47 PT · #us #nevada
+- [Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms](https://lasvegassun.com/news/2026/oct/20/gimmick-or-giveback-even-some-trump-supporters-don/) — Las Vegas Sun · 09:44 PT · #us #nevada
+- [‘Married with Children’ star says her doctor told her she was misdiagnosed with MS](https://www.reviewjournal.com/news/nation-and-world/married-with-children-star-says-her-doctor-told-her-she-was-misdiagnosed-with-ms-3902638/) — Las Vegas Review-Journal · 09:35 PT · #us #nevada
+- [World’s tallest fresh-cut Christmas tree arrives in Southern California](https://www.ktnv.com/news/worlds-tallest-fresh-cut-christmas-tree-arrives-at-southern-california-outlet-mall) — KTNV Las Vegas · 09:19 PT · #us #nevada
+- [Clark County confirms first case of clade I monkeypox virus](https://www.ktnv.com/news/clark-county-reports-first-case-of-clade-i-monkeypox-virus) — KTNV Las Vegas · 09:14 PT · #us #nevada
+- [Health District reports 1st clade I mpox case in Clark County resident](https://www.reviewjournal.com/life/health/health-district-reports-1st-clade-i-mpox-case-in-clark-county-resident-3902632/) — Las Vegas Review-Journal · 08:45 PT · #us #nevada
+- [U.K. Expands Military Support For Saudi Arabia To Protect Against Houthis](https://www.huffpost.com/entry/uk-expands-military-support-saudi-arabia-yemen-houthis_n_6ad78747e4b0ba084e12648a) — World News - Breaking News, Top Stories · 08:30 PT · #us #foreign
+- [Accused shooter in double homicide at Las Vegas store pleads guilty](https://www.reviewjournal.com/crime/courts/accused-shooter-in-double-homicide-at-las-vegas-store-pleads-guilty-3902625/) — Las Vegas Review-Journal · 08:26 PT · #us #nevada
+- [Health experts urge locals to get breast cancer screenings](https://www.ktnv.com/news/health-experts-urge-locals-to-get-breast-cancer-screenings) — KTNV Las Vegas · 07:45 PT · #us #nevada
+- [Russian aerial blitz kills 9 in Ukraine as Zelenskyy meets US and European officials in Norway](https://www.reviewjournal.com/news/politics-and-government/russian-aerial-blitz-kills-9-in-ukraine-as-zelenskyy-meets-us-and-european-officials-in-norway-3902580/) — Las Vegas Review-Journal · 07:10 PT · #us #foreign #nevada
+- [UK to send jets to defend Saudi Arabia from Houthi attacks](https://www.reviewjournal.com/news/politics-and-government/uk-to-send-jets-to-defend-saudi-arabia-from-houthi-attacks-3902572/) — Las Vegas Review-Journal · 07:00 PT · #us #foreign #nevada
+- [Billionaires pick sides in the 2nd Congressional District race](https://thenevadaindependent.com/article/billionaires-pick-sides-in-the-2nd-congressional-district-race/) — The Nevada Independent · 07:00 PT · #us #civic #nevada
+- [Stock up, stock down for Raiders after loss, including an emerging threat in passing game](https://www.reviewjournal.com/sports/raiders/stock-up-stock-down-for-raiders-after-loss-including-an-emerging-threat-in-passing-game-3902567/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Inside Gaming: MGM Resorts, Wynn and betting giants hit hard as gaming stocks struggle](https://www.reviewjournal.com/business/business-columns/inside-gaming/inside-gaming-mgm-resorts-wynn-and-betting-giants-hit-hard-as-gaming-stocks-struggle-3902564/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Las Vegas home sellers turn to mortgage buydowns to attract buyers](https://www.reviewjournal.com/business/housing/las-vegas-home-sellers-turn-to-mortgage-buydowns-to-attract-buyers-3902556/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada #realestate
 - [Democrats’ Musk-ask questions](https://www.politico.com/newsletters/playbook/2026/10/20/democrats-musk-ask-questions-01127679) — Playbook · 03:03 PT · #us
 - [Chabria: Why Trump's attack on California voting is false — and even a bit funny](https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny) — World & Nation · 03:00 PT · #us
+- [Driver Charged With Intentionally Injuring Australian Federal Lawmaker](https://www.huffpost.com/entry/driver-charged-australian-lawmaker-attack_n_6ad73387e4b061c2be46034b) — World News - Breaking News, Top Stories · 02:35 PT · #us
+- [Israel's Ben-Gvir Poised For Election Gains As Young Voters Turn To Far Right](https://www.huffpost.com/entry/israel-ben-gvir-poised-for-election-gains_n_6ad72baae4b061c2be45ffe5) — World News - Breaking News, Top Stories · 02:02 PT · #us #civic #foreign
 - [Where does the money stand in key Northern Nevada local government races?](https://thenevadaindependent.com/article/where-does-the-money-stand-in-key-northern-nevada-local-government-races/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [Paiutes protest NV Energy project for cutting through burial sites, triggering pause](https://thenevadaindependent.com/article/paiutes-protest-nv-energy-project-for-cutting-through-burial-sites-triggering-pause/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [College football by the odds: Vegas picks and preview of every Week 8 game](https://lasvegassun.com/news/2026/oct/20/college-football-odds-vegas-picks-spreads-week8/) — Las Vegas Sun · 02:00 PT · #us #nevada
@@ -23,6 +41,7 @@ tags: ["category", "us"]
 - [More colorectal screening options can make all the difference](https://lasvegassun.com/news/2026/oct/20/more-colorectal-screening-options-can-make-all-the/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Do your homework and vote accordingly](https://lasvegassun.com/news/2026/oct/20/do-your-homework-and-vote-accordingly/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Trump is showing again why presidents lose power so fast](https://lasvegassun.com/news/2026/oct/20/trump-is-showing-again-why-presidents-lose-power-s/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [France Calm Under Night Curfews As Government Awaits New Weekend Protests](https://www.huffpost.com/entry/france-night-curfews_n_6ad727fee4b061c2be45febf) — World News - Breaking News, Top Stories · 01:44 PT · #us
 - [Lo Explicamos: Por qué Las Vegas se está convirtiendo en imán para los cubanos](https://thenevadaindependent.com/article/lo-explicamos-por-que-las-vegas-se-esta-convirtiendo-en-iman-para-los-cubanos/) — The Nevada Independent · 01:15 PT · #us #nevada
 - [Inspirada tops slew of Nevada school rankings for second straight year](https://lasvegassun.com/news/2026/oct/20/inspirada-takes-slew-of-top-nevada-school-rankings/) — Las Vegas Sun · 00:00 PT · #us #nevada
 
@@ -45,6 +64,7 @@ tags: ["category", "us"]
 - [Moapa River tribal police investigating death of man, 20, near Las Vegas](https://www.reviewjournal.com/local/local-nevada/moapa-river-tribal-police-investigating-death-of-man-20-near-las-vegas-3902428/) — Las Vegas Review-Journal · 18:43 PT · #us #nevada
 - [Suspended Pahrump Justice of the Peace denies misusing donations during judicial discipline hearing](https://www.reviewjournal.com/news/politics-and-government/former-las-vegas-councilwoman-denies-misusing-donations-during-judicial-discipline-hearing-3902405/) — Las Vegas Review-Journal · 18:22 PT · #us #nevada
 - [Nevada’s Public Records Task Force struggles to agree on path forward](https://www.reviewjournal.com/news/politics-and-government/nevada/nevadas-public-records-task-force-struggles-to-agree-on-path-forward-3902386/) — Las Vegas Review-Journal · 18:01 PT · #us #nevada
+- [California residents accused by feds of voter fraud react with shock, confusion and anger](https://www.latimes.com/california/story/2026-10-19/california-voter-fraud-charges-defendants-react) — World & Nation · 17:52 PT · #us
 - [5 things on new Athletics head of baseball ops Taylor Smith’s to-do list](https://www.reviewjournal.com/sports/athletics/5-things-on-new-athletics-head-of-baseball-ops-taylor-smiths-to-do-list-3902380/) — Las Vegas Review-Journal · 17:43 PT · #us #nevada #smallbiz
 - [New teen driver safety initiative launches in Clark County as families urged to talk to young drivers](https://www.ktnv.com/neighborhoods/east-las-vegas/new-teen-driver-safety-initiative-launches-in-clark-county-as-families-urged-to-talk-to-young-drivers) — KTNV Las Vegas · 17:34 PT · #us #nevada
 - [Lennar development in Southern Highlands used 29.5 million gallons of water over 3 years](https://www.ktnv.com/neighborhoods/southwest-las-vegas/lennar-development-in-southern-highlands-used-29-5-million-gallons-of-water-over-3-years) — KTNV Las Vegas · 17:07 PT · #us #nevada
@@ -406,23 +426,3 @@ tags: ["category", "us"]
 - [Two critically injured in wrong-way crash on Sahara Ave., Tenaya Way](https://www.ktnv.com/news/two-critically-injured-in-wrong-way-crash-on-sahara-ave-tenaya-way) — KTNV Las Vegas · 12:31 PT · #us #nevada
 - [Las Vegas man admits to role in 'fixing' of college basketball games](https://lasvegassun.com/news/2026/oct/15/las-vegas-man-admits-to-role-in-fixing-of-college/) — Las Vegas Sun · 12:17 PT · #us #nevada
 - [Justice Dept. sues California, seeks to stop state from counting 20,000 ballots](https://www.latimes.com/politics/story/2026-10-15/justice-dept-sues-california-asks-court-to-force-state-to-stop-counting-20-000-ballots) — World & Nation · 12:04 PT · #us
-- [Man fatally shot after argument with two others, Las Vegas police say](https://lasvegassun.com/news/2026/oct/15/man-fatally-shot-after-argument-with-two-others-la/) — Las Vegas Sun · 11:29 PT · #us #nevada
-- [What we know about the body found in a barrel at Lake Mead in 2022](https://www.ktnv.com/news/what-we-know-about-the-body-found-in-a-barrel-at-lake-mead-in-2022) — KTNV Las Vegas · 11:28 PT · #us #nevada
-- [Suspect charged in death of man dropped off at hospital with gunshot wounds, Las Vegas police say](https://lasvegassun.com/news/2026/oct/15/suspect-charged-in-death-of-man-dropped-off-at-hos/) — Las Vegas Sun · 11:16 PT · #us #nevada
-- [SWAT standoff in east Las Vegas after knife assault, police say](https://www.ktnv.com/news/swat-standoff-in-east-las-vegas-after-knife-assault-police-say) — KTNV Las Vegas · 11:15 PT · #us #nevada
-- [Man in custody after reported knife assault leads to SWAT standoff in east Las Vegas](https://www.ktnv.com/news/man-in-custody-after-knife-assault-leads-to-swat-standoff-in-east-las-vegas) — KTNV Las Vegas · 11:15 PT · #us #nevada
-- [States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults](https://lasvegassun.com/news/2026/oct/15/states-sue-ai-giant-openai-saying-its-popular-chat/) — Las Vegas Sun · 11:06 PT · #us #ai #nevada
-- [College football Friday predictions: Expect Purdue to keep rolling](https://www.reviewjournal.com/sports/betting/college-football-friday-predictions-expect-purdue-to-keep-rolling-3900473/) — Las Vegas Review-Journal · 10:54 PT · #us #nevada
-- [Suspect in fatal shooting outside central Las Vegas Valley business arrested](https://www.reviewjournal.com/crime/homicides/suspect-in-fatal-shooting-outside-central-las-vegas-valley-business-arrested-3900470/) — Las Vegas Review-Journal · 10:52 PT · #us #nevada
-- [Betting: Will the NFL underdogs get enough points to make a play?](https://www.reviewjournal.com/sports/betting/betting-will-the-nfl-underdogs-get-enough-points-to-make-a-play-3900466/) — Las Vegas Review-Journal · 10:46 PT · #us #nevada
-- [Henderson SUV driver killed in single-vehicle crash](https://www.reviewjournal.com/local/henderson/henderson-suv-driver-killed-in-single-vehicle-crash-3900463/) — Las Vegas Review-Journal · 10:45 PT · #us #nevada
-- [In 100th lawsuit against Trump, California challenges immigration arrests near courthouses](https://www.latimes.com/politics/story/2026-10-15/california-files-100th-lawsuit-against-trump-administration) — World & Nation · 10:41 PT · #us
-- [College football prediction trends: Edges go to Ohio State, Tennessee](https://www.reviewjournal.com/sports/betting/college-football-prediction-trends-edges-go-to-ohio-state-tennessee-3900460/) — Las Vegas Review-Journal · 10:37 PT · #us #nevada
-- [Las Vegas police plan to release identity of man found in a barrel in Lake Mead](https://lasvegassun.com/news/2026/oct/15/las-vegas-police-plan-to-release-the-id-of-a-man-f/) — Las Vegas Sun · 10:25 PT · #us #nevada
-- [Where to vote: Midterm election voting sites in Southern Nevada](https://lasvegassun.com/news/2026/oct/15/where-to-vote-midterm-election-voting-sites-in-sou/) — Las Vegas Sun · 10:11 PT · #us #civic #nevada
-- [BBC asks judge to force Trump to sit for deposition in his own lawsuit against the channel](https://www.reviewjournal.com/news/politics-and-government/bbc-asks-judge-to-force-trump-to-sit-for-deposition-in-his-own-lawsuit-against-the-channel-3900446/) — Las Vegas Review-Journal · 09:52 PT · #us #nevada
-- [Man caught with more than 700 pounds of illicit narcotics in rural Nevada, authorities say](https://www.reviewjournal.com/crime/man-caught-with-more-than-700-pounds-of-illicit-narcotics-in-rural-nevada-authorities-say-3900441/) — Las Vegas Review-Journal · 09:31 PT · #us #nevada
-- [What’s next for Las Vegas? Paul Steelman is looking beyond gambling](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/whats-next-for-las-vegas-paul-steelman-is-looking-beyond-gambling-3900425/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
-- [Congo protests Formula 1's 'indefensible' decision to race in Rwanda](https://lasvegassun.com/news/2026/oct/15/congo-protests-formula-1s-indefensible-decision-to/) — Las Vegas Sun · 08:55 PT · #us #nevada
-- [Prince Harry, Meghan Markle Step Out For U.K. Appearance ― And It's Like Nothing's Changed](https://www.huffpost.com/entry/prince-harry-meghan-markle-uk-engagements_n_6ad0d407e4b08a0fe8562679) — World News - Breaking News, Top Stories · 08:14 PT · #us
-- [Nevadans expected to spend more on Halloween this year](https://www.reviewjournal.com/business/vegas-business/price-points/nevadans-expected-to-spend-more-on-halloween-this-year-3900405/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada

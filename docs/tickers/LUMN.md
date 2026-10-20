@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $LUMN"
-updated: 2026-10-20T05:17:59-07:00
-count: 2
+updated: 2026-10-20T10:20:07-07:00
+count: 3
 tags: ["ticker", "LUMN"]
 ---
 
 # Ticker: $LUMN
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-20
+
+- [Lumen Takes Network Resilience Beyond the Backup Plan with AI and Built-In Diversity](http://www.businesswire.com/news/home/20261020695659/en/Lumen-Takes-Network-Resilience-Beyond-the-Backup-Plan-with-AI-and-Built-In-Diversity/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 05:30 PT · #business #ai #markets $LUMN
 
 ## 2026-10-15
 

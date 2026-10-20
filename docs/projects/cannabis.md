@@ -1,16 +1,19 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-20T05:17:59-07:00
-count: 110
+updated: 2026-10-20T10:20:07-07:00
+count: 113
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-110 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+113 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-20
 
+- [Nebraska Democratic Governor Candidate Pledges Medical Marijuana Executive Order On ‘Day One’](https://www.marijuanamoment.net/nebraska-democratic-governor-candidate-pledges-medical-marijuana-executive-order-on-day-one/) — Marijuana Moment · 10:11 PT · #business #cannabis
+- [Opening Legal Marijuana Dispensaries Provides An Economic Boost For Nearby Businesses, Study Shows](https://www.marijuanamoment.net/opening-legal-marijuana-dispensaries-provides-an-economic-boost-for-nearby-businesses-study-shows/) — Marijuana Moment · 08:25 PT · #business #cannabis
+- [Massachusetts Voters Want To Keep Marijuana Sales Legal, Two New Polls On Prohibitionist Ballot Measure Show](https://www.marijuanamoment.net/massachusetts-voters-want-to-keep-marijuana-sales-legal-two-new-polls-on-prohibitionist-ballot-measure-show/) — Marijuana Moment · 06:18 PT · #business #cannabis #civic
 - [Trump Is Losing Support From Marijuana Consumers As Rescheduling Process Sees More Delays, Poll Shows](https://www.marijuanamoment.net/trump-is-losing-support-from-marijuana-consumers-as-rescheduling-process-sees-more-delays-poll-shows/) — Marijuana Moment · 05:05 PT · #business #cannabis
 - [Military veterans support legalizing cannabis, poll shows (Newsletter: October 20, 2026)](https://www.marijuanamoment.net/military-veterans-support-legalizing-cannabis-poll-shows-newsletter-october-20-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis #civic #foreign #media
 

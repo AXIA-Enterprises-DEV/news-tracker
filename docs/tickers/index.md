@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-20T05:17:59-07:00
+updated: 2026-10-20T10:20:07-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -10,10 +10,11 @@ tags: ["tickers"]
 - [$NTCT](NTCT.md) — 8 items
 - [$VG](VG.md) — 6 items
 - [$LSCC](LSCC.md) — 6 items
+- [$CALX](CALX.md) — 5 items
+- [$NET](NET.md) — 5 items
+- [$III](III.md) — 5 items
 - [$RMNI](RMNI.md) — 5 items
-- [$NET](NET.md) — 4 items
-- [$CALX](CALX.md) — 4 items
-- [$III](III.md) — 4 items
+- [$LUMN](LUMN.md) — 3 items
 - [$ASTS](ASTS.md) — 3 items
 - [$MRP](MRP.md) — 3 items
 - [$YSS](YSS.md) — 3 items
@@ -22,6 +23,7 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$DOCN](DOCN.md) — 2 items
 - [$HBCP](HBCP.md) — 2 items
 - [$CCB](CCB.md) — 2 items
 - [$CC](CC.md) — 2 items
@@ -47,15 +49,22 @@ tags: ["tickers"]
 - [$VISN](VISN.md) — 2 items
 - [$ERIC](ERIC.md) — 2 items
 - [$LMT](LMT.md) — 2 items
-- [$LUMN](LUMN.md) — 2 items
 - [$IONQ](IONQ.md) — 2 items
 - [$C](C.md) — 2 items
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
-- [$DOCN](DOCN.md) — 1 items
+- [$BBD](BBD.md) — 1 items
+- [$KDK](KDK.md) — 1 items
+- [$KVYO](KVYO.md) — 1 items
+- [$VOYA](VOYA.md) — 1 items
+- [$ROK](ROK.md) — 1 items
+- [$HCTI](HCTI.md) — 1 items
+- [$AMBQ](AMBQ.md) — 1 items
+- [$XPER](XPER.md) — 1 items
 - [$RVTY](RVTY.md) — 1 items
 - [$GUER](GUER.md) — 1 items
+- [$CYD](CYD.md) — 1 items
 - [$HTZ](HTZ.md) — 1 items
 - [$CBRE](CBRE.md) — 1 items
 - [$ULS](ULS.md) — 1 items
@@ -298,12 +307,3 @@ tags: ["tickers"]
 - [$FSLY](FSLY.md) — 1 items
 - [$ICE](ICE.md) — 1 items
 - [$AIRG](AIRG.md) — 1 items
-- [$UPBD](UPBD.md) — 1 items
-- [$ADM](ADM.md) — 1 items
-- [$PENG](PENG.md) — 1 items
-- [$QXO](QXO.md) — 1 items
-- [$TBCH](TBCH.md) — 1 items
-- [$ASX](ASX.md) — 1 items
-- [$LPX](LPX.md) — 1 items
-- [$RILY](RILY.md) — 1 items
-- [$VLY](VLY.md) — 1 items
