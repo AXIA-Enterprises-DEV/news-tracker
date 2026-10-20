@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-20T13:43:20-07:00
+updated: 2026-10-20T16:28:00-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -24,6 +24,7 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$BR](BR.md) — 2 items
 - [$AWK](AWK.md) — 2 items
 - [$FTK](FTK.md) — 2 items
 - [$JELD](JELD.md) — 2 items
@@ -61,12 +62,19 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$RYDE](RYDE.md) — 1 items
+- [$AHT](AHT.md) — 1 items
+- [$BAC](BAC.md) — 1 items
+- [$XTIA](XTIA.md) — 1 items
+- [$WISH](WISH.md) — 1 items
+- [$WPNDF](WPNDF.md) — 1 items
+- [$NTGR](NTGR.md) — 1 items
+- [$NEGG](NEGG.md) — 1 items
 - [$OVBC](OVBC.md) — 1 items
 - [$GT](GT.md) — 1 items
 - [$MSA](MSA.md) — 1 items
 - [$DAN](DAN.md) — 1 items
 - [$ELS](ELS.md) — 1 items
-- [$BR](BR.md) — 1 items
 - [$AMGN](AMGN.md) — 1 items
 - [$TREE](TREE.md) — 1 items
 - [$HGTY](HGTY.md) — 1 items
@@ -299,11 +307,3 @@ tags: ["tickers"]
 - [$ANDE](ANDE.md) — 1 items
 - [$O](O.md) — 1 items
 - [$TXG](TXG.md) — 1 items
-- [$STX](STX.md) — 1 items
-- [$RBBN](RBBN.md) — 1 items
-- [$INBX](INBX.md) — 1 items
-- [$CRUS](CRUS.md) — 1 items
-- [$U](U.md) — 1 items
-- [$NLY](NLY.md) — 1 items
-- [$KRMN](KRMN.md) — 1 items
-- [$FSLR](FSLR.md) — 1 items

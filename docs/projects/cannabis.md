@@ -1,16 +1,20 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-20T13:43:20-07:00
-count: 115
+updated: 2026-10-20T16:28:00-07:00
+count: 119
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-115 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+119 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-20
 
+- [Poor state oversight let potentially contaminated cannabis reach Colorado consumers, audit finds](https://mjbizdaily.com/news/lax-oversight-and-slow-enforcement-allowed-let-colorado-cannabis-products-reach-consumers-state-audit-finds/618759/) — MJBizDaily · 15:21 PT · #business #cannabis #smallbiz
+- [Missouri’s legal cannabis market captures 93% of consumer spending](https://mjbizdaily.com/news/missouris-legal-cannabis-market-captures-93-of-sales/618746/) — MJBizDaily · 14:47 PT · #business #cannabis #smallbiz
+- [Lava Cake Strain Guide Examines Breeder Attribution, Lineage and Historical Lab Results - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMiigJBVV95cUxPYUlnMWtfVS1JVlhEVXRDb05Ma0Y4R2l3Z3ppUTh5UlJYY0VmNnY5MzN5Q1N1M0prbWJycHNLZ285cDY4aEhjT3JYa3B1eFU0ejVlcDB3U0dMbnVlQ3drWjVpbC1KZHZtY2dNYUYxOUt3NldYOHE2aGUtak5sc1I2Zm9XZmstVkxEdTAzdy1SOVJRRnIxT2FiaVY5ZU5qM0RKU1RUN2JwVWVIeU5YNzJTejEzd3dNRWx3U3Z0RWRZZXJSMkppb21IVm0zcFNlcFJ5djNxLUlaZ1lncVUyUUY0cHBseTVtVERZZmtBMlNDSkRKY3NNS2QwbWRLeVFYVWlRdDVuaW01MVl0QQ?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:32 PT · #business #cannabis
+- [How to tell if cannabis contracts are at risk of being declared invalid](https://mjbizdaily.com/news/how-to-tell-if-cannabis-contracts-are-at-risk-of-being-declared-invalid-in-federal-court/618749/) — MJBizDaily · 13:48 PT · #business #cannabis #smallbiz
 - [Colorado’s Marijuana Product Testing Rules Have Safety Gaps, State Audit Finds](https://www.marijuanamoment.net/colorados-marijuana-product-testing-rules-have-safety-gaps-state-audit-finds/) — Marijuana Moment · 13:09 PT · #business #cannabis
 - [Hemp Businesses Are About To Learn What Marijuana Operators Already Know: Payroll Can Disappear Overnight (Op-Ed)](https://www.marijuanamoment.net/hemp-businesses-are-about-to-learn-what-marijuana-operators-already-know-payroll-can-disappear-overnight-op-ed/) — Marijuana Moment · 11:36 PT · #business #cannabis
 - [Nebraska Democratic Governor Candidate Pledges Medical Marijuana Executive Order On ‘Day One’](https://www.marijuanamoment.net/nebraska-democratic-governor-candidate-pledges-medical-marijuana-executive-order-on-day-one/) — Marijuana Moment · 10:11 PT · #business #cannabis

@@ -1,6 +1,6 @@
 ---
 title: "Category: filings"
-updated: 2026-10-20T13:43:20-07:00
+updated: 2026-10-20T16:28:00-07:00
 count: 400
 tags: ["category", "filings"]
 ---
@@ -11,6 +11,80 @@ tags: ["category", "filings"]
 
 ## 2026-10-20
 
+- [4 - Bono Raquel C. (0001823759) (Reporting)](https://www.sec.gov/Archives/edgar/data/1823759/000143774926033037/0001437749-26-033037-index.htm) — SEC EDGAR All Filings · 16:04 PT · #filings #markets
+- [3 - Bono Raquel C. (0001823759) (Reporting)](https://www.sec.gov/Archives/edgar/data/1823759/000143774926033036/0001437749-26-033036-index.htm) — SEC EDGAR All Filings · 16:04 PT · #filings #markets
+- [3/A - Harris Ronan (0002156232) (Reporting)](https://www.sec.gov/Archives/edgar/data/2156232/000215623226000002/0002156232-26-000002-index.htm) — SEC EDGAR All Filings · 16:00 PT · #filings #markets
+- [4 - Rosen Tami (0001970282) (Reporting)](https://www.sec.gov/Archives/edgar/data/1970282/000162828026066577/0001628280-26-066577-index.htm) — SEC EDGAR All Filings · 15:53 PT · #filings #markets
+- [3 - TruGolf Holdings, Inc. (0001857086) (Issuer)](https://www.sec.gov/Archives/edgar/data/1857086/000113483526000008/0001134835-26-000008-index.htm) — SEC EDGAR All Filings · 15:51 PT · #filings #markets
+- [4 - Evans Jim (0001642276) (Reporting)](https://www.sec.gov/Archives/edgar/data/1642276/000110465926117510/0001104659-26-117510-index.htm) — SEC EDGAR All Filings · 15:45 PT · #filings #markets
+- [4 - Brown Brian Michael (0001865783) (Reporting)](https://www.sec.gov/Archives/edgar/data/1865783/000143774926033033/0001437749-26-033033-index.htm) — SEC EDGAR All Filings · 15:45 PT · #filings #markets
+- [4 - Guidry Gary (0001642424) (Reporting)](https://www.sec.gov/Archives/edgar/data/1642424/000110465926117509/0001104659-26-117509-index.htm) — SEC EDGAR All Filings · 15:44 PT · #filings #markets
+- [4 - Abraham Phillip D (0001977506) (Reporting)](https://www.sec.gov/Archives/edgar/data/1977506/000110465926117507/0001104659-26-117507-index.htm) — SEC EDGAR All Filings · 15:43 PT · #filings #markets
+- [4 - Morin Sebastien (0002001396) (Reporting)](https://www.sec.gov/Archives/edgar/data/2001396/000110465926117506/0001104659-26-117506-index.htm) — SEC EDGAR All Filings · 15:42 PT · #filings #markets
+- [4 - POSEDEL RHEA J (0001055117) (Reporting)](https://www.sec.gov/Archives/edgar/data/1055117/000104047026000309/0001040470-26-000309-index.htm) — SEC EDGAR All Filings · 15:40 PT · #filings #markets
+- [4 - Montagner Marc (0001456823) (Reporting)](https://www.sec.gov/Archives/edgar/data/1456823/000145682326000012/0001456823-26-000012-index.htm) — SEC EDGAR All Filings · 15:30 PT · #filings #markets
+- [4 - Martin Lynn C (0001754817) (Reporting)](https://www.sec.gov/Archives/edgar/data/1754817/000071995526000229/0000719955-26-000229-index.htm) — SEC EDGAR All Filings · 15:29 PT · #filings #markets
+- [3 - Martin Lynn C (0001754817) (Reporting)](https://www.sec.gov/Archives/edgar/data/1754817/000071995526000227/0000719955-26-000227-index.htm) — SEC EDGAR All Filings · 15:20 PT · #filings #markets
+- [4 - Bagga Atul Madan Mohan (0002129766) (Reporting)](https://www.sec.gov/Archives/edgar/data/2129766/000162828026066575/0001628280-26-066575-index.htm) — SEC EDGAR All Filings · 15:20 PT · #filings #markets
+- [4 - Raab Andrew John (0001560034) (Reporting)](https://www.sec.gov/Archives/edgar/data/1560034/000162828026066574/0001628280-26-066574-index.htm) — SEC EDGAR All Filings · 15:19 PT · #filings #markets
+- [3 - Raab Andrew John (0001560034) (Reporting)](https://www.sec.gov/Archives/edgar/data/1560034/000162828026066573/0001628280-26-066573-index.htm) — SEC EDGAR All Filings · 15:16 PT · #filings #markets
+- [4 - Fitzgerald Scott Michael (0002063059) (Reporting)](https://www.sec.gov/Archives/edgar/data/2063059/000162828026066572/0001628280-26-066572-index.htm) — SEC EDGAR All Filings · 15:14 PT · #filings #markets
+- [4 - Swenson Christopher C. (0001880166) (Reporting)](https://www.sec.gov/Archives/edgar/data/1880166/000162828026066571/0001628280-26-066571-index.htm) — SEC EDGAR All Filings · 15:13 PT · #filings #markets
+- [4 - James Constance P. (0001887204) (Reporting)](https://www.sec.gov/Archives/edgar/data/1887204/000162828026066570/0001628280-26-066570-index.htm) — SEC EDGAR All Filings · 15:12 PT · #filings #markets
+- [4 - Baker Eric Howard (0001899243) (Reporting)](https://www.sec.gov/Archives/edgar/data/1899243/000162828026066567/0001628280-26-066567-index.htm) — SEC EDGAR All Filings · 15:12 PT · #filings #markets
+- [4 - Comstock Brian J (0001737944) (Reporting)](https://www.sec.gov/Archives/edgar/data/1737944/000092312026000022/0000923120-26-000022-index.htm) — SEC EDGAR All Filings · 15:12 PT · #filings #markets
+- [4 - Donfris Michael J (0002026106) (Reporting)](https://www.sec.gov/Archives/edgar/data/2026106/000092312026000021/0000923120-26-000021-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
+- [4 - Dornan Laurie R (0001961417) (Reporting)](https://www.sec.gov/Archives/edgar/data/1961417/000092312026000020/0000923120-26-000020-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
+- [4 - Glenn William (0001406328) (Reporting)](https://www.sec.gov/Archives/edgar/data/1406328/000092312026000019/0000923120-26-000019-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
+- [4 - Krueger William J. (0001575836) (Reporting)](https://www.sec.gov/Archives/edgar/data/1575836/000092312026000018/0000923120-26-000018-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
+- [4 - Lucky Christian (0002007415) (Reporting)](https://www.sec.gov/Archives/edgar/data/2007415/000092312026000017/0000923120-26-000017-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
+- [4 - Islam Nayaab (0002059741) (Reporting)](https://www.sec.gov/Archives/edgar/data/2059741/000162828026066566/0001628280-26-066566-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
+- [4 - Meyer Matthew Joseph (0001797155) (Reporting)](https://www.sec.gov/Archives/edgar/data/1797155/000092312026000016/0000923120-26-000016-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
+- [4 - Tekorius Lorie (0001418143) (Reporting)](https://www.sec.gov/Archives/edgar/data/1418143/000092312026000015/0000923120-26-000015-index.htm) — SEC EDGAR All Filings · 15:10 PT · #filings #markets
+- [4 - Streams Mark (0001885900) (Reporting)](https://www.sec.gov/Archives/edgar/data/1885900/000162828026066565/0001628280-26-066565-index.htm) — SEC EDGAR All Filings · 15:10 PT · #filings #markets
+- [4 - Garthwaite Michael P. (0002080127) (Reporting)](https://www.sec.gov/Archives/edgar/data/2080127/000150630726000128/0001506307-26-000128-index.htm) — SEC EDGAR All Filings · 15:09 PT · #filings #markets
+- [SCHEDULE 13D/A - INVESTMENTS AKA, LLC (0001501681) (Filed by)](https://www.sec.gov/Archives/edgar/data/1501681/000147237526000224/0001472375-26-000224-index.htm) — SEC EDGAR All Filings · 15:08 PT · #filings #markets
+- [4 - Yegorov Artem (0002027961) (Reporting)](https://www.sec.gov/Archives/edgar/data/2027961/000162828026066564/0001628280-26-066564-index.htm) — SEC EDGAR All Filings · 15:08 PT · #filings #markets
+- [SCHEDULE 13D/A - Xponential Fitness, Inc. (0001802156) (Subject)](https://www.sec.gov/Archives/edgar/data/1802156/000092189526002831/0000921895-26-002831-index.htm) — SEC EDGAR All Filings · 15:05 PT · #filings #markets
+- [4 - Bielli Gregory S. (0001597159) (Reporting)](https://www.sec.gov/Archives/edgar/data/1597159/000119312526426908/0001193125-26-426908-index.htm) — SEC EDGAR All Filings · 15:05 PT · #filings #markets
+- [4 - McCall Jeffrey Joseph (0001522228) (Reporting)](https://www.sec.gov/Archives/edgar/data/1522228/000119312526426906/0001193125-26-426906-index.htm) — SEC EDGAR All Filings · 15:04 PT · #filings #markets
+- [4 - Skydance Corp (0002041610) (Issuer)](https://www.sec.gov/Archives/edgar/data/2041610/000089534526000470/0000895345-26-000470-index.htm) — SEC EDGAR All Filings · 15:00 PT · #filings #markets
+- [SEC STAFF ACTION - Gunnison Copper Corp. (0001514860) (Filer)](https://www.sec.gov/Archives/edgar/data/1514860/999999999726001646/9999999997-26-001646-index.htm) — SEC EDGAR All Filings · 15:00 PT · #filings #markets
+- [4 - METCALFE NORMAN J (0001214407) (Reporting)](https://www.sec.gov/Archives/edgar/data/1214407/000119312526426899/0001193125-26-426899-index.htm) — SEC EDGAR All Filings · 14:59 PT · #filings #markets
+- [144 - Ibotta, Inc. (0001538379) (Subject)](https://www.sec.gov/Archives/edgar/data/1538379/000195824426000668/0001958244-26-000668-index.htm) — SEC EDGAR All Filings · 14:58 PT · #filings #markets
+- [4 - INVESTMENTS AKA, LLC (0001501681) (Reporting)](https://www.sec.gov/Archives/edgar/data/1501681/000147237526000222/0001472375-26-000222-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
+- [SCHEDULE 13G - Blue Bird Corp (0001589526) (Subject)](https://www.sec.gov/Archives/edgar/data/1589526/000110465926117499/0001104659-26-117499-index.htm) — SEC EDGAR All Filings · 14:57 PT · #filings #markets
+- [4 - Soares Karen (0001999086) (Reporting)](https://www.sec.gov/Archives/edgar/data/1999086/000199908626000034/0001999086-26-000034-index.htm) — SEC EDGAR All Filings · 14:56 PT · #filings #markets
+- [4 - SPERON ERIC H. (0001664559) (Reporting)](https://www.sec.gov/Archives/edgar/data/1664559/000119312526426898/0001193125-26-426898-index.htm) — SEC EDGAR All Filings · 14:56 PT · #filings #markets
+- [4 - Gammon Denise A (0002052820) (Reporting)](https://www.sec.gov/Archives/edgar/data/2052820/000119312526426896/0001193125-26-426896-index.htm) — SEC EDGAR All Filings · 14:56 PT · #filings #markets
+- [4 - Magnani Alexandre Mr (0002120783) (Reporting)](https://www.sec.gov/Archives/edgar/data/2120783/000155485526002140/0001554855-26-002140-index.htm) — SEC EDGAR All Filings · 14:54 PT · #filings #markets
+- [4 - Leggio Anthony L. (0001441799) (Reporting)](https://www.sec.gov/Archives/edgar/data/1441799/000119312526426895/0001193125-26-426895-index.htm) — SEC EDGAR All Filings · 14:54 PT · #filings #markets
+- [4 - Betts Steven A. (0001619867) (Reporting)](https://www.sec.gov/Archives/edgar/data/1619867/000119312526426894/0001193125-26-426894-index.htm) — SEC EDGAR All Filings · 14:53 PT · #filings #markets
+- [8-K/A - Aspire-Lakewood Holdings, Inc. (0001847345) (Filer)](https://www.sec.gov/Archives/edgar/data/1847345/000149315226047801/0001493152-26-047801-index.htm) — SEC EDGAR 8-K · 14:31 PT · #filings #item-1.01 #markets
+- [8-K - Sports Entertainment Gaming Global Corp (0001673481) (Filer)](https://www.sec.gov/Archives/edgar/data/1673481/000149315226047798/0001493152-26-047798-index.htm) — SEC EDGAR 8-K · 14:28 PT · #filings #markets
+- [8-K - Chubb Ltd (0000896159) (Filer)](https://www.sec.gov/Archives/edgar/data/896159/000119312526426866/0001193125-26-426866-index.htm) — SEC EDGAR 8-K · 14:24 PT · #filings #markets
+- [8-K - Healthcare AI Acquisition Corp. (0001848861) (Filer)](https://www.sec.gov/Archives/edgar/data/1848861/000147793226006353/0001477932-26-006353-index.htm) — SEC EDGAR 8-K · 14:21 PT · #filings #ai #markets
+- [8-K - DoubleVerify Holdings, Inc. (0001819928) (Filer)](https://www.sec.gov/Archives/edgar/data/1819928/000110465926117471/0001104659-26-117471-index.htm) — SEC EDGAR 8-K · 14:21 PT · #filings #markets
+- [8-K - HUNTINGTON INGALLS INDUSTRIES, INC. (0001501585) (Filer)](https://www.sec.gov/Archives/edgar/data/1501585/000150158526000050/0001501585-26-000050-index.htm) — SEC EDGAR 8-K · 14:12 PT · #filings #civic #markets
+- [8-K - ESG Inc. (0001883835) (Filer)](https://www.sec.gov/Archives/edgar/data/1883835/000152013826000427/0001520138-26-000427-index.htm) — SEC EDGAR 8-K · 14:10 PT · #filings #item-1.01 #civic #markets
+- [8-K - Apollo Debt Solutions BDC (0001837532) (Filer)](https://www.sec.gov/Archives/edgar/data/1837532/000119312526426842/0001193125-26-426842-index.htm) — SEC EDGAR 8-K · 14:09 PT · #filings #markets
+- [8-K - ALASKA AIR GROUP, INC. (0000766421) (Filer)](https://www.sec.gov/Archives/edgar/data/766421/000076642126000046/0000766421-26-000046-index.htm) — SEC EDGAR 8-K · 14:09 PT · #filings #markets
+- [8-K - LanzaTech Global, Inc. (0001843724) (Filer)](https://www.sec.gov/Archives/edgar/data/1843724/000162828026066526/0001628280-26-066526-index.htm) — SEC EDGAR 8-K · 14:06 PT · #filings #item-1.01 #markets
+- [8-K - Surrozen, Inc./DE (0001824893) (Filer)](https://www.sec.gov/Archives/edgar/data/1824893/000119312526426828/0001193125-26-426828-index.htm) — SEC EDGAR 8-K · 14:04 PT · #filings #markets
+- [8-K - CBRE GROUP, INC. (0001138118) (Filer)](https://www.sec.gov/Archives/edgar/data/1138118/000119312526426827/0001193125-26-426827-index.htm) — SEC EDGAR 8-K · 14:04 PT · #filings #markets
+- [8-K - AEHR TEST SYSTEMS (0001040470) (Filer)](https://www.sec.gov/Archives/edgar/data/1040470/000165495426009056/0001654954-26-009056-index.htm) — SEC EDGAR 8-K · 14:04 PT · #filings #markets
+- [8-K - Silvia, Inc. (0002076163) (Filer)](https://www.sec.gov/Archives/edgar/data/2076163/000149315226047785/0001493152-26-047785-index.htm) — SEC EDGAR 8-K · 14:01 PT · #filings #civic #markets
+- [8-K - SAN JUAN BASIN ROYALTY TRUST (0000319655) (Filer)](https://www.sec.gov/Archives/edgar/data/319655/000119312526426824/0001193125-26-426824-index.htm) — SEC EDGAR 8-K · 14:01 PT · #filings #markets
+- [8-K - NORTHPOINTE BANCSHARES INC (0001336706) (Filer)](https://www.sec.gov/Archives/edgar/data/1336706/000133670626000072/0001336706-26-000072-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #markets
+- [8-K - HUGOTON ROYALTY TRUST (0000862022) (Filer)](https://www.sec.gov/Archives/edgar/data/862022/000119312526426823/0001193125-26-426823-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #markets
+- [8-K - Next Bridge Hydrocarbons, Inc. (0001936756) (Filer)](https://www.sec.gov/Archives/edgar/data/1936756/000119983526000379/0001199835-26-000379-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #item-1.01 #markets
+- [8-K - DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)](https://www.sec.gov/Archives/edgar/data/1396536/000107997326001379/0001079973-26-001379-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #markets
+- [8-K - NexMetals Mining Corp. (0000795800) (Filer)](https://www.sec.gov/Archives/edgar/data/795800/000149315226047782/0001493152-26-047782-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #markets
+- [8-K - ENTRAVISION COMMUNICATIONS CORP (0001109116) (Filer)](https://www.sec.gov/Archives/edgar/data/1109116/000119312526426819/0001193125-26-426819-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #civic #markets
+- [8-K - Inhibikase Therapeutics, Inc. (0001750149) (Filer)](https://www.sec.gov/Archives/edgar/data/1750149/000119312526426811/0001193125-26-426811-index.htm) — SEC EDGAR 8-K · 13:57 PT · #filings #civic #markets
+- [8-K - Monroe Capital Enhanced Corporate Lending Fund (0002061670) (Filer)](https://www.sec.gov/Archives/edgar/data/2061670/000206167026000094/0002061670-26-000094-index.htm) — SEC EDGAR 8-K · 13:51 PT · #filings #markets
+- [8-K - Apollo Global Management, Inc. (0001858681) (Filer)](https://www.sec.gov/Archives/edgar/data/1858681/000095014226002794/0000950142-26-002794-index.htm) — SEC EDGAR 8-K · 13:47 PT · #filings #civic #markets
+- [8-K - SHF Holdings, Inc. (0001854963) (Filer)](https://www.sec.gov/Archives/edgar/data/1854963/000149315226047774/0001493152-26-047774-index.htm) — SEC EDGAR 8-K · 13:45 PT · #filings #markets
 - [4 - Hatch Anthony Derek (0002068362) (Reporting)](https://www.sec.gov/Archives/edgar/data/2068362/000119312526426784/0001193125-26-426784-index.htm) — SEC EDGAR All Filings · 13:41 PT · #filings #markets
 - [N-CSRS/A - KINETICS PORTFOLIOS TRUST (0001113229) (Filer)](https://www.sec.gov/Archives/edgar/data/1113229/000113322826013413/0001133228-26-013413-index.htm) — SEC EDGAR All Filings · 13:41 PT · #filings #markets
 - [13F-HR - BLUE JEAN FINANCIAL LLC (0002047089) (Filer)](https://www.sec.gov/Archives/edgar/data/2047089/000195175726001716/0001951757-26-001716-index.htm) — SEC EDGAR All Filings · 13:41 PT · #filings #markets
@@ -340,77 +414,3 @@ tags: ["category", "filings"]
 - [8-K - Chord Energy Corp (0001486159) (Filer)](https://www.sec.gov/Archives/edgar/data/1486159/000148615926000037/0001486159-26-000037-index.htm) — SEC EDGAR 8-K · 14:27 PT · #filings #civic #markets
 - [8-K - Phunware, Inc. (0001665300) (Filer)](https://www.sec.gov/Archives/edgar/data/1665300/000119312526425396/0001193125-26-425396-index.htm) — SEC EDGAR 8-K · 14:27 PT · #filings #markets
 - [8-K - TREASURE GLOBAL INC (0001905956) (Filer)](https://www.sec.gov/Archives/edgar/data/1905956/000121390026110755/0001213900-26-110755-index.htm) — SEC EDGAR 8-K · 14:25 PT · #filings #item-1.01 #markets
-- [8-K - Venu Holding Corp (0001770501) (Filer)](https://www.sec.gov/Archives/edgar/data/1770501/000149315226047620/0001493152-26-047620-index.htm) — SEC EDGAR 8-K · 14:20 PT · #filings #civic #markets
-- [8-K - Bunker Hill Mining Corp. (0001407583) (Filer)](https://www.sec.gov/Archives/edgar/data/1407583/000149315226047619/0001493152-26-047619-index.htm) — SEC EDGAR 8-K · 14:18 PT · #filings #markets
-- [8-K - STANDEX INTERNATIONAL CORP/DE/ (0000310354) (Filer)](https://www.sec.gov/Archives/edgar/data/310354/000143774926032947/0001437749-26-032947-index.htm) — SEC EDGAR 8-K · 14:17 PT · #filings #civic #markets
-- [8-K - Tradeweb Markets Inc. (0001758730) (Filer)](https://www.sec.gov/Archives/edgar/data/1758730/000119312526425378/0001193125-26-425378-index.htm) — SEC EDGAR 8-K · 14:17 PT · #filings #item-1.01 #markets
-- [8-K - LXP Industrial Trust (0000910108) (Filer)](https://www.sec.gov/Archives/edgar/data/910108/000110465926116950/0001104659-26-116950-index.htm) — SEC EDGAR 8-K · 14:15 PT · #filings #markets
-- [8-K - Curanex Pharmaceuticals Inc (0002025942) (Filer)](https://www.sec.gov/Archives/edgar/data/2025942/000149315226047614/0001493152-26-047614-index.htm) — SEC EDGAR 8-K · 14:15 PT · #filings #markets
-- [8-K - CITY THERAPEUTICS, INC. (0002143850) (Filer)](https://www.sec.gov/Archives/edgar/data/2143850/000110465926116947/0001104659-26-116947-index.htm) — SEC EDGAR 8-K · 14:11 PT · #filings #markets
-- [8-K - La Rosa Holdings Corp. (0001879403) (Filer)](https://www.sec.gov/Archives/edgar/data/1879403/000121390026110734/0001213900-26-110734-index.htm) — SEC EDGAR 8-K · 14:10 PT · #filings #markets
-- [8-K - Rocky Mountain Chocolate Factory, Inc. (0001616262) (Filer)](https://www.sec.gov/Archives/edgar/data/1616262/000121390026110733/0001213900-26-110733-index.htm) — SEC EDGAR 8-K · 14:10 PT · #filings #item-1.01 #markets
-- [8-K - Allegiant Travel CO (0001362468) (Filer)](https://www.sec.gov/Archives/edgar/data/1362468/000136246826000053/0001362468-26-000053-index.htm) — SEC EDGAR 8-K · 14:09 PT · #filings #markets
-- [8-K - SMARTFINANCIAL INC. (0001038773) (Filer)](https://www.sec.gov/Archives/edgar/data/1038773/000110465926116936/0001104659-26-116936-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #markets
-- [8-K - Stardust Power Inc. (0001831979) (Filer)](https://www.sec.gov/Archives/edgar/data/1831979/000149315226047607/0001493152-26-047607-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #civic #markets
-- [8-K - GETTY REALTY CORP /MD/ (0001052752) (Filer)](https://www.sec.gov/Archives/edgar/data/1052752/000119312526425357/0001193125-26-425357-index.htm) — SEC EDGAR 8-K · 14:00 PT · #filings #item-1.01 #markets
-- [8-K - TCGX Acquisition Corp. II (0002149916) (Filer)](https://www.sec.gov/Archives/edgar/data/2149916/000119312526425355/0001193125-26-425355-index.htm) — SEC EDGAR 8-K · 13:58 PT · #filings #item-1.01 #civic #markets
-- [8-K - 3M CO (0000066740) (Filer)](https://www.sec.gov/Archives/edgar/data/66740/000006674026000303/0000066740-26-000303-index.htm) — SEC EDGAR 8-K · 13:55 PT · #filings #markets
-- [8-K - USCB FINANCIAL HOLDINGS, INC. (0001901637) (Filer)](https://www.sec.gov/Archives/edgar/data/1901637/000092708926000176/0000927089-26-000176-index.htm) — SEC EDGAR 8-K · 13:55 PT · #filings #markets
-- [8-K - Soluna Holdings, Inc (0000064463) (Filer)](https://www.sec.gov/Archives/edgar/data/64463/000149315226047604/0001493152-26-047604-index.htm) — SEC EDGAR 8-K · 13:54 PT · #filings #markets
-- [8-K - WINTRUST FINANCIAL CORP (0001015328) (Filer)](https://www.sec.gov/Archives/edgar/data/1015328/000101532826000026/0001015328-26-000026-index.htm) — SEC EDGAR 8-K · 13:52 PT · #filings #markets
-- [8-K - AES CORP (0000874761) (Filer)](https://www.sec.gov/Archives/edgar/data/874761/000114036126040117/0001140361-26-040117-index.htm) — SEC EDGAR 8-K · 13:51 PT · #filings #markets
-- [8-K - VenHub Global, Inc. (0001972234) (Filer)](https://www.sec.gov/Archives/edgar/data/1972234/000121390026110715/0001213900-26-110715-index.htm) — SEC EDGAR 8-K · 13:51 PT · #filings #item-1.01 #markets
-- [8-K - CytoDyn Inc. (0001175680) (Filer)](https://www.sec.gov/Archives/edgar/data/1175680/000117568026000038/0001175680-26-000038-index.htm) — SEC EDGAR 8-K · 13:50 PT · #filings #civic #markets
-- [8-K - Nuveen Variable Rate Preferred & Income Fund (0001865389) (Filer)](https://www.sec.gov/Archives/edgar/data/1865389/000199937126023078/0001999371-26-023078-index.htm) — SEC EDGAR 8-K · 13:47 PT · #filings #markets
-- [8-K - RBB Bancorp (0001499422) (Filer)](https://www.sec.gov/Archives/edgar/data/1499422/000162828026066329/0001628280-26-066329-index.htm) — SEC EDGAR 8-K · 13:47 PT · #filings #markets
-- [8-K - Usio, Inc. (0001088034) (Filer)](https://www.sec.gov/Archives/edgar/data/1088034/000143774926032944/0001437749-26-032944-index.htm) — SEC EDGAR 8-K · 13:46 PT · #filings #markets
-- [8-K - HOME BANCORP, INC. (0001436425) (Filer)](https://www.sec.gov/Archives/edgar/data/1436425/000162828026066322/0001628280-26-066322-index.htm) — SEC EDGAR 8-K · 13:43 PT · #filings #civic #markets
-- [8-K - ProPetro Holding Corp. (0001680247) (Filer)](https://www.sec.gov/Archives/edgar/data/1680247/000168024726000116/0001680247-26-000116-index.htm) — SEC EDGAR 8-K · 13:43 PT · #filings #civic #markets
-- [8-K - Service Properties Trust (0000945394) (Filer)](https://www.sec.gov/Archives/edgar/data/945394/000110465926116919/0001104659-26-116919-index.htm) — SEC EDGAR 8-K · 13:42 PT · #filings #markets
-- [8-K - Chefs' Warehouse, Inc. (0001517175) (Filer)](https://www.sec.gov/Archives/edgar/data/1517175/000151717526000030/0001517175-26-000030-index.htm) — SEC EDGAR 8-K · 13:42 PT · #filings #item-1.01 #markets
-- [8-K - BALL Corp (0000009389) (Filer)](https://www.sec.gov/Archives/edgar/data/9389/000110465926116918/0001104659-26-116918-index.htm) — SEC EDGAR 8-K · 13:41 PT · #filings #civic #markets
-- [8-K - Eva Live Inc (0001983736) (Filer)](https://www.sec.gov/Archives/edgar/data/1983736/000149315226047596/0001493152-26-047596-index.htm) — SEC EDGAR 8-K · 13:40 PT · #filings #markets
-- [8-K - Mineralys Therapeutics, Inc. (0001933414) (Filer)](https://www.sec.gov/Archives/edgar/data/1933414/000193341426000125/0001933414-26-000125-index.htm) — SEC EDGAR 8-K · 13:37 PT · #filings #civic #markets
-- [8-K - Permianville Royalty Trust (0001520048) (Filer)](https://www.sec.gov/Archives/edgar/data/1520048/000110465926116914/0001104659-26-116914-index.htm) — SEC EDGAR 8-K · 13:33 PT · #filings #markets
-- [8-K - JELD-WEN Holding, Inc. (0001674335) (Filer)](https://www.sec.gov/Archives/edgar/data/1674335/000167433526000129/0001674335-26-000129-index.htm) — SEC EDGAR 8-K · 13:33 PT · #filings #civic #markets
-- [8-K - Installed Building Products, Inc. (0001580905) (Filer)](https://www.sec.gov/Archives/edgar/data/1580905/000162828026066316/0001628280-26-066316-index.htm) — SEC EDGAR 8-K · 13:32 PT · #filings #markets
-- [8-K - LEAR CORP (0000842162) (Filer)](https://www.sec.gov/Archives/edgar/data/842162/000084216226000084/0000842162-26-000084-index.htm) — SEC EDGAR 8-K · 13:31 PT · #filings #civic #markets
-- [8-K - FIRST UNITED CORP/MD/ (0000763907) (Filer)](https://www.sec.gov/Archives/edgar/data/763907/000110465926116913/0001104659-26-116913-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #markets
-- [8-K - MEDALLION FINANCIAL CORP (0001000209) (Filer)](https://www.sec.gov/Archives/edgar/data/1000209/000114036126040112/0001140361-26-040112-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #item-1.01 #markets
-- [8-K - MATRIX SERVICE CO (0000866273) (Filer)](https://www.sec.gov/Archives/edgar/data/866273/000086627326000067/0000866273-26-000067-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #civic #markets
-- [8-K - Jaguar Uranium Corp. (0002039273) (Filer)](https://www.sec.gov/Archives/edgar/data/2039273/000121390026110700/0001213900-26-110700-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #markets
-- [8-K - CURIS INC (0001108205) (Filer)](https://www.sec.gov/Archives/edgar/data/1108205/000110465926116910/0001104659-26-116910-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #item-1.01 #markets
-- [8-K - NextBoat Inc. (0002067767) (Filer)](https://www.sec.gov/Archives/edgar/data/2067767/000149315226047590/0001493152-26-047590-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #item-1.01 #markets
-- [8-K - UNITIL CORP (0000755001) (Filer)](https://www.sec.gov/Archives/edgar/data/755001/000075500126000033/0000755001-26-000033-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #item-1.01 #markets
-- [8-K - FrontView REIT, Inc. (0001988494) (Filer)](https://www.sec.gov/Archives/edgar/data/1988494/000119312526425299/0001193125-26-425299-index.htm) — SEC EDGAR 8-K · 13:30 PT · #filings #item-1.01 #markets #realestate
-- [8-K - CoastalSouth Bancshares, Inc. (0001297107) (Filer)](https://www.sec.gov/Archives/edgar/data/1297107/000119312526425283/0001193125-26-425283-index.htm) — SEC EDGAR 8-K · 13:27 PT · #filings #markets
-- [8-K - ASTROTECH Corp (0001001907) (Filer)](https://www.sec.gov/Archives/edgar/data/1001907/000143774926032941/0001437749-26-032941-index.htm) — SEC EDGAR 8-K · 13:25 PT · #filings #civic #markets
-- [8-K - Medtronic plc (0001613103) (Filer)](https://www.sec.gov/Archives/edgar/data/1613103/000162828026066291/0001628280-26-066291-index.htm) — SEC EDGAR 8-K · 13:23 PT · #filings #civic #markets
-- [8-K - CDW Corp (0001402057) (Filer)](https://www.sec.gov/Archives/edgar/data/1402057/000140205726000106/0001402057-26-000106-index.htm) — SEC EDGAR 8-K · 13:23 PT · #filings #civic #markets
-- [8-K - Curaleaf Holdings, Inc. (0001756770) (Filer)](https://www.sec.gov/Archives/edgar/data/1756770/000175677026000130/0001756770-26-000130-index.htm) — SEC EDGAR 8-K · 13:22 PT · #filings #markets
-- [8-K - Cambium Networks Corp (0001738177) (Filer)](https://www.sec.gov/Archives/edgar/data/1738177/000119312526425275/0001193125-26-425275-index.htm) — SEC EDGAR 8-K · 13:22 PT · #filings #item-1.01 #markets
-- [8-K - INTEGRA LIFESCIENCES HOLDINGS CORP (0000917520) (Filer)](https://www.sec.gov/Archives/edgar/data/917520/000119312526425271/0001193125-26-425271-index.htm) — SEC EDGAR 8-K · 13:20 PT · #filings #item-1.01 #markets
-- [8-K - STEEL DYNAMICS INC (0001022671) (Filer)](https://www.sec.gov/Archives/edgar/data/1022671/000110465926116898/0001104659-26-116898-index.htm) — SEC EDGAR 8-K · 13:20 PT · #filings #markets
-- [8-K - Professional Diversity Network, Inc. (0001546296) (Filer)](https://www.sec.gov/Archives/edgar/data/1546296/000143774926032940/0001437749-26-032940-index.htm) — SEC EDGAR 8-K · 13:20 PT · #filings #civic #markets
-- [8-K - Metropolitan Bank Holding Corp. (0001476034) (Filer)](https://www.sec.gov/Archives/edgar/data/1476034/000110465926116897/0001104659-26-116897-index.htm) — SEC EDGAR 8-K · 13:20 PT · #filings #markets
-- [8-K - RLI CORP (0000084246) (Filer)](https://www.sec.gov/Archives/edgar/data/84246/000110465926116895/0001104659-26-116895-index.htm) — SEC EDGAR 8-K · 13:20 PT · #filings #markets
-- [8-K - West Coast Community Bancorp (0002105965) (Filer)](https://www.sec.gov/Archives/edgar/data/2105965/000210596526000037/0002105965-26-000037-index.htm) — SEC EDGAR 8-K · 13:19 PT · #filings #markets
-- [8-K - WESTERN ALLIANCE BANCORPORATION (0001212545) (Filer)](https://www.sec.gov/Archives/edgar/data/1212545/000162828026066286/0001628280-26-066286-index.htm) — SEC EDGAR 8-K · 13:19 PT · #filings #markets
-- [8-K - EVEREST GROUP, LTD. (0001095073) (Filer)](https://www.sec.gov/Archives/edgar/data/1095073/000109507326000038/0001095073-26-000038-index.htm) — SEC EDGAR 8-K · 13:18 PT · #filings #markets
-- [8-K - GameStop Corp. (0001326380) (Filer)](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000064/0001326380-26-000064-index.htm) — SEC EDGAR 8-K · 13:17 PT · #filings #markets
-- [8-K - VAIL RESORTS INC (0000812011) (Filer)](https://www.sec.gov/Archives/edgar/data/812011/000081201126000147/0000812011-26-000147-index.htm) — SEC EDGAR 8-K · 13:16 PT · #filings #item-1.01 #markets
-- [8-K - Construction Partners, Inc. (0001718227) (Filer)](https://www.sec.gov/Archives/edgar/data/1718227/000162828026066283/0001628280-26-066283-index.htm) — SEC EDGAR 8-K · 13:16 PT · #filings #markets
-- [8-K - ACADIA REALTY TRUST (0000899629) (Filer)](https://www.sec.gov/Archives/edgar/data/899629/000119312526425260/0001193125-26-425260-index.htm) — SEC EDGAR 8-K · 13:16 PT · #filings #civic #markets
-- [8-K - Once Upon a Farm, PBC (0001696556) (Filer)](https://www.sec.gov/Archives/edgar/data/1696556/000119312526425255/0001193125-26-425255-index.htm) — SEC EDGAR 8-K · 13:15 PT · #filings #civic #markets
-- [8-K - OLD SECOND BANCORP INC (0000357173) (Filer)](https://www.sec.gov/Archives/edgar/data/357173/000035717326000052/0000357173-26-000052-index.htm) — SEC EDGAR 8-K · 13:15 PT · #filings #civic #markets
-- [8-K - CARMAX INC (0001170010) (Filer)](https://www.sec.gov/Archives/edgar/data/1170010/000117001026000109/0001170010-26-000109-index.htm) — SEC EDGAR 8-K · 13:14 PT · #filings #civic #markets
-- [8-K - BERKLEY W R CORP (0000011544) (Filer)](https://www.sec.gov/Archives/edgar/data/11544/000001154426000046/0000011544-26-000046-index.htm) — SEC EDGAR 8-K · 13:12 PT · #filings #markets
-- [8-K - WASHINGTON TRUST BANCORP INC (0000737468) (Filer)](https://www.sec.gov/Archives/edgar/data/737468/000073746826000120/0000737468-26-000120-index.htm) — SEC EDGAR 8-K · 13:12 PT · #filings #markets
-- [8-K - CRISPR Therapeutics AG (0001674416) (Filer)](https://www.sec.gov/Archives/edgar/data/1674416/000119312526425243/0001193125-26-425243-index.htm) — SEC EDGAR 8-K · 13:11 PT · #filings #civic #markets
-- [8-K - SpyGlass Pharma, Inc. (0001778922) (Filer)](https://www.sec.gov/Archives/edgar/data/1778922/000177892226000052/0001778922-26-000052-index.htm) — SEC EDGAR 8-K · 13:10 PT · #filings #markets
-- [8-K - CROWN HOLDINGS, INC. (0001219601) (Filer)](https://www.sec.gov/Archives/edgar/data/1219601/000162828026066281/0001628280-26-066281-index.htm) — SEC EDGAR 8-K · 13:08 PT · #filings #markets
-- [8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)](https://www.sec.gov/Archives/edgar/data/1271834/000109166726000060/0001091667-26-000060-index.htm) — SEC EDGAR 8-K · 13:07 PT · #filings #markets
-- [8-K - BOK FINANCIAL CORP (0000875357) (Filer)](https://www.sec.gov/Archives/edgar/data/875357/000087535726000054/0000875357-26-000054-index.htm) — SEC EDGAR 8-K · 13:06 PT · #filings #markets
-- [8-K - Vaxart, Inc. (0000072444) (Filer)](https://www.sec.gov/Archives/edgar/data/72444/000143774926032932/0001437749-26-032932-index.htm) — SEC EDGAR 8-K · 13:06 PT · #filings #civic #markets
-- [8-K - ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/ (0000109380) (Filer)](https://www.sec.gov/Archives/edgar/data/109380/000010938026000125/0000109380-26-000125-index.htm) — SEC EDGAR 8-K · 13:06 PT · #filings #markets
-- [8-K - Seneca Bancorp, Inc. (0002072421) (Filer)](https://www.sec.gov/Archives/edgar/data/2072421/000094337426000447/0000943374-26-000447-index.htm) — SEC EDGAR 8-K · 13:05 PT · #filings #markets

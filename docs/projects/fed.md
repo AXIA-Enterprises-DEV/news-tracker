@@ -1,6 +1,6 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-20T13:43:20-07:00
+updated: 2026-10-20T16:28:00-07:00
 count: 400
 tags: ["project", "fed"]
 ---
@@ -11,6 +11,10 @@ tags: ["project", "fed"]
 
 ## 2026-10-20
 
+- [Odds of fifth interest rate hike this year likely to shorten as RBA deputy warns inflation outlook ‘worsening’](https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening) — Guardian World · 16:19 PT · #world #fed
+- [Why Colleges Raise Tuition: 446 Schools Explain Price Hikes](https://thecollegeinvestor.com/90854/why-colleges-raise-tuition-446-schools-explain-price-hikes/) — The College Investor · 14:37 PT · #markets #fed
+- [Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up](https://oilprice.com/Energy/Energy-General/Energy-Costs-Are-Driving-US-Inflation-and-Wages-Arent-Keeping-Up.html) — OilPrice.com · 14:00 PT · #markets #civic #fed #oil
+- [Crude Oil Inventories Fall Less Than Expected, Impacting Market Sentiment](https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-less-than-expected-impacting-market-sentiment-93CH-4961139) — Investing.com Economic Indicators · 13:46 PT · #markets #fed #oil
 - [Village Capital settles over broken 6% VA loan rate cap](https://www.housingwire.com/articles/village-capital-scra-settlement-doj/) — HousingWire · 13:29 PT · #business #fed #realestate
 - [Housing is flashing warning signs just as the Fed weighs more interest rate hikes](https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html) — CNBC Top News · 12:28 PT · #markets #fed
 - [Experts warn of interest rate hike; new mortgages could cost buyers thousands more - AL.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2tjbjdSUEFzMWZZXzVWM2ZCT2ZvUFl2elNqc25kZTVHLWliNGZkWjFSMFp4dnNNdHJ5T0xiYXFQeTh6Vi13dmlWTnU3eFZzeXB6VkdHeEtYNGpIU01ESDJCamFLTmJ2MW1VRkFpbWR5NFRGYUo2dG52TWFjcVFHREZpOXp0TTEzZ3VKNUV1TTZXQWJuNVVBbUxoM3dpN1lCNEZ2MkNoNENfekVENkM3WlRWWWFXQ21OVGJXcVJ0UTFPazhD?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 12:00 PT · #markets #fed #realestate
@@ -422,10 +426,3 @@ tags: ["project", "fed"]
 - [Why Is Crypto Down? Hotter CPI Fuels Fears of Delayed Fed Rate Cuts](https://cryptonews.com/news/why-is-crypto-down-cpi-hot-rate-cut-fears/) — News - Cryptonews · 00:28 PT · #markets #fed
 - [Global Market: Citi expects Fed to raise rates by 25 basis points in December after hot US inflation data - The Economic Times](https://news.google.com/rss/articles/CBMinwJBVV95cUxPYXdINS1kY3EzcFlFMjhPcVU0RVJsSFdZcE1CM2FCZDQzNHVJX3g3VFJKT3FCUTRGbkUwQVhsYll1ejVWM1BBMExhb24tZ0FDclh0RS1MNFA4X1hEdk5vbTRVZEZOWUFiTmpQeUREU3RRQTNnWWhUWm5ZQ2VueDM1Yld5SWhkVVFHMUpaSDJ2dUZVdURUM2tFODhZczVOeklWMHhCMzVjalRoUEgxYzNsUVhjZjFzS1NlSG1EazBUYk1rVmY2cVRIeHRRcjZaUEJJc3loV0J3XzlHdjdCdVNVX2Nmc3NOX2laN1h3T1MteTNtX05fNmtoZWVGbE5BRVhvVVNXQU5OeWM2cFpZcmUxNE9RR0RJWEJ6ellFb2Vkd9IBpAJBVV95cUxPVTRhNEpDUjZEWHI4RG0yX3hvNEFmdUdFM0xENXYzQi1aU2JrS202V2YxNEF0WDlzRHVDRmZIZDBhU3pDRHFQeUtrN1pTQmlvd0dsVWxzRzRzUHdiSG9ySnVIVHpVbXdZSGlxRnowWHNsWFZOWmY1Z2JrNEM4Mkl0S2I2UzFRci1sZkN2NWdaWVZiRk4zSlBMMndSQkpvMDkwa2hybW1HUG9RNEhzVXNDVjNMbm1DWThVVlhtdHhZLVJZUnpOMnVOdlo0c2NVTE9qQWpBMXVhVE5aaUllZkJ6MlFZamNhMG9uVnFWc2VJNjVQdmoxcTZ5WUJiWGNIeFlPcTJzZzItYkR2YlBaVk9IWDlqSUtucUJZNFlGelQ4VGtqWmJR?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 00:00 PT · #markets #fed
 - [Major brokerages expect next Fed rate hike in December - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkFtUUdJTUNCU0JwWlQ1eWV5UFIyZVZ2enRYaXI5TUFBNHZzbmlkVTFQaHlpU0hxNGNhUFJwNkFqaFUzTzNoT2s1X0hXdmhnZlVkbmJpcGhON2VGOFVXcGtualozRjJ6VlRtT1h6enpqWlFkSlpDNHJWcTNqWUhpR0t3ZlFBbWtkSnpodE5BeW1DVWRFRXBSUGYzVE1PUEZEbWp6OV9fMA?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 00:00 PT · #markets #fed
-- [Federal Reserve's Kashkari: No Prejudgment on Future Rate Decisions, No Hints on October Policy Move - KuCoin](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZXN6VWVDTjB6ekNZMUZZcTJVTGhCX1N6SUNvWGpZak8xX2t1eHU2UDdCSnhwcThOc0JFd2tsUTF5THA5Zk9OOWJQdDlOcUlKcUlFdWRadnJEbG9laEkzM1FrRXhtbEtYM2ZMbkk4ZkFBcmMyemRRbjNrVTd0d3pRTUM1Mmp0RlRwN2pNZ3F0M2dMME9oMElmMUlfdVFCcDJnN1VRRG9MOThlSU1RbWRiUVJiaDhaQ2JsNTQ1UnBWQ0sydUVESmZ2YTAxOTk?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 00:00 PT · #markets #fed
-
-## 2026-10-14
-
-- [Ripple Price Forecast: Drops Below $1.3 Amid Heavy Rate Hike Pressure, Risking Test of $1 Mark? - TradingKey](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSG1YZjJsLXI2NzR0NldVZ1h3Y3dpWnk3Ul9sc0JpVXZqTmM0X0lFMXhlMEtWVEZLVFFBVFVlUkoyNkIwMlJ2dVVsMlY3b2RxZGlCUHVVM2p3ZS1lV1VPN2pkNzNUZER2eHNlQWFEUElEb2xVSmpqVjdSZG4yWFpnUTAyUHZBNlZpVlI4V1lFYnRWMm1BYWIxVE1WMUdkczYwUnd3ZDcyQm5CUkFmbHo0UWFoT0VLNFJLbF9nRGp3ZmRIblE?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 23:50 PT · #markets #fed
-- [French inflation rises to 3.4% in September, highest since January 2024](https://www.investing.com/news/economic-indicators/french-inflation-rises-to-34-in-september-highest-since-january-2024-4950657) — Investing.com Economic Indicators · 23:48 PT · #markets #fed
-- [UK GDP beats forecasts with 0.1% growth in August](https://www.investing.com/news/economic-indicators/uk-gdp-beats-forecasts-with-01-growth-in-august-4950649) — Investing.com Economic Indicators · 23:40 PT · #markets #fed

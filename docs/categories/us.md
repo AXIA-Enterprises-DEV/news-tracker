@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-20T13:43:20-07:00
+updated: 2026-10-20T16:28:00-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,15 @@ tags: ["category", "us"]
 
 ## 2026-10-20
 
+- [Jury awards woman $5.69M after Las Vegas taxi driver closes trunk on her head](https://www.reviewjournal.com/news/civil-courts/jury-awards-woman-5-69m-after-las-vegas-taxi-driver-closes-trunk-on-her-head-3902723/) — Las Vegas Review-Journal · 16:07 PT · #us #nevada
+- [Pahrump motorcyclist dies in hit-and-run, police say](https://www.reviewjournal.com/local/local-nevada/pahrump-motorcyclist-dies-in-hit-and-run-police-say-3902720/) — Las Vegas Review-Journal · 15:23 PT · #us #nevada
+- [60 yards! Nick ‘The Kick’ can’t hide excitement for UNLV’s new record](https://www.reviewjournal.com/sports/unlv/unlv-football/60-yards-nick-the-kick-cant-hide-excitement-for-unlvs-new-record-3902710/) — Las Vegas Review-Journal · 14:52 PT · #us #nevada
+- [GOP focuses on fraud, seeking to redirect voters’ ire over healthcare costs](https://lasvegassun.com/news/2026/oct/20/gop-focuses-on-fraud-seeking-to-redirect-voters-ir/) — Las Vegas Sun · 14:40 PT · #us #civic #nevada
+- [Four red flags and one truth amid the peptide hype](https://lasvegassun.com/news/2026/oct/20/four-red-flags-and-one-truth-amid-the-peptide-hype/) — Las Vegas Sun · 14:37 PT · #us #nevada
+- [Private jet giant opens exclusive Las Vegas terminal](https://www.reviewjournal.com/business/vegas-business/hospitality/private-jet-giant-opens-exclusive-las-vegas-terminal-3902703/) — Las Vegas Review-Journal · 14:20 PT · #us #nevada
+- [NBA betting, predictions: Amid major changes, can Lakers hit their win total?](https://www.reviewjournal.com/sports/betting/nba-betting-predictions-amid-major-changes-can-lakers-hit-their-win-total-3902699/) — Las Vegas Review-Journal · 14:18 PT · #us #nevada
+- [Polymarket removes contract allowing users to wager on fate of Cornell students accused of rape](https://www.reviewjournal.com/news/nation-and-world/polymarket-removes-contract-allowing-users-to-wager-on-fate-of-cornell-students-accused-of-rape-3902691/) — Las Vegas Review-Journal · 13:41 PT · #us #nevada
+- [Feds hold back an additional $1.2 billion in California Medicaid reimbursements](https://www.latimes.com/politics/story/2026-10-20/feds-hold-back-additional-1-2-billion-in-california-medicaid-reimbursements) — World & Nation · 13:33 PT · #us
 - [Yellowstone receives record $105 million gift for infrastructure, conservation, access](https://lasvegassun.com/news/2026/oct/20/yellowstone-receives-record-105-million-gift-for-i/) — Las Vegas Sun · 13:33 PT · #us #ai #nevada
 - [France announces nightly curfews 'for as long as necessary' in Paris and other big cities](https://lasvegassun.com/news/2026/oct/20/france-announces-nightly-curfews-for-as-long-as-ne/) — Las Vegas Sun · 13:24 PT · #us #nevada
 - [Carrot Top returns in Las Vegas to standing ovation](https://lasvegassun.com/news/2026/oct/20/carrot-top-returns-in-las-vegas-to-standing-ovatio/) — Las Vegas Sun · 13:10 PT · #us #nevada
@@ -417,12 +426,3 @@ tags: ["category", "us"]
 - [Poker star Bryn Kenney sues GGPoker executive over alleged broken deal](https://www.reviewjournal.com/business/casinos-gaming/poker-star-bryn-kenney-sues-ggpoker-executive-over-alleged-broken-deal-3900646/) — Las Vegas Review-Journal · 16:30 PT · #us #nevada
 - [5 people believed dead following shooting at Oregon elementary school, 2 officials tell AP](https://lasvegassun.com/news/2026/oct/15/5-people-believed-dead-following-shooting-at-orego/) — Las Vegas Sun · 16:25 PT · #us #nevada
 - [2 hospitalized, shooter dead after shooting at an Oregon elementary school](https://www.reviewjournal.com/crime/shootings/2-hospitalized-shooter-dead-after-shooting-at-an-oregon-elementary-school-3900612/) — Las Vegas Review-Journal · 15:21 PT · #us #nevada
-- [CARTOON: Numbers don’t lie](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-numbers-dont-lie-3900603/) — Las Vegas Review-Journal · 15:15 PT · #us #nevada
-- [Las Vegas gambler pleads guilty to charges in basketball betting scandals](https://www.reviewjournal.com/sports/betting/las-vegas-gambler-pleads-guilty-to-charges-in-basketball-betting-scandals-3900567/) — Las Vegas Review-Journal · 14:59 PT · #us #nevada
-- [‘Domino-like fashion’: Woman trapped in car after utility poles fell on car, lawsuit alleges](https://www.reviewjournal.com/news/civil-courts/domino-like-fashion-woman-trapped-in-car-after-utility-poles-fell-on-car-lawsuit-alleges-3900554/) — Las Vegas Review-Journal · 14:33 PT · #us #nevada
-- [Hot weather and winds raise California wildfire threat as power shutoffs start](https://lasvegassun.com/news/2026/oct/15/hot-weather-and-winds-raise-california-wildfire-th/) — Las Vegas Sun · 14:32 PT · #us #nevada
-- [Tom Brady ‘ready to testify’ over Tuck Rule Game that haunts the Raiders](https://www.reviewjournal.com/sports/raiders/tom-brady-ready-to-testify-over-tuck-rule-game-that-haunts-the-raiders-3900551/) — Las Vegas Review-Journal · 14:30 PT · #us #nevada
-- [‘The complete back’: BYU commit has Liberty ready for Superintendents Cup](https://www.reviewjournal.com/nevada-preps/the-complete-back-byu-commit-has-liberty-ready-for-superintendents-cup-3900548/) — Las Vegas Review-Journal · 14:23 PT · #us #nevada
-- [Found a lost pet? Check it for a microchip with free Clark County scanners](https://www.reviewjournal.com/news/politics-and-government/clark-county/found-a-lost-pet-check-it-for-a-microchip-with-free-clark-county-scanners-3900535/) — Las Vegas Review-Journal · 14:18 PT · #us #nevada
-- [Las Vegas man sentenced in drunken crash that critically injured UK family](https://www.reviewjournal.com/crime/courts/las-vegas-man-sentenced-in-drunken-crash-that-critically-injured-uk-family-3900531/) — Las Vegas Review-Journal · 14:16 PT · #us #nevada
-- [Body in barrel that of Edward ‘Buddy’ Jackson, officials say](https://www.reviewjournal.com/crime/homicides/body-in-the-barrel-case-officials-set-to-provide-update-at-las-vegas-police-hq-3900527/) — Las Vegas Review-Journal · 14:06 PT · #us #nevada

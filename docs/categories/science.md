@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-20T13:43:20-07:00
+updated: 2026-10-20T16:28:00-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,30 @@ tags: ["category", "science"]
 
 ## 2026-10-20
 
+- [Judging faces without personality labels uncovers key patterns in first impressions](https://phys.org/news/2026-10-personality-uncovers-key-patterns.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [Building wildfire-resilient homes costs less than residents expect](https://phys.org/news/2026-10-wildfire-resilient-homes-residents.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [Mystery skeleton found in Roman sarcophagus at Westminster Abbey may finally have an identity](https://phys.org/news/2026-10-mystery-skeleton-roman-sarcophagus-westminster.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
+- [Germophobe Primates Want to Avoid Getting Sick, Too](https://www.nytimes.com/2026/10/20/science/primates-germaphobe-avoid-sickness.html) — NYT > Science · 16:05 PT · #science
+- [Monkeys also avoid germs after viral outbreaks](https://www.popsci.com/environment/monkeys-avoid-germs-viral-outbreak/) — Popular Science · 16:05 PT · #science
+- [Roman sarcophagus inside Westminster Abbey originally held a different body](https://www.popsci.com/science/roman-sarcophagus-westminster-abbey-coffin/) — Popular Science · 16:01 PT · #science
+- [Like humans, some primates become cautious of germs in the wake of a viral outbreak](https://phys.org/news/2026-10-humans-primates-cautious-germs-viral.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [Caribbean islands were once the center of diversity for barn owls](https://phys.org/news/2026-10-caribbean-islands-center-diversity-barn.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [Northern Australia is a 'lifeboat' for critically endangered green sawfish](https://phys.org/news/2026-10-northern-australia-lifeboat-critically-endangered.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [Male seahorse pouch proteins may help remove toxic waste from developing embryos](https://phys.org/news/2026-10-male-seahorse-pouch-proteins-toxic.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [Diverse and sustained social activities may boost cognition in older age](https://phys.org/news/2026-10-diverse-sustained-social-boost-cognition.html) — Phys.org - latest science and technology news stories · 15:30 PT · #science
+- [Soybean waste yields 3D-printable material that could help repair skin](https://phys.org/news/2026-10-soybean-yields-3d-printable-material.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [Are transgender sports bans really about protecting women? Survey data tells a different story](https://phys.org/news/2026-10-transgender-sports-women-survey-story.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [A hidden rivalry between two quantum states at the heart of superconductors](https://phys.org/news/2026-10-hidden-rivalry-quantum-states-heart.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [How governments worldwide are shaping what AI can say about politics](https://phys.org/news/2026-10-worldwide-ai-politics.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science #ai #civic
+- [Feral—and threatened? Endangered camels, banteng and hog deer have found an unexpected refuge in Australia](https://phys.org/news/2026-10-feral-threatened-endangered-camels-banteng.html) — Phys.org - latest science and technology news stories · 14:50 PT · #science
+- [How buying weapons can harm a country's economy](https://phys.org/news/2026-10-buying-weapons-country-economy.html) — Phys.org - latest science and technology news stories · 14:50 PT · #science
+- [Machine learning reveals potential warning signal for polar vortex disruptions](https://phys.org/news/2026-10-machine-reveals-potential-polar-vortex.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
+- ['Terror of kings': Why the 1066 appearance of Halley's Comet terrified the medieval world](https://phys.org/news/2026-10-terror-kings-halley-comet-medieval.html) — Phys.org - latest science and technology news stories · 14:30 PT · #science #foreign
+- [New study reveals the high financial value of privacy in legal proceedings](https://phys.org/news/2026-10-reveals-high-financial-privacy-legal.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- [Oxygen collisions show evidence of jet quenching, a signature of early-universe matter](https://phys.org/news/2026-10-oxygen-collisions-evidence-jet-quenching.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- [The Big Apple Episode]() — Gastropod · 14:07 PT · #science
+- [Tofu is the winner. Scientist creates new holistic scoring system to measure the impact of food](https://phys.org/news/2026-10-tofu-winner-scientist-holistic-scoring.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [Using eyedrops in space—wearable patch offers a new approach](https://phys.org/news/2026-10-eyedrops-space-wearable-patch-approach.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
 - [From seafloor depths to fishing activity, free software brings ocean data together](https://phys.org/news/2026-10-seafloor-depths-fishing-free-software.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
 - [Why is it so hard to spot a liar? Expert explains the psychology of deception](https://phys.org/news/2026-10-hard-liar-expert-psychology-deception.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
 - [What climate change is costing California](https://phys.org/news/2026-10-climate-california.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
@@ -399,27 +423,3 @@ tags: ["category", "science"]
 - [Your eyes dilate depending on your thoughts](https://www.popsci.com/science/eyes-dilate-depending-on-thoughts/) — Popular Science · 08:45 PT · #science
 - [Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields](https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science #ai
 - [Putting wood security on the global agenda: Researchers outline 20 core challenges](https://phys.org/news/2026-10-wood-global-agenda-outline-core.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
-- [AI reveals a shared language guiding cell development](https://phys.org/news/2026-10-ai-reveals-language-cell.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science #ai
-- [When schools fail to act, weight-based bullying can continue](https://phys.org/news/2026-10-schools-weight-based-bullying.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
-- [Ukraine’s military robots are getting tires that can’t go flat](https://www.popsci.com/technology/3d-printed-tires-ukraine/) — Popular Science · 08:02 PT · #science #foreign
-- [Could your plastic film packaging serve a purpose? We won't know until recycling laws change](https://phys.org/news/2026-10-plastic-packaging-purpose-wont-recycling.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
-- [The same immune cells play opposing roles in tissue regeneration's balancing act](https://phys.org/news/2026-10-immune-cells-play-opposing-roles.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
-- [New water safety rapid testing method cuts time to results from six hours to 30 minutes](https://phys.org/news/2026-10-safety-rapid-method-results-hours.html) — Phys.org - latest science and technology news stories · 07:52 PT · #science
-- [Spain sizzles in hottest September on record: Weather agency](https://phys.org/news/2026-10-spain-sizzles-hottest-september-weather.html) — Phys.org - latest science and technology news stories · 07:45 PT · #science
-- [Forecasting air drag with deep learning helps predict when uncontrolled satellites and rocket stages fall to Earth](https://phys.org/news/2026-10-air-deep-uncontrolled-satellites-rocket.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
-- [Duct tape kept out more floodwater than sandbags in laboratory tests](https://phys.org/news/2026-10-duct-tape-floodwater-sandbags-laboratory.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
-- [I Am Artemis: Allison Mjoen](https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/) — NASA · 07:24 PT · #science
-- [Fully automated testing of bulk metals paves the way for AI-driven materials development](https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science #ai
-- [Even or odd numbers: A single molecule makes all the difference in the quantum world](https://phys.org/news/2026-10-odd-molecule-difference-quantum-world.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [How do combined sewer overflows affect water quality in Philadelphia?](https://phys.org/news/2026-10-combined-sewer-affect-quality-philadelphia.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [Fraudulent paper mills may be manipulating scientific citations and amplifying unreliable findings](https://phys.org/news/2026-10-fraudulent-paper-mills-scientific-citations.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [Humans were never built for tails. Here’s why.](https://www.popsci.com/science/why-humans-dont-have-tails-podcast/) — Popular Science · 06:54 PT · #science
-- [Kids and teens are going to AI chatbots for advice. How can parents make sure this is safe?](https://phys.org/news/2026-10-kids-teens-ai-chatbots-advice.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science #ai
-- [The force behind our strength: How mechanical processes regulate muscle development](https://phys.org/news/2026-10-strength-mechanical-muscle.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science
-- [AI and wastewater DNA-based mapping help identify sewer pipes at risk of corrosion](https://phys.org/news/2026-10-ai-wastewater-dna-based-sewer.html) — Phys.org - latest science and technology news stories · 06:38 PT · #science #ai
-- [Shredded star reveals a massive black hole wandering far from its galaxy's center](https://phys.org/news/2026-10-shredded-star-reveals-massive-black.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [What land crabs reveal about evolution's repeats](https://phys.org/news/2026-10-crabs-reveal-evolution.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [Molecular fingerprints reveal how human activities alter water systems worldwide](https://phys.org/news/2026-10-molecular-fingerprints-reveal-human-worldwide.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
-- [Real-time nanoscale imaging reveals differences in antibody access to cancer-linked proteins on tiny vesicles](https://phys.org/news/2026-10-real-nanoscale-imaging-reveals-differences.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
-- [Condors get the ‘zoomies’ too](https://www.popsci.com/environment/condor-bird-zoomies/) — Popular Science · 06:00 PT · #science
-- [USC scientists discover how to create a never-ending supply of cancer-fighting cells](https://www.sciencedaily.com/releases/2026/10/261015003803.htm) — Latest Science News -- ScienceDaily · 05:46 PT · #science
