@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-19T23:42:01-07:00
+updated: 2026-10-20T05:17:59-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -9,8 +9,26 @@ tags: ["category", "us"]
 
 400 most recent items (14-day window).
 
+## 2026-10-20
+
+- [Democrats’ Musk-ask questions](https://www.politico.com/newsletters/playbook/2026/10/20/democrats-musk-ask-questions-01127679) — Playbook · 03:03 PT · #us
+- [Chabria: Why Trump's attack on California voting is false — and even a bit funny](https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny) — World & Nation · 03:00 PT · #us
+- [Where does the money stand in key Northern Nevada local government races?](https://thenevadaindependent.com/article/where-does-the-money-stand-in-key-northern-nevada-local-government-races/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [Paiutes protest NV Energy project for cutting through burial sites, triggering pause](https://thenevadaindependent.com/article/paiutes-protest-nv-energy-project-for-cutting-through-burial-sites-triggering-pause/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [College football by the odds: Vegas picks and preview of every Week 8 game](https://lasvegassun.com/news/2026/oct/20/college-football-odds-vegas-picks-spreads-week8/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Voting in large numbers can overcome suppression efforts](https://lasvegassun.com/news/2026/oct/20/voting-in-large-numbers-can-overcome-suppression-e/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Back in the 702: Las Vegas' own R&B girl group comes home to celebrate](https://lasvegasweekly.com/ae/music/2026/oct/20/702-las-vegas-own-girl-group-comes-home/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Los aranceles comerciales y la disminución de los viajes internacionales están afectando a las pequeñas empresas de Las Vegas](https://lasvegassun.com/news/2026/oct/20/los-aranceles-comerciales-y-la-disminucin-de-los-v/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Trade tariffs and lower international travel are hitting Las Vegas small businesses](https://lasvegassun.com/news/2026/oct/20/trade-tariffs-and-lower-international-travel-are-h/) — Las Vegas Sun · 02:00 PT · #us #nevada #smallbiz
+- [More colorectal screening options can make all the difference](https://lasvegassun.com/news/2026/oct/20/more-colorectal-screening-options-can-make-all-the/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Do your homework and vote accordingly](https://lasvegassun.com/news/2026/oct/20/do-your-homework-and-vote-accordingly/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Trump is showing again why presidents lose power so fast](https://lasvegassun.com/news/2026/oct/20/trump-is-showing-again-why-presidents-lose-power-s/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Lo Explicamos: Por qué Las Vegas se está convirtiendo en imán para los cubanos](https://thenevadaindependent.com/article/lo-explicamos-por-que-las-vegas-se-esta-convirtiendo-en-iman-para-los-cubanos/) — The Nevada Independent · 01:15 PT · #us #nevada
+- [Inspirada tops slew of Nevada school rankings for second straight year](https://lasvegassun.com/news/2026/oct/20/inspirada-takes-slew-of-top-nevada-school-rankings/) — Las Vegas Sun · 00:00 PT · #us #nevada
+
 ## 2026-10-19
 
+- [Alberta Voters Reject Move Toward Independence In Referendum, CBC Projects](https://www.huffpost.com/entry/alberta-canada-separation-vote_n_6ad6fc51e4b061c2be45e47c) — World News - Breaking News, Top Stories · 22:35 PT · #us
 - [New teen driving safety push in Las Vegas follows serious crash involving teen](https://www.ktnv.com/news/new-teen-driving-safety-push-follows-serious-las-vegas-crash-involving-teen) — KTNV Las Vegas · 21:53 PT · #us #nevada
 - [Monday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/mondays-nevada-preps-high-school-sports-scoreboard-3902519/) — Las Vegas Review-Journal · 21:50 PT · #us #nevada
 - [LETTER: Let’s fact-check political ads](https://www.reviewjournal.com/opinion/letters/letter-lets-fact-check-political-ads-3902513/) — Las Vegas Review-Journal · 21:01 PT · #us #media #nevada
@@ -18,10 +36,12 @@ tags: ["category", "us"]
 - [CARTOONS: El-Sayed’s vision problems](https://www.reviewjournal.com/opinion/drawing-board/cartoons-el-sayeds-vision-problems-3902500/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
 - [RICH LOWRY: Is it the return of woke?](https://www.reviewjournal.com/opinion/rich-lowry-is-it-the-return-of-woke-3902497/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
 - [EDITORIAL: ‘Like giving whiskey and car keys to teenage boys’](https://www.reviewjournal.com/opinion/editorials/editorial-like-giving-whiskey-and-car-keys-to-teenage-boys-3902494/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Zelenskyy Says Ukraine Got No Warning As Russian Missiles Rain In](https://www.huffpost.com/entry/zelenskyy-ukraine-no-warning-russian-missiles_n_6ad6e28fe4b05354557fa620) — World News - Breaking News, Top Stories · 20:45 PT · #us #foreign
 - [Las Vegas healthcare providers report rising flu and COVID cases](https://www.ktnv.com/news/las-vegas-healthcare-providers-report-rising-flu-and-covid-cases) — KTNV Las Vegas · 20:20 PT · #us #nevada
 - [No. 1 Faith Lutheran, No. 3 Arbor View play to draw in 5A girls soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-1-faith-lutheran-no-3-arbor-view-play-to-draw-in-5a-girls-soccer-photos-3902463/) — Las Vegas Review-Journal · 20:10 PT · #us #nevada
 - [Raiders’ next opponent has key receiver injured, out for months](https://www.reviewjournal.com/sports/raiders/raiders-next-opponent-has-key-receiver-injured-out-for-months-3902458/) — Las Vegas Review-Journal · 20:01 PT · #us #nevada
 - [Las Vegas high school girls volleyball: What’s on the line in final week?](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-girls-volleyball-whats-on-the-line-in-final-week-3902452/) — Las Vegas Review-Journal · 19:11 PT · #us #nevada
+- [Japan Launches Spacecraft On Bold Mission To Mars’ Moons](https://www.huffpost.com/entry/japan-mars-moons-mission_n_6ad6c583e4b05d72fd9422ad) — World News - Breaking News, Top Stories · 18:46 PT · #us
 - [Moapa River tribal police investigating death of man, 20, near Las Vegas](https://www.reviewjournal.com/local/local-nevada/moapa-river-tribal-police-investigating-death-of-man-20-near-las-vegas-3902428/) — Las Vegas Review-Journal · 18:43 PT · #us #nevada
 - [Suspended Pahrump Justice of the Peace denies misusing donations during judicial discipline hearing](https://www.reviewjournal.com/news/politics-and-government/former-las-vegas-councilwoman-denies-misusing-donations-during-judicial-discipline-hearing-3902405/) — Las Vegas Review-Journal · 18:22 PT · #us #nevada
 - [Nevada’s Public Records Task Force struggles to agree on path forward](https://www.reviewjournal.com/news/politics-and-government/nevada/nevadas-public-records-task-force-struggles-to-agree-on-path-forward-3902386/) — Las Vegas Review-Journal · 18:01 PT · #us #nevada
@@ -406,20 +426,3 @@ tags: ["category", "us"]
 - [Congo protests Formula 1's 'indefensible' decision to race in Rwanda](https://lasvegassun.com/news/2026/oct/15/congo-protests-formula-1s-indefensible-decision-to/) — Las Vegas Sun · 08:55 PT · #us #nevada
 - [Prince Harry, Meghan Markle Step Out For U.K. Appearance ― And It's Like Nothing's Changed](https://www.huffpost.com/entry/prince-harry-meghan-markle-uk-engagements_n_6ad0d407e4b08a0fe8562679) — World News - Breaking News, Top Stories · 08:14 PT · #us
 - [Nevadans expected to spend more on Halloween this year](https://www.reviewjournal.com/business/vegas-business/price-points/nevadans-expected-to-spend-more-on-halloween-this-year-3900405/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada
-- [Israel Says Commercial Goods Will Not Enter Gaza, A Major Shut-Off For The Hungry Territory](https://www.huffpost.com/entry/israel-cuts-off-commercial-goods-gaza_n_6ad0e80ae4b08a0fe85632b1) — World News - Breaking News, Top Stories · 07:58 PT · #us #foreign
-- [Zero Teen Fatalities Player of the Month: Coronado's Tru Halvorsen](https://lasvegassun.com/news/2026/oct/15/zero-teen-fatalities-player-of-the-month-coronados/) — Las Vegas Sun · 07:36 PT · #us #nevada
-- [After bipartisan backlash, Trump says Pentagon won’t livestream Fort Hood shooter’s execution](https://www.reviewjournal.com/news/politics-and-government/after-bipartisan-backlash-trump-says-pentagon-wont-livestream-fort-hood-shooters-execution-3900397/) — Las Vegas Review-Journal · 07:34 PT · #us #foreign #nevada
-- [Plan to improve Las Vegas’ Arts District draws concerns over cost, gentrification](https://www.reviewjournal.com/business/plan-to-improve-las-vegas-arts-district-draws-concerns-over-cost-gentrification-3900362/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
-- [Michael Douglas tells all in memoir ‘One Helluva Life’](https://www.reviewjournal.com/livewell/michael-douglas-tells-all-in-memoir-one-helluva-life-3900353/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
-- [What are they hiding? NHP keeps arrest in crash death of 7-year-old secret](https://www.reviewjournal.com/crime/what-are-they-hiding-nhp-keeps-arrest-in-crash-death-of-7-year-old-secret-3900349/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
-- [Raiders can learn from late-game gaffes in the NFL to master ‘fourth phase’](https://www.reviewjournal.com/sports/raiders/raiders-can-learn-from-late-game-gaffes-in-the-nfl-to-master-fourth-phase-3900346/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
-- [Move over 2026, 2028 hopefuls are already swarming Nevada.](https://thenevadaindependent.com/article/move-over-2026-2028-hopefuls-are-already-swarming-nevada/) — The Nevada Independent · 06:00 PT · #us #civic #nevada
-- [Alert! Is your Medicare Advantage plan terminating coverage Dec. 31?](https://www.reviewjournal.com/livewell/alert-is-your-medicare-advantage-plan-terminating-coverage-dec-31-3900343/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
-- [Savvy Senior: Planning a simple, affordable funeral](https://www.reviewjournal.com/livewell/savvy-senior-planning-a-simple-affordable-funeral-3900339/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
-- [‘Built for a different era’: Las Vegas airport prepares for major overhaul](https://www.reviewjournal.com/business/tourism/built-for-a-different-era-las-vegas-airport-prepares-for-major-overhaul-3900325/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
-- [Trump’s ice maiden is under fire](https://www.politico.com/newsletters/playbook/2026/10/15/trumps-ice-maiden-is-under-fire-01119850) — Playbook · 03:10 PT · #us
-- [Nevada's next budget could see at least $1 billion boost. Here's why.](https://thenevadaindependent.com/article/nevadas-next-budget-could-see-at-least-1-billion-boost-heres-why/) — The Nevada Independent · 02:00 PT · #us #fed #nevada
-- [OPINION: Tired of political spam texts and emails? It's only going to get worse.](https://thenevadaindependent.com/article/opinion-tired-of-political-spam-texts-and-emails-its-only-going-to-get-worse/) — The Nevada Independent · 02:00 PT · #us #ai #civic #nevada
-- [Los votantes de Nevada tomarán la decisión definitiva sobre la identificación obligatoria del votante](https://lasvegassun.com/news/2026/oct/15/los-votantes-de-nevada-tomarn-la-decisin-definitiv/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Nevada voters will make the final decision on mandatory voter ID in November](https://lasvegassun.com/news/2026/oct/15/nevada-voters-will-make-the-final-decision-on-mand/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
-- [Zach Bryan announces Allegiant Stadium stop as part of 2027 tour](https://lasvegassun.com/news/2026/oct/15/zach-bryan-announces-allegiant-stadium-stop-as-par/) — Las Vegas Sun · 02:00 PT · #us #nevada

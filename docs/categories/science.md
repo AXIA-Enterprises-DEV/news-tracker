@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-19T23:42:01-07:00
+updated: 2026-10-20T05:17:59-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -8,6 +8,20 @@ tags: ["category", "science"]
 # Category: science
 
 400 most recent items (14-day window).
+
+## 2026-10-20
+
+- [The sun may have stripped away meters of interstellar comet 3I/ATLAS](https://phys.org/news/2026-10-sun-meters-interstellar-comet-3iatlas.html) — Phys.org - latest science and technology news stories · 05:10 PT · #science
+- [Start-Up Claims to Treat a Patient With A.I.-Created Viruses](https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html) — NYT > Science · 05:07 PT · #science
+- [Fear study finds AI anxiety among Americans' top fears for the first time](https://phys.org/news/2026-10-ai-anxiety-americans.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science #ai
+- [Measuring regrowth: Erk gradients guide zebrafish fins back to their original size after injury](https://phys.org/news/2026-10-regrowth-erk-gradients-zebrafish-fins.html) — Phys.org - latest science and technology news stories · 04:40 PT · #science
+- [Partisan segregation may be shaping Asian Americans' voting behavior](https://phys.org/news/2026-10-partisan-segregation-asian-americans-voting.html) — Phys.org - latest science and technology news stories · 04:40 PT · #science #civic
+- [Study examines suicide awareness among agricultural educators](https://phys.org/news/2026-10-suicide-awareness-agricultural.html) — Phys.org - latest science and technology news stories · 04:20 PT · #science
+- [Lucy mission marks 5 years of discoveries](https://phys.org/news/2026-10-lucy-mission-years-discoveries.html) — Phys.org - latest science and technology news stories · 04:00 PT · #science
+- [Near miss: Indonesia probes crash of suspected Chinese rocket fragment](https://phys.org/news/2026-10-indonesia-probes-chinese-rocket-fragment.html) — Phys.org - latest science and technology news stories · 02:46 PT · #science #oil
+- [Deep-sea expedition will revisit Pacific mining site five and a half years after test](https://phys.org/news/2026-10-deep-sea-revisit-pacific-site.html) — Phys.org - latest science and technology news stories · 02:40 PT · #science
+- [Increasing number of shots in movies](https://flowingdata.com/2026/10/20/increasing-number-of-shots-in-movies/) — FlowingData · 02:36 PT · #science
+- [Where Do Autoimmune Diseases Come From?](https://www.nytimes.com/2026/10/20/science/autoimmune-diseases-evolution-ms.html) — NYT > Science · 02:00 PT · #science
 
 ## 2026-10-19
 
@@ -21,6 +35,14 @@ tags: ["category", "science"]
 - [Nanoscale tech tracks proteins inside living neurons to guide Alzheimer's and Parkinson's drug discovery](https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science #smallbiz
 - [Russian Satellite Makes a Menacing Approach to Another Craft in Orbit](https://www.nytimes.com/2026/10/19/science/russia-satellite-kosmos-2612.html) — NYT > Science · 17:24 PT · #science #foreign
 - [Students take up to 88 standardized tests before high school, but more testing doesn't improve learning](https://phys.org/news/2026-10-students-standardized-high-school-doesnt.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
+- [Bundle water safeguards into critical-mineral licences](https://www.nature.com/articles/d41586-026-03353-z) — Nature · 17:00 PT · #science
+- [Nobel-prizewinning breakthroughs can emerge from neglected organisms](https://www.nature.com/articles/d41586-026-03351-1) — Nature · 17:00 PT · #science
+- [Conservation planning should follow animal clocks](https://www.nature.com/articles/d41586-026-03354-y) — Nature · 17:00 PT · #science
+- [Europe and the rest of the world must come up with an answer to US science strategy](https://www.nature.com/articles/d41586-026-03352-0) — Nature · 17:00 PT · #science
+- [Butterfly wing patterns make motion hard to read](https://www.nature.com/articles/d41586-026-03062-7) — Nature · 17:00 PT · #science
+- [Will this sleep-disorder drug be the next big blockbuster?](https://www.nature.com/articles/d41586-026-03310-w) — Nature · 17:00 PT · #science
+- [China picks first researchers for 15-year mega grants](https://www.nature.com/articles/d41586-026-03151-7) — Nature · 17:00 PT · #science #foreign
+- [Nepal’s disaster is an urgent wake-up call](https://www.nature.com/articles/d41586-026-03314-6) — Nature · 17:00 PT · #science
 - [New 4D biofabrication technology holds promise for tissue engineering, wound healing](https://phys.org/news/2026-10-4d-biofabrication-technology-tissue-wound.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Molecular switch controls how cells load cargo for recycling](https://phys.org/news/2026-10-molecular-cells-cargo-recycling.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos](https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks) — Space | The Guardian · 16:37 PT · #science
@@ -404,22 +426,3 @@ tags: ["category", "science"]
 - [Americans who go to church and trust science are also more likely to believe in ghosts and curses, research shows](https://phys.org/news/2026-10-americans-church-science-ghosts-curses.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
 - [Power Up: Roll Out Solar Arrays Boost Space Station Power Supply](https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/) — NASA · 10:30 PT · #science
 - [India's cobras share genetic ties across the mainland, while Sri Lankan cobras form a distinct genetic lineage](https://phys.org/news/2026-10-india-cobras-genetic-mainland-sri.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
-- [Young voters fear mass shootings but are divided on gun control](https://phys.org/news/2026-10-young-voters-mass-gun.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science #civic
-- [Do you think teachers are similar to coaches, pastors or something else? It depends on where you live](https://phys.org/news/2026-10-teachers-similar-pastors.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
-- [Laser pulses bring order to a quantum material's tiny electrical regions](https://phys.org/news/2026-10-laser-pulses-quantum-material-tiny.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
-- [NASA to Conduct Low-Altitude Flights Over Texas Farmland](https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/) — NASA · 09:42 PT · #science
-- [Palm-leaf manuscripts reveal traces of their preparation through X-rays and machine learning](https://phys.org/news/2026-10-palm-leaf-manuscripts-reveal-rays.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
-- [WHO urges action on lead poisoning dangers](https://phys.org/news/2026-10-urges-action-poisoning-dangers.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
-- [How did early Māori society develop? New research reveals a clearer timeline](https://phys.org/news/2026-10-early-mori-society-reveals-clearer.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
-- [Chandra breaks down 'Treble Clef's' galaxy cluster collision](https://phys.org/news/2026-10-chandra-treble-clef-galaxy-cluster.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
-- [NASA Welcomes All Ages, Experience Levels for Space Apps Challenge](https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/) — NASA · 09:13 PT · #science
-- [AI helps detect media bias, informing voters and news consumers](https://phys.org/news/2026-10-ai-media-bias-voters-news.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science #ai
-- [Mass shooting survivors' memories are full of sensory detail, both positive and negative](https://phys.org/news/2026-10-mass-survivors-memories-full-sensory.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
-- [Sony wants to DAP up your digital audio with the Walkman Signature Series](https://www.popsci.com/gear/sony-dap-digital-audio-players-zx900-wm1am3-wm1zm3-walkman-signature-series-product-news/) — Popular Science · 09:00 PT · #science
-- [NASA Awards Enable Research, Technology to Build Future Workforce](https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/) — NASA · 08:57 PT · #science
-- [Why are pets scared of fireworks?](https://phys.org/news/2026-10-pets-fireworks.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
-- [Quantum calculations reveal how spin defects lose energy](https://phys.org/news/2026-10-quantum-reveal-defects-energy.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
-- [Solving the mystery behind a flightless beetle's transatlantic journey](https://phys.org/news/2026-10-mystery-flightless-beetle-transatlantic-journey.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
-- [Two decades of publications reveal research institutions becoming more alike worldwide](https://phys.org/news/2026-10-decades-reveal-alike-worldwide.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
-- [Fatal Neanderthal wound may be earliest evidence of a wooden spear attack on a human ancestor](https://phys.org/news/2026-10-fatal-neanderthal-wound-earliest-evidence.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
-- [Scorecard: Colombia gets top marks while high-emitting countries doing too little to protect health from climate change](https://phys.org/news/2026-10-scorecard-colombia-high-emitting-countries.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #foreign

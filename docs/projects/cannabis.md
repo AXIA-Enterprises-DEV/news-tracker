@@ -1,17 +1,23 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-19T23:42:01-07:00
-count: 107
+updated: 2026-10-20T05:17:59-07:00
+count: 110
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-107 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+110 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-20
+
+- [Trump Is Losing Support From Marijuana Consumers As Rescheduling Process Sees More Delays, Poll Shows](https://www.marijuanamoment.net/trump-is-losing-support-from-marijuana-consumers-as-rescheduling-process-sees-more-delays-poll-shows/) — Marijuana Moment · 05:05 PT · #business #cannabis
+- [Military veterans support legalizing cannabis, poll shows (Newsletter: October 20, 2026)](https://www.marijuanamoment.net/military-veterans-support-legalizing-cannabis-poll-shows-newsletter-october-20-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis #civic #foreign #media
 
 ## 2026-10-19
 
 - [Man who took Peachy the flamingo from Las Vegas hotel exhibit found guilty of animal cruelty - The Mercury News](https://news.google.com/rss/articles/CBMic0FVX3lxTE10UWladUZPME4tMUp4RVh1eGI2dmhTdlRpaEpWOFdjRG1hdVNvNlFnUC03YUNmYjdNN3hMcmpQU1l1STlfRzFjdnlheVo1VWc1cWE0dUwyU1BjaXBwc3NrS3lWZGZzd0JqWmdaZXNwVFB2Tkk?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:39 PT · #business #cannabis #nevada
+- [Man who took Peachy the flamingo from Las Vegas hotel exhibit found guilty of animal cruelty - East Bay Times](https://news.google.com/rss/articles/CBMidEFVX3lxTE56eWN4VlY5b19SM1RVVDMtSEpxT2xnSjM1clVGZDVXSWJySy02SXlMdWRVVTZiZ2pJNkN6RXpDcWxqVGs3cmFHb2RWLTAxRnlOTHV5VmxXak9RMFM1ZkZZUnRXSHVBSTZ3bS1FdWFHaUg1MWdD?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:39 PT · #business #cannabis #nevada
 - [Nevada jury weighs charges against Canadian who took Peachy the flamingo in drunken prank - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMikAJBVV95cUxNT1NHUDFROVZKN1hZU1g4X3laNk5HRVFkN3RiSXVMSy0xWlZJVlNrQnJ1ZjBxNWlBM0hGNkN1Z2hTUTJOT0ptVDhuTG5jeWx1SEw4QUxfN2k2X2lPSXlLTFcxWndUb2pWUW52VHZpUF9wUzZ1dzN6b2FQZnlCSmE3SGdLMjIwSlNMMVpiQUhNajdHQjlkY0tYOEJhTVNVVEZ2Q01HMlFjR1lsOXdtS1dyOUdPSTM3bWpuS1RSYVE0UHRqdlNJaWthRFZjRTdqNktHdnI2MzcyWjVJc0wybjYyM2h4N1ZEeUp6YlF3WlRkbnNESHRDZGZtUTNhZGMwQ2VENGRDTmVCNjhWSEd2SkJTXw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:28 PT · #business #cannabis #nevada
 - [Curaleaf pushes back after Aurora rejects enhanced takeover bid](https://mjbizdaily.com/news/curaleaf-pushes-back-after-aurora-rejects-enhanced-takeover-bid/618730/) — MJBizDaily · 14:18 PT · #business #cannabis #smallbiz
 - [Latest poll shows Massachusetts adult-use cannabis sales repeal failing – badly](https://mjbizdaily.com/news/latest-poll-shows-massachusetts-adult-use-cannabis-sales-repeal-failing-badly/618736/) — MJBizDaily · 14:16 PT · #business #cannabis #smallbiz
