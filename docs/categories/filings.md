@@ -1,6 +1,6 @@
 ---
 title: "Category: filings"
-updated: 2026-10-19T18:45:48-07:00
+updated: 2026-10-19T23:42:01-07:00
 count: 400
 tags: ["category", "filings"]
 ---
@@ -11,6 +11,10 @@ tags: ["category", "filings"]
 
 ## 2026-10-19
 
+- [SCHEDULE 13D - Rantizo (0001991261) (Subject)](https://www.sec.gov/Archives/edgar/data/1991261/000091957426007073/0000919574-26-007073-index.htm) — SEC EDGAR All Filings · 18:53 PT · #filings #markets
+- [SCHEDULE 13D/A - GRAHAM DONALD (0001018401) (Filed by)](https://www.sec.gov/Archives/edgar/data/1018401/000095015726001110/0000950157-26-001110-index.htm) — SEC EDGAR All Filings · 18:48 PT · #filings #markets
+- [SCHEDULE 13G - Evernorth Holdings Inc. (0002092592) (Subject)](https://www.sec.gov/Archives/edgar/data/2092592/000119312526425558/0001193125-26-425558-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
+- [SCHEDULE 13G/A - Ng Chun Seong (0002057693) (Filed by)](https://www.sec.gov/Archives/edgar/data/2057693/000149315226047674/0001493152-26-047674-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
 - [SCHEDULE 13G/A - Liao Xiaoyan (0002058401) (Filed by)](https://www.sec.gov/Archives/edgar/data/2058401/000149315226047671/0001493152-26-047671-index.htm) — SEC EDGAR All Filings · 18:43 PT · #filings #markets
 - [4 - Devers Shannon L. (0002037721) (Reporting)](https://www.sec.gov/Archives/edgar/data/2037721/000087401526000267/0000874015-26-000267-index.htm) — SEC EDGAR All Filings · 18:40 PT · #filings #markets
 - [4 - Swayze Eric (0001791058) (Reporting)](https://www.sec.gov/Archives/edgar/data/1791058/000087401526000266/0000874015-26-000266-index.htm) — SEC EDGAR All Filings · 18:40 PT · #filings #markets
@@ -410,7 +414,3 @@ tags: ["category", "filings"]
 - [4 - Vigeveno Huibert Hans (0002078347) (Reporting)](https://www.sec.gov/Archives/edgar/data/2078347/000135761526000185/0001357615-26-000185-index.htm) — SEC EDGAR All Filings · 15:42 PT · #filings #markets
 - [4 - Baldwin Lowry (0001787626) (Reporting)](https://www.sec.gov/Archives/edgar/data/1787626/000178762626000004/0001787626-26-000004-index.htm) — SEC EDGAR All Filings · 15:40 PT · #filings #markets
 - [4 - Ralliant Corp (0002041385) (Issuer)](https://www.sec.gov/Archives/edgar/data/2041385/000190102126000020/0001901021-26-000020-index.htm) — SEC EDGAR All Filings · 15:38 PT · #filings #markets
-- [4 - AppLovin Corp (0001751008) (Issuer)](https://www.sec.gov/Archives/edgar/data/1751008/000161515126000006/0001615151-26-000006-index.htm) — SEC EDGAR All Filings · 15:37 PT · #filings #markets
-- [4 - Natali Chris (0001905272) (Reporting)](https://www.sec.gov/Archives/edgar/data/1905272/000190527226000018/0001905272-26-000018-index.htm) — SEC EDGAR All Filings · 15:36 PT · #filings #markets
-- [4 - WEBB MAYNARD G JR (0001209189) (Reporting)](https://www.sec.gov/Archives/edgar/data/1209189/000120918926000010/0001209189-26-000010-index.htm) — SEC EDGAR All Filings · 15:36 PT · #filings #markets
-- [4 - Keller Frank (0002006416) (Reporting)](https://www.sec.gov/Archives/edgar/data/2006416/000200641626000019/0002006416-26-000019-index.htm) — SEC EDGAR All Filings · 15:32 PT · #filings #markets

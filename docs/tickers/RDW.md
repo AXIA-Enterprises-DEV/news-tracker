@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $RDW"
-updated: 2026-10-19T18:45:48-07:00
+updated: 2026-10-19T23:42:01-07:00
 count: 1
 tags: ["ticker", "RDW"]
 ---

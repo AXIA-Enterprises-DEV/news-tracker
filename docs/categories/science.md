@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-19T18:45:48-07:00
+updated: 2026-10-19T23:42:01-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,7 +11,13 @@ tags: ["category", "science"]
 
 ## 2026-10-19
 
+- [APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan](https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/) — NASA · 21:05 PT · #science
+- [The Human Fingerprint on Earth’s Water Cycle](https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/) — NASA · 21:01 PT · #science
+- [Synthetic public opinion polling: AI personas don't always change their minds like real voters do](https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html) — Phys.org - latest science and technology news stories · 20:40 PT · #science #ai
+- [NZ's climate in 'uncharted territory,' with more extreme weather events ahead](https://phys.org/news/2026-10-nz-climate-uncharted-territory-extreme.html) — Phys.org - latest science and technology news stories · 20:00 PT · #science
+- [Juvenile striped bass maintaining average abundance in Virginia waters in 2026](https://phys.org/news/2026-10-juvenile-striped-bass-average-abundance.html) — Phys.org - latest science and technology news stories · 19:20 PT · #science
 - [Q&A: How does technology help track foodborne pathogens and outbreaks?](https://phys.org/news/2026-10-qa-technology-track-foodborne-pathogens.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
+- [Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By](https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/) — NASA · 18:21 PT · #science
 - [Nanoscale tech tracks proteins inside living neurons to guide Alzheimer's and Parkinson's drug discovery](https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science #smallbiz
 - [Russian Satellite Makes a Menacing Approach to Another Craft in Orbit](https://www.nytimes.com/2026/10/19/science/russia-satellite-kosmos-2612.html) — NYT > Science · 17:24 PT · #science #foreign
 - [Students take up to 88 standardized tests before high school, but more testing doesn't improve learning](https://phys.org/news/2026-10-students-standardized-high-school-doesnt.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
@@ -132,6 +138,15 @@ tags: ["category", "science"]
 - [Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm](https://www.nature.com/articles/s41586-026-11290-0) — Nature · 17:00 PT · #science
 - [How to compare and strengthen research systems](https://www.nature.com/articles/d41586-026-03309-3) — Nature · 17:00 PT · #science
 - [Lessons from Katrina: how to rebuild academia from the ground up](https://www.nature.com/articles/d41586-026-02623-0) — Nature · 17:00 PT · #science
+- [Toxic chemicals in fentanyl revealed by speedy technique](https://www.nature.com/articles/d41586-026-03317-3) — Nature · 17:00 PT · #science
+- [Light and mirrors move large quantum computers closer to reality](https://www.nature.com/articles/d41586-026-03237-2) — Nature · 17:00 PT · #science
+- [Audio long read: How to stay smart in the age of AI — the science of critical thinking](https://www.nature.com/articles/d41586-026-03228-3) — Nature · 17:00 PT · #science #ai
+- [US government probe into postdoc visas worries scientists](https://www.nature.com/articles/d41586-026-03345-z) — Nature · 17:00 PT · #science
+- [Microdosing LSD shows some cognitive benefits — but only for women](https://www.nature.com/articles/d41586-026-03265-y) — Nature · 17:00 PT · #science
+- [Climate scientists face deluge of public-records requests about fossil-fuel studies](https://www.nature.com/articles/d41586-026-03275-w) — Nature · 17:00 PT · #science
+- [Experienced researchers ‘disrupt’ less than rookie scientists — but their ideas last](https://www.nature.com/articles/d41586-026-03339-x) — Nature · 17:00 PT · #science
+- [Why failure is a taboo topic in science](https://www.nature.com/articles/d41586-026-03328-0) — Nature · 17:00 PT · #science
+- [Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes](https://www.nature.com/articles/s41586-026-11293-x) — Nature · 17:00 PT · #science
 - [Ancient Nubian temple faience workshop reveals links between craft production and royal power](https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
 - [Early humans in America endured climate chaos—new research](https://phys.org/news/2026-10-early-humans-america-climate-chaos.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
 - [Earth's oldest evidence of life is written in stone—but it's at risk of disappearing](https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
@@ -408,18 +423,3 @@ tags: ["category", "science"]
 - [Two decades of publications reveal research institutions becoming more alike worldwide](https://phys.org/news/2026-10-decades-reveal-alike-worldwide.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
 - [Fatal Neanderthal wound may be earliest evidence of a wooden spear attack on a human ancestor](https://phys.org/news/2026-10-fatal-neanderthal-wound-earliest-evidence.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
 - [Scorecard: Colombia gets top marks while high-emitting countries doing too little to protect health from climate change](https://phys.org/news/2026-10-scorecard-colombia-high-emitting-countries.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science #foreign
-- [75,000 years ago, this Neanderthal was stabbed with a spear](https://www.popsci.com/science/oldest-neanderthal-spear-death/) — Popular Science · 08:00 PT · #science
-- [Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance](https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/) — NASA · 07:57 PT · #science
-- [Scientific expertise does not guarantee greater credibility in public debates, survey suggests](https://phys.org/news/2026-10-scientific-expertise-greater-credibility-debates.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
-- [Astronomers discover first green star and the reddest star ever recorded](https://www.popsci.com/science/first-green-star-reddest-star/) — Popular Science · 07:26 PT · #science
-- [New smart patch could help detect and treat blood clots after spinal surgery](https://phys.org/news/2026-10-smart-patch-blood-clots-spinal.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [Fossil footprints reveal how dinosaur ancestors gradually shifted from sprawling to upright walking](https://phys.org/news/2026-10-fossil-footprints-reveal-dinosaur-ancestors.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [Chandra Finds Possible Origin of ‘Treble Clef’ Waves](https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/) — NASA · 07:19 PT · #science
-- [✚ Getting to know a dataset](https://flowingdata.com/2026/10/15/process-410-know/) — FlowingData · 07:07 PT · #science
-- [Drowned 5,000-year-old forests reborn as thriving peat reefs and biodiversity hotspots off Mozambique](https://phys.org/news/2026-10-year-forests-reborn-peat-reefs.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [Pupil size reveals differences between speaking aloud and inner speech](https://phys.org/news/2026-10-pupil-size-reveals-differences-aloud.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [Research finds vegan honey could be made with similar antimicrobial properties to mānuka honey](https://phys.org/news/2026-10-vegan-honey-similar-antimicrobial-properties.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science
-- [Cortisol is a reproduction friend, not enemy](https://phys.org/news/2026-10-cortisol-reproduction-friend-enemy.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [In 1976, a college paper blamed the Salem witch trials on moldy bread. It wasn’t true.](https://www.popsci.com/science/salem-witch-trials-moldy-bread-ergot/) — Popular Science · 06:02 PT · #science
-- [Finding new ways to catch a thief—via intruders' airborne eDNA](https://phys.org/news/2026-10-ways-thief-intruders-airborne-edna.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
-- [Time to redefine concept of health: Indigenous views of health reveal gaps in Western health frameworks](https://phys.org/news/2026-10-redefine-concept-health-indigenous-views.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science

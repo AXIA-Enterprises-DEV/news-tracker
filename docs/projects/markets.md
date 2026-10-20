@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-19T18:45:48-07:00
+updated: 2026-10-19T23:42:01-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,21 @@ tags: ["project", "markets"]
 
 ## 2026-10-19
 
+- [McBride seeks increased buyback authority at upcoming AGM](https://www.investing.com/news/company-news/mcbride-seeks-increased-buyback-authority-at-upcoming-agm-93CH-4958828) — All News · 23:03 PT · #business #markets
+- [Tonbo Imaging’s Rs 852 crore IPO subscribed 140x. Check GMP, allotment, other details](https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imagings-rs-852-crore-ipo-subscribed-140x-check-gmp-allotment-other-details/articleshow/135062276.cms) — Economic Times · 22:45 PT · #business #markets
+- [Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?](https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms) — Economic Times · 21:22 PT · #business #markets
+- [OpenAI races to lock in $30B at $1.4Tvaluation ahead of Anthropic IPO](https://seekingalpha.com/news/4654452-openai-races-to-lock-in-30b-at-14tvaluation-ahead-of-anthropic-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 21:15 PT · #markets #ai
+- [Jio IPO vs Airtel shares: Which telecom giant offers greater valuation comfort to investors?](https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms) — Economic Times · 21:00 PT · #business #markets
+- [Metaplanet Turns an Esports Veteran Into a Bitcoin Treasury Giant](https://news.bitcoin.com/featured/metaplanet-turns-an-esports-veteran-into-a-bitcoin-treasury-giant/) — Bitcoin News · 20:30 PT · #markets $SLE
+- [Elon Musk Says 2 Products Will Account for Most of Tesla’s Value](https://news.bitcoin.com/featured/elon-musk-says-2-products-will-account-for-most-of-teslas-value/) — Bitcoin News · 19:45 PT · #markets #ai $TSLA
+- [BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion](https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html) — CNBC Top News · 19:44 PT · #markets
+- [SpaceX Q3 earnings: Revenue seen surging to $13B as AI business takes centre stage](https://seekingalpha.com/news/4654451-spacex-q3-earnings-revenue-seen-surging-to-13b-as-ai-business-takes-centre-stage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 19:39 PT · #markets #ai
+- [Shares stumble, oil rises as investors await AI sector earnings - Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5) — Top stories - Google News · 19:09 PT · #world #ai #markets #oil
+- [The $430 Call Dwarfed Its Open Interest - Moomoo](https://news.google.com/rss/articles/CBMilwFBVV95cUxQTV9hSjVLN0JocUVVVFBGaWJuVHpvMUJhTTlNSWpEZi1nck45bkJ2UWNCTjJ4RUJraWEwRDJycTVlUWV1N1pXYkZTcGVGVzFnZ1NzdlYtS1RwOV9Wc2otZHNJVVdYanJrYVcwMnU1cE9SNU9nQWI0dTNWeHpLdlZ6WDJQN1Y1cXpDODdSYVVOSjJoTUQ2bS1J?oc=5) — Google News: unusual options activity · 19:03 PT · #markets
+- [SCHEDULE 13D - Rantizo (0001991261) (Subject)](https://www.sec.gov/Archives/edgar/data/1991261/000091957426007073/0000919574-26-007073-index.htm) — SEC EDGAR All Filings · 18:53 PT · #filings #markets
+- [SCHEDULE 13D/A - GRAHAM DONALD (0001018401) (Filed by)](https://www.sec.gov/Archives/edgar/data/1018401/000095015726001110/0000950157-26-001110-index.htm) — SEC EDGAR All Filings · 18:48 PT · #filings #markets
+- [SCHEDULE 13G - Evernorth Holdings Inc. (0002092592) (Subject)](https://www.sec.gov/Archives/edgar/data/2092592/000119312526425558/0001193125-26-425558-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
+- [SCHEDULE 13G/A - Ng Chun Seong (0002057693) (Filed by)](https://www.sec.gov/Archives/edgar/data/2057693/000149315226047674/0001493152-26-047674-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
 - [SCHEDULE 13G/A - Liao Xiaoyan (0002058401) (Filed by)](https://www.sec.gov/Archives/edgar/data/2058401/000149315226047671/0001493152-26-047671-index.htm) — SEC EDGAR All Filings · 18:43 PT · #filings #markets
 - [4 - Devers Shannon L. (0002037721) (Reporting)](https://www.sec.gov/Archives/edgar/data/2037721/000087401526000267/0000874015-26-000267-index.htm) — SEC EDGAR All Filings · 18:40 PT · #filings #markets
 - [4 - Swayze Eric (0001791058) (Reporting)](https://www.sec.gov/Archives/edgar/data/1791058/000087401526000266/0000874015-26-000266-index.htm) — SEC EDGAR All Filings · 18:40 PT · #filings #markets
@@ -44,6 +59,7 @@ tags: ["project", "markets"]
 - [4 - Catalio BH SPV, LLC (0002158029) (Reporting)](https://www.sec.gov/Archives/edgar/data/2158029/000195812526000011/0001958125-26-000011-index.htm) — SEC EDGAR All Filings · 17:20 PT · #filings #markets
 - [4 - DelGhiaccio Brian M (0001813983) (Reporting)](https://www.sec.gov/Archives/edgar/data/1813983/000106039126000308/0001060391-26-000308-index.htm) — SEC EDGAR All Filings · 17:19 PT · #filings #markets
 - [4 - Brummer Gregg (0001990713) (Reporting)](https://www.sec.gov/Archives/edgar/data/1990713/000106039126000306/0001060391-26-000306-index.htm) — SEC EDGAR All Filings · 17:16 PT · #filings #markets
+- [IonQ Inc Options Spot-On: On October 19th, 69,359 Contracts Were Traded, With 852.68K Open Interest - Moomoo](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzVWLVNsUHZQNUQxcmNVeW5aMmd5UnRNSmhLVlRxbGgydUtrQ3hKY0lGRTd3V2Nnd2Z1Smg5dGdEN2tPeEJoZ2U4c2dtLXdtZnk3ZVpkX1JOLVYwVTYtb3hzQXJFZW15SGctak9EdVkyak5zSlZ2VEpNLW5zcWlMZWpYcFhyRHdTSzNnVTVPMk9kUW1TR1YxVWNEckhTdkdreUE?oc=5) — Google News: unusual options activity · 17:16 PT · #markets
 - [4 - Bell Jennifer Lynn (0002066781) (Reporting)](https://www.sec.gov/Archives/edgar/data/2066781/000106039126000304/0001060391-26-000304-index.htm) — SEC EDGAR All Filings · 17:15 PT · #filings #markets
 - [4 - BETA Technologies, Inc. (0001784570) (Issuer)](https://www.sec.gov/Archives/edgar/data/1784570/000119312526425520/0001193125-26-425520-index.htm) — SEC EDGAR All Filings · 17:13 PT · #filings #markets
 - [4 - Bales Brian A (0001748289) (Reporting)](https://www.sec.gov/Archives/edgar/data/1748289/000106039126000302/0001060391-26-000302-index.htm) — SEC EDGAR All Filings · 17:13 PT · #filings #markets
@@ -85,6 +101,7 @@ tags: ["project", "markets"]
 - [4 - Waterman Michael (0001851495) (Reporting)](https://www.sec.gov/Archives/edgar/data/1851495/000095010326015823/0000950103-26-015823-index.htm) — SEC EDGAR All Filings · 15:22 PT · #filings #markets
 - [4 - Radecki Brian J (0001402193) (Reporting)](https://www.sec.gov/Archives/edgar/data/1402193/000095010326015822/0000950103-26-015822-index.htm) — SEC EDGAR All Filings · 15:20 PT · #filings #markets
 - [4 - Kyrillos Jean-Claude (0001804186) (Reporting)](https://www.sec.gov/Archives/edgar/data/1804186/000143813326000134/0001438133-26-000134-index.htm) — SEC EDGAR All Filings · 15:20 PT · #filings #markets
+- [Race Cars, Top Hats And Cleveland Cliffs.. Oh My - TalkMarkets - Howl.link](https://news.google.com/rss/articles/CBMiO0FVX3lxTE5MaGZhNGd2UGp5UlM5SWdOSEdyY2RSVk1fU2NxS3Y0UHdQQ2NBWDFFajk0c0pnQ2xZT000?oc=5) — Google News: unusual options activity · 15:20 PT · #markets
 - [4 - Peer Andrew (0002030941) (Reporting)](https://www.sec.gov/Archives/edgar/data/2030941/000095010326015821/0000950103-26-015821-index.htm) — SEC EDGAR All Filings · 15:18 PT · #filings #markets
 - [4 - Chamoun George (0001419488) (Reporting)](https://www.sec.gov/Archives/edgar/data/1419488/000095010326015820/0000950103-26-015820-index.htm) — SEC EDGAR All Filings · 15:16 PT · #filings #markets
 - [Virginia governor says will not support NextEra-Dominion merger without six-year rate freeze](https://seekingalpha.com/news/4654443-virginia-governor-says-will-not-support-nextera-dominion-merger-without-six-year-rate-freeze?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 15:15 PT · #markets
@@ -155,6 +172,7 @@ tags: ["project", "markets"]
 - [8-K - Eva Live Inc (0001983736) (Filer)](https://www.sec.gov/Archives/edgar/data/1983736/000149315226047596/0001493152-26-047596-index.htm) — SEC EDGAR 8-K · 13:40 PT · #filings #markets
 - [8-K - Mineralys Therapeutics, Inc. (0001933414) (Filer)](https://www.sec.gov/Archives/edgar/data/1933414/000193341426000125/0001933414-26-000125-index.htm) — SEC EDGAR 8-K · 13:37 PT · #filings #civic #markets
 - [HOME BANCORP, INC. ANNOUNCES CEO RETIREMENT AND LEADERSHIP TRANSITION](https://www.prnewswire.com/news-releases/home-bancorp-inc-announces-ceo-retirement-and-leadership-transition-302913111.html) — PR Newswire M&A · 13:36 PT · #business #markets $HBCP
+- [Bighorn Metals Corp. Addresses Unusual Trading Activity, Confirms No Material Operational Changes - Kalkine Media](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLWVZQ0NmVUwzR3dSWVExR0o3Rk0tUzJpbjNVb3F5N3hYLTNvVVVERVIzQ2Q4ZzJyaC13QWgwSlpxX0pYc1NjRmlqMlByelk1UThKNWlTb3dEMWNMVlpJSGU0RDN0X3d0Q3lmajFkMVBCSFFNN3NCLVU1ckEwRk0wMDYxVEh0TkhmY0xCdXdHWDF1V2R2RzQtMTZmdks4UkxnRUN6SEZwcV9Dd1QzQlM5R19TcnE5ODh3ZUJTVzNHUW5mWW9mMzBRNWE0Q2lYRUR1cnJNcGlhZDVKZw?oc=5) — Google News: unusual options activity · 13:35 PT · #markets
 - [8-K - Permianville Royalty Trust (0001520048) (Filer)](https://www.sec.gov/Archives/edgar/data/1520048/000110465926116914/0001104659-26-116914-index.htm) — SEC EDGAR 8-K · 13:33 PT · #filings #markets
 - [8-K - JELD-WEN Holding, Inc. (0001674335) (Filer)](https://www.sec.gov/Archives/edgar/data/1674335/000167433526000129/0001674335-26-000129-index.htm) — SEC EDGAR 8-K · 13:33 PT · #filings #civic #markets
 - [8-K - Installed Building Products, Inc. (0001580905) (Filer)](https://www.sec.gov/Archives/edgar/data/1580905/000162828026066316/0001628280-26-066316-index.htm) — SEC EDGAR 8-K · 13:32 PT · #filings #markets
@@ -251,6 +269,7 @@ tags: ["project", "markets"]
 - [D - Sensydia Corp (0001665933) (Filer)](https://www.sec.gov/Archives/edgar/data/1665933/000166593326000004/0001665933-26-000004-index.htm) — SEC EDGAR All Filings · 12:24 PT · #filings #markets
 - [13F-HR - Planned Solutions, Inc. (0001831332) (Filer)](https://www.sec.gov/Archives/edgar/data/1831332/000183133226000005/0001831332-26-000005-index.htm) — SEC EDGAR All Filings · 12:24 PT · #filings #markets
 - [D - LOMBARD MCKINNEY INVESTORS LLC (0002159891) (Filer)](https://www.sec.gov/Archives/edgar/data/2159891/000215989126000001/0002159891-26-000001-index.htm) — SEC EDGAR All Filings · 12:24 PT · #filings #markets
+- [Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPM1lSczhESmRndWxlZjZIbWhtVS0zZXBjS2Z2Qi12ZVIwcXR0c2lZTWNSYjQxc2lTUnBGaEVBQWZpbUFhNUxQcUhNeVByZVFPQ0hJbm52TVVrX2c0WFFaMDJHSjktNHV3VFVhcDZoY2Ewc1Q4Yks2N0FTek1HR0lYYVoxV0ZYb0Y0c2RmUUtRdVlSbDRNYWJvcm5PeFdqQkVOeFVfQ1RMZTZTeGtzcDFR?oc=5) — Top stories - Google News · 12:24 PT · #world #ai #markets
 - [Community Heritage Financial, Inc. Announces Third Quarter 2026 Dividend](https://www.prnewswire.com/news-releases/community-heritage-financial-inc-announces-third-quarter-2026-dividend-302913015.html) — PR Newswire M&A · 12:24 PT · #business #markets
 - [13F-HR - CAP Partners, LLC (0002006870) (Filer)](https://www.sec.gov/Archives/edgar/data/2006870/000200687026000007/0002006870-26-000007-index.htm) — SEC EDGAR All Filings · 12:23 PT · #filings #markets
 - [D - 1094 HANCOCK HOLDINGS LLC (0002153114) (Filer)](https://www.sec.gov/Archives/edgar/data/2153114/000215311426000001/0002153114-26-000001-index.htm) — SEC EDGAR All Filings · 12:22 PT · #filings #markets
@@ -392,22 +411,3 @@ tags: ["project", "markets"]
 - [DEF 14A - SR Bancorp, Inc. (0001951276) (Filer)](https://www.sec.gov/Archives/edgar/data/1951276/000119312526424753/0001193125-26-424753-index.htm) — SEC EDGAR All Filings · 06:20 PT · #filings #markets
 - [GoPro Files Preliminary Proxy Statement; Proposed Merger with Starman Optical on Track](https://www.prnewswire.com/news-releases/gopro-files-preliminary-proxy-statement-proposed-merger-with-starman-optical-on-track-302912646.html) — PR Newswire M&A · 06:20 PT · #business #markets $GPRO
 - [13F-HR/A - Aubrey Capital Management Ltd (0001730754) (Filer)](https://www.sec.gov/Archives/edgar/data/1730754/000173075426000010/0001730754-26-000010-index.htm) — SEC EDGAR All Filings · 06:18 PT · #filings #markets
-- [D/A - Glenhaven Global II LP (0001563268) (Filer)](https://www.sec.gov/Archives/edgar/data/1563268/000156326826000001/0001563268-26-000001-index.htm) — SEC EDGAR All Filings · 06:16 PT · #filings #markets
-- [4 - Snyder Mark S (0001463117) (Reporting)](https://www.sec.gov/Archives/edgar/data/1463117/000010898526000089/0000108985-26-000089-index.htm) — SEC EDGAR All Filings · 06:16 PT · #filings #markets
-- [497 - HARTFORD MUTUAL FUNDS, INC (0001006415) (Filer)](https://www.sec.gov/Archives/edgar/data/1006415/000119312526424749/0001193125-26-424749-index.htm) — SEC EDGAR All Filings · 06:15 PT · #filings #markets
-- [8-K - BioCardia, Inc. (0000925741) (Filer)](https://www.sec.gov/Archives/edgar/data/925741/000143774926032887/0001437749-26-032887-index.htm) — SEC EDGAR 8-K · 06:15 PT · #filings #markets
-- [13F-HR - Todd Wealth Management, LLC (0002157683) (Filer)](https://www.sec.gov/Archives/edgar/data/2157683/000215768326000008/0002157683-26-000008-index.htm) — SEC EDGAR All Filings · 06:15 PT · #filings #markets
-- [N-CSR - John Hancock Funds II (0001331971) (Filer)](https://www.sec.gov/Archives/edgar/data/1331971/000119312526424747/0001193125-26-424747-index.htm) — SEC EDGAR All Filings · 06:14 PT · #filings #markets
-- [497 - HARTFORD MUTUAL FUNDS II, INC (0000049905) (Filer)](https://www.sec.gov/Archives/edgar/data/49905/000119312526424748/0001193125-26-424748-index.htm) — SEC EDGAR All Filings · 06:14 PT · #filings #markets
-- [13F-HR - Woodward Financial Advisors, Inc. (0002136600) (Filer)](https://www.sec.gov/Archives/edgar/data/2136600/000195175726001677/0001951757-26-001677-index.htm) — SEC EDGAR All Filings · 06:14 PT · #filings #markets
-- [13F-HR - Lancaster Investment Management (0001630064) (Filer)](https://www.sec.gov/Archives/edgar/data/1630064/000163006426000005/0001630064-26-000005-index.htm) — SEC EDGAR All Filings · 06:13 PT · #filings #markets
-- [8-K - WILLIAMS SONOMA INC (0000719955) (Filer)](https://www.sec.gov/Archives/edgar/data/719955/000071995526000223/0000719955-26-000223-index.htm) — SEC EDGAR 8-K · 06:06 PT · #filings #civic #markets
-- [8-K - Veradermics, Inc (0001827635) (Filer)](https://www.sec.gov/Archives/edgar/data/1827635/000182763526000036/0001827635-26-000036-index.htm) — SEC EDGAR 8-K · 06:06 PT · #filings #markets
-- [8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer)](https://www.sec.gov/Archives/edgar/data/1895249/000110465926116753/0001104659-26-116753-index.htm) — SEC EDGAR 8-K · 06:05 PT · #filings #markets
-- [8-K - WERNER ENTERPRISES INC (0000793074) (Filer)](https://www.sec.gov/Archives/edgar/data/793074/000079307426000162/0000793074-26-000162-index.htm) — SEC EDGAR 8-K · 06:05 PT · #filings #markets
-- [8-K - Quartzsea Acquisition Corp (0002047455) (Filer)](https://www.sec.gov/Archives/edgar/data/2047455/000182912626011279/0001829126-26-011279-index.htm) — SEC EDGAR 8-K · 06:02 PT · #filings #item-1.01 #markets
-- [8-K12B - ETOILES CAPITAL GROUP CO., LTD (0002058349) (Filer)](https://www.sec.gov/Archives/edgar/data/2058349/000121390026110502/0001213900-26-110502-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #item-1.01 #markets
-- [8-K - DATA I/O CORP (0000351998) (Filer)](https://www.sec.gov/Archives/edgar/data/351998/000119312526424740/0001193125-26-424740-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #markets
-- [8-K - BNB Standard Corp (0001482541) (Filer)](https://www.sec.gov/Archives/edgar/data/1482541/000148254126000058/0001482541-26-000058-index.htm) — SEC EDGAR 8-K · 06:00 PT · #filings #civic #markets
-- [8-K - Cardinal Infrastructure Group Inc. (0002079999) (Filer)](https://www.sec.gov/Archives/edgar/data/2079999/000119312526424737/0001193125-26-424737-index.htm) — SEC EDGAR 8-K · 05:59 PT · #filings #item-1.01 #markets
-- [8-K - IRulya Therapeutics Inc. (0001662774) (Filer)](https://www.sec.gov/Archives/edgar/data/1662774/000119312526424731/0001193125-26-424731-index.htm) — SEC EDGAR 8-K · 05:49 PT · #filings #markets

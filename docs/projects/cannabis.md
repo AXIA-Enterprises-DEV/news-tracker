@@ -1,13 +1,13 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-19T18:45:48-07:00
-count: 106
+updated: 2026-10-19T23:42:01-07:00
+count: 107
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-106 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+107 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-19
 
@@ -21,6 +21,7 @@ tags: ["project", "cannabis"]
 - [Grease Monkey Strain Guide Details Hybrid's Breeding, Effects and Lab Tests - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNDctU0xMUm5ENmFpSlBHaWNleDBRZndyQ203dlZzVGVZaFlaN2ZXX3ZKVjM0Y08ySUNLWWZjNS1CRE12a0tQQWkxRWVRb0NQTWxRTUc1dmhHNi1oQVFUWlpITWxTbEtPWm42enZrMHpEQ0ZmWTBzQVkwS0FXNC03eU5COFlJY19ZWVhJVmJ2QzZiSGZUcnV6cjlNMzg3MEhqUVlQVlgwajE1cnFzaUxzUW1yYzlKQThVeXZZa3U2T2dpM1M1MEM2bkdCUFRveFRsOXl3anhjV0taMTRkUUM5X1BXQll1SGlBVGRENjhUM3FQNHFLOFl2WQ?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 09:42 PT · #business #cannabis
 - [Grease Monkey Strain Guide Details Hybrid's Breeding, Effects and Lab Tests - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNjl5YVB2NGhMZUdNSHlyRkFZZy1WQXVobWNOZUF2Y00xWjRnNWVDOXUyNV9EYWFSUDljTDNvQ2pZbF9mblNRa2pxRm8tQWJJLTdzMXJlZUZXRENtN2Z4bWZKQWhNZy1ZOHk2Z1hPWi1UUGI1bGV3MWhON2NkR3cxMDJVUWdsS2dNZE9EdG5tTENMZ08ydlBHVWMtUDVKMUZ6UGhOeWNtd3lHVllFSTBPSjhxWU43UHo3Y1haWUNvaGlCWGtwVEVsWVRtdThrMk9MNjN5VWlnTXJjaW1CWXFCRDdVMThLM1B3dVZ3Wg?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 09:42 PT · #business #cannabis
 - [Grease Monkey Strain Guide Details Hybrid's Breeding, Effects and Lab Tests - Corsicana Daily Sun](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcG5WdkdOZVFNb25OV000SGVEQzFZQy1iSjc4TzJGYnM2Y3JPTTQwdWY3eHJFOHN2NGxjcUZWU1M5eTNOOGdzdEROX0t1VE9NdHJHNC1VTDRSTXBZbDN6SURfRzZmZjhhdWtUNFJIWGpNWjFKbGVyYjl2Rzk2WHpKQlFhVnlnaXZ5Q1Bsc1pMS1NfYmVPSHlIbTV5SXlBaHM2aWZoNl9Da2U5aFdYNVhvbXhuWHVEbzRUYjNFWFBJdUE3Xy1BcHpuRHlVLUNxRGF5NHVNUGVkUWNoQXItR213ZnBPLXc5alFTQjNmQ2ZFV0ZaRUZQWnR2SVpn?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 09:42 PT · #business #cannabis
+- [Grease Monkey Strain Guide Details Hybrid's Breeding, Effects and Lab Tests - Newswire](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWU5taUtxaTYtR0VOUl9XOVV0NmJVRnlYdzQ1alZVaDU0TDBtZ3FGT2JaMk1fbUZVRVZlZU55bVdCa2M2ZG0tZ2V0VzZZek4yUGpGLTJlNnlwbWpNTFAzVmlSRU5xZWFhRUpBYUxmUHJFR3hnUXM2Z1QtRXh5MDVXUjJFbTZfVDg3SXUyY0I2Vlo0ZVpIZ0lYMHp2M3dleFVZQnRpQTZ3?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 09:40 PT · #business #cannabis
 - [NORML Says Federal Prohibition Shouldn’t Make Marijuana Industry Contracts Unenforceable](https://www.marijuanamoment.net/norml-says-federal-prohibition-shouldnt-make-marijuana-industry-contracts-unenforceable/) — Marijuana Moment · 08:37 PT · #business #cannabis
 - [Most Military Veterans Support Legalizing Marijuana For Recreational And Medical Use, Poll Shows](https://www.marijuanamoment.net/most-military-veterans-support-legalizing-marijuana-for-recreational-and-medical-use-poll-shows/) — Marijuana Moment · 06:08 PT · #business #cannabis #foreign
 - [A Return To Criminalization Is Not The Solution To Unfair Rules Differences Between Hemp And Marijuana (Op-Ed)](https://www.marijuanamoment.net/a-return-to-criminalization-is-not-the-solution-to-unfair-rules-differences-between-hemp-and-marijuana-op-ed/) — Marijuana Moment · 05:16 PT · #business #cannabis

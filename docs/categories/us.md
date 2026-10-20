@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-19T18:45:48-07:00
+updated: 2026-10-19T23:42:01-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,19 @@ tags: ["category", "us"]
 
 ## 2026-10-19
 
+- [New teen driving safety push in Las Vegas follows serious crash involving teen](https://www.ktnv.com/news/new-teen-driving-safety-push-follows-serious-las-vegas-crash-involving-teen) — KTNV Las Vegas · 21:53 PT · #us #nevada
+- [Monday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/mondays-nevada-preps-high-school-sports-scoreboard-3902519/) — Las Vegas Review-Journal · 21:50 PT · #us #nevada
+- [LETTER: Let’s fact-check political ads](https://www.reviewjournal.com/opinion/letters/letter-lets-fact-check-political-ads-3902513/) — Las Vegas Review-Journal · 21:01 PT · #us #media #nevada
+- [LETTER: A tale of two sentences](https://www.reviewjournal.com/opinion/letters/letter-a-tale-of-two-sentences-3902510/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [CARTOONS: El-Sayed’s vision problems](https://www.reviewjournal.com/opinion/drawing-board/cartoons-el-sayeds-vision-problems-3902500/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [RICH LOWRY: Is it the return of woke?](https://www.reviewjournal.com/opinion/rich-lowry-is-it-the-return-of-woke-3902497/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [EDITORIAL: ‘Like giving whiskey and car keys to teenage boys’](https://www.reviewjournal.com/opinion/editorials/editorial-like-giving-whiskey-and-car-keys-to-teenage-boys-3902494/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Las Vegas healthcare providers report rising flu and COVID cases](https://www.ktnv.com/news/las-vegas-healthcare-providers-report-rising-flu-and-covid-cases) — KTNV Las Vegas · 20:20 PT · #us #nevada
+- [No. 1 Faith Lutheran, No. 3 Arbor View play to draw in 5A girls soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-1-faith-lutheran-no-3-arbor-view-play-to-draw-in-5a-girls-soccer-photos-3902463/) — Las Vegas Review-Journal · 20:10 PT · #us #nevada
+- [Raiders’ next opponent has key receiver injured, out for months](https://www.reviewjournal.com/sports/raiders/raiders-next-opponent-has-key-receiver-injured-out-for-months-3902458/) — Las Vegas Review-Journal · 20:01 PT · #us #nevada
+- [Las Vegas high school girls volleyball: What’s on the line in final week?](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-girls-volleyball-whats-on-the-line-in-final-week-3902452/) — Las Vegas Review-Journal · 19:11 PT · #us #nevada
+- [Moapa River tribal police investigating death of man, 20, near Las Vegas](https://www.reviewjournal.com/local/local-nevada/moapa-river-tribal-police-investigating-death-of-man-20-near-las-vegas-3902428/) — Las Vegas Review-Journal · 18:43 PT · #us #nevada
+- [Suspended Pahrump Justice of the Peace denies misusing donations during judicial discipline hearing](https://www.reviewjournal.com/news/politics-and-government/former-las-vegas-councilwoman-denies-misusing-donations-during-judicial-discipline-hearing-3902405/) — Las Vegas Review-Journal · 18:22 PT · #us #nevada
 - [Nevada’s Public Records Task Force struggles to agree on path forward](https://www.reviewjournal.com/news/politics-and-government/nevada/nevadas-public-records-task-force-struggles-to-agree-on-path-forward-3902386/) — Las Vegas Review-Journal · 18:01 PT · #us #nevada
 - [5 things on new Athletics head of baseball ops Taylor Smith’s to-do list](https://www.reviewjournal.com/sports/athletics/5-things-on-new-athletics-head-of-baseball-ops-taylor-smiths-to-do-list-3902380/) — Las Vegas Review-Journal · 17:43 PT · #us #nevada #smallbiz
 - [New teen driver safety initiative launches in Clark County as families urged to talk to young drivers](https://www.ktnv.com/neighborhoods/east-las-vegas/new-teen-driver-safety-initiative-launches-in-clark-county-as-families-urged-to-talk-to-young-drivers) — KTNV Las Vegas · 17:34 PT · #us #nevada
@@ -410,16 +423,3 @@ tags: ["category", "us"]
 - [Los votantes de Nevada tomarán la decisión definitiva sobre la identificación obligatoria del votante](https://lasvegassun.com/news/2026/oct/15/los-votantes-de-nevada-tomarn-la-decisin-definitiv/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Nevada voters will make the final decision on mandatory voter ID in November](https://lasvegassun.com/news/2026/oct/15/nevada-voters-will-make-the-final-decision-on-mand/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
 - [Zach Bryan announces Allegiant Stadium stop as part of 2027 tour](https://lasvegassun.com/news/2026/oct/15/zach-bryan-announces-allegiant-stadium-stop-as-par/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Investigadores de Virginia Tech revelan un agotamiento acelerado de las aguas subterráneas en toda la cuenca del río Colorado](https://lasvegassun.com/news/2026/oct/15/investigadores-de-virginia-tech-revelan-un-agotami/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Virginia Tech researchers reveal accelerating groundwater depletion across the Colorado River Basin](https://lasvegassun.com/news/2026/oct/15/virginia-tech-researchers-reveal-accelerating-grou/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Vegas pick'em: NFL Week 6 winners against the spread](https://lasvegassun.com/news/2026/oct/15/nfl-vegas-picks-week6-against-spread-sportsbooks/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [2026 Top Doctors: Recognizing some of Southern Nevada's most respected physicians](https://vegasinc.lasvegassun.com/business/2026/oct/15/2026-top-doctors-recognizing-some-of-las-vegas-mos/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- ['Our ancestors’ wildest dreams’: ‘Spelman 7’ defy college expectations](https://lasvegassun.com/news/2026/oct/15/our-ancestors-wildest-dreams-spelman-7-defy-colleg/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Democratic candidates have nation's best interest at heart](https://lasvegassun.com/news/2026/oct/15/democratic-candidates-have-nations-best-interest-a/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
-- [Looking for blame in all the wrong places](https://lasvegassun.com/news/2026/oct/15/looking-for-blame-in-all-the-wrong-places/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Raiders still pointing upward despite two-game losing streak](https://lasvegassun.com/news/2026/oct/15/raiders-still-pointing-upward-despite-two-game-los/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Boy Harsher brings latest album 'Get Mean' to House of Blues Las Vegas](https://lasvegasweekly.com/ae/music/2026/oct/15/boy-harsher-get-mean-house-of-blues-concert/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Award-winning filmmaker Hisonni Mustafa blazes a bright trail in Las Vegas](https://lasvegasweekly.com/ae/film/2026/oct/15/filmmaker-hisonni-mustafa-interview-/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [US bases overseas are becoming prime targets](https://lasvegassun.com/news/2026/oct/15/us-bases-overseas-are-becoming-prime-targets/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
-- [The case for impeachment: What would the founders do?](https://lasvegassun.com/news/2026/oct/15/the-case-for-impeachment-what-would-the-founders-d/) — Las Vegas Sun · 02:00 PT · #us #nevada #smallbiz
-- [Is the Iran war driving up gas prices in Nevada?](https://thenevadaindependent.com/article/is-the-iran-war-driving-up-gas-prices-in-nevada/) — The Nevada Independent · 01:55 PT · #us #foreign #nevada
