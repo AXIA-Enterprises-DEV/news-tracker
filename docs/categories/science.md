@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-19T16:05:38-07:00
+updated: 2026-10-19T18:45:48-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,16 @@ tags: ["category", "science"]
 
 ## 2026-10-19
 
+- [Q&A: How does technology help track foodborne pathogens and outbreaks?](https://phys.org/news/2026-10-qa-technology-track-foodborne-pathogens.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
+- [Nanoscale tech tracks proteins inside living neurons to guide Alzheimer's and Parkinson's drug discovery](https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science #smallbiz
+- [Russian Satellite Makes a Menacing Approach to Another Craft in Orbit](https://www.nytimes.com/2026/10/19/science/russia-satellite-kosmos-2612.html) — NYT > Science · 17:24 PT · #science #foreign
+- [Students take up to 88 standardized tests before high school, but more testing doesn't improve learning](https://phys.org/news/2026-10-students-standardized-high-school-doesnt.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
+- [New 4D biofabrication technology holds promise for tissue engineering, wound healing](https://phys.org/news/2026-10-4d-biofabrication-technology-tissue-wound.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [Molecular switch controls how cells load cargo for recycling](https://phys.org/news/2026-10-molecular-cells-cargo-recycling.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos](https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks) — Space | The Guardian · 16:37 PT · #science
+- [13% of Earth's land identified as biodiversity conservation hotspots](https://phys.org/news/2026-10-earth-biodiversity-hotspots.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [How much of a basin's drainage network should flood models capture?](https://phys.org/news/2026-10-basin-drainage-network-capture.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [Forgotten particle could answer mystery of why we exist, say physicists](https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
 - [Criminal justice researchers use statistical modeling to examine wrongful-conviction risk](https://phys.org/news/2026-10-criminal-justice-statistical-wrongful-conviction.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
 - [Planetary 'twins' Uranus and Neptune may have different origin stories](https://phys.org/news/2026-10-planetary-twins-uranus-neptune-stories.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
 - [Researchers unlock new way to map molecular structure on surfaces](https://phys.org/news/2026-10-molecular-surfaces.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
@@ -413,13 +423,3 @@ tags: ["category", "science"]
 - [In 1976, a college paper blamed the Salem witch trials on moldy bread. It wasn’t true.](https://www.popsci.com/science/salem-witch-trials-moldy-bread-ergot/) — Popular Science · 06:02 PT · #science
 - [Finding new ways to catch a thief—via intruders' airborne eDNA](https://phys.org/news/2026-10-ways-thief-intruders-airborne-edna.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
 - [Time to redefine concept of health: Indigenous views of health reveal gaps in Western health frameworks](https://phys.org/news/2026-10-redefine-concept-health-indigenous-views.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
-- [Mysterious brain activity under anesthesia challenges what we know about consciousness](https://www.sciencedaily.com/releases/2026/10/261015003440.htm) — Latest Science News -- ScienceDaily · 05:52 PT · #science
-- [Arctic sea ice hits another troubling low in 2026](https://www.sciencedaily.com/releases/2026/10/261015073212.htm) — Latest Science News -- ScienceDaily · 05:40 PT · #science
-- [Why tightly confined water's response to electric fields depends on direction](https://phys.org/news/2026-10-tightly-confined-response-electric-fields.html) — Phys.org - latest science and technology news stories · 05:40 PT · #science
-- [Q&A: Expanding climate models to better capture the complexities of public health](https://phys.org/news/2026-10-qa-climate-capture-complexities-health.html) — Phys.org - latest science and technology news stories · 05:40 PT · #science
-- [Eating late at night linked to up to 30% higher risk of liver disease](https://www.sciencedaily.com/releases/2026/10/261014015503.htm) — Latest Science News -- ScienceDaily · 05:26 PT · #science
-- [New research challenges the idea that GST always hits lower-income households hardest](https://phys.org/news/2026-10-idea-gst-income-households-hardest.html) — Phys.org - latest science and technology news stories · 05:20 PT · #science
-- [Turning up the heat on chickpea yield](https://phys.org/news/2026-10-chickpea-yield.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
-- [These four companies ain’t playin’ when it comes to playback](https://www.popsci.com/gear/nad-cambridge-andover-audio-focal-naim-utopia-cd-player-turntable-connected-speaker-product-news/) — Popular Science · 05:00 PT · #science
-- [A fungus is threatening the world’s food supply. Scientists just found a new defense](https://www.sciencedaily.com/releases/2026/10/261014015501.htm) — Latest Science News -- ScienceDaily · 04:45 PT · #science
-- [Jackie the bald eagle’s final cause of death revealed](https://www.popsci.com/environment/jackie-eagle-cause-of-death/) — Popular Science · 04:41 PT · #science

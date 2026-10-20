@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-19T16:05:38-07:00
-count: 108
+updated: 2026-10-19T18:45:48-07:00
+count: 106
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-108 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+106 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-19
 
+- [Man who took Peachy the flamingo from Las Vegas hotel exhibit found guilty of animal cruelty - The Mercury News](https://news.google.com/rss/articles/CBMic0FVX3lxTE10UWladUZPME4tMUp4RVh1eGI2dmhTdlRpaEpWOFdjRG1hdVNvNlFnUC03YUNmYjdNN3hMcmpQU1l1STlfRzFjdnlheVo1VWc1cWE0dUwyU1BjaXBwc3NrS3lWZGZzd0JqWmdaZXNwVFB2Tkk?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:39 PT · #business #cannabis #nevada
 - [Nevada jury weighs charges against Canadian who took Peachy the flamingo in drunken prank - Bluefield Daily Telegraph](https://news.google.com/rss/articles/CBMikAJBVV95cUxNT1NHUDFROVZKN1hZU1g4X3laNk5HRVFkN3RiSXVMSy0xWlZJVlNrQnJ1ZjBxNWlBM0hGNkN1Z2hTUTJOT0ptVDhuTG5jeWx1SEw4QUxfN2k2X2lPSXlLTFcxWndUb2pWUW52VHZpUF9wUzZ1dzN6b2FQZnlCSmE3SGdLMjIwSlNMMVpiQUhNajdHQjlkY0tYOEJhTVNVVEZ2Q01HMlFjR1lsOXdtS1dyOUdPSTM3bWpuS1RSYVE0UHRqdlNJaWthRFZjRTdqNktHdnI2MzcyWjVJc0wybjYyM2h4N1ZEeUp6YlF3WlRkbnNESHRDZGZtUTNhZGMwQ2VENGRDTmVCNjhWSEd2SkJTXw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:28 PT · #business #cannabis #nevada
 - [Curaleaf pushes back after Aurora rejects enhanced takeover bid](https://mjbizdaily.com/news/curaleaf-pushes-back-after-aurora-rejects-enhanced-takeover-bid/618730/) — MJBizDaily · 14:18 PT · #business #cannabis #smallbiz
 - [Latest poll shows Massachusetts adult-use cannabis sales repeal failing – badly](https://mjbizdaily.com/news/latest-poll-shows-massachusetts-adult-use-cannabis-sales-repeal-failing-badly/618736/) — MJBizDaily · 14:16 PT · #business #cannabis #smallbiz
@@ -149,9 +150,3 @@ tags: ["project", "cannabis"]
 
 - [Medical cannabis authorizers up 16% – what it means for operators](https://mjbizdaily.com/news/medical-cannabis-authorizers-up-16-what-it-means-for-operators/618490/) — MJBizDaily · 15:48 PT · #business #cannabis #smallbiz
 - [Do government-run cannabis retail sales work?](https://mjbizdaily.com/news/does-government-run-cannabis-retail-work/618419/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
-
-## 2026-10-05
-
-- [Curaleaf increases price for Aurora Cannabis hostile takeover bid](https://mjbizdaily.com/news/curaleaf-increases-price-for-aurora-cannabis-hostile-takeover-bid/618466/) — MJBizDaily · 16:05 PT · #business #cannabis #smallbiz
-- [Why are marijuana multistate operators supporting an anti-marijuana Senate candidate?](https://mjbizdaily.com/news/why-are-marijuana-multistate-operators-supporting-an-anti-marijuana-senate-candidate/618470/) — MJBizDaily · 13:11 PT · #business #cannabis #civic #smallbiz
-- [How the federal hemp ban treats delta-8 THC differently – and what operators are doing](https://mjbizdaily.com/news/how-the-federal-hemp-ban-treats-delta-8-thc-differently-and-what-operators-are-doing/618459/) — MJBizDaily · 10:40 PT · #business #cannabis #smallbiz

@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-19T16:05:38-07:00
+updated: 2026-10-19T18:45:48-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,8 +11,21 @@ tags: ["category", "us"]
 
 ## 2026-10-19
 
+- [Nevada’s Public Records Task Force struggles to agree on path forward](https://www.reviewjournal.com/news/politics-and-government/nevada/nevadas-public-records-task-force-struggles-to-agree-on-path-forward-3902386/) — Las Vegas Review-Journal · 18:01 PT · #us #nevada
+- [5 things on new Athletics head of baseball ops Taylor Smith’s to-do list](https://www.reviewjournal.com/sports/athletics/5-things-on-new-athletics-head-of-baseball-ops-taylor-smiths-to-do-list-3902380/) — Las Vegas Review-Journal · 17:43 PT · #us #nevada #smallbiz
+- [New teen driver safety initiative launches in Clark County as families urged to talk to young drivers](https://www.ktnv.com/neighborhoods/east-las-vegas/new-teen-driver-safety-initiative-launches-in-clark-county-as-families-urged-to-talk-to-young-drivers) — KTNV Las Vegas · 17:34 PT · #us #nevada
+- [Lennar development in Southern Highlands used 29.5 million gallons of water over 3 years](https://www.ktnv.com/neighborhoods/southwest-las-vegas/lennar-development-in-southern-highlands-used-29-5-million-gallons-of-water-over-3-years) — KTNV Las Vegas · 17:07 PT · #us #nevada
+- [Activist Mahmoud Khalil asks Supreme Court to let US judges quickly reverse immigration detentions](https://lasvegassun.com/news/2026/oct/19/activist-mahmoud-khalil-asks-supreme-court-to-let/) — Las Vegas Sun · 17:01 PT · #us #civic #nevada
+- [Marine life dramatically declined in Gulf of Mexico in years after BP oil spill, study finds](https://lasvegassun.com/news/2026/oct/19/marine-life-dramatically-declined-in-gulf-of-mexic/) — Las Vegas Sun · 16:57 PT · #us #nevada #oil
+- [North Las Vegas growth brings new homes, hotels and major developments](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-growth-brings-new-homes-hotels-and-major-developments) — KTNV Las Vegas · 16:53 PT · #us #nevada
+- [Raiders are faltering but focused on getting season back on track](https://www.reviewjournal.com/sports/raiders/raiders-are-faltering-but-focused-on-getting-season-back-on-track-3902367/) — Las Vegas Review-Journal · 16:38 PT · #us #nevada
+- [NBA season bets, predictions: Rockets, Mavericks and Greek are smart plays](https://www.reviewjournal.com/sports/betting/nba-season-bets-predictions-rockets-mavericks-and-greek-are-smart-plays-3902362/) — Las Vegas Review-Journal · 16:28 PT · #us #nevada
+- [BLM to reconsider Boulder City data center application on federal land](https://www.reviewjournal.com/news/environment/blm-to-reconsider-boulder-city-data-center-application-on-federal-land-3902357/) — Las Vegas Review-Journal · 16:25 PT · #us #nevada
+- [Superintendent’s Cup FAQ: CCSD football’s season-ending format explained](https://www.reviewjournal.com/nevada-preps/superintendents-cup-faq-ccsd-footballs-season-ending-format-explained-3902351/) — Las Vegas Review-Journal · 16:09 PT · #us #nevada
+- [Meet the researchers leaving the US because of Trump’s funding cuts and politicization of science](https://www.reviewjournal.com/news/nation-and-world/meet-the-researchers-leaving-the-us-because-of-trumps-funding-cuts-and-politicization-of-science-3902347/) — Las Vegas Review-Journal · 15:50 PT · #us #nevada
 - [CARTOON: How not to fight a fire](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-how-not-to-fight-a-fire-3902336/) — Las Vegas Review-Journal · 15:10 PT · #us #foreign #nevada
 - [Nevada jury weighs charges against Canadian who took Peachy the flamingo in drunken prank](https://www.ktnv.com/news/crime/nevada-jury-weighs-charges-against-canadian-who-took-peachy-the-flamingo-in-drunken-prank) — KTNV Las Vegas · 14:50 PT · #us #nevada
+- [Man who took Peachy the flamingo from Las Vegas hotel exhibit found guilty of animal cruelty](https://www.ktnv.com/man-who-took-flamingo-from-las-vegas-hotel-exhibit-found-guilty-of-animal-cruelty) — KTNV Las Vegas · 14:50 PT · #us #nevada
 - [As Lake Mead sinks, Southern Nevada experts outline solutions to water crisis](https://www.reviewjournal.com/news/environment/as-lake-mead-sinks-southern-nevada-experts-outline-solutions-to-water-crisis-3902327/) — Las Vegas Review-Journal · 14:30 PT · #us #nevada
 - [Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples](https://lasvegassun.com/news/2026/oct/19/japan-launches-spacecraft-to-mysterious-moons-of-m/) — Las Vegas Sun · 14:16 PT · #us #nevada
 - [Raiders release former 1st-round pick, sign 2 Super Bowl champions](https://www.reviewjournal.com/sports/raiders/raiders-release-former-1st-round-pick-sign-2-super-bowl-champions-3902321/) — Las Vegas Review-Journal · 14:12 PT · #us #nevada
@@ -43,6 +56,7 @@ tags: ["category", "us"]
 - [Nellis AFB IDs service member killed in rappelling fall at football game](https://www.reviewjournal.com/news/military/nellis-afb-ids-service-member-killed-in-rappelling-fall-at-football-game-3902183/) — Las Vegas Review-Journal · 08:35 PT · #us #nevada
 - [Próximo presupuesto de Nevada podría aumentar en al menos $1 billón. Esta es la razón.](https://thenevadaindependent.com/article/proximo-presupuesto-de-nevada-podria-aumentar-en-al-menos-1-billon-esta-es-la-razon/) — The Nevada Independent · 08:29 PT · #us #nevada
 - [National Teen Driver Safety Week highlights importance of awareness for young drivers](https://www.ktnv.com/news/national-teen-driver-safety-week-highlights-importance-of-awareness-for-young-drivers) — KTNV Las Vegas · 08:27 PT · #us #nevada
+- [France on edge as curfews imposed to curb rioting and looting](https://www.latimes.com/world-nation/story/2026-10-19/french-prime-minister-calls-for-limited-curfews-to-curb-rioting-looting) — World & Nation · 08:04 PT · #us
 - [Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos](https://www.reviewjournal.com/news/civil-courts/lawsuit-alleges-roblox-didnt-safeguard-girl-from-predators-explicit-photos-3902172/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada
 - [Donnie Wahlberg confirms his flight skidded off Las Vegas airport runway](https://www.ktnv.com/news/donnie-wahlberg-confirms-his-flight-skidded-off-las-vegas-airport-runway) — KTNV Las Vegas · 07:52 PT · #us #nevada
 - [Athletics tab Red Sox executive as new president of baseball operations](https://www.reviewjournal.com/sports/athletics/athletics-tab-red-sox-executive-as-new-president-of-baseball-operations-3902166/) — Las Vegas Review-Journal · 07:44 PT · #us #nevada
@@ -409,20 +423,3 @@ tags: ["category", "us"]
 - [US bases overseas are becoming prime targets](https://lasvegassun.com/news/2026/oct/15/us-bases-overseas-are-becoming-prime-targets/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
 - [The case for impeachment: What would the founders do?](https://lasvegassun.com/news/2026/oct/15/the-case-for-impeachment-what-would-the-founders-d/) — Las Vegas Sun · 02:00 PT · #us #nevada #smallbiz
 - [Is the Iran war driving up gas prices in Nevada?](https://thenevadaindependent.com/article/is-the-iran-war-driving-up-gas-prices-in-nevada/) — The Nevada Independent · 01:55 PT · #us #foreign #nevada
-- [Algunos sindicatos de Nevada apoyan los centros de datos. Ahora tienen que convencer a los demás.](https://thenevadaindependent.com/article/algunos-sindicatos-de-nevada-apoyan-los-centros-de-datos-ahora-tienen-que-convencer-a-los-demas/) — The Nevada Independent · 01:15 PT · #us #nevada
-- [School Roof Collapse Kills At Least 29, Injures More Than 3 Dozen In Pakistan](https://www.huffpost.com/entry/pakistan-school-roof-collapse_n_6ad07f7ce4b0f62da445e40b) — World News - Breaking News, Top Stories · 00:28 PT · #us
-
-## 2026-10-14
-
-- [No. 2 Faith Lutheran blanks No. 1 Bishop Gorman in 5A girls soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-2-faith-lutheran-blanks-no-1-bishop-gorman-in-5a-girls-soccer-photos-3900282/) — Las Vegas Review-Journal · 23:55 PT · #us #nevada
-- [First Friday on pause after deadly Arts District shooting; businesses support safety review](https://www.ktnv.com/news/first-friday-on-pause-after-deadly-arts-district-shooting-businesses-support-safety-review) — KTNV Las Vegas · 23:28 PT · #us #nevada
-- [1 man dead near Sunrise Manor, Las Vegas police say](https://www.reviewjournal.com/crime/homicides/1-man-dead-near-sunrise-manor-las-vegas-police-say-3900270/) — Las Vegas Review-Journal · 22:40 PT · #us #nevada
-- [A little bipartisan bromance as Schwarzenegger, Newsom laud California's climate-change wins](https://www.latimes.com/california/story/2026-10-14/little-bipartisan-bromance-as-schwarzenegger-newsom-laud-californias-climate-change-wins) — World & Nation · 22:32 PT · #us
-- [Police investigate homicide on Owens Avenue in east Las Vegas](https://www.ktnv.com/news/crime/police-investigate-homicide-on-owens-avenue-in-east-las-vegas) — KTNV Las Vegas · 22:02 PT · #us #nevada
-- [Man dead after shooting outside business in northeast Las Vegas; no suspects in custody](https://www.ktnv.com/man-dead-after-shooting-outside-business-in-northeast-las-vegas) — KTNV Las Vegas · 22:02 PT · #us #nevada
-- [Wednesday’s Nevada Preps scoreboard](https://www.reviewjournal.com/nevada-preps/wednesdays-nevada-preps-scoreboard-3900264/) — Las Vegas Review-Journal · 21:54 PT · #us #nevada
-- [First Friday in downtown Las Vegas paused after fatal shooting](https://lasvegassun.com/news/2026/oct/14/first-friday-in-downtown-las-vegas-paused-after-fa/) — Las Vegas Sun · 21:36 PT · #us #nevada
-- [Henderson mayor touts milestones in State of the City address](https://www.reviewjournal.com/local/henderson/henderson-mayor-touts-milestones-in-state-of-the-city-address-3900243/) — Las Vegas Review-Journal · 21:11 PT · #us #nevada
-- [Clark County issues air quality dust advisory for Thursday; what to know](https://www.ktnv.com/news/clark-county-issues-air-quality-dust-advisory-for-thursday-what-to-know) — KTNV Las Vegas · 21:04 PT · #us #nevada
-- [CARTOONS: The monsters of Halloween](https://www.reviewjournal.com/opinion/drawing-board/cartoons-the-monsters-of-halloween-3900232/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [LETTER: Voting intelligently](https://www.reviewjournal.com/opinion/letters/letter-voting-intelligently-3900229/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
