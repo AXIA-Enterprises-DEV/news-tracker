@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $UNCY"
-updated: 2026-10-20T10:20:07-07:00
-count: 1
+updated: 2026-10-20T13:43:20-07:00
+count: 2
 tags: ["ticker", "UNCY"]
 ---
 
 # Ticker: $UNCY
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-20
+
+- [INVESTOR ACTION NOTICE: Moore Law PLLC Encourages Investors in Unicycive Therapeutics, Inc. to Contact Law Firm](https://www.prnewswire.com/news-releases/investor-action-notice-moore-law-pllc-encourages-investors-in-unicycive-therapeutics-inc-to-contact-law-firm-302914521.html) — PR Newswire M&A · 13:17 PT · #business #markets $UNCY
 
 ## 2026-10-13
 

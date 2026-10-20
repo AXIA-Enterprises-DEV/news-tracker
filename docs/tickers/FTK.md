@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $FTK"
-updated: 2026-10-20T10:20:07-07:00
-count: 1
+updated: 2026-10-20T13:43:20-07:00
+count: 2
 tags: ["ticker", "FTK"]
 ---
 
 # Ticker: $FTK
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-20
+
+- [INVESTOR ACTION NOTICE: Moore Law PLLC Encourages Investors in Flotek Industries, Inc. to Contact Law Firm](https://www.prnewswire.com/news-releases/investor-action-notice-moore-law-pllc-encourages-investors-in-flotek-industries-inc-to-contact-law-firm-302914528.html) — PR Newswire M&A · 13:37 PT · #business $FTK
 
 ## 2026-10-18
 

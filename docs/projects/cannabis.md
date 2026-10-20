@@ -1,16 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-20T10:20:07-07:00
-count: 113
+updated: 2026-10-20T13:43:20-07:00
+count: 115
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-113 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+115 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-20
 
+- [Colorado’s Marijuana Product Testing Rules Have Safety Gaps, State Audit Finds](https://www.marijuanamoment.net/colorados-marijuana-product-testing-rules-have-safety-gaps-state-audit-finds/) — Marijuana Moment · 13:09 PT · #business #cannabis
+- [Hemp Businesses Are About To Learn What Marijuana Operators Already Know: Payroll Can Disappear Overnight (Op-Ed)](https://www.marijuanamoment.net/hemp-businesses-are-about-to-learn-what-marijuana-operators-already-know-payroll-can-disappear-overnight-op-ed/) — Marijuana Moment · 11:36 PT · #business #cannabis
 - [Nebraska Democratic Governor Candidate Pledges Medical Marijuana Executive Order On ‘Day One’](https://www.marijuanamoment.net/nebraska-democratic-governor-candidate-pledges-medical-marijuana-executive-order-on-day-one/) — Marijuana Moment · 10:11 PT · #business #cannabis
 - [Opening Legal Marijuana Dispensaries Provides An Economic Boost For Nearby Businesses, Study Shows](https://www.marijuanamoment.net/opening-legal-marijuana-dispensaries-provides-an-economic-boost-for-nearby-businesses-study-shows/) — Marijuana Moment · 08:25 PT · #business #cannabis
 - [Massachusetts Voters Want To Keep Marijuana Sales Legal, Two New Polls On Prohibitionist Ballot Measure Show](https://www.marijuanamoment.net/massachusetts-voters-want-to-keep-marijuana-sales-legal-two-new-polls-on-prohibitionist-ballot-measure-show/) — Marijuana Moment · 06:18 PT · #business #cannabis #civic

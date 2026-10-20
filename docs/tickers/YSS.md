@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $YSS"
-updated: 2026-10-20T10:20:07-07:00
-count: 3
+updated: 2026-10-20T13:43:20-07:00
+count: 4
 tags: ["ticker", "YSS"]
 ---
 
 # Ticker: $YSS
 
-3 most recent items (14-day window).
+4 most recent items (14-day window).
+
+## 2026-10-20
+
+- [York Space Deadline: YSS Investors Have Opportunity to Lead York Space Systems Inc. Securities Lawsuit](https://www.prnewswire.com/news-releases/york-space-deadline-yss-investors-have-opportunity-to-lead-york-space-systems-inc-securities-lawsuit-302914497.html) — PR Newswire M&A · 13:25 PT · #business $YSS
 
 ## 2026-10-18
 

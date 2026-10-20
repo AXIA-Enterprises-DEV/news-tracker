@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $XHLD"
-updated: 2026-10-20T10:20:07-07:00
-count: 1
+updated: 2026-10-20T13:43:20-07:00
+count: 2
 tags: ["ticker", "XHLD"]
 ---
 
 # Ticker: $XHLD
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-20
+
+- [TEN Holdings Inc. Announces Participation in the Skyline Signature Series Webinar](https://www.prnewswire.com/news-releases/ten-holdings-inc-announces-participation-in-the-skyline-signature-series-webinar-302913600.html) — PR Newswire Business Tech · 13:05 PT · #tech #markets $XHLD
 
 ## 2026-10-14
 

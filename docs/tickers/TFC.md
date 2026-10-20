@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $TFC"
-updated: 2026-10-20T10:20:07-07:00
-count: 1
+updated: 2026-10-20T13:43:20-07:00
+count: 2
 tags: ["ticker", "TFC"]
 ---
 
 # Ticker: $TFC
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-20
+
+- [Truist to speak at BancAnalysts Association of Boston Conference](https://www.prnewswire.com/news-releases/truist-to-speak-at-bancanalysts-association-of-boston-conference-302914427.html) — PR Newswire General Business · 13:03 PT · #business $TFC
 
 ## 2026-10-16
 

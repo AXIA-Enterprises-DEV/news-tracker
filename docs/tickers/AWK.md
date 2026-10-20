@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $AWK"
-updated: 2026-10-20T10:20:07-07:00
-count: 1
+updated: 2026-10-20T13:43:20-07:00
+count: 2
 tags: ["ticker", "AWK"]
 ---
 
 # Ticker: $AWK
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-20
+
+- [Indiana American Water Proudly Recognizes $25,000 American Water Charitable Foundation STEM Education Grant to Girls Inc. of Shelbyville](https://www.prnewswire.com/news-releases/indiana-american-water-proudly-recognizes-25-000-american-water-charitable-foundation-stem-education-grant-to-girls-inc-of-shelbyville-302914631.html) — PR Newswire M&A · 13:40 PT · #business #ai $AWK
 
 ## 2026-10-14
 

@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-20T10:20:07-07:00
+updated: 2026-10-20T13:43:20-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,17 @@ tags: ["category", "us"]
 
 ## 2026-10-20
 
+- [Yellowstone receives record $105 million gift for infrastructure, conservation, access](https://lasvegassun.com/news/2026/oct/20/yellowstone-receives-record-105-million-gift-for-i/) — Las Vegas Sun · 13:33 PT · #us #ai #nevada
+- [France announces nightly curfews 'for as long as necessary' in Paris and other big cities](https://lasvegassun.com/news/2026/oct/20/france-announces-nightly-curfews-for-as-long-as-ne/) — Las Vegas Sun · 13:24 PT · #us #nevada
+- [Carrot Top returns in Las Vegas to standing ovation](https://lasvegassun.com/news/2026/oct/20/carrot-top-returns-in-las-vegas-to-standing-ovatio/) — Las Vegas Sun · 13:10 PT · #us #nevada
+- [Construction starts on new housing project at former Badlands golf course](https://www.reviewjournal.com/business/housing/construction-starts-on-new-housing-project-at-former-badlands-golf-course-3902677/) — Las Vegas Review-Journal · 12:52 PT · #us #golf #nevada
+- [2 women sentenced in theft of nearly half a million dollars from Maloof](https://www.reviewjournal.com/crime/courts/deeply-personal-maloof-speaks-out-as-ex-girlfriend-co-defendant-get-probation-3902670/) — Las Vegas Review-Journal · 12:45 PT · #us #nevada
+- [Free rent? Las Vegas apartment deals are becoming more common](https://www.reviewjournal.com/business/housing/free-rent-las-vegas-apartment-deals-are-becoming-more-common-3902667/) — Las Vegas Review-Journal · 12:15 PT · #us #nevada
+- [PAC boosting third-party NV governor candidate as 'AOC of Nevada' has GOP ties](https://thenevadaindependent.com/article/pac-boosting-third-party-nv-governor-candidate-as-aoc-of-nevada-has-gop-ties/) — The Nevada Independent · 11:54 PT · #us #nevada
+- [Police: Man killed outside Dotty's earlier this month was wanted in connection with another murder](https://www.ktnv.com/news/crime/police-man-killed-outside-dottys-earlier-this-month-was-wanted-in-connection-with-another-murder) — KTNV Las Vegas · 11:39 PT · #us #nevada
+- [Nevada jobless rate continues to trickle downward in September as it rises in US](https://lasvegassun.com/news/2026/oct/20/nevada-unemployment-rate-continues-to-trickle-down/) — Las Vegas Sun · 11:22 PT · #us #nevada
+- [Gunman who shot ex-wife and her husband inside Smith's pleads guilty to double murder](https://www.ktnv.com/news/crime/gunman-who-shot-ex-wife-husband-inside-smiths-pleads-guilty-to-double-murder) — KTNV Las Vegas · 10:31 PT · #us #nevada
+- [Amazon hiring thousands in Southern Nevada](https://www.reviewjournal.com/business/amazon-hiring-thousands-in-southern-nevada-3902653/) — Las Vegas Review-Journal · 10:30 PT · #us #nevada
 - [WNBA Finals and the national anthem: The rules and why some teams stay on the court and others don't](https://lasvegassun.com/news/2026/oct/20/wnba-finals-and-the-national-anthem-the-rules-and/) — Las Vegas Sun · 10:10 PT · #us #nevada
 - [LeBron James is set to open his 24th season in New York when his 76ers visit the Knicks](https://lasvegassun.com/news/2026/oct/20/lebron-james-is-set-to-open-his-24th-season-in-new/) — Las Vegas Sun · 09:47 PT · #us #nevada
 - [Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms](https://lasvegassun.com/news/2026/oct/20/gimmick-or-giveback-even-some-trump-supporters-don/) — Las Vegas Sun · 09:44 PT · #us #nevada
@@ -415,14 +426,3 @@ tags: ["category", "us"]
 - [Found a lost pet? Check it for a microchip with free Clark County scanners](https://www.reviewjournal.com/news/politics-and-government/clark-county/found-a-lost-pet-check-it-for-a-microchip-with-free-clark-county-scanners-3900535/) — Las Vegas Review-Journal · 14:18 PT · #us #nevada
 - [Las Vegas man sentenced in drunken crash that critically injured UK family](https://www.reviewjournal.com/crime/courts/las-vegas-man-sentenced-in-drunken-crash-that-critically-injured-uk-family-3900531/) — Las Vegas Review-Journal · 14:16 PT · #us #nevada
 - [Body in barrel that of Edward ‘Buddy’ Jackson, officials say](https://www.reviewjournal.com/crime/homicides/body-in-the-barrel-case-officials-set-to-provide-update-at-las-vegas-police-hq-3900527/) — Las Vegas Review-Journal · 14:06 PT · #us #nevada
-- [Trump administration sues California to block state from counting alleged noncitizen mail-in ballots](https://lasvegassun.com/news/2026/oct/15/trump-administration-sues-california-to-block-stat/) — Las Vegas Sun · 13:21 PT · #us #civic #nevada
-- [Friday’s Nevada Preps top 5 football games to watch](https://www.reviewjournal.com/nevada-preps/fridays-nevada-preps-top-5-football-games-to-watch-3900505/) — Las Vegas Review-Journal · 12:57 PT · #us #nevada
-- [Discount airline Avelo plans additional flights to Dallas area](https://www.reviewjournal.com/business/tourism/discount-airline-avelo-plans-additional-flights-to-dallas-area-3900497/) — Las Vegas Review-Journal · 12:41 PT · #us #nevada
-- [Developing: Homicide investigation in east Las Vegas after person shot near business](https://www.ktnv.com/news/crime/developing-homicide-investigation-in-east-las-vegas-after-person-shot-near-business) — KTNV Las Vegas · 12:41 PT · #us #nevada
-- [Employee killed in attempted robbery in east Las Vegas, LVMPD shares](https://www.ktnv.com/news/crime/employee-killed-in-attempted-robbery-in-east-las-vegas-lvmpd-says) — KTNV Las Vegas · 12:41 PT · #us #nevada
-- [New project with 1,000-plus homes to be built in downtown Las Vegas](https://www.reviewjournal.com/business/housing/new-project-with-1000-plus-homes-to-be-built-in-downtown-las-vegas-3900493/) — Las Vegas Review-Journal · 12:37 PT · #us #nevada
-- [Person shot, killed near business in east Las Vegas, police say](https://www.reviewjournal.com/crime/homicides/person-shot-killed-near-business-in-east-las-vegas-police-say-3900489/) — Las Vegas Review-Journal · 12:33 PT · #us #nevada
-- [Head-on crash shuts down intersection at Sahara Avenue and Tenaya Way](https://www.ktnv.com/news/head-on-crash-shuts-down-intersection-at-sahara-avenue-and-tenaya-way) — KTNV Las Vegas · 12:31 PT · #us #nevada
-- [Two critically injured in wrong-way crash on Sahara Ave., Tenaya Way](https://www.ktnv.com/news/two-critically-injured-in-wrong-way-crash-on-sahara-ave-tenaya-way) — KTNV Las Vegas · 12:31 PT · #us #nevada
-- [Las Vegas man admits to role in 'fixing' of college basketball games](https://lasvegassun.com/news/2026/oct/15/las-vegas-man-admits-to-role-in-fixing-of-college/) — Las Vegas Sun · 12:17 PT · #us #nevada
-- [Justice Dept. sues California, seeks to stop state from counting 20,000 ballots](https://www.latimes.com/politics/story/2026-10-15/justice-dept-sues-california-asks-court-to-force-state-to-stop-counting-20-000-ballots) — World & Nation · 12:04 PT · #us

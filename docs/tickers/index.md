@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-20T10:20:07-07:00
+updated: 2026-10-20T13:43:20-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -8,21 +8,29 @@ tags: ["tickers"]
 # Active tickers
 
 - [$NTCT](NTCT.md) — 8 items
+- [$CALX](CALX.md) — 6 items
 - [$VG](VG.md) — 6 items
 - [$LSCC](LSCC.md) — 6 items
-- [$CALX](CALX.md) — 5 items
 - [$NET](NET.md) — 5 items
 - [$III](III.md) — 5 items
 - [$RMNI](RMNI.md) — 5 items
+- [$YSS](YSS.md) — 4 items
+- [$INV](INV.md) — 3 items
 - [$LUMN](LUMN.md) — 3 items
 - [$ASTS](ASTS.md) — 3 items
 - [$MRP](MRP.md) — 3 items
-- [$YSS](YSS.md) — 3 items
 - [$TBLA](TBLA.md) — 3 items
 - [$GIL](GIL.md) — 3 items
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$AWK](AWK.md) — 2 items
+- [$FTK](FTK.md) — 2 items
+- [$JELD](JELD.md) — 2 items
+- [$UNCY](UNCY.md) — 2 items
+- [$XHLD](XHLD.md) — 2 items
+- [$EGHT](EGHT.md) — 2 items
+- [$TFC](TFC.md) — 2 items
 - [$DOCN](DOCN.md) — 2 items
 - [$HBCP](HBCP.md) — 2 items
 - [$CCB](CCB.md) — 2 items
@@ -35,7 +43,6 @@ tags: ["tickers"]
 - [$CELH](CELH.md) — 2 items
 - [$LINC](LINC.md) — 2 items
 - [$BBNX](BBNX.md) — 2 items
-- [$INV](INV.md) — 2 items
 - [$HYLN](HYLN.md) — 2 items
 - [$GDDY](GDDY.md) — 2 items
 - [$DOCS](DOCS.md) — 2 items
@@ -54,6 +61,26 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$OVBC](OVBC.md) — 1 items
+- [$GT](GT.md) — 1 items
+- [$MSA](MSA.md) — 1 items
+- [$DAN](DAN.md) — 1 items
+- [$ELS](ELS.md) — 1 items
+- [$BR](BR.md) — 1 items
+- [$AMGN](AMGN.md) — 1 items
+- [$TREE](TREE.md) — 1 items
+- [$HGTY](HGTY.md) — 1 items
+- [$NUE](NUE.md) — 1 items
+- [$KTHN](KTHN.md) — 1 items
+- [$ROL](ROL.md) — 1 items
+- [$REZI](REZI.md) — 1 items
+- [$TRIP](TRIP.md) — 1 items
+- [$SKYD](SKYD.md) — 1 items
+- [$HLIT](HLIT.md) — 1 items
+- [$NATL](NATL.md) — 1 items
+- [$SE](SE.md) — 1 items
+- [$MAT](MAT.md) — 1 items
+- [$MMM](MMM.md) — 1 items
 - [$BBD](BBD.md) — 1 items
 - [$KDK](KDK.md) — 1 items
 - [$KVYO](KVYO.md) — 1 items
@@ -75,7 +102,6 @@ tags: ["tickers"]
 - [$RIG](RIG.md) — 1 items
 - [$FNB](FNB.md) — 1 items
 - [$CHRD](CHRD.md) — 1 items
-- [$JELD](JELD.md) — 1 items
 - [$ALLY](ALLY.md) — 1 items
 - [$BALL](BALL.md) — 1 items
 - [$OPFI](OPFI.md) — 1 items
@@ -113,7 +139,6 @@ tags: ["tickers"]
 - [$ESLT](ESLT.md) — 1 items
 - [$DKS](DKS.md) — 1 items
 - [$PZZA](PZZA.md) — 1 items
-- [$FTK](FTK.md) — 1 items
 - [$AVEX](AVEX.md) — 1 items
 - [$HIMS](HIMS.md) — 1 items
 - [$BCS](BCS.md) — 1 items
@@ -130,7 +155,6 @@ tags: ["tickers"]
 - [$BUUU](BUUU.md) — 1 items
 - [$SRV](SRV.md) — 1 items
 - [$OMC](OMC.md) — 1 items
-- [$EGHT](EGHT.md) — 1 items
 - [$AIIO](AIIO.md) — 1 items
 - [$BX](BX.md) — 1 items
 - [$OLED](OLED.md) — 1 items
@@ -150,7 +174,6 @@ tags: ["tickers"]
 - [$VICI](VICI.md) — 1 items
 - [$EFN](EFN.md) — 1 items
 - [$HIT](HIT.md) — 1 items
-- [$TFC](TFC.md) — 1 items
 - [$YUMC](YUMC.md) — 1 items
 - [$ORV](ORV.md) — 1 items
 - [$ORVMF](ORVMF.md) — 1 items
@@ -205,7 +228,6 @@ tags: ["tickers"]
 - [$SPT](SPT.md) — 1 items
 - [$CHCT](CHCT.md) — 1 items
 - [$PFSF](PFSF.md) — 1 items
-- [$AWK](AWK.md) — 1 items
 - [$FRST](FRST.md) — 1 items
 - [$POLY](POLY.md) — 1 items
 - [$REAL](REAL.md) — 1 items
@@ -221,7 +243,6 @@ tags: ["tickers"]
 - [$WEX](WEX.md) — 1 items
 - [$EQT](EQT.md) — 1 items
 - [$DOV](DOV.md) — 1 items
-- [$XHLD](XHLD.md) — 1 items
 - [$EFOR](EFOR.md) — 1 items
 - [$FROG](FROG.md) — 1 items
 - [$BSRT](BSRT.md) — 1 items
@@ -256,7 +277,6 @@ tags: ["tickers"]
 - [$LDOS](LDOS.md) — 1 items
 - [$DHR](DHR.md) — 1 items
 - [$TLX](TLX.md) — 1 items
-- [$UNCY](UNCY.md) — 1 items
 - [$BBW](BBW.md) — 1 items
 - [$GTES](GTES.md) — 1 items
 - [$HUBG](HUBG.md) — 1 items
@@ -287,23 +307,3 @@ tags: ["tickers"]
 - [$NLY](NLY.md) — 1 items
 - [$KRMN](KRMN.md) — 1 items
 - [$FSLR](FSLR.md) — 1 items
-- [$IBKR](IBKR.md) — 1 items
-- [$KLIC](KLIC.md) — 1 items
-- [$CIFR](CIFR.md) — 1 items
-- [$EIX](EIX.md) — 1 items
-- [$PLBY](PLBY.md) — 1 items
-- [$SHAK](SHAK.md) — 1 items
-- [$FUN](FUN.md) — 1 items
-- [$HUM](HUM.md) — 1 items
-- [$BP](BP.md) — 1 items
-- [$FIGS](FIGS.md) — 1 items
-- [$PEGA](PEGA.md) — 1 items
-- [$INFQ](INFQ.md) — 1 items
-- [$SPCB](SPCB.md) — 1 items
-- [$BTC](BTC.md) — 1 items
-- [$HLP](HLP.md) — 1 items
-- [$PUSA](PUSA.md) — 1 items
-- [$JBL](JBL.md) — 1 items
-- [$FSLY](FSLY.md) — 1 items
-- [$ICE](ICE.md) — 1 items
-- [$AIRG](AIRG.md) — 1 items

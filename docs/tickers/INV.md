@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $INV"
-updated: 2026-10-20T10:20:07-07:00
-count: 2
+updated: 2026-10-20T13:43:20-07:00
+count: 3
 tags: ["ticker", "INV"]
 ---
 
 # Ticker: $INV
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-20
+
+- [INVESTOR ACTION NOTICE: Moore Law PLLC Encourages Investors in Innventure, Inc. to Contact Law Firm](https://www.prnewswire.com/news-releases/investor-action-notice-moore-law-pllc-encourages-investors-in-innventure-inc-to-contact-law-firm-302914530.html) — PR Newswire M&A · 13:21 PT · #business #markets $INV
 
 ## 2026-10-18
 

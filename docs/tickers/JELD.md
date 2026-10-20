@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $JELD"
-updated: 2026-10-20T10:20:07-07:00
-count: 1
+updated: 2026-10-20T13:43:20-07:00
+count: 2
 tags: ["ticker", "JELD"]
 ---
 
 # Ticker: $JELD
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-20
+
+- [JELD-WEN to Release Third Quarter 2026 Results](https://www.prnewswire.com/news-releases/jeld-wen-to-release-third-quarter-2026-results-302914058.html) — PR Newswire M&A · 13:30 PT · #business $JELD
 
 ## 2026-10-19
 
