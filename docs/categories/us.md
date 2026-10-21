@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-21T05:54:02-07:00
+updated: 2026-10-21T10:54:21-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,21 @@ tags: ["category", "us"]
 
 ## 2026-10-21
 
+- [Roger Goodell is comfortable with security for the NFL's Paris game between the Steelers and Saints](https://lasvegassun.com/news/2026/oct/21/roger-goodell-is-comfortable-with-security-for-the/) — Las Vegas Sun · 10:50 PT · #us #nevada
+- [NFL suspends second Bills defender for spitting at Raiders](https://lasvegassun.com/news/2026/oct/21/nfl-suspends-second-bills-defender-for-spitting-at/) — Las Vegas Sun · 10:28 PT · #us #nevada
+- [UNLV WR Kayden McGee embracing big-play role and more in sophomore season](https://www.reviewjournal.com/sports/unlv/unlv-football/unlv-wr-kayden-mcgee-embracing-big-play-role-and-more-in-sophomore-season-3903071/) — Las Vegas Review-Journal · 10:21 PT · #us #nevada
+- [Top Democrats join California immigrant, Nevada group to sue over federal election probes](https://www.latimes.com/politics/story/2026-10-21/top-democrats-join-california-immigrant-nevada-group-to-sue-over-federal-election-probes) — World & Nation · 10:18 PT · #us #civic #nevada
+- [New Mexico sues Epstein attorney and accountant, accuses them of hiding sex trafficking operation](https://www.reviewjournal.com/news/nation-and-world/new-mexico-sues-epstein-attorney-and-accountant-accuses-them-of-hiding-sex-trafficking-operation-3903061/) — Las Vegas Review-Journal · 09:55 PT · #us #nevada
+- [Nevada Preps football predictions: Who wins the Superintendent’s Cup?](https://www.reviewjournal.com/nevada-preps/nevada-preps-football-predictions-who-wins-the-superintendents-cup-3903052/) — Las Vegas Review-Journal · 09:41 PT · #us #nevada
+- [Roger Goodell says the NFL welcomes a review of how Eagles handled Jalen Hurts' blood clots](https://lasvegassun.com/news/2026/oct/21/nfl-defends-eagles-handling-of-jalen-hurts-blood-c/) — Las Vegas Sun · 09:24 PT · #us #nevada
+- [Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates](https://lasvegassun.com/news/2026/oct/21/supreme-court-rebuffs-trump-administration-restric/) — Las Vegas Sun · 09:20 PT · #us #civic #foreign #nevada
+- [Supreme Court rejects Trump's order to end hormone treatments for transgender prisoners](https://www.latimes.com/politics/story/2026-10-21/supreme-court-trump-hormone-treatments-for-transgender-prisoners) — World & Nation · 08:52 PT · #us #civic
+- [Saudi capital’s King Khalid International Airport reopens to limited traffic](https://www.reviewjournal.com/news/politics-and-government/saudi-capitals-king-khalid-international-airport-reopens-to-limited-traffic-3903031/) — Las Vegas Review-Journal · 08:29 PT · #us #foreign #nevada
+- [Early voting is underway in Nevada — here's what's new at the polls before you cast your ballot](https://www.ktnv.com/news/early-voting-is-underway-in-nevada-heres-whats-new-at-the-polls-before-you-cast-your-ballot) — KTNV Las Vegas · 08:20 PT · #us #nevada
+- [Lightning beat Golden Knights 6-2 as Kucherov ties franchise points record](https://lasvegassun.com/news/2026/oct/21/lightning-beat-golden-knights-6-2-as-kucherov-ties/) — Las Vegas Sun · 07:47 PT · #us #nevada #smallbiz
+- [NFL suspends 2nd Bills player for spitting during game against Raiders](https://www.reviewjournal.com/sports/nfl/nfl-suspends-2nd-bills-player-for-spitting-during-game-against-raiders-3903019/) — Las Vegas Review-Journal · 07:40 PT · #us #nevada
+- [Putin agrees to resume trilateral talks on Ukraine war with Kyiv and Washington, Kremlin says](https://www.reviewjournal.com/news/politics-and-government/putin-agrees-to-resume-trilateral-talks-on-ukraine-war-with-kyiv-and-washington-kremlin-says-3902997/) — Las Vegas Review-Journal · 07:21 PT · #us #foreign #nevada
+- [‘We didn’t help ourselves’: Puck management dooms Knights in loss](https://www.reviewjournal.com/sports/goldenknights/we-didnt-help-ourselves-puck-management-dooms-knights-in-loss-3902973/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [Las Vegas sees nation’s biggest drop in homebuilding permits](https://www.reviewjournal.com/business/housing/las-vegas-sees-nations-biggest-drop-in-homebuilding-permits-3902970/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
 - [More October showers coming to Las Vegas Valley](https://www.reviewjournal.com/local/weather/more-october-showers-coming-to-las-vegas-valley-3902964/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
 - [Republicans’ mom burn messaging](https://www.politico.com/newsletters/playbook/2026/10/21/republicans-mom-burn-messaging-01128834) — Playbook · 03:25 PT · #us
@@ -411,18 +426,3 @@ tags: ["category", "us"]
 - [Trump casts doubt on press secretary Zacharia’s future](https://www.reviewjournal.com/news/politics-and-government/trump-casts-doubt-on-press-secretary-zacharias-future-3901002/) — Las Vegas Review-Journal · 10:55 PT · #us #media #nevada
 - [US Coast Guard rescues at least 16 in the water off Mexico’s Baja Coast](https://www.reviewjournal.com/news/nation-and-world/us-coast-guard-rescues-at-least-16-in-the-water-off-mexicos-baja-coast-3900996/) — Las Vegas Review-Journal · 10:53 PT · #us #nevada
 - [Off-Strip hotel-casino brings guest services to ChatGPT](https://www.reviewjournal.com/business/casinos-gaming/off-strip-hotel-casino-brings-guest-services-to-chatgpt-3900986/) — Las Vegas Review-Journal · 10:21 PT · #us #nevada
-- [NCAA sues Ohio governor over his executive order allowing schools to ignore new eligibility rule](https://lasvegassun.com/news/2026/oct/16/ncaa-sues-ohio-governor-over-his-executive-order-a/) — Las Vegas Sun · 10:15 PT · #us #nevada
-- [Some wagers, certain parlays no longer can be offered to bettors, NBA tells sportsbooks](https://lasvegassun.com/news/2026/oct/16/some-wagers-certain-parlays-no-longer-can-be-offer/) — Las Vegas Sun · 10:09 PT · #us #nevada
-- [Nevada Preps Girls Athlete of the Week: Sky Pointe’s Rayna Lewis](https://www.reviewjournal.com/nevada-preps/nevada-preps-girls-athlete-of-the-week-sky-pointes-rayna-lewis-3900982/) — Las Vegas Review-Journal · 10:00 PT · #us #nevada
-- [Nevada Preps Boys Athlete of the Week: Sky Pointe’s Ryan Petty](https://www.reviewjournal.com/nevada-preps/nevada-preps-boys-athlete-of-the-week-sky-pointes-ryan-petty-3900978/) — Las Vegas Review-Journal · 10:00 PT · #us #nevada
-- [Banana Ball returning to Las Vegas for 3 games](https://www.reviewjournal.com/sports/baseball/banana-ball-returning-to-las-vegas-for-3-games-3900972/) — Las Vegas Review-Journal · 09:48 PT · #us #nevada
-- [Israeli Mob Beats Washington Post Journalist, Burns Olive Trees In West Bank](https://www.huffpost.com/entry/israelis-attack-journalist-burn-olive-trees-west-bank_n_6ad24868e4b0dccf572afdfc) — World News - Breaking News, Top Stories · 09:47 PT · #us #foreign #media
-- [Metro: Man shot and killed during robbery at Las Vegas business](https://lasvegassun.com/news/2026/oct/16/metro-man-shot-and-killed-during-robbery-at-las-ve/) — Las Vegas Sun · 09:26 PT · #us #nevada
-- [Mark Stone has 3rd-period hat trick in the Golden Knights' 6-2 win over the Flames](https://lasvegassun.com/news/2026/oct/16/mark-stone-has-3rd-period-hat-trick-in-the-golden/) — Las Vegas Sun · 07:58 PT · #us #nevada
-- [RJ reporters, editors make picks for UNLV’s football game at Air Force](https://www.reviewjournal.com/sports/unlv/rj-reporters-editors-make-picks-for-unlvs-football-game-at-air-force-3900942/) — Las Vegas Review-Journal · 07:30 PT · #us #nevada
-- [Bills’ Dalton Kincaid expects ‘surreal’ Las Vegas homecoming game vs. Raiders](https://www.reviewjournal.com/sports/raiders/bills-dalton-kincaid-expects-surreal-las-vegas-homecoming-game-vs-raiders-3900921/) — Las Vegas Review-Journal · 07:00 PT · #us #nevada
-- [Foundation honors RJ columnist with two national awards for opinion writing](https://www.reviewjournal.com/local/local-las-vegas/foundation-honors-rj-columnist-with-two-national-awards-for-opinion-writing-3900918/) — Las Vegas Review-Journal · 07:00 PT · #us #nevada
-- [Darien Porter, Hezekiah Masses embracing battle for Raiders No. 2 corner](https://www.reviewjournal.com/sports/raiders/darien-porter-hezekiah-masses-embracing-battle-for-raiders-no-2-corner-3900909/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
-- [Are there actually health benefits to eating an apple a day?](https://www.reviewjournal.com/livewell/are-there-actually-health-benefits-to-eating-an-apple-a-day-3900904/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
-- [Golden Knights flip the script, use fast start to douse Flames](https://www.reviewjournal.com/sports/goldenknights/golden-knights-flip-the-script-use-fast-start-to-douse-flames-3900901/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
-- [Switch plans massive natural gas plant to power Nevada data centers](https://www.reviewjournal.com/business/energy/switch-plans-massive-natural-gas-plant-to-power-nevada-data-centers-3900897/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada #oil

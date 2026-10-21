@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-21T05:54:02-07:00
+updated: 2026-10-21T10:54:21-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -13,10 +13,10 @@ tags: ["tickers"]
 - [$CALX](CALX.md) — 6 items
 - [$VG](VG.md) — 6 items
 - [$LSCC](LSCC.md) — 6 items
+- [$GIL](GIL.md) — 5 items
 - [$FORR](FORR.md) — 5 items
 - [$RMNI](RMNI.md) — 5 items
 - [$RTX](RTX.md) — 4 items
-- [$GIL](GIL.md) — 4 items
 - [$ASTS](ASTS.md) — 4 items
 - [$YSS](YSS.md) — 4 items
 - [$CRWV](CRWV.md) — 3 items
@@ -31,6 +31,7 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$LDOS](LDOS.md) — 2 items
 - [$HPE](HPE.md) — 2 items
 - [$CDW](CDW.md) — 2 items
 - [$FROG](FROG.md) — 2 items
@@ -72,6 +73,15 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$SAGA](SAGA.md) — 1 items
+- [$SAGMF](SAGMF.md) — 1 items
+- [$CTSH](CTSH.md) — 1 items
+- [$TSEM](TSEM.md) — 1 items
+- [$PTN](PTN.md) — 1 items
+- [$UWHR](UWHR.md) — 1 items
+- [$GPN](GPN.md) — 1 items
+- [$PBF](PBF.md) — 1 items
+- [$OPTU](OPTU.md) — 1 items
 - [$WFF](WFF.md) — 1 items
 - [$XMR](XMR.md) — 1 items
 - [$LTM](LTM.md) — 1 items
@@ -80,6 +90,7 @@ tags: ["tickers"]
 - [$CDNS](CDNS.md) — 1 items
 - [$NBIS](NBIS.md) — 1 items
 - [$MIAX](MIAX.md) — 1 items
+- [$TMQ](TMQ.md) — 1 items
 - [$FFIV](FFIV.md) — 1 items
 - [$PRIM](PRIM.md) — 1 items
 - [$BETR](BETR.md) — 1 items
@@ -296,14 +307,3 @@ tags: ["tickers"]
 - [$FICO](FICO.md) — 1 items
 - [$FFAI](FFAI.md) — 1 items
 - [$FFR](FFR.md) — 1 items
-- [$IRDM](IRDM.md) — 1 items
-- [$LDOS](LDOS.md) — 1 items
-- [$DHR](DHR.md) — 1 items
-- [$TLX](TLX.md) — 1 items
-- [$BBW](BBW.md) — 1 items
-- [$GTES](GTES.md) — 1 items
-- [$HUBG](HUBG.md) — 1 items
-- [$JBHT](JBHT.md) — 1 items
-- [$COO](COO.md) — 1 items
-- [$THO](THO.md) — 1 items
-- [$BUKS](BUKS.md) — 1 items

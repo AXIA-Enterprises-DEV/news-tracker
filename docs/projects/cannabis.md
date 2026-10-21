@@ -1,16 +1,19 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-21T05:54:02-07:00
-count: 123
+updated: 2026-10-21T10:54:21-07:00
+count: 126
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-123 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+126 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-21
 
+- [Massachusetts Bill To Let Military Veterans Get Medical Marijuana Without A Doctor’s Recommendation Advances](https://www.marijuanamoment.net/massachusetts-bill-to-let-military-veterans-get-medical-marijuana-without-a-doctors-recommendation-advances/) — Marijuana Moment · 09:26 PT · #business #cannabis #foreign
+- [Most Marijuana Consumers Will Decide Who To Vote For In Next Month’s Elections Based On Candidates’ Cannabis Stances, Poll Shows](https://www.marijuanamoment.net/most-marijuana-consumers-will-decide-who-to-vote-for-in-next-months-elections-based-on-candidates-cannabis-stances-poll-shows/) — Marijuana Moment · 08:21 PT · #business #cannabis #civic
+- [Nebraska Medical Marijuana Cultivators Ask State Officials To Change Rules On Testing, Fees And Doctor Protections](https://www.marijuanamoment.net/nebraska-medical-marijuana-cultivators-ask-state-officials-to-change-rules-on-testing-fees-and-doctor-protections/) — Marijuana Moment · 07:42 PT · #business #cannabis
 - [Officials In Massachusetts’s Second-Largest City Urge Voters To Keep Marijuana Sales Legal](https://www.marijuanamoment.net/officials-in-massachusettss-second-largest-city-urge-voters-to-keep-marijuana-sales-legal/) — Marijuana Moment · 05:48 PT · #business #cannabis
 - [GOP Congressman Wants FBI To Investigate Illegal Marijuana Grows He Says Have ‘Overtaken’ His District Since California Legalized](https://www.marijuanamoment.net/gop-congressman-wants-fbi-to-investigate-illegal-marijuana-grows-he-says-have-overtaken-his-district-since-california-legalized/) — Marijuana Moment · 04:53 PT · #business #cannabis #civic
 - [Trump’s support from cannabis consumers dips as rescheduling stalls (Newsletter: October 21, 2026)](https://www.marijuanamoment.net/trumps-support-from-cannabis-consumers-dips-as-rescheduling-stalls-newsletter-october-21-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis #media

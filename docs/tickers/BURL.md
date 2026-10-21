@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $BURL"
-updated: 2026-10-21T05:54:02-07:00
+updated: 2026-10-21T10:54:21-07:00
 count: 1
 tags: ["ticker", "BURL"]
 ---

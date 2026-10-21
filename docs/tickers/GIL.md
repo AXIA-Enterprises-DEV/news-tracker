@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $GIL"
-updated: 2026-10-21T05:54:02-07:00
-count: 4
+updated: 2026-10-21T10:54:21-07:00
+count: 5
 tags: ["ticker", "GIL"]
 ---
 
 # Ticker: $GIL
 
-4 most recent items (14-day window).
+5 most recent items (14-day window).
+
+## 2026-10-21
+
+- [GIL INVESTOR DEADLINE: Gildan Activewear Inc. Investors with Substantial Losses Have Opportunity to Lead the GIL Securities Class Action](https://www.prnewswire.com/news-releases/gil-investor-deadline-gildan-activewear-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-gil-securities-class-action-302915745.html) — PR Newswire M&A · 10:28 PT · #business $GIL
 
 ## 2026-10-20
 
