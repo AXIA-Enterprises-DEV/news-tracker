@@ -1,16 +1,17 @@
 ---
 title: "Ticker: $ASTS"
-updated: 2026-10-20T16:28:00-07:00
-count: 3
+updated: 2026-10-20T18:52:57-07:00
+count: 4
 tags: ["ticker", "ASTS"]
 ---
 
 # Ticker: $ASTS
 
-3 most recent items (14-day window).
+4 most recent items (14-day window).
 
 ## 2026-10-20
 
+- [AST SpaceMobile, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - ASTS](https://www.prnewswire.com/news-releases/ast-spacemobile-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--asts-302914700.html) — PR Newswire M&A · 17:26 PT · #business #markets $ASTS
 - [AST SpaceMobile Advances Service Readiness Ahead of Initial Space-Based Cellular Broadband Coverage in Key Global Markets](http://www.businesswire.com/news/home/20261020527793/en/AST-SpaceMobile-Advances-Service-Readiness-Ahead-of-Initial-Space-Based-Cellular-Broadband-Coverage-in-Key-Global-Markets/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 04:30 PT · #business #markets $ASTS
 
 ## 2026-10-18

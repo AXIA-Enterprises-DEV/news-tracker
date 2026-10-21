@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-20T16:28:00-07:00
+updated: 2026-10-20T18:52:57-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,24 @@ tags: ["category", "us"]
 
 ## 2026-10-20
 
+- [Clark County to hire more crossing guards with $715K contract boost](https://www.reviewjournal.com/local/education/clark-county-to-hire-more-crossing-guards-with-715k-contract-boost-3902779/) — Las Vegas Review-Journal · 18:29 PT · #us #nevada
+- [Whitmer, Warren rally Nevada democrats](https://www.ktnv.com/news/whitmer-warren-rally-nevada-democrats) — KTNV Las Vegas · 18:28 PT · #us #nevada
+- [Lombardo check rejected as evidence during Fiore hearing](https://www.reviewjournal.com/news/politics-and-government/lombardo-check-rejected-as-evidence-during-fiore-hearing-3902770/) — Las Vegas Review-Journal · 18:12 PT · #us #nevada
+- [Storms may create problems for Utah national parks, Arizona travelers](https://www.reviewjournal.com/news/nation-and-world/storms-may-create-problems-for-utah-national-parks-arizona-travelers-3902766/) — Las Vegas Review-Journal · 18:11 PT · #us #nevada
+- [‘It’s a tragedy’: Dan Mullen unhappy with NCAA over eligibility case](https://www.reviewjournal.com/sports/unlv/unlv-football/its-a-tragedy-dan-mullen-unhappy-with-ncaa-over-eligibility-case-3902762/) — Las Vegas Review-Journal · 18:00 PT · #us #nevada
+- [Clark County weighs another short-term rental law change](https://www.ktnv.com/news/clark-county-weighs-another-short-term-rental-law-change) — KTNV Las Vegas · 17:30 PT · #us #nevada
+- [What we learned: Raiders play another AFC contender down to the wire](https://www.reviewjournal.com/sports/raiders/what-we-learned-raiders-play-another-afc-contender-down-to-the-wire-3902754/) — Las Vegas Review-Journal · 17:27 PT · #us #nevada
+- [Jurors return life without parole sentence in killing near Arts District](https://www.reviewjournal.com/crime/courts/jurors-return-life-without-parole-sentence-in-killing-near-arts-district-3902751/) — Las Vegas Review-Journal · 17:24 PT · #us #nevada
+- [Apu from ‘The Simpsons’ resurrected after nearly a decade of silence](https://www.reviewjournal.com/news/nation-and-world/apu-from-the-simpsons-resurrected-after-nearly-a-decade-of-silence-3902745/) — Las Vegas Review-Journal · 17:16 PT · #us #nevada
+- [New UN initiative will aim to tackle the military uses of AI](https://lasvegassun.com/news/2026/oct/20/new-un-initiative-will-aim-to-tackle-the-military/) — Las Vegas Sun · 17:12 PT · #us #ai #foreign #nevada
+- [Written originally for Lincoln, 'Lift Ev'ry Voice and Sing' now revered as Black National Anthem](https://lasvegassun.com/news/2026/oct/20/written-originally-for-lincoln-lift-evry-voice-and/) — Las Vegas Sun · 17:02 PT · #us #nevada
+- [Elon Musk's SpaceX reports a profit and he hints at a possible merger with Tesla](https://lasvegassun.com/news/2026/oct/20/elon-musks-spacex-reports-a-profit-and-he-hints-at/) — Las Vegas Sun · 16:58 PT · #us #ai #markets #nevada
+- [How the US organ transplant system works and what to ask to improve your chances](https://lasvegassun.com/news/2026/oct/20/how-the-us-organ-transplant-system-works-and-what/) — Las Vegas Sun · 16:54 PT · #us #nevada
+- [North Las Vegas looks at 'acquiring' affordable housing property](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-looks-at-acquiring-affordable-housing-property) — KTNV Las Vegas · 16:39 PT · #us #nevada
+- ['It was too late': Another Las Vegas family sues Roblox](https://www.ktnv.com/13-investigates/it-was-too-late-another-las-vegas-family-sues-roblox) — KTNV Las Vegas · 16:25 PT · #us #nevada
+- [Heart transplant recipient shares story as new donor care facility opens in east valley](https://www.ktnv.com/neighborhoods/east-las-vegas/heart-transplant-recipient-shares-story-as-new-donor-care-facility-opens-in-east-valley) — KTNV Las Vegas · 16:23 PT · #us #nevada
+- [Attorney General Ford wants Nevada Supreme Court to weigh in on dismissed ‘fake electors’ case](https://www.reviewjournal.com/news/politics-and-government/nevada/attorney-general-ford-wants-nevada-supreme-court-to-weigh-in-on-dismissed-fake-electors-case-3902735/) — Las Vegas Review-Journal · 16:15 PT · #us #civic #nevada
+- [‘This is my son’: Mother pleads for maximum sentence in fatal DUI case](https://www.reviewjournal.com/crime/courts/this-is-my-son-mother-pleads-for-maximum-sentence-in-fatal-dui-case-3902727/) — Las Vegas Review-Journal · 16:13 PT · #us #nevada
 - [Jury awards woman $5.69M after Las Vegas taxi driver closes trunk on her head](https://www.reviewjournal.com/news/civil-courts/jury-awards-woman-5-69m-after-las-vegas-taxi-driver-closes-trunk-on-her-head-3902723/) — Las Vegas Review-Journal · 16:07 PT · #us #nevada
 - [Pahrump motorcyclist dies in hit-and-run, police say](https://www.reviewjournal.com/local/local-nevada/pahrump-motorcyclist-dies-in-hit-and-run-police-say-3902720/) — Las Vegas Review-Journal · 15:23 PT · #us #nevada
 - [60 yards! Nick ‘The Kick’ can’t hide excitement for UNLV’s new record](https://www.reviewjournal.com/sports/unlv/unlv-football/60-yards-nick-the-kick-cant-hide-excitement-for-unlvs-new-record-3902710/) — Las Vegas Review-Journal · 14:52 PT · #us #nevada
@@ -408,21 +426,3 @@ tags: ["category", "us"]
 - [VICTOR JOECKS: Nevada’s election hinges on these four questions](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-nevadas-election-hinges-on-these-four-questions-3900749/) — Las Vegas Review-Journal · 21:00 PT · #us #civic #nevada
 - [EDITORIAL: Democratic House incumbents on the ballot](https://www.reviewjournal.com/opinion/editorials/editorial-democratic-house-incumbents-on-the-ballot-3900746/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
 - [JONAH GOLDBERG: Politicians can’t just ‘give the people what they want’](https://www.reviewjournal.com/opinion/jonah-goldberg-politicians-cant-just-give-the-people-what-they-want-3900743/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [Inspired by family, Las Vegas-born tequila brand honors its Mexican heritage](https://www.ktnv.com/news/inspired-by-family-las-vegas-born-tequila-brand-honors-its-mexican-heritage) — KTNV Las Vegas · 20:34 PT · #us #nevada #smallbiz
-- [Nevada Supreme Court rejects blanket secrecy rule for active criminal case records](https://www.reviewjournal.com/news/politics-and-government/nevada/nevada-supreme-court-rejects-blanket-secrecy-rule-for-active-criminal-case-records-3900733/) — Las Vegas Review-Journal · 19:55 PT · #us #civic #nevada
-- [Henderson unveils $70 million Sports and Social Complex, the valley's largest indoor sports facility](https://www.ktnv.com/neighborhoods/henderson/henderson-unveils-70-million-sports-and-social-complex-the-valleys-largest-indoor-sports-facility) — KTNV Las Vegas · 19:09 PT · #us #nevada
-- [College Football Playoff set to expand to 24 teams in 2027](https://www.reviewjournal.com/sports/unlv/unlv-football/college-football-playoff-set-to-expand-to-24-teams-in-2027-3900707/) — Las Vegas Review-Journal · 18:57 PT · #us #nevada
-- [California orders lenders to report on handling of insurance payouts to LA fire survivors](https://lasvegassun.com/news/2026/oct/15/california-orders-lenders-to-report-on-handling-of/) — Las Vegas Sun · 17:59 PT · #us #nevada #realestate
-- [More roller coasters close as officials investigate fatal fall in Georgia](https://www.reviewjournal.com/news/nation-and-world/more-roller-coasters-close-as-officials-investigate-fatal-fall-in-georgia-3900680/) — Las Vegas Review-Journal · 17:49 PT · #us #nevada
-- [Battered and bruised Ashton Jeanty ‘feeling great’ and ‘ready to go’ for Raiders](https://www.reviewjournal.com/sports/raiders/battered-and-bruised-ashton-jeanty-feeling-great-and-ready-to-go-for-raiders-3900675/) — Las Vegas Review-Journal · 17:47 PT · #us #nevada
-- [Las Vegas taxpayers pay $20,000 after jail officer preached religious sermon to ICE protest detainees](https://www.ktnv.com/13-investigates/las-vegas-taxpayers-pay-20-000-after-jail-officer-preached-religious-sermon-to-ice-protest-detainees) — KTNV Las Vegas · 17:41 PT · #us #nevada
-- [Remains in Lake Mead barrel identified as Arkansas man by Las Vegas police](https://lasvegassun.com/news/2026/oct/15/remains-in-lake-mead-barrel-identified-as-arkansas/) — Las Vegas Sun · 17:37 PT · #us #nevada
-- [California power shutoffs start as Santa Ana winds arrive](https://www.reviewjournal.com/news/nation-and-world/california-power-shutoffs-start-as-santa-ana-winds-arrive-3900667/) — Las Vegas Review-Journal · 17:21 PT · #us #nevada
-- [CBS’ ‘NFL Today’ pregame show to broadcast live from Allegiant Stadium parking lot](https://www.reviewjournal.com/sports/raiders/cbs-nfl-today-pregame-show-to-broadcast-live-from-allegiant-stadium-parking-lot-3900660/) — Las Vegas Review-Journal · 17:10 PT · #us #nevada
-- [Movie Review: 'Street Fighter' is a campy '90s nostalgia ride and a complete mess](https://lasvegassun.com/news/2026/oct/15/movie-review-street-fighter-is-a-campy-90s-nostalg/) — Las Vegas Sun · 17:03 PT · #us #nevada
-- [Discipline takes center stage as UNLV prepares for Air Force’s ground attack](https://www.reviewjournal.com/sports/unlv/unlv-football/discipline-takes-center-stage-as-unlv-prepares-for-air-forces-ground-attack-3900656/) — Las Vegas Review-Journal · 16:57 PT · #us #nevada
-- ['The Foundry' promises to bring 1,000 affordable homes to downtown Las Vegas area](https://www.ktnv.com/news/the-foundry-promises-to-bring-1-000-affordable-homes-to-downtown-las-vegas-area) — KTNV Las Vegas · 16:57 PT · #us #nevada #smallbiz
-- [NSP releases photos of truck sought in hit-and-run that critically injured Las Vegas professor](https://www.ktnv.com/neighborhoods/southwest-las-vegas/nsp-releases-photos-of-truck-sought-in-hit-and-run-that-critically-injured-las-vegas-professor) — KTNV Las Vegas · 16:48 PT · #us #nevada
-- [Poker star Bryn Kenney sues GGPoker executive over alleged broken deal](https://www.reviewjournal.com/business/casinos-gaming/poker-star-bryn-kenney-sues-ggpoker-executive-over-alleged-broken-deal-3900646/) — Las Vegas Review-Journal · 16:30 PT · #us #nevada
-- [5 people believed dead following shooting at Oregon elementary school, 2 officials tell AP](https://lasvegassun.com/news/2026/oct/15/5-people-believed-dead-following-shooting-at-orego/) — Las Vegas Sun · 16:25 PT · #us #nevada
-- [2 hospitalized, shooter dead after shooting at an Oregon elementary school](https://www.reviewjournal.com/crime/shootings/2-hospitalized-shooter-dead-after-shooting-at-an-oregon-elementary-school-3900612/) — Las Vegas Review-Journal · 15:21 PT · #us #nevada

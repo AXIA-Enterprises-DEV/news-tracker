@@ -1,16 +1,18 @@
 ---
 title: "Ticker: $NET"
-updated: 2026-10-20T16:28:00-07:00
-count: 5
+updated: 2026-10-20T18:52:57-07:00
+count: 7
 tags: ["ticker", "NET"]
 ---
 
 # Ticker: $NET
 
-5 most recent items (14-day window).
+7 most recent items (14-day window).
 
 ## 2026-10-20
 
+- [Mehr als 10 Millionen Entwickler nutzen Cloudflare für ihre Projekte](http://www.businesswire.com/news/home/20261020431501/de/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 17:26 PT · #business $NET
+- [Más de 10 millones de desarrolladores están creando aplicaciones en Cloudflare](http://www.businesswire.com/news/home/20261020660007/es/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 17:26 PT · #business $NET
 - [More than 10 Million Developers Are Building on Cloudflare](http://www.businesswire.com/news/home/20261020297012/en/More-than-10-Million-Developers-Are-Building-on-Cloudflare/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 06:00 PT · #business #ai $NET
 - [Cloudflares KI-Workspace-Plattform kooperiert mit führenden Anwendungen und Deployment-Teams, um KI in Unternehmen produktiv einzusetzen](http://www.businesswire.com/news/home/20261019582633/de/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 00:00 PT · #business $NET
 

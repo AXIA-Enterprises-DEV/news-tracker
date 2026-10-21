@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $RMNI"
-updated: 2026-10-20T16:28:00-07:00
+updated: 2026-10-20T18:52:57-07:00
 count: 5
 tags: ["ticker", "RMNI"]
 ---

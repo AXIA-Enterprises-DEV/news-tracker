@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $GIL"
-updated: 2026-10-20T16:28:00-07:00
-count: 3
+updated: 2026-10-20T18:52:57-07:00
+count: 4
 tags: ["ticker", "GIL"]
 ---
 
 # Ticker: $GIL
 
-3 most recent items (14-day window).
+4 most recent items (14-day window).
+
+## 2026-10-20
+
+- [INVESTOR ACTION NOTICE: Gildan Activewear Inc. Investors to Contact Law Firm Moore Law PLLC](https://www.prnewswire.com/news-releases/investor-action-notice-gildan-activewear-inc-investors-to-contact-law-firm-moore-law-pllc-302914603.html) — PR Newswire M&A · 17:52 PT · #business $GIL
 
 ## 2026-10-16
 

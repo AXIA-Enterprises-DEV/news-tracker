@@ -1,13 +1,13 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-20T16:28:00-07:00
-count: 119
+updated: 2026-10-20T18:52:57-07:00
+count: 117
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-119 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+117 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-20
 
@@ -161,8 +161,3 @@ tags: ["project", "cannabis"]
 
 - [Georgia medical cannabis continues to grow rapidly despite lack of DEA guidance](https://mjbizdaily.com/news/georgia-medical-cannabis-continues-to-grow-rapidly-despite-lack-of-dea-guidance/618548/) — MJBizDaily · 16:30 PT · #business #cannabis #markets #smallbiz
 - [Third New Jersey cannabis operator sues to overturn labor peace requirement](https://mjbizdaily.com/news/third-new-jersey-cannabis-operator-sues-to-overturn-labor-peace-requirement/618536/) — MJBizDaily · 15:15 PT · #business #cannabis #smallbiz
-
-## 2026-10-06
-
-- [Medical cannabis authorizers up 16% – what it means for operators](https://mjbizdaily.com/news/medical-cannabis-authorizers-up-16-what-it-means-for-operators/618490/) — MJBizDaily · 15:48 PT · #business #cannabis #smallbiz
-- [Do government-run cannabis retail sales work?](https://mjbizdaily.com/news/does-government-run-cannabis-retail-work/618419/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz

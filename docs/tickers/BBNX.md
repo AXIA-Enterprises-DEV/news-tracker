@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $BBNX"
-updated: 2026-10-20T16:28:00-07:00
-count: 2
+updated: 2026-10-20T18:52:57-07:00
+count: 3
 tags: ["ticker", "BBNX"]
 ---
 
 # Ticker: $BBNX
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-20
+
+- [Beta Bionics, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - BBNX](https://www.prnewswire.com/news-releases/beta-bionics-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--bbnx-302914693.html) — PR Newswire M&A · 17:25 PT · #business #markets $BBNX
 
 ## 2026-10-18
 

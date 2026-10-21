@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $BIDU"
-updated: 2026-10-20T16:28:00-07:00
-count: 1
+updated: 2026-10-20T18:52:57-07:00
+count: 2
 tags: ["ticker", "BIDU"]
 ---
 
 # Ticker: $BIDU
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-20
+
+- [Baidu, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - BIDU](https://www.prnewswire.com/news-releases/baidu-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--bidu-302914704.html) — PR Newswire M&A · 17:28 PT · #business #markets $BIDU
 
 ## 2026-10-13
 

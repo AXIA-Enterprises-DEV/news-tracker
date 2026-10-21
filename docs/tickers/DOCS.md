@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $DOCS"
-updated: 2026-10-20T16:28:00-07:00
-count: 2
+updated: 2026-10-20T18:52:57-07:00
+count: 3
 tags: ["ticker", "DOCS"]
 ---
 
 # Ticker: $DOCS
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-20
+
+- [Doximity, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - DOCS](https://www.prnewswire.com/news-releases/doximity-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--docs-302914712.html) — PR Newswire M&A · 17:31 PT · #business $DOCS
 
 ## 2026-10-17
 

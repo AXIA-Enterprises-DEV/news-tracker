@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-20T16:28:00-07:00
+updated: 2026-10-20T18:52:57-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,11 +11,26 @@ tags: ["category", "tech"]
 
 ## 2026-10-20
 
+- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) — Hacker News · 18:45 PT · #tech
+- [Apple is looking for a cellular modem engineer to help shape its transition to 6G](https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/) — 9to5Mac · 18:18 PT · #tech #ai
+- [Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV](https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/) — 9to5Mac · 18:01 PT · #tech #ai
+- [Perplexity Computer can now run entirely on your Mac, if you have 36 GB of memory - Techish Kenya](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUZXc180cjBvdUdQU0tkSmxvSFVud1htS1ZaMlVQU1lJc0t4emp3YjhQdzRMX0tpcmhReF9GZF9hOU9wWkE1REJjbnJnZjVRTmJEekUtTndaaWU0VFpHb3BxYUFjU3IzWlZyLVp1VWlRTlJSMzNVeFhwbTBSUGc4eGdqM0E1V1FTbjFNc09n?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 17:58 PT · #tech #ai
+- [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu) — The Verge · 17:00 PT · #tech
+- [NAVER D2SF Invests in On-Device AI Startup TraceWeave](https://www.prnewswire.com/news-releases/naver-d2sf-invests-in-on-device-ai-startup-traceweave-302913752.html) — PR Newswire Business Tech · 17:00 PT · #tech #ai #smallbiz
+- [How much power can a 1kW wind turbine produce for your home?](https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/) — Engadget - Technology News & Expert Reviews · 17:00 PT · #tech
+- [Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones](https://www.macrumors.com/2026/10/20/apple-6g-research-continues/) — MacRumors · 16:46 PT · #tech #ai
+- [Dell Pro Precision 9 T2 Review: Xeon 6 Brings Four Channels of DDR5-6400 and E3.S to the Single-GPU Tower - StorageReview.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUhnLWNUVGFEY0diX3dVWVBsRnZIdWtRNFYtOUVBMG96R0EwajBtbXNvNmpjR2xIN1d2c3dWeERzUHBQMjlHY3RXbnFBUTVpdnJuLVlNS2QtVVQ2ai1EZ2ppa0xfcmFZUXhJemZ3SFV2R2NLa01oYUhKbXRmZTlQZkZjdlo3UTZnZHBjclEwb2l2Z3o2UFVNZnk2MNIBmwFBVV95cUxOWUhnLWNUVGFEY0diX3dVWVBsRnZIdWtRNFYtOUVBMG96R0EwajBtbXNvNmpjR2xIN1d2c3dWeERzUHBQMjlHY3RXbnFBUTVpdnJuLVlNS2QtVVQ2ai1EZ2ppa0xfcmFZUXhJemZ3SFV2R2NLa01oYUhKbXRmZTlQZkZjdlo3UTZnZHBjclEwb2l2Z3o2UFVNZnk2MA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 16:38 PT · #tech #ai
+- [First iPhone Duo Unboxing Video Appears Ahead of Friday Launch](https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/) — MacRumors · 16:31 PT · #tech #ai
+- [What Is an Effective Migration Strategy?](https://smallbiztrends.com/it-migration-strategy/) — Small Business Trends · 16:31 PT · #tech
+- [What can you use your Apple Watch Ultra 4 action button for?](https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/) — Engadget - Technology News & Expert Reviews · 16:30 PT · #tech
+- [Self-Hosted AI Coding Assistant: 12 Steps, 60 Min \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSWZ5MTBDcDAxTE9rV29YSDM1M18zLTNzbnBDQ195OTBZRXJ1T3BIX3NzMlo5Z3ZhZGhOOFZmS2Vsamx1bTk0QVRGb2V0Smd1N2NLTUJVcFB2cG5HOTF3Y0J1azE5aWduVDk0c0RXQkR6d0lyMlpN?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 16:26 PT · #tech #ai
+- [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed) — The Verge · 16:04 PT · #tech #ai
 - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) — Hacker News · 16:04 PT · #tech
 - [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/) — TechCrunch · 16:01 PT · #tech #ai
 - [Oura Ring can track new stats related to cardio fitness](https://www.engadget.com/2292447/oura-ring-can-track-new-stats-related-to-cardio-fitness/) — Engadget - Technology News & Expert Reviews · 16:00 PT · #tech
 - [Five things you should know before buying the iPhone Duo](https://www.engadget.com/2289279/things-know-before-buying-iphone-duo/) — Engadget - Technology News & Expert Reviews · 16:00 PT · #tech
 - [SpaceX and Tesla boards form special committees to review merger](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/) — TechCrunch · 15:57 PT · #tech #markets
+- [Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’](https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312) — www.theregister.com - Articles · 15:57 PT · #tech
 - [Investigation Reveals How TikTok Executives Ignored Internal Child-Safety Warnings](https://www.cnet.com/news/social-media/tiktok-trial-child-safety-warning/) — CNET · 15:42 PT · #tech
 - [Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare](https://www.engadget.com/2289183/fitbit-edge-vs-inspire-3-google-fitness-tracker-comparison/) — Engadget - Technology News & Expert Reviews · 15:30 PT · #tech
 - [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/) — TechCrunch · 15:24 PT · #tech #ai #smallbiz
@@ -25,9 +40,11 @@ tags: ["category", "tech"]
 - [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto) — The Verge · 15:11 PT · #tech #ai
 - [Merging SpaceX and Tesla would be a "good idea," Musk says](https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/) — Ars Technica · 15:04 PT · #tech
 - [The next Xbox might cost $1,800, report says](https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says/) — Engadget - Technology News & Expert Reviews · 15:01 PT · #tech
+- [Auto tech startup claims it traced hack attempt back to rival's IP address](https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281) — www.theregister.com - Articles · 15:00 PT · #tech #ai #smallbiz
 - [What to expect at Apple's 'Pro and Tell' event on October 28](https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/) — Engadget - Technology News & Expert Reviews · 15:00 PT · #tech #ai
 - [Spotify Launches Paid Fan Memberships for Podcast Creators](https://www.cnet.com/tech/services-and-software/spotify-podcasters-paid-memberships-program/) — CNET · 14:50 PT · #tech
 - [Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies](https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/) — Ars Technica · 14:44 PT · #tech
+- [7 Key Trends Shaping Ecommerce Retail Industry](https://smallbiztrends.com/ecommerce-retail-industry/) — Small Business Trends · 14:31 PT · #tech
 - [The latest PlayStation firmware may have already been cracked ahead of GTA 6](https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/) — Engadget - Technology News & Expert Reviews · 14:30 PT · #tech
 - [Tesla and SpaceX are discussing a possible merger, Musk says](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees) — The Verge · 14:30 PT · #tech #markets
 - [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/) — TechCrunch · 14:25 PT · #tech #ai #markets
@@ -62,6 +79,7 @@ tags: ["category", "tech"]
 - [What Happened to Elizabeth Holmes and Theranos? The Fraud, Conviction, and Prison Sentence](https://www.inc.com/lucia-auerbach/what-happened-to-elizabeth-holmes-and-theranos/91422796) — Inc.com · 13:16 PT · #tech #smallbiz
 - [TikTok has started censoring searches for popular peptides](https://www.theverge.com/science/1014825/peptide-tiktok-search-ban) — The Verge · 13:16 PT · #tech
 - [Jay-Z Didn’t Get Picked for the Super Bowl Halftime Show. He Owns the Thing That Does the Picking](https://www.inc.com/michael-tasner/jay-z-super-bowl-halftime-show-ownership-strategy/91422955) — Inc.com · 13:15 PT · #tech
+- [Upcoming Critical PHP Security Release](https://news-web.php.net/php.announce/509) — Hacker News · 13:15 PT · #tech
 - [Hagerty to Report Third Quarter 2026 Results and Host Conference Call on Tuesday, November 3, 2026](https://www.prnewswire.com/news-releases/hagerty-to-report-third-quarter-2026-results-and-host-conference-call-on-tuesday-november-3-2026-302913291.html) — PR Newswire Business Tech · 13:15 PT · #tech $HGTY
 - [SHEIN Kicks Off Holiday Shopping Season with Its Biggest Black Friday & Cyber Monday Selection Yet](https://www.prnewswire.com/news-releases/shein-kicks-off-holiday-shopping-season-with-its-biggest-black-friday--cyber-monday-selection-yet-302914580.html) — PR Newswire Business Tech · 13:10 PT · #tech #civic
 - [Meta drops the word "train" from its commercial TOS after AI backlash](https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/) — Ars Technica · 13:07 PT · #tech #ai
@@ -144,6 +162,7 @@ tags: ["category", "tech"]
 - [Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/) — TechCrunch · 10:12 PT · #tech #ai
 - [Spotify is dancing around its AI 'slop and spam' problem](https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/) — Engadget - Technology News & Expert Reviews · 10:11 PT · #tech #ai
 - [27% Trust AI Search Summaries More Than Traditional Search](https://smallbiztrends.com/27-trust-ai-search-summaries-more-than-traditional-search/) — Small Business Trends · 10:11 PT · #tech #ai
+- [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026/) — Hacker News · 10:10 PT · #tech #ai
 - [Stop buying dumb shit to impress people you don't even know](https://www.youtube.com/shorts/uiJVTiZB1ck) — GaryVee · 10:00 PT · #tech #smallbiz
 - [Chrome will now show a warning before you visit ‘suspicious’ sites](https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning) — The Verge · 10:00 PT · #tech
 - [Lo Bosworth Natale Spent 20 Years in the Public Eye. Here’s What She Learned About Building a Wellness Empire](https://www.inc.com/carly-long/lo-bosworth-natale-love-wellness-business-lessons/91422106) — Inc.com · 10:00 PT · #tech
@@ -388,29 +407,10 @@ tags: ["category", "tech"]
 - [Why cyber resilience is now a boardroom priority for UK public services](https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601) — www.theregister.com - Articles · 01:00 PT · #tech
 - [Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet](https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/) — TechCrunch · 00:01 PT · #tech #ai
 - [181: Ricky](https://darknetdiaries.com/episode/181/) — Darknet Diaries · 00:00 PT · #tech
+- [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x) — OpenAI News · 00:00 PT · #tech #ai
 
 ## 2026-10-19
 
 - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) — Hacker News · 23:37 PT · #tech
 - [Historic Horse Racing Machines Test Massachusetts Casino Model](https://readwrite.com/historic-horse-racing-machines/) — ReadWrite · 23:12 PT · #tech
 - [Japan launches mission to bring home a piece of the Martian moon Phobos](https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/) — Ars Technica · 22:59 PT · #tech
-- [Sony updates the Walkman as a $5,900 gold-plated MP3 player](https://www.theregister.com/personal-tech/2026/10/20/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player/5304051) — www.theregister.com - Articles · 22:29 PT · #tech
-- [First touchscreen MacBook expected at Apple’s ‘Pro and tell’ event - GadgetGuy](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3VxQlJxT2lhdlNGYml3SVNMYllIUmZpaWJKRTRLQVNTM1FHdjYzMG9TYW8yb0xxMWhubTd1X0JLRExVMzhOYnM5UFBxdzZ0alpOVlk5cDBXUzhONlloXzRJX0Y2ZFNnSEJMOWpZYUFRa0lzLTJMZFI1SGo5S2tiZjVZTkNZN0lLVnRN?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 22:06 PT · #tech #ai
-- [Maturity model for production-grade LLM agents detailed - TechGig](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDhwUk9ibC1mbV9kQkFIcENXSUJQcE5FUVpnUG41d2FxelJoSUc3dVlfN3M5SkJMX09RZGlOT2xMUFkyQS1qcHNlZzlleDhHWFlEaThJamY4aG1GZkE1YVZmTlFDWGRGS2p5bzFydTVEWHBHY242YnF5RUhWNnJpUG5zUzdpS2o1bVBobHduX21WbWFSYTFtTdIBngFBVV95cUxOemZDeGhrSENDaGJORHU3d1VYZjZZdnV2dkZiVEMzdkdBOUlDVk1zMkRLa0NkMEtxLVNNWHlMTTFZRWdNNFNRaG15TjBpODlYQUV0d3ByaEdHOVEzVUdNMTV1anRxVV9ILU14NkNYWUpBTVhNaF91WXV4LS1WYTVFYWNKVmROQmZfR3c0T2RZOVBDUXR3S041TE9heXRvQQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 22:01 PT · #tech #ai
-- [IBM VP: AI is the business model, not just support - TechGig](https://news.google.com/rss/articles/CBMijwFBVV95cUxPd19MR0UwbEVxMGZyMlc0eG1wUnVuaThEd0IwTkhwdTFGY181QzRWeTJYV09zSE15enhOd25feFkyQ1ZtSkNzaVU4cldOTWd3eHg0Mm0teUdBbkh4bEpIdGZtT3BtejVzcGpQYng2ZkFNV0RJUm1GUXUxaG9oTlFwZGNXMmxNeDlzMVhWOWlhNNIBlAFBVV95cUxObndNbnl0NVEtSUUzQjA0Mko0TFVYX0gxbDRKWVdPUzJuckZzWHl5R1h5T21za0xoU3FPcUhvTWJzQ2FEXzFvNzFybl9nUjJQNWRRd1VzWmlEWGFRMVhObXh5TGQ5TERQNV95aWZ6X2NHZEVHN3ctQnNDdHhBZkRGd2hqZk50cWctX0NGVy1YcEVfb0V3?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 22:01 PT · #tech #ai
-- [Adorama Camera Coupon Codes & Promo Codes: October 2026](https://www.wired.com/story/adorama-promo-code/) — WIRED · 22:00 PT · #tech
-- [Mint Mobile Discounts for October 2026](https://www.wired.com/story/mint-mobile-promo-code/) — WIRED · 22:00 PT · #tech
-- [Mattress Firm Coupons: Save up to $700](https://www.wired.com/story/mattress-firm-coupon/) — WIRED · 22:00 PT · #tech
-- [50% Off DoorDash Promo Code | October 2026](https://www.wired.com/story/doordash-promo-code/) — WIRED · 22:00 PT · #tech
-- [Chewy Promo Codes: $20 Off October 2026](https://www.wired.com/story/chewy-promo-code/) — WIRED · 22:00 PT · #tech
-- [Whoop Promo Codes: 20% Off This October 2026](https://www.wired.com/story/whoop-promo-code/) — WIRED · 22:00 PT · #tech #foreign
-- [Home Chef Promo Codes for October 2026](https://www.wired.com/story/home-chef-promo-code/) — WIRED · 22:00 PT · #tech
-- [AT&T Promo Codes: $50 Off This October 2026](https://www.wired.com/story/att-promo-code/) — WIRED · 22:00 PT · #tech #civic
-- [eBay Coupons: 20% Off in October 2026](https://www.wired.com/story/ebay-coupon-code/) — WIRED · 22:00 PT · #tech #civic
-- [GitHub Copilot vs Cursor: HydraFusion Max 2026 - https://tech-insider.org/](https://news.google.com/rss/articles/CBMif0FVX3lxTE0xb2htaGVWY0FyaEZodjBINHNUQk5pOXQ3MDFnWnZmZnh1VEtzRUJkd2NjM3JoUElkS3NtOUlHODZxQ1VOMG5yS0d5dnBqWnpDRUo5NERLTjJqc01XRHdPZWc4NmcyeHJIMmM0U0k0ZGxOX2xGX3R4NEVYSDZhQXc?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 21:45 PT · #tech #ai
-- [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/) — Hacker News · 21:37 PT · #tech
-- [Taction won record-breaking $5.7 billion verdict against Apple, asks for more](https://appleinsider.com/articles/26/10/20/taction-won-record-breaking-57-billion-verdict-against-apple-asks-for-more?utm_source=rss) — AppleInsider · 21:22 PT · #tech #ai
-- [‘David Beckham’ was briefly the world’s second-worst manga pirate](https://www.theregister.com/legal/2026/10/20/david-beckham-was-briefly-the-worlds-second-worst-manga-pirate/5304044) — www.theregister.com - Articles · 21:21 PT · #tech
-- [359: Ash Sweetman](https://audioboom.com/posts/8964828) — ISF Podcast · 21:01 PT · #tech
-- [Baseus’ new security camera has a spotlight that tracks and follows moving targets](https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight) — The Verge · 21:00 PT · #tech #ai
-- [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) — Hacker News · 20:51 PT · #tech

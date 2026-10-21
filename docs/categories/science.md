@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-20T16:28:00-07:00
+updated: 2026-10-20T18:52:57-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,14 @@ tags: ["category", "science"]
 
 ## 2026-10-20
 
+- [Controlled vapor treatment guides molecules into highly oriented soft quasicrystals](https://phys.org/news/2026-10-vapor-treatment-molecules-highly-soft.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
+- [Major repairs needed to save Horseshoe Bay Lagoon](https://phys.org/news/2026-10-major-horseshoe-bay-lagoon.html) — Phys.org - latest science and technology news stories · 18:20 PT · #science
+- [Rare solar radiation storm gives scientists clearest picture yet of flight risks](https://phys.org/news/2026-10-rare-solar-storm-scientists-clearest.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
+- [Shortening Canadian teacher education risks devaluing the profession of teaching](https://phys.org/news/2026-10-shortening-canadian-teacher-devaluing.html) — Phys.org - latest science and technology news stories · 17:40 PT · #science
+- [Where El Niño may impact California coastal areas this winter](https://phys.org/news/2026-10-el-nio-impact-california-coastal.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
+- [Researchers study how AI could improve weed management](https://phys.org/news/2026-10-ai-weed.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science #ai
+- [Shipwrecks can become thriving reefs, but may contain hidden toxic time bombs](https://phys.org/news/2026-10-shipwrecks-reefs-hidden-toxic.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #foreign
+- [Forgotten samples from Greenland's Cold War base reveal warmer summers during ancient ice-free period](https://phys.org/news/2026-10-forgotten-samples-greenland-cold-war.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #foreign
 - [Judging faces without personality labels uncovers key patterns in first impressions](https://phys.org/news/2026-10-personality-uncovers-key-patterns.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
 - [Building wildfire-resilient homes costs less than residents expect](https://phys.org/news/2026-10-wildfire-resilient-homes-residents.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
 - [Mystery skeleton found in Roman sarcophagus at Westminster Abbey may finally have an identity](https://phys.org/news/2026-10-mystery-skeleton-roman-sarcophagus-westminster.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
@@ -156,6 +164,7 @@ tags: ["category", "science"]
 - [Can a human survive in a whale’s belly? The science behind the thriller Whalefall](https://www.nature.com/articles/d41586-026-03358-8) — Nature · 17:00 PT · #science
 - [It’s time to teach peer review as a core research skill](https://www.nature.com/articles/d41586-026-03200-1) — Nature · 17:00 PT · #science
 - [Vast new fossil record challenges story of Earth’s ‘big five’ mass extinctions](https://www.nature.com/articles/d41586-026-03316-4) — Nature · 17:00 PT · #science
+- [Body clock disruptions contribute to one in four cases of depression, suggests large study](https://www.nature.com/articles/d41586-026-03359-7) — Nature · 17:00 PT · #science
 - [New 4D biofabrication technology holds promise for tissue engineering, wound healing](https://phys.org/news/2026-10-4d-biofabrication-technology-tissue-wound.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Molecular switch controls how cells load cargo for recycling](https://phys.org/news/2026-10-molecular-cells-cargo-recycling.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos](https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks) — Space | The Guardian · 16:37 PT · #science
@@ -414,12 +423,3 @@ tags: ["category", "science"]
 - [Tiny, critically endangered bat rescued and released in Pennsylvania](https://www.popsci.com/environment/endangered-bat-rescued-released-pennsylvania/) — Popular Science · 10:00 PT · #science
 - [Wind emerges as overlooked factor in ecosystems' carbon uptake and water loss](https://phys.org/news/2026-10-emerges-overlooked-factor-ecosystems-carbon.html) — Phys.org - latest science and technology news stories · 09:56 PT · #science
 - [Remote work made these colleagues more open with each other, not less](https://phys.org/news/2026-10-remote-colleagues.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
-- [AI designs working molecular scissors that recognize and cut selected protein targets](https://phys.org/news/2026-10-ai-molecular-scissors-protein.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science #ai
-- [Artemis II Heat Shield After Splashdown](https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/) — NASA · 09:28 PT · #science
-- [Elon Musk unveils Tesla's 'flying' car](https://phys.org/news/2026-10-elon-musk-unveils-tesla-flying.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
-- [Matching wastewater treatment to local demand could help China tackle water scarcity](https://phys.org/news/2026-10-wastewater-treatment-local-demand-china.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science #foreign
-- [One-step rapid syphilis test uses layered nanoparticles to detect infection earlier](https://phys.org/news/2026-10-rapid-syphilis-layered-nanoparticles-infection.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
-- [Can social media bans protect young people's mental health? Early research suggests that bans aren't the answer](https://phys.org/news/2026-10-social-media-young-people-mental.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
-- [Your eyes dilate depending on your thoughts](https://www.popsci.com/science/eyes-dilate-depending-on-thoughts/) — Popular Science · 08:45 PT · #science
-- [Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields](https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science #ai
-- [Putting wood security on the global agenda: Researchers outline 20 core challenges](https://phys.org/news/2026-10-wood-global-agenda-outline-core.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
