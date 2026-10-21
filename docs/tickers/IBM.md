@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $IBM"
-updated: 2026-10-21T10:54:21-07:00
-count: 1
+updated: 2026-10-21T14:14:15-07:00
+count: 2
 tags: ["ticker", "IBM"]
 ---
 
 # Ticker: $IBM
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-21
+
+- [IBM RELEASES THIRD-QUARTER RESULTS](https://www.prnewswire.com/news-releases/ibm-releases-third-quarter-results-302915985.html) — PR Newswire Business Tech · 13:08 PT · #tech #markets $IBM
 
 ## 2026-10-14
 

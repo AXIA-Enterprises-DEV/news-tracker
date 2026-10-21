@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $CC"
-updated: 2026-10-21T10:54:21-07:00
-count: 2
+updated: 2026-10-21T14:14:15-07:00
+count: 3
 tags: ["ticker", "CC"]
 ---
 
 # Ticker: $CC
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-21
+
+- [Chemours Announces Dates for Third Quarter 2026 Earnings Release and Webcast Conference Call](https://www.prnewswire.com/news-releases/chemours-announces-dates-for-third-quarter-2026-earnings-release-and-webcast-conference-call-302915935.html) — PR Newswire M&A · 13:30 PT · #business #markets $CC
 
 ## 2026-10-19
 

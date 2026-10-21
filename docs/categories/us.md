@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-21T10:54:21-07:00
+updated: 2026-10-21T14:14:15-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,7 +11,22 @@ tags: ["category", "us"]
 
 ## 2026-10-21
 
+- [Locals casino promotes UNLV grad to senior VP of operations](https://www.reviewjournal.com/business/vegas-business/people-on-the-move/locals-casino-promotes-unlv-grad-to-senior-vp-of-operations-3903196/) — Las Vegas Review-Journal · 13:45 PT · #us #nevada
+- [Homicide unit responds to man’s death in central Las Vegas Valley neighborhood](https://www.reviewjournal.com/local/local-las-vegas/homicide-unit-responds-to-mans-death-in-central-las-vegas-valley-neighborhood-3903183/) — Las Vegas Review-Journal · 13:17 PT · #us #nevada
+- [Las Vegas man sentenced for scheme to claim millions of dollars through false tax returns](https://lasvegassun.com/news/2026/oct/21/las-vegas-man-sentenced-for-scheme-to-claim-millio/) — Las Vegas Sun · 13:13 PT · #us #nevada
+- [As midterms near, bipartisan furor grows over Trump targeting Ukraine](https://www.latimes.com/politics/story/2026-10-21/as-midterms-near-bipartisan-furor-grows-over-trump-targeting-ukraine) — World & Nation · 13:04 PT · #us #civic #foreign
+- [Athletics introduce new president of baseball operations](https://www.reviewjournal.com/sports/athletics/as-introduce-new-president-of-baseball-operations-watch-live-3903176/) — Las Vegas Review-Journal · 13:00 PT · #us #nevada
+- [Pope Leo’s doctors say tests show he needs no further treatment for lung cancer](https://lasvegassun.com/news/2026/oct/21/pope-leos-doctors-say-tests-show-he-needs-no-furth/) — Las Vegas Sun · 12:58 PT · #us #nevada
+- [Waymo adds driverless rides to Las Vegas airport](https://lasvegassun.com/news/2026/oct/21/waymo-adds-driverless-rides-to-las-vegas-airport/) — Las Vegas Sun · 12:18 PT · #us #nevada
+- [Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook](https://lasvegassun.com/news/2026/oct/21/meta-ordered-to-pay-new-mexico-25-billion-for-dece/) — Las Vegas Sun · 12:12 PT · #us #nevada
+- [Sunrise Mountain set to host Valley in DIII title game](https://www.reviewjournal.com/nevada-preps/np-football/sunrise-mountain-set-to-host-valley-in-diii-title-game-3903147/) — Las Vegas Review-Journal · 12:09 PT · #us #nevada
+- [Man dies after being found unresponsive in Las Vegas](https://www.ktnv.com/news/man-dies-after-being-found-unresponsive-in-las-vegas) — KTNV Las Vegas · 12:07 PT · #us #nevada
+- [Trump's political groups spend nearly $277 million in late midterm blitz on behalf of GOP candidates](https://lasvegassun.com/news/2026/oct/21/trumps-political-groups-spend-nearly-277-million-i/) — Las Vegas Sun · 11:46 PT · #us #civic #nevada
+- [Waymo begins Reid Airport rides in Las Vegas](https://www.reviewjournal.com/local/traffic/waymo-begins-reid-airport-rides-in-las-vegas-3903138/) — Las Vegas Review-Journal · 11:34 PT · #us #nevada
+- [Mark Wahlberg’s new gym in Downtown Summerlin gets closer to opening](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/mark-wahlbergs-new-gym-in-downtown-summerlin-gets-closer-to-opening-3903113/) — Las Vegas Review-Journal · 11:13 PT · #us #nevada
+- [New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch](https://lasvegassun.com/news/2026/oct/21/new-mexico-attorney-general-accuses-epstein-attorn/) — Las Vegas Sun · 10:54 PT · #us #nevada
 - [Roger Goodell is comfortable with security for the NFL's Paris game between the Steelers and Saints](https://lasvegassun.com/news/2026/oct/21/roger-goodell-is-comfortable-with-security-for-the/) — Las Vegas Sun · 10:50 PT · #us #nevada
+- [Raiders coach, QB speak about Sunday’s game against Los Angeles Rams](https://www.reviewjournal.com/sports/raiders/raiders-coach-qb-to-speak-about-sundays-game-against-los-angeles-rams-watch-live-3903104/) — Las Vegas Review-Journal · 10:48 PT · #us #nevada
 - [NFL suspends second Bills defender for spitting at Raiders](https://lasvegassun.com/news/2026/oct/21/nfl-suspends-second-bills-defender-for-spitting-at/) — Las Vegas Sun · 10:28 PT · #us #nevada
 - [UNLV WR Kayden McGee embracing big-play role and more in sophomore season](https://www.reviewjournal.com/sports/unlv/unlv-football/unlv-wr-kayden-mcgee-embracing-big-play-role-and-more-in-sophomore-season-3903071/) — Las Vegas Review-Journal · 10:21 PT · #us #nevada
 - [Top Democrats join California immigrant, Nevada group to sue over federal election probes](https://www.latimes.com/politics/story/2026-10-21/top-democrats-join-california-immigrant-nevada-group-to-sue-over-federal-election-probes) — World & Nation · 10:18 PT · #us #civic #nevada
@@ -47,6 +62,7 @@ tags: ["category", "us"]
 - [An energy and infrastructure permitting breakthrough is within reach](https://lasvegassun.com/news/2026/oct/21/an-energy-and-infrastructure-permitting-breakthrou/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
 - [Early detection could help close Nevada’s breast cancer gap](https://lasvegassun.com/news/2026/oct/21/early-detection-could-help-close-nevadas-breast-ca/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [If water is the new gold, we’d better price it right](https://lasvegassun.com/news/2026/oct/21/if-water-is-the-new-gold-wed-better-price-it-right/) — Las Vegas Sun · 02:00 PT · #us #fed #nevada #oil
+- [Vegas Inc and Spectrum Business present the 2026 Top Tech Awards](https://vegasinc.lasvegassun.com/business/2026/oct/21/vegas-inc-spectrum-business-2026-top-tech/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Australian Politician Who Was Hit By Car Has Lost Both Legs](https://www.huffpost.com/entry/australia-lawmaker-injured_n_6ad8767ee4b04f71533db123) — World News - Breaking News, Top Stories · 01:31 PT · #us
 - [¿Cómo funcionará en Nevada el programa de Trump para becas de opción escolar?](https://thenevadaindependent.com/article/como-funcionara-en-nevada-el-programa-de-trump-para-becas-de-opcion-escolar/) — The Nevada Independent · 01:15 PT · #us #nevada
 - [Tuesday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/tuesdays-nevada-preps-high-school-sports-scoreboard-3902933/) — Las Vegas Review-Journal · 00:02 PT · #us #nevada
@@ -410,19 +426,3 @@ tags: ["category", "us"]
 - [Road to Vegas: 5 matchups to watch in Week 7 of college football](https://www.reviewjournal.com/sports/football/road-to-vegas-5-matchups-to-watch-in-week-7-of-college-football-3901108/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
 - [Beware the option: UNLV football flies into Air Force for MW game](https://www.reviewjournal.com/sports/unlv/unlv-football/beware-the-option-unlv-football-flies-into-air-force-for-mw-game-3901104/) — Las Vegas Review-Journal · 13:41 PT · #us #nevada
 - [Summerlin’s Grand Park village offers options](https://www.reviewjournal.com/homes/advertising-features/summerlins-grand-park-village-offers-options-3901099/) — Las Vegas Review-Journal · 13:29 PT · #us #nevada
-- [Trump's team is in chaos as midterms enter final stretch](https://www.latimes.com/politics/story/2026-10-16/trumps-team-is-in-chaos-as-midterms-enter-final-stretch) — World & Nation · 13:26 PT · #us
-- [US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers](https://lasvegassun.com/news/2026/oct/16/us-is-reviving-shuttered-nuclear-plants-to-meet-gr/) — Las Vegas Sun · 13:05 PT · #us #nevada
-- [Man accused of taking flamingo from Strip resort says he drank 30 to 40 beers](https://www.reviewjournal.com/crime/courts/man-accused-of-taking-flamingo-from-strip-resort-says-he-drank-30-to-40-beers-3901071/) — Las Vegas Review-Journal · 12:34 PT · #us #nevada
-- [Arizona joins Nevada's lawsuit over Colorado River water cuts](https://www.ktnv.com/news/state/arizona-joins-lawsuit-over-colorado-river-water-cuts) — KTNV Las Vegas · 12:27 PT · #us #nevada
-- [NBA, sportsbooks agree to ban certain bets, parlays used in betting schemes](https://www.reviewjournal.com/sports/betting/nba-sportsbooks-agree-to-ban-certain-bets-parlays-used-in-betting-schemes-3901064/) — Las Vegas Review-Journal · 12:21 PT · #us #nevada
-- [Sgroi named executive director of Nevada Interscholastic Activities Association](https://lasvegassun.com/news/2026/oct/16/sgroi-named-executive-director-of-nevada-interscho/) — Las Vegas Sun · 12:19 PT · #us #nevada
-- [Another state to intervene in Nevada’s legal fight with the feds over Lake Mead](https://www.reviewjournal.com/news/environment/another-state-to-intervene-in-nevadas-legal-fight-with-the-feds-over-lake-mead-3901056/) — Las Vegas Review-Journal · 12:14 PT · #us #nevada
-- [Raiders coach Klint Kubiak discusses Week 6 contest against Bills](https://www.reviewjournal.com/sports/raiders/raiders-coach-klint-kubiak-discusses-week-6-contest-against-bills-watch-live-3901048/) — Las Vegas Review-Journal · 12:03 PT · #us #nevada
-- [Raiders vs. Bills predictions: RJ staffers pick winner of Week 6 game](https://www.reviewjournal.com/sports/raiders/raiders-vs-bills-predictions-rj-staffers-pick-winner-of-week-6-game-3901037/) — Las Vegas Review-Journal · 11:38 PT · #us #nevada
-- [Governor praises local who ‘heroically’ helped end mass shooting at Oregon school](https://www.reviewjournal.com/news/nation-and-world/governor-praises-local-who-heroically-helped-end-mass-shooting-at-oregon-school-3901030/) — Las Vegas Review-Journal · 11:30 PT · #us #nevada
-- [Police say former Chicago cop, Las Vegas federal investigator killed 8-year-old 65 years ago](https://www.reviewjournal.com/news/nation-and-world/police-say-former-chicago-cop-las-vegas-federal-investigator-killed-8-year-old-65-years-ago-3901022/) — Las Vegas Review-Journal · 11:14 PT · #us #nevada
-- [‘Nevadans need to step up’: 2 weeks of early voting starts Saturday](https://www.reviewjournal.com/news/politics-and-government/nevada/nevadans-need-to-step-up-2-weeks-of-early-voting-starts-saturday-3901015/) — Las Vegas Review-Journal · 11:11 PT · #us #civic #nevada
-- [NIAA selects, approves new executive director](https://www.reviewjournal.com/nevada-preps/niaa-selects-approves-new-executive-director-3901006/) — Las Vegas Review-Journal · 10:57 PT · #us #nevada
-- [Trump casts doubt on press secretary Zacharia’s future](https://www.reviewjournal.com/news/politics-and-government/trump-casts-doubt-on-press-secretary-zacharias-future-3901002/) — Las Vegas Review-Journal · 10:55 PT · #us #media #nevada
-- [US Coast Guard rescues at least 16 in the water off Mexico’s Baja Coast](https://www.reviewjournal.com/news/nation-and-world/us-coast-guard-rescues-at-least-16-in-the-water-off-mexicos-baja-coast-3900996/) — Las Vegas Review-Journal · 10:53 PT · #us #nevada
-- [Off-Strip hotel-casino brings guest services to ChatGPT](https://www.reviewjournal.com/business/casinos-gaming/off-strip-hotel-casino-brings-guest-services-to-chatgpt-3900986/) — Las Vegas Review-Journal · 10:21 PT · #us #nevada

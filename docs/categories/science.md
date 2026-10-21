@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-21T10:54:21-07:00
+updated: 2026-10-21T14:14:15-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,39 @@ tags: ["category", "science"]
 
 ## 2026-10-21
 
+- [Hearing laughter may cause orangutans to value rewards more](https://phys.org/news/2026-10-laughter-orangutans-rewards.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [El Niño is threatening California's fragile coast again—the 1982–83 El Niño opened eyes to the serious erosion risks](https://phys.org/news/2026-10-el-nio-threatening-california-fragile.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [Japan's expensive funerals and declining birthrates are transforming ancestral traditions](https://phys.org/news/2026-10-japan-expensive-funerals-declining-birthrates.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [Salt marshes are proving to be powerful allies in building a climate-resilient coastline](https://phys.org/news/2026-10-salt-marshes-powerful-allies-climate.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [Reconstructing 16,000 years of summer temperature change in the Western Balkans](https://phys.org/news/2026-10-reconstructing-years-summer-temperature-western.html) — Phys.org - latest science and technology news stories · 13:30 PT · #science
+- [AI designs functional enzyme components that could help expand drug discovery](https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science #ai
+- [A scuff on your bag, a dent in your mug—and suddenly it feels like time for a new one](https://phys.org/news/2026-10-scuff-bag-dent-suddenly.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
+- [C.D.C. Ignored Request From States to Validate a New Measles Test](https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html) — NYT > Science · 13:17 PT · #science
+- [AI-powered robots can be tricked into slicing off fingers](https://www.popsci.com/technology/ai-powered-robot-slices-fingers/) — Popular Science · 13:14 PT · #science #ai
+- [Breaking through the 'fog of war': Game-based study suggests shared boundaries can foster peace](https://phys.org/news/2026-10-fog-war-game-based-boundaries.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science #foreign
+- [Using AI to plan your next vacation? Sometimes, too much information is just too much](https://phys.org/news/2026-10-ai-vacation.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science #ai
+- [How humans domesticated the bacterium behind Botox treatments](https://phys.org/news/2026-10-humans-domesticated-bacterium-botox-treatments.html) — Phys.org - latest science and technology news stories · 12:50 PT · #science
+- [What faces in paintings can tell us about how we perceive emotion](https://phys.org/news/2026-10-emotion.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [Serengeti hyenas manage to keep clans stable as climate change alters animal migrations](https://phys.org/news/2026-10-serengeti-hyenas-clans-stable-climate.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [Trump Ties Disaster Aid to Votes as Midterm Fight Heats Up](https://www.nytimes.com/2026/10/21/climate/disaster-aid-politics-trump-north-carolina.html) — NYT > Science · 12:29 PT · #science
+- [Subsidence claims: After drought, ground can shrink, swell or even collapse when it rains—causing damage to homes](https://phys.org/news/2026-10-subsidence-drought-ground-collapse-homes.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [Ancient fish bones reveal how Arctic cod species survived the last ice age](https://phys.org/news/2026-10-ancient-fish-bones-reveal-arctic.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [Genetic snapshot of North Carolina black bears could improve population resilience](https://phys.org/news/2026-10-genetic-snapshot-north-carolina-black.html) — Phys.org - latest science and technology news stories · 12:10 PT · #science
+- [WWII fighter plane crash found in Hungary after nearly 80 years](https://www.popsci.com/technology/ww2-soviet-plane-crash-hungary/) — Popular Science · 12:05 PT · #science
+- [America Mints a New National Park, Elevating an Arizonan ‘Sky Island’](https://www.nytimes.com/2026/10/21/travel/new-national-park-chiricahua.html) — NYT > Science · 12:02 PT · #science
+- [Annual 'Teens and Screens' report reveals young audiences are redefining modern storytelling](https://phys.org/news/2026-10-annual-teens-screens-reveals-young.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
+- [Swiss barn owls are gradually changing color](https://phys.org/news/2026-10-swiss-barn-owls-gradually.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science #civic
+- [X-ray free-electron laser sets new record for shortest high-energy pulses](https://phys.org/news/2026-10-ray-free-electron-laser-shortest.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [Study identifies world's first corporate psychopath](https://phys.org/news/2026-10-world-corporate-psychopath.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [Butterfly navigation tests reveal that migrating species may rely on different natural compasses](https://phys.org/news/2026-10-butterfly-reveal-migrating-species-natural.html) — Phys.org - latest science and technology news stories · 11:20 PT · #science
+- [Scientists discover migration-mediated mechanism enabling bacteria-virus coexistence](https://phys.org/news/2026-10-scientists-migration-mechanism-enabling-bacteria.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Keeping to warm climates may have helped crocodiles outlast the dinosaurs](https://phys.org/news/2026-10-climates-crocodiles-outlast-dinosaurs.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Compulsive social media use is linked with wanting closeness but fearing reliance on others](https://phys.org/news/2026-10-compulsive-social-media-linked-reliance.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Electronic nose puts police detection dogs to the test](https://phys.org/news/2026-10-electronic-nose-police-dogs.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Forensic specialists need only one or two facial features to identify individuals](https://phys.org/news/2026-10-forensic-specialists-facial-features-individuals.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Preschoolers aren't more creative than adults—they're just more confident](https://phys.org/news/2026-10-preschoolers-creative-adults-theyre-confident.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Chromosome anchors form hollow shells before cell division, imaging reveals](https://phys.org/news/2026-10-chromosome-anchors-hollow-shells-cell.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- ['Silent' vultures turn out to use a wide range of sounds to communicate](https://phys.org/news/2026-10-silent-vultures-wide-range-communicate.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
 - [Ukrainian media coverage casts land as both lifeline and danger zone](https://phys.org/news/2026-10-ukrainian-media-coverage-lifeline-danger.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science #foreign
 - [Ultrafast light can control ferromagnetism without relying on heating](https://phys.org/news/2026-10-ultrafast-ferromagnetism.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
 - [Better data analysis links to stronger marketing and innovation in Thai retail sector](https://phys.org/news/2026-10-analysis-links-stronger-thai-retail.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
@@ -134,6 +167,8 @@ tags: ["category", "science"]
 - [Additive manufacturing of ultralong and architected single crystals](https://www.nature.com/articles/s41586-026-11185-0) — Nature · 17:00 PT · #science
 - [Enzyme-embedded polyesters for accelerated biodegradation in the deep sea](https://www.nature.com/articles/s41586-026-11192-1) — Nature · 17:00 PT · #science
 - [The anatomy of a personal health agent](https://www.nature.com/articles/s41586-026-11161-8) — Nature · 17:00 PT · #science
+- [Surprise! White dwarf stars come in a rainbow of colours](https://www.nature.com/articles/d41586-026-03319-1) — Nature · 17:00 PT · #science
+- [Teen depression and anxiety predicted by childhood brain development](https://www.nature.com/articles/d41586-026-03357-9) — Nature · 17:00 PT · #science
 - [Shipwrecks can become thriving reefs, but may contain hidden toxic time bombs](https://phys.org/news/2026-10-shipwrecks-reefs-hidden-toxic.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #foreign
 - [Forgotten samples from Greenland's Cold War base reveal warmer summers during ancient ice-free period](https://phys.org/news/2026-10-forgotten-samples-greenland-cold-war.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #foreign
 - [Judging faces without personality labels uncovers key patterns in first impressions](https://phys.org/news/2026-10-personality-uncovers-key-patterns.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -382,41 +417,3 @@ tags: ["category", "science"]
 - [On the front line of ocean conservation off Portugal's Madeira](https://phys.org/news/2026-10-front-line-ocean-portugal-madeira.html) — Phys.org - latest science and technology news stories · 01:40 PT · #science
 - [Record El Niño? Depends who's counting](https://phys.org/news/2026-10-el-nio.html) — Phys.org - latest science and technology news stories · 01:20 PT · #science
 - [Why the Drake equation is still important 65 years after its creation](https://www.newscientist.com/article/2594385-why-the-drake-equation-is-still-important-65-years-after-its-creation/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS) — New Scientist - Space · 01:00 PT · #science
-- [Retired pilot helps historical society buy Neil Armstrong's boyhood home for tours](https://phys.org/news/2026-10-historical-society-buy-neil-armstrong.html) — Phys.org - latest science and technology news stories · 00:54 PT · #science #foreign
-
-## 2026-10-18
-
-- [Having a baby is too expensive, 4 in 5 parents say](https://phys.org/news/2026-10-baby-expensive-parents.html) — Phys.org - latest science and technology news stories · 21:20 PT · #science
-- [APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source](https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/) — NASA · 21:05 PT · #science
-- [A Japanese Spacecraft Aims to Bring Back a Bit of a Martian Moon](https://www.nytimes.com/2026/10/19/science/mmx-mars-moons-jaxa-launch.html) — NYT > Science · 21:01 PT · #science
-- [Autumn Paints Poland’s Bieszczady Mountains](https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/) — NASA · 21:01 PT · #science
-- [Fatty liver disease is actually five different conditions, scientists discover](https://www.sciencedaily.com/releases/2026/10/261016070642.htm) — Latest Science News -- ScienceDaily · 19:35 PT · #science
-- [Modern neuroscience is rediscovering a surprising idea freud had 130 years ago](https://www.sciencedaily.com/releases/2026/10/261018084028.htm) — Latest Science News -- ScienceDaily · 17:32 PT · #science
-- [Who's paying whom? The circular money machine behind the AI boom (or bubble)](https://phys.org/news/2026-10-paying-circular-money-machine-ai.html) — Phys.org - latest science and technology news stories · 17:30 PT · #science #ai
-- [How pregnancy reshapes the brain throughout life](https://www.nature.com/articles/d41586-026-03312-8) — Nature · 17:00 PT · #science
-- [‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts](https://www.nature.com/articles/d41586-026-03315-5) — Nature · 17:00 PT · #science
-- [Three reasons why AI is not conscious and perhaps never will be](https://www.nature.com/articles/d41586-026-03313-7) — Nature · 17:00 PT · #science #ai
-- [Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm](https://www.nature.com/articles/s41586-026-11290-0) — Nature · 17:00 PT · #science
-- [How to compare and strengthen research systems](https://www.nature.com/articles/d41586-026-03309-3) — Nature · 17:00 PT · #science
-- [Lessons from Katrina: how to rebuild academia from the ground up](https://www.nature.com/articles/d41586-026-02623-0) — Nature · 17:00 PT · #science
-- [Toxic chemicals in fentanyl revealed by speedy technique](https://www.nature.com/articles/d41586-026-03317-3) — Nature · 17:00 PT · #science
-- [Light and mirrors move large quantum computers closer to reality](https://www.nature.com/articles/d41586-026-03237-2) — Nature · 17:00 PT · #science
-- [Audio long read: How to stay smart in the age of AI — the science of critical thinking](https://www.nature.com/articles/d41586-026-03228-3) — Nature · 17:00 PT · #science #ai
-- [US government probe into postdoc visas worries scientists](https://www.nature.com/articles/d41586-026-03345-z) — Nature · 17:00 PT · #science
-- [Microdosing LSD shows some cognitive benefits — but only for women](https://www.nature.com/articles/d41586-026-03265-y) — Nature · 17:00 PT · #science
-- [Climate scientists face deluge of public-records requests about fossil-fuel studies](https://www.nature.com/articles/d41586-026-03275-w) — Nature · 17:00 PT · #science
-- [Experienced researchers ‘disrupt’ less than rookie scientists — but their ideas last](https://www.nature.com/articles/d41586-026-03339-x) — Nature · 17:00 PT · #science
-- [Why failure is a taboo topic in science](https://www.nature.com/articles/d41586-026-03328-0) — Nature · 17:00 PT · #science
-- [Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes](https://www.nature.com/articles/s41586-026-11293-x) — Nature · 17:00 PT · #science
-- [Ancient Nubian temple faience workshop reveals links between craft production and royal power](https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
-- [Early humans in America endured climate chaos—new research](https://phys.org/news/2026-10-early-humans-america-climate-chaos.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
-- [Earth's oldest evidence of life is written in stone—but it's at risk of disappearing](https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
-- [Japan to launch historic round-trip mission to Mars moon](https://phys.org/news/2026-10-japan-historic-mission-mars-moon.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
-- [Spatial genomics tool maps long-range DNA interactions while preserving cells' locations within tissues](https://phys.org/news/2026-10-spatial-genomics-tool-range-dna.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science
-- [Dozens of orangutans saved from Indonesia blazes as region grapples with haze](https://phys.org/news/2026-10-dozens-orangutans-indonesia-blazes-region.html) — Phys.org - latest science and technology news stories · 12:19 PT · #science
-- [Climate change affects the quality of one of the world's most important staple foods](https://phys.org/news/2026-10-climate-affects-quality-world-important.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
-- [The remarkable bond between a man and a deer](https://www.popsci.com/environment/penelope-book-excerpt/) — Popular Science · 12:00 PT · #science
-- [New monolithic ion trap opens quantum simulations to more researchers](https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
-- [A new way to detect stabilizing properties of optical devices](https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
-- [Physicists prove a long-suspected quantum speed limit for thermalization](https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
-- [Wash your hands. There’s probably poop on them.](https://www.popsci.com/health/why-you-should-wash-your-hands/) — Popular Science · 10:09 PT · #science

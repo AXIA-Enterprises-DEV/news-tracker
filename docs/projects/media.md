@@ -1,6 +1,6 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-21T10:54:21-07:00
+updated: 2026-10-21T14:14:15-07:00
 count: 400
 tags: ["project", "media"]
 ---
@@ -11,6 +11,11 @@ tags: ["project", "media"]
 
 ## 2026-10-21
 
+- [U.K. politicians and German publishers call on regulators to pause Meta’s new terms before October 30 deadline](https://www.niemanlab.org/2026/10/u-k-politicians-and-german-publishers-call-on-regulators-to-pause-metas-new-terms-before-october-30-deadline/) — Nieman Lab · 13:37 PT · #tech #media
+- [The Wall Street Journal’s new AI tool, “Doppler,” forecasts the issues that will shape the midterm elections](https://www.niemanlab.org/2026/10/the-wall-street-journals-new-ai-tool-doppler-forecasts-the-issues-that-will-shape-the-midterm-elections/) — Nieman Lab · 12:05 PT · #tech #ai #civic #media
+- [A social media post accuses James Talarico of sexual abuse. Researchers say it’s Russian disinformation - Straight Arrow](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeERKMFRwMF82M0VybVd5bUR5ZGdZSWlVeTVXVW1jMTlhTU5qNTlEQ2pSU1dLRzRrNkpqeVo5NXJ6cFZrVXdRODhDRG1NZ3N5NmRxWS1JWmN6d2ZMendSWGZybWRmYzM5TkoxaTB1bmU4V0Q1SzJZUVJOOGFZYzF6STI2TGxpb2xoWmttelFreTliUU41UkN0NXdlSTk4dDRQM3ZydjdmcmtCQVhKbGlfLWw3endoOFFvcF80Mnhn?oc=5) — Google News: propaganda OR disinformation media · 11:50 PT · #world #foreign #media
+- [Heidi Levine recounts how Palestinian youths helped save her in settler attack](https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank) — Guardian World · 10:59 PT · #world #foreign #media
+- [Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee - Axios](https://news.google.com/rss/articles/CBMidkFVX3lxTE85WmRyTzZETUhtLWthdGtkamFBM3VmaE4ya0lJZDdoU1BVZTVpc29oaUZWbHdMMXR5ZWg5THBWR0x3emM5WVdWODNJaS1RMWs4UktVREVCZmZ0MWNuMkYtU1o0c3pZSF82TEJxLVZwZlJCVFMzMmc?oc=5) — Top stories - Google News · 09:44 PT · #world #foreign #media
 - [Alaska’s Journalists Join Forces to Cover the Midterms](https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html) — NYT Business · 09:20 PT · #business #civic #media
 - [Russia ready to resume talks with Ukraine and US to end war - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5) — Top stories - Google News · 08:56 PT · #world #foreign #media
 - [Inside one of #America’s last Dog n Suds #driveins. #food #bigbusiness](https://www.youtube.com/shorts/Ty4_9cUudlc) — Business Insider · 08:47 PT · #business #media
@@ -430,8 +435,3 @@ tags: ["project", "media"]
 - [Israeli attacks kill one in Gaza, wound journalists in occupied West Bank](https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss) — Al Jazeera · 17:45 PT · #world #foreign #media
 - [What The Yandex Data Center Strikes Reveal About Modern Information Wars - ИФЗ РАН](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVJwU0hJc2R5Slc5Ni1kb014VFRfMXdJeURmUGtDY0F1UF9salh6b2FVM3MxRm51T2JDdnk4bzFqaG1Ja21jZUp2dm5LTmtyTGpIbUYwcUNFb2hKbjJ6OVJrQ0FfZ1dod0xCaGV3UlBQc1V5NFhDQTJmcTZmNjNBRjNhMXdFaDFHX3c?oc=5) — Google News: propaganda OR disinformation media · 16:50 PT · #world #media
 - [Did Ukraine's strikes on Yandex servers take out Russian bots? What we know - Snopes](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWFaaFA0anV5UU9ib1NjMVJHM01MUmJaa25FRklZRzFZZGV0WnZXRnliX2g5V0FfMVV2bkhxSVlNc1l0S09fejhmX3NIbVFiRnhJbXplb3lEWFlWQkhKdnBsM0FRLVpFZFdpSU1BUTdGb09uaTRDa0tSVWRrOGJBTg?oc=5) — Google News: propaganda OR disinformation media · 16:09 PT · #world #foreign #media
-- [Trump’s SPANKING NEW Propaganda Secretary, Katie Zacharia, Has Already Broken the Law - Daily Kos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMmszR0ZUVXJUU3lxSUFWemZ1Skh6YjlPaWZPS0ZHeEVRZFpfZ3hjeXp6WHdkY3VOM1RrTzBFejJqOGFDc24tNmx4XzBjWF9jeHdHdWNVLUlGMUprRTFLQlJjeHhBLW9rTW9RQklJNVhuZjFKcXBmU1dkd3YyTWhhWl81azVkUkV5cDNkSDZIU0ZDTHlscVVkbWt1X3M1REdxMEVWczNwUkFuSDYybWY2TWl5RGcwSmhCWmpieGlRNy11dTFmUnlpNVJwUkRmVzdselp3eHRhY3A3ZmNqemhZcg?oc=5) — Google News: propaganda OR disinformation media · 16:05 PT · #world #media
-- [How eye-catching social media feeds steer attention toward misinformation](https://phys.org/news/2026-10-eye-social-media-attention-misinformation.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science #media
-- [Have Ukrainian strikes on Yandex data centres hit Russian online disinformation? - Truth or Fake - France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN2tlNDhKNFNIQXYzUTk0M3lPa3VQM3B0MWJ6TnFVMEl1ekJRWEdLX0ZvTHVTR0tYTzlXdjRuS3VlR1JHQ1dKak9ZZTFfRFhEZ0hBNl9hQ3BoSDg0SVE3U0xEVzZqMjNBREV3Q091VzRvcmlJcTBMTG81UUtEMDRCM1ZLWUtub182emtkanVocWtxYzNBWkhUVWluQzRZb0UtOFNOUTZaeGFCaHk3eHZiWUxBckJkeU9pWWM5aUdUUExmSHBJUGdicG9UZE9aRkt3NlBvTmFB?oc=5) — Google News: propaganda OR disinformation media · 13:59 PT · #world #foreign #media
-- [MultiFact Check Featured on France 24 - MultiFactCheck](https://news.google.com/rss/articles/CBMic0FVX3lxTE03OXN5SWZtbHllUW94Z1RUdm9jd1NvWFBRTVBzc3FQV1l2Y25Vb2s5Vmt0dlJ6RVBfaFRKc1htVFFGVUJxR1NoS0VqX0txNWd1YmdqZkNfNjNkUEJJSXNYSWZ3cWh0d21LWFh0MzFXcUZmaGM?oc=5) — Google News: propaganda OR disinformation media · 12:37 PT · #world #media
-- [When Slate went back to its 1996 homepage, it learned some web design lessons for 2026](https://www.niemanlab.org/2026/10/when-slate-went-back-to-its-1996-homepage-it-learned-some-web-design-lessons-for-2026/) — Nieman Lab · 12:29 PT · #tech #media

@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-21T10:54:21-07:00
+updated: 2026-10-21T14:14:15-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -19,6 +19,7 @@ tags: ["tickers"]
 - [$RTX](RTX.md) — 4 items
 - [$ASTS](ASTS.md) — 4 items
 - [$YSS](YSS.md) — 4 items
+- [$CC](CC.md) — 3 items
 - [$CRWV](CRWV.md) — 3 items
 - [$JKS](JKS.md) — 3 items
 - [$DOCS](DOCS.md) — 3 items
@@ -31,6 +32,10 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$DOV](DOV.md) — 2 items
+- [$IBM](IBM.md) — 2 items
+- [$BP](BP.md) — 2 items
+- [$GLXY](GLXY.md) — 2 items
 - [$LDOS](LDOS.md) — 2 items
 - [$HPE](HPE.md) — 2 items
 - [$CDW](CDW.md) — 2 items
@@ -51,7 +56,6 @@ tags: ["tickers"]
 - [$DOCN](DOCN.md) — 2 items
 - [$HBCP](HBCP.md) — 2 items
 - [$CCB](CCB.md) — 2 items
-- [$CC](CC.md) — 2 items
 - [$NCPL](NCPL.md) — 2 items
 - [$DAVA](DAVA.md) — 2 items
 - [$SNES](SNES.md) — 2 items
@@ -73,6 +77,26 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$MSTR](MSTR.md) — 1 items
+- [$VET](VET.md) — 1 items
+- [$CIVB](CIVB.md) — 1 items
+- [$NABL](NABL.md) — 1 items
+- [$S](S.md) — 1 items
+- [$CVO](CVO.md) — 1 items
+- [$WH](WH.md) — 1 items
+- [$OUT](OUT.md) — 1 items
+- [$UBOH](UBOH.md) — 1 items
+- [$FULT](FULT.md) — 1 items
+- [$STAK](STAK.md) — 1 items
+- [$WSBC](WSBC.md) — 1 items
+- [$LAZ](LAZ.md) — 1 items
+- [$NVEC](NVEC.md) — 1 items
+- [$PTRN](PTRN.md) — 1 items
+- [$SERA](SERA.md) — 1 items
+- [$ASST](ASST.md) — 1 items
+- [$GRAL](GRAL.md) — 1 items
+- [$VTEX](VTEX.md) — 1 items
+- [$MTB](MTB.md) — 1 items
 - [$SAGA](SAGA.md) — 1 items
 - [$SAGMF](SAGMF.md) — 1 items
 - [$CTSH](CTSH.md) — 1 items
@@ -82,6 +106,8 @@ tags: ["tickers"]
 - [$GPN](GPN.md) — 1 items
 - [$PBF](PBF.md) — 1 items
 - [$OPTU](OPTU.md) — 1 items
+- [$FHN](FHN.md) — 1 items
+- [$HELP](HELP.md) — 1 items
 - [$WFF](WFF.md) — 1 items
 - [$XMR](XMR.md) — 1 items
 - [$LTM](LTM.md) — 1 items
@@ -277,33 +303,7 @@ tags: ["tickers"]
 - [$SWX](SWX.md) — 1 items
 - [$WEX](WEX.md) — 1 items
 - [$EQT](EQT.md) — 1 items
-- [$DOV](DOV.md) — 1 items
 - [$EFOR](EFOR.md) — 1 items
 - [$BSRT](BSRT.md) — 1 items
 - [$BSRT.U](BSRT.U.md) — 1 items
 - [$BDN](BDN.md) — 1 items
-- [$BURL](BURL.md) — 1 items
-- [$MRAM](MRAM.md) — 1 items
-- [$FND](FND.md) — 1 items
-- [$MCHP](MCHP.md) — 1 items
-- [$LQDA](LQDA.md) — 1 items
-- [$JBLU](JBLU.md) — 1 items
-- [$HRTX](HRTX.md) — 1 items
-- [$HSAI](HSAI.md) — 1 items
-- [$DASH](DASH.md) — 1 items
-- [$AVAV](AVAV.md) — 1 items
-- [$STLA](STLA.md) — 1 items
-- [$KNSL](KNSL.md) — 1 items
-- [$STT](STT.md) — 1 items
-- [$CNXN](CNXN.md) — 1 items
-- [$ARW](ARW.md) — 1 items
-- [$SBAC](SBAC.md) — 1 items
-- [$SIDU](SIDU.md) — 1 items
-- [$AEP](AEP.md) — 1 items
-- [$IBM](IBM.md) — 1 items
-- [$AVNT](AVNT.md) — 1 items
-- [$SCNI](SCNI.md) — 1 items
-- [$FLEX](FLEX.md) — 1 items
-- [$FICO](FICO.md) — 1 items
-- [$FFAI](FFAI.md) — 1 items
-- [$FFR](FFR.md) — 1 items

@@ -1,17 +1,22 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-21T10:54:21-07:00
-count: 126
+updated: 2026-10-21T14:14:15-07:00
+count: 131
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-126 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+131 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-21
 
+- [Cannabis MSO Vireo deepens Florida foothold with latest $21 million purchase](https://mjbizdaily.com/news/cannabis-mso-vireo-deepens-florida-foothold-with-latest-21-million-purchase/618782/) — MJBizDaily · 13:24 PT · #business #cannabis #smallbiz
+- [DEA Opposes Marijuana Rescheduling Opponents’ Request For New Testimony And Document Discovery In Ongoing Hearing](https://www.marijuanamoment.net/dea-opposes-marijuana-rescheduling-opponents-request-for-new-testimony-and-document-discovery-in-ongoing-hearing/) — Marijuana Moment · 13:20 PT · #business #cannabis
+- [Trump CBD reimbursement program stalls ahead of federal hemp ban](https://mjbizdaily.com/news/trump-cbd-reimbursement-program-stalls-ahead-of-federal-hemp-ban/618772/) — MJBizDaily · 11:17 PT · #business #cannabis #smallbiz
+- [Kentucky’s Medical Marijuana Program Is ‘Over Halfway’ Toward Being Fully Rolled Out, Governor Says](https://www.marijuanamoment.net/kentuckys-medical-marijuana-program-is-over-halfway-toward-being-fully-rolled-out-governor-says/) — Marijuana Moment · 11:16 PT · #business #cannabis
 - [Massachusetts Bill To Let Military Veterans Get Medical Marijuana Without A Doctor’s Recommendation Advances](https://www.marijuanamoment.net/massachusetts-bill-to-let-military-veterans-get-medical-marijuana-without-a-doctors-recommendation-advances/) — Marijuana Moment · 09:26 PT · #business #cannabis #foreign
+- [Flower Infusion Lab Results: Independent Test Finds the FX-8 Within ±5% Across the Drum](https://mjbizdaily.com/sponsored/flower-infusion-lab-results-independent-test-finds-the-fx-8-within-5-across-the-drum/618725/) — MJBizDaily · 09:16 PT · #business #cannabis #smallbiz
 - [Most Marijuana Consumers Will Decide Who To Vote For In Next Month’s Elections Based On Candidates’ Cannabis Stances, Poll Shows](https://www.marijuanamoment.net/most-marijuana-consumers-will-decide-who-to-vote-for-in-next-months-elections-based-on-candidates-cannabis-stances-poll-shows/) — Marijuana Moment · 08:21 PT · #business #cannabis #civic
 - [Nebraska Medical Marijuana Cultivators Ask State Officials To Change Rules On Testing, Fees And Doctor Protections](https://www.marijuanamoment.net/nebraska-medical-marijuana-cultivators-ask-state-officials-to-change-rules-on-testing-fees-and-doctor-protections/) — Marijuana Moment · 07:42 PT · #business #cannabis
 - [Officials In Massachusetts’s Second-Largest City Urge Voters To Keep Marijuana Sales Legal](https://www.marijuanamoment.net/officials-in-massachusettss-second-largest-city-urge-voters-to-keep-marijuana-sales-legal/) — Marijuana Moment · 05:48 PT · #business #cannabis
