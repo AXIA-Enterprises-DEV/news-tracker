@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $JKS"
-updated: 2026-10-20T18:52:57-07:00
-count: 2
+updated: 2026-10-21T00:01:24-07:00
+count: 3
 tags: ["ticker", "JKS"]
 ---
 
 # Ticker: $JKS
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-20
+
+- [JinkoSolar Announces Results of 2026 Annual General Meeting](https://www.prnewswire.com/news-releases/jinkosolar-announces-results-of-2026-annual-general-meeting-302914898.html) — PR Newswire Business Tech · 21:01 PT · #tech #foreign $JKS
 
 ## 2026-10-17
 

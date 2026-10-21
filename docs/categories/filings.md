@@ -1,6 +1,6 @@
 ---
 title: "Category: filings"
-updated: 2026-10-20T18:52:57-07:00
+updated: 2026-10-21T00:01:24-07:00
 count: 400
 tags: ["category", "filings"]
 ---
@@ -11,6 +11,8 @@ tags: ["category", "filings"]
 
 ## 2026-10-20
 
+- [4 - Tang Teck Shen (0002161293) (Reporting)](https://www.sec.gov/Archives/edgar/data/2161293/000091957426007106/0000919574-26-007106-index.htm) — SEC EDGAR All Filings · 18:58 PT · #filings #markets
+- [3 - Tang Teck Shen (0002161293) (Reporting)](https://www.sec.gov/Archives/edgar/data/2161293/000091957426007105/0000919574-26-007105-index.htm) — SEC EDGAR All Filings · 18:55 PT · #filings #markets
 - [4 - Arqit Quantum Inc. (0001859690) (Issuer)](https://www.sec.gov/Archives/edgar/data/1859690/000185969026000196/0001859690-26-000196-index.htm) — SEC EDGAR All Filings · 18:37 PT · #filings #markets
 - [SCHEDULE 13G - Sweder Tara (0002161241) (Filed by)](https://www.sec.gov/Archives/edgar/data/2161241/000091957426007102/0000919574-26-007102-index.htm) — SEC EDGAR All Filings · 18:36 PT · #filings #markets
 - [4 - Sheena Jonathan (0001646649) (Reporting)](https://www.sec.gov/Archives/edgar/data/1646649/000164664926000034/0001646649-26-000034-index.htm) — SEC EDGAR All Filings · 18:35 PT · #filings #markets
@@ -412,5 +414,3 @@ tags: ["category", "filings"]
 - [4 - BURNETT VERA (0001827194) (Reporting)](https://www.sec.gov/Archives/edgar/data/1827194/000182719426000002/0001827194-26-000002-index.htm) — SEC EDGAR All Filings · 15:32 PT · #filings #markets
 - [4 - Blatt Perry J. (0001960324) (Reporting)](https://www.sec.gov/Archives/edgar/data/1960324/000149315226047638/0001493152-26-047638-index.htm) — SEC EDGAR All Filings · 15:32 PT · #filings #markets
 - [4 - Parekh Kevan (0002050912) (Reporting)](https://www.sec.gov/Archives/edgar/data/2050912/000114036126040126/0001140361-26-040126-index.htm) — SEC EDGAR All Filings · 15:30 PT · #filings #markets
-- [4 - BlackRock, Inc. (0002012383) (Issuer)](https://www.sec.gov/Archives/edgar/data/2012383/000201238326003341/0002012383-26-003341-index.htm) — SEC EDGAR All Filings · 15:24 PT · #filings #markets
-- [4 - ACV Auctions Inc. (0001637873) (Issuer)](https://www.sec.gov/Archives/edgar/data/1637873/000095010326015825/0000950103-26-015825-index.htm) — SEC EDGAR All Filings · 15:24 PT · #filings #markets

@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-20T18:52:57-07:00
+updated: 2026-10-21T00:01:24-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -9,13 +9,51 @@ tags: ["category", "tech"]
 
 400 most recent items (14-day window).
 
+## 2026-10-21
+
+- [Technological Sovereignty Takes Centre Stage as EU Tech Chief Henna Virkkunen Addresses UnitedXR Europe](https://www.prnewswire.com/news-releases/technological-sovereignty-takes-centre-stage-as-eu-tech-chief-henna-virkkunen-addresses-unitedxr-europe-302914863.html) — PR Newswire Business Tech · 00:00 PT · #tech
+- [Halfpricesoft.com Simplifies Q3 IRS Form 941 E-Filing Ahead of November 2 Deadline](https://www.prnewswire.com/news-releases/halfpricesoftcom-simplifies-q3-irs-form-941-e-filing-ahead-of-november-2-deadline-302908709.html) — PR Newswire Business Tech · 00:00 PT · #tech
+- [TraceLink Achieves a Breakthrough with No-Code Supply Chain Agents that Reliably Perform Critical Work in Seconds](https://www.prnewswire.com/news-releases/tracelink-achieves-a-breakthrough-with-no-code-supply-chain-agents-that-reliably-perform-critical-work-in-seconds-302914641.html) — PR Newswire Business Tech · 00:00 PT · #tech
+
 ## 2026-10-20
 
+- [Civil servants banned from using Waze with immediate effect — chief secretary to govt - KLSE Screener](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlJENy1rd3NDMXlIcld2TnQtMk9rTjVVRjdOOUxET1A3WWt6NkxUS0JJaElXTk9tVnVaenJGTkhKS0dZRHl0YldVZ05sVUNLMW1tWEozTWRYa3JLb0xpUUIwUXBXWm45bzAycE5POXVLbkdVUGlxYTg5MDJSTWpqVUFPVWdUb0xJRm9wYUttRmhmVWtuZGFSYTFoR3lPUGwwZkwtbWlDaGFIRGZSVkw5YURfTE9ZS0NzelI5UHl3Z29jeFY4ay1RaEZEZ2d6UQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 23:20 PT · #tech #ai
+- [Perplexity Computer now runs fully locally on Mac - TestingCatalog AI News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGVwa0I2RlNoM3o2SlVZX1A5RmlXUTN0ODJ6dUlwcEdaVGhSdzlxZWhBaGJBXzZwNnhDSnpuRXhhMXZ0TFU4d1ZhWExZeloxRWtJRm42UDE0dXJZOGNMaGdXS2tTU29zS21XRW1lcVBwbXJsU0lIbGtfMjcwdGlMQmpId2xTdEQ2?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 23:14 PT · #tech #ai
+- [Anwar urges public to ditch Waze for TuJu app - Newswav](https://news.google.com/rss/articles/CBMijwFBVV95cUxQOV94QWFxc3VjRy1Ta0Q5WWRYbW9FcExZNG90dUd0VDRnbng2SGpjM1BQcmdYT0xPZDBmN25pRXNNS0dsdU51cFcxV1NRYmZveHNYaENYMVlsRGhaNlRRckM1SXBldUcyNk0tSnRKTy05eWhzUXZYaldOazRLVkQ4S3NmSmFJVXNTczBWX3N3UQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 22:39 PT · #tech #ai
+- [Building a Natural-Language Query Layer Without Handing Everything to the LLM - news.lavx.hu](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1VKb2VMRUtRZmxSVngxTWdrZ1NFWk44NkVzZ1VnZzZjUmtDaV9SYVJsTGZoZ0RVdTZ5QUdmSkNQMXRUejJmRTg2ajh2dy1Pc2FTOUpzb0Z0TmpDN2tDcWY4NGl6QlM5enB6YnJMcXpLZHhPejNxQTVWeUg3a2JRWktqMWlNTkJia0xMUDFoTWpNTG02dmstbzlhQ3BXWDZKaG5XZTJyX3BIQQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 22:21 PT · #tech #ai
+- [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273) — Hacker News · 22:05 PT · #tech
+- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo) — Hacker News · 22:05 PT · #tech
+- [TurboTax Full Service Coupons This October 2026](https://www.wired.com/story/turbotax-coupon/) — WIRED · 22:00 PT · #tech
+- [Udemy Coupon Codes: 20% Off October 2026](https://www.wired.com/story/udemy-promo-code/) — WIRED · 22:00 PT · #tech
+- [Ulta Promo Codes: Up to 20% Off in October 2026](https://www.wired.com/story/ulta-coupon/) — WIRED · 22:00 PT · #tech
+- [20% Off Sephora Promo Code | October 2026](https://www.wired.com/story/sephora-promo-code/) — WIRED · 22:00 PT · #tech
+- [UK Proposes New Ways to Help Apple Pay Rivals](https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/) — MacRumors · 21:57 PT · #tech #ai
+- [Risky Business #856 -- 8-bit encryption, PHP megabugs and more](https://risky.biz/RB856/) — Risky Business · 21:43 PT · #tech
+- [H.I.G. WhiteHorse verstrekt financiering aan Be-Cloud en QualityHosting](https://www.prnewswire.com/news-releases/hig-whitehorse-verstrekt-financiering-aan-be-cloud-en-qualityhosting-302914939.html) — PR Newswire Business Tech · 21:41 PT · #tech
+- [Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support](https://github.com/xamrayev/nexus-cli) — Hacker News · 21:37 PT · #tech #ai
+- [WhatsApp Developing In-App Browser for All Chat Links on iPhone](https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/) — MacRumors · 21:15 PT · #tech #ai
+- [JinkoSolar Announces Results of 2026 Annual General Meeting](https://www.prnewswire.com/news-releases/jinkosolar-announces-results-of-2026-annual-general-meeting-302914898.html) — PR Newswire Business Tech · 21:01 PT · #tech #foreign $JKS
+- [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/) — The Keyword · 21:00 PT · #tech
+- [Apple's App Store Chief Explains Its Push for Premium Games](https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/) — MacRumors · 20:58 PT · #tech #ai #smallbiz
+- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/) — Hacker News · 20:51 PT · #tech
+- [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction) — Hacker News · 20:36 PT · #tech
+- [Apple Could Owe Even More After $5.7 Billion Patent Verdict](https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/) — MacRumors · 20:24 PT · #tech #ai
+- [Nervous ISPs replace Chrome as strange consumers of DNS resources](https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344) — www.theregister.com - Articles · 20:16 PT · #tech
+- [Skyrim Comes to Apple Silicon Macs With New Unofficial Installer](https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs/) — MacRumors · 19:56 PT · #tech #ai
+- [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm) — Hacker News · 19:53 PT · #tech
+- [What Is the Importance of Review Feedback in Teams?](https://smallbiztrends.com/review-feedback/) — Small Business Trends · 19:31 PT · #tech
+- [Apple Highlights Mac and iPad Use in Paris Design Exhibition](https://www.macrumors.com/2026/10/20/apple-highlights-paris-design-exhibition/) — MacRumors · 19:29 PT · #tech #ai
+- [PHP warns it plans to release 2 emergency patches imminently](https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/) — Ars Technica · 19:12 PT · #tech
+- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) — Hacker News · 19:04 PT · #tech
+- [Anwar Encourages M’sians to Switch From Waze to Local TuJu App Over Israeli Laws & Data Security Concerns - world of buzz](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkxGc1N2OGpIWGwxdldyeGZNdmpUcG54RTY0QktPS3Z1azRpNzZDY1ZORm9kdXVVT0dLQTdnVkZ3TE5jajVUR3ZXOVc2ZWozelpuSExHR0hRVV84Rlg4NVEzUk5CNFRfX25mQ3hGampRQVhMa3pnV2pXTUt6dkJIRzRqRmZ1Mk04Ym5ic3ZGaVkySjJWcnZRWlBIbENCQ0NfQWpTWGNfb05IUmdiRU5OaHRIaXd2YUpJVWZLaE9hdUttd01oMUE?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 18:56 PT · #tech #ai #foreign
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) — Hacker News · 18:47 PT · #tech
 - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) — Hacker News · 18:45 PT · #tech
 - [Apple is looking for a cellular modem engineer to help shape its transition to 6G](https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/) — 9to5Mac · 18:18 PT · #tech #ai
 - [Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV](https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/) — 9to5Mac · 18:01 PT · #tech #ai
 - [Perplexity Computer can now run entirely on your Mac, if you have 36 GB of memory - Techish Kenya](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUZXc180cjBvdUdQU0tkSmxvSFVud1htS1ZaMlVQU1lJc0t4emp3YjhQdzRMX0tpcmhReF9GZF9hOU9wWkE1REJjbnJnZjVRTmJEekUtTndaaWU0VFpHb3BxYUFjU3IzWlZyLVp1VWlRTlJSMzNVeFhwbTBSUGc4eGdqM0E1V1FTbjFNc09n?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 17:58 PT · #tech #ai
+- [7 Best Practices for Effective Office Space Management](https://smallbiztrends.com/office-space-management-best-practices/) — Small Business Trends · 17:31 PT · #tech
 - [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu) — The Verge · 17:00 PT · #tech
+- [Man Predicts The Rise of Twitter in 2008](https://www.youtube.com/shorts/vOIzx_PdrPM) — GaryVee · 17:00 PT · #tech #smallbiz
 - [NAVER D2SF Invests in On-Device AI Startup TraceWeave](https://www.prnewswire.com/news-releases/naver-d2sf-invests-in-on-device-ai-startup-traceweave-302913752.html) — PR Newswire Business Tech · 17:00 PT · #tech #ai #smallbiz
 - [How much power can a 1kW wind turbine produce for your home?](https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/) — Engadget - Technology News & Expert Reviews · 17:00 PT · #tech
 - [Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones](https://www.macrumors.com/2026/10/20/apple-6g-research-continues/) — MacRumors · 16:46 PT · #tech #ai
@@ -103,6 +141,7 @@ tags: ["category", "tech"]
 - [The Internet goes on high alert after discovery of 8 compromised TLS certs](https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/) — Ars Technica · 12:47 PT · #tech
 - [Segway Powersports sa vracia na EICMA už piaty rok s modelovým ročníkom 2027 a inováciami do terénu](https://www.prnewswire.com/news-releases/segway-powersports-sa-vracia-na-eicma-u-piaty-rok-s-modelovym-ronikom-2027-a-inovaciami-do-terenu-302914571.html) — PR Newswire Business Tech · 12:46 PT · #tech
 - [IESE Solutions' SQUID Assessed "Awardable" on CDAO's Tradewinds Solutions Marketplace](https://www.prnewswire.com/news-releases/iese-solutions-squid-assessed-awardable-on-cdaos-tradewinds-solutions-marketplace-302914570.html) — PR Newswire Business Tech · 12:45 PT · #tech #ai
+- [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss) — BBC Technology · 12:45 PT · #tech
 - [How Toilet Paper Taught Tony Hawk a Vital Lesson About Branding](https://www.inc.com/daniel-robbins/how-toilet-paper-taught-tony-hawk-a-vital-lesson-about-branding/91416094) — Inc.com · 12:42 PT · #tech #smallbiz
 - [Apple's Touchscreen OLED MacBook Pro: Everything We Know](https://www.macrumors.com/guide/touchscreen-macbook-pro/) — MacRumors · 12:40 PT · #tech #ai
 - [iPad Mini 8 Expected Next Week With These 10 New Features](https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/) — MacRumors · 12:35 PT · #tech #ai
@@ -137,7 +176,9 @@ tags: ["category", "tech"]
 - [How long can you expect your original Steam Deck to last?](https://www.engadget.com/2289277/how-long-steam-deck-last-lifespan-support/) — Engadget - Technology News & Expert Reviews · 11:30 PT · #tech
 - [LinkedIn’s CEO Stepped Down Rather Than Relocate. His Choice Reveals What Career Fit Really Means](https://www.inc.com/alexis-franzese/linkedins-ceo-stepped-down-rather-than-relocate-his-choice-reveals-what-career-fit-really-means/91422747) — Inc.com · 11:30 PT · #tech
 - [SimCity, but with Permits](https://permit.petercai.com/) — Hacker News 200+ · 11:29 PT · #tech
+- [Show HN: SimCity, but with Permits](https://permit.petercai.com/) — Hacker News · 11:29 PT · #tech
 - [Ukraine’s drone rescue of wounded soldier puts much touted idea into practice](https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/) — Ars Technica · 11:22 PT · #tech #foreign
+- [Apple’s 512GB Mac Studio Is Almost Here: What Buyers Should Know - TechRepublic](https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1QxT2tiSzBYNUE1ajA0NW83aG1qTFU1YlZyaDRZa2JaM2lxYlR1NjZoc2tZQkRDcnZWR2RxeldkbVM3cVh2Ui03U1ZGQXBnZm9CendtUG5sbjR3VUlGanNHUWtsS3VudUJBME51UEROQXRZRUM4TF9wa3JkZ2VIbHI0b0Zua1kyaWY1U0VnWWY?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 11:21 PT · #tech #ai
 - [An Ultra-Processed Diet Could Cost $360,000. Only a Small Fraction Comes From Medical Care](https://www.inc.com/lucia-auerbach/ultra-processed-diet-could-cost-360000-dollars-only-small-fraction-medical-care/91421966) — Inc.com · 11:21 PT · #tech
 - [Joel Kaplan, Meta’s Global Policy Chief, to Leave After 15 Years](https://www.nytimes.com/2026/10/20/technology/meta-joel-kaplan-policy-chief-depart.html) — NYT > Technology · 11:18 PT · #tech
 - [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams) — Hugging Face Blog · 11:17 PT · #tech #ai
@@ -151,6 +192,7 @@ tags: ["category", "tech"]
 - [Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei](https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/) — TechCrunch · 10:55 PT · #tech #ai
 - [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design) — Hacker News · 10:48 PT · #tech
 - [Their Plans Fell Apart. Hillary Clinton and 4 Other Women Leaders Explain How They Found What Came Next](https://www.inc.com/daniela-pierre-bravo/their-plans-fell-apart-hillary-clinton-and-4-other-women-leaders-explain-how-they-found-what-came-next/91422735) — Inc.com · 10:48 PT · #tech
+- [Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/) — Hacker News · 10:43 PT · #tech
 - [Apple Expands U.S. Manufacturing for iPhone Duo and iPhone 18 Pro](https://smallbiztrends.com/apple-expands-u-s-manufacturing-for-iphone-duo-and-iphone-18-pro/) — Small Business Trends · 10:43 PT · #tech
 - [French Government Calls Emergency Meetings With Platforms Over Protests](https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/) — WIRED · 10:41 PT · #tech #ai
 - [Meta tries to scapegoat staff who downloaded torrents to spare execs](https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/) — Ars Technica · 10:40 PT · #tech #ai
@@ -202,6 +244,7 @@ tags: ["category", "tech"]
 - [Steam Users Beg for "No AI" Filter as Vibecoders Flood Next Fest](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop) — Hacker News · 08:48 PT · #tech #ai
 - [The Gospel according to Peter (Thiel)](https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis) — The Verge · 08:45 PT · #tech #ai
 - [5 ways to make your old iPhone feel faster](https://www.engadget.com/2288921/ways-make-old-iphone-feel-faster/) — Engadget - Technology News & Expert Reviews · 08:45 PT · #tech
+- [One Hacker Used AI Agents to Break Into Over 100 Company Websites - Medium](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdk9mV1hmamRyblJXVXF1WGU4MzluSUFwZDZ1Yi1FWmdWN0laM29oNms0ZWVVM0JJNnFwQ2pFQWYzUHFJbGJ2ODB0Q0xDUGFCaGl5N2ZWM2k5ZFhEcV9iMjhsVE5SWnNtN184ZlM3ZmF3d2tfdzNQdEs4N3FoOUxSYlNOclcxbUpoWWJtU29EWmNLWlV5VG1vVk9NSGdkNndENnZRVFBJcmZUSm1qMkluNHRmZkhSTGpJN1d1WXpR?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 08:44 PT · #tech #ai
 - [DeepSeek open-sources DeepInfer to cut the cost of running AI models - Crypto Briefing](https://news.google.com/rss/articles/CBMid0FVX3lxTE5Bd1B4bnFRN3RucFZZbDlIc3g3OHpHNU9ya3JHUEM1U0lKa1lLVk5CLXBaRkdJVmtMYVdqNEdtTUFaUXY2Rkx0emE4bVhMaUVFYUJWSUpNUjhZZ0dkUHYwOGcwTWpPREk3SEcwc25jR0N1SkJWVWhV?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 08:42 PT · #tech #ai
 - [Perplexity makes it easier to run AI workflows entirely on your own Mac](https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/) — Engadget - Technology News & Expert Reviews · 08:42 PT · #tech #ai
 - [IKEA – 3D Guide](https://sael.net/flatpack/) — Hacker News · 08:42 PT · #tech
@@ -254,6 +297,7 @@ tags: ["category", "tech"]
 - [A Delivery Robot Caught My Eye in Miami. Here’s What It Revealed About the Future of Business](https://www.inc.com/jennifer-knowles/a-delivery-robot-caught-my-eye-in-miami-heres-what-it-revealed-about-the-future-of-business/91421981) — Inc.com · 07:00 PT · #tech
 - [HPE to launch AI straight to the Moon](https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983) — www.theregister.com - Articles · 07:00 PT · #tech #ai
 - [Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs](https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/) — MacRumors · 07:00 PT · #tech #ai
+- [Anwar advises against using Waze over Israel-linked security concerns - Free Malaysia Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1NEXzFSb1JpTVhzS00yeHhSYUxHUjlWX2l5MlJPMG82T296cHNaenJCaVQzMEx1Y0c1cXUteVhiLVBVeEVpcUxya2J4RXk3NzZQMFZ2WW5vaTM2NXZNbVNiODh0M1lVcjItbEpYb1ZxT0RJbUNOY1gwNGNRWnVoVTgxejk1VDVFNGhqa21mWlpIa3lJWXhnRmVRTUNPNmRaM3Y5bHVYQXJqbUVmWlZIZVRNYWlOUzk5cEo1UVd4MmhkdUlmT1BfTVlR?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 07:00 PT · #tech #ai #foreign
 - [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/) — Hacker News · 06:58 PT · #tech
 - [tvOS 27.2 adds three new features to your Apple TV 4K](https://9to5mac.com/2026/10/20/tvos-27-2-adds-three-new-features-to-your-apple-tv-4k/) — 9to5Mac · 06:57 PT · #tech #ai
 - [Codie Sanchez Says a 2-Week Vacation Reveals Whether You Own a Business or Just Work for One. I Disappeared for a Year. Here’s What Happened](https://www.inc.com/dave-kerpen/codie-sanchez-2-week-vacation-business-owner-founder-entrepreneur/91421851) — Inc.com · 06:56 PT · #tech
@@ -292,6 +336,7 @@ tags: ["category", "tech"]
 - [Chase and the Knicks Have Worked Together for 16 Years. Here’s What Keeps the Partnership Strong](https://www.inc.com/christophercason/chase-and-the-knicks-have-worked-together-for-16-years-heres-what-keeps-the-partnership-strong/91419589) — Inc.com · 06:00 PT · #tech
 - [New Jersey online casinos win $274.8 million in September, outearning Atlantic City floors](https://readwrite.com/new-jersey-online-casinos-outearn-atlantic-city-floors-in-september-and-year-to-date/) — ReadWrite · 05:51 PT · #tech
 - [Google Cloud says a 'power event' caused today's outage](https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160) — www.theregister.com - Articles · 05:49 PT · #tech
+- [MacBook Pro Launch Date Confirmed As Apple Readies Touchscreen Display - Yahoo Tech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHQ5NnFudVppSVhLMzlrWDRHeVNyZUVhNEF0TkdJaEIwelZxeTExaXdQWkt1NTBxMFdSd1R0MmRMWDY2Q21xeWROVVdSOHFHVndCY1RtQmdIOE5TdzQ1M29fMHQ1Sm9RWkhNVUhqVlFxU3BUTjVhT0NyUWJlSlQyeTR4VklKRlVtbm42OTBTX0UzNU5LZGRsVExSQmFQQjAyRHBxQg?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 05:48 PT · #tech #ai
 - [iPhone camera and titanium chassis manufacturing expands in US](https://appleinsider.com/articles/26/10/20/iphone-camera-and-titanium-chassis-manufacturing-expands-in-us?utm_source=rss) — AppleInsider · 05:47 PT · #tech #ai
 - [How to know it's time to replace your router](https://www.engadget.com/2288619/how-to-know-time-to-replace-router/) — Engadget - Technology News & Expert Reviews · 05:45 PT · #tech
 - [UK antitrust regulator wants Apple to open up iPhone NFC access](https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/) — Engadget - Technology News & Expert Reviews · 05:42 PT · #tech
@@ -304,6 +349,7 @@ tags: ["category", "tech"]
 - [Ditch Waze, switch to TuJu over concerns about Israel and data security: Anwar warns Malaysians - scoop.my](https://news.google.com/rss/articles/CBMixgFBVV95cUxQM09PRG52dnZHUGhvZWFXdGZZX1U2el9rU2V3Y1RnYXF1b3NJVmk2NG1ZdnFobTRmaURvSHJFN1J1ZzJGRnE3LS15a3ZWUUIxcDNvUGZwd3luQkJ5QUxTMnFmMDZzb3lQVUtNTlhhWlpscWZHUXEwQXR6LTBpeVhHVnZiVlZYVVA3c1dvazBfWDR1ZHNjUFVkWHJ1T1c5NFhxdjAzdnNONEJlWWhjVkFSOFBCTFlTNUF2RWpoMHpJWUt5QkdUMVE?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 05:20 PT · #tech #ai #foreign
 - [Ditch Waze, switch to TuJu over concerns about Israel and data security: Anwar warns Malaysians - Newswav](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDRfWS1jUWRwRkdKLThDc0VsZ281RUU4a3duQzJidEhISjJ5SHBWdTRadlVlME1HcmViMkRfRVZvT0tTZlNaWEF1UFlNTHFYRWYySEY1M2JTMDBPejZCZUdwS2VQTmhvRWpZdmQ3TjZuUHhxb3d1bVBCNnhwWW4xdkZlUlR0YWdJeDFDUTZTOVE3MGNlY3h5eF82ZVA4M1JiS2dZWGtaQVU5b3cyWUdoNml6cHR5WTA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 05:20 PT · #tech #ai #foreign
 - [How new cross-site tracking blocks in Safari protect a user's identity](https://appleinsider.com/articles/26/10/20/how-new-cross-site-tracking-blocks-in-safari-protect-a-users-identity?utm_source=rss) — AppleInsider · 05:20 PT · #tech #ai
+- [Four Years with Decker](https://beyondloom.com/blog/fouryearsdecker.html) — Hacker News · 05:18 PT · #tech
 - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) — Hacker News 200+ · 05:17 PT · #tech
 - [Base M1 MacBook Air Runs Native Console Ports Without Emulators - Geeky Gadgets](https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbkQ1SkRoemFoSEpadzZ0OGdKY2NIWElvZ19kMlFuREpLSGptQ2o2aDVtT0ZnOGJNdko4YVdQeHNjWkxsZF9pOUdCRVFhSEZ2c2w0ampwMjhSM01nMklhcl94RExUNWNMX0lDeg?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 05:17 PT · #tech #ai
 - [3+ useful features included with Google One that people ignore](https://www.engadget.com/2288598/google-one-useful-features/) — Engadget - Technology News & Expert Reviews · 05:15 PT · #tech
@@ -368,49 +414,3 @@ tags: ["category", "tech"]
 - [Meet the 2026 Power Partners in General Excellence](https://www.inc.com/sonia-weiser/meet-the-2026-power-partners-in-general-excellence/91413617) — Inc.com · 03:30 PT · #tech
 - [U.S. Rooftop Solar Generation Soars 394% in Decade, Led by California](https://smallbiztrends.com/u-s-rooftop-solar-generation-soars-394-in-decade-led-by-california/) — Small Business Trends · 03:28 PT · #tech
 - [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/) — Hacker News · 03:26 PT · #tech
-- [They Fled Trump’s America. Now They Regret it](https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/) — WIRED · 03:22 PT · #tech
-- [Some Google Home Speakers caught downloading hundreds of gigs of data](https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download) — The Verge · 03:16 PT · #tech
-- [This New Food Delivery App Could Be the Antidote to Menu Markups](https://www.wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups/) — WIRED · 03:15 PT · #tech
-- [SBA Invests $9.5 Million to Boost Native American Manufacturing Training](https://smallbiztrends.com/sba-invests-9-5-million-to-boost-native-american-manufacturing-training/) — Small Business Trends · 03:14 PT · #tech #smallbiz
-- [Demi Adejuyigbe Thinks You Should Only Post 3 Times a Day](https://www.wired.com/story/demi-adejuyigbe-user-behavior/) — WIRED · 03:00 PT · #tech
-- [5 Best AI Notetakers (2026), Tested and Reviewed](https://www.wired.com/gallery/best-ai-notetakers/) — WIRED · 03:00 PT · #tech #ai
-- [I Tried Amazing Security Tech for Renters From a Company You’ve Never Heard Of](https://www.cnet.com/home/security/baseus-primesentinel-w1-i-tried-amazing-security-tech-for-renters-from-a-company-youve-never-heard-of/) — CNET · 03:00 PT · #tech
-- [A Prenup Can Protect Your Family Business. The Biggest Risk Is Waiting Too Long](https://www.inc.com/christina-wing/prenup-agreement-protect-family-business-risk-legal-hbs-book-unspeakable/91422195) — Inc.com · 03:00 PT · #tech
-- [3 Ways Leaders Can Make Companies Move Faster Without Redrawing the Org Chart](https://www.inc.com/soren-kaplan/3-ways-leaders-can-make-companies-move-faster-without-redrawing-the-org-chart/91422122) — Inc.com · 03:00 PT · #tech
-- [Want a Better Job? The Smartest Place to Start Looking Isn’t Where You Think](https://www.inc.com/howard-tullman/job-search-networking-recruiting-hiring-strategies/91421984) — Inc.com · 03:00 PT · #tech
-- [Who’s Behind a Proposed $66 Billion Wyoming AI Data Center?](https://www.inc.com/sam-blum/mysterious-66-billion-wyoming-data-center-project-appears-backed-by-general-catalyst-powered-by-ex-palantir-energy-startup-aethel-energy/91420857) — Inc.com · 03:00 PT · #tech #ai #smallbiz
-- [Apple @ Work Podcast: A look at recent Apple security updates](https://9to5mac.com/2026/10/20/a-look-at-recent-apple-security-updates/) — 9to5Mac · 03:00 PT · #tech #ai
-- [An Election Uncovered](https://www.cjr.org/analysis/an-election-uncovered-brazil-para-state-tapajos-de-fato-election-coverage-stop-matter-survival.php) — Columbia Journalism Review · 03:00 PT · #tech #civic #media
-- [Una elección sin cubrir](https://www.cjr.org/analysis/una-eleccion-sin-cubrir.php) — Columbia Journalism Review · 03:00 PT · #tech #media
-- [Ollama vs vLLM: Simplicity for One, Throughput for Many - Quasa.io](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUtHeWFPd01wN3h5Rm5nQU9qUFV4dm91WVFqM05yaFE3N3hFSFJiOFpQbmRWajcwblcxb2JVVlY3cWUtUkxwdnk4SngtbXcxWU5ZeFgtdUNlb0toT1I3d3o1TnE4NEpsRnkyclZBNTBTR3BXd2hNRm10M19XbU11SzFpdDFvcEZhNDczR1VnZjQxVzZYbkN5c0R4QlA?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 03:00 PT · #tech #ai
-- [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant) — OpenAI News · 03:00 PT · #tech #ai #smallbiz
-- [UK finance watchdog wants firms to report AI failures and close calls](https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078) — www.theregister.com - Articles · 02:57 PT · #tech #ai
-- [Can Mac mini Run Muse Spark Open? Mac Studio RAM Requirements Explained - zeera wireless](https://news.google.com/rss/articles/CBMijAFBVV95cUxQajEwdExhS0hfUGVTbTBGTkFadU1CTFdIM1ljeThfYUlBNzh3Q1NBQW5YZGVHT3A3NWcwRXltS3FYQmF4VEM3UEVaSVoyeHpLODlfOGNBWk5jM0hXaFZ6Y09RVGVEUWJiMVJQQWY3U3MwMl9qSEV4eElIV0ZSa0NaeWQwWGk2Tk9RSlhMRQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 02:55 PT · #tech #ai
-- [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo) — Hacker News · 02:54 PT · #tech
-- [Google Cloud's London zones takes a nap, multiple services disrupted](https://www.theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084) — www.theregister.com - Articles · 02:34 PT · #tech
-- [U.S. Electric Vehicle Sales Dip as Prices Rise and Tax Credits Expire](https://smallbiztrends.com/u-s-electric-vehicle-sales-dip-as-prices-rise-and-tax-credits-expire/) — Small Business Trends · 02:32 PT · #tech
-- [How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events](https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events/) — WIRED · 02:30 PT · #tech
-- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) — Hacker News 200+ · 02:08 PT · #tech #ai
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) — Hacker News · 02:08 PT · #tech #ai
-- [The Apple Store will only let you check out two iPhone Duos](https://www.engadget.com/2291389/apple-store-two-iphone-duo-limit/) — Engadget - Technology News & Expert Reviews · 02:07 PT · #tech
-- [Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)](https://www.wired.com/review/review-hatch-sleep-clock/) — WIRED · 02:07 PT · #tech
-- [Salesforce Launches Slack Frontline to Bridge Gap for Frontline Workers](https://smallbiztrends.com/salesforce-launches-slack-frontline-to-bridge-gap-for-frontline-workers/) — Small Business Trends · 02:01 PT · #tech
-- [Chip Stocks Just Snapped Their Longest Losing Streak Since 2008](https://www.inc.com/phil-rosen/stock-market-chip-stocks-nasdaq-100-etfs-investors/91422573) — Inc.com · 02:00 PT · #tech
-- [REI’s secrets to sustaining a beloved brand and touching grass]() — Masters of Scale · 02:00 PT · #tech #markets
-- [Researchers Spent 16 Weeks Studying Adults With an Average Age of 79. Here’s the Surprisingly Hopeful Takeaway](https://www.inc.com/bill-murphy-jr/researchers-spent-16-weeks-studying-adults-with-an-average-age-of-79-heres-the-surprisingly-hopeful-takeaway/91422352) — Inc.com · 01:55 PT · #tech
-- [There is no official XScreenSaver GitHub repository](https://github.com/xscreensaver-official/xscreensaver) — Hacker News · 01:51 PT · #tech
-- [This Stunning Espresso Machine Is the Size of a Moka Pot and Inspired by a Jet Engine](https://www.cnet.com/home/kitchen-and-household/9barista-espresso-machine-review/) — CNET · 01:45 PT · #tech
-- [London’s mobile networks fall to bottom of Europe’s capital league](https://www.theregister.com/networks/2026/10/20/londons-mobile-networks-fall-to-bottom-of-europes-capital-league/5303800) — www.theregister.com - Articles · 01:30 PT · #tech
-- [Calabrass offers local-first, open-source AI agent for Windows - TechGig](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXVpNDJQTXBjRF9HNE14Ny1ROW5mRVZ4QWJxc2ZWV1NSMnlPNW9SOVRNY2x1TWg0aHg0clRXcWdyMTBoenlOSjE4cHliUGMxOHhxTlpTN2FjOVg5c3kzcUpyRUc3VGtuU1ctbzFuaXM5NjRqb09PeUZ6RGQ1S2FzUzRBWXFRcXdlVGsyNVp5RlFqQkxodVNIald5cVB6TUx00gGmAUFVX3lxTE5hb0p6RUtGMHhqbDNrYUFHX3VKNW5IRFZwSTROUWJHZzBTWE94SkxWUkpvaGgzRmVUSFFyRkVwOXVBOURqRUN6RzdnREJXMUZjSHNyMXBRZlF6TE1rVFZNQkRFdVdrRml1TWhlU3VFOEJTOURWc2ZBc21UX2hiN1N2V3YxMWU4NmdaaUtBTEh2U2J5X25lTEV5UDdweEpiNl84dnhqZ3c?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:14 PT · #tech #ai
-- [Ready Server Launches ReadyServer LLM API, Giving Every VPS Customer Private AI Inference at No Extra Cost - The Manila Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxNclBIS1pyRHJpREp4LVZ6cHB2YUdsX3NYbENpZ1RFMnVyTGtIamNkS24taWl3WjlSNGJldVJGYm42NW8ybUdxNVpVdkRUZmZvaU9xZ3RrbDJjaU8zeHJDMjhOellLTWNUbVRGOHo3TEI4dmlTNl9sQy1HX2I5QjJockhXOHItVWlFVkh4VmNGTnBuY2NQYWNrNWJlaHA3RTdDb3BjdEpFM3AzZERwV1ZDcVA2RHU1SHJqTjZxTVBUUHh0Nzc2d0hCcEdoZC04WXRUTmp3cEtHTjZ3MUswTktLaGZycGFEUnNOamFTT2RuVDJZelFVMEwwcmZ4Mmd5ZUpiREo5R2JGNXF6RkJPMFHSAY4CQVVfeXFMTXJQSEtackRyaURKeC1WenBwdmFHbF9zWGxDaWdURTJ1ckxrSGpjZEtuLWlpd1o5UjRiZXVSRmJuNjVvMm1HcTVaVXZEVGZmb2lPcWd0a2wyY2lPM3hyQzI4TnpZS01jVG1URjh6N0xCOHZpUzZfbEMtR19iOUIyaHJIVzhyLVVpRVZIeFZjRk5wbmNjUGFjazViZWhwN0U3Q29wY3RKRTNwM2REcFdWQ3FQNkR1NUhyak42cU1QVFB4dDc3NndIQnBHaGQtOFl0VE5qd3BLR042dzFLME5LS2hmcnBhRFJzTmphU09kblQyWXpRVTBMMHJmeDJneWVKYkRKOUdiRjVxekZCTzBR?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 01:02 PT · #tech #ai
-- [Processed Food Can Make Depression and Anxiety Worse. Here’s What Changes When You Cut Back](https://www.inc.com/sage-swaby/processed-food-can-make-depression-and-anxiety-worse-heres-what-changes-when-you-cut-back/91414752) — Inc.com · 01:00 PT · #tech
-- [Why cyber resilience is now a boardroom priority for UK public services](https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601) — www.theregister.com - Articles · 01:00 PT · #tech
-- [Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet](https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/) — TechCrunch · 00:01 PT · #tech #ai
-- [181: Ricky](https://darknetdiaries.com/episode/181/) — Darknet Diaries · 00:00 PT · #tech
-- [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x) — OpenAI News · 00:00 PT · #tech #ai
-
-## 2026-10-19
-
-- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) — Hacker News · 23:37 PT · #tech
-- [Historic Horse Racing Machines Test Massachusetts Casino Model](https://readwrite.com/historic-horse-racing-machines/) — ReadWrite · 23:12 PT · #tech
-- [Japan launches mission to bring home a piece of the Martian moon Phobos](https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/) — Ars Technica · 22:59 PT · #tech

@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-20T18:52:57-07:00
+updated: 2026-10-21T00:01:24-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,12 +11,19 @@ tags: ["category", "science"]
 
 ## 2026-10-20
 
+- [APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia](https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/) — NASA · 21:05 PT · #science
+- [Extratropical Cyclone Whips Past Iceland](https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/) — NASA · 21:01 PT · #science
+- [Guatemala gains its first endemic bird in American Ornithological Society's 67th supplement](https://phys.org/news/2026-10-guatemala-gains-endemic-bird-american.html) — Phys.org - latest science and technology news stories · 20:20 PT · #science
+- [A magnetar can be born when two neutron stars touch](https://phys.org/news/2026-10-magnetar-born-neutron-stars.html) — Phys.org - latest science and technology news stories · 19:40 PT · #science
+- [Women farmers need better financing to benefit from AI](https://phys.org/news/2026-10-women-farmers-benefit-ai.html) — Phys.org - latest science and technology news stories · 19:20 PT · #science #ai
+- [Are partisan politics even changing up our accents? They just might be, y'all](https://phys.org/news/2026-10-partisan-politics-accents-yall.html) — Phys.org - latest science and technology news stories · 19:00 PT · #science
 - [Controlled vapor treatment guides molecules into highly oriented soft quasicrystals](https://phys.org/news/2026-10-vapor-treatment-molecules-highly-soft.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
 - [Major repairs needed to save Horseshoe Bay Lagoon](https://phys.org/news/2026-10-major-horseshoe-bay-lagoon.html) — Phys.org - latest science and technology news stories · 18:20 PT · #science
 - [Rare solar radiation storm gives scientists clearest picture yet of flight risks](https://phys.org/news/2026-10-rare-solar-storm-scientists-clearest.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
 - [Shortening Canadian teacher education risks devaluing the profession of teaching](https://phys.org/news/2026-10-shortening-canadian-teacher-devaluing.html) — Phys.org - latest science and technology news stories · 17:40 PT · #science
 - [Where El Niño may impact California coastal areas this winter](https://phys.org/news/2026-10-el-nio-impact-california-coastal.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
 - [Researchers study how AI could improve weed management](https://phys.org/news/2026-10-ai-weed.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science #ai
+- [Global emissions slow — but world hurtles towards 2 °C of warming](https://www.nature.com/articles/d41586-026-03355-x) — Nature · 17:00 PT · #science
 - [Shipwrecks can become thriving reefs, but may contain hidden toxic time bombs](https://phys.org/news/2026-10-shipwrecks-reefs-hidden-toxic.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #foreign
 - [Forgotten samples from Greenland's Cold War base reveal warmer summers during ancient ice-free period](https://phys.org/news/2026-10-forgotten-samples-greenland-cold-war.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #foreign
 - [Judging faces without personality labels uncovers key patterns in first impressions](https://phys.org/news/2026-10-personality-uncovers-key-patterns.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -416,10 +423,3 @@ tags: ["category", "science"]
 - [No DREAM, fewer offspring: Protein complex may play key role in plant fertility](https://phys.org/news/2026-10-offspring-protein-complex-play-key.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
 - [Forecasting 'tipping points' with AI climate simulation](https://phys.org/news/2026-10-ai-climate-simulation.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science #ai
 - [Machine learning analysis of gene regulation reveals new dimension of biological variability](https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
-- [Wetland reclamation brings limited agricultural gains but high flood exposure](https://phys.org/news/2026-10-wetland-reclamation-limited-agricultural-gains.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
-- ['Excess oxygen' stored in deep Earth magma may help explain how Earth's atmosphere became oxygen-rich](https://phys.org/news/2026-10-excess-oxygen-deep-earth-magma.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
-- [Ancient fungus unlocks secret support system in major food crops that could transform farming practices](https://phys.org/news/2026-10-ancient-fungus-secret-major-food.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
-- [Japan is launching a mission to Mars’s largest moon Phobos](https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS) — New Scientist - Space · 10:00 PT · #science
-- [Tiny, critically endangered bat rescued and released in Pennsylvania](https://www.popsci.com/environment/endangered-bat-rescued-released-pennsylvania/) — Popular Science · 10:00 PT · #science
-- [Wind emerges as overlooked factor in ecosystems' carbon uptake and water loss](https://phys.org/news/2026-10-emerges-overlooked-factor-ecosystems-carbon.html) — Phys.org - latest science and technology news stories · 09:56 PT · #science
-- [Remote work made these colleagues more open with each other, not less](https://phys.org/news/2026-10-remote-colleagues.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science

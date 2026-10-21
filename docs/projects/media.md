@@ -1,6 +1,6 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-20T18:52:57-07:00
+updated: 2026-10-21T00:01:24-07:00
 count: 400
 tags: ["project", "media"]
 ---
@@ -11,6 +11,8 @@ tags: ["project", "media"]
 
 ## 2026-10-20
 
+- [EU probes pro-Kremlin disinformation around French riots - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEZkTllCZi1WOVIxTUdKR1ZMRUF2Z2xQZlgxZWhpYjBUNnJpeHFWaDROd0Y2YjhNb0ZLX0VhOFEyNGwxZ2djLUhXTkttTGJlVHJOWlBfTzRQZ2xWUFJIUWNuRmNKXzdaQ2VETkxpM1FiY0xSSnl0OFpfX3NkVlZOUUtDX18?oc=5) — Google News: propaganda OR disinformation media · 21:01 PT · #world #media
+- [Taiwan security agency flags rise in Chinese disinformation ahead of local elections - Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1p5eE16SFF1VFBuVDUwSWlpMjF1SVYydVVveUhyTUpvOXNqNHE4X0Y4OUs2VWFRMnpvRnN1MkJLNER2X1pSaW5UTWtTLVUzSkEwQklwd3Z3VnlINVZUWUVfcEczbzhUb0MyaXlRRXhadFhXdmk3aFFsQzk0WThfazdhVVEtT2Z3YmtMazVJR0tsdjRhaktnbi1jaXR4d3djUERmZHVFQWltZS1RM3B5ZlBJTXJEY1JKRTBqYU9lbEM1T0N0dWVjYVZHektHQzBJQUdB?oc=5) — Google News: propaganda OR disinformation media · 19:47 PT · #world #civic #foreign #media
 - [British Media: "Iran and Russia Suspected of Interfering in French Unrest Through Propaganda" - news.sbs.co.kr](https://news.google.com/rss/articles/CBMibkFVX3lxTFBWS2s0UTBWd1QwTk9nankwTVI5N0NEaVhja3ZsbHNOTmhoY1hmRDRvN0g2eGFoN1A4TFJNMUhsTGZ0Vk5IS0I1WXdUcThWcUE4MTNXOElrRTFwdG9jNkZsN3VEWXVlbXpLeXBvTkl3?oc=5) — Google News: propaganda OR disinformation media · 18:31 PT · #world #foreign #media
 - [Niger Commends Algeria’s Experience in Media Regulation and Combating Disinformation - أفريكا نيوز](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYW12ZUstcWZOZk4yQm5Sa21HQ1pvTzlLTDhXVkR4aVRxZVFjdl9CYnktcGZMWUNVY1FWUFBvNEZXNno3VXp1NjVoNURGYmR4cXlTaGxCMnl4QklnOUROTzBTTl81YWs2NjZoOUdhMS1tQVVZUGpRRGx6TXg4U0VDd3ZZb1B5Mmx2bEhMeU5VOEQ0WDRfT1ppcEt6dWQ1N1V2enNCenZldnUyNzBzbllCX3o0aWVsM0FSVzB6MEhJTFBBTGFpdGRPc1NCdw?oc=5) — Google News: propaganda OR disinformation media · 16:22 PT · #world #media
 - [In one California city, we found that 71% of felony and stolen-vehicle alerts were #Flock misreads](https://www.youtube.com/shorts/jsu8J4IVHQg) — Business Insider · 15:07 PT · #business #media
@@ -430,5 +432,3 @@ tags: ["project", "media"]
 - [OSCE media conference with Turkmenistan’s participation concludes in Bishkek - Arzuw news](https://news.google.com/rss/articles/CBMingFBVV95cUxNS1haZTNrTmxaWmFUNi1RRnh6THI0cTFzRTJfSHNBdDVPWk1RSkZmQWtCdnF2U2U3X1NHSGlxX0U3enkzUG1IV0xzRTU2OWw5Z1VoZkh5YjNsNkZZMzR3eDNsT1VjMXVYT3hxSHNVSnczYUpkZE1rc290ZTFZOV9jNWtla1MzVG9xMEhKSUFCUVg1WEtpdUdPQWthVF9FUQ?oc=5) — Google News: propaganda OR disinformation media · 03:42 PT · #world #media
 - [In Ethiopia, social media became a field for propaganda amid renewed fighting — France 24 - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTThTV2pfemFUTGQ2OXFsdjlTT3RkU0RZLXBSdlNsNHZWZDZRWUhla1dwcmNpTzhOQjBOVUEweEhhUXpfdi0xOW5ONGdiS1JPSUZkTUZYX2VYQ2g3MklORnJldU5IVmRFWmY4SlhkelAwT3dhZzhBdVN0eG5DaUZicUlJY1pDazctSzM4ZlB4aHRwdFVFbDNLVXpkcm5vZ1h2NGtsSF9vQlhWdw?oc=5) — Google News: propaganda OR disinformation media · 03:36 PT · #world #media
 - [A viral rumor claimed James Talarico was in a psychiatric hospital. The evidence doesn’t hold up.](https://www.poynter.org/fact-checking/2026/james-talarico-psychiatric-hospital-rumor/) — Poynter · 03:30 PT · #tech #civic #media
-- [Somali Government Media Personnel Begin 21-Day AI and Counter-Disinformation Training in China - FTL Somalia](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2NHSGladkxJdkI1ZWktMU5HMnNEYWlkaVd3MklVNG5Wd2h0R25LbkR4VmxjTGdpZXI1N1J4TEZNRFJNa1NPZXlreTF4WE5tblkxcVg4QzdSSjZPS3NuLWxULUVyRHd3Y1EwLTBqMzVLNG1pMU5EaGRlUjNoM3ZKNzB4aUpIMUJlQzM1VXNZcm9xQVN3YVY4Zi1CZC1UQV9SbzNLZEVTYVlTSjl1RjA2RGttVDgxeWY2dVZQb0NXUQ?oc=5) — Google News: propaganda OR disinformation media · 03:30 PT · #world #ai #foreign #media
-- [Ethiopia: Social media becomes a battleground for propaganda - Inbox.lv](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ1RWaDJtcmZ2Rms5SGFUci1uUkItWkRVR29NcW1aRm4wOXBIU0lNSnJ3V2wxcFR0LVFFNFpqNW5LaWI4anladXhqMWtUOHphRXpNaWs4eFNhMEg5VHdfUEx2VzNsSTI5Ym5takdjWUc3QTVzZ3hWV3hwcWttUmJrTFlBTHhuVWZfNUNhblFJb2VTdWZNRURzbmtDcWU0NHlfMTJz?oc=5) — Google News: propaganda OR disinformation media · 03:00 PT · #world #media

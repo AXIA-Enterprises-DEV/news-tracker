@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-20T18:52:57-07:00
+updated: 2026-10-21T00:01:24-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,19 @@ tags: ["category", "us"]
 
 ## 2026-10-20
 
+- [Golden Knights struck hard by Lightning, win streak ends at 3](https://www.reviewjournal.com/sports/goldenknights/golden-knights-struck-hard-by-lightning-win-streak-ends-at-3-3902890/) — Las Vegas Review-Journal · 22:20 PT · #us #nevada
+- [No. 5 Palo Verde sweeps No. 10 Shadow Ridge in 5A girls volleyball — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-5-palo-verde-sweeps-no-10-shadow-ridge-in-5a-girls-volleyball-photos-3902853/) — Las Vegas Review-Journal · 21:35 PT · #us #nevada
+- [US House Speaker rallies Nevada Republicans ahead of midterms](https://www.reviewjournal.com/news/politics-and-government/nevada/us-house-speaker-rallies-nevada-republicans-ahead-of-midterms-3902849/) — Las Vegas Review-Journal · 21:15 PT · #us #civic #nevada
+- [LETTER: Water and development in Las Vegas](https://www.reviewjournal.com/opinion/letters/letter-water-and-development-in-las-vegas-3902843/) — Las Vegas Review-Journal · 21:02 PT · #us #nevada
+- [LETTER: Declining enrollments, more administrators](https://www.reviewjournal.com/opinion/letters/letter-declining-enrollments-more-administrators-3902840/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [CARTOONS: What oppression actually looks like](https://www.reviewjournal.com/opinion/drawing-board/cartoons-what-oppression-actually-looks-like-3902830/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [COMMENTARY: A new generation of the same old mistake](https://www.reviewjournal.com/opinion/commentary-a-new-generation-of-the-same-old-mistake-3902827/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [EDITORIAL: The wealth tax: Where did all the money go?](https://www.reviewjournal.com/opinion/editorials/editorial-the-wealth-tax-where-did-all-the-money-go-3902824/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [CLARENCE PAGE: Beware the charm of our rising chatbots](https://www.reviewjournal.com/opinion/clarence-page-beware-the-charm-of-our-rising-chatbots-3902821/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [VICTOR JOECKS: Why home prices are falling in Las Vegas](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-why-home-prices-are-falling-in-las-vegas-3902818/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada #realestate
+- [CARTOON: The way California doesn’t want to see coming](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-the-way-california-doesnt-want-to-see-coming-3902815/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [New signs on Strip: Tipping street performers optional following altercation](https://www.ktnv.com/news/new-signs-on-strip-tipping-street-performers-optional-following-altercation) — KTNV Las Vegas · 20:53 PT · #us #nevada
+- [1 person injured in downtown Las Vegas shooting, police say](https://www.ktnv.com/news/crime/police-investigate-shooting-in-downtown-las-vegas) — KTNV Las Vegas · 20:26 PT · #us #nevada
 - [Clark County to hire more crossing guards with $715K contract boost](https://www.reviewjournal.com/local/education/clark-county-to-hire-more-crossing-guards-with-715k-contract-boost-3902779/) — Las Vegas Review-Journal · 18:29 PT · #us #nevada
 - [Whitmer, Warren rally Nevada democrats](https://www.ktnv.com/news/whitmer-warren-rally-nevada-democrats) — KTNV Las Vegas · 18:28 PT · #us #nevada
 - [Lombardo check rejected as evidence during Fiore hearing](https://www.reviewjournal.com/news/politics-and-government/lombardo-check-rejected-as-evidence-during-fiore-hearing-3902770/) — Las Vegas Review-Journal · 18:12 PT · #us #nevada
@@ -49,6 +62,7 @@ tags: ["category", "us"]
 - [Nevada jobless rate continues to trickle downward in September as it rises in US](https://lasvegassun.com/news/2026/oct/20/nevada-unemployment-rate-continues-to-trickle-down/) — Las Vegas Sun · 11:22 PT · #us #nevada
 - [Gunman who shot ex-wife and her husband inside Smith's pleads guilty to double murder](https://www.ktnv.com/news/crime/gunman-who-shot-ex-wife-husband-inside-smiths-pleads-guilty-to-double-murder) — KTNV Las Vegas · 10:31 PT · #us #nevada
 - [Amazon hiring thousands in Southern Nevada](https://www.reviewjournal.com/business/amazon-hiring-thousands-in-southern-nevada-3902653/) — Las Vegas Review-Journal · 10:30 PT · #us #nevada
+- [2 Men Rearrested In UK On Suspicion Of Assisting Iran Over Suspected Plot At A US-Run Air Base](https://www.huffpost.com/entry/2-men-rearrested-in-uk-on-suspicion-of-assisting-iran-over-suspected-plot-at-a-us-run-air-base_n_6ad7a08be4b0ba084e1295a6) — World News - Breaking News, Top Stories · 10:17 PT · #us #foreign
 - [WNBA Finals and the national anthem: The rules and why some teams stay on the court and others don't](https://lasvegassun.com/news/2026/oct/20/wnba-finals-and-the-national-anthem-the-rules-and/) — Las Vegas Sun · 10:10 PT · #us #nevada
 - [LeBron James is set to open his 24th season in New York when his 76ers visit the Knicks](https://lasvegassun.com/news/2026/oct/20/lebron-james-is-set-to-open-his-24th-season-in-new/) — Las Vegas Sun · 09:47 PT · #us #nevada
 - [Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms](https://lasvegassun.com/news/2026/oct/20/gimmick-or-giveback-even-some-trump-supporters-don/) — Las Vegas Sun · 09:44 PT · #us #nevada
@@ -412,17 +426,3 @@ tags: ["category", "us"]
 ## 2026-10-15
 
 - [Thursday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/thursdays-nevada-preps-high-school-sports-scoreboard-3900831/) — Las Vegas Review-Journal · 22:08 PT · #us #nevada
-- [2 critically hurt after wrong-way crash in west Las Vegas Valley](https://www.reviewjournal.com/local/local-las-vegas/2-critically-hurt-after-wrong-way-crash-in-west-las-vegas-valley-3900827/) — Las Vegas Review-Journal · 22:02 PT · #us #nevada
-- [Mark Stone hat trick powers Golden Knights to win over Flames](https://www.reviewjournal.com/sports/goldenknights/mark-stone-hat-trick-powers-golden-knights-to-win-over-flames-3900801/) — Las Vegas Review-Journal · 21:52 PT · #us #nevada
-- [Ukraine Abandons Truce That Moscow Did Not Heed, Attacks Russian Oil Refinery](https://www.huffpost.com/entry/russia-ukraine-war_n_6ad1a9a4e4b0bfd256577839) — World News - Breaking News, Top Stories · 21:50 PT · #us #foreign #oil
-- [Teen shooter kills 4 at Oregon elementary school before being shot by a witness](https://lasvegassun.com/news/2026/oct/15/teen-shooter-kills-4-at-oregon-elementary-school-b/) — Las Vegas Sun · 21:25 PT · #us #nevada
-- [Desert Oasis repeats as 4A girls state golf champion — PHOTOS](https://www.reviewjournal.com/nevada-preps/desert-oasis-repeats-as-4a-girls-state-golf-champion-3900771/) — Las Vegas Review-Journal · 21:23 PT · #us #golf #nevada
-- [Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982](https://lasvegassun.com/news/2026/oct/15/brewers-sweep-the-dodgers-in-the-nlcs-to-reach-the/) — Las Vegas Sun · 21:10 PT · #us #nevada
-- [Order To Limit Starshield For Ukraine Came From Inside White House, Sources Say](https://www.huffpost.com/entry/starshield-order-ukraine-white-house_n_6ad1a16ce4b0f62da448978a) — World News - Breaking News, Top Stories · 21:07 PT · #us #foreign
-- [COMMENTARY: Pain at the pump, profits at the refinery](https://www.reviewjournal.com/opinion/commentary-pain-at-the-pump-profits-at-the-refinery-3900768/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada #oil
-- [CARTOONS: When birds of a feather flock together](https://www.reviewjournal.com/opinion/drawing-board/cartoons-when-birds-of-a-feather-flock-together-3900758/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [LETTER: Abortion is fine, but televising the execution of a terrorist?](https://www.reviewjournal.com/opinion/letters/letter-abortion-is-fine-but-televising-the-execution-of-a-terrorist-3900755/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [LETTER: A sad narrative](https://www.reviewjournal.com/opinion/letters/letter-a-sad-narrative-3900752/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [VICTOR JOECKS: Nevada’s election hinges on these four questions](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-nevadas-election-hinges-on-these-four-questions-3900749/) — Las Vegas Review-Journal · 21:00 PT · #us #civic #nevada
-- [EDITORIAL: Democratic House incumbents on the ballot](https://www.reviewjournal.com/opinion/editorials/editorial-democratic-house-incumbents-on-the-ballot-3900746/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [JONAH GOLDBERG: Politicians can’t just ‘give the people what they want’](https://www.reviewjournal.com/opinion/jonah-goldberg-politicians-cant-just-give-the-people-what-they-want-3900743/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
