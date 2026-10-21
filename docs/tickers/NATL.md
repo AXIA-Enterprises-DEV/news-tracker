@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $NATL"
-updated: 2026-10-21T00:01:24-07:00
+updated: 2026-10-21T05:54:02-07:00
 count: 1
 tags: ["ticker", "NATL"]
 ---

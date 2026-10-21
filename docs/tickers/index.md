@@ -1,22 +1,25 @@
 ---
 title: "Tickers"
-updated: 2026-10-21T00:01:24-07:00
+updated: 2026-10-21T05:54:02-07:00
 count: 300
 tags: ["tickers"]
 ---
 
 # Active tickers
 
+- [$III](III.md) — 9 items
 - [$NTCT](NTCT.md) — 8 items
 - [$NET](NET.md) — 7 items
-- [$III](III.md) — 7 items
 - [$CALX](CALX.md) — 6 items
 - [$VG](VG.md) — 6 items
 - [$LSCC](LSCC.md) — 6 items
+- [$FORR](FORR.md) — 5 items
 - [$RMNI](RMNI.md) — 5 items
+- [$RTX](RTX.md) — 4 items
 - [$GIL](GIL.md) — 4 items
 - [$ASTS](ASTS.md) — 4 items
 - [$YSS](YSS.md) — 4 items
+- [$CRWV](CRWV.md) — 3 items
 - [$JKS](JKS.md) — 3 items
 - [$DOCS](DOCS.md) — 3 items
 - [$LINC](LINC.md) — 3 items
@@ -28,6 +31,9 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$HPE](HPE.md) — 2 items
+- [$CDW](CDW.md) — 2 items
+- [$FROG](FROG.md) — 2 items
 - [$DKS](DKS.md) — 2 items
 - [$PZZA](PZZA.md) — 2 items
 - [$HONA](HONA.md) — 2 items
@@ -48,7 +54,6 @@ tags: ["tickers"]
 - [$NCPL](NCPL.md) — 2 items
 - [$DAVA](DAVA.md) — 2 items
 - [$SNES](SNES.md) — 2 items
-- [$RTX](RTX.md) — 2 items
 - [$AEIS](AEIS.md) — 2 items
 - [$CELH](CELH.md) — 2 items
 - [$HYLN](HYLN.md) — 2 items
@@ -67,6 +72,14 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$WFF](WFF.md) — 1 items
+- [$XMR](XMR.md) — 1 items
+- [$LTM](LTM.md) — 1 items
+- [$SXTC](SXTC.md) — 1 items
+- [$NCMI](NCMI.md) — 1 items
+- [$CDNS](CDNS.md) — 1 items
+- [$NBIS](NBIS.md) — 1 items
+- [$MIAX](MIAX.md) — 1 items
 - [$FFIV](FFIV.md) — 1 items
 - [$PRIM](PRIM.md) — 1 items
 - [$BETR](BETR.md) — 1 items
@@ -126,7 +139,6 @@ tags: ["tickers"]
 - [$LEA](LEA.md) — 1 items
 - [$HRTG](HRTG.md) — 1 items
 - [$CALY](CALY.md) — 1 items
-- [$CDW](CDW.md) — 1 items
 - [$ZION](ZION.md) — 1 items
 - [$MSI](MSI.md) — 1 items
 - [$ADTN](ADTN.md) — 1 items
@@ -144,7 +156,6 @@ tags: ["tickers"]
 - [$TSCO](TSCO.md) — 1 items
 - [$EL](EL.md) — 1 items
 - [$EQPT](EQPT.md) — 1 items
-- [$HPE](HPE.md) — 1 items
 - [$SBLK](SBLK.md) — 1 items
 - [$IRON](IRON.md) — 1 items
 - [$GLUE](GLUE.md) — 1 items
@@ -257,7 +268,6 @@ tags: ["tickers"]
 - [$EQT](EQT.md) — 1 items
 - [$DOV](DOV.md) — 1 items
 - [$EFOR](EFOR.md) — 1 items
-- [$FROG](FROG.md) — 1 items
 - [$BSRT](BSRT.md) — 1 items
 - [$BSRT.U](BSRT.U.md) — 1 items
 - [$BDN](BDN.md) — 1 items
@@ -297,13 +307,3 @@ tags: ["tickers"]
 - [$COO](COO.md) — 1 items
 - [$THO](THO.md) — 1 items
 - [$BUKS](BUKS.md) — 1 items
-- [$ATI](ATI.md) — 1 items
-- [$RLGT](RLGT.md) — 1 items
-- [$HYMC](HYMC.md) — 1 items
-- [$DD](DD.md) — 1 items
-- [$ELWT](ELWT.md) — 1 items
-- [$RKTO](RKTO.md) — 1 items
-- [$GLXY](GLXY.md) — 1 items
-- [$AZZ](AZZ.md) — 1 items
-- [$BKD](BKD.md) — 1 items
-- [$MTUS](MTUS.md) — 1 items

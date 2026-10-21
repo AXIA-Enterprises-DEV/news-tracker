@@ -1,13 +1,19 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-21T00:01:24-07:00
-count: 119
+updated: 2026-10-21T05:54:02-07:00
+count: 123
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-119 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+123 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-21
+
+- [Officials In Massachusetts’s Second-Largest City Urge Voters To Keep Marijuana Sales Legal](https://www.marijuanamoment.net/officials-in-massachusettss-second-largest-city-urge-voters-to-keep-marijuana-sales-legal/) — Marijuana Moment · 05:48 PT · #business #cannabis
+- [GOP Congressman Wants FBI To Investigate Illegal Marijuana Grows He Says Have ‘Overtaken’ His District Since California Legalized](https://www.marijuanamoment.net/gop-congressman-wants-fbi-to-investigate-illegal-marijuana-grows-he-says-have-overtaken-his-district-since-california-legalized/) — Marijuana Moment · 04:53 PT · #business #cannabis #civic
+- [Trump’s support from cannabis consumers dips as rescheduling stalls (Newsletter: October 21, 2026)](https://www.marijuanamoment.net/trumps-support-from-cannabis-consumers-dips-as-rescheduling-stalls-newsletter-october-21-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis #media
 
 ## 2026-10-20
 
@@ -15,6 +21,7 @@ tags: ["project", "cannabis"]
 - [Poor state oversight let potentially contaminated cannabis reach Colorado consumers, audit finds](https://mjbizdaily.com/news/lax-oversight-and-slow-enforcement-allowed-let-colorado-cannabis-products-reach-consumers-state-audit-finds/618759/) — MJBizDaily · 15:21 PT · #business #cannabis #smallbiz
 - [Missouri’s legal cannabis market captures 93% of consumer spending](https://mjbizdaily.com/news/missouris-legal-cannabis-market-captures-93-of-sales/618746/) — MJBizDaily · 14:47 PT · #business #cannabis #smallbiz
 - [Lava Cake Strain Guide Examines Breeder Attribution, Lineage and Historical Lab Results - The Batesville Daily Guard](https://news.google.com/rss/articles/CBMiigJBVV95cUxPYUlnMWtfVS1JVlhEVXRDb05Ma0Y4R2l3Z3ppUTh5UlJYY0VmNnY5MzN5Q1N1M0prbWJycHNLZ285cDY4aEhjT3JYa3B1eFU0ejVlcDB3U0dMbnVlQ3drWjVpbC1KZHZtY2dNYUYxOUt3NldYOHE2aGUtak5sc1I2Zm9XZmstVkxEdTAzdy1SOVJRRnIxT2FiaVY5ZU5qM0RKU1RUN2JwVWVIeU5YNzJTejEzd3dNRWx3U3Z0RWRZZXJSMkppb21IVm0zcFNlcFJ5djNxLUlaZ1lncVUyUUY0cHBseTVtVERZZmtBMlNDSkRKY3NNS2QwbWRLeVFYVWlRdDVuaW01MVl0QQ?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:32 PT · #business #cannabis
+- [Lava Cake Strain Guide Examines Breeder Attribution, Lineage and Historical Lab Results - Newswire](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTY5YmFWTGNzek8xbGpTSWFaZlp6RnJzcXdjS2FZZy05MUJiZ21SZWtJOFJOaDZwOHMtVmNoZ1pocktOcEVyV1RPOE01cHNKSWV6MkN3aklqWXZHQ2FZQVJqd2tSbDBqdlNfRVk0T093YVNUZ0hrSEdMTjJCdWQ2blNZSXlFWVgydWhkSm5mdldYWFp1b0xlOXUxSzM0ejM2Ny1MSGRiZnMwWWFK?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 14:30 PT · #business #cannabis
 - [How to tell if cannabis contracts are at risk of being declared invalid](https://mjbizdaily.com/news/how-to-tell-if-cannabis-contracts-are-at-risk-of-being-declared-invalid-in-federal-court/618749/) — MJBizDaily · 13:48 PT · #business #cannabis #smallbiz
 - [Colorado’s Marijuana Product Testing Rules Have Safety Gaps, State Audit Finds](https://www.marijuanamoment.net/colorados-marijuana-product-testing-rules-have-safety-gaps-state-audit-finds/) — Marijuana Moment · 13:09 PT · #business #cannabis
 - [Dispensary operating budget OK’d by Osseo council - NewsBreak: Local News & Alerts](https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1lsVkROYWVSbGRSVnFqaUIwUlR3Y3F0dEhVakt3UEtlbWdsdGpvWEc1RjBPVkh5eFhuazRSaUpRdm9Bem1fUEhqWTZVcTVyMURmS3pXUEZFSTloZ3U4NnZ3OTFXa2FaRk41M0dZYWdhVV9LaU5vRWJxY1ZwcnIyR3h4ZXRvbVpVRklvSm5OWWxlZTRBMlhuUUg2c2JicDFacFVLbm5pT2FleGox?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 12:49 PT · #business #cannabis

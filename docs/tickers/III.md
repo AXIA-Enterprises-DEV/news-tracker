@@ -1,13 +1,18 @@
 ---
 title: "Ticker: $III"
-updated: 2026-10-21T00:01:24-07:00
-count: 7
+updated: 2026-10-21T05:54:02-07:00
+count: 9
 tags: ["ticker", "III"]
 ---
 
 # Ticker: $III
 
-7 most recent items (14-day window).
+9 most recent items (14-day window).
+
+## 2026-10-21
+
+- [Brazilian Companies Modernize Supply Chains for Resilience](http://www.businesswire.com/news/home/20261021729509/en/Brazilian-Companies-Modernize-Supply-Chains-for-Resilience/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 05:00 PT · #business #ai $III
+- [Empresas brasileiras modernizam a supply chain em busca de resiliência](http://www.businesswire.com/news/home/20261021570939/pt/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 05:00 PT · #business #markets $III
 
 ## 2026-10-20
 

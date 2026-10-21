@@ -1,13 +1,18 @@
 ---
 title: "Ticker: $RTX"
-updated: 2026-10-21T00:01:24-07:00
-count: 2
+updated: 2026-10-21T05:54:02-07:00
+count: 4
 tags: ["ticker", "RTX"]
 ---
 
 # Ticker: $RTX
 
-2 most recent items (14-day window).
+4 most recent items (14-day window).
+
+## 2026-10-21
+
+- [RTX's Collins Aerospace announces radio altimeter upgrades to meet new FAA standards](https://www.prnewswire.com/news-releases/rtxs-collins-aerospace-announces-radio-altimeter-upgrades-to-meet-new-faa-standards-302908639.html) — PR Newswire Contracts · 05:00 PT · #business #nevada $RTX
+- [RTX's Collins Aerospace launches Tower MicroELITE surveillance solution at San Bernardino International Airport](https://www.prnewswire.com/news-releases/rtxs-collins-aerospace-launches-tower-microelite-surveillance-solution-at-san-bernardino-international-airport-302908678.html) — PR Newswire Contracts · 03:00 PT · #business #nevada $RTX
 
 ## 2026-10-19
 

@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $FROG"
-updated: 2026-10-21T00:01:24-07:00
-count: 1
+updated: 2026-10-21T05:54:02-07:00
+count: 2
 tags: ["ticker", "FROG"]
 ---
 
 # Ticker: $FROG
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-21
+
+- [JFrog Closes the Shadow AI Blind Spot: Unveils AI-SEC to Control Every AI Agent, Skill, and Model, from Developer to Production](http://www.businesswire.com/news/home/20261021123233/en/JFrog-Closes-the-Shadow-AI-Blind-Spot-Unveils-AI-SEC-to-Control-Every-AI-Agent-Skill-and-Model-from-Developer-to-Production/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 00:00 PT · #business #ai #markets $FROG
 
 ## 2026-10-14
 

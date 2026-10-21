@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-21T00:01:24-07:00
+updated: 2026-10-21T05:54:02-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -8,6 +8,33 @@ tags: ["category", "us"]
 # Category: U.S.
 
 400 most recent items (14-day window).
+
+## 2026-10-21
+
+- [Las Vegas sees nation’s biggest drop in homebuilding permits](https://www.reviewjournal.com/business/housing/las-vegas-sees-nations-biggest-drop-in-homebuilding-permits-3902970/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
+- [More October showers coming to Las Vegas Valley](https://www.reviewjournal.com/local/weather/more-october-showers-coming-to-las-vegas-valley-3902964/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
+- [Republicans’ mom burn messaging](https://www.politico.com/newsletters/playbook/2026/10/21/republicans-mom-burn-messaging-01128834) — Playbook · 03:25 PT · #us
+- [Becerra's time in Washington: Steady rise with a bumpy final ascent](https://www.latimes.com/politics/story/2026-10-21/becerras-time-in-washington-steady-rise-with-bumpy-final-ascent) — World & Nation · 03:00 PT · #us
+- [53 Nevada legislative seats are up in 2026. Most fundraising is going to nine of them.](https://thenevadaindependent.com/article/53-nevada-legislative-seats-are-up-in-2026-most-fundraising-is-going-to-nine-of-them/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
+- [Taco Bell expanding café concept, including at Las Vegas Strip location](https://lasvegassun.com/news/2026/oct/21/taco-bell-expanding-caf-concept-including-at-las-v/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Community briefs: Henderson Police host prescription drug take back day Saturday](https://lasvegassun.com/news/2026/oct/21/community-briefs-henderson-police-host-prescriptio/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [La campaña de un candidato a la Cámara de Representantes de Nevada atribuyó una donación a una mujer que falleció en 2024, según un informe](https://lasvegassun.com/news/2026/oct/21/la-campaa-de-un-candidato-a-la-cmara-de-representa/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Nevada House candidate’s campaign credited donation to woman who died in 2024, report says](https://lasvegassun.com/news/2026/oct/21/nevada-house-candidates-campaign-credited-donation/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Star-studded entertainment announcements feature Frankie Moreno, the Eagles, Alanis Morissette and Jim Gaffigan](https://lasvegassun.com/news/2026/oct/21/star-studded-entertainment-announcements-feature-f/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Olvídate del nombre. El viernes se disputa el título estatal de fútbol americano de escuelas públicas](https://lasvegassun.com/news/2026/oct/21/olvdate-del-nombre-el-viernes-se-disputa-el-ttulo/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Bye-bye, Katie Zacharia; here comes Trump’s new liar](https://lasvegassun.com/news/2026/oct/21/bye-bye-katie-zacharia-here-comes-trumps-new-liar/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Forget the name. Friday is for the public school state football title](https://lasvegassun.com/news/2026/oct/21/forget-the-name-friday-is-for-the-public-school-st/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Trump exposed weaknesses in our system](https://lasvegassun.com/news/2026/oct/21/trump-exposed-weaknesses-in-our-system/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Trump repeating dangerous mistakes of Chamberlain](https://lasvegassun.com/news/2026/oct/21/trump-repeating-dangerous-mistakes-of-chamberlain/) — Las Vegas Sun · 02:00 PT · #us #civic #foreign #nevada
+- [Aguilar shows how effective election administration works](https://lasvegassun.com/news/2026/oct/21/aguilar-shows-how-effective-election-administratio/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Little angels or class clowns?](https://lasvegassun.com/news/2026/oct/21/little-angels-or-class-clowns/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Henderson parks see positive results after tax passage](https://lasvegassun.com/news/2026/oct/21/henderson-parks-see-positive-results-after-tax-pas/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [An energy and infrastructure permitting breakthrough is within reach](https://lasvegassun.com/news/2026/oct/21/an-energy-and-infrastructure-permitting-breakthrou/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Early detection could help close Nevada’s breast cancer gap](https://lasvegassun.com/news/2026/oct/21/early-detection-could-help-close-nevadas-breast-ca/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [If water is the new gold, we’d better price it right](https://lasvegassun.com/news/2026/oct/21/if-water-is-the-new-gold-wed-better-price-it-right/) — Las Vegas Sun · 02:00 PT · #us #fed #nevada #oil
+- [Australian Politician Who Was Hit By Car Has Lost Both Legs](https://www.huffpost.com/entry/australia-lawmaker-injured_n_6ad8767ee4b04f71533db123) — World News - Breaking News, Top Stories · 01:31 PT · #us
+- [¿Cómo funcionará en Nevada el programa de Trump para becas de opción escolar?](https://thenevadaindependent.com/article/como-funcionara-en-nevada-el-programa-de-trump-para-becas-de-opcion-escolar/) — The Nevada Independent · 01:15 PT · #us #nevada
+- [Tuesday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/tuesdays-nevada-preps-high-school-sports-scoreboard-3902933/) — Las Vegas Review-Journal · 00:02 PT · #us #nevada
 
 ## 2026-10-20
 
@@ -399,30 +426,3 @@ tags: ["category", "us"]
 - [Are there actually health benefits to eating an apple a day?](https://www.reviewjournal.com/livewell/are-there-actually-health-benefits-to-eating-an-apple-a-day-3900904/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [Golden Knights flip the script, use fast start to douse Flames](https://www.reviewjournal.com/sports/goldenknights/golden-knights-flip-the-script-use-fast-start-to-douse-flames-3900901/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [Switch plans massive natural gas plant to power Nevada data centers](https://www.reviewjournal.com/business/energy/switch-plans-massive-natural-gas-plant-to-power-nevada-data-centers-3900897/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada #oil
-- [Before saying yes to a medical test, know the risks and benefits](https://www.reviewjournal.com/livewell/before-saying-yes-to-a-medical-test-know-the-risks-and-benefits-3900893/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
-- [Flamingo abuse trial testimony details bird’s injuries, alcohol-soaked Las Vegas trip](https://www.reviewjournal.com/crime/courts/flamingo-abuse-trial-testimony-details-birds-injuries-alcohol-soaked-las-vegas-trip-3900889/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
-- [Proposed changes to health survey worry disability advocates](https://www.reviewjournal.com/livewell/proposed-changes-to-health-survey-worry-disability-advocates-3900885/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
-- [On the issues: can the economy tip the Nevada governor’s race?](https://www.reviewjournal.com/news/politics-and-government/nevada/on-the-issues-can-the-economy-tip-the-nevada-governors-race-3900882/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
-- [Russia Strikes 9 Ukrainian Regions As Strain Grows Between Zelenskyy And Trump](https://www.huffpost.com/entry/russia-ukraine-attacks-trump-zelenskyy-spat_n_6ad20346e4b0bfd25657a02a) — World News - Breaking News, Top Stories · 04:06 PT · #us #foreign
-- [El-Sayed’s missing piece](https://www.politico.com/newsletters/playbook/2026/10/16/el-sayeds-missing-piece-01123135) — Playbook · 03:21 PT · #us
-- [Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution](https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution) — World & Nation · 03:00 PT · #us
-- [Mark Carney Says U.S. Is Trying To Break Canada As Alberta Votes On Separation Path](https://www.huffpost.com/entry/carney-canada-alberta-separation_n_6ad1e781e4b0dccf572ab254) — World News - Breaking News, Top Stories · 02:07 PT · #us
-- [Nevada takes back $52 million for rural broadband amid fears of missed spending deadline](https://thenevadaindependent.com/article/nevada-takes-back-52-million-for-rural-broadband-amid-fears-of-missed-spending-deadline/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Can Henderson elect a progressive? This Assembly race is a litmus test](https://thenevadaindependent.com/article/can-henderson-elect-a-progressive-this-assembly-race-is-a-litmus-test/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [Raiders seek a rebound as Bills aim to avoid a letdown in Las Vegas as the](https://lasvegassun.com/news/2026/oct/16/raiders-seek-a-rebound-as-bills-aim-to-avoid-a-let/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [US consumers are muscling through higher prices, but for how long?](https://lasvegassun.com/news/2026/oct/16/us-consumers-are-muscling-through-higher-prices-bu/) — Las Vegas Sun · 02:00 PT · #us #fed #nevada
-- [US winter is likely to be wetter and warmer, forecasters say](https://lasvegassun.com/news/2026/oct/16/us-winter-is-likely-to-be-wetter-and-warmer-foreca/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [American youths are taking steps backward](https://lasvegassun.com/news/2026/oct/16/american-youth-are-taking-steps-backward/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Guilfoyle case is the tip of a corruption iceberg](https://lasvegassun.com/news/2026/oct/16/guilfoyle-case-is-the-tip-of-a-corruption-iceberg/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Despidiéndonos del Cashman Field y de los innumerables recuerdos que se crearon entre sus paredes](https://lasvegassun.com/news/2026/oct/16/despidindonos-del-cashman-field-y-de-los-innumerab/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Saying farewell to Cashman Field and the countless memories made inside its walls](https://lasvegassun.com/news/2026/oct/16/saying-farewell-to-cashman-field-and-the-countless/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [The numbers don't lie on Trump's high prices and shrinking wages](https://lasvegassun.com/news/2026/oct/16/the-numbers-dont-lie-on-trumps-high-prices-and-shr/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Nobel Prize in economics is a message to the Fed](https://lasvegassun.com/news/2026/oct/16/nobel-prize-in-economics-is-a-message-to-the-fed/) — Las Vegas Sun · 02:00 PT · #us #fed #nevada
-- [Why we shouldn’t expect rape survivors to report](https://lasvegassun.com/news/2026/oct/16/why-we-shouldnt-expect-rape-survivors-to-report/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Flu could be bad this year, so make a plan for vaccination](https://lasvegassun.com/news/2026/oct/16/flu-could-be-bad-this-year-so-make-a-plan-for-vacc/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Would Question 6 eliminate parental notification for minors seeking abortions?](https://thenevadaindependent.com/article/would-question-6-eliminate-parental-notification-for-minors-seeking-abortions/) — The Nevada Independent · 01:55 PT · #us #nevada
-- [Joe Lombardo se presenta como gobernador de la educación. Así se puede evaluar su historial.](https://thenevadaindependent.com/article/joe-lombardo-se-presenta-como-gobernador-de-la-educacion-asi-se-puede-evaluar-su-historial/) — The Nevada Independent · 01:15 PT · #us #nevada
-
-## 2026-10-15
-
-- [Thursday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/thursdays-nevada-preps-high-school-sports-scoreboard-3900831/) — Las Vegas Review-Journal · 22:08 PT · #us #nevada
