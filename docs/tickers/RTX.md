@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $RTX"
-updated: 2026-10-21T17:02:37-07:00
+updated: 2026-10-21T21:35:02-07:00
 count: 4
 tags: ["ticker", "RTX"]
 ---

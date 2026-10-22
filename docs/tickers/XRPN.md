@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $XRPN"
-updated: 2026-10-21T17:02:37-07:00
-count: 1
+updated: 2026-10-21T21:35:02-07:00
+count: 2
 tags: ["ticker", "XRPN"]
 ---
 
 # Ticker: $XRPN
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-21
+
+- [Uphold Lists Evernorth’s XRPN Stock, Expanding XRP Treasury Access](https://news.bitcoin.com/featured/uphold-lists-evernorths-xrpn-stock-expanding-xrp-treasury-access/) — Bitcoin News · 20:30 PT · #markets $XRPN
 
 ## 2026-10-14
 

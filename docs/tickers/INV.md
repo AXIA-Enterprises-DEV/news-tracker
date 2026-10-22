@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $INV"
-updated: 2026-10-21T17:02:37-07:00
-count: 3
+updated: 2026-10-21T21:35:02-07:00
+count: 4
 tags: ["ticker", "INV"]
 ---
 
 # Ticker: $INV
 
-3 most recent items (14-day window).
+4 most recent items (14-day window).
+
+## 2026-10-21
+
+- [Innventure, Inc. (NASDAQ: INV) Securities Investigation: Investors Who Held Shares Since November 17, 2025, May Be Eligible to Seek Compensation - Stranch, Jennings & Garvey, PLLC](https://www.prnewswire.com/news-releases/innventure-inc-nasdaq-inv-securities-investigation-investors-who-held-shares-since-november-17-2025-may-be-eligible-to-seek-compensation---stranch-jennings--garvey-pllc-302916281.html) — PR Newswire M&A · 20:09 PT · #business #markets $INV
 
 ## 2026-10-20
 

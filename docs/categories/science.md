@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-21T17:02:37-07:00
+updated: 2026-10-21T21:35:02-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,18 @@ tags: ["category", "science"]
 
 ## 2026-10-21
 
+- [Baby manta rays hunker down close to coasts before facing the open ocean's dangers](https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html) — Phys.org - latest science and technology news stories · 21:00 PT · #science
+- [Baby manta rays stick to the shallows to avoid sharks and orca](https://www.popsci.com/environment/baby-manta-rays-shallows/) — Popular Science · 21:00 PT · #science
+- [When powerful women are remembered as witches, we should challenge the historical motive](https://phys.org/news/2026-10-powerful-women-witches-historical.html) — Phys.org - latest science and technology news stories · 20:40 PT · #science
+- [Illegal fishing is thriving in African waters—a satellite system could help change that](https://phys.org/news/2026-10-illegal-fishing-african-satellite.html) — Phys.org - latest science and technology news stories · 19:40 PT · #science
+- [More young people are being recruited as 'money mules' by organized crime groups, new analysis reveals](https://phys.org/news/2026-10-young-people-money-mules-crime.html) — Phys.org - latest science and technology news stories · 19:20 PT · #science
+- [Horror films exploit how human vision works to deliver movies' best scares](https://phys.org/news/2026-10-horror-exploit-human-vision-movies.html) — Phys.org - latest science and technology news stories · 19:00 PT · #science
+- [How 39 young people experience climate education in a rapidly changing world](https://phys.org/news/2026-10-young-people-climate-rapidly-world.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
+- [Student motivation and responsibility shown to be key to tackling bullying in physical education](https://phys.org/news/2026-10-student-responsibility-shown-key-tackling.html) — Phys.org - latest science and technology news stories · 18:20 PT · #science
+- [Private business fortunes reveal overlooked source of wealth and inequality in America](https://phys.org/news/2026-10-private-business-fortunes-reveal-overlooked.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
+- [Virus that sickens cows, kills deer still rare in New York state—for now](https://phys.org/news/2026-10-virus-sickens-cows-deer-rare.html) — Phys.org - latest science and technology news stories · 17:40 PT · #science
+- [Four questions about schoolwork feedback to guide young students' learning](https://phys.org/news/2026-10-schoolwork-feedback-young-students.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
+- [Faster to Science: A Letter to the Science Community](https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/) — NASA · 17:00 PT · #science
 - [Africans reuse, repair, recycle and resell waste: What's needed to build on the circular economy basics](https://phys.org/news/2026-10-africans-reuse-recycle-resell-circular.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
 - [AI listens to bee buzzes to monitor activity without lethal traps](https://phys.org/news/2026-10-ai-bee-lethal.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #ai
 - [Venomous primate thought lost to science for nearly a century turns up in gardens and on roads across Indonesia](https://phys.org/news/2026-10-venomous-primate-thought-lost-science.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
@@ -405,15 +417,3 @@ tags: ["category", "science"]
 - [UN climate panel head wants swift end to deadlock over key scientific report](https://phys.org/news/2026-10-climate-panel-swift-deadlock-key.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
 - [Imagine a social media algorithm that prioritizes trust over outrage](https://phys.org/news/2026-10-social-media-algorithm-prioritizes-outrage.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science #foreign #media
 - [How plants unwittingly help fungal pathogens](https://phys.org/news/2026-10-unwittingly-fungal-pathogens.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
-- [A new way to make iridium catalysts for hydrogen production last longer](https://phys.org/news/2026-10-iridium-catalysts-hydrogen-production-longer.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
-- [This snake cartwheels to escape danger](https://www.popsci.com/environment/dwarf-reed-snake-rolling-video/) — Popular Science · 08:00 PT · #science
-- [What evolved first—our brain or gut?](https://phys.org/news/2026-10-evolved-brain-gut.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science
-- [Plasmonic coating on bacterial surfaces paves the way for rapid sepsis diagnosis](https://phys.org/news/2026-10-plasmonic-coating-bacterial-surfaces-paves.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science
-- [Indonesia fires have burned nearly 2 million hectares: Monitor](https://phys.org/news/2026-10-indonesia-million-hectares.html) — Phys.org - latest science and technology news stories · 06:29 PT · #science
-- [How bacteria survive in a world full of killer bacteriophages](https://phys.org/news/2026-10-bacteria-survive-world-full-killer.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [Enigmatic Mercury will remain a puzzle until someone sends a lander](https://phys.org/news/2026-10-enigmatic-mercury-puzzle-lander.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [The Overlapping Plagues Quietly Devastating American Forests](https://www.nytimes.com/2026/10/19/climate/tree-pandemics-northeast-forests.html) — NYT > Science · 06:14 PT · #science
-- [Alaska’s monster tsunami sent water 1,580 feet up a mountain](https://www.sciencedaily.com/releases/2026/10/261018205047.htm) — Latest Science News -- ScienceDaily · 06:09 PT · #science
-- [Teaching financial literacy—key to preventing underinsurance](https://phys.org/news/2026-10-financial-literacy-key-underinsurance.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
-- [Expert ‘bat wranglers’ put GPS trackers on California’s bats](https://www.popsci.com/environment/bat-wranglers-gps-tracker-california/) — Popular Science · 06:00 PT · #science
-- [Why some people escape Alzheimer’s despite carrying a high-risk gene](https://www.sciencedaily.com/releases/2026/10/261018205044.htm) — Latest Science News -- ScienceDaily · 05:57 PT · #science

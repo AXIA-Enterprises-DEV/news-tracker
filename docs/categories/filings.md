@@ -1,6 +1,6 @@
 ---
 title: "Category: filings"
-updated: 2026-10-21T17:02:37-07:00
+updated: 2026-10-21T21:35:02-07:00
 count: 400
 tags: ["category", "filings"]
 ---
@@ -11,6 +11,12 @@ tags: ["category", "filings"]
 
 ## 2026-10-21
 
+- [SCHEDULE 13G/A - Concentrix Corp (0001803599) (Subject)](https://www.sec.gov/Archives/edgar/data/1803599/000134470126000004/0001344701-26-000004-index.htm) — SEC EDGAR All Filings · 18:49 PT · #filings #markets
+- [4 - SOUTHPORT SPONSOR MANAGEMENT II, LLC (0002151215) (Reporting)](https://www.sec.gov/Archives/edgar/data/2151215/000118518526004899/0001185185-26-004899-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
+- [SCHEDULE 13D/A - SOUTHPORT ACQUISITION SPONSOR II LLC (0002151492) (Filed by)](https://www.sec.gov/Archives/edgar/data/2151492/000118518526004898/0001185185-26-004898-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
+- [4 - Kiessling Heather (0002026548) (Reporting)](https://www.sec.gov/Archives/edgar/data/2026548/000147793226006387/0001477932-26-006387-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
+- [4 - Cramer Keith (0001829989) (Reporting)](https://www.sec.gov/Archives/edgar/data/1829989/000181838326000258/0001818383-26-000258-index.htm) — SEC EDGAR All Filings · 18:41 PT · #filings #markets
+- [4 - Nonko Eugene (0001830016) (Reporting)](https://www.sec.gov/Archives/edgar/data/1830016/000181838326000257/0001818383-26-000257-index.htm) — SEC EDGAR All Filings · 18:40 PT · #filings #markets
 - [144 - Allogene Therapeutics, Inc. (0001737287) (Subject)](https://www.sec.gov/Archives/edgar/data/1737287/000149187426000003/0001491874-26-000003-index.htm) — SEC EDGAR All Filings · 16:48 PT · #filings #markets
 - [4 - Germano Geno J (0001424383) (Reporting)](https://www.sec.gov/Archives/edgar/data/1424383/000119312526428121/0001193125-26-428121-index.htm) — SEC EDGAR All Filings · 16:33 PT · #filings #markets
 - [3 - Germano Geno J (0001424383) (Reporting)](https://www.sec.gov/Archives/edgar/data/1424383/000119312526428118/0001193125-26-428118-index.htm) — SEC EDGAR All Filings · 16:32 PT · #filings #markets
@@ -408,9 +414,3 @@ tags: ["category", "filings"]
 - [4 - Glenn William (0001406328) (Reporting)](https://www.sec.gov/Archives/edgar/data/1406328/000092312026000019/0000923120-26-000019-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
 - [4 - Krueger William J. (0001575836) (Reporting)](https://www.sec.gov/Archives/edgar/data/1575836/000092312026000018/0000923120-26-000018-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
 - [4 - Lucky Christian (0002007415) (Reporting)](https://www.sec.gov/Archives/edgar/data/2007415/000092312026000017/0000923120-26-000017-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
-- [4 - Islam Nayaab (0002059741) (Reporting)](https://www.sec.gov/Archives/edgar/data/2059741/000162828026066566/0001628280-26-066566-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
-- [4 - Meyer Matthew Joseph (0001797155) (Reporting)](https://www.sec.gov/Archives/edgar/data/1797155/000092312026000016/0000923120-26-000016-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
-- [4 - Tekorius Lorie (0001418143) (Reporting)](https://www.sec.gov/Archives/edgar/data/1418143/000092312026000015/0000923120-26-000015-index.htm) — SEC EDGAR All Filings · 15:10 PT · #filings #markets
-- [4 - Streams Mark (0001885900) (Reporting)](https://www.sec.gov/Archives/edgar/data/1885900/000162828026066565/0001628280-26-066565-index.htm) — SEC EDGAR All Filings · 15:10 PT · #filings #markets
-- [4 - Garthwaite Michael P. (0002080127) (Reporting)](https://www.sec.gov/Archives/edgar/data/2080127/000150630726000128/0001506307-26-000128-index.htm) — SEC EDGAR All Filings · 15:09 PT · #filings #markets
-- [8-K - Clean Energy Technologies, Inc. (0001329606) (Filer)](https://www.sec.gov/Archives/edgar/data/1329606/000149315226047803/0001493152-26-047803-index.htm) — SEC EDGAR 8-K · 15:09 PT · #filings #item-1.01 #markets

@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-21T17:02:37-07:00
+updated: 2026-10-21T21:35:02-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,19 @@ tags: ["category", "us"]
 
 ## 2026-10-21
 
+- [CARTOONS: Six Flags tries out a new name](https://www.reviewjournal.com/opinion/drawing-board/cartoons-six-flags-tries-out-a-new-name-3903360/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: Lawsuits over the Colorado](https://www.reviewjournal.com/opinion/letters/letter-lawsuits-over-the-colorado-3903357/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [LETTER: Live-streaming an execution](https://www.reviewjournal.com/opinion/letters/letter-live-streaming-an-execution-3903354/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [EDITORIAL: The ‘abundance agenda’ and permitting reform](https://www.reviewjournal.com/opinion/editorials/editorial-the-abundance-agenda-and-permitting-reform-3903351/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [CARTOON: Tapped out](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-tapped-out-3903348/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Kirk Cousins pacing NFL passers, lifting unbalanced Raiders offense](https://www.reviewjournal.com/sports/raiders/kirk-cousins-pacing-nfl-passers-lifting-unbalanced-raiders-offense-3903334/) — Las Vegas Review-Journal · 19:00 PT · #us #nevada
+- [Golf ball-sized hail pummels Arizona; Las Vegas to get wet Thursday — PHOTOS](https://www.reviewjournal.com/news/nation-and-world/golf-ball-sized-hail-pummels-arizona-las-vegas-to-get-wet-thursday-photos-3903314/) — Las Vegas Review-Journal · 18:52 PT · #us #golf #nevada
+- [Harris: Don't give up your power](https://www.ktnv.com/news/harris-dont-give-up-your-power) — KTNV Las Vegas · 18:13 PT · #us #civic #nevada
+- [Ready for 4:44 p.m. sunset? Las Vegas prepares to ‘fall back’](https://www.reviewjournal.com/local/local-las-vegas/ready-for-444-p-m-sunset-las-vegas-prepares-to-fall-back-3903283/) — Las Vegas Review-Journal · 17:58 PT · #us #nevada
+- [Nearly 400 affordable apartments coming to west Henderson by 2028 after city council approves project](https://www.ktnv.com/neighborhoods/henderson/nearly-400-affordable-apartments-coming-to-west-henderson-by-2028-after-city-council-approves-project) — KTNV Las Vegas · 17:47 PT · #us #nevada
+- [Black Hawk helicopter tied to influencer spotted in Las Vegas](https://www.reviewjournal.com/local/local-las-vegas/black-hawk-helicopter-tied-to-influencer-spotted-in-las-vegas-3903279/) — Las Vegas Review-Journal · 17:38 PT · #us #foreign #nevada
+- [A's new president maps out plan for success to coincide with team's 2028 move to Vegas](https://thenevadaindependent.com/article/as-new-president-maps-out-plan-for-success-to-coincide-with-teams-2028-move-to-vegas/) — The Nevada Independent · 17:10 PT · #us #nevada
+- [Clark County appeals Badlands tax judgment to Nevada Supreme Court as costs mount for taxpayers](https://www.ktnv.com/13-investigates/clark-county-appeals-badlands-tax-judgment-to-nevada-supreme-court-as-costs-mount-for-taxpayers) — KTNV Las Vegas · 17:04 PT · #us #civic #nevada
 - [Movie Review: 'Clayface' arrives as a pretty good R-rated revenge thriller-horror romance](https://lasvegassun.com/news/2026/oct/21/movie-review-clayface-arrives-as-a-pretty-good-r-r/) — Las Vegas Sun · 16:53 PT · #us #nevada
 - [Trump administration drops legal fight to overhaul student loan forgiveness program](https://lasvegassun.com/news/2026/oct/21/trump-administration-drops-legal-fight-to-overhaul/) — Las Vegas Sun · 16:49 PT · #us #nevada
 - [Clark County approves plans for 68-foot church in Spring Valley despite neighbor concerns](https://www.ktnv.com/neighborhoods/southwest-las-vegas/clark-county-approves-plans-for-68-foot-church-in-spring-valley-despite-neighbor-concerns) — KTNV Las Vegas · 16:36 PT · #us #nevada
@@ -413,16 +426,3 @@ tags: ["category", "us"]
 - [Jalen Nailor focused on winning, returning to Raiders receiving corps](https://www.reviewjournal.com/sports/raiders/jalen-nailor-focused-on-winning-returning-to-raiders-receiving-corps-3901244/) — Las Vegas Review-Journal · 19:09 PT · #us #nevada
 - [‘Literally relentless’: Bills praise Raiders’ Maxx Crosby before Week 6 game](https://www.reviewjournal.com/sports/raiders/literally-relentless-bills-praise-raiders-maxx-crosby-before-week-6-game-3901224/) — Las Vegas Review-Journal · 18:40 PT · #us #nevada
 - [How a bone sample and a social media post helped identify Lake Mead barrel victim](https://www.reviewjournal.com/local/local-las-vegas/how-a-bone-sample-and-a-social-media-post-helped-identify-lake-mead-barrel-victim-3901215/) — Las Vegas Review-Journal · 18:36 PT · #us #nevada
-- [College football picks, predictions: Games get personal for Northwestern, BYU](https://www.reviewjournal.com/sports/betting/college-football-picks-predictions-games-get-personal-for-northwestern-byu-3901206/) — Las Vegas Review-Journal · 17:21 PT · #us #nevada
-- [College football betting, predictions: Trust underdogs in Week 7](https://www.reviewjournal.com/sports/betting/college-football-betting-predictions-trust-underdogs-in-week-7-3901202/) — Las Vegas Review-Journal · 17:17 PT · #us #nevada
-- [Raiders look to replace key defensive piece against powerful Bills offense](https://www.reviewjournal.com/sports/raiders/raiders-look-to-replace-key-defensive-piece-against-powerful-bills-offense-3901198/) — Las Vegas Review-Journal · 17:10 PT · #us #nevada
-- [Local economist says AI could create jobs as well as eliminate them](https://www.ktnv.com/neighborhoods/southwest-las-vegas/local-economist-says-ai-could-create-jobs-as-well-as-eliminate-them) — KTNV Las Vegas · 17:10 PT · #us #ai #nevada
-- [Las Vegas police investigating shooting near Fremont Street](https://www.reviewjournal.com/crime/shootings/las-vegas-police-investigating-shooting-near-fremont-street-3901195/) — Las Vegas Review-Journal · 17:06 PT · #us #nevada
-- [Southern California homes burned by wildfire fueled by hot weather — PHOTOS](https://www.reviewjournal.com/news/nation-and-world/southern-california-homes-burned-by-wildfire-fueled-by-hot-weather-photos-3901186/) — Las Vegas Review-Journal · 16:58 PT · #us #nevada
-- [Interim no longer: UNLV makes Heavey new president](https://lasvegassun.com/news/2026/oct/16/interim-no-longer-unlv-names-heavey-as-new-preside/) — Las Vegas Sun · 16:56 PT · #us #nevada
-- [No injuries reported after shots fired near Clark High School, police say](https://www.ktnv.com/news/no-injuries-reported-after-shots-fired-near-clark-high-school-police-say) — KTNV Las Vegas · 16:53 PT · #us #nevada
-- [‘We’ll keep working at it’: Knights power play in rut after shorthanded goals](https://www.reviewjournal.com/sports/goldenknights/well-keep-working-at-it-knights-power-play-in-rut-after-shorthanded-goals-3901182/) — Las Vegas Review-Journal · 16:49 PT · #us #nevada
-- [How to watch UNLV vs. Air Force: TV channel, time, radio for Rebels’ Week 7 matchup](https://www.reviewjournal.com/sports/unlv/unlv-football/how-to-watch-unlv-vs-air-force-tv-channel-time-radio-for-rebels-week-7-matchup-3901176/) — Las Vegas Review-Journal · 16:44 PT · #us #nevada
-- [Friday night roundup: High school football scores in Las Vegas](https://lasvegassun.com/news/2026/oct/16/friday-night-roundup-high-school-football-scores-i/) — Las Vegas Sun · 16:07 PT · #us #nevada
-- [De última hora: Arizona se suma a demanda de Nevada por los recortes del Río Colorado](https://thenevadaindependent.com/article/de-ultima-hora-arizona-se-suma-a-demanda-de-nevada-por-los-recortes-del-rio-colorado/) — The Nevada Independent · 16:06 PT · #us #nevada
-- [Shohei Ohtani's health and a possible lockout loom over an uncertain offseason for the Dodgers](https://lasvegassun.com/news/2026/oct/16/shohei-ohtanis-health-and-a-possible-lockout-loom/) — Las Vegas Sun · 16:05 PT · #us #nevada
