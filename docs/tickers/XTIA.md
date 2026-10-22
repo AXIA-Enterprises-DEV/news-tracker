@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $XTIA"
-updated: 2026-10-22T07:45:51-07:00
-count: 1
+updated: 2026-10-22T11:49:55-07:00
+count: 2
 tags: ["ticker", "XTIA"]
 ---
 
 # Ticker: $XTIA
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-22
+
+- [XTI Aerospace Provides Preliminary Third Quarter Revenue](https://www.prnewswire.com/news-releases/xti-aerospace-provides-preliminary-third-quarter-revenue-302917300.html) — PR Newswire Business Tech · 11:00 PT · #tech #markets $XTIA
 
 ## 2026-10-20
 

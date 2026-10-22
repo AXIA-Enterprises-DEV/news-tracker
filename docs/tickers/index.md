@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-22T07:45:51-07:00
+updated: 2026-10-22T11:49:55-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -23,6 +23,7 @@ tags: ["tickers"]
 - [$RTX](RTX.md) — 4 items
 - [$ASTS](ASTS.md) — 4 items
 - [$YSS](YSS.md) — 4 items
+- [$LDOS](LDOS.md) — 3 items
 - [$ERIC](ERIC.md) — 3 items
 - [$LMT](LMT.md) — 3 items
 - [$CRWV](CRWV.md) — 3 items
@@ -35,6 +36,10 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$XTIA](XTIA.md) — 2 items
+- [$BTGO](BTGO.md) — 2 items
+- [$TSLA](TSLA.md) — 2 items
+- [$XP](XP.md) — 2 items
 - [$RILY](RILY.md) — 2 items
 - [$ROK](ROK.md) — 2 items
 - [$QMLS](QMLS.md) — 2 items
@@ -45,7 +50,6 @@ tags: ["tickers"]
 - [$IBM](IBM.md) — 2 items
 - [$BP](BP.md) — 2 items
 - [$GLXY](GLXY.md) — 2 items
-- [$LDOS](LDOS.md) — 2 items
 - [$HPE](HPE.md) — 2 items
 - [$CDW](CDW.md) — 2 items
 - [$DKS](DKS.md) — 2 items
@@ -83,7 +87,14 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
-- [$BTGO](BTGO.md) — 1 items
+- [$FRMM](FRMM.md) — 1 items
+- [$MCBS](MCBS.md) — 1 items
+- [$CPRI](CPRI.md) — 1 items
+- [$CWH](CWH.md) — 1 items
+- [$ARCO](ARCO.md) — 1 items
+- [$CODI](CODI.md) — 1 items
+- [$QGEN](QGEN.md) — 1 items
+- [$SATL](SATL.md) — 1 items
 - [$DVLT](DVLT.md) — 1 items
 - [$MEDS](MEDS.md) — 1 items
 - [$TC](TC.md) — 1 items
@@ -150,7 +161,6 @@ tags: ["tickers"]
 - [$RYDE](RYDE.md) — 1 items
 - [$AHT](AHT.md) — 1 items
 - [$BAC](BAC.md) — 1 items
-- [$XTIA](XTIA.md) — 1 items
 - [$WISH](WISH.md) — 1 items
 - [$WPNDF](WPNDF.md) — 1 items
 - [$NTGR](NTGR.md) — 1 items
@@ -171,7 +181,6 @@ tags: ["tickers"]
 - [$SKYD](SKYD.md) — 1 items
 - [$HLIT](HLIT.md) — 1 items
 - [$NATL](NATL.md) — 1 items
-- [$XP](XP.md) — 1 items
 - [$SE](SE.md) — 1 items
 - [$MAT](MAT.md) — 1 items
 - [$MMM](MMM.md) — 1 items
@@ -189,7 +198,6 @@ tags: ["tickers"]
 - [$CBRE](CBRE.md) — 1 items
 - [$ULS](ULS.md) — 1 items
 - [$SLE](SLE.md) — 1 items
-- [$TSLA](TSLA.md) — 1 items
 - [$ALOY](ALOY.md) — 1 items
 - [$MPT](MPT.md) — 1 items
 - [$RIG](RIG.md) — 1 items
@@ -299,11 +307,3 @@ tags: ["tickers"]
 - [$PTC](PTC.md) — 1 items
 - [$LSPD](LSPD.md) — 1 items
 - [$VZ](VZ.md) — 1 items
-- [$PLD](PLD.md) — 1 items
-- [$FIS](FIS.md) — 1 items
-- [$HPQFF](HPQFF.md) — 1 items
-- [$RDW](RDW.md) — 1 items
-- [$IRM](IRM.md) — 1 items
-- [$CAST](CAST.md) — 1 items
-- [$YSG](YSG.md) — 1 items
-- [$ENSG](ENSG.md) — 1 items

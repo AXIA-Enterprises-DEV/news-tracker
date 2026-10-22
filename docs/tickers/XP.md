@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $XP"
-updated: 2026-10-22T07:45:51-07:00
-count: 1
+updated: 2026-10-22T11:49:55-07:00
+count: 2
 tags: ["ticker", "XP"]
 ---
 
 # Ticker: $XP
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-22
+
+- [Investors Buy Large Volume of XP Put Options (NASDAQ:XP) - MarketBeat](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZk1tV0poOWFRdUNlYmVmeEF2LVEtT1kwaUpoUzRiMUY1bTZBQlpWXzVjRDl4LVpyUkJOQnlmNTE1Y2puXzlMVTFVVE5sNjRFcDhjWHY0a3VNeTZ1ZTN6QmlzZnpCRUlrRFh2SFFYRzZkU2JzVExCRWNLSzV1WWdvOVVNN3JSelV4WFEta2I5aENaSUNlR1c0dDN3RkZNRlBuSEx0TFEybTMxWS0xM0YxbUd0YXE0UFU?oc=5) — Google News: unusual options activity · 09:07 PT · #markets $XP
 
 ## 2026-10-20
 

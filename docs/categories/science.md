@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-22T07:45:51-07:00
+updated: 2026-10-22T11:49:55-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,41 @@ tags: ["category", "science"]
 
 ## 2026-10-22
 
+- [Access to ASL from birth increases childhood math proficiency in deaf children](https://phys.org/news/2026-10-access-asl-birth-childhood-math.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [The dark side of the energy transition: Renewable megaprojects may sacrifice local communities' rights](https://phys.org/news/2026-10-dark-side-energy-transition-renewable.html) — Phys.org - latest science and technology news stories · 11:40 PT · #science
+- [Autumn wreaths and 'doorscaping': Why we need more life in our front gardens](https://phys.org/news/2026-10-autumn-wreaths-doorscaping-life-front.html) — Phys.org - latest science and technology news stories · 11:20 PT · #science
+- [Diamond laser system achieves 100% optical contrast in magnetic-field readout](https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html) — Phys.org - latest science and technology news stories · 11:20 PT · #science
+- [Entrepreneurs live longer than salaried workers, study reveals](https://phys.org/news/2026-10-entrepreneurs-longer-salaried-workers-reveals.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science #smallbiz
+- [Quantum interference traps electron waves in metal for first time](https://phys.org/news/2026-10-quantum-electron-metal.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Global warming may have halted an emerging ice age, study suggests](https://phys.org/news/2026-10-global-halted-emerging-ice-age.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Earth's hemispheres may have worked together to drive past ice ages](https://phys.org/news/2026-10-earth-hemispheres-ice-ages.html) — Phys.org - latest science and technology news stories · 11:00 PT · #science
+- [Rattlesnake bite venom is based on their personality](https://www.popsci.com/environment/rattlesnake-bite-venom-personality/) — Popular Science · 10:42 PT · #science
+- [Webb captures stars in the early stages of life in a nearby stellar nursery](https://phys.org/news/2026-10-webb-captures-stars-early-stages.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
+- [Webb image reveals young stars brewing in a nebulous cauldron](https://phys.org/news/2026-10-webb-image-reveals-young-stars.html) — Phys.org - latest science and technology news stories · 10:40 PT · #science
+- [Mosquito bites are more complicated than they appear—getting a closer look might lead to better disease prevention](https://phys.org/news/2026-10-mosquito-complicated-closer-disease.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
+- [When climate data is transformed into visuals, some people and places get overlooked](https://phys.org/news/2026-10-climate-visuals-people-overlooked.html) — Phys.org - latest science and technology news stories · 10:20 PT · #science
+- [Treefrog ‘fingerprints’ are on their eyeballs](https://www.popsci.com/environment/treefrog-eye-fingerprints-patterns/) — Popular Science · 10:06 PT · #science
+- [Wildfires cause Amazon to emit 1.17 billion more metric tons of CO₂ than it absorbs](https://phys.org/news/2026-10-wildfires-amazon-emit-billion-metric.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
+- [Four ways cities can help protect democratic values](https://phys.org/news/2026-10-ways-cities-democratic-values.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science #civic
+- [✚ Avoiding charts by default](https://flowingdata.com/2026/10/22/process-411-default-avoid/) — FlowingData · 09:45 PT · #science
+- [Drought shifts more plant root cells into newly discovered environmental response mode](https://phys.org/news/2026-10-drought-shifts-root-cells-newly.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
+- [How does fake tan work, and why does it sometimes smell 'cookie-like'?](https://phys.org/news/2026-10-fake-tan-cookie.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
+- [NASA’s Hubble Charts Path for Roman with Gravitational Lenses](https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/) — NASA · 09:20 PT · #science
+- [Are you using AI to study? Here's how to do it well](https://phys.org/news/2026-10-ai-2.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science #ai
+- [Supermassive black holes ejected from galactic centers? Quasar survey supports decade-old prediction](https://phys.org/news/2026-10-supermassive-black-holes-ejected-galactic.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
+- [The same novel can spark very different inner worlds in readers](https://phys.org/news/2026-10-worlds-readers.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
+- [Tire-derived pollutant found at elevated levels in critical fish habitats](https://phys.org/news/2026-10-derived-pollutant-elevated-critical-fish.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
+- [The best cameras under $1,000, according to experts](https://www.popsci.com/gear/best-cameras-under-1000/) — Popular Science · 08:45 PT · #science
+- [Research tackling immature fruit drop in avocado trees](https://phys.org/news/2026-10-tackling-immature-fruit-avocado-trees.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
+- [Word choice matters: 'Extinction of plants and animals' raises more concern than 'biodiversity loss'](https://phys.org/news/2026-10-word-choice-extinction-animals-biodiversity.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
+- [World-first basic income trial boosts Indigenous livelihoods and Amazon rainforest protection](https://phys.org/news/2026-10-world-basic-income-trial-boosts.html) — Phys.org - latest science and technology news stories · 08:30 PT · #science
+- [How much control do we have over picking up an accent? A lot, study finds](https://phys.org/news/2026-10-accent-lot.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
+- [Deer mating season can be deadly for drivers. Solar powered roadsigns may help.](https://www.popsci.com/environment/deer-mating-season-road-sign-warning/) — Popular Science · 08:19 PT · #science
+- [Black hole observations uncover evidence of solar storm–like magnetic eruptions](https://phys.org/news/2026-10-black-hole-uncover-evidence-solar.html) — Phys.org - latest science and technology news stories · 08:03 PT · #science
+- [Fear of giving too little can stop people from giving at all](https://phys.org/news/2026-10-people.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
+- [Gut bacteria use food cues to help time nutrient absorption, study finds](https://phys.org/news/2026-10-gut-bacteria-food-cues-nutrient.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
+- [New study traces van Gogh's famed 'Starry Night' to an actual night sky from 1889](https://phys.org/news/2026-10-sky-van-gogh-starry-night.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
+- [What night is van Gogh’s ‘The Starry Night’? New analysis says it’s in July.](https://www.popsci.com/science/starry-night-van-gogh-date/) — Popular Science · 08:00 PT · #science
 - [There should be black holes in our neighborhood. Can we find them?](https://phys.org/news/2026-10-black-holes-neighborhood.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
 - [Curtain-like plasma structures explain solar jets' apparent spinning in simulations](https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
 - [Drone measurements reveal rapid early growth in eastern Australian humpback whales](https://phys.org/news/2026-10-drone-reveal-rapid-early-growth.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
@@ -72,6 +107,9 @@ tags: ["category", "science"]
 - [Four questions about schoolwork feedback to guide young students' learning](https://phys.org/news/2026-10-schoolwork-feedback-young-students.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
 - [Faster to Science: A Letter to the Science Community](https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/) — NASA · 17:00 PT · #science
 - [Africans reuse, repair, recycle and resell waste: What's needed to build on the circular economy basics](https://phys.org/news/2026-10-africans-reuse-recycle-resell-circular.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science
+- [Can a 'lullaby' save coral reefs from extinction?](https://www.nature.com/articles/d41586-026-03414-3) — Nature · 17:00 PT · #science
+- [Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world](https://www.nature.com/articles/d41586-026-03389-1) — Nature · 17:00 PT · #science #ai
+- [Current-Driven Molecular Machine with Rotation-Enhanced Conductance](https://www.nature.com/articles/s41586-026-11312-x) — Nature · 17:00 PT · #science
 - [AI listens to bee buzzes to monitor activity without lethal traps](https://phys.org/news/2026-10-ai-bee-lethal.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #ai
 - [Venomous primate thought lost to science for nearly a century turns up in gardens and on roads across Indonesia](https://phys.org/news/2026-10-venomous-primate-thought-lost-science.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Holding out or holding back? Kindergarten redshirting and retention shifted sharply during the pandemic](https://phys.org/news/2026-10-kindergarten-redshirting-retention-shifted-sharply.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -382,41 +420,3 @@ tags: ["category", "science"]
 - [Nanoscale tech tracks proteins inside living neurons to guide Alzheimer's and Parkinson's drug discovery](https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science #smallbiz
 - [Why painful arthritis can return stronger after cancer treatment](https://www.sciencedaily.com/releases/2026/10/261018205055.htm) — Latest Science News -- ScienceDaily · 17:49 PT · #science
 - [Russian Satellite Makes a Menacing Approach to Another Craft in Orbit](https://www.nytimes.com/2026/10/19/science/russia-satellite-kosmos-2612.html) — NYT > Science · 17:24 PT · #science #foreign
-- [Students take up to 88 standardized tests before high school, but more testing doesn't improve learning](https://phys.org/news/2026-10-students-standardized-high-school-doesnt.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
-- [Bundle water safeguards into critical-mineral licences](https://www.nature.com/articles/d41586-026-03353-z) — Nature · 17:00 PT · #science
-- [Nobel-prizewinning breakthroughs can emerge from neglected organisms](https://www.nature.com/articles/d41586-026-03351-1) — Nature · 17:00 PT · #science
-- [Conservation planning should follow animal clocks](https://www.nature.com/articles/d41586-026-03354-y) — Nature · 17:00 PT · #science
-- [Europe and the rest of the world must come up with an answer to US science strategy](https://www.nature.com/articles/d41586-026-03352-0) — Nature · 17:00 PT · #science
-- [Butterfly wing patterns make motion hard to read](https://www.nature.com/articles/d41586-026-03062-7) — Nature · 17:00 PT · #science
-- [Will this sleep-disorder drug be the next big blockbuster?](https://www.nature.com/articles/d41586-026-03310-w) — Nature · 17:00 PT · #science
-- [China picks first researchers for 15-year mega grants](https://www.nature.com/articles/d41586-026-03151-7) — Nature · 17:00 PT · #science #foreign
-- [Nepal’s disaster is an urgent wake-up call](https://www.nature.com/articles/d41586-026-03314-6) — Nature · 17:00 PT · #science
-- [Is it ‘moon-stroke’, or a chill?](https://www.nature.com/articles/d41586-026-02975-7) — Nature · 17:00 PT · #science
-- [Nature ’s job-satisfaction survey highlights the changing geography of science](https://www.nature.com/articles/d41586-026-03327-1) — Nature · 17:00 PT · #science #foreign
-- [Can a human survive in a whale’s belly? The science behind the thriller Whalefall](https://www.nature.com/articles/d41586-026-03358-8) — Nature · 17:00 PT · #science
-- [It’s time to teach peer review as a core research skill](https://www.nature.com/articles/d41586-026-03200-1) — Nature · 17:00 PT · #science
-- [Vast new fossil record challenges story of Earth’s ‘big five’ mass extinctions](https://www.nature.com/articles/d41586-026-03316-4) — Nature · 17:00 PT · #science
-- [Body clock disruptions contribute to one in four cases of depression, suggests large study](https://www.nature.com/articles/d41586-026-03359-7) — Nature · 17:00 PT · #science
-- [Daily Briefing: Tiny doses of LSD seem to boost cognition](https://www.nature.com/articles/d41586-026-03374-8) — Nature · 17:00 PT · #science
-- [New 4D biofabrication technology holds promise for tissue engineering, wound healing](https://phys.org/news/2026-10-4d-biofabrication-technology-tissue-wound.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
-- [Molecular switch controls how cells load cargo for recycling](https://phys.org/news/2026-10-molecular-cells-cargo-recycling.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
-- [‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos](https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks) — Space | The Guardian · 16:37 PT · #science
-- [13% of Earth's land identified as biodiversity conservation hotspots](https://phys.org/news/2026-10-earth-biodiversity-hotspots.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
-- [How much of a basin's drainage network should flood models capture?](https://phys.org/news/2026-10-basin-drainage-network-capture.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
-- [Forgotten particle could answer mystery of why we exist, say physicists](https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
-- [Criminal justice researchers use statistical modeling to examine wrongful-conviction risk](https://phys.org/news/2026-10-criminal-justice-statistical-wrongful-conviction.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
-- [Planetary 'twins' Uranus and Neptune may have different origin stories](https://phys.org/news/2026-10-planetary-twins-uranus-neptune-stories.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
-- [Researchers unlock new way to map molecular structure on surfaces](https://phys.org/news/2026-10-molecular-surfaces.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
-- [Who speaks for Mars? Scientists call for ethical debate before terraforming begins](https://phys.org/news/2026-10-mars-scientists-ethical-debate-terraforming.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
-- [Synthetic molecules self-assemble into triple helices with new control method](https://phys.org/news/2026-10-synthetic-molecules-triple-helices-method.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
-- [Beehives act as 'living immune systems' with layered antimicrobial defenses](https://phys.org/news/2026-10-beehives-immune-layered-antimicrobial-defenses.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
-- [Birds are among Earth's most important nutrient movers](https://phys.org/news/2026-10-birds-earth-important-nutrient-movers.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
-- [The hidden global market behind recycling revealed](https://phys.org/news/2026-10-hidden-global-recycling-revealed.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
-- [Planting trees is not enough: Lasting climate benefits depend on land rights and livelihoods](https://phys.org/news/2026-10-trees-climate-benefits-rights-livelihoods.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
-- [Expanded earned income tax credit improved housing security for childless young adults](https://phys.org/news/2026-10-income-tax-credit-housing-childless.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
-- [Simpler recycling process recovers pure raw materials from acrylic glass without solvents](https://phys.org/news/2026-10-simpler-recycling-recovers-pure-raw.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
-- [New wheat disease detection tool established in Tanzania](https://phys.org/news/2026-10-wheat-disease-tool-tanzania.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
-- [How enzymes locally block cell wall repair, allowing cells to fuse in an irreversible manner](https://phys.org/news/2026-10-enzymes-locally-block-cell-wall.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
-- [Scientists are growing human brain tissue in living mice—could this make their welfare harder to assess?](https://phys.org/news/2026-10-scientists-human-brain-tissue-mice.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
-- [Fully implementing methane plans could reverse emissions growth but miss 2030 target](https://phys.org/news/2026-10-fully-methane-reverse-emissions-growth.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
-- [Why haven't farm animals evolved against humans? A biologist explains why there won't be a chicken uprising anytime soon](https://phys.org/news/2026-10-havent-farm-animals-evolved-humans.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science

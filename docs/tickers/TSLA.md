@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $TSLA"
-updated: 2026-10-22T07:45:51-07:00
-count: 1
+updated: 2026-10-22T11:49:55-07:00
+count: 2
 tags: ["ticker", "TSLA"]
 ---
 
 # Ticker: $TSLA
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-22
+
+- [Tesla’s $TSLA Stock Token Lands on Solana Across 10+ Apps via Backpack Securities](https://www.cryptoninjas.net/news/teslas-tsla-stock-token-lands-on-solana-across-10-apps-via-backpack-securities/) — CryptoNinjas · 10:21 PT · #markets $TSLA
 
 ## 2026-10-19
 

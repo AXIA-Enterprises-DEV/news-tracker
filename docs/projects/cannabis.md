@@ -1,16 +1,24 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-22T07:45:51-07:00
-count: 137
+updated: 2026-10-22T11:49:55-07:00
+count: 145
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-137 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+145 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-22
 
+- [Trump Justice Department indicts prominent Virginia lawmaker for selling marijuana at ‘hemp’ shop](https://mjbizdaily.com/news/trump-justice-department-indicts-prominent-virginia-lawmaker-for-selling-marijuana-at-hemp-shop/618831/) — MJBizDaily · 11:30 PT · #business #cannabis #smallbiz
+- [Cannabis Packaging Compliance in 2027: What Every Dispensary, Brand, and Cultivator Needs to Know](https://mjbizdaily.com/sponsored/cannabis-packaging-compliance-in-2027-what-every-dispensary-brand-and-cultivator-needs-to-know/618775/) — MJBizDaily · 11:10 PT · #business #cannabis
+- [Denver cannabis lounge plans Las Vegas expansion despite local industry struggles](https://www.ktnv.com/news/denver-cannabis-lounge-plans-las-vegas-expansion-despite-local-industry-struggles) — KTNV Las Vegas · 11:01 PT · #us #cannabis #nevada
+- [Denver cannabis lounge plans Las Vegas expansion despite local industry struggles - KTNV Las Vegas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnhtRmE1WExQQ1dJMXVueGRnR3JRdlFFY1VxZFZHZk9NOHQ4Q3JIOVRUUzFMc2VaT05LZ3dLV3VlUnh5a25BdE1oVnVkMWRNVlRZaEtORjVVaTV1ZVZCRFZLVFBYc05pUW0zT29yWUE0SlBGQ09lSFYtYUtaWTRhaXlUZmk2d0pQS0hMMnliM0tmbl81eGxBcWY5V0JRamFxSjJ4c1A3RE5zSjA?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 11:01 PT · #business #cannabis #nevada
+- [Top Virginia Senator Faces Federal Marijuana And Fraud Charges](https://www.marijuanamoment.net/top-virginia-senator-faces-federal-marijuana-and-fraud-charges/) — Marijuana Moment · 09:37 PT · #business #cannabis
+- [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - Big News Network.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWoxV01XdjlQNy1DeUdlaVRvb3ZncEJnckRvcW05clQyb1A3dXRvaUNIMlotY2I5OTh1UHN1ZklFeDlVQ1JDczlwMC1SMFoxNjVnbWtRRFRkaDh0aldMbmlid0xjQndCWGFSeEptcmk3VC1PaE9iaUtpUGhOWnNzazI5WTM3bFYtd3M1SUxjdDJlUEUtUHI2RVNrdkxkdlVlQV83QjNkQmxsbTRrbEo1VXNRTGgyQVJ6ZVFMWnpNRmk2cExhSWw0?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:52 PT · #business #cannabis
+- [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - itemonline.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV0tyZ045dGloVE53SjJIMGdWSmxiMDlRdzhqOVE4LVM3dzRtbV9tMVV0dnlJSW0zUGJ4eFIxZFFFdTlSVGJpcF81QXltbWgyQThRN3M0ZDdLemh2QW1JR0Y2b3J1Q0xXbm10dFQ4aVYyeHdmT2UwaVdpeWpnbGt1SjRENVhqQXpveVBUcjljMHBIYVh6bXNNQ1M5Y0RQNnlndUJ6dUNsZkNlaFFmSDZFS1VJeHhNQUljbk5ZQl9jY1pudmRGbnRpMGhYQnVNaEptUE1QWmkyU29FdkJjRkUydGF0eUwzRkJFN1pVNzRFWFg?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:51 PT · #business #cannabis
+- [DEA Judge Denies Marijuana Rescheduling Opponents’ Request To Reopen Hearing For More Testimony, But Allows New Briefs](https://www.marijuanamoment.net/dea-judge-denies-marijuana-rescheduling-opponents-request-to-reopen-hearing-for-more-testimony-but-allows-new-briefs/) — Marijuana Moment · 08:07 PT · #business #cannabis
 - [Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case](https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html) — CNBC Top News · 07:42 PT · #markets #cannabis
 - [Wisconsin Democratic And GOP Governor Candidates Agree On Legalizing Marijuana In Some Form During Debate](https://www.marijuanamoment.net/wisconsin-democratic-and-gop-governor-candidates-agree-on-legalizing-marijuana-in-some-form-during-debate/) — Marijuana Moment · 06:59 PT · #business #cannabis
 - [Massachusetts Voters Think Legal Marijuana Has Been Good For The Economy, Criminal Justice And Communities, Poll Shows](https://www.marijuanamoment.net/massachusetts-voters-think-legal-marijuana-has-been-good-for-the-economy-criminal-justice-and-communities-poll-shows/) — Marijuana Moment · 05:52 PT · #business #cannabis

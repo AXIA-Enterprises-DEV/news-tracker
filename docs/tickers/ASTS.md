@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $ASTS"
-updated: 2026-10-22T07:45:51-07:00
+updated: 2026-10-22T11:49:55-07:00
 count: 4
 tags: ["ticker", "ASTS"]
 ---

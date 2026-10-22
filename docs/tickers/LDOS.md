@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $LDOS"
-updated: 2026-10-22T07:45:51-07:00
-count: 2
+updated: 2026-10-22T11:49:55-07:00
+count: 3
 tags: ["ticker", "LDOS"]
 ---
 
 # Ticker: $LDOS
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-22
+
+- [Leidos bringing AI advances to Pentagon logistics system](https://www.prnewswire.com/news-releases/leidos-bringing-ai-advances-to-pentagon-logistics-system-302917114.html) — PR Newswire Contracts · 09:00 PT · #business #ai #foreign $LDOS
 
 ## 2026-10-21
 
