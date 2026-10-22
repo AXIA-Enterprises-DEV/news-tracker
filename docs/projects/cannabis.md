@@ -1,13 +1,22 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-22T02:37:15-07:00
-count: 131
+updated: 2026-10-22T07:45:51-07:00
+count: 137
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-131 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+137 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-22
+
+- [Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case](https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html) — CNBC Top News · 07:42 PT · #markets #cannabis
+- [Wisconsin Democratic And GOP Governor Candidates Agree On Legalizing Marijuana In Some Form During Debate](https://www.marijuanamoment.net/wisconsin-democratic-and-gop-governor-candidates-agree-on-legalizing-marijuana-in-some-form-during-debate/) — Marijuana Moment · 06:59 PT · #business #cannabis
+- [Massachusetts Voters Think Legal Marijuana Has Been Good For The Economy, Criminal Justice And Communities, Poll Shows](https://www.marijuanamoment.net/massachusetts-voters-think-legal-marijuana-has-been-good-for-the-economy-criminal-justice-and-communities-poll-shows/) — Marijuana Moment · 05:52 PT · #business #cannabis
+- [Why Two New York Firefighters Are Suing The Government Over The Right To Use Medical Marijuana (Op-Ed)](https://www.marijuanamoment.net/why-two-new-york-firefighters-are-suing-the-government-over-the-right-to-use-medical-marijuana-op-ed/) — Marijuana Moment · 04:53 PT · #business #cannabis
+- [Design mistakes cannabis operators can’t afford to retrofit](https://mjbizdaily.com/news/design-mistakes-cannabis-operators-cant-afford-to-retrofit/618130/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
+- [DEA opposes cannabis rescheduling opponents’ move to delay hearing (Newsletter: October 22, 2026)](https://www.marijuanamoment.net/dea-opposes-cannabis-rescheduling-opponents-move-to-delay-hearing-newsletter-october-22-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis #civic
 
 ## 2026-10-21
 

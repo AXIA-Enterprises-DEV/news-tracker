@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $ERIC"
-updated: 2026-10-22T02:37:15-07:00
-count: 2
+updated: 2026-10-22T07:45:51-07:00
+count: 3
 tags: ["ticker", "ERIC"]
 ---
 
 # Ticker: $ERIC
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-22
+
+- [Vonage Wins Gold at Merit Awards for Technology](http://www.businesswire.com/news/home/20261022362216/en/Vonage-Wins-Gold-at-Merit-Awards-for-Technology/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 05:30 PT · #business #markets $ERIC
 
 ## 2026-10-15
 

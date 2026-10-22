@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $LMT"
-updated: 2026-10-22T02:37:15-07:00
-count: 2
+updated: 2026-10-22T07:45:51-07:00
+count: 3
 tags: ["ticker", "LMT"]
 ---
 
 # Ticker: $LMT
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-22
+
+- [New Framework Agreement for Multiyear F‑35 Production and Sustainment](https://www.prnewswire.com/news-releases/new-framework-agreement-for-multiyear-f35-production-and-sustainment-302916446.html) — PR Newswire Contracts · 03:10 PT · #business #foreign $LMT
 
 ## 2026-10-15
 

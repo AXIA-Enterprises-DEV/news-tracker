@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $NTCT"
-updated: 2026-10-22T02:37:15-07:00
-count: 8
+updated: 2026-10-22T07:45:51-07:00
+count: 9
 tags: ["ticker", "NTCT"]
 ---
 
 # Ticker: $NTCT
 
-8 most recent items (14-day window).
+9 most recent items (14-day window).
+
+## 2026-10-22
+
+- [NETSCOUT to Report Second Quarter Fiscal Year 2027 Financial Results on November 5th](http://www.businesswire.com/news/home/20261022554259/en/NETSCOUT-to-Report-Second-Quarter-Fiscal-Year-2027-Financial-Results-on-November-5th/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 05:30 PT · #business #markets $NTCT
 
 ## 2026-10-14
 

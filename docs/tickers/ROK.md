@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $ROK"
-updated: 2026-10-22T02:37:15-07:00
-count: 1
+updated: 2026-10-22T07:45:51-07:00
+count: 2
 tags: ["ticker", "ROK"]
 ---
 
 # Ticker: $ROK
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-22
+
+- [Rockwell Automation Expands FactoryTalk Conductor with NVIDIA Nemotron Support](https://www.prnewswire.com/news-releases/rockwell-automation-expands-factorytalk-conductor-with-nvidia-nemotron-support-302916890.html) — PR Newswire Contracts · 05:00 PT · #business #ai $ROK
 
 ## 2026-10-20
 

@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-22T02:37:15-07:00
+updated: 2026-10-22T07:45:51-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,18 @@ tags: ["category", "us"]
 
 ## 2026-10-22
 
+- [Louden Cahill leaving mark at Basic football with father, grandpa alongside](https://www.reviewjournal.com/nevada-preps/louden-cahill-leaving-mark-at-basic-football-with-father-grandpa-alongside-3903501/) — Las Vegas Review-Journal · 07:00 PT · #us #nevada
+- [Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war](https://www.reviewjournal.com/news/politics-and-government/iran-says-7-oil-tankers-attacked-in-the-strait-of-hormuz-as-fears-grow-of-a-return-to-war-3903494/) — Las Vegas Review-Journal · 06:47 PT · #us #foreign #nevada #oil
+- [Graney: Taylor Smith needs to surround Athletics with competence](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-taylor-smith-needs-to-surround-athletics-with-competence-3903483/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
+- [Exotic dancer sues Las Vegas club over alleged safety failures](https://www.reviewjournal.com/crime/courts/exotic-dancer-sues-las-vegas-club-over-alleged-safety-failures-3903480/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
+- [At 57, Catherine Zeta-Jones targets surprises, challenges](https://www.reviewjournal.com/livewell/at-57-catherine-zeta-jones-targets-surprises-challenges-3903473/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Vegas Loop Paradise extension still set to open for Grand Prix](https://www.reviewjournal.com/local/traffic/vegas-loop-paradise-extension-still-set-to-open-for-grand-prix-3903469/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [3 key steps during Medicare’s open enrollment period](https://www.reviewjournal.com/livewell/3-key-steps-during-medicares-open-enrollment-period-3903466/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
+- [Sale of once-prominent office park near Las Vegas Strip falls through](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/sale-of-once-prominent-office-park-near-las-vegas-strip-falls-through-3903454/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
+- [Savvy Senior: Why do women lose hair as they age?](https://www.reviewjournal.com/livewell/savvy-senior-why-do-women-lose-hair-as-they-age-3903450/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
+- [Las Vegas Valley to see scattered showers today as storm arrives](https://www.reviewjournal.com/local/weather/las-vegas-valley-to-see-scattered-showers-today-as-storm-arrives-3903446/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
+- [Trump budget cuts threaten late Redondo Beach couple's soccer refugee program](https://www.latimes.com/sports/soccer/story/2026-10-22/trump-budget-cuts-threaten-global-soccer-refugee-program) — World & Nation · 04:00 PT · #us
+- [The GOP’s harvest of discontent](https://www.politico.com/newsletters/playbook/2026/10/22/the-gops-harvest-of-discontent-01131524) — Playbook · 03:09 PT · #us
 - [Fernley commissioners step down over power plant brouhaha after lawyers lean in](https://thenevadaindependent.com/article/fernley-commissioners-step-down-over-power-plant-brouhaha-after-lawyers-lean-in/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [Here's where the money is flowing in Southern Nevada local government races](https://thenevadaindependent.com/article/heres-where-the-money-is-flowing-in-southern-nevada-local-government-races/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [Las Vegas concert lineup adds Tony winner Leslie Odom Jr. and posthardcore veterans Underoath](https://lasvegassun.com/news/2026/oct/22/las-vegas-concert-lineup-adds-tony-winner-leslie-o/) — Las Vegas Sun · 02:00 PT · #us #nevada
@@ -414,15 +426,3 @@ tags: ["category", "us"]
 - [Zelenskyy Urges Support For New U.S. Sanctions On Russia After Trump Puts Them On Hold](https://www.huffpost.com/entry/zelenskyy-urges-support-new-us-sanctions-russia-after-trump-hold_n_6ad37480e4b0ce24aed9f0c2) — World News - Breaking News, Top Stories · 06:19 PT · #us #foreign
 - [Raiders vs. Bills preview: How they match up, injuries, bold predictions](https://www.reviewjournal.com/sports/raiders/raiders-vs-bills-preview-how-they-match-up-injuries-bold-predictions-3901444/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [How a Raiders newcomer from Buffalo sees path toward building a contender](https://www.reviewjournal.com/sports/raiders/how-a-raiders-newcomer-from-buffalo-sees-path-toward-building-a-contender-3901431/) — Las Vegas Review-Journal · 06:00 PT · #us #markets #nevada
-- [Pope Leo Returns To The Vatican 4 Days After Lung Cancer Surgery](https://www.huffpost.com/entry/pope-leo-to-be-released-hospital-saturday-4-days-lung-cancer-surger_n_6ad35f25e4b0ce24aed9f08f) — World News - Breaking News, Top Stories · 04:51 PT · #us
-- [Our top takeaways from Nevada's new campaign finance reports](https://thenevadaindependent.com/article/our-top-takeaways-from-nevadas-new-campaign-finance-reports/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
-- [Banana Ball returns to Las Vegas for three games in March](https://lasvegassun.com/news/2026/oct/17/banana-ball-returns-to-las-vegas-for-three-games-i/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Reversing the decision to livestream an execution doesn't erase Trump's politics of cruelty](https://lasvegassun.com/news/2026/oct/17/reversing-the-decision-to-livestream-an-execution/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [El nuevo centro de Boulder City busca impulsar la creciente economía de la recreación al aire libre en Nevada](https://lasvegassun.com/news/2026/oct/17/el-nuevo-centro-de-boulder-city-busca-impulsar-la/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [New Boulder City hub aims to drive Nevada’s growing outdoor recreation economy](https://lasvegassun.com/news/2026/oct/17/new-boulder-city-hub-aims-to-drive-nevadas-growing/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [We're stuck with a quixotic president, for now](https://lasvegassun.com/news/2026/oct/17/were-stuck-with-a-quixotic-president-for-now/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada #oil
-- [Decline of morality starts from the top](https://lasvegassun.com/news/2026/oct/17/decline-of-morality-starts-from-the-top/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Why Putin says Russia could ‘cease to exist’ if it loses](https://lasvegassun.com/news/2026/oct/17/why-putin-says-russia-could-cease-to-exist-if-it-l/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
-- [Raise a family, then pursue a career? The math doesn’t work](https://lasvegassun.com/news/2026/oct/17/raise-a-family-then-pursue-a-career-the-math-doesn/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Patriarchy and machismo are fghting to hang on in an outdated world](https://lasvegassun.com/news/2026/oct/17/patriarchy-and-machismo-are-fighting-to-hang-on-in/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [AI’s risks are no reason for panic](https://lasvegassun.com/news/2026/oct/17/ais-risks-are-no-reason-for-panic/) — Las Vegas Sun · 02:00 PT · #us #ai #nevada

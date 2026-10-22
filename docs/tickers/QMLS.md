@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $QMLS"
-updated: 2026-10-22T02:37:15-07:00
-count: 1
+updated: 2026-10-22T07:45:51-07:00
+count: 2
 tags: ["ticker", "QMLS"]
 ---
 
 # Ticker: $QMLS
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-22
+
+- [QumulusAI Expands Closed Lease Financing With TFC to $123.6 Million, Funding Its NVIDIA Blackwell GPUs Without New Equity](http://www.businesswire.com/news/home/20261022858080/en/QumulusAI-Expands-Closed-Lease-Financing-With-TFC-to-123.6-Million-Funding-Its-NVIDIA-Blackwell-GPUs-Without-New-Equity/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 04:30 PT · #business #ai #markets $QMLS
 
 ## 2026-10-15
 
