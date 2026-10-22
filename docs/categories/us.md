@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-21T14:14:15-07:00
+updated: 2026-10-21T17:02:37-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,24 @@ tags: ["category", "us"]
 
 ## 2026-10-21
 
+- [Movie Review: 'Clayface' arrives as a pretty good R-rated revenge thriller-horror romance](https://lasvegassun.com/news/2026/oct/21/movie-review-clayface-arrives-as-a-pretty-good-r-r/) — Las Vegas Sun · 16:53 PT · #us #nevada
+- [Trump administration drops legal fight to overhaul student loan forgiveness program](https://lasvegassun.com/news/2026/oct/21/trump-administration-drops-legal-fight-to-overhaul/) — Las Vegas Sun · 16:49 PT · #us #nevada
+- [Clark County approves plans for 68-foot church in Spring Valley despite neighbor concerns](https://www.ktnv.com/neighborhoods/southwest-las-vegas/clark-county-approves-plans-for-68-foot-church-in-spring-valley-despite-neighbor-concerns) — KTNV Las Vegas · 16:36 PT · #us #nevada
+- [Roblox shareholder sues CEO, directors over age verification disclosures](https://www.reviewjournal.com/business/roblox-shareholder-sues-ceo-directors-over-age-verification-disclosures-3903271/) — Las Vegas Review-Journal · 16:27 PT · #us #nevada
+- [Fiore discipline case goes to commission for deliberations](https://www.reviewjournal.com/news/politics-and-government/fiore-discipline-case-goes-to-commission-for-deliberations-3903259/) — Las Vegas Review-Journal · 16:11 PT · #us #nevada
+- [‘Serious fight in front of us’: Former VP Harris rallies with Ford, Titus in Las Vegas](https://www.reviewjournal.com/news/politics-and-government/nevada/serious-fight-in-front-of-us-former-vp-harris-rallies-with-ford-titus-in-las-vegas-3903236/) — Las Vegas Review-Journal · 16:05 PT · #us #civic #nevada
+- [Kamala Harris rallies Culinary Union members in final push before Election Day](https://lasvegassun.com/news/2026/oct/21/kamala-harris-rallies-culinary-union-members-in-fi/) — Las Vegas Sun · 15:52 PT · #us #civic #nevada
+- [Autonomous taxi service Waymo begins service to Harry Reid International Airport](https://www.ktnv.com/news/autonomous-taxi-service-waymo-begins-service-to-harry-reid-international-airport) — KTNV Las Vegas · 15:50 PT · #us #nevada
+- [Man and woman dead in apparent murder-suicide in Henderson, police say](https://www.ktnv.com/news/crime/man-and-woman-dead-in-apparent-murder-suicide-in-henderson) — KTNV Las Vegas · 15:35 PT · #us #nevada
+- [Couple found dead in apparent murder-suicide, Henderson police say](https://www.reviewjournal.com/crime/homicides/couple-found-dead-in-apparent-murder-suicide-henderson-police-say-3903230/) — Las Vegas Review-Journal · 15:32 PT · #us #nevada
+- [Two elderly people dead in apparent murder-suicide, Henderson Police say](https://lasvegassun.com/news/2026/oct/21/two-elderly-people-dead-in-apparent-murder-suicide/) — Las Vegas Sun · 15:26 PT · #us #nevada
+- [Thursday night prediction: It’s hard not to like underdog Patriots over Bears](https://www.reviewjournal.com/sports/betting/thursday-night-prediction-its-hard-not-to-like-underdog-patriots-over-bears-3903225/) — Las Vegas Review-Journal · 15:14 PT · #us #nevada
+- [College football prediction: Look under total in East Carolina-Memphis game](https://www.reviewjournal.com/sports/betting/college-football-prediction-look-under-total-in-east-carolina-memphis-game-3903221/) — Las Vegas Review-Journal · 15:07 PT · #us #nevada
+- [Meta hit with $25-billion penalty for misleading Facebook users about data privacy](https://www.latimes.com/business/story/2026-10-21/meta-hit-with-25-billion-penalty-for-misleading-users-about-privacy) — World & Nation · 14:43 PT · #us
+- [Special education transportation aide arrested by CCSD police for child abuse](https://www.ktnv.com/news/crime/special-education-transportation-aide-arrested-by-ccsd-police-for-child-abuse) — KTNV Las Vegas · 14:43 PT · #us #nevada
+- [CCSD employee arrested, accused of child abuse, district says](https://www.reviewjournal.com/local/local-las-vegas/ccsd-employee-arrested-accused-of-child-abuse-district-says-3903213/) — Las Vegas Review-Journal · 14:42 PT · #us #nevada
+- [Veteran CCSD employee charged with child abuse and endangerment](https://lasvegassun.com/news/2026/oct/21/veteran-ccsd-employee-charged-with-child-abuse-and/) — Las Vegas Sun · 14:41 PT · #us #nevada
+- [Raiders get encouraging update in power rankings despite 3-game skid](https://www.reviewjournal.com/sports/raiders/raiders-get-encouraging-update-in-power-rankings-despite-3-game-skid-3903208/) — Las Vegas Review-Journal · 14:34 PT · #us #nevada
 - [Locals casino promotes UNLV grad to senior VP of operations](https://www.reviewjournal.com/business/vegas-business/people-on-the-move/locals-casino-promotes-unlv-grad-to-senior-vp-of-operations-3903196/) — Las Vegas Review-Journal · 13:45 PT · #us #nevada
 - [Homicide unit responds to man’s death in central Las Vegas Valley neighborhood](https://www.reviewjournal.com/local/local-las-vegas/homicide-unit-responds-to-mans-death-in-central-las-vegas-valley-neighborhood-3903183/) — Las Vegas Review-Journal · 13:17 PT · #us #nevada
 - [Las Vegas man sentenced for scheme to claim millions of dollars through false tax returns](https://lasvegassun.com/news/2026/oct/21/las-vegas-man-sentenced-for-scheme-to-claim-millio/) — Las Vegas Sun · 13:13 PT · #us #nevada
@@ -408,21 +426,3 @@ tags: ["category", "us"]
 - [Friday night roundup: High school football scores in Las Vegas](https://lasvegassun.com/news/2026/oct/16/friday-night-roundup-high-school-football-scores-i/) — Las Vegas Sun · 16:07 PT · #us #nevada
 - [De última hora: Arizona se suma a demanda de Nevada por los recortes del Río Colorado](https://thenevadaindependent.com/article/de-ultima-hora-arizona-se-suma-a-demanda-de-nevada-por-los-recortes-del-rio-colorado/) — The Nevada Independent · 16:06 PT · #us #nevada
 - [Shohei Ohtani's health and a possible lockout loom over an uncertain offseason for the Dodgers](https://lasvegassun.com/news/2026/oct/16/shohei-ohtanis-health-and-a-possible-lockout-loom/) — Las Vegas Sun · 16:05 PT · #us #nevada
-- [California officials who process ballots from suspected noncitizens risk prosecution, US warns](https://lasvegassun.com/news/2026/oct/16/california-officials-who-process-ballots-from-susp/) — Las Vegas Sun · 16:00 PT · #us #civic #nevada
-- [COMMENTARY: Fewer students should mean smarter schools, not permanent budgets](https://www.reviewjournal.com/opinion/commentary-fewer-students-should-mean-smarter-schools-not-permanent-budgets-3901171/) — Las Vegas Review-Journal · 15:47 PT · #us #nevada
-- [NFL trends, predictions: Bears, Colts show best chance to pay off](https://www.reviewjournal.com/sports/betting/nfl-trends-predictions-bears-colts-show-best-chance-to-pay-off-3901167/) — Las Vegas Review-Journal · 15:38 PT · #us #nevada
-- [Lombardo defends Nevada economic record, touts no new taxes](https://lasvegassun.com/news/2026/oct/16/lombardo-defends-nevada-economic-record-touts-no-n/) — Las Vegas Sun · 15:18 PT · #us #nevada
-- ['Drawing a line in the sand': Arizona joins Nevada's lawsuit over Colorado River cuts](https://thenevadaindependent.com/article/drawing-a-line-in-the-sand-arizona-joins-nevadas-lawsuit-over-colorado-river-cuts/) — The Nevada Independent · 14:46 PT · #us #nevada
-- [Cashman Field to see 1 last game before decades-old stadium is gone forever](https://www.reviewjournal.com/sports/cashman-field-to-see-1-last-game-before-decades-old-stadium-is-gone-forever-3901154/) — Las Vegas Review-Journal · 14:45 PT · #us #nevada
-- [Turnstile's Las Vegas stop provides a unifying catharsis among fans](https://lasvegasweekly.com/ae/music/2026/oct/16/turnstiles-las-vegas-the-amp-craig-ranch/) — Las Vegas Sun · 14:45 PT · #us #nevada
-- [Multiple Southern California homes are ablaze in a fast-moving wildfire fueled by hot, windy weather](https://lasvegassun.com/news/2026/oct/16/multiple-southern-california-homes-are-ablaze-in-a/) — Las Vegas Sun · 14:40 PT · #us #nevada
-- [SNHBA names Trilogy Sunstone Best 55+ Community of the Year](https://www.reviewjournal.com/homes/advertising-features/snhba-names-trilogy-sunstone-best-55-community-of-the-year-3901148/) — Las Vegas Review-Journal · 14:35 PT · #us #nevada
-- [Bills-Raiders tickets in high demand as Bills Mafia has first chance to visit Allegiant Stadium](https://www.reviewjournal.com/sports/raiders/bills-raiders-tickets-in-high-demand-as-bills-mafia-has-first-chance-to-visit-allegiant-stadium-3901143/) — Las Vegas Review-Journal · 14:21 PT · #us #nevada
-- [New hotel opening in North Las Vegas](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/new-hotel-opening-in-north-las-vegas-3901130/) — Las Vegas Review-Journal · 14:14 PT · #us #nevada
-- [NAR Chief Economist Lawrence Yun addresses Las Vegas Realtors](https://www.reviewjournal.com/homes/new-homes/nar-chief-economist-lawrence-yun-addresses-las-vegas-realtors-3901127/) — Las Vegas Review-Journal · 14:11 PT · #us #fed #nevada #realestate
-- [$5M slot jackpot hits at Las Vegas Strip casino](https://www.reviewjournal.com/business/casinos-gaming/5m-slot-jackpot-hits-at-las-vegas-strip-casino-3901123/) — Las Vegas Review-Journal · 14:04 PT · #us #nevada
-- [UNLV regents appoint Chris Heavey permanent president with $628K salary](https://www.reviewjournal.com/local/education/unlv-regents-appoint-chris-heavey-permanent-president-with-628k-salary-3901120/) — Las Vegas Review-Journal · 14:02 PT · #us #nevada
-- [Las Vegas business-booster group changes name](https://www.reviewjournal.com/business/vegas-business/bizfeed/las-vegas-business-booster-group-changes-name-3901113/) — Las Vegas Review-Journal · 13:57 PT · #us #nevada
-- [Road to Vegas: 5 matchups to watch in Week 7 of college football](https://www.reviewjournal.com/sports/football/road-to-vegas-5-matchups-to-watch-in-week-7-of-college-football-3901108/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
-- [Beware the option: UNLV football flies into Air Force for MW game](https://www.reviewjournal.com/sports/unlv/unlv-football/beware-the-option-unlv-football-flies-into-air-force-for-mw-game-3901104/) — Las Vegas Review-Journal · 13:41 PT · #us #nevada
-- [Summerlin’s Grand Park village offers options](https://www.reviewjournal.com/homes/advertising-features/summerlins-grand-park-village-offers-options-3901099/) — Las Vegas Review-Journal · 13:29 PT · #us #nevada

@@ -1,16 +1,17 @@
 ---
 title: "Ticker: $CC"
-updated: 2026-10-21T14:14:15-07:00
-count: 3
+updated: 2026-10-21T17:02:37-07:00
+count: 4
 tags: ["ticker", "CC"]
 ---
 
 # Ticker: $CC
 
-3 most recent items (14-day window).
+4 most recent items (14-day window).
 
 ## 2026-10-21
 
+- [The Chemours Company (CC) Class Action Lawsuit Seeks Recovery for Investors; December 7, 2026 Deadline- Contact Kessler Topaz Meltzer & Check, LLP](https://www.prnewswire.com/news-releases/the-chemours-company-cc-class-action-lawsuit-seeks-recovery-for-investors-december-7-2026-deadline--contact-kessler-topaz-meltzer--check-llp-302916008.html) — PR Newswire M&A · 16:15 PT · #business $CC
 - [Chemours Announces Dates for Third Quarter 2026 Earnings Release and Webcast Conference Call](https://www.prnewswire.com/news-releases/chemours-announces-dates-for-third-quarter-2026-earnings-release-and-webcast-conference-call-302915935.html) — PR Newswire M&A · 13:30 PT · #business #markets $CC
 
 ## 2026-10-19

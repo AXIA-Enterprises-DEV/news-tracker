@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-21T14:14:15-07:00
-count: 131
+updated: 2026-10-21T17:02:37-07:00
+count: 130
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-131 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+130 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-21
 
+- [Nebraska cannabis growers face up to 2-year wait to sell products](https://mjbizdaily.com/news/nebraska-cannabis-growers-face-up-to-2-year-wait-to-sell-products/618795/) — MJBizDaily · 14:33 PT · #business #cannabis #smallbiz
 - [Cannabis MSO Vireo deepens Florida foothold with latest $21 million purchase](https://mjbizdaily.com/news/cannabis-mso-vireo-deepens-florida-foothold-with-latest-21-million-purchase/618782/) — MJBizDaily · 13:24 PT · #business #cannabis #smallbiz
 - [DEA Opposes Marijuana Rescheduling Opponents’ Request For New Testimony And Document Discovery In Ongoing Hearing](https://www.marijuanamoment.net/dea-opposes-marijuana-rescheduling-opponents-request-for-new-testimony-and-document-discovery-in-ongoing-hearing/) — Marijuana Moment · 13:20 PT · #business #cannabis
 - [Trump CBD reimbursement program stalls ahead of federal hemp ban](https://mjbizdaily.com/news/trump-cbd-reimbursement-program-stalls-ahead-of-federal-hemp-ban/618772/) — MJBizDaily · 11:17 PT · #business #cannabis #smallbiz
@@ -173,8 +174,3 @@ tags: ["project", "cannabis"]
 - [Washington state to tweak cannabis rules to comply with federal marijuana rescheduling](https://mjbizdaily.com/news/washington-state-to-tweak-cannabis-rules-to-comply-with-federal-marijuana-rescheduling/618570/) — MJBizDaily · 13:17 PT · #business #cannabis #smallbiz
 - [What Happens When AI Stops Just Finding Problems, And Starts Acting On Them?](https://mjbizdaily.com/sponsored/what-happens-when-ai-stops-just-finding-problems-and-starts-acting-on-them/618405/) — MJBizDaily · 08:00 PT · #business #ai #cannabis
 - [How investing in cannabis worker training boosts operators’ margins](https://mjbizdaily.com/news/cannabis-front-line-workers-deserve-training-that-follows-them/618395/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
-
-## 2026-10-07
-
-- [Georgia medical cannabis continues to grow rapidly despite lack of DEA guidance](https://mjbizdaily.com/news/georgia-medical-cannabis-continues-to-grow-rapidly-despite-lack-of-dea-guidance/618548/) — MJBizDaily · 16:30 PT · #business #cannabis #markets #smallbiz
-- [Third New Jersey cannabis operator sues to overturn labor peace requirement](https://mjbizdaily.com/news/third-new-jersey-cannabis-operator-sues-to-overturn-labor-peace-requirement/618536/) — MJBizDaily · 15:15 PT · #business #cannabis #smallbiz

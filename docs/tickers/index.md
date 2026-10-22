@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-21T14:14:15-07:00
+updated: 2026-10-21T17:02:37-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -16,13 +16,13 @@ tags: ["tickers"]
 - [$GIL](GIL.md) — 5 items
 - [$FORR](FORR.md) — 5 items
 - [$RMNI](RMNI.md) — 5 items
+- [$DOCS](DOCS.md) — 4 items
+- [$CC](CC.md) — 4 items
 - [$RTX](RTX.md) — 4 items
 - [$ASTS](ASTS.md) — 4 items
 - [$YSS](YSS.md) — 4 items
-- [$CC](CC.md) — 3 items
 - [$CRWV](CRWV.md) — 3 items
 - [$JKS](JKS.md) — 3 items
-- [$DOCS](DOCS.md) — 3 items
 - [$LINC](LINC.md) — 3 items
 - [$BBNX](BBNX.md) — 3 items
 - [$INV](INV.md) — 3 items
@@ -32,6 +32,7 @@ tags: ["tickers"]
 - [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$HIMS](HIMS.md) — 2 items
 - [$DOV](DOV.md) — 2 items
 - [$IBM](IBM.md) — 2 items
 - [$BP](BP.md) — 2 items
@@ -77,6 +78,11 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$NSC](NSC.md) — 1 items
+- [$DNB](DNB.md) — 1 items
+- [$DUOL](DUOL.md) — 1 items
+- [$DRCT](DRCT.md) — 1 items
+- [$AMCR](AMCR.md) — 1 items
 - [$MSTR](MSTR.md) — 1 items
 - [$VET](VET.md) — 1 items
 - [$CIVB](CIVB.md) — 1 items
@@ -107,6 +113,7 @@ tags: ["tickers"]
 - [$PBF](PBF.md) — 1 items
 - [$OPTU](OPTU.md) — 1 items
 - [$FHN](FHN.md) — 1 items
+- [$ERO](ERO.md) — 1 items
 - [$HELP](HELP.md) — 1 items
 - [$WFF](WFF.md) — 1 items
 - [$XMR](XMR.md) — 1 items
@@ -203,7 +210,6 @@ tags: ["tickers"]
 - [$SLGN](SLGN.md) — 1 items
 - [$ESLT](ESLT.md) — 1 items
 - [$AVEX](AVEX.md) — 1 items
-- [$HIMS](HIMS.md) — 1 items
 - [$BCS](BCS.md) — 1 items
 - [$PBR](PBR.md) — 1 items
 - [$OXY](OXY.md) — 1 items
@@ -301,9 +307,3 @@ tags: ["tickers"]
 - [$UA](UA.md) — 1 items
 - [$WAY](WAY.md) — 1 items
 - [$SWX](SWX.md) — 1 items
-- [$WEX](WEX.md) — 1 items
-- [$EQT](EQT.md) — 1 items
-- [$EFOR](EFOR.md) — 1 items
-- [$BSRT](BSRT.md) — 1 items
-- [$BSRT.U](BSRT.U.md) — 1 items
-- [$BDN](BDN.md) — 1 items

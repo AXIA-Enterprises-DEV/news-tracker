@@ -1,6 +1,6 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-21T14:14:15-07:00
+updated: 2026-10-21T17:02:37-07:00
 count: 400
 tags: ["project", "fed"]
 ---
@@ -11,6 +11,8 @@ tags: ["project", "fed"]
 
 ## 2026-10-21
 
+- [Pay Off Debt Above 8% Before Investing – But Take the 401(k) Match First](https://www.moneycrashers.com/pay-off-debt-or-invest/) — Money Crashers · 16:05 PT · #markets #fed
+- [US Housing Data Weaken Again as Federal Reserve Weighs More Rate Hikes - streamlinefeed.co.ke](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdENoaVVSSG0wSkxleUs3aVpOTDczNzgyQ1FsN0U1NG5sOWloVGVZZ3RiU1ByODcwRjBRamhqTEFHbXFub1lFbVBJUmY0UFZLLW5mOTFTVkZHRUhoTi1RXzFTTmNuNjhjTTREOEFwbkVGU3NrdjRzdzIxQVRpM1l0cXVPZi05eWFpbmgwVzBIMWM0b0RiemZFYVhYQmJwbW5sMVFVNXJNZw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 11:19 PT · #markets #fed
 - [US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms) — Economic Times · 10:49 PT · #business #ai #fed
 - [Forecast Shows Car Dealer Sales Flattening In 2027 As Spending Slows](https://www.forbes.com/sites/billconerly/2026/10/21/forecast-shows-car-dealer-sales-flattening-in-2027-as-spending-slows/) — Forbes - Business · 10:39 PT · #business #fed
 - [Interest rates should be raised as insurance against persistent inflation – economist](https://seekingalpha.com/news/4655415-interest-rates-should-be-raised-as-insurance-against-persistent-inflation-economist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 10:19 PT · #markets #fed
@@ -427,5 +429,3 @@ tags: ["project", "fed"]
 - [Did mortgage rates just peak or is this some bond market madness?](https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/) — HousingWire · 10:24 PT · #business #fed #oil #realestate
 - [Bitcoin Price Rebounds Above $82K After Brief Dip Below $80K](https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-above-82k-after-brief-dip-below-80k/) — Bitcoin News · 10:10 PT · #markets #fed
 - [Uncertainty grows on Main Street as labor quality, inflation top small business concerns in September: NFIB survey - ROI-NJ](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVEFoZ2NQdDNGOHF1YmhaV1dmdi1vZHRVYTUzX3lkU2dpc3lvNk5xVWxSckg3YUxSMnIxTEFpZ3Uzc3VxWGpWRkZWbGVSNkFvTGhRZFdEcWtmYUZLVU1TZ1RBNlhaUWdIS3lQUlhTbG1zbkNlUlR1c09tWWtWbjcwTUNmZjUyU1pua1dlanFMcWFTRzJqdVMwVXhycFBqMFJmSFhaalhKY3BPTmFUbDJJaXBnRVJCNUZYdGFHN21NMHRiOXBUMHhqeWFKZDBEMkpubkh1Uk8wTnFwYWJERVQ0cGtrMVNuNHRndnJfMw?oc=5) — Google News: small business owners · 09:18 PT · #business #fed #smallbiz
-- [Treasury yields slide as investors flee to safety of bonds amid tech rout](https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html) — CNBC Top News · 09:14 PT · #markets #fed
-- [Tech sell-off rolls on as hot inflation data stokes rate worries - The Korea Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkdtT2RiTk54T2VxbFF1NUtOYVBBbGFsX1FqRXJoZjdIdWN4R0VqNnJjcFdqUmpNYnlRZ0JVSFUwU21KZG1xVVl1ZDBIQW5ZLVpFTW5YNkNEdFVVQmVodHN2RHlFNmtxMEtkcFhYbDZfLUhIRkI3aVBKZHdfMTFtVTlCYUVFTjc3ZDBEdDg5Z25EOTJfLThRQUhpbXBkYkotU1VYZGZOQTFsUWVP0gGyAUFVX3lxTE5GU3pZeWNYSzgxbVFULWhMbG94THd5Y3dnQlZEMG5HV1dLTE1WdmREbXNQMElsTnZPckUtTFBxbnp5azhHWDFhckx1Y1B5a3pGdDh5UEhKcm4zdGNsR0UydTJPLTE5QXpJcndYU1VTckRIWERWX2FiaGMxcGluOUxYRlN3aXU3aHZFMHZRVkNOLWljMVlGWHpNS1lBazNiS2RNQjFWQzNUZWhxXzVzZTc0MWc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 09:03 PT · #markets #fed

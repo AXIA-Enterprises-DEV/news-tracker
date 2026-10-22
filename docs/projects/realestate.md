@@ -1,6 +1,6 @@
 ---
 title: "Project: Las Vegas Real Estate / Auctions"
-updated: 2026-10-21T14:14:15-07:00
+updated: 2026-10-21T17:02:37-07:00
 count: 400
 tags: ["project", "realestate"]
 ---
@@ -11,6 +11,10 @@ tags: ["project", "realestate"]
 
 ## 2026-10-21
 
+- [4 - Bluerock Private Real Estate Fund (0001551047) (Issuer)](https://www.sec.gov/Archives/edgar/data/1551047/000139834426018550/0001398344-26-018550-index.htm) — SEC EDGAR All Filings · 15:21 PT · #filings #markets #realestate
+- [FIBRA Prologis Announces Third Quarter 2026 Earnings Results](https://www.prnewswire.com/news-releases/fibra-prologis-announces-third-quarter-2026-earnings-results-302916084.html) — PR Newswire General Business · 15:11 PT · #business #markets #realestate
+- [FIBRA Prologis Declares Quarterly Distribution](https://www.prnewswire.com/news-releases/fibra-prologis-declares-quarterly-distribution-302916080.html) — PR Newswire General Business · 15:06 PT · #business #realestate
+- [Bay Area ADU initiative could lay path for aging in place](https://www.housingwire.com/articles/bay-area-adu-initiative-could-lay-path-for-aging-in-place/) — HousingWire · 14:32 PT · #business #realestate
 - [White House executive order would seek to cut mortgage costs](https://www.housingwire.com/articles/trump-executive-order-housing-costs-mortgage/) — HousingWire · 14:13 PT · #business #realestate
 - [ABS-15G - Benchmark 2026-V24 Mortgage Trust (0002153060) (Issuing Entity)](https://www.sec.gov/Archives/edgar/data/2153060/000153949726002732/0001539497-26-002732-index.htm) — SEC EDGAR All Filings · 14:12 PT · #filings #markets #realestate
 - [8-K - NETSTREIT Corp. (0001798100) (Filer)](https://www.sec.gov/Archives/edgar/data/1798100/000162828026066735/0001628280-26-066735-index.htm) — SEC EDGAR 8-K · 13:39 PT · #filings #markets #realestate
@@ -422,7 +426,3 @@ tags: ["project", "realestate"]
 - [Candidates pitch housing affordability fixes as a midterm gambit - HousingWire](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmVVYmQ0TTNZdmZOZlg5Yzl3NWF3eFA0TkVJd1I3UjBDQkN1SUpfQkIwQVRkcGVoS0NiLW5MWUdlMkN0QXJDdEYtNHQtenlvSWJjdWxpX0QzOFNjS284bXZJNkkzcnJObENRSXRmMGZDLVBfQWlHRU1jTW5USS1fQzNDMVk?oc=5) — Google News: Las Vegas real estate · 07:15 PT · #business #realestate
 - [Mortgage Rates Today, Friday, October 16: A Little Higher](https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-friday-october-16-2026) — NerdWallet · 07:15 PT · #markets #realestate
 - [Candidates pitch housing affordability fixes as a midterm gambit](https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/) — HousingWire · 07:13 PT · #business #realestate
-- [California's Central Valley Dominates Industrial Boomtown Ranking - Kingsbarn Realty Capital](https://news.google.com/rss/articles/CBMibkFVX3lxTE81akFlUnhKVnREQU9kRFQ5OHdSMW54WXlFa0t3Y2tzYUJSS1lRQXU0cVFKUzVJMjhlcktpcUJqM3RlSkt1YnN1NkZsc0hpWmVSM2ZHQk0tbFlPM2sxaGVsSmc1NzZnSUY1VVZaT0dR?oc=5) — Google News: Las Vegas real estate · 07:01 PT · #business #realestate
-- [Boxing legend George Foreman's Huffman estate in Texas up for grabs for $6 million - The Economic Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ1hLVmdpaGJTdlVqSWdIUXotUk5ockV2dXVVNmd6VFFjaERBVmdnOHVjdFB2ZUlaNG04SEgwUF9vbnUyQmZVRXFwSXFqRkR5bEtqRVZfZ2FMOXg4azd5N3RicjBibC1OQlpXak5lT0NuZjlDdmZLS3FvWTgtS3QtOThJelJhVWdEb3VwWlJ4TGktUUpxNnVKV2wwTFV5REVEMTVnUVRXT00zazlEdU0zaVI1SXJsS2ZzZWIzWlJWYTcwV3dPWk9KZDhaVjdaTXRVSmhBOEI1TGlvdlJNc2hWdjBoeGo2cFnSAewBQVVfeXFMTk1mQzBpNzNkN0trSnZnNzdUY1I1WVNZT2hUalh1cTFid1lkVGtSMHFDSGFRN3FsdWMwWnBVaGxyLW1mRUdVLV95Mk9xSnV0QU9ReFk1RDhFODc0SktpQXEtcUhkb01VNmFQUXA3dnhOZno1SmJ0cmpnazlDdEotVzYyQ0VvcjY1dy12ME15LXl5cktva2hhWWVhVTJWM3RZZ2NCYXJ0TlZzNUVZcVJIQW5sejNINWR0cDBsN0FQQUliVVA0bXM0MDRyeGpheXh1WTB4ZkRhajFUcEdjd0Jid0pNRFpXYThXLUwzXzk?oc=5) — Google News: Las Vegas real estate · 06:45 PT · #business #realestate
-- [Daimler Truck says Oregon employee embezzled $3.8 million for vacations, gas, landscaping and Uber Eats - OregonLive.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlRPNWJTN2FueXVyTjM3UUhkMEZQaE9SZ0V1NXh5dlpIZmtKU3BhekdSZW9jRTAxc2RBbmxleVN0bWJScVNBN1RPT21aZzdHa25jeWFsV2FWMVpqeEdiNFdRY1FfTGJwZGRJMm9neEhXZnNqWE1SaDExT0xPN2NOS0xOQnc2c1p2RHA0UzRWdG56TDd3SGtPRUJPUkVxU3BhVGV3YTY3TnR5ZTBFbFMzYjZqYldVTm41cWU5VkN1N3hIdzRhM3FjZDZ4Tkgta3ZaOGM1SVQzanJZRnVZanU1N3V30gH2AUFVX3lxTFByakJSMHZKTllDdzM4bEhUQ1N3dXVKWVdqR0hRZk9EbDdMWUtHUXdjbjlxYjVVOXgxOFI0NjB0NG81eV9zdWMwSm13T2pGS1FTc2dueDY1eUlQM25INkZNaDlLQmZTNzYzS3NJNndYTm5TczJUSTgwYWZXQ1VuSXNOZDNOSXVyOWZYalp4SFhZTmltUGhDUGstbFpjNzRqZndqOVJ1NERUZ3JLdW53enBnblFGODlkc2pqN2RBRWhmZUFlTnZ0b2xXSWVoRHlSMEtfUlpXTDV2ei0zbEVsSFJnYVVkZE9HeFN1My1rby1SVWljdFZUQQ?oc=5) — Google News: Las Vegas real estate · 06:02 PT · #business #realestate
-- [AI voice agents target real estate’s next conversion opportunity](https://www.housingwire.com/articles/ai-voice-real-estate-leads/) — HousingWire · 06:00 PT · #business #ai #realestate

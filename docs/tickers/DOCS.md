@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $DOCS"
-updated: 2026-10-21T14:14:15-07:00
-count: 3
+updated: 2026-10-21T17:02:37-07:00
+count: 4
 tags: ["ticker", "DOCS"]
 ---
 
 # Ticker: $DOCS
 
-3 most recent items (14-day window).
+4 most recent items (14-day window).
+
+## 2026-10-21
+
+- [INVESTOR NOTICE: Doximity, Inc. (NYSE: DOCS) Investors with Substantial Losses May Seek to Lead Class Action Lawsuit Before November 16, 2026 Deadline](https://www.prnewswire.com/news-releases/investor-notice-doximity-inc-nyse-docs-investors-with-substantial-losses-may-seek-to-lead-class-action-lawsuit-before-november-16-2026-deadline-302916017.html) — PR Newswire M&A · 16:45 PT · #business #markets $DOCS
 
 ## 2026-10-20
 

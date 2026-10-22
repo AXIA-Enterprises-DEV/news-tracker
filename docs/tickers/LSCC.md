@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $LSCC"
-updated: 2026-10-21T14:14:15-07:00
+updated: 2026-10-21T17:02:37-07:00
 count: 6
 tags: ["ticker", "LSCC"]
 ---
