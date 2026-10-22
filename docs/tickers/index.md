@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-21T21:35:02-07:00
+updated: 2026-10-22T02:37:15-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -16,6 +16,7 @@ tags: ["tickers"]
 - [$GIL](GIL.md) — 5 items
 - [$FORR](FORR.md) — 5 items
 - [$RMNI](RMNI.md) — 5 items
+- [$FROG](FROG.md) — 4 items
 - [$INV](INV.md) — 4 items
 - [$DOCS](DOCS.md) — 4 items
 - [$CC](CC.md) — 4 items
@@ -41,7 +42,6 @@ tags: ["tickers"]
 - [$LDOS](LDOS.md) — 2 items
 - [$HPE](HPE.md) — 2 items
 - [$CDW](CDW.md) — 2 items
-- [$FROG](FROG.md) — 2 items
 - [$DKS](DKS.md) — 2 items
 - [$PZZA](PZZA.md) — 2 items
 - [$HONA](HONA.md) — 2 items
@@ -79,6 +79,10 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$CAS](CAS.md) — 1 items
+- [$CVS](CVS.md) — 1 items
+- [$KTOS](KTOS.md) — 1 items
+- [$UMC](UMC.md) — 1 items
 - [$WDAY](WDAY.md) — 1 items
 - [$GLND](GLND.md) — 1 items
 - [$NSC](NSC.md) — 1 items
@@ -303,7 +307,3 @@ tags: ["tickers"]
 - [$WHF](WHF.md) — 1 items
 - [$VIAV](VIAV.md) — 1 items
 - [$EAT](EAT.md) — 1 items
-- [$REPX](REPX.md) — 1 items
-- [$AEE](AEE.md) — 1 items
-- [$ED](ED.md) — 1 items
-- [$UA](UA.md) — 1 items

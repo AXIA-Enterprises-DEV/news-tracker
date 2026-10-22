@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-21T21:35:02-07:00
+updated: 2026-10-22T02:37:15-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -9,8 +9,20 @@ tags: ["category", "science"]
 
 400 most recent items (14-day window).
 
+## 2026-10-22
+
+- [Cost of electricity from investor-owned vs. public](https://flowingdata.com/2026/10/22/cost-of-electricity-from-investor-owned-vs-public/) — FlowingData · 02:13 PT · #science
+- [India capital steps up air pollution controls ahead of winter](https://phys.org/news/2026-10-india-capital-air-pollution-winter.html) — Phys.org - latest science and technology news stories · 02:10 PT · #science
+- [Earth and Mars May Have Formed in Weirdly Different Ways](https://www.nytimes.com/2026/10/22/science/space/earth-mars-formed-different.html) — NYT > Science · 02:01 PT · #science
+- [Alzheimer’s Researchers Look at an Unusual Data Point: Head Shape](https://www.nytimes.com/2026/10/22/science/alzheimers-disease-brain-head-shape.html) — NYT > Science · 02:00 PT · #science
+- [US is a big reason for the world losing ground in the fight against climate change, UN report says](https://phys.org/news/2026-10-big-world-ground-climate.html) — Phys.org - latest science and technology news stories · 01:50 PT · #science
+- [Taiwan issues warnings as Typhoon Champi nears](https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html) — Phys.org - latest science and technology news stories · 01:38 PT · #science #foreign
+
 ## 2026-10-21
 
+- [Nothing Really Matters - Hugh Dennis, Ria Lina, Harry Cliff and Yvette Fuentes](http://www.bbc.co.uk/programmes/m00333b1) — The Infinite Monkey Cage · 23:00 PT · #science
+- [APOD: 2026 October 22 – The First Green Star, WD J1330+6435](https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/) — NASA · 21:05 PT · #science
+- [Fires Char New Guinea](https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/) — NASA · 21:01 PT · #science
 - [Baby manta rays hunker down close to coasts before facing the open ocean's dangers](https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html) — Phys.org - latest science and technology news stories · 21:00 PT · #science
 - [Baby manta rays stick to the shallows to avoid sharks and orca](https://www.popsci.com/environment/baby-manta-rays-shallows/) — Popular Science · 21:00 PT · #science
 - [When powerful women are remembered as witches, we should challenge the historical motive](https://phys.org/news/2026-10-powerful-women-witches-historical.html) — Phys.org - latest science and technology news stories · 20:40 PT · #science
@@ -408,12 +420,3 @@ tags: ["category", "science"]
 - [How to watch Japan’s mission to Mars](https://www.popsci.com/science/how-to-watch-japans-mission-to-mars/) — Popular Science · 09:27 PT · #science
 - [Ancient technique can improve the bland taste of beans](https://phys.org/news/2026-10-ancient-technique-bland-beans.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
 - [Giving AI a 'crystal clear' view of the materials world by mapping geometry to text](https://phys.org/news/2026-10-ai-crystal-view-materials-world.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science #ai
-- [Do You Have Trouble Sleeping?](https://www.hiddenbrain.org/) — Hidden Brain · 09:04 PT · #science
-- [Martian Dawn](https://www.nasa.gov/image-article/martian-dawn/) — NASA · 09:03 PT · #science
-- ['24/7 unmanned synthesis platform' uses robots and light to produce drug candidates](https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science #ai
-- [Researchers use artificial intelligence to design potential antiviral compounds](https://phys.org/news/2026-10-artificial-intelligence-potential-antiviral-compounds.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science #ai
-- [Context is key in how people understand language](https://phys.org/news/2026-10-context-key-people-language.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
-- [X-rays reveal surprisingly long-lived spin waves in copper oxide](https://phys.org/news/2026-10-rays-reveal-copper-oxide.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science #ai
-- [UN climate panel head wants swift end to deadlock over key scientific report](https://phys.org/news/2026-10-climate-panel-swift-deadlock-key.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
-- [Imagine a social media algorithm that prioritizes trust over outrage](https://phys.org/news/2026-10-social-media-algorithm-prioritizes-outrage.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science #foreign #media
-- [How plants unwittingly help fungal pathogens](https://phys.org/news/2026-10-unwittingly-fungal-pathogens.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science

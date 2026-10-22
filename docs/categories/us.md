@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-21T21:35:02-07:00
+updated: 2026-10-22T02:37:15-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -9,8 +9,32 @@ tags: ["category", "us"]
 
 400 most recent items (14-day window).
 
+## 2026-10-22
+
+- [Fernley commissioners step down over power plant brouhaha after lawyers lean in](https://thenevadaindependent.com/article/fernley-commissioners-step-down-over-power-plant-brouhaha-after-lawyers-lean-in/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [Here's where the money is flowing in Southern Nevada local government races](https://thenevadaindependent.com/article/heres-where-the-money-is-flowing-in-southern-nevada-local-government-races/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [Las Vegas concert lineup adds Tony winner Leslie Odom Jr. and posthardcore veterans Underoath](https://lasvegassun.com/news/2026/oct/22/las-vegas-concert-lineup-adds-tony-winner-leslie-o/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Many states deciding control of the Senate are seeing a big boost in early voting, AP analysis shows](https://lasvegassun.com/news/2026/oct/22/many-states-deciding-control-of-the-senate-are-see/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [Big Las Vegas show closures mark a transitional time for Strip entertainment](https://lasvegasweekly.com/ae/2026/oct/22/big-las-vegas-show-closures-mark-a-transition/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Proposed business district would put the Arts District’s future in property owners’ hands](https://lasvegasweekly.com/news/2026/oct/22/proposed-business-district-arts-district-future/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Community briefs: Atomic Museum will screen Cuban Missile Crisis film](https://lasvegassun.com/news/2026/oct/22/community-briefs-atomic-museum-screen-cuban-missil/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada #smallbiz
+- [La propuesta electoral sobre la identificación de votantes en Nevada enfrenta poca oposición pública por parte de los demócratas del estado](https://lasvegassun.com/news/2026/oct/22/la-propuesta-electoral-sobre-la-identificacin-de-v/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Vegas pick'em: NFL Week 7 winners against the spread](https://lasvegassun.com/blogs/talking-points/2026/oct/22/vegas-picks-nfl-week7-against-spread-vegas-sportsb/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Business briefs: Rio opens Dragon Lair gaming room](https://lasvegassun.com/news/2026/oct/22/business-briefs-rio-opens-dragon-lair-gaming-room/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Rookie on the rise: Connelly on pace to smash Golden Knights’ 1st-year records](https://lasvegassun.com/news/2026/oct/22/rookie-on-the-rise-connelly-on-pace-to-smash-golde/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Global threats and mental health experts highlight the danger of Trump's leadership](https://lasvegassun.com/news/2026/oct/22/global-threats-and-mental-health-experts-highlight/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Red Cross of Southern Nevada urges type O blood donations to avert holiday shortage](https://lasvegassun.com/news/2026/oct/22/red-cross-of-southern-nevada-urges-type-o-blood-do/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Nevada voter ID ballot measure faces little public pushback from state Democrats](https://lasvegassun.com/news/2026/oct/22/nevada-voter-id-ballot-measure-faces-little-public/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [France’s fiscal mess has only one true solution](https://lasvegassun.com/news/2026/oct/22/frances-fiscal-mess-has-only-one-true-solution/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Americans are becoming increasingly violent toward judges, risking our democracy](https://lasvegassun.com/news/2026/oct/22/americans-are-becoming-increasingly-violent-toward/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Científico de Nevada ayuda a registrar especies 'perdidas' mientras se documentan menos especies en riesgo](https://thenevadaindependent.com/article/cientifico-de-nevada-ayuda-a-registrar-especies-perdidas-mientras-se-documentan-menos-especies-en-riesgo/) — The Nevada Independent · 01:15 PT · #us #nevada
+
 ## 2026-10-21
 
+- [Wednesday’s Nevada Preps high school scoreboard](https://www.reviewjournal.com/nevada-preps/wednesdays-nevada-preps-high-school-scoreboard-3903412/) — Las Vegas Review-Journal · 23:23 PT · #us #nevada
+- [No. 4 Coronado beats Liberty in 5A girls soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-4-coronado-beats-liberty-in-5a-girls-soccer-photos-3903373/) — Las Vegas Review-Journal · 23:22 PT · #us #nevada
+- [Candlelight vigil in Henderson honors domestic violence victims, offers hope to survivors](https://www.ktnv.com/news/candlelight-vigil-in-henderson-honors-domestic-violence-victims-offers-hope-to-survivors) — KTNV Las Vegas · 22:32 PT · #us #nevada
+- [Kamala Harris se reúne con miembros del Sindicato de Trabajadores Culinarios en el último impulso antes del día de las elecciones](https://lasvegassun.com/news/2026/oct/21/kamala-harris-se-rene-con-miembros-del-sindicato-d/) — Las Vegas Sun · 21:40 PT · #us #nevada
 - [CARTOONS: Six Flags tries out a new name](https://www.reviewjournal.com/opinion/drawing-board/cartoons-six-flags-tries-out-a-new-name-3903360/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
 - [LETTER: Lawsuits over the Colorado](https://www.reviewjournal.com/opinion/letters/letter-lawsuits-over-the-colorado-3903357/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
 - [LETTER: Live-streaming an execution](https://www.reviewjournal.com/opinion/letters/letter-live-streaming-an-execution-3903354/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
@@ -402,27 +426,3 @@ tags: ["category", "us"]
 - [Raise a family, then pursue a career? The math doesn’t work](https://lasvegassun.com/news/2026/oct/17/raise-a-family-then-pursue-a-career-the-math-doesn/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Patriarchy and machismo are fghting to hang on in an outdated world](https://lasvegassun.com/news/2026/oct/17/patriarchy-and-machismo-are-fighting-to-hang-on-in/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [AI’s risks are no reason for panic](https://lasvegassun.com/news/2026/oct/17/ais-risks-are-no-reason-for-panic/) — Las Vegas Sun · 02:00 PT · #us #ai #nevada
-
-## 2026-10-16
-
-- [Basic, Green Valley advance to Division II Superintendent’s Cup final](https://www.reviewjournal.com/nevada-preps/basic-green-valley-advance-to-division-ii-superintendents-cup-final-3901404/) — Las Vegas Review-Journal · 23:42 PT · #us #nevada
-- [5A state tennis: Coronado girls duo perseveres for doubles state title](https://www.reviewjournal.com/nevada-preps/5a-state-tennis-coronado-girls-duo-perseveres-for-doubles-state-title-3901377/) — Las Vegas Review-Journal · 23:39 PT · #us #nevada
-- [Centennial football shocks Liberty for spot in championship game](https://lasvegassun.com/news/2026/oct/16/centennial-football-shocks-liberty-for-spot-in-cha/) — Las Vegas Sun · 23:02 PT · #us #nevada
-- [Friday’s Nevada Preps high school sports scoreboard](https://www.reviewjournal.com/nevada-preps/fridays-nevada-preps-high-school-sports-scoreboard-3901360/) — Las Vegas Review-Journal · 22:20 PT · #us #nevada
-- [Centennial takes down Liberty in OT, advances to Division I title game](https://www.reviewjournal.com/nevada-preps/centennial-triumphs-over-liberty-in-overtime-advances-to-division-i-title-game-3901346/) — Las Vegas Review-Journal · 22:18 PT · #us #nevada
-- [Arbor View crushes Coronado to reach Superintendents Cup final — PHOTOS](https://www.reviewjournal.com/nevada-preps/arbor-view-crushes-coronado-to-reach-superintendents-cup-final-photos-3901342/) — Las Vegas Review-Journal · 22:13 PT · #us #nevada
-- [‘Doesn’t sound like Tommy’: Former Nevada colleagues react after police identify 1960 child killer](https://www.reviewjournal.com/crime/doesnt-sound-like-tommy-former-nevada-colleagues-react-after-police-identify-1960-child-killer-3901330/) — Las Vegas Review-Journal · 21:46 PT · #us #nevada
-- [Valley powers past Cimarron, earns spot in Division III Superintendent’s Cup — PHOTOS](https://www.reviewjournal.com/nevada-preps/valley-powers-past-cimarron-earns-spot-in-division-iii-superintendents-cup-photos-3901287/) — Las Vegas Review-Journal · 21:40 PT · #us #nevada
-- [LETTER: Advice for candidates](https://www.reviewjournal.com/opinion/letters/letter-advice-for-candidates-3901277/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [LETTER: The Social Security conundrum](https://www.reviewjournal.com/opinion/letters/letter-the-social-security-conundrum-3901274/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [LETTER: Don’t blame the victim](https://www.reviewjournal.com/opinion/letters/letter-dont-blame-the-victim-3901271/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [EDITORIAL: Recommendations for Question 6 and 7](https://www.reviewjournal.com/opinion/rj-endorses-2026/editorial-recommendations-for-question-6-and-7-3901268/) — Las Vegas Review-Journal · 21:00 PT · #us #civic #nevada
-- [Clark High School locked down for hours after shooting in nearby Las Vegas neighborhood](https://www.ktnv.com/news/clark-high-school-locked-down-for-hours-after-shooting-in-nearby-las-vegas-neighborhood) — KTNV Las Vegas · 20:59 PT · #us #nevada
-- [Syracuse names Las Vegas event planner to be city’s first ‘night mayor’](https://lasvegassun.com/news/2026/oct/16/syracuse-names-las-vegas-event-planner-to-be-citys/) — Las Vegas Sun · 20:53 PT · #us #nevada
-- [Man killed during attempted robbery at east Las Vegas business identified; three suspects sought](https://www.ktnv.com/news/man-killed-during-attempted-robbery-at-east-las-vegas-business-identified-three-suspects-sought) — KTNV Las Vegas · 20:05 PT · #us #nevada
-- [Nevada Preps Friday night football results: Scores from Week 10 from Las Vegas, Nevada schools](https://www.reviewjournal.com/nevada-preps/np-football/nevada-preps-friday-night-football-results-scores-from-week-10-from-las-vegas-nevada-schools-3901258/) — Las Vegas Review-Journal · 19:49 PT · #us #nevada
-- [Former Las Vegas resident says clean up voter rolls](https://www.ktnv.com/news/former-las-vegas-resident-says-clean-up-voter-rolls) — KTNV Las Vegas · 19:33 PT · #us #nevada
-- [How Culver City is quietly emerging as a new mecca for AI filmmaking](https://www.latimes.com/business/story/2026-10-16/as-hollywood-warms-to-ai-culver-city-fills-with-ai-studios) — World & Nation · 19:33 PT · #us #ai
-- [Jalen Nailor focused on winning, returning to Raiders receiving corps](https://www.reviewjournal.com/sports/raiders/jalen-nailor-focused-on-winning-returning-to-raiders-receiving-corps-3901244/) — Las Vegas Review-Journal · 19:09 PT · #us #nevada
-- [‘Literally relentless’: Bills praise Raiders’ Maxx Crosby before Week 6 game](https://www.reviewjournal.com/sports/raiders/literally-relentless-bills-praise-raiders-maxx-crosby-before-week-6-game-3901224/) — Las Vegas Review-Journal · 18:40 PT · #us #nevada
-- [How a bone sample and a social media post helped identify Lake Mead barrel victim](https://www.reviewjournal.com/local/local-las-vegas/how-a-bone-sample-and-a-social-media-post-helped-identify-lake-mead-barrel-victim-3901215/) — Las Vegas Review-Journal · 18:36 PT · #us #nevada

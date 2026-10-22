@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-21T21:35:02-07:00
-count: 130
+updated: 2026-10-22T02:37:15-07:00
+count: 131
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-130 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+131 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-21
 
+- [Georgia woman sues over neighbour's marijuana smoke despite smoking ban; court dismisses claim](https://timesofindia.indiatimes.com/world/us/a-georgia-woman-said-her-next-door-neighbours-marijuana-smoke-kept-entering-her-apartment-despite-a-no-smoking-lease-after-she-sued-an-appeals-court-upheld-the-california-teachers-pension-funds-immunity/articleshow/135070782.cms) — World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India · 22:31 PT · #world #cannabis
 - [Nebraska cannabis growers face up to 2-year wait to sell products](https://mjbizdaily.com/news/nebraska-cannabis-growers-face-up-to-2-year-wait-to-sell-products/618795/) — MJBizDaily · 14:33 PT · #business #cannabis #smallbiz
 - [Cannabis MSO Vireo deepens Florida foothold with latest $21 million purchase](https://mjbizdaily.com/news/cannabis-mso-vireo-deepens-florida-foothold-with-latest-21-million-purchase/618782/) — MJBizDaily · 13:24 PT · #business #cannabis #smallbiz
 - [DEA Opposes Marijuana Rescheduling Opponents’ Request For New Testimony And Document Discovery In Ongoing Hearing](https://www.marijuanamoment.net/dea-opposes-marijuana-rescheduling-opponents-request-for-new-testimony-and-document-discovery-in-ongoing-hearing/) — Marijuana Moment · 13:20 PT · #business #cannabis
