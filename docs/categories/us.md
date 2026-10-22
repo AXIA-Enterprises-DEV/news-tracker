@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-22T11:49:55-07:00
+updated: 2026-10-22T14:58:05-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,20 @@ tags: ["category", "us"]
 
 ## 2026-10-22
 
+- ['Zeus was angry:' Arizona surveys damage from at least 3 rare tornadoes](https://lasvegassun.com/news/2026/oct/22/zeus-was-angry-arizona-surveys-damage-from-at-leas/) — Las Vegas Sun · 14:44 PT · #us #nevada
+- [Judge limits election-related immigration stops amid broader legal war ahead of midterms](https://www.latimes.com/politics/story/2026-10-22/judge-limits-election-related-immigration-stops-amid-broader-legal-war-ahead-of-midterms) — World & Nation · 14:00 PT · #us #civic #foreign
+- [Florida officer took possession of man’s home after finding him dead 4 years ago, police say](https://www.reviewjournal.com/news/nation-and-world/florida-officer-took-possession-of-mans-home-after-finding-him-dead-4-years-ago-police-say-3903696/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
+- [Woman dies after being shot in Henderson in 'isolated incident'](https://lasvegassun.com/news/2026/oct/22/woman-dies-after-being-shot-in-henderson-in-isolat/) — Las Vegas Sun · 13:47 PT · #us #nevada
+- [How Meta struck a deal to keep Mark Zuckerberg in California despite looming billionaire tax](https://www.latimes.com/business/story/2026-10-22/how-meta-struck-deal-to-keep-mark-zuckerberg-in-california-despite-looming-billionaire-tax) — World & Nation · 13:44 PT · #us
+- [Flock queda fuera en Reno, pero la ciudad seguirá usando lectores de placas de autos](https://thenevadaindependent.com/article/flock-queda-fuera-en-reno-pero-la-ciudad-seguira-usando-lectores-de-placas-de-autos/) — The Nevada Independent · 13:40 PT · #us #nevada
+- [Friday’s Nevada Preps top five football games to watch](https://www.reviewjournal.com/nevada-preps/fridays-nevada-preps-top-five-football-games-to-watch-3903683/) — Las Vegas Review-Journal · 13:08 PT · #us #nevada
+- [Superintendent’s Cup storylines: Centennial, Green Valley get 2nd chance at rivals](https://www.reviewjournal.com/nevada-preps/superintendents-cup-storylines-centennial-green-valley-get-2nd-chance-at-rivals-3903673/) — Las Vegas Review-Journal · 12:47 PT · #us #nevada
+- [Ex-Fresno State player wanted in Vegas betting case appears to be playing overseas](https://www.reviewjournal.com/crime/ex-fresno-state-player-wanted-in-vegas-betting-case-appears-to-be-playing-overseas-3903670/) — Las Vegas Review-Journal · 12:38 PT · #us #nevada
+- [CARTOON: This is eating taxpayers alive](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-this-is-eating-taxpayers-alive-3903667/) — Las Vegas Review-Journal · 12:35 PT · #us #nevada
+- [College football betting trends, predictions: Miami, BYU, UCLA have edge](https://www.reviewjournal.com/sports/betting/college-football-betting-trends-predictions-miami-byu-ucla-have-edge-3903664/) — Las Vegas Review-Journal · 12:34 PT · #us #nevada
+- [Tom Skerritt, Emmy-winning actor with roles in ‘Picket Fences,’ ‘Alien’ and ‘Top Gun,’ dies at 93](https://www.reviewjournal.com/news/nation-and-world/tom-skerritt-emmy-winning-actor-with-roles-in-picket-fences-alien-and-top-gun-dies-at-93-3903658/) — Las Vegas Review-Journal · 12:30 PT · #us #nevada
+- [Data breach at vendor compromises some SafeVoice tips, Nevada officials say](https://lasvegassun.com/news/2026/oct/22/data-breach-at-vendor-compromises-some-safevoice-t/) — Las Vegas Sun · 12:10 PT · #us #nevada
+- [Ruling favors Sun on antitrust claims against R-J but won't immediately restore printed newspaper](https://lasvegassun.com/news/2026/oct/22/ruling-favors-sun-on-antitrust-claims-against-r-j/) — Las Vegas Sun · 12:06 PT · #us #nevada
 - [Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search](https://lasvegassun.com/news/2026/oct/22/rep-ilhan-omar-says-she-will-move-out-of-her-washi/) — Las Vegas Sun · 11:28 PT · #us #nevada
 - [Joey Cusumano, alleged Las Vegas Mob figure turned producer, dies](https://www.reviewjournal.com/local/joey-cusumano-alleged-las-vegas-mob-figure-turned-producer-dies-3903631/) — Las Vegas Review-Journal · 11:01 PT · #us #nevada
 - [Denver cannabis lounge plans Las Vegas expansion despite local industry struggles](https://www.ktnv.com/news/denver-cannabis-lounge-plans-las-vegas-expansion-despite-local-industry-struggles) — KTNV Las Vegas · 11:01 PT · #us #cannabis #nevada
@@ -59,6 +73,7 @@ tags: ["category", "us"]
 - [Nevada voter ID ballot measure faces little public pushback from state Democrats](https://lasvegassun.com/news/2026/oct/22/nevada-voter-id-ballot-measure-faces-little-public/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
 - [France’s fiscal mess has only one true solution](https://lasvegassun.com/news/2026/oct/22/frances-fiscal-mess-has-only-one-true-solution/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Americans are becoming increasingly violent toward judges, risking our democracy](https://lasvegassun.com/news/2026/oct/22/americans-are-becoming-increasingly-violent-toward/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Halloween comes alive at Resorts World Las Vegas](https://lasvegassun.com/native/resorts-world/2026/oct/22/halloween-comes-alive-at-resorts-world-las-vegas/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Científico de Nevada ayuda a registrar especies 'perdidas' mientras se documentan menos especies en riesgo](https://thenevadaindependent.com/article/cientifico-de-nevada-ayuda-a-registrar-especies-perdidas-mientras-se-documentan-menos-especies-en-riesgo/) — The Nevada Independent · 01:15 PT · #us #nevada
 
 ## 2026-10-21
@@ -411,18 +426,3 @@ tags: ["category", "us"]
 - [LETTER: Making sense](https://www.reviewjournal.com/opinion/letters/letter-making-sense-3901651/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
 - [CARTOON: The heart of Texas](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-the-heart-of-texas-3901648/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
 - [EDITORIAL: Governor’s race to deterrmine Nevada’s direction](https://www.reviewjournal.com/opinion/editorials/editorial-governors-race-to-deterrmine-nevadas-direction-3901644/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [LETTER: It’s all about the teacher](https://www.reviewjournal.com/opinion/letters/letter-its-all-about-the-teacher-3901641/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [LETTER: Very concerning](https://www.reviewjournal.com/opinion/letters/letter-very-concerning-3901638/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [COMMENTARY: The destructive effects of outrageous taxation](https://www.reviewjournal.com/opinion/commentary-the-destructive-effects-of-outrageous-taxation-3901633/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [VICTOR JOECKS: Why the death penalty can be pro-life](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-why-the-death-penalty-can-be-pro-life-3901630/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [COMMENTARY: Changing Congress won’t change the Iran War](https://www.reviewjournal.com/opinion/commentary-changing-congress-wont-change-the-iran-war-3901627/) — Las Vegas Review-Journal · 21:00 PT · #us #civic #foreign #nevada
-- [How a driver, a dad and a teacher tried to stop the Oregon school shooter](https://lasvegassun.com/news/2026/oct/17/how-a-driver-a-dad-and-a-teacher-tried-to-stop-the/) — Las Vegas Sun · 20:19 PT · #us #nevada
-- [Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen](https://lasvegassun.com/news/2026/oct/17/trumps-decision-to-waive-russian-sanctions-outrage/) — Las Vegas Sun · 20:19 PT · #us #civic #foreign #nevada
-- [UNLV can't stop Air Force ground game in 41-31 loss](https://lasvegassun.com/news/2026/oct/17/unlv-cant-stop-air-force-ground-game-in-41-31-loss/) — Las Vegas Sun · 20:19 PT · #us #nevada
-- [Online forum controlled by Nevada GOP House candidate contains slurs and Nazi talk, AP review finds](https://lasvegassun.com/news/2026/oct/17/online-forum-controlled-by-nevada-gop-house-candid/) — Las Vegas Sun · 20:19 PT · #us #nevada
-- [Major Fire Breaks Out In Alberta After Deadly Incident At Military Base](https://www.huffpost.com/entry/canada-military-base-alberta_n_6ad42993e4b0ce24aed9fee9) — World News - Breaking News, Top Stories · 19:09 PT · #us #foreign
-- [Saturday’s Las Vegas Pride Festival a day of fun, inclusion and equality](https://www.reviewjournal.com/local/local-las-vegas/saturdays-las-vegas-pride-festival-a-day-of-fun-inclusion-and-equality-3901613/) — Las Vegas Review-Journal · 18:58 PT · #us #nevada
-- [Graney: Run out of Air Force, UNLV still has lots to play for](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-run-out-of-air-force-unlv-still-has-lots-to-play-for-3901607/) — Las Vegas Review-Journal · 18:20 PT · #us #nevada
-- [UNLV’s 3 losses share one troubling trend: Second-half struggles](https://www.reviewjournal.com/sports/unlv/unlv-football/unlvs-three-losses-share-one-troubling-trend-second-half-struggles-3901593/) — Las Vegas Review-Journal · 17:57 PT · #us #nevada
-- [‘Everyone’s voice needs to be heard’: Early voting opens in Nevada](https://www.reviewjournal.com/news/politics-and-government/nevada/everyones-voice-needs-to-be-heard-early-voting-opens-in-nevada-3901570/) — Las Vegas Review-Journal · 17:53 PT · #us #civic #nevada
-- [Clashes, Fires And Looting Break Out As Protesters Rally Across France, Joining Students](https://www.huffpost.com/entry/france-protests_n_6ad4050de4b00caf853ca38c) — World News - Breaking News, Top Stories · 16:35 PT · #us

@@ -1,23 +1,27 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-22T11:49:55-07:00
-count: 145
+updated: 2026-10-22T14:58:05-07:00
+count: 149
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-145 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+149 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-22
 
+- [New York to open first adult-use cannabis nursery license applications](https://mjbizdaily.com/news/new-york-to-open-first-adult-use-cannabis-nursery-license-applications/618828/) — MJBizDaily · 12:56 PT · #business #cannabis #smallbiz
+- [DOJ Isn’t ‘Micromanaging’ State Marijuana Laws With Prosecution Of Virginia Senator, Blanche Says](https://www.marijuanamoment.net/doj-isnt-micromanaging-state-marijuana-laws-with-prosecution-of-virginia-senator-blanche-says/) — Marijuana Moment · 12:12 PT · #business #cannabis #civic
 - [Trump Justice Department indicts prominent Virginia lawmaker for selling marijuana at ‘hemp’ shop](https://mjbizdaily.com/news/trump-justice-department-indicts-prominent-virginia-lawmaker-for-selling-marijuana-at-hemp-shop/618831/) — MJBizDaily · 11:30 PT · #business #cannabis #smallbiz
+- [Virginia state Sen. Louise Lucas arrested, indicted on federal charges - USA Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxPN1FSY29mbHZYZzU0X292TWpwdUs5VzFJZEpvd1ZrWko1OGJ5eE5rMmpqbHdzRUxFTmwzWTJYRXVybFlhT3pBeXNLczhTc0VucXpMczdDMmVwT184M05mcmdfZVBJYTlQWEtvWDIzNnlQV2s4WDg4MW9PcEkycDJXYU5vUnRIaFJ6QmljYVNGYjdiWnpRdWRBOE1WWUFBLVRfQlJJUmJkdzNzQVp5XzhjbHlJWlZ5eFhWSk9GUHg0RHVtMTJob2c?oc=5) — Top stories - Google News · 11:11 PT · #world #cannabis
 - [Cannabis Packaging Compliance in 2027: What Every Dispensary, Brand, and Cultivator Needs to Know](https://mjbizdaily.com/sponsored/cannabis-packaging-compliance-in-2027-what-every-dispensary-brand-and-cultivator-needs-to-know/618775/) — MJBizDaily · 11:10 PT · #business #cannabis
 - [Denver cannabis lounge plans Las Vegas expansion despite local industry struggles](https://www.ktnv.com/news/denver-cannabis-lounge-plans-las-vegas-expansion-despite-local-industry-struggles) — KTNV Las Vegas · 11:01 PT · #us #cannabis #nevada
 - [Denver cannabis lounge plans Las Vegas expansion despite local industry struggles - KTNV Las Vegas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnhtRmE1WExQQ1dJMXVueGRnR3JRdlFFY1VxZFZHZk9NOHQ4Q3JIOVRUUzFMc2VaT05LZ3dLV3VlUnh5a25BdE1oVnVkMWRNVlRZaEtORjVVaTV1ZVZCRFZLVFBYc05pUW0zT29yWUE0SlBGQ09lSFYtYUtaWTRhaXlUZmk2d0pQS0hMMnliM0tmbl81eGxBcWY5V0JRamFxSjJ4c1A3RE5zSjA?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 11:01 PT · #business #cannabis #nevada
 - [Top Virginia Senator Faces Federal Marijuana And Fraud Charges](https://www.marijuanamoment.net/top-virginia-senator-faces-federal-marijuana-and-fraud-charges/) — Marijuana Moment · 09:37 PT · #business #cannabis
 - [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - Big News Network.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWoxV01XdjlQNy1DeUdlaVRvb3ZncEJnckRvcW05clQyb1A3dXRvaUNIMlotY2I5OTh1UHN1ZklFeDlVQ1JDczlwMC1SMFoxNjVnbWtRRFRkaDh0aldMbmlid0xjQndCWGFSeEptcmk3VC1PaE9iaUtpUGhOWnNzazI5WTM3bFYtd3M1SUxjdDJlUEUtUHI2RVNrdkxkdlVlQV83QjNkQmxsbTRrbEo1VXNRTGgyQVJ6ZVFMWnpNRmk2cExhSWw0?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:52 PT · #business #cannabis
 - [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - itemonline.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV0tyZ045dGloVE53SjJIMGdWSmxiMDlRdzhqOVE4LVM3dzRtbV9tMVV0dnlJSW0zUGJ4eFIxZFFFdTlSVGJpcF81QXltbWgyQThRN3M0ZDdLemh2QW1JR0Y2b3J1Q0xXbm10dFQ4aVYyeHdmT2UwaVdpeWpnbGt1SjRENVhqQXpveVBUcjljMHBIYVh6bXNNQ1M5Y0RQNnlndUJ6dUNsZkNlaFFmSDZFS1VJeHhNQUljbk5ZQl9jY1pudmRGbnRpMGhYQnVNaEptUE1QWmkyU29FdkJjRkUydGF0eUwzRkJFN1pVNzRFWFg?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:51 PT · #business #cannabis
+- [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - dailyadvance.com](https://news.google.com/rss/articles/CBMihgJBVV95cUxOdjN5bVp1Xy1vM2pqbXV5c2xzYTBja1p3RndsNFRaUWNCa1hzd1ZqQXZXRkZwVWNRY1MxM0swd04wTTZKWkp2TnV2OGdxQjQ0ZE5KTkRHLXZ6OWswZF9QY0NWNEhOWTBXZEhrNWQ5S2xuVE1tLVo5TThJMk1xWFhNVVUwRl9XT3daVTVFQkpYNHpZRGp4dXVzbXNZUkJybmNLVzRJXzNjMDVTb3BRS2RkUXdtYkRfTmR1WWJuOVJfOUd3Y2ZWSm90ZXNsZFItOVhyZURjd3dkMHZWbi01OWc1TTV4V2FvejYyOUhKTmV3SkNTTk5sZzVUa0thbFVlcXUxRjdiYTln?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:51 PT · #business #cannabis
 - [DEA Judge Denies Marijuana Rescheduling Opponents’ Request To Reopen Hearing For More Testimony, But Allows New Briefs](https://www.marijuanamoment.net/dea-judge-denies-marijuana-rescheduling-opponents-request-to-reopen-hearing-for-more-testimony-but-allows-new-briefs/) — Marijuana Moment · 08:07 PT · #business #cannabis
 - [Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case](https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html) — CNBC Top News · 07:42 PT · #markets #cannabis
 - [Wisconsin Democratic And GOP Governor Candidates Agree On Legalizing Marijuana In Some Form During Debate](https://www.marijuanamoment.net/wisconsin-democratic-and-gop-governor-candidates-agree-on-legalizing-marijuana-in-some-form-during-debate/) — Marijuana Moment · 06:59 PT · #business #cannabis

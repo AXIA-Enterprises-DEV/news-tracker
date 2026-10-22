@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $REZI"
-updated: 2026-10-22T11:49:55-07:00
-count: 1
+updated: 2026-10-22T14:58:05-07:00
+count: 2
 tags: ["ticker", "REZI"]
 ---
 
 # Ticker: $REZI
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-22
+
+- [Resideo Announces Expected Q1 Software Update to Honeywell Home Smart Thermostats for Compatibility with Apple HomeView](https://www.prnewswire.com/news-releases/resideo-announces-expected-q1-software-update-to-honeywell-home-smart-thermostats-for-compatibility-with-apple-homeview-302917420.html) — PR Newswire General Business · 13:11 PT · #business $REZI
 
 ## 2026-10-20
 
