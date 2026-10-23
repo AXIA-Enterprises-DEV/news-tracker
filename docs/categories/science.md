@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-23T12:12:42-07:00
+updated: 2026-10-23T15:18:14-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,22 @@ tags: ["category", "science"]
 
 ## 2026-10-23
 
+- [12 striking images from European Wildlife Photographer of the Year 2026](https://www.popsci.com/environment/european-wildlife-photographer-of-the-year-2026-awards/) — Popular Science · 14:20 PT · #science
+- [Counting magnetic flux quanta offers new way to measure photon numbers](https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
+- ['It's pretty toxic… but just a little, I want to be like that': What young men think of manosphere content](https://phys.org/news/2026-10-pretty-toxic-young-men-manosphere.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
+- [Scientists demonstrate AI-designed enzyme for drug synthesis](https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science #ai
+- [Chemically modified sugars enable direct nanostructure formation](https://phys.org/news/2026-10-chemically-sugars-enable-nanostructure-formation.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [The psychology of why we overpay for used cars—study points to left-digit bias](https://phys.org/news/2026-10-psychology-overpay-cars-left-digit.html) — Phys.org - latest science and technology news stories · 13:40 PT · #science
+- [Designing better adsorbents to remove PFAS from water](https://phys.org/news/2026-10-adsorbents-pfas.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
+- [Plain silicon grating reveals a hidden 'twist' in light from electron beams](https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html) — Phys.org - latest science and technology news stories · 13:20 PT · #science
+- [The 5-Second Rule is scientifically false](https://www.popsci.com/health/the-5-second-rule-is-scientifically-false/) — Popular Science · 13:07 PT · #science
+- [Elections are more predictable than they look](https://phys.org/news/2026-10-elections.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science #civic
+- [Bacteria reinvent their weapons through selection, chance and gene swapping](https://phys.org/news/2026-10-bacteria-reinvent-weapons-chance-gene.html) — Phys.org - latest science and technology news stories · 13:00 PT · #science #civic
+- [Play ‘Doom’ on this tiny, uterus-shaped period tracker](https://www.popsci.com/health/period-tracker-doesnt-share-data-doom/) — Popular Science · 12:42 PT · #science
+- [New marker panel and free web tool help track stem cells as they develop](https://phys.org/news/2026-10-marker-panel-free-web-tool.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [Can we stop antibiotic resistance from ruining promising drugs before they reach patients?](https://phys.org/news/2026-10-antibiotic-resistance-drugs-patients.html) — Phys.org - latest science and technology news stories · 12:40 PT · #science
+- [Potatoes could be the secret to better plant-based meat, say food scientists](https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
+- [Everyday Mylar turned into a promising insulator for lunar habitats](https://phys.org/news/2026-10-everyday-mylar-insulator-lunar-habitats.html) — Phys.org - latest science and technology news stories · 12:20 PT · #science
 - [Chaos makes sense of market movements in a crisis](https://phys.org/news/2026-10-chaos-movements-crisis.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
 - [Stellar collision may explain why Orion Nebula's planet-forming disks appear younger than its stars](https://phys.org/news/2026-10-stellar-collision-orion-nebula-planet.html) — Phys.org - latest science and technology news stories · 12:00 PT · #science
 - [RS-25 Engine Tests at NASA Stennis](https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/) — NASA · 11:57 PT · #science
@@ -404,19 +420,3 @@ tags: ["category", "science"]
 - [Plastics embedded with enzymes degrade readily in the sea](https://www.nature.com/articles/d41586-026-03282-x) — Nature · 17:00 PT · #science
 - [This is what the mysterious Denisovans looked like](https://www.nature.com/articles/d41586-026-03360-0) — Nature · 17:00 PT · #science #foreign
 - [Can plants defend coasts against storms?](https://www.nature.com/articles/d41586-026-03063-6) — Nature · 17:00 PT · #science
-- [Worms live longer in cool conditions thanks to a muscle-derived molecule](https://www.nature.com/articles/d41586-026-03066-3) — Nature · 17:00 PT · #science
-- [Cave stalagmites document global patterns in monsoon rainfall over the past 450,000 years](https://www.nature.com/articles/d41586-026-03285-8) — Nature · 17:00 PT · #science
-- [Large-scale single crystals printed layer by layer](https://www.nature.com/articles/d41586-026-03257-y) — Nature · 17:00 PT · #science
-- [A single antimatter particle in a cage opens door to ‘revolutionary’ physics](https://www.nature.com/articles/d41586-026-03342-2) — Nature · 17:00 PT · #science
-- [Robert Williamson obituary: geneticist who mapped genes for muscular dystrophy and cystic fibrosis](https://www.nature.com/articles/d41586-026-03375-7) — Nature · 17:00 PT · #science
-- [Fabric user interface can be worn on your sleeve — and machine-washed](https://www.nature.com/articles/d41586-026-03064-5) — Nature · 17:00 PT · #science
-- [Multimodal precision diagnostics in clinical xenotransplantation](https://www.nature.com/articles/s41586-026-11096-0) — Nature · 17:00 PT · #science
-- [The contribution of salt marshes to wave attenuation during extreme storms](https://www.nature.com/articles/s41586-026-11145-8) — Nature · 17:00 PT · #science
-- [Zeolite-catalysed olefin carbonylation based on tuning spatial confinement](https://www.nature.com/articles/s41586-026-11183-2) — Nature · 17:00 PT · #science
-- [Cold activates a BH2 metabolic network promoting longevity and proteostasis](https://www.nature.com/articles/s41586-026-11152-9) — Nature · 17:00 PT · #science
-- [WEE1 opposes APC/C CDH1 activity to promote S phase entry](https://www.nature.com/articles/s41586-026-11188-x) — Nature · 17:00 PT · #science
-- [A single archaeon couples long-chain fatty acid oxidation to methanogenesis](https://www.nature.com/articles/s41586-026-11207-x) — Nature · 17:00 PT · #science #oil
-- [An environmentally regulated dichotomy in cell lineages of the root](https://www.nature.com/articles/s41586-026-11179-y) — Nature · 17:00 PT · #science
-- [CD51 delineates functionally distinct astrocyte subtypes in neural circuits](https://www.nature.com/articles/s41586-026-11186-z) — Nature · 17:00 PT · #science
-- [Persistent neuronal stress signalling underlies Angelman syndrome phenotypes](https://www.nature.com/articles/s41586-026-11165-4) — Nature · 17:00 PT · #science
-- [Structural basis for protocadherin-1 recognition by New World hantaviruses](https://www.nature.com/articles/s41586-026-11184-1) — Nature · 17:00 PT · #science

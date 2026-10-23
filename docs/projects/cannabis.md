@@ -1,16 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-23T12:12:42-07:00
-count: 155
+updated: 2026-10-23T15:18:14-07:00
+count: 157
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-155 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+157 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-23
 
+- [4 - Hemphill Brian O (0001934887) (Reporting)](https://www.sec.gov/Archives/edgar/data/1934887/000193488726000005/0001934887-26-000005-index.htm) — SEC EDGAR All Filings · 14:26 PT · #filings #cannabis #markets
+- [Oklahoma medical marijuana czar quits as $600 million industry future uncertain](https://mjbizdaily.com/news/oklahoma-medical-marijuana-czar-quits-as-600-million-industry-future-uncertain/618848/) — MJBizDaily · 12:47 PT · #business #cannabis #smallbiz
 - [Talarico Wants To Partner With Trump On Legalizing Marijuana If He Wins Texas Senate Race](https://www.marijuanamoment.net/talarico-wants-to-partner-with-trump-on-legalizing-marijuana-if-he-wins-texas-senate-race/) — Marijuana Moment · 07:03 PT · #business #cannabis #civic
 - [New Hampshire GOP Governor And Democratic Challenger Clash On Marijuana At Debate](https://www.marijuanamoment.net/new-hampshire-gop-governor-and-democratic-challenger-clash-on-marijuana-at-debate/) — Marijuana Moment · 05:54 PT · #business #cannabis #civic
 - [Cory Booker Calls Out DEA For Holding Past Employee Convictions Against Marijuana Businesses Seeking Rescheduling Protections](https://www.marijuanamoment.net/cory-booker-calls-out-dea-for-holding-past-employee-convictions-against-marijuana-businesses-seeking-rescheduling-protections/) — Marijuana Moment · 04:59 PT · #business #cannabis

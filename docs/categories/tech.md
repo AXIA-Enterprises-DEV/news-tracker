@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-23T12:12:42-07:00
+updated: 2026-10-23T15:18:14-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,18 +11,72 @@ tags: ["category", "tech"]
 
 ## 2026-10-23
 
+- [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) — TechCrunch · 14:59 PT · #tech #ai
+- [YouTube Is Letting Us Vibe Our Video Feeds, and I’m Liking It](https://www.cnet.com/tech/services-and-software/youtube-custom-video-feeds/) — CNET · 14:53 PT · #tech
+- [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure) — The Verge · 14:39 PT · #tech
+- [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) — Simon Willison (LLMs) · 14:35 PT · #tech #ai
+- [The iPhone Duo Is Now in Our Custom-Made Foldable Phone Test Machine. Will It Beat the Galaxy Fold 8?](https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/) — CNET · 14:30 PT · #tech
+- [CVE Tracker](https://cve.0xosprey.com/) — Hacker News · 14:21 PT · #tech
+- [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) — The Verge · 14:11 PT · #tech #ai
+- [VCs, Superhuman Mail founder share red flags about product-market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/) — TechCrunch · 13:57 PT · #tech #smallbiz
+- [Using an Apple Pencil With the iPhone Duo: What to Know](https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/) — MacRumors · 13:49 PT · #tech #ai
+- [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155) — Hacker News · 13:38 PT · #tech
+- [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/) — Hacker News · 13:37 PT · #tech
+- [Please Don’t Let an AI Bot Log Into Your Bank Account](https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/) — CNET · 13:30 PT · #tech #ai
+- [Guardian. For Family | Die Ergebnisse des TIGGO7-Crashtests belegen CHERYs Engagement für die Sicherheit von Familien.](https://www.prnewswire.com/news-releases/guardian-for-family--die-ergebnisse-des-tiggo7-crashtests-belegen-cherys-engagement-fur-die-sicherheit-von-familien-302918472.html) — PR Newswire Business Tech · 13:29 PT · #tech #foreign
+- [Hegseth warns prediction market bets warp military judgment, endanger troops](https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/) — Ars Technica · 13:28 PT · #tech #foreign
+- [After 13 Years, Solidcore Is Launching a Second Workout. Its Founder Says It’s the Wrong Move](https://www.inc.com/victoria-salves/solidcore-launching-second-workout-founder-says-wrong-move/91423958) — Inc.com · 13:26 PT · #tech #smallbiz
+- [Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today](https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today/) — 9to5Mac · 13:23 PT · #tech #ai
+- [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/) — Ars Technica · 13:19 PT · #tech
+- [Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited](https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/) — MacRumors · 13:16 PT · #tech #ai #foreign
+- [mF International to Wind Down Legacy Financial Trading Business, Shift Focus Completely to Digital Asset Strategy](https://www.prnewswire.com/news-releases/mf-international-to-wind-down-legacy-financial-trading-business-shift-focus-completely-to-digital-asset-strategy-302918277.html) — PR Newswire Business Tech · 13:15 PT · #tech #markets $MFI
+- [Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million](https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html) — PR Newswire Business Tech · 13:15 PT · #tech #markets $PURR
+- [9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps](https://9to5mac.com/2026/10/23/daily-october-23-2026/) — 9to5Mac · 13:14 PT · #tech #ai
+- [Dow and Small Caps Climb Weekly While Nasdaq Slips on Megacap Earnings Charges](https://www.prnewswire.com/news-releases/dow-and-small-caps-climb-weekly-while-nasdaq-slips-on-megacap-earnings-charges-302918459.html) — PR Newswire Business Tech · 13:08 PT · #tech #markets
+- [A ‘Fallout’ Competition Series Is Coming to Prime Video](https://www.cnet.com/tech/services-and-software/a-fallout-competition-series-is-coming-to-prime-video/) — CNET · 13:05 PT · #tech
+- [There's a third PHP2Shell bug, but it won't get an emergency fix](https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208) — www.theregister.com - Articles · 13:04 PT · #tech
+- [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/) — TechCrunch · 13:03 PT · #tech #smallbiz
+- [All three Paris Apple Stores close ahead of protests](https://appleinsider.com/articles/26/10/23/all-three-paris-apple-stores-close-ahead-of-protests?utm_source=rss) — AppleInsider · 12:59 PT · #tech #ai
+- [Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left](https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left) — Hacker News · 12:53 PT · #tech
+- [OpenAI: Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/) — Hacker News · 12:50 PT · #tech #ai
+- [Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3](https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/) — 9to5Mac · 12:50 PT · #tech #ai #foreign
+- [iPhone Duo has hidden trick that solves a common complaint](https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/) — 9to5Mac · 12:43 PT · #tech #ai
+- [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release) — Hacker News · 12:42 PT · #tech
+- [We are all living inside of an obscure sci-fi film from 1970](https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/) — Hacker News · 12:41 PT · #tech
+- [Dolly Parton’s Niece Built a Moonshine Company. Now She’s Taking On the Family’s Biggest Legacy](https://www.inc.com/lucia-auerbach/dolly-parton-niece-built-moonshine-company-now-taking-on-family-biggest-legacy/91424970) — Inc.com · 12:41 PT · #tech #smallbiz
+- [iPhone Duo Jailbroken on Launch Day](https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/) — MacRumors · 12:41 PT · #tech #ai
+- [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) — Simon Willison (LLMs) · 12:40 PT · #tech #ai
+- [7 iPhone Duo Apps That Take Full Advantage of the New Foldable Phone](https://www.cnet.com/tech/mobile/iphone-duo-apps-full-advantage-new-foldable-phone/) — CNET · 12:38 PT · #tech
+- [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided) — The Verge · 12:35 PT · #tech
+- [Inside the Pentagon, the pressure is on to find a home for a new spaceport](https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/) — Ars Technica · 12:33 PT · #tech #foreign
+- [Unboxing Apple’s iPhone Duo in Night Sky](https://www.youtube.com/shorts/F4SC1n0d8Ys) — CNET · 12:33 PT · #tech
+- [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech) — The Verge · 12:32 PT · #tech #ai
+- [Come With Us to the Apple Store on iPhone Duo Launch Day](https://www.youtube.com/shorts/qW5um1hyD70) — CNET · 12:30 PT · #tech
+- [Massive PHP security flaw](https://www.youtube.com/shorts/pT-x3cJMvKQ) — The Verge · 12:30 PT · #tech
+- [The First People to Buy the iPhone Duo at Apple’s Flagship 5th Ave NYC Store](https://www.youtube.com/shorts/9djPsvVGH64) — CNET · 12:28 PT · #tech
+- [Apple Seeds Updated watchOS 27.2 Release Candidate](https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/) — MacRumors · 12:28 PT · #tech #ai
+- [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/) — TechCrunch · 12:25 PT · #tech #smallbiz
+- [Spotify ramps up policy enforcement on family plans](https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/) — Ars Technica · 12:20 PT · #tech
+- [watchOS 27.2 gets new RC ahead of next week’s launch](https://9to5mac.com/2026/10/23/watchos-27-2-gets-new-rc-ahead-of-next-weeks-launch/) — 9to5Mac · 12:19 PT · #tech #ai
+- [Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack](https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200) — www.theregister.com - Articles · 12:14 PT · #tech #ai
+- [Lululemon’s New CEO Is Betting on Product Innovation. 9,000 Teens Point to a Different Problem](https://www.inc.com/moses-jeanfrancois/lululemon-new-ceo-betting-product-innovation-9000-teens-point-different-problem/91423641) — Inc.com · 12:12 PT · #tech
+- [Workday Unveils Decision Intelligence to Transform HR and Finance Collaboration](https://smallbiztrends.com/workday-unveils-decision-intelligence-to-transform-hr-and-finance-collaboration/) — Small Business Trends · 12:11 PT · #tech
 - [Apple Store in UK Reopens With New Design on iPhone Duo Launch Day](https://www.macrumors.com/2026/10/23/apple-southgate-reopens/) — MacRumors · 12:10 PT · #tech #ai
 - [Next week’s MacBook Pro could be huge upgrade, but with one problem](https://9to5mac.com/2026/10/23/next-weeks-macbook-pro-could-be-huge-upgrade-but-with-one-problem/) — 9to5Mac · 12:10 PT · #tech #ai
+- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) — Hacker News · 12:09 PT · #tech
 - [Download the iPhone Duo’s official light and dark wallpapers here](https://9to5mac.com/2026/10/23/download-the-iphone-duos-official-light-and-dark-wallpapers-here/) — 9to5Mac · 12:06 PT · #tech #ai
 - [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/) — TechCrunch · 12:06 PT · #tech #ai #smallbiz
 - [This Historic Cybersecurity Flaw Put 70 Percent of Websites at Risk. Patch Yours Today If You Haven’t Yet](https://www.inc.com/chloe-aiello/this-historic-cybersecurity-flaw-put-70-percent-of-websites-at-risk-patch-yours-today-if-you-havent-yet/91424914) — Inc.com · 12:04 PT · #tech
+- [DNS: A Replacement for Finger](https://altchan.org/sh/42) — Hacker News · 12:00 PT · #tech
 - [3 Leadership Behaviors That Separate Great Leaders From Average Bosses](https://www.inc.com/marcel-schwantes/3-leadership-behaviors-that-separate-great-leaders-from-average-bosses/91424676) — Inc.com · 12:00 PT · #tech
 - [A $200 Million E-Commerce Hit Doesn’t Protect You From the Brutal Math of Retail](https://www.inc.com/temilola-agbede/ecommerce-success-brutal-math-physical-retail/91423453) — Inc.com · 12:00 PT · #tech #markets
 - [If you are building AI for finance, get out while you can](https://news.ycombinator.com/item?id=50213770) — Hacker News · 11:58 PT · #tech #ai
 - [iPhone Duo Battery Life](https://www.youtube.com/shorts/kStnjnWXzXs) — The Verge · 11:45 PT · #tech
+- [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale) — The Verge · 11:43 PT · #tech
 - [Do These 5 Things Before You Pitch an Investor](https://www.inc.com/amie-sheridan/startup-founder-tips-before-pitching-investors-vc-venture-capital/91424572) — Inc.com · 11:34 PT · #tech
 - [714: Get the Bigger Pizza](https://atp.fm/714) — Accidental Tech Podcast · 11:32 PT · #tech
 - [What Happens to Your Brain (and Habits) When You Switch to a Folding Phone](https://www.inc.com/nick-hobson/what-happens-to-your-brain-and-habits-when-you-switch-to-a-folding-phone/91424769) — Inc.com · 11:31 PT · #tech
+- [What Is Vendor Contract Management and Why Does It Matter?](https://smallbiztrends.com/vendor-contract-management/) — Small Business Trends · 11:31 PT · #tech
 - [This Founder Is Leaving Online Gaming Behind. His Next Bet Is on Pokémon Cards and Collectibles](https://www.inc.com/marc-berman/this-founder-is-leaving-online-gaming-behind-his-next-bet-is-on-pokemon-cards-and-collectibles/91424705) — Inc.com · 11:30 PT · #tech #smallbiz
 - [Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday](https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/) — WIRED · 11:27 PT · #tech #civic
 - [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro) — Hacker News · 11:24 PT · #tech
@@ -32,6 +86,7 @@ tags: ["category", "tech"]
 - [Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge](https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/) — MacRumors · 11:05 PT · #tech #ai
 - [Guessing Costco Tech Prices](https://www.youtube.com/shorts/FtjH_HHTpeg) — Linus Tech Tips · 11:04 PT · #tech
 - [Meta delays rollout of terms that would allow broad scraping of news sites. Legal experts are still skeptical.](https://www.niemanlab.org/2026/10/meta-delays-rollout-of-terms-that-would-allow-broad-scraping-of-news-sites-legal-experts-are-still-skeptical/) — Nieman Lab · 11:03 PT · #tech #media
+- [Oracle Commits $1 Billion to Boost Partner Ecosystem for AI Solutions](https://smallbiztrends.com/oracle-commits-1-billion-to-boost-partner-ecosystem-for-ai-solutions/) — Small Business Trends · 11:01 PT · #tech #ai
 - [symplr Software (symplr®) Completes Strategic Refinancing Transaction](https://www.prnewswire.com/news-releases/symplr-software-symplr-completes-strategic-refinancing-transaction-302918370.html) — PR Newswire Business Tech · 11:00 PT · #tech
 - [iPhone Duo Brings Back Long Lines at Apple Stores](https://www.macrumors.com/2026/10/23/iphone-duo-long-lines-at-apple-stores/) — MacRumors · 10:55 PT · #tech #ai
 - [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale) — The Verge · 10:55 PT · #tech
@@ -205,6 +260,7 @@ tags: ["category", "tech"]
 - [Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees](https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/) — Ars Technica · 04:15 PT · #tech
 - [iPod changed the world a quarter of a century ago](https://appleinsider.com/articles/26/10/23/ipod-changed-the-world-a-quarter-of-a-century-ago?utm_source=rss) — AppleInsider · 04:12 PT · #tech #ai
 - [Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times](https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/) — MacRumors · 04:10 PT · #tech #ai
+- [LLM, Prosignal told to explain TuJu app glitches — Fahmi - Newswav](https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWtvb3IyOUNpa0pRZ2QtUXV0M1RkbHN5MXRQRk85dlhNR09aWW1KOFM0eU9YcFZJcjBMbkNld01sNUVtRkpQcHI5MmRrUW1jU1lNY0pQb0VYdUtjeTRlWWlZTUh4Yl9tZjJ6V3V0RFpNMV91RWVIMzlaenY5OEZaNTZLd0FtbWhCY25mRWxZTHNJclJxbnF5OFpn?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 04:07 PT · #tech #ai
 - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) — Hacker News · 04:04 PT · #tech
 - [Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready](https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/) — Ars Technica · 04:00 PT · #tech #foreign
 - [What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’](https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html) — NYT > Technology · 04:00 PT · #tech
@@ -229,6 +285,7 @@ tags: ["category", "tech"]
 - [A Truth-Teller at Newsmax](https://www.cjr.org/laurels-and-darts/a-truth-teller-at-newsmax-shelby-wilder-ukraine-war-russia-putin-zelensky-trump-musk-el-sayed-michigan-caro-crawford.php) — Columbia Journalism Review · 03:00 PT · #tech #foreign #media
 - [Beyond the Review: Inside the Onyx RCR 80V E-Bike](https://www.cnet.com/roadshow/personal-mobility/onyx-rcr-80v-review/) — CNET · 03:00 PT · #tech
 - [The Most Dangerous Part of LinkedIn Isn’t the Noise—It’s What the Algorithm Refuses to Show You](https://www.inc.com/alicia-teltz/linkedin-algorithm-echo-chamber-career-ceiling/91420524) — Inc.com · 03:00 PT · #tech
+- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment) — OpenAI News · 03:00 PT · #tech #ai
 - [Oura sues Ultrahuman (again) to block its latest smart ring from the US market](https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/) — Engadget - Technology News & Expert Reviews · 02:59 PT · #tech
 - [The iPhone Duo finally makes its way into customers' hands](https://appleinsider.com/articles/26/10/23/the-iphone-duo-finally-makes-its-way-into-customers-hands?utm_source=rss) — AppleInsider · 02:39 PT · #tech #ai
 - [A New York Times Writer Spent an Hour Trying to Reach Walmart. Then She Deleted Her Account and Told the World](https://www.inc.com/tomas-gorny/walmart-nyt-writer-ai-account-cancellation/91424261) — Inc.com · 02:30 PT · #tech
@@ -357,60 +414,3 @@ tags: ["category", "tech"]
 - [Rivian buys world model startup to accelerate self-driving ambitions](https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/) — TechCrunch · 14:05 PT · #tech #ai #smallbiz
 - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997) — Hacker News · 14:03 PT · #tech #ai
 - [Plango](https://www.producthunt.com/products/plango) — Product Hunt — The best new products, every day · 14:03 PT · #tech #ai
-- [Every MacBook getting macOS 27: See the full compatibility list - Mashable](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkhETGNTZllvMHhyQjB1cm9zdDU5a2pyODh6Nlhxa2Q3OVBlT29ZaTRSVnUxN2wzblM4VVoxaV9JbUcyektmb1dvZHpuRm5ZcUZuTllvMnozQ1VaNUlCUE5PZ0Z3VVFSQkw5MEtULVV5SDdDMnZLMUtPNmxwVzZud0RyelNjZ2g1N05XM3YtTUNMeDA?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 14:00 PT · #tech #ai
-- [A new subscription service promises an evolving collection of 'bold and bizarre' indie games](https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/) — Engadget - Technology News & Expert Reviews · 13:57 PT · #tech #ai
-- [iPhone Duo 24 Hours Later: Your Questions Answered](https://www.macrumors.com/2026/10/22/iphone-duo-24-hours-hands-on/) — MacRumors · 13:55 PT · #tech #ai
-- [Marketplace Awarded Nasdaq Foundation Grant to Expand Financial Literacy Programming](https://www.prnewswire.com/news-releases/marketplace-awarded-nasdaq-foundation-grant-to-expand-financial-literacy-programming-302917450.html) — PR Newswire Business Tech · 13:47 PT · #tech #markets
-- [Insurance Professional Paula Miller Shares Questions to Ask Before Choosing Life Insurance in HelloNation](https://www.prnewswire.com/news-releases/insurance-professional-paula-miller-shares-questions-to-ask-before-choosing-life-insurance-in-hellonation-302917444.html) — PR Newswire Business Tech · 13:39 PT · #tech
-- [PHP2Shell exploit bypasses protections designed to stop remote code execution](https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883) — www.theregister.com - Articles · 13:37 PT · #tech
-- [Meta’s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns) — The Verge · 13:32 PT · #tech #ai
-- [Human receives AI-designed virus for the first time](https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874) — www.theregister.com - Articles · 13:31 PT · #tech #ai
-- [I changed one llama.cpp flag, and my 8GB laptop GPU now runs a 35B model faster than I can read - XDA](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVdkakJFT1BXRUtyaTdLYi13R3lucXlZeVlzMjVTM25KR2ZuYzh5eGgxaFdFRGp0YmhleERTZXo5ME9GMGpTY2NuREJSaHZrMUQ4N21qQWlObXJLUDBFTnpkWTliM0dVM1hjWjNjdnd2d2hMZ0NMd3czeklsVlpWcmtBQnBaNkJDdndDS3NWSUxtREJZcTZYVjZOSDRicjdRN05BQVpobVpHV056eEJGQ0dRNjlsNmJJdVAxSVB6Q0M?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 13:30 PT · #tech #ai
-- [FTC Imposter Scam Threatens to Unplug Your Phone Number](https://www.cnet.com/news/privacy/ftc-alert-phone-impersonation-scam/) — CNET · 13:30 PT · #tech
-- [Cars.com to Announce Third Quarter 2026 Financial Results](https://www.prnewswire.com/news-releases/carscom-to-announce-third-quarter-2026-financial-results-302917413.html) — PR Newswire Business Tech · 13:30 PT · #tech $CARS
-- [Cboe Global Markets Announces Increase in Share Repurchase Authorization; Declares Fourth-Quarter 2026 Dividend](https://www.prnewswire.com/news-releases/cboe-global-markets-announces-increase-in-share-repurchase-authorization-declares-fourth-quarter-2026-dividend-302917368.html) — PR Newswire Business Tech · 13:30 PT · #tech #markets $CBOE
-- [iOS 27 adds new Phone app feature that’s an instant favorite](https://9to5mac.com/2026/10/22/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/) — 9to5Mac · 13:29 PT · #tech #ai
-- [The Data Center Boom Has a Surprising Winner, and It’s Refreshingly Old-School](https://www.inc.com/chloe-aiello/the-data-center-boom-has-a-surprising-winner-and-its-refreshingly-old-school/91424287) — Inc.com · 13:27 PT · #tech
-- [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts) — The Verge · 13:24 PT · #tech #smallbiz
-- [The FCC is beginning to block gadgets with ‘foreign surveillance chips’](https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole) — The Verge · 13:23 PT · #tech
-- [Aurelion Announces US$2 Million Follow-on Investment from Antalpha to Support Digital Gold Strategy](https://www.prnewswire.com/news-releases/aurelion-announces-us2-million-follow-on-investment-from-antalpha-to-support-digital-gold-strategy-302917234.html) — PR Newswire Business Tech · 13:20 PT · #tech #markets $AURE
-- [Spotify's Family plan QR code could cost you Premium access](https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/) — Engadget - Technology News & Expert Reviews · 13:19 PT · #tech
-- [Soon You Won’t Have to Do Dishes at an Airbnb (Unless You Really Want To)](https://www.cnet.com/tech/services-and-software/airbnb-cleaning-policy-update-washing-dishes-laundry-2/) — CNET · 13:18 PT · #tech
-- [Disgraced eMudhra drops out of TLS business after using cert private key of 4](https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/) — Ars Technica · 13:17 PT · #tech
-- [Why Tesla needs its cars to fly | The Vergecast](https://www.youtube.com/watch?v=4VVUXaeXY-E) — The Verge · 13:17 PT · #tech
-- [This New Device ‘Bricks’ Your Phone When You Enter Your Bedroom](https://www.cnet.com/health/sleep/new-device-bricks-phone-when-enter-bedroom/) — CNET · 13:15 PT · #tech
-- [Hyperscale Data Announces Suspension of Its At-the-Market Offering](https://www.prnewswire.com/news-releases/hyperscale-data-announces-suspension-of-its-at-the-market-offering-302917415.html) — PR Newswire Business Tech · 13:15 PT · #tech #ai #nevada $GPUS
-- [Farmer Mac to Announce Third Quarter 2026 Financial Results](https://www.prnewswire.com/news-releases/farmer-mac-to-announce-third-quarter-2026-financial-results-302917223.html) — PR Newswire Business Tech · 13:15 PT · #tech #realestate $AGM
-- [One Hundred China-Based Funds, a US$250 Billion Target: SWFI and Global FOF Association Bring China's Capital to G20 Investment Week in Miami](https://www.prnewswire.com/news-releases/one-hundred-china-based-funds-a-us250-billion-target-swfi-and-global-fof-association-bring-chinas-capital-to-g20-investment-week-in-miami-302917426.html) — PR Newswire Business Tech · 13:14 PT · #tech #ai #foreign
-- [iPhone Duo hands-on review, Apple announces MacBook Pro and Tell event](https://9to5mac.com/2026/10/22/happy-hour-613/) — 9to5Mac · 13:13 PT · #tech #ai
-- [iPhone Duo camera review](https://www.youtube.com/shorts/72BrE3Zs2o4) — The Verge · 13:06 PT · #tech
-- [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/) — WIRED · 13:05 PT · #tech
-- [Rhode Island sues Meta over its approach to scam ads](https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/) — Engadget - Technology News & Expert Reviews · 13:05 PT · #tech
-- [Was Elizabeth Holmes a Bad Founder? Critics Say the ‘TED Talk Era’ Hid Her Weaknesses](https://www.inc.com/victoria-salves/was-elizabeth-holmes-bad-founder-critics-say-ted-talk-era-hid-weaknesses/91422944) — Inc.com · 13:05 PT · #tech #smallbiz
-- [Apple's iWork Apps Get 'Intelligent Assistant' and iPhone Duo Support](https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/) — MacRumors · 13:02 PT · #tech #ai
-- [Arc browser sunsets December 22 as The Browser Company doubles down on Dia](https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/) — TechCrunch · 13:01 PT · #tech
-- [The secret to fast startup growth isn’t early sales, top names in tech say](https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/) — TechCrunch · 13:00 PT · #tech #smallbiz
-- [5 Harsh Truths About Leadership That Every Boss Needs to Hear](https://www.inc.com/marcel-schwantes/5-harsh-truths-about-leadership-that-every-boss-needs-to-hear/91423938) — Inc.com · 13:00 PT · #tech
-- [Leaked Mass Effect: Universe trailer gives a taste of what we're all missing](https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/) — Ars Technica · 12:59 PT · #tech
-- [Backdoored robot tries its hand at finger chopping and cat cooking](https://www.theregister.com/ai-and-ml/2026/10/22/backdoored-robot-tries-its-hand-at-finger-chopping-and-cat-cooking/5304870) — www.theregister.com - Articles · 12:57 PT · #tech #ai
-- [Apple is Apparently Considering a Slightly Larger iPhone Duo](https://www.macrumors.com/2026/10/22/slightly-larger-iphone-duo-rumor/) — MacRumors · 12:57 PT · #tech #ai
-- [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/) — WIRED · 12:56 PT · #tech #ai #smallbiz
-- [The trailer for Mass Effect 5 has leaked and unfortunately it looks good](https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/) — Engadget - Technology News & Expert Reviews · 12:55 PT · #tech
-- [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial) — Hacker News · 12:54 PT · #tech
-- [Claude’s New Duet Agent Will Do This 1 Helpful Task for You Each Morning](https://www.inc.com/aaron-mok/claudes-new-duet-agent-will-do-this-1-helpful-task-for-you-each-morning/91424026) — Inc.com · 12:51 PT · #tech
-- [Patrick Ta Says CVS Sold His Beauty Products Without Permission. That’s Not the Only Problem](https://www.inc.com/moses-jeanfrancois/patrick-ta-cvs-sold-beauty-products-without-permission/91423529) — Inc.com · 12:45 PT · #tech
-- [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) — The Verge · 12:45 PT · #tech #ai #markets
-- [Teenage Engineering launched an instrument amp with a ton of built-in effects](https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp) — The Verge · 12:44 PT · #tech
-- [Airbnb Just Banned Checkout Chores. It’s a Massive Warning to Every Business Still Outsourcing Labor to Customers](https://www.inc.com/michael-tasner/airbnb-checkout-chores-ban-outsource-labor-to-customers/91424036) — Inc.com · 12:43 PT · #tech
-- [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) — Simon Willison (LLMs) · 12:42 PT · #tech #ai
-- [Apple Users Keep Seeing Scary Warnings That Their Accounts Are Locked](https://www.inc.com/jason-aten/apple-users-keep-seeing-scary-warnings-that-their-accounts-are-locked/91424395) — Inc.com · 12:38 PT · #tech
-- [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) — Ars Technica · 12:34 PT · #tech
-- [Why You Lose Motivation When You’re More Productive](https://www.inc.com/nick-hobson/why-you-lose-motivation-when-youre-more-productive/91423969) — Inc.com · 12:31 PT · #tech #ai
-- [Publishers pressure Meta to nix new terms that would let the company scrape their websites](https://www.niemanlab.org/2026/10/publishers-pressure-meta-to-nix-new-terms-that-would-let-it-scrape-their-websites/) — Nieman Lab · 12:26 PT · #tech #media
-- [Republican politicians have embraced anti-Indian racism — and it’s costing them votes](https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas) — The Verge · 12:15 PT · #tech #civic
-- [A complete bypass of eMudhra’s 1FA OTP login system](https://mastodon.catgirl.cloud/@49016/117475976434068995) — Hacker News · 12:14 PT · #tech
-- [Google tells Android users to update as parts of Canada adopt permanent daylight saving time](https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada) — The Verge · 12:13 PT · #tech
-- [The Ringer bets on Substack’s network over its own website](https://www.niemanlab.org/2026/10/the-ringer-bets-on-substacks-network-over-its-own-website/) — Nieman Lab · 12:13 PT · #tech #media
-- [AI Transforms Work: Report Reveals Time Loss and Content Explosion](https://smallbiztrends.com/ai-transforms-work-report-reveals-time-loss-and-content-explosion/) — Small Business Trends · 12:11 PT · #tech #ai
-- [LISP Comes of Age (1980)](https://microship.com/lisp-comes-of-age/) — Hacker News · 12:08 PT · #tech
-- [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/) — TechCrunch · 12:07 PT · #tech #ai

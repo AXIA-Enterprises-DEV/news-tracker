@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-23T12:12:42-07:00
+updated: 2026-10-23T15:18:14-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,26 @@ tags: ["category", "us"]
 
 ## 2026-10-23
 
+- [Rams’ injuries pile up ahead of Sunday’s contest against Raiders](https://www.reviewjournal.com/sports/raiders/rams-injuries-pile-up-ahead-of-sundays-contest-against-raiders-3904276/) — Las Vegas Review-Journal · 14:46 PT · #us #nevada
+- [NBA Las Vegas expansion bid process down to 2 groups, after one drops out, report says](https://www.reviewjournal.com/sports/nba/nba-las-vegas-expansion-bid-process-down-to-2-groups-after-one-drops-out-report-says-3904271/) — Las Vegas Review-Journal · 14:41 PT · #us #nevada #smallbiz
+- [Keep on trussin’: Last 2 A’s ballpark roof arches to be in place by year’s end](https://www.reviewjournal.com/sports/athletics/keep-on-trussin-last-2-as-ballpark-roof-arches-to-be-in-place-by-years-end-3904267/) — Las Vegas Review-Journal · 14:40 PT · #us #nevada
+- [Copper Rays solar project wins key early Nye County approval](https://www.reviewjournal.com/news/environment/copper-rays-solar-project-wins-key-early-nye-county-approval-3904263/) — Las Vegas Review-Journal · 14:34 PT · #us #nevada
+- [Developers break ground on $110M senior housing complex in Henderson](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/developers-break-ground-on-110m-senior-housing-complex-in-henderson-3904247/) — Las Vegas Review-Journal · 14:33 PT · #us #nevada
+- [Unos padres agradecidos donan la cifra récord de 150 millones de dólares para garantizar que las familias de Las Vegas puedan acceder a la atención médica infantil en su ciudad](https://lasvegassun.com/news/2026/oct/23/unos-padres-agradecidos-donan-la-cifra-rcord-de-15/) — Las Vegas Sun · 14:26 PT · #us #nevada
+- [Grateful parents donate record $150 million to ensure Las Vegas families can access children's healthcare at home](https://lasvegassun.com/news/2026/oct/23/grateful-parents-donate-record-150-million-to-ensu/) — Las Vegas Sun · 14:16 PT · #us #nevada
+- [Did the Knights have a chance at trading for Connor Hellebuyck?](https://www.reviewjournal.com/sports/goldenknights/did-the-knights-have-a-chance-at-trading-for-connor-hellebuyck-3904238/) — Las Vegas Review-Journal · 14:01 PT · #us #nevada
+- [1st tanker of Russian diesel sets sail for the US in Trump’s controversial deal with Putin](https://www.reviewjournal.com/news/politics-and-government/1st-tanker-of-russian-diesel-sets-sail-for-the-us-in-trumps-controversial-deal-with-putin-3904230/) — Las Vegas Review-Journal · 13:54 PT · #us #civic #foreign #nevada #oil
+- [Data compromised in SafeVoice Nevada cybersecurity breach](https://www.ktnv.com/news/data-compromised-in-safevoice-nevada-cybersecurity-breach) — KTNV Las Vegas · 13:34 PT · #us #nevada
+- [In one of the West's few swing races, a Democrat tries to keep a Trump district](https://www.latimes.com/politics/story/2026-10-23/in-one-of-wests-few-swing-races-democrat-tries-to-keep-trump-district) — World & Nation · 13:27 PT · #us #civic
+- [Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown](https://lasvegassun.com/news/2026/oct/23/immigrants-seeking-us-citizenship-targeted-in-trum/) — Las Vegas Sun · 13:06 PT · #us #nevada
+- [WR Puka Nacua and CB Trent McDuffie are questionable vs. Raiders as Rams' injuries pile up](https://lasvegassun.com/news/2026/oct/23/wr-puka-nacua-and-cb-trent-mcduffie-are-questionab/) — Las Vegas Sun · 12:52 PT · #us #nevada
+- [North Las Vegas Police motorcycle struck in hit-and-run incident](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-police-motorcycle-struck-in-hit-and-run-incident) — KTNV Las Vegas · 12:44 PT · #us #nevada
+- [Trump expresses concern about NFL game and civil unrest in Paris](https://lasvegassun.com/news/2026/oct/23/trump-expresses-concern-about-nfl-game-and-civil-u/) — Las Vegas Sun · 12:36 PT · #us #nevada
+- [Las Vegas children’s hospital project lands $150M gift](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/las-vegas-childrens-hospital-project-lands-150m-gift-3904213/) — Las Vegas Review-Journal · 12:31 PT · #us #nevada
+- [Raiders get positive updates on key injured players ahead of Rams game](https://www.reviewjournal.com/sports/raiders/raiders-get-positive-updates-on-key-injured-players-ahead-of-rams-game-3904209/) — Las Vegas Review-Journal · 12:30 PT · #us #nevada
+- [Darien Porter’s ‘thick skin’ helping him thrive at corner for the Raiders](https://www.reviewjournal.com/sports/raiders/darien-porters-thick-skin-helping-him-thrive-at-corner-for-the-raiders-3904204/) — Las Vegas Review-Journal · 12:21 PT · #us #nevada
+- [College football prediction: QB change causes Indiana-Michigan line to move](https://www.reviewjournal.com/sports/betting/college-football-prediction-qb-change-causes-indiana-michigan-line-to-move-3904196/) — Las Vegas Review-Journal · 12:10 PT · #us #nevada
+- [Raiders coach Klint Kubiak previews Week 7 contest against Rams](https://www.reviewjournal.com/sports/raiders/raiders-coach-klint-kubiak-previews-week-7-contest-against-rams-watch-live-3904192/) — Las Vegas Review-Journal · 12:09 PT · #us #nevada
 - [New Orleans Square tenants still waiting for answers on redevelopment, relocation](https://www.ktnv.com/news/new-orleans-square-tenants-still-waiting-for-answers-on-redevelopment-relocation) — KTNV Las Vegas · 12:05 PT · #us #nevada
 - [Here's what four potential 2028 presidential candidates had to say in Las Vegas](https://thenevadaindependent.com/article/heres-what-four-potential-2028-presidential-candidates-had-to-say-in-las-vegas/) — The Nevada Independent · 11:50 PT · #us #nevada
 - [Woman charged in husband's fatal stabbing, Las Vegas police say](https://lasvegassun.com/news/2026/oct/23/woman-charged-in-husbands-fatal-stabbing-las-vegas/) — Las Vegas Sun · 11:28 PT · #us #nevada
@@ -403,23 +423,3 @@ tags: ["category", "us"]
 - [2026 Nevada election: All Las Vegas Review-Journal endorsements](https://www.reviewjournal.com/opinion/rj-endorses-2026/rj-endorses-our-choices-for-novembers-election-3897944/) — Las Vegas Review-Journal · 11:28 PT · #us #civic #nevada
 - [Henderson police violated state law with delayed notice of inmate’s 2024 death, city says](https://www.reviewjournal.com/local/henderson/henderson-police-violated-state-law-with-delayed-notice-of-inmates-2024-death-city-says-3902252/) — Las Vegas Review-Journal · 11:16 PT · #us #nevada
 - [Midweek storm to bring rain, wind and cooler weather to Las Vegas area](https://lasvegassun.com/news/2026/oct/19/midweek-storm-to-bring-rain-wind-and-cooler-weathe/) — Las Vegas Sun · 11:00 PT · #us #nevada
-- [Athletics hire Taylor Smith as president of baseball operations](https://lasvegassun.com/news/2026/oct/19/athletics-hire-taylor-smith-as-president-of-baseba/) — Las Vegas Sun · 10:32 PT · #us #nevada
-- [Florida is No. 1 in preseason AP Top 25 men's basketball poll as Duke, Illini also receive first-place votes](https://lasvegassun.com/news/2026/oct/19/florida-is-no-1-in-preseason-ap-top-25-mens-basket/) — Las Vegas Sun · 10:29 PT · #us #nevada
-- [Justice Department charges more than 2 dozen in California sweep targeting alleged noncitizen voters](https://lasvegassun.com/news/2026/oct/19/justice-department-charges-more-than-2-dozen-in-ca/) — Las Vegas Sun · 10:21 PT · #us #civic #nevada
-- [Billy Joel can’t drive or perform following brain disorder diagnosis](https://www.reviewjournal.com/news/nation-and-world/billy-joel-cant-drive-or-perform-following-brain-disorder-diagnosis-3902219/) — Las Vegas Review-Journal · 10:17 PT · #us #nevada
-- [Lady Rebels to retire Desi-Rae Young’s No. 23 jersey](https://lasvegassun.com/news/2026/oct/19/lady-rebels-to-retire-desi-rae-youngs-no-23-jersey/) — Las Vegas Sun · 09:59 PT · #us #nevada
-- [Russia hits Ukraine power grid again; Zelenskyy says nation got no early warning from partners](https://www.reviewjournal.com/news/politics-and-government/russia-hits-ukraine-power-grid-again-zelenskyy-says-nation-got-no-early-warning-from-partners-3902205/) — Las Vegas Review-Journal · 09:13 PT · #us #foreign #nevada
-- [Iran-backed Houthi rebels strike Yemen’s government forces, killing at least 53](https://www.reviewjournal.com/news/politics-and-government/iran-backed-houthi-rebels-strike-yemens-government-forces-killing-at-least-53-3902201/) — Las Vegas Review-Journal · 09:01 PT · #us #foreign #nevada
-- [Nellis AFB IDs service member killed in rappelling fall at football game](https://www.reviewjournal.com/news/military/nellis-afb-ids-service-member-killed-in-rappelling-fall-at-football-game-3902183/) — Las Vegas Review-Journal · 08:35 PT · #us #nevada
-- [Próximo presupuesto de Nevada podría aumentar en al menos $1 billón. Esta es la razón.](https://thenevadaindependent.com/article/proximo-presupuesto-de-nevada-podria-aumentar-en-al-menos-1-billon-esta-es-la-razon/) — The Nevada Independent · 08:29 PT · #us #nevada
-- [National Teen Driver Safety Week highlights importance of awareness for young drivers](https://www.ktnv.com/news/national-teen-driver-safety-week-highlights-importance-of-awareness-for-young-drivers) — KTNV Las Vegas · 08:27 PT · #us #nevada
-- [France on edge as curfews imposed to curb rioting and looting](https://www.latimes.com/world-nation/story/2026-10-19/french-prime-minister-calls-for-limited-curfews-to-curb-rioting-looting) — World & Nation · 08:04 PT · #us
-- [Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos](https://www.reviewjournal.com/news/civil-courts/lawsuit-alleges-roblox-didnt-safeguard-girl-from-predators-explicit-photos-3902172/) — Las Vegas Review-Journal · 08:00 PT · #us #nevada
-- [Donnie Wahlberg confirms his flight skidded off Las Vegas airport runway](https://www.ktnv.com/news/donnie-wahlberg-confirms-his-flight-skidded-off-las-vegas-airport-runway) — KTNV Las Vegas · 07:52 PT · #us #nevada
-- [Athletics tab Red Sox executive as new president of baseball operations](https://www.reviewjournal.com/sports/athletics/athletics-tab-red-sox-executive-as-new-president-of-baseball-operations-3902166/) — Las Vegas Review-Journal · 07:44 PT · #us #nevada
-- [Nellis airman killed in Alamodome rappelling accident identified](https://www.ktnv.com/news/nellis-airman-killed-in-alamodome-rappelling-accident-identified) — KTNV Las Vegas · 06:58 PT · #us #nevada
-- [Las Vegas ranks among world’s top cities, Oxford Economics says](https://www.reviewjournal.com/business/vegas-business/bizfeed/las-vegas-ranks-among-worlds-top-cities-oxford-economics-says-3902133/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
-- [New ‘Vegas Effect’ campaign expected to attract meeting planners](https://www.reviewjournal.com/business/conventions/new-vegas-effect-campaign-expected-to-attract-meeting-planners-3902129/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
-- [RTC touts transit safety gains, overdose saves](https://www.reviewjournal.com/news/news-columns/road-warrior/rtc-touts-transit-safety-gains-overdose-saves-3902125/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
-- [What are they hiding? CCSD shields records for school cop accused of misconduct](https://www.reviewjournal.com/investigations/what-are-they-hiding-ccsd-shields-records-for-school-cop-accused-of-misconduct-3902122/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
-- [Tre Tucker impresses as a Raiders WR bright spot with 2 TDs vs. Bills](https://www.reviewjournal.com/sports/raiders/tre-tucker-impresses-as-a-raiders-wr-bright-spot-with-2-tds-vs-bills-3902111/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada

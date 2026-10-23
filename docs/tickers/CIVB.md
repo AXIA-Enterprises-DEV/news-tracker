@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $CIVB"
-updated: 2026-10-23T12:12:42-07:00
-count: 1
+updated: 2026-10-23T15:18:14-07:00
+count: 2
 tags: ["ticker", "CIVB"]
 ---
 
 # Ticker: $CIVB
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-23
+
+- [Civista Bancshares, Inc. Appoints Jeremy Normington-Slay to Board of Directors](https://www.prnewswire.com/news-releases/civista-bancshares-inc-appoints-jeremy-normington-slay-to-board-of-directors-302917585.html) — PR Newswire General Business · 13:15 PT · #business #markets $CIVB
 
 ## 2026-10-21
 

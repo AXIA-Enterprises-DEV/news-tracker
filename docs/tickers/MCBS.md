@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $MCBS"
-updated: 2026-10-23T12:12:42-07:00
-count: 1
+updated: 2026-10-23T15:18:14-07:00
+count: 2
 tags: ["ticker", "MCBS"]
 ---
 
 # Ticker: $MCBS
 
-1 most recent items (14-day window).
+2 most recent items (14-day window).
+
+## 2026-10-23
+
+- [METROCITY BANKSHARES, INC. REPORTS EARNINGS FOR THIRD QUARTER 2026](https://www.prnewswire.com/news-releases/metrocity-bankshares-inc-reports-earnings-for-third-quarter-2026-302918089.html) — PR Newswire General Business · 13:00 PT · #business #markets $MCBS
 
 ## 2026-10-22
 
