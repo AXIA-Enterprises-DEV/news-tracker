@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-22T17:27:45-07:00
+updated: 2026-10-22T22:12:24-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,19 @@ tags: ["category", "science"]
 
 ## 2026-10-22
 
+- [APOD: 2026 October 23 – Andromeda in Southern Spring](https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/) — NASA · 21:05 PT · #science
+- [Mother bats' hearts beat faster at the sound of their own babies' cries](https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html) — Phys.org - latest science and technology news stories · 21:00 PT · #science
+- [El Niño Then and Now](https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/) — NASA · 21:00 PT · #science
+- [Bat mothers’ hearts beat faster when they hear their pups](https://www.popsci.com/environment/bat-mother-heart-beat-pups/) — Popular Science · 21:00 PT · #science
+- [40 years later, Chernobyl's nuclear fallout is not what scientists expected](https://www.sciencedaily.com/releases/2026/10/261021231241.htm) — Latest Science News -- ScienceDaily · 20:35 PT · #science
+- [How we mark our ballot can affect how we feel about voting. Here's why](https://phys.org/news/2026-10-ballot-affect-voting.html) — Phys.org - latest science and technology news stories · 20:00 PT · #science
+- [Nearly 3,000 exploding stars challenge our understanding of the Universe](https://www.sciencedaily.com/releases/2026/10/261021231244.htm) — Latest Science News -- ScienceDaily · 19:54 PT · #science
+- [Beyond hearing: Sensing when conversation becomes difficult](https://phys.org/news/2026-10-conversation-difficult.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
+- [Cambridge scientists create a $10 chip that could put a medical lab on your wrist](https://www.sciencedaily.com/releases/2026/10/261022081312.htm) — Latest Science News -- ScienceDaily · 18:21 PT · #science
+- [How Zimbabwe's government turned international condemnation into political ammunition](https://phys.org/news/2026-10-zimbabwe-international-condemnation-political-ammunition.html) — Phys.org - latest science and technology news stories · 18:20 PT · #science
+- [New test measures potentially harmful metals in cellulose food packaging](https://phys.org/news/2026-10-potentially-metals-cellulose-food-packaging.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
+- [Autonomous triangular modules could build tomorrow's mega-observatories](https://phys.org/news/2026-10-autonomous-triangular-modules-tomorrow-mega.html) — Phys.org - latest science and technology news stories · 17:40 PT · #science
+- [Scientists discover a hidden immune weapon against deadly lung cancer](https://www.sciencedaily.com/releases/2026/10/261021231232.htm) — Latest Science News -- ScienceDaily · 17:32 PT · #science
 - [Researchers develop AI tool to map microRNA binding sites on circular RNAs](https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science #ai
 - [Acupuncture and mutual exchange in Chinese and Soviet science](https://phys.org/news/2026-10-acupuncture-mutual-exchange-chinese-soviet.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science #foreign
 - [Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient](https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
@@ -105,6 +118,7 @@ tags: ["category", "science"]
 - [Implicit language hierarchies in English-taught programs create ambivalent positions for multilingual students](https://phys.org/news/2026-10-implicit-language-hierarchies-english-taught.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
 - [Study finds NYC tenant right-to-counsel program linked to fewer ED visits in high-risk neighborhoods](https://phys.org/news/2026-10-nyc-tenant-linked-ed-high.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
 - [Lost Schrödinger manuscript reveals his true view of quantum randomness](https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
+- [Millions take fish oil for brain health. A two-year study found no benefit](https://www.sciencedaily.com/releases/2026/10/261020085427.htm) — Latest Science News -- ScienceDaily · 05:46 PT · #science #oil
 - [Some fish might thrive in a warming climate](https://phys.org/news/2026-10-fish-climate.html) — Phys.org - latest science and technology news stories · 05:40 PT · #science
 - [Tokyo's streets reveal hidden gaps in urban inclusion and quality](https://phys.org/news/2026-10-tokyo-streets-reveal-hidden-gaps.html) — Phys.org - latest science and technology news stories · 05:30 PT · #science
 - [Birds are more afraid of women than men. Scientists have no idea why](https://www.sciencedaily.com/releases/2026/10/261021231250.htm) — Latest Science News -- ScienceDaily · 05:06 PT · #science
@@ -403,17 +417,3 @@ tags: ["category", "science"]
 - [NASA Experimental Mars Helicopter Blade Designs Target Longer Flights](https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/) — NASA · 09:02 PT · #science
 - [Employees with autism report hidden labor of workplace camouflaging in new study](https://phys.org/news/2026-10-employees-autism-hidden-labor-workplace.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
 - [Collecting phones during college lessons raises grades, large randomized trial finds](https://phys.org/news/2026-10-college-lessons-grades-large-randomized.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
-- [Sawbones: Horror Doctors](https://maximumfun.org/podcasts/sawbones/) — Sawbones: A Marital Tour of Misguided Medicine · 09:00 PT · #science
-- [Quantum probability can't be derived without assuming it first](https://phys.org/news/2026-10-quantum-probability-derived-assuming.html) — Phys.org - latest science and technology news stories · 08:50 PT · #science
-- [Scientists discover a promising blood sugar–regulating compound in red alga](https://phys.org/news/2026-10-scientists-blood-sugarregulating-compound-red.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science #oil
-- [Can restoring large animals help mitigate climate change? It's complicated](https://phys.org/news/2026-10-large-animals-mitigate-climate-complicated.html) — Phys.org - latest science and technology news stories · 08:40 PT · #science
-- [Ancient wildfire study offers warning for a warming world](https://phys.org/news/2026-10-ancient-wildfire-world.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
-- [Human activity threatens biodiversity in remote Patagonian kelp forests](https://phys.org/news/2026-10-human-threatens-biodiversity-remote-patagonian.html) — Phys.org - latest science and technology news stories · 08:20 PT · #science
-- [New comet accidentally discovered by space telescope](https://www.popsci.com/science/new-comet-discovered-euclid-space-telescope/) — Popular Science · 08:15 PT · #science
-- [NASA Provides Progress Update on Moon Base Rovers](https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/) — NASA · 08:00 PT · #science
-- [Surprising pattern emerges in reincarnation reports](https://phys.org/news/2026-10-pattern-emerges-reincarnation.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
-- [A quantum pathway to entropy-free energy transfer](https://phys.org/news/2026-10-quantum-pathway-entropy-free-energy.html) — Phys.org - latest science and technology news stories · 08:00 PT · #science
-- [Webb Captures Stellar Jets](https://www.nasa.gov/image-article/webb-captures-stellar-jets/) — NASA · 07:44 PT · #science
-- [Study asks, Who benefits from where hospitals or landfills are located?](https://phys.org/news/2026-10-benefits-hospitals-landfills.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
-- [Locusts get a sensory assist from nanomaterials—helping them detect more chemicals](https://phys.org/news/2026-10-locusts-sensory-nanomaterials-chemicals.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
-- [Bat Beauty Contest returns October 24](https://www.popsci.com/environment/bat-beauty-contest-2026/) — Popular Science · 07:30 PT · #science

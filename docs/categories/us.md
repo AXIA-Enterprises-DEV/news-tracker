@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-22T17:27:45-07:00
+updated: 2026-10-22T22:12:24-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,27 @@ tags: ["category", "us"]
 
 ## 2026-10-22
 
+- [Las Vegas high school soccer, girls volleyball playoff schedule](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-soccer-girls-volleyball-playoff-schedule-3903935/) — Las Vegas Review-Journal · 21:50 PT · #us #nevada
+- [Northeast Las Vegas resident raises safety concerns after gunfire damages vehicle](https://www.ktnv.com/neighborhoods/north-las-vegas/northeast-las-vegas-resident-raises-safety-concerns-after-gunfire-damages-vehicle) — KTNV Las Vegas · 21:15 PT · #us #nevada
+- [Echo & Rig partner acknowledges unpaid employees, promises full pay within about six weeks](https://www.ktnv.com/news/echo-rig-partner-acknowledges-unpaid-employees-promises-full-pay-within-about-six-weeks) — KTNV Las Vegas · 21:08 PT · #us #nevada
+- [BYRON YORK: Inside Trump’s job approval crisis](https://www.reviewjournal.com/opinion/byron-york-inside-trumps-job-approval-crisis-3903915/) — Las Vegas Review-Journal · 21:01 PT · #us #civic #nevada
+- [COMMENTARY: Democratic Socialism sounds new, but I’ve heard it before — in Spanish](https://www.reviewjournal.com/opinion/commentary-democratic-socialism-sounds-new-but-ive-heard-it-before-in-spanish-3903912/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [CARTOONS: He wants to have it both ways](https://www.reviewjournal.com/opinion/drawing-board/cartoons-he-wants-to-have-it-both-ways-3903902/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: Feminism and male behavior](https://www.reviewjournal.com/opinion/letters/letter-feminism-and-male-behavior-3903899/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [LETTER: No Trump fan](https://www.reviewjournal.com/opinion/letters/letter-no-trump-fan-3903896/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [EDITORIAL: Voters unhappy with the high cost of green schemes](https://www.reviewjournal.com/opinion/editorials/editorial-voters-unhappy-with-the-high-cost-of-green-schemes-3903893/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [VICTOR JOECKS: Ford has no plan to lower gas prices](https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-ford-has-no-plan-to-lower-gas-prices-3903890/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Howden, Eichel score for Golden Knights in loss at St. Louis](https://lasvegassun.com/news/2026/oct/22/howden-eichel-score-for-golden-knights-in-loss-at/) — Las Vegas Sun · 20:18 PT · #us #nevada
+- [LVMPD seeks information in cold case from 1990](https://www.ktnv.com/news/crime/lvmpd-seeks-information-in-cold-case-from-1990) — KTNV Las Vegas · 19:55 PT · #us #nevada
+- [‘It’s just sloppy play right now’: Knights defenseless again in loss to Blues](https://www.reviewjournal.com/sports/goldenknights/golden-knights-give-up-6-goals-again-in-loss-to-blues-3903864/) — Las Vegas Review-Journal · 19:49 PT · #us #nevada
+- [Coroner identifies Henderson couple found dead in apparent murder-suicide](https://www.reviewjournal.com/crime/homicides/coroner-identifies-henderson-couple-found-dead-in-apparent-murder-suicide-3903841/) — Las Vegas Review-Journal · 18:42 PT · #us #nevada
+- [Nevada Preps Girls Athlete of the Week: Eldorado’s Kimberly Dominguez](https://www.reviewjournal.com/nevada-preps/nevada-preps-girls-athlete-of-the-week-eldorados-kimberly-dominguez-3903836/) — Las Vegas Review-Journal · 18:27 PT · #us #nevada
+- [Nevada Preps Boys Athlete of the Week: Del Sol’s Arthur Gonzales](https://www.reviewjournal.com/nevada-preps/nevada-preps-boys-athlete-of-the-week-del-sols-arthur-gonzales-3903832/) — Las Vegas Review-Journal · 18:15 PT · #us #nevada
+- [Metro investigating after Channel 13 gets ghosted by Halloween event organizers](https://www.ktnv.com/news/metro-investigating-after-channel-13-gets-ghosted-by-halloween-event-organizers) — KTNV Las Vegas · 18:07 PT · #us #nevada
+- [Raiders rookie safety keeps passing tests from opposing offenses](https://www.reviewjournal.com/sports/raiders/raiders-rookie-safety-keeps-passing-tests-from-opposing-offenses-3903825/) — Las Vegas Review-Journal · 18:00 PT · #us #nevada
+- [ACLU and Las Vegas Metro police clash in court over costly paywalls blocking access to public records](https://www.ktnv.com/13-investigates/aclu-and-las-vegas-metro-police-clash-in-court-over-costly-paywalls-blocking-access-to-public-records) — KTNV Las Vegas · 17:57 PT · #us #nevada
+- [80 homes flooded in Southern Utah city; more rain soaks Southwest](https://www.reviewjournal.com/news/nation-and-world/utah-communities-hit-hard-by-flooding-as-more-moisture-soaks-southwest-3903812/) — Las Vegas Review-Journal · 17:46 PT · #us #nevada
+- [‘Super competitor’: SEC commit leads Arbor View into Superintendent’s Cup final](https://www.reviewjournal.com/nevada-preps/super-competitor-sec-commit-leads-arbor-view-into-superintendents-cup-final-3903806/) — Las Vegas Review-Journal · 17:42 PT · #us #markets #nevada
 - [Las Vegas Arts District intersection to remain partially closed tied to storm drain project](https://www.reviewjournal.com/local/traffic/las-vegas-arts-district-intersection-to-remain-partially-closed-tied-to-storm-drain-project-3903796/) — Las Vegas Review-Journal · 17:17 PT · #us #nevada
 - [Henderson police investigate shooting that killed woman at Hampton Court complex home](https://www.ktnv.com/neighborhoods/henderson/henderson-police-investigate-shooting-that-killed-woman-at-hampton-court-complex-home) — KTNV Las Vegas · 17:02 PT · #us #nevada
 - [Juvenile arrested after firearm recovered from Sierra Vista High School](https://www.ktnv.com/news/crime/juvenile-arrested-after-firearm-recovered-from-sierra-vista-high-school) — KTNV Las Vegas · 16:49 PT · #us #nevada
@@ -402,24 +423,3 @@ tags: ["category", "us"]
 - [1.5M pounds of ready-to-eat meats recalled across US over temp scare](https://www.reviewjournal.com/news/nation-and-world/1-5m-pounds-of-ready-to-eat-meats-recalled-across-us-over-temp-scare-3901843/) — Las Vegas Review-Journal · 10:03 PT · #us #nevada
 - [Haas Automation hiring more than 1,000 workers at new Henderson plant during final job fair of year](https://www.ktnv.com/neighborhoods/henderson/haas-automation-hiring-more-than-1-000-workers-at-new-henderson-plant-during-final-job-fair-of-year) — KTNV Las Vegas · 09:53 PT · #us #nevada
 - [What channel is Raiders vs Bills: TV, streaming, radio, kickoff time for Week 6 matchup](https://www.reviewjournal.com/sports/raiders/what-channel-is-raiders-vs-bills-tv-streaming-radio-kickoff-time-for-week-6-matchup-3901834/) — Las Vegas Review-Journal · 09:53 PT · #us #nevada
-- [Jack Eichel, Mark Stone off to blistering start for Golden Knights](https://www.reviewjournal.com/sports/goldenknights/jack-eichel-mark-stone-off-to-blistering-start-for-golden-knights-3901830/) — Las Vegas Review-Journal · 09:43 PT · #us #nevada
-- [Nellis Air Force Base service member dies after rappelling fall at a college football game in Texas](https://www.reviewjournal.com/news/military/nellis-air-force-base-service-member-dies-after-rappelling-fall-at-a-college-football-game-in-texas-3901817/) — Las Vegas Review-Journal · 09:23 PT · #us #nevada
-- [Trump Gives Benjamin Netanyahu The Endorsement He's Been Waiting For](https://www.huffpost.com/entry/donald-trump-endorses-benjamin-netanyahu_n_6ad4ec7ee4b0ce24aeda0ec4) — World News - Breaking News, Top Stories · 09:10 PT · #us #civic #foreign
-- [France's Macron Vows To Hold Accountable Those Who 'Sought To Bring Down The Republic'](https://www.huffpost.com/entry/france-protests-arrests_n_6ad4e9d0e4b0dccf572c49b3) — World News - Breaking News, Top Stories · 09:00 PT · #us
-- [LIVE UPDATES: Raiders host Bills looking to snap 2-game losing streak](https://www.reviewjournal.com/sports/raiders/live-updates-raiders-host-bills-looking-to-snap-2-game-losing-streak-3901811/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
-- [Ukraine launches more than 1,000 drones at Russia; St. Petersburg oil facilities ablaze](https://www.reviewjournal.com/news/politics-and-government/ukraine-launches-more-than-1000-drones-at-russia-st-petersburg-oil-facilities-ablaze-3901807/) — Las Vegas Review-Journal · 08:57 PT · #us #foreign #nevada #oil
-- [Pedestrian killed in North Las Vegas crash](https://www.reviewjournal.com/local/north-las-vegas/pedestrian-killed-in-north-las-vegas-crash-3901801/) — Las Vegas Review-Journal · 08:33 PT · #us #nevada
-- [1 dead, 1 injured after 2-vehicle crash in North Las Vegas](https://www.reviewjournal.com/local/north-las-vegas/1-dead-1-injured-after-2-vehicle-crash-in-north-las-vegas-3901794/) — Las Vegas Review-Journal · 07:47 PT · #us #nevada
-- [Hill: NBA makes half-hearted attempt to fix betting business it shouldn’t be in](https://www.reviewjournal.com/sports/sports-columns/adam-hill/hill-nba-makes-half-hearted-attempt-to-fix-betting-business-it-shouldnt-be-in-3901776/) — Las Vegas Review-Journal · 06:01 PT · #us #nevada
-- [Las Vegas Lights FC drop last sports contest ever played at Cashman Field](https://www.reviewjournal.com/sports/soccer/las-vegas-lights-fc-loses-last-sport-game-ever-played-at-cashman-fields-3901761/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
-- [In tight Texas Senate race, Trump's immigration crackdown tests Republicans' hold on voters](https://www.latimes.com/politics/story/2026-10-18/trumps-immigration-crackdown-tests-republicans-hold-on-texas-voters) — World & Nation · 03:00 PT · #us #civic
-- [Barabak: Despite a blue tide, this Democratic governor is fighting to survive](https://www.latimes.com/politics/story/2026-10-18/midterm-election-governor-races-oregon-tina-kotek-christine-drazan) — World & Nation · 03:00 PT · #us #civic
-- [Mexico's beleaguered Pacific coast braces for another storm in record hurricane year](https://www.latimes.com/world-nation/story/2026-10-18/mexico-hurricane-pacific-coast) — World & Nation · 03:00 PT · #us
-- ['Halo guy' Marty O'Donnell wants to flip a Vegas House seat. Can he convince voters IRL?](https://thenevadaindependent.com/article/halo-guy-marty-odonnell-wants-to-flip-a-vegas-house-seat-can-he-convince-voters-irl/) — The Nevada Independent · 02:00 PT · #us #foreign #nevada
-- [As Nevada's 24-hour economy grows, working parents struggle to find overnight childcare](https://thenevadaindependent.com/article/as-nevadas-24-hour-economy-grows-working-parents-struggle-to-find-overnight-childcare/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [OPINION: Why is this 2017 Las Vegas sexual assault case taking so long to come to trial?](https://thenevadaindependent.com/article/opinion-why-is-this-2017-las-vegas-sexual-assault-case-taking-so-long-to-come-to-trial/) — The Nevada Independent · 02:00 PT · #us #nevada
-- [More CCSD students passing AP exams, with qualifying scores up 9.6%](https://lasvegassun.com/news/2026/oct/18/more-ccsd-students-passing-ap-exams-with-qualifyin/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [La ACLU apela el fallo sobre las restricciones en los puentes peatonales del Strip de Las Vegas](https://lasvegassun.com/news/2026/oct/18/la-aclu-apela-el-fallo-sobre-las-restricciones-en/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [ACLU appeals ruling on Las Vegas Strip pedestrian bridge restrictions](https://lasvegassun.com/news/2026/oct/18/aclu-appeals-ruling-on-las-vegas-strip-pedestrian/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [NSHE amplía sus esfuerzos de seguridad en los campus con la nueva campaña ‘Eyes Open’](https://lasvegassun.com/news/2026/oct/18/nshe-ampla-sus-esfuerzos-de-seguridad-en-los-campu/) — Las Vegas Sun · 02:00 PT · #us #ai #nevada
-- [Education board expands college safety efforts with Eyes Open campaign](https://lasvegassun.com/news/2026/oct/18/nshe-expands-campus-safety-efforts-with-new-eyes-o/) — Las Vegas Sun · 02:00 PT · #us #nevada

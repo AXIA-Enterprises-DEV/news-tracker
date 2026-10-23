@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $BBNX"
-updated: 2026-10-22T17:27:45-07:00
+updated: 2026-10-22T22:12:24-07:00
 count: 3
 tags: ["ticker", "BBNX"]
 ---

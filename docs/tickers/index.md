@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-22T17:27:45-07:00
+updated: 2026-10-22T22:12:24-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -164,6 +164,7 @@ tags: ["tickers"]
 - [$TSEM](TSEM.md) — 1 items
 - [$PTN](PTN.md) — 1 items
 - [$UWHR](UWHR.md) — 1 items
+- [$CMG](CMG.md) — 1 items
 - [$GPN](GPN.md) — 1 items
 - [$PBF](PBF.md) — 1 items
 - [$OPTU](OPTU.md) — 1 items
@@ -306,4 +307,3 @@ tags: ["tickers"]
 - [$G](G.md) — 1 items
 - [$ARXS](ARXS.md) — 1 items
 - [$FFIN](FFIN.md) — 1 items
-- [$SI](SI.md) — 1 items
