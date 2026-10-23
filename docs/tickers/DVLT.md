@@ -1,13 +1,18 @@
 ---
 title: "Ticker: $DVLT"
-updated: 2026-10-23T08:11:08-07:00
-count: 6
+updated: 2026-10-23T12:12:42-07:00
+count: 8
 tags: ["ticker", "DVLT"]
 ---
 
 # Ticker: $DVLT
 
-6 most recent items (14-day window).
+8 most recent items (14-day window).
+
+## 2026-10-23
+
+- [Datavault AI firma una carta de intención no vinculante para adquirir el 19,9 % del capital de DataMEDS AI a cambio de ampliar una licencia tecnológica](http://www.businesswire.com/news/home/20261022447140/es/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 08:19 PT · #business #ai #markets $DVLT
+- [Datavault AI unterzeichnet unverbindliche Absichtserklärung zum Erwerb von 19,9 Prozent an DataMEDS AI im Gegenzug für die Erweiterung einer Technologielizenz](http://www.businesswire.com/news/home/20261022413136/de/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 08:18 PT · #business #ai #markets $DVLT
 
 ## 2026-10-22
 
