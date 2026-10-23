@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-22T22:12:24-07:00
+updated: 2026-10-23T03:11:18-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -9,8 +9,24 @@ tags: ["category", "us"]
 
 400 most recent items (14-day window).
 
+## 2026-10-23
+
+- [Florida’s new Trump](https://www.politico.com/newsletters/playbook/2026/10/23/floridas-new-trump-01133530) — Playbook · 03:05 PT · #us
+- [Here's how Nevada's mail and in-person voting works](https://thenevadaindependent.com/article/heres-how-nevadas-mail-and-in-person-voting-works/) — The Nevada Independent · 02:00 PT · #us #nevada
+- [OPINION: The federal government said 15,903. The answer was zero.](https://thenevadaindependent.com/article/opinion-the-federal-government-said-15903-the-answer-was-zero/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
+- [Nevada lanza un panel de control en línea con datos electorales](https://lasvegassun.com/news/2026/oct/23/nevada-lanza-un-panel-de-control-en-lnea-con-datos/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Las Vegas airport to break ground on new fire station](https://lasvegassun.com/news/2026/oct/23/las-vegas-airport-to-break-ground-on-new-fire-stat/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Al doblegarse ante Moscú, Trump traiciona a Ucrania y deja de lado los principios de Estados Unidos](https://lasvegassun.com/news/2026/oct/23/al-doblegarse-ante-mosc-trump-traiciona-a-ucrania/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Business briefs: Elite Medical Center returns as Grand Prix supplier](https://lasvegassun.com/news/2026/oct/23/business-briefs-elite-medical-center-returns-as-gr/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Nevada launches online election data dashboard](https://lasvegassun.com/news/2026/oct/23/nevada-launches-online-election-dashboard/) — Las Vegas Sun · 02:00 PT · #us #civic #nevada
+- [By bending the knee to Moscow, Trump betrays Ukraine and discards America's principles](https://lasvegassun.com/news/2026/oct/23/by-bending-the-knee-to-moscow-trump-betrays-ukrain/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
+- [After a woman is harassed, male allies can make all the difference](https://lasvegassun.com/news/2026/oct/23/after-a-woman-is-harassed-male-allies-can-make-all/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [US-Iran war is making world hunger much worse](https://lasvegassun.com/news/2026/oct/23/us-iran-war-is-making-world-hunger-much-worse/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
+- [Black tennis players shouldn’t have to deal with this](https://lasvegassun.com/news/2026/oct/23/black-tennis-players-shouldnt-have-to-deal-with-th/) — Las Vegas Sun · 02:00 PT · #us #nevada
+
 ## 2026-10-22
 
+- [No. 2 Faith Lutheran sweeps Arbor View in 5A girls volleyball — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-2-faith-lutheran-sweeps-arbor-view-in-5a-girls-volleyball-photos-3903940/) — Las Vegas Review-Journal · 22:01 PT · #us #nevada
 - [Las Vegas high school soccer, girls volleyball playoff schedule](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-soccer-girls-volleyball-playoff-schedule-3903935/) — Las Vegas Review-Journal · 21:50 PT · #us #nevada
 - [Northeast Las Vegas resident raises safety concerns after gunfire damages vehicle](https://www.ktnv.com/neighborhoods/north-las-vegas/northeast-las-vegas-resident-raises-safety-concerns-after-gunfire-damages-vehicle) — KTNV Las Vegas · 21:15 PT · #us #nevada
 - [Echo & Rig partner acknowledges unpaid employees, promises full pay within about six weeks](https://www.ktnv.com/news/echo-rig-partner-acknowledges-unpaid-employees-promises-full-pay-within-about-six-weeks) — KTNV Las Vegas · 21:08 PT · #us #nevada
@@ -86,12 +102,14 @@ tags: ["category", "us"]
 - [Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war](https://www.reviewjournal.com/news/politics-and-government/iran-says-7-oil-tankers-attacked-in-the-strait-of-hormuz-as-fears-grow-of-a-return-to-war-3903494/) — Las Vegas Review-Journal · 06:47 PT · #us #foreign #nevada #oil
 - [Graney: Taylor Smith needs to surround Athletics with competence](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-taylor-smith-needs-to-surround-athletics-with-competence-3903483/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
 - [Exotic dancer sues Las Vegas club over alleged safety failures](https://www.reviewjournal.com/crime/courts/exotic-dancer-sues-las-vegas-club-over-alleged-safety-failures-3903480/) — Las Vegas Review-Journal · 06:30 PT · #us #nevada
+- [Almost All Coral Reef Ecosystems Face Risk Of Collapse In 50 Years, Study Warns](https://www.huffpost.com/entry/study-nearly-all-coral-reefs-collapsing_n_6ada0558e4b04f71533f84e4) — World News - Breaking News, Top Stories · 06:05 PT · #us
 - [At 57, Catherine Zeta-Jones targets surprises, challenges](https://www.reviewjournal.com/livewell/at-57-catherine-zeta-jones-targets-surprises-challenges-3903473/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [Vegas Loop Paradise extension still set to open for Grand Prix](https://www.reviewjournal.com/local/traffic/vegas-loop-paradise-extension-still-set-to-open-for-grand-prix-3903469/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
 - [3 key steps during Medicare’s open enrollment period](https://www.reviewjournal.com/livewell/3-key-steps-during-medicares-open-enrollment-period-3903466/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
 - [Sale of once-prominent office park near Las Vegas Strip falls through](https://www.reviewjournal.com/business/vegas-business/building-las-vegas/sale-of-once-prominent-office-park-near-las-vegas-strip-falls-through-3903454/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
 - [Savvy Senior: Why do women lose hair as they age?](https://www.reviewjournal.com/livewell/savvy-senior-why-do-women-lose-hair-as-they-age-3903450/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
 - [Las Vegas Valley to see scattered showers today as storm arrives](https://www.reviewjournal.com/local/weather/las-vegas-valley-to-see-scattered-showers-today-as-storm-arrives-3903446/) — Las Vegas Review-Journal · 05:00 PT · #us #nevada
+- [Russia Pounds Kyiv With Missiles As Moscow Says 808 Drones Downed In Russian Cities](https://www.huffpost.com/entry/russia-ukraine-attacks_n_6ad9ee1be4b0ba084e14eccd) — World News - Breaking News, Top Stories · 04:17 PT · #us #foreign
 - [Trump budget cuts threaten late Redondo Beach couple's soccer refugee program](https://www.latimes.com/sports/soccer/story/2026-10-22/trump-budget-cuts-threaten-global-soccer-refugee-program) — World & Nation · 04:00 PT · #us
 - [The GOP’s harvest of discontent](https://www.politico.com/newsletters/playbook/2026/10/22/the-gops-harvest-of-discontent-01131524) — Playbook · 03:09 PT · #us
 - [Mark Carney Visits Turkey In Push To Ease Canada's U.S. Trade Dependence](https://www.huffpost.com/entry/mark-carney-turkey-visit-erdogan_n_6ad9d59de4b02def986adafd) — World News - Breaking News, Top Stories · 02:29 PT · #us #foreign
@@ -408,18 +426,3 @@ tags: ["category", "us"]
 - [Graney: Loss or not, Raiders show something in bouncing back](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-loss-or-not-raiders-show-something-in-bouncing-back-3901989/) — Las Vegas Review-Journal · 16:53 PT · #us #nevada
 - [Raiders lose at home to Bills for third straight loss after 3-0 start — PHOTOS](https://www.reviewjournal.com/sports/raiders/raiders-lose-at-home-to-bills-for-third-straight-loss-after-3-0-start-3901959/) — Las Vegas Review-Journal · 16:43 PT · #us #nevada
 - [Las Vegas high school boys, girls soccer: What’s on line in final week?](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-boys-girls-soccer-whats-on-line-in-final-week-3901950/) — Las Vegas Review-Journal · 16:27 PT · #us #nevada
-- [U.S. Resumes Intelligence-sharing With Ukraine After Pause, Zelenskyy Says](https://www.huffpost.com/entry/united-states-ukraine-critical-intelligence-russia_n_6ad53ff1e4b05d72fd921b00) — World News - Breaking News, Top Stories · 15:12 PT · #us #foreign
-- [Bills starting safety ejected after spitting toward Raiders players](https://www.reviewjournal.com/sports/raiders/bills-starting-safety-ejected-after-spitting-toward-raiders-players-3901908/) — Las Vegas Review-Journal · 14:51 PT · #us #nevada
-- [Photographer Attacked By Settlers In The West Bank Feels Insulted By Netanyahu](https://www.huffpost.com/entry/israel-palestinians-journalist-attacked-heidi-levine_n_6ad53819e4b05d72fd9219f2) — World News - Breaking News, Top Stories · 14:23 PT · #us #foreign
-- [Road to Vegas: UCLA, Tennessee move into CFP projected bracket](https://www.reviewjournal.com/sports/football/road-to-vegas-ucla-tennessee-move-into-cfp-projected-bracket-3901891/) — Las Vegas Review-Journal · 14:18 PT · #us #nevada
-- [1 dead, 1 in critical condition after head-on crash in North Las Vegas](https://www.ktnv.com/news/1-dead-1-in-critical-condition-after-head-on-crash-in-north-las-vegas) — KTNV Las Vegas · 13:53 PT · #us #nevada
-- [Man killed, woman injured after dispute leads to shooting in northeast Las Vegas Valley](https://www.reviewjournal.com/crime/homicides/man-killed-woman-injured-after-dispute-leads-to-shooting-in-northeast-las-vegas-valley-3901879/) — Las Vegas Review-Journal · 13:38 PT · #us #nevada
-- [NFL Monday Night football betting: Even with injuries, one team is clear choice](https://www.reviewjournal.com/sports/betting/nfl-monday-night-football-betting-even-with-injuries-one-team-is-clear-choice-3901875/) — Las Vegas Review-Journal · 13:32 PT · #us #nevada
-- [Pedestrian killed in collision with vehicle in North Las Vegas, police say](https://www.ktnv.com/news/man-dead-after-being-struck-by-vehicle-in-north-las-vegas-police-say) — KTNV Las Vegas · 13:28 PT · #us #nevada
-- [No one injured after plane skids off runway at Harry Reid International Airport](https://www.ktnv.com/news/no-one-injured-after-plane-skids-off-runway-at-harry-reid-international-airport) — KTNV Las Vegas · 12:45 PT · #us #nevada
-- [Aircraft skids off runway at Las Vegas airport, causing delays](https://www.reviewjournal.com/local/local-las-vegas/aircraft-skids-off-runway-at-las-vegas-airport-causing-delays-3901859/) — Las Vegas Review-Journal · 12:37 PT · #us #nevada
-- [Raiders officially without key defensive starter against Buffalo Bills](https://www.reviewjournal.com/sports/raiders/raiders-officially-without-key-defensive-starter-against-buffalo-bills-3901855/) — Las Vegas Review-Journal · 12:32 PT · #us #nevada
-- [Democrats’ Tejano star sings to swing South Texas](https://www.politico.com/newsletters/playbook/2026/10/18/democrats-tejano-star-sings-to-swing-south-texas-01125730) — Playbook · 10:13 PT · #us
-- [1.5M pounds of ready-to-eat meats recalled across US over temp scare](https://www.reviewjournal.com/news/nation-and-world/1-5m-pounds-of-ready-to-eat-meats-recalled-across-us-over-temp-scare-3901843/) — Las Vegas Review-Journal · 10:03 PT · #us #nevada
-- [Haas Automation hiring more than 1,000 workers at new Henderson plant during final job fair of year](https://www.ktnv.com/neighborhoods/henderson/haas-automation-hiring-more-than-1-000-workers-at-new-henderson-plant-during-final-job-fair-of-year) — KTNV Las Vegas · 09:53 PT · #us #nevada
-- [What channel is Raiders vs Bills: TV, streaming, radio, kickoff time for Week 6 matchup](https://www.reviewjournal.com/sports/raiders/what-channel-is-raiders-vs-bills-tv-streaming-radio-kickoff-time-for-week-6-matchup-3901834/) — Las Vegas Review-Journal · 09:53 PT · #us #nevada

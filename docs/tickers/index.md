@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-22T22:12:24-07:00
+updated: 2026-10-23T03:11:18-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -14,6 +14,7 @@ tags: ["tickers"]
 - [$DVLT](DVLT.md) — 6 items
 - [$CALX](CALX.md) — 6 items
 - [$VG](VG.md) — 6 items
+- [$JKS](JKS.md) — 5 items
 - [$GIL](GIL.md) — 5 items
 - [$FORR](FORR.md) — 5 items
 - [$RMNI](RMNI.md) — 5 items
@@ -31,7 +32,6 @@ tags: ["tickers"]
 - [$ERIC](ERIC.md) — 3 items
 - [$LMT](LMT.md) — 3 items
 - [$CRWV](CRWV.md) — 3 items
-- [$JKS](JKS.md) — 3 items
 - [$LINC](LINC.md) — 3 items
 - [$BBNX](BBNX.md) — 3 items
 - [$LUMN](LUMN.md) — 3 items
@@ -95,6 +95,8 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$AMBR](AMBR.md) — 1 items
+- [$SU](SU.md) — 1 items
 - [$SCAG](SCAG.md) — 1 items
 - [$SHEL](SHEL.md) — 1 items
 - [$LNAI](LNAI.md) — 1 items
@@ -305,5 +307,3 @@ tags: ["tickers"]
 - [$RHI](RHI.md) — 1 items
 - [$SOLV](SOLV.md) — 1 items
 - [$G](G.md) — 1 items
-- [$ARXS](ARXS.md) — 1 items
-- [$FFIN](FFIN.md) — 1 items

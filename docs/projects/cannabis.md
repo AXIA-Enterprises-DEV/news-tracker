@@ -1,17 +1,18 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-22T22:12:24-07:00
-count: 149
+updated: 2026-10-23T03:11:18-07:00
+count: 150
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-149 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+150 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-22
 
 - [Republican Adriana Guzmán Fralick running for Nevada attorney general’s office - KLAS 8 News Now](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd24yNkFGLXdMQkNmeXZKS3ZnaGdId3plVEx3NXo2OVFJQWZJaTBzTWxhWC1GQjVZSThhcjc1UzY2SVJycFN6V2dCeWJ1aU1EODNfck95eU43dHVoTFplTjdJYmpDODl6ZEUtYi1ibXRJSzNWYjh1ZVhkWkw2RWd0Mmc3NGdWZjhDZ1hNdUtNaVo3TmdTYWIzdjQ1RjExRnNicTFvZ0E1MjMwOU1HMzRkZVVZQlZ2S0VKemVMMnVxZVhhTXpxbzZZZ0trQS1EM3RxSEHSAdcBQVVfeXFMTzQ4eHExTy1Ldl9ybU5yQXdIRlhrNUNFZ0hjaXFLZ2doX0JnVmlycFp3OEgzMkZWOTZVS3N1NFpHTzA2Q1VxVlBNYlQ4ZnZJYjRsMDFsQjJGOXJRQy1Fb2cyOGtoQlNZODh3cFlvNXBnNE02amx1ejlIeUZqSkFxWl9TSm14SjJnMnJxWDR2RTNDYmJndW9yd3RXY1FUaWtJSVhodkVOaGRkQUEwbXo0ZTB2a29NZDNhTDdxMU1JdVByRWcwYVBxQmZUYklsUXpZLXpJUXRMdlk?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:06 PT · #business #cannabis #nevada
+- [Republican Adriana Guzmán Fralick running for Nevada attorney general’s office - AOL.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDRHTG5lQlFsRGZER1NBMTRzV2J4QXNMWnNUQzFHVmpSUDFudVZpaHJZUzYxaEtyZjZlZC1HVmZ0NHJvZUpZa3Fpb0RsZmdUb0ctRHp0Z1RuWjRiY3JUQWVQNUZTS0o1aTExc01iMVFOWXFmRndJOXNtQS1DNmF0VVNHbw?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 17:06 PT · #business #cannabis #nevada
 - [Cirrus Social Club Plans Las Vegas Cannabis Lounge by 2027 - Hoodline](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUhjbjFwanVUeDMyNDJBYmMtSDd5T3ZKSmJYWTFDeGtIQmk2X3UybnlLYndUTE1YMG03cV9ING1PY0hkbUlpcm9SOEJta0IxNE5pbFB5QzRPLWgwMWFuY2ZMamkwZVFaaXVoWlBfVFo4RVFuR2tLb1lNWXhra3BqS1NFMUtSYW9XYkRXUjZ5MFl0MDhsN3VXZ0JOOA?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 16:42 PT · #business #cannabis #nevada
 - [New York to open first adult-use cannabis nursery license applications](https://mjbizdaily.com/news/new-york-to-open-first-adult-use-cannabis-nursery-license-applications/618828/) — MJBizDaily · 12:56 PT · #business #cannabis #smallbiz
 - [DOJ Isn’t ‘Micromanaging’ State Marijuana Laws With Prosecution Of Virginia Senator, Blanche Says](https://www.marijuanamoment.net/doj-isnt-micromanaging-state-marijuana-laws-with-prosecution-of-virginia-senator-blanche-says/) — Marijuana Moment · 12:12 PT · #business #cannabis #civic

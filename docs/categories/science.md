@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-22T22:12:24-07:00
+updated: 2026-10-23T03:11:18-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -8,6 +8,16 @@ tags: ["category", "science"]
 # Category: science
 
 400 most recent items (14-day window).
+
+## 2026-10-23
+
+- [Just 3% of the world's glaciers account for over half of glacier ice loss](https://phys.org/news/2026-10-world-glaciers-account-glacier-ice.html) — Phys.org - latest science and technology news stories · 02:00 PT · #science
+- [Taiwan shuts down as Typhoon Champi approaches](https://phys.org/news/2026-10-taiwan-typhoon-champi-approaches.html) — Phys.org - latest science and technology news stories · 01:30 PT · #science #foreign
+- [Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths](https://phys.org/news/2026-10-europe-killer-summer-climate-blamed.html) — Phys.org - latest science and technology news stories · 01:20 PT · #science
+- [Light-based method enables precise control of ultrafast electron flow in a scanning tunneling microscope](https://phys.org/news/2026-10-based-method-enables-precise-ultrafast.html) — Phys.org - latest science and technology news stories · 01:10 PT · #science
+- [Costly dead-tissue disorder in apples caused by faster growth rates](https://phys.org/news/2026-10-dead-tissue-disorder-apples-faster.html) — Phys.org - latest science and technology news stories · 01:00 PT · #science
+- [Iris patterns offer a noninvasive way to recognize individual Amazonian treefrogs](https://phys.org/news/2026-10-iris-patterns-noninvasive-individual-amazonian.html) — Phys.org - latest science and technology news stories · 01:00 PT · #science
+- [A mineral from the inside of planets reveals a surprising lesson: How you push matters](https://phys.org/news/2026-10-mineral-planets-reveals-lesson.html) — Phys.org - latest science and technology news stories · 00:42 PT · #science
 
 ## 2026-10-22
 
@@ -26,6 +36,7 @@ tags: ["category", "science"]
 - [Scientists discover a hidden immune weapon against deadly lung cancer](https://www.sciencedaily.com/releases/2026/10/261021231232.htm) — Latest Science News -- ScienceDaily · 17:32 PT · #science
 - [Researchers develop AI tool to map microRNA binding sites on circular RNAs](https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science #ai
 - [Acupuncture and mutual exchange in Chinese and Soviet science](https://phys.org/news/2026-10-acupuncture-mutual-exchange-chinese-soviet.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science #foreign
+- [Elusive snow leopards and evasive particles: Books in brief](https://www.nature.com/articles/d41586-026-03395-3) — Nature · 17:00 PT · #science
 - [Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient](https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Material substitution can increase the potential environmental impact of packaging systems](https://phys.org/news/2026-10-material-substitution-potential-environmental-impact.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [What is a neutrino anyway? A look at the science behind this year's Nobel Prize in Physics](https://phys.org/news/2026-10-neutrino-science-year-nobel-prize.html) — Phys.org - latest science and technology news stories · 16:30 PT · #science
@@ -170,6 +181,7 @@ tags: ["category", "science"]
 - [Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world](https://www.nature.com/articles/d41586-026-03389-1) — Nature · 17:00 PT · #science #ai
 - [Current-Driven Molecular Machine with Rotation-Enhanced Conductance](https://www.nature.com/articles/s41586-026-11312-x) — Nature · 17:00 PT · #science
 - [A first for CRISPR: powerful prime editing alters DNA directly in the human body](https://www.nature.com/articles/d41586-026-03371-x) — Nature · 17:00 PT · #science
+- [Daily briefing: The tell-tale features of a Denisovan](https://www.nature.com/articles/d41586-026-03438-9) — Nature · 17:00 PT · #science
 - [AI listens to bee buzzes to monitor activity without lethal traps](https://phys.org/news/2026-10-ai-bee-lethal.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #ai
 - [Venomous primate thought lost to science for nearly a century turns up in gardens and on roads across Indonesia](https://phys.org/news/2026-10-venomous-primate-thought-lost-science.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [Holding out or holding back? Kindergarten redshirting and retention shifted sharply during the pandemic](https://phys.org/news/2026-10-kindergarten-redshirting-retention-shifted-sharply.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -347,6 +359,7 @@ tags: ["category", "science"]
 - [The anatomy of a personal health agent](https://www.nature.com/articles/s41586-026-11161-8) — Nature · 17:00 PT · #science
 - [Surprise! White dwarf stars come in a rainbow of colours](https://www.nature.com/articles/d41586-026-03319-1) — Nature · 17:00 PT · #science
 - [Teen depression and anxiety predicted by childhood brain development](https://www.nature.com/articles/d41586-026-03357-9) — Nature · 17:00 PT · #science
+- [AI doctors’ orders come with a sky-high bill](https://www.nature.com/articles/d41586-026-03320-8) — Nature · 17:00 PT · #science #ai
 - [Shipwrecks can become thriving reefs, but may contain hidden toxic time bombs](https://phys.org/news/2026-10-shipwrecks-reefs-hidden-toxic.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #foreign
 - [Forgotten samples from Greenland's Cold War base reveal warmer summers during ancient ice-free period](https://phys.org/news/2026-10-forgotten-samples-greenland-cold-war.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science #foreign
 - [Judging faces without personality labels uncovers key patterns in first impressions](https://phys.org/news/2026-10-personality-uncovers-key-patterns.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -407,13 +420,3 @@ tags: ["category", "science"]
 - [Individual atomic collisions can now be detected in the lab, potentially opening up pathways to new physics](https://phys.org/news/2026-10-individual-atomic-collisions-lab-potentially.html) — Phys.org - latest science and technology news stories · 10:10 PT · #science
 - [Why Drug Companies Are Rushing to Market Ketamine Medicines](https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html) — NYT > Science · 10:07 PT · #science
 - [Drones help archaeologists find Aboriginal rock art sites hidden in Australia's rugged Blue Mountains](https://phys.org/news/2026-10-drones-archaeologists-aboriginal-art-sites.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
-- [Marital breakups can also have long-term effects, and some are felt keenly in old age](https://phys.org/news/2026-10-marital-breakups-term-effects-felt.html) — Phys.org - latest science and technology news stories · 10:00 PT · #science
-- [Eighteen years of whale call research reveals key habitat of mysterious species](https://phys.org/news/2026-10-eighteen-years-whale-reveals-key.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
-- [Hot plasma may explain how rapidly feeding black holes launch powerful jets](https://phys.org/news/2026-10-hot-plasma-rapidly-black-holes.html) — Phys.org - latest science and technology news stories · 09:40 PT · #science
-- [Largest collection of Roman cave inscriptions discovered in Spain](https://phys.org/news/2026-10-largest-roman-cave-inscriptions-spain.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
-- [The road to discovery: DNA in the air maps biodiversity](https://phys.org/news/2026-10-road-discovery-dna-air-biodiversity.html) — Phys.org - latest science and technology news stories · 09:20 PT · #science
-- [For the first time, artificial intelligence is a top 10 fear in the U.S.](https://www.popsci.com/health/top-10-fears-2026-artificial-intelligence/) — Popular Science · 09:05 PT · #science #ai
-- [This robot exists solely to bounce ping-pong balls](https://www.popsci.com/technology/hexa-bouncer-over-engineered-robot/) — Popular Science · 09:05 PT · #science
-- [NASA Experimental Mars Helicopter Blade Designs Target Longer Flights](https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/) — NASA · 09:02 PT · #science
-- [Employees with autism report hidden labor of workplace camouflaging in new study](https://phys.org/news/2026-10-employees-autism-hidden-labor-workplace.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science
-- [Collecting phones during college lessons raises grades, large randomized trial finds](https://phys.org/news/2026-10-college-lessons-grades-large-randomized.html) — Phys.org - latest science and technology news stories · 09:00 PT · #science

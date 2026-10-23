@@ -1,13 +1,18 @@
 ---
 title: "Ticker: $JKS"
-updated: 2026-10-22T22:12:24-07:00
-count: 3
+updated: 2026-10-23T03:11:18-07:00
+count: 5
 tags: ["ticker", "JKS"]
 ---
 
 # Ticker: $JKS
 
-3 most recent items (14-day window).
+5 most recent items (14-day window).
+
+## 2026-10-23
+
+- [Jinko Holdings to Report Third Quarter 2026 Results on October 30, 2026](https://www.prnewswire.com/news-releases/jinko-holdings-to-report-third-quarter-2026-results-on-october-30-2026-302917982.html) — PR Newswire M&A · 03:05 PT · #business #foreign $JKS
+- [JinkoSolar Completes Name Change to Jinko Holdings Limited](https://www.prnewswire.com/news-releases/jinkosolar-completes-name-change-to-jinko-holdings-limited-302917978.html) — PR Newswire M&A · 03:03 PT · #business #civic #foreign $JKS
 
 ## 2026-10-20
 
