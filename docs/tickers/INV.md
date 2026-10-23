@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $INV"
-updated: 2026-10-23T03:11:18-07:00
+updated: 2026-10-23T08:11:08-07:00
 count: 4
 tags: ["ticker", "INV"]
 ---

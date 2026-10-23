@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-23T03:11:18-07:00
+updated: 2026-10-23T08:11:08-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,7 +11,19 @@ tags: ["category", "us"]
 
 ## 2026-10-23
 
+- [Marty O'Donnell unfazed after Trump PAC pulls $2 million in ad spending](https://thenevadaindependent.com/article/marty-odonnell-unfazed-after-trump-pac-pulls-2-million-in-ad-spending/) — The Nevada Independent · 07:00 PT · #us #nevada
+- [Israel prepares to close West Bank after attack kills 2 soldiers](https://www.reviewjournal.com/news/politics-and-government/israel-says-it-thwarted-terror-attack-after-2-gunmen-killed-3904071/) — Las Vegas Review-Journal · 06:50 PT · #us #civic #foreign #nevada
+- [Experts say this is the best exercise to support healthy aging](https://www.reviewjournal.com/livewell/experts-say-this-is-the-best-exercise-to-support-healthy-aging-3904061/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Can Mike Washington Jr. help ignite Raiders rushing offense?](https://www.reviewjournal.com/sports/raiders/can-mike-washington-jr-help-ignite-raiders-rushing-offense-3904056/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [‘Not good enough’: Knights fell victim to Blues’ quick responses](https://www.reviewjournal.com/sports/goldenknights/not-good-enough-knights-fell-victim-to-blues-quick-responses-3904052/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [2 dead after wrong-way crash northeast of Las Vegas Friday morning](https://www.reviewjournal.com/local/local-las-vegas/2-dead-after-wrong-way-crash-northeast-of-las-vegas-friday-morning-3904048/) — Las Vegas Review-Journal · 05:48 PT · #us #nevada
+- [Common breast cancer myths may put you at risk](https://www.reviewjournal.com/livewell/common-breast-cancer-myths-may-put-you-at-risk-3904044/) — Las Vegas Review-Journal · 05:30 PT · #us #nevada
+- [Make room for white foods when ‘eating a rainbow’](https://www.reviewjournal.com/livewell/make-room-for-white-foods-when-eating-a-rainbow-3904040/) — Las Vegas Review-Journal · 05:01 PT · #us #nevada
+- [Mesquite ‘fantasy course’ unveils multimillion-dollar renovation project](https://www.reviewjournal.com/business/tourism/mesquite-fantasy-course-unveils-multimillion-dollar-renovation-project-3904014/) — Las Vegas Review-Journal · 05:00 PT · #us #golf #nevada
 - [Florida’s new Trump](https://www.politico.com/newsletters/playbook/2026/10/23/floridas-new-trump-01133530) — Playbook · 03:05 PT · #us
+- [Trump ramps up fraud investigations of immigrants as election approaches](https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches) — World & Nation · 03:00 PT · #us #civic
+- [Many Latinos are over Trump. The shift is especially striking in Texas](https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas) — World & Nation · 03:00 PT · #us
+- [Lo Explicamos: Así funciona la votación por correo y presencial en Nevada](https://thenevadaindependent.com/article/lo-explicamos-asi-funciona-la-votacion-por-correo-y-presencial-en-nevada/) — The Nevada Independent · 02:30 PT · #us #nevada
 - [Here's how Nevada's mail and in-person voting works](https://thenevadaindependent.com/article/heres-how-nevadas-mail-and-in-person-voting-works/) — The Nevada Independent · 02:00 PT · #us #nevada
 - [OPINION: The federal government said 15,903. The answer was zero.](https://thenevadaindependent.com/article/opinion-the-federal-government-said-15903-the-answer-was-zero/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
 - [Nevada lanza un panel de control en línea con datos electorales](https://lasvegassun.com/news/2026/oct/23/nevada-lanza-un-panel-de-control-en-lnea-con-datos/) — Las Vegas Sun · 02:00 PT · #us #nevada
@@ -414,15 +426,3 @@ tags: ["category", "us"]
 - [LETTER: Joke prize](https://www.reviewjournal.com/opinion/letters/letter-joke-prize-3902074/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
 - [EDITORIAL: Nevada justices decline to legislate from the bench](https://www.reviewjournal.com/opinion/editorials/editorial-nevada-justices-decline-to-legislate-from-the-bench-3902071/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
 - [Causes of death released for 3 men who died at Burning Man in Nevada](https://lasvegassun.com/news/2026/oct/18/causes-of-death-released-for-3-men-who-died-at-bur/) — Las Vegas Sun · 20:29 PT · #us #nevada
-- [Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests](https://lasvegassun.com/news/2026/oct/18/macron-condemns-those-who-sought-to-bring-down-the/) — Las Vegas Sun · 20:16 PT · #us #nevada
-- [Raiders keep running into trouble on fourth-and-short fullback sneaks](https://www.reviewjournal.com/sports/raiders/raiders-keep-running-into-trouble-on-fourth-and-short-fullback-sneaks-3902064/) — Las Vegas Review-Journal · 20:09 PT · #us #nevada
-- [Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery](https://lasvegassun.com/news/2026/oct/18/pope-leo-tells-faithful-in-st-peters-square-he-wil/) — Las Vegas Sun · 19:57 PT · #us #nevada
-- [Private jet skids off runway, hits fence at Las Vegas airport](https://lasvegassun.com/news/2026/oct/18/private-jet-skids-off-runway-hits-fence-at-las-veg/) — Las Vegas Sun · 19:57 PT · #us #nevada
-- [Raiders lose on the margins to Bills, undermining valiant effort](https://www.reviewjournal.com/sports/raiders/raiders-lose-on-the-margins-to-bills-undermining-valiant-effort-3902053/) — Las Vegas Review-Journal · 19:22 PT · #us #nevada
-- [Bills Mafia invade Las Vegas, takeover Allegiant Stadium](https://www.reviewjournal.com/sports/raiders/bills-mafia-invade-las-vegas-takeover-allegiant-stadium-3902021/) — Las Vegas Review-Journal · 17:33 PT · #us #nevada
-- [Veteran Las Vegas anchor returning after 19-month break](https://www.reviewjournal.com/local/local-las-vegas/veteran-las-vegas-anchor-returning-after-19-month-break-3902018/) — Las Vegas Review-Journal · 17:29 PT · #us #nevada
-- [Raiders grades: Solid effort falls short against Buffalo Bills with coaching, special teams errors](https://www.reviewjournal.com/sports/raiders/raiders-grades-solid-effort-falls-short-against-buffalo-bills-with-coaching-special-teams-errors-3901997/) — Las Vegas Review-Journal · 17:03 PT · #us #nevada
-- [Raiders fall to Buffalo for third straight loss after committing game's only turnover](https://lasvegassun.com/news/2026/oct/18/raiders-slow-but-cant-fully-solve-bills-magic-in-t/) — Las Vegas Sun · 17:02 PT · #us #nevada
-- [Graney: Loss or not, Raiders show something in bouncing back](https://www.reviewjournal.com/sports/sports-columns/ed-graney/graney-loss-or-not-raiders-show-something-in-bouncing-back-3901989/) — Las Vegas Review-Journal · 16:53 PT · #us #nevada
-- [Raiders lose at home to Bills for third straight loss after 3-0 start — PHOTOS](https://www.reviewjournal.com/sports/raiders/raiders-lose-at-home-to-bills-for-third-straight-loss-after-3-0-start-3901959/) — Las Vegas Review-Journal · 16:43 PT · #us #nevada
-- [Las Vegas high school boys, girls soccer: What’s on line in final week?](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-boys-girls-soccer-whats-on-line-in-final-week-3901950/) — Las Vegas Review-Journal · 16:27 PT · #us #nevada

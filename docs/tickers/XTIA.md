@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $XTIA"
-updated: 2026-10-23T03:11:18-07:00
-count: 2
+updated: 2026-10-23T08:11:08-07:00
+count: 3
 tags: ["ticker", "XTIA"]
 ---
 
 # Ticker: $XTIA
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-23
+
+- [Drone Nerds Introduces ABZ Innovation C30 High-Pressure Cleaning Drone to Enterprise Portfolio](https://www.prnewswire.com/news-releases/drone-nerds-introduces-abz-innovation-c30-high-pressure-cleaning-drone-to-enterprise-portfolio-302918234.html) — PR Newswire M&A · 08:00 PT · #business #markets $XTIA
 
 ## 2026-10-22
 

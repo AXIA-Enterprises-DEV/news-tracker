@@ -1,13 +1,21 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-23T03:11:18-07:00
-count: 150
+updated: 2026-10-23T08:11:08-07:00
+count: 155
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-150 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+155 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+
+## 2026-10-23
+
+- [Talarico Wants To Partner With Trump On Legalizing Marijuana If He Wins Texas Senate Race](https://www.marijuanamoment.net/talarico-wants-to-partner-with-trump-on-legalizing-marijuana-if-he-wins-texas-senate-race/) — Marijuana Moment · 07:03 PT · #business #cannabis #civic
+- [New Hampshire GOP Governor And Democratic Challenger Clash On Marijuana At Debate](https://www.marijuanamoment.net/new-hampshire-gop-governor-and-democratic-challenger-clash-on-marijuana-at-debate/) — Marijuana Moment · 05:54 PT · #business #cannabis #civic
+- [Cory Booker Calls Out DEA For Holding Past Employee Convictions Against Marijuana Businesses Seeking Rescheduling Protections](https://www.marijuanamoment.net/cory-booker-calls-out-dea-for-holding-past-employee-convictions-against-marijuana-businesses-seeking-rescheduling-protections/) — Marijuana Moment · 04:59 PT · #business #cannabis
+- [How accessory sales reveal the future of cannabis retail](https://mjbizdaily.com/news/how-accessory-sales-reveal-the-future-of-cannabis-retail/618840/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
+- [DEA judge rejects cannabis rescheduling opponents’ request for delay (Newsletter: October 23, 2026)](https://www.marijuanamoment.net/dea-judge-rejects-cannabis-rescheduling-opponents-request-for-delay-newsletter-october-23-2026/) — Marijuana Moment · 03:12 PT · #business #cannabis
 
 ## 2026-10-22
 

@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-23T03:11:18-07:00
+updated: 2026-10-23T08:11:08-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -26,6 +26,7 @@ tags: ["tickers"]
 - [$RTX](RTX.md) — 4 items
 - [$ASTS](ASTS.md) — 4 items
 - [$YSS](YSS.md) — 4 items
+- [$XTIA](XTIA.md) — 3 items
 - [$IONQ](IONQ.md) — 3 items
 - [$GPUS](GPUS.md) — 3 items
 - [$LDOS](LDOS.md) — 3 items
@@ -39,6 +40,8 @@ tags: ["tickers"]
 - [$TBLA](TBLA.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$TZOO](TZOO.md) — 2 items
+- [$BDC](BDC.md) — 2 items
 - [$MEDS](MEDS.md) — 2 items
 - [$QFIN](QFIN.md) — 2 items
 - [$NABL](NABL.md) — 2 items
@@ -46,7 +49,6 @@ tags: ["tickers"]
 - [$AVEX](AVEX.md) — 2 items
 - [$REZI](REZI.md) — 2 items
 - [$ARW](ARW.md) — 2 items
-- [$XTIA](XTIA.md) — 2 items
 - [$BTGO](BTGO.md) — 2 items
 - [$TSLA](TSLA.md) — 2 items
 - [$XP](XP.md) — 2 items
@@ -95,6 +97,8 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$CIA](CIA.md) — 1 items
+- [$PII](PII.md) — 1 items
 - [$AMBR](AMBR.md) — 1 items
 - [$SU](SU.md) — 1 items
 - [$SCAG](SCAG.md) — 1 items
@@ -299,11 +303,7 @@ tags: ["tickers"]
 - [$ORV](ORV.md) — 1 items
 - [$ORVMF](ORVMF.md) — 1 items
 - [$QDEL](QDEL.md) — 1 items
-- [$TZOO](TZOO.md) — 1 items
 - [$DFIN](DFIN.md) — 1 items
 - [$DIOD](DIOD.md) — 1 items
 - [$MDT](MDT.md) — 1 items
 - [$NNI](NNI.md) — 1 items
-- [$RHI](RHI.md) — 1 items
-- [$SOLV](SOLV.md) — 1 items
-- [$G](G.md) — 1 items
