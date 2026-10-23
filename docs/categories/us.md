@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-22T14:58:05-07:00
+updated: 2026-10-22T17:27:45-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,23 @@ tags: ["category", "us"]
 
 ## 2026-10-22
 
+- [Las Vegas Arts District intersection to remain partially closed tied to storm drain project](https://www.reviewjournal.com/local/traffic/las-vegas-arts-district-intersection-to-remain-partially-closed-tied-to-storm-drain-project-3903796/) — Las Vegas Review-Journal · 17:17 PT · #us #nevada
+- [Henderson police investigate shooting that killed woman at Hampton Court complex home](https://www.ktnv.com/neighborhoods/henderson/henderson-police-investigate-shooting-that-killed-woman-at-hampton-court-complex-home) — KTNV Las Vegas · 17:02 PT · #us #nevada
+- [Juvenile arrested after firearm recovered from Sierra Vista High School](https://www.ktnv.com/news/crime/juvenile-arrested-after-firearm-recovered-from-sierra-vista-high-school) — KTNV Las Vegas · 16:49 PT · #us #nevada
+- [All-Pro Rams receiver leaves practice with injury, status unclear vs. Raiders](https://www.reviewjournal.com/sports/raiders/all-pro-rams-receiver-leaves-practice-with-injury-status-unclear-vs-raiders-3903767/) — Las Vegas Review-Journal · 16:48 PT · #us #nevada
+- [Golden Knights won’t have star forward in lineup against Blues](https://www.reviewjournal.com/sports/goldenknights/golden-knights-wont-have-star-forward-in-lineup-against-blues-3903763/) — Las Vegas Review-Journal · 16:47 PT · #us #nevada
+- [College football predictions: Underdog is best play in Duke vs Virginia](https://www.reviewjournal.com/sports/betting/college-football-predictions-underdog-is-best-play-in-duke-vs-virginia-3903755/) — Las Vegas Review-Journal · 16:40 PT · #us #nevada
+- [World Series prediction: It’s strength vs strength in Rays-Brewers matchup](https://www.reviewjournal.com/sports/betting/world-series-prediction-its-strength-vs-strength-in-rays-brewers-matchup-3903743/) — Las Vegas Review-Journal · 16:26 PT · #us #nevada
+- [Police: Woman drove 93 mph in 45 mph zone before midday wrong-way crash](https://www.reviewjournal.com/crime/police-woman-drove-93-mph-in-45-mph-zone-before-midday-wrong-way-crash-3903731/) — Las Vegas Review-Journal · 16:15 PT · #us #nevada
+- [Boyd Gaming reports softer Las Vegas tourism, reveals Suncoast remodel](https://www.reviewjournal.com/business/casinos-gaming/boyd-gaming-reports-softer-las-vegas-tourism-reveals-suncoast-remodel-3903727/) — Las Vegas Review-Journal · 16:07 PT · #us #nevada
+- [Why reported challenges with touchscreen voting machines don't signal election rigging](https://lasvegassun.com/news/2026/oct/22/why-reported-challenges-with-touchscreen-voting-ma/) — Las Vegas Sun · 16:07 PT · #us #civic #nevada
+- [World Series preview: Surprising Brewers-Rays matchup will open with Jacob Misiorowski's record heat](https://lasvegassun.com/news/2026/oct/22/world-series-preview-surprising-brewers-rays-match/) — Las Vegas Sun · 16:04 PT · #us #nevada
+- [California latest target in Department of Justice efforts to end public benefits fraud](https://lasvegassun.com/news/2026/oct/22/california-latest-target-in-department-of-justice/) — Las Vegas Sun · 16:02 PT · #us #nevada
+- [Tech entrepreneurs are leaving California for Las Vegas. What’s drawing them here?](https://www.reviewjournal.com/business/vegas-business/innovation/tech-entrepreneurs-are-leaving-california-for-las-vegas-whats-drawing-them-here-3903720/) — Las Vegas Review-Journal · 15:48 PT · #us #nevada #smallbiz
+- [Sons of gaming legends win Nevada licenses, take different paths](https://www.reviewjournal.com/business/casinos-gaming/sons-of-gaming-legends-win-nevada-licenses-take-different-paths-3903712/) — Las Vegas Review-Journal · 15:15 PT · #us #nevada
+- [March Madness is bigger for 2027. It's unclear exactly how that will look in terms of who gets bids](https://lasvegassun.com/news/2026/oct/22/march-madness-is-bigger-for-2027-its-unclear-exact/) — Las Vegas Sun · 15:13 PT · #us #nevada
+- [Through pioneers and slow progress, America's relationship to women's sports continues to evolve](https://lasvegassun.com/news/2026/oct/22/through-pioneers-and-slow-progress-americas-relati/) — Las Vegas Sun · 15:11 PT · #us #nevada
+- [Execution staff failed to establish IV site during Christa Pike’s execution attempt, attorney says](https://www.reviewjournal.com/news/nation-and-world/execution-staff-failed-to-establish-iv-site-during-christa-pikes-execution-attempt-attorney-says-3903708/) — Las Vegas Review-Journal · 15:07 PT · #us #nevada
 - ['Zeus was angry:' Arizona surveys damage from at least 3 rare tornadoes](https://lasvegassun.com/news/2026/oct/22/zeus-was-angry-arizona-surveys-damage-from-at-leas/) — Las Vegas Sun · 14:44 PT · #us #nevada
 - [Judge limits election-related immigration stops amid broader legal war ahead of midterms](https://www.latimes.com/politics/story/2026-10-22/judge-limits-election-related-immigration-stops-amid-broader-legal-war-ahead-of-midterms) — World & Nation · 14:00 PT · #us #civic #foreign
 - [Florida officer took possession of man’s home after finding him dead 4 years ago, police say](https://www.reviewjournal.com/news/nation-and-world/florida-officer-took-possession-of-mans-home-after-finding-him-dead-4-years-ago-police-say-3903696/) — Las Vegas Review-Journal · 13:50 PT · #us #nevada
@@ -104,6 +121,7 @@ tags: ["category", "us"]
 - [Kamala Harris rallies Culinary Union members in final push before Election Day](https://lasvegassun.com/news/2026/oct/21/kamala-harris-rallies-culinary-union-members-in-fi/) — Las Vegas Sun · 15:52 PT · #us #civic #nevada
 - [Autonomous taxi service Waymo begins service to Harry Reid International Airport](https://www.ktnv.com/news/autonomous-taxi-service-waymo-begins-service-to-harry-reid-international-airport) — KTNV Las Vegas · 15:50 PT · #us #nevada
 - [Man and woman dead in apparent murder-suicide in Henderson, police say](https://www.ktnv.com/news/crime/man-and-woman-dead-in-apparent-murder-suicide-in-henderson) — KTNV Las Vegas · 15:35 PT · #us #nevada
+- [Coroner's office identifies man and woman dead in apparent murder-suicide in Henderson](https://www.ktnv.com/news/crime/coroners-office-identifies-man-and-woman-dead-in-apparent-murder-suicide-in-henderson) — KTNV Las Vegas · 15:35 PT · #us #nevada
 - [Couple found dead in apparent murder-suicide, Henderson police say](https://www.reviewjournal.com/crime/homicides/couple-found-dead-in-apparent-murder-suicide-henderson-police-say-3903230/) — Las Vegas Review-Journal · 15:32 PT · #us #nevada
 - [Two elderly people dead in apparent murder-suicide, Henderson Police say](https://lasvegassun.com/news/2026/oct/21/two-elderly-people-dead-in-apparent-murder-suicide/) — Las Vegas Sun · 15:26 PT · #us #nevada
 - [Thursday night prediction: It’s hard not to like underdog Patriots over Bears](https://www.reviewjournal.com/sports/betting/thursday-night-prediction-its-hard-not-to-like-underdog-patriots-over-bears-3903225/) — Las Vegas Review-Journal · 15:14 PT · #us #nevada
@@ -405,24 +423,3 @@ tags: ["category", "us"]
 - [ACLU appeals ruling on Las Vegas Strip pedestrian bridge restrictions](https://lasvegassun.com/news/2026/oct/18/aclu-appeals-ruling-on-las-vegas-strip-pedestrian/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [NSHE amplía sus esfuerzos de seguridad en los campus con la nueva campaña ‘Eyes Open’](https://lasvegassun.com/news/2026/oct/18/nshe-ampla-sus-esfuerzos-de-seguridad-en-los-campu/) — Las Vegas Sun · 02:00 PT · #us #ai #nevada
 - [Education board expands college safety efforts with Eyes Open campaign](https://lasvegassun.com/news/2026/oct/18/nshe-expands-campus-safety-efforts-with-new-eyes-o/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Gameday: Crosby must lead charge to repair Raiders’ defense against Allen’s Bills](https://lasvegassun.com/news/2026/oct/18/gameday-crosby-must-lead-charge-to-repair-raiders/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Take a few seconds to advocate for those in need](https://lasvegassun.com/news/2026/oct/18/take-a-few-seconds-to-advocate-for-the-needy/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [America must get tough on Russia](https://lasvegassun.com/news/2026/oct/18/america-must-get-tough-on-russia/) — Las Vegas Sun · 02:00 PT · #us #foreign #nevada
-- [We need to hear what the democratic socialists have in mind](https://lasvegassun.com/news/2026/oct/18/we-need-to-hear-what-the-democratic-socialists-hav/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Free universal after-school is an easy win in a world of problems](https://lasvegassun.com/news/2026/oct/18/free-universal-after-school-is-an-easy-win-in-a-wo/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Data centers consume like cities; they should contribute like cities as well](https://lasvegassun.com/news/2026/oct/18/data-centers-consume-like-cities-they-should-contr/) — Las Vegas Sun · 02:00 PT · #us #nevada
-- [Hegseth’s unserious address again shows his unfitness for office](https://lasvegassun.com/news/2026/oct/18/hegseths-unserious-address-again-shows-his-unfitne/) — Las Vegas Sun · 02:00 PT · #us #nevada
-
-## 2026-10-17
-
-- [Fundora defends super welterweight title by KO, sets up bout with Ennis](https://www.reviewjournal.com/sports/boxing/fundora-defends-super-welterweight-title-by-ko-sets-up-bout-with-ennis-3901736/) — Las Vegas Review-Journal · 22:34 PT · #us #nevada
-- [Field of memories: Cashman had its share of sports moments](https://www.reviewjournal.com/sports/aviators/field-of-memories-cashman-had-its-share-of-sports-moments-3901718/) — Las Vegas Review-Journal · 21:49 PT · #us #nevada
-- [Bison rally, then spank Wolf Pack](https://www.reviewjournal.com/sports/football/bison-rally-then-spank-wolf-pack-3901714/) — Las Vegas Review-Journal · 21:43 PT · #us #nevada
-- [The Road to Las Vegas: Review-Journal’s Week 7 CFP projections](https://www.reviewjournal.com/sports/football/the-road-to-las-vegas-review-journals-week-7-cfp-projections-3901711/) — Las Vegas Review-Journal · 21:41 PT · #us #nevada
-- [Defensemen become offensive in Golden Knights’ rout of Penguins](https://www.reviewjournal.com/sports/goldenknights/defensemen-become-offensive-in-golden-knights-rout-of-penguins-3901693/) — Las Vegas Review-Journal · 21:39 PT · #us #nevada
-- [Marco Romero, Armando Resendiz shine on Fundora undercard](https://www.reviewjournal.com/sports/boxing/marco-romero-armando-resendiz-shine-on-fundora-undercard-3901680/) — Las Vegas Review-Journal · 21:38 PT · #us #nevada
-- [UNLV volleyball retires Mariena Hayden’s No. 7 jersey, a first in program history](https://lasvegassun.com/news/2026/oct/17/unlv-retires-mariena-haydens-no-7-jersey-a-first-i/) — Las Vegas Sun · 21:04 PT · #us #nevada
-- [NEVADA VIEWS: Rent control won’t fix Nevada housing costs](https://www.reviewjournal.com/opinion/nevada-views-rent-control-wont-fix-nevada-housing-costs-3901654/) — Las Vegas Review-Journal · 21:02 PT · #us #nevada
-- [LETTER: Making sense](https://www.reviewjournal.com/opinion/letters/letter-making-sense-3901651/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [CARTOON: The heart of Texas](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-the-heart-of-texas-3901648/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
-- [EDITORIAL: Governor’s race to deterrmine Nevada’s direction](https://www.reviewjournal.com/opinion/editorials/editorial-governors-race-to-deterrmine-nevadas-direction-3901644/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada

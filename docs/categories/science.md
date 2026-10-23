@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-22T14:58:05-07:00
+updated: 2026-10-22T17:27:45-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,22 @@ tags: ["category", "science"]
 
 ## 2026-10-22
 
+- [Researchers develop AI tool to map microRNA binding sites on circular RNAs](https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science #ai
+- [Acupuncture and mutual exchange in Chinese and Soviet science](https://phys.org/news/2026-10-acupuncture-mutual-exchange-chinese-soviet.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science #foreign
+- [Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient](https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [Material substitution can increase the potential environmental impact of packaging systems](https://phys.org/news/2026-10-material-substitution-potential-environmental-impact.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [What is a neutrino anyway? A look at the science behind this year's Nobel Prize in Physics](https://phys.org/news/2026-10-neutrino-science-year-nobel-prize.html) — Phys.org - latest science and technology news stories · 16:30 PT · #science
+- [With climate-resilient crops in mind, study tackles flaw in photosynthesis](https://phys.org/news/2026-10-climate-resilient-crops-mind-tackles.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [Revamped playground design could protect children around the world from dangers of the sun](https://phys.org/news/2026-10-revamped-playground-children-world-dangers.html) — Phys.org - latest science and technology news stories · 16:10 PT · #science
+- [Heat Waves Killed an Estimated 50,000 in European Cities, a Likely Record](https://www.nytimes.com/2026/10/22/climate/europe-summer-heat-deaths.html) — NYT > Science · 16:01 PT · #science
+- [Ultrafast light pulses track molecular motion with three-femtosecond resolution](https://phys.org/news/2026-10-ultrafast-pulses-track-molecular-motion.html) — Phys.org - latest science and technology news stories · 16:00 PT · #science
+- [Shrinking iron films strengthens laser-driven demagnetization](https://phys.org/news/2026-10-iron-laser-driven-demagnetization.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [Researcher tackles impact of a CMO's life events on businesses' bottom line](https://phys.org/news/2026-10-tackles-impact-cmo-life-events.html) — Phys.org - latest science and technology news stories · 15:40 PT · #science
+- [Global database provides a fuller picture of the elements that make up plant life](https://phys.org/news/2026-10-global-database-fuller-picture-elements.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [Brazil's presidential elections linked to decades of fluctuating environmental destruction—study](https://phys.org/news/2026-10-brazil-presidential-elections-linked-decades.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science #civic
+- [I’m buying this heated blanket for 40% off at Amazon and resisting the urge to turn on my heat before November](https://www.popsci.com/gear/bedsure-heated-blanket-amazon-sale-october-2026/) — Popular Science · 15:07 PT · #science
+- [Supramolecular assembly opens a new route to building quantum materials](https://phys.org/news/2026-10-supramolecular-route-quantum-materials.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
+- [How farming helped cause two medieval tsunamis in an Italian lake—and why the danger has returned](https://phys.org/news/2026-10-farming-medieval-tsunamis-italian-lake.html) — Phys.org - latest science and technology news stories · 15:00 PT · #science
 - [Helping microgreens pack even more of a nutritional punch](https://phys.org/news/2026-10-microgreens-nutritional.html) — Phys.org - latest science and technology news stories · 14:50 PT · #science
 - [Amino acid stabilizes material's quantum state above room temperature](https://phys.org/news/2026-10-amino-acid-stabilizes-material-quantum.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science
 - [Most AI chatbots stay in the political middle ground, with Grok being an exception](https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html) — Phys.org - latest science and technology news stories · 14:40 PT · #science #ai #civic
@@ -401,19 +417,3 @@ tags: ["category", "science"]
 - [Study asks, Who benefits from where hospitals or landfills are located?](https://phys.org/news/2026-10-benefits-hospitals-landfills.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
 - [Locusts get a sensory assist from nanomaterials—helping them detect more chemicals](https://phys.org/news/2026-10-locusts-sensory-nanomaterials-chemicals.html) — Phys.org - latest science and technology news stories · 07:40 PT · #science
 - [Bat Beauty Contest returns October 24](https://www.popsci.com/environment/bat-beauty-contest-2026/) — Popular Science · 07:30 PT · #science
-- [NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/) — NASA · 07:21 PT · #science
-- [Study links gambling ads to betting activity, searches for help](https://phys.org/news/2026-10-links-gambling-ads.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [Peat bogs, the natural archives of mining fallout, reveal ancient Europe's hidden metal networks](https://phys.org/news/2026-10-peat-bogs-natural-archives-fallout.html) — Phys.org - latest science and technology news stories · 07:20 PT · #science
-- [Octopus-inspired patch grips skin and reveals pulse through shifting colors](https://phys.org/news/2026-10-octopus-patch-skin-reveals-pulse.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [New analytical method reveals what happens inside tiny molecular frameworks](https://phys.org/news/2026-10-analytical-method-reveals-tiny-molecular.html) — Phys.org - latest science and technology news stories · 07:00 PT · #science
-- [Could wood provide a better home for oil-degrading microbes?](https://phys.org/news/2026-10-wood-home-oil-degrading-microbes.html) — Phys.org - latest science and technology news stories · 06:40 PT · #science #oil
-- [Octopus and cuttlefish suckers may have evolved by repurposing ancient developmental genes](https://phys.org/news/2026-10-octopus-cuttlefish-suckers-evolved-repurposing.html) — Phys.org - latest science and technology news stories · 06:30 PT · #science
-- [Giant canyon on Mars is still tectonically active today](https://phys.org/news/2026-10-giant-canyon-mars-tectonically-today.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [Researchers explore the valuable connection between birds, memory and territory in Chile](https://phys.org/news/2026-10-explore-valuable-birds-memory-territory.html) — Phys.org - latest science and technology news stories · 06:20 PT · #science
-- [Scientists finally uncover why statins can cause muscle pain](https://www.sciencedaily.com/releases/2026/10/261019093447.htm) — Latest Science News -- ScienceDaily · 06:00 PT · #science
-- [River model reveals how coordinated water sharing could ease drought's unequal effects](https://phys.org/news/2026-10-river-reveals-ease-drought-unequal.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
-- [Added receptor helps CAR T cells stay in bone marrow in cancer mouse models](https://phys.org/news/2026-10-added-receptor-car-cells-stay.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
-- [The mysterious dancing plague that killed people in 1518](https://www.popsci.com/science/dancing-plague-medieval-strasbourg/) — Popular Science · 05:59 PT · #science
-- [Hurricane warning maps are improving, but a dangerous problem remains](https://www.sciencedaily.com/releases/2026/10/261019093443.htm) — Latest Science News -- ScienceDaily · 05:49 PT · #science
-- [Keeping jumping genes in place: New role for protein complex discovered](https://phys.org/news/2026-10-genes-role-protein-complex.html) — Phys.org - latest science and technology news stories · 05:40 PT · #science
-- [Astronomers uncover new secrets of the Universe’s first five minutes](https://www.sciencedaily.com/releases/2026/10/261019093442.htm) — Latest Science News -- ScienceDaily · 05:34 PT · #science

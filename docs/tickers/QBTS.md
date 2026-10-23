@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $QBTS"
-updated: 2026-10-22T14:58:05-07:00
-count: 3
+updated: 2026-10-22T17:27:45-07:00
+count: 4
 tags: ["ticker", "QBTS"]
 ---
 
 # Ticker: $QBTS
 
-3 most recent items (14-day window).
+4 most recent items (14-day window).
+
+## 2026-10-22
+
+- [QBTS INVESTOR DEADLINE: D-Wave Quantum Inc. Investors with Substantial Losses May Seek to Lead Class Action Lawsuit, Robbins Geller Rudman & Dowd LLP Announces - December 15, 2026 Deadline](https://www.prnewswire.com/news-releases/qbts-investor-deadline-d-wave-quantum-inc-investors-with-substantial-losses-may-seek-to-lead-class-action-lawsuit-robbins-geller-rudman--dowd-llp-announces---december-15-2026-deadline-302916951.html) — PR Newswire M&A · 16:30 PT · #business #markets $QBTS
 
 ## 2026-10-16
 

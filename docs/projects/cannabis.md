@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-22T14:58:05-07:00
-count: 149
+updated: 2026-10-22T17:27:45-07:00
+count: 148
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-149 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+148 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-22
 
+- [Cirrus Social Club Plans Las Vegas Cannabis Lounge by 2027 - Hoodline](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUhjbjFwanVUeDMyNDJBYmMtSDd5T3ZKSmJYWTFDeGtIQmk2X3UybnlLYndUTE1YMG03cV9ING1PY0hkbUlpcm9SOEJta0IxNE5pbFB5QzRPLWgwMWFuY2ZMamkwZVFaaXVoWlBfVFo4RVFuR2tLb1lNWXhra3BqS1NFMUtSYW9XYkRXUjZ5MFl0MDhsN3VXZ0JOOA?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 16:42 PT · #business #cannabis #nevada
 - [New York to open first adult-use cannabis nursery license applications](https://mjbizdaily.com/news/new-york-to-open-first-adult-use-cannabis-nursery-license-applications/618828/) — MJBizDaily · 12:56 PT · #business #cannabis #smallbiz
 - [DOJ Isn’t ‘Micromanaging’ State Marijuana Laws With Prosecution Of Virginia Senator, Blanche Says](https://www.marijuanamoment.net/doj-isnt-micromanaging-state-marijuana-laws-with-prosecution-of-virginia-senator-blanche-says/) — Marijuana Moment · 12:12 PT · #business #cannabis #civic
 - [Trump Justice Department indicts prominent Virginia lawmaker for selling marijuana at ‘hemp’ shop](https://mjbizdaily.com/news/trump-justice-department-indicts-prominent-virginia-lawmaker-for-selling-marijuana-at-hemp-shop/618831/) — MJBizDaily · 11:30 PT · #business #cannabis #smallbiz
@@ -18,10 +19,12 @@ tags: ["project", "cannabis"]
 - [Cannabis Packaging Compliance in 2027: What Every Dispensary, Brand, and Cultivator Needs to Know](https://mjbizdaily.com/sponsored/cannabis-packaging-compliance-in-2027-what-every-dispensary-brand-and-cultivator-needs-to-know/618775/) — MJBizDaily · 11:10 PT · #business #cannabis
 - [Denver cannabis lounge plans Las Vegas expansion despite local industry struggles](https://www.ktnv.com/news/denver-cannabis-lounge-plans-las-vegas-expansion-despite-local-industry-struggles) — KTNV Las Vegas · 11:01 PT · #us #cannabis #nevada
 - [Denver cannabis lounge plans Las Vegas expansion despite local industry struggles - KTNV Las Vegas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnhtRmE1WExQQ1dJMXVueGRnR3JRdlFFY1VxZFZHZk9NOHQ4Q3JIOVRUUzFMc2VaT05LZ3dLV3VlUnh5a25BdE1oVnVkMWRNVlRZaEtORjVVaTV1ZVZCRFZLVFBYc05pUW0zT29yWUE0SlBGQ09lSFYtYUtaWTRhaXlUZmk2d0pQS0hMMnliM0tmbl81eGxBcWY5V0JRamFxSjJ4c1A3RE5zSjA?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 11:01 PT · #business #cannabis #nevada
+- [Cannabis Dispensary Must Arbitrate Firings, Union Says - Law360](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JZGs1a2JMU2IydXg3bndNY2IzZ1BHN1Y5SHFtN1hKb25KX0JlWlN5eXE3dFBtdWtFcUpIVFBMRENmUXc4djNHZFA5LXJWd3RB0gFWQVVfeXFMTWlaWGdjSEdiaDJHcFYzTmN4MWZWRHc1ODVuSjB1RVA1TlhjR0pvUWtBZlJTZ3pmSVFqOUJuUHM1RU1FTnJFWnlLcWZyeGVpREthNk9fOEE?oc=5) — Google News: Nevada Supreme Court OR "Nevada law" · 10:53 PT · #politics #cannabis #nevada
 - [Top Virginia Senator Faces Federal Marijuana And Fraud Charges](https://www.marijuanamoment.net/top-virginia-senator-faces-federal-marijuana-and-fraud-charges/) — Marijuana Moment · 09:37 PT · #business #cannabis
 - [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - Big News Network.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWoxV01XdjlQNy1DeUdlaVRvb3ZncEJnckRvcW05clQyb1A3dXRvaUNIMlotY2I5OTh1UHN1ZklFeDlVQ1JDczlwMC1SMFoxNjVnbWtRRFRkaDh0aldMbmlid0xjQndCWGFSeEptcmk3VC1PaE9iaUtpUGhOWnNzazI5WTM3bFYtd3M1SUxjdDJlUEUtUHI2RVNrdkxkdlVlQV83QjNkQmxsbTRrbEo1VXNRTGgyQVJ6ZVFMWnpNRmk2cExhSWw0?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:52 PT · #business #cannabis
 - [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - itemonline.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV0tyZ045dGloVE53SjJIMGdWSmxiMDlRdzhqOVE4LVM3dzRtbV9tMVV0dnlJSW0zUGJ4eFIxZFFFdTlSVGJpcF81QXltbWgyQThRN3M0ZDdLemh2QW1JR0Y2b3J1Q0xXbm10dFQ4aVYyeHdmT2UwaVdpeWpnbGt1SjRENVhqQXpveVBUcjljMHBIYVh6bXNNQ1M5Y0RQNnlndUJ6dUNsZkNlaFFmSDZFS1VJeHhNQUljbk5ZQl9jY1pudmRGbnRpMGhYQnVNaEptUE1QWmkyU29FdkJjRkUydGF0eUwzRkJFN1pVNzRFWFg?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:51 PT · #business #cannabis
 - [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - dailyadvance.com](https://news.google.com/rss/articles/CBMihgJBVV95cUxOdjN5bVp1Xy1vM2pqbXV5c2xzYTBja1p3RndsNFRaUWNCa1hzd1ZqQXZXRkZwVWNRY1MxM0swd04wTTZKWkp2TnV2OGdxQjQ0ZE5KTkRHLXZ6OWswZF9QY0NWNEhOWTBXZEhrNWQ5S2xuVE1tLVo5TThJMk1xWFhNVVUwRl9XT3daVTVFQkpYNHpZRGp4dXVzbXNZUkJybmNLVzRJXzNjMDVTb3BRS2RkUXdtYkRfTmR1WWJuOVJfOUd3Y2ZWSm90ZXNsZFItOVhyZURjd3dkMHZWbi01OWc1TTV4V2FvejYyOUhKTmV3SkNTTk5sZzVUa0thbFVlcXUxRjdiYTln?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:51 PT · #business #cannabis
+- [White Fire OG Strain Guide Clarifies WiFi OG Naming Convention and Breeder Dispute - GazetteXtra](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaGZnREJLNTV2MFJqYzJMT1lWOWZBbUpVVkd1aXBVZWdxajJEY1hzbE1MTW1YV1E2TmdnSnEwZnZFblhKVXNtVHdTMFpNZXlFN1pFV1lBa1h5WE5fSGdTT0RnME94eDl0VENGWUdHMEpGVWRnOWRsbmhVZGViRTdXel9wTDlMUmt2MEFIamVYRjRpd0VZUlRXS1QwcU5jS2hVaTNNa2Z6R3NJR0VTcWc4YXhWQk1jYWJRT3czcndnNUpVbi1UWERmaE1RUFg0LWxOamhGYlE5OGRySHJkX1ZaQzl0YnNWY0wtcmlEY2FrelBVYTRsUjgzMXd3Q2JKZHNmX0dZZzFNZHc?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 08:51 PT · #business #cannabis
 - [DEA Judge Denies Marijuana Rescheduling Opponents’ Request To Reopen Hearing For More Testimony, But Allows New Briefs](https://www.marijuanamoment.net/dea-judge-denies-marijuana-rescheduling-opponents-request-to-reopen-hearing-for-more-testimony-but-allows-new-briefs/) — Marijuana Moment · 08:07 PT · #business #cannabis
 - [Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case](https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html) — CNBC Top News · 07:42 PT · #markets #cannabis
 - [Wisconsin Democratic And GOP Governor Candidates Agree On Legalizing Marijuana In Some Form During Debate](https://www.marijuanamoment.net/wisconsin-democratic-and-gop-governor-candidates-agree-on-legalizing-marijuana-in-some-form-during-debate/) — Marijuana Moment · 06:59 PT · #business #cannabis
@@ -189,10 +192,3 @@ tags: ["project", "cannabis"]
 
 - [Legacy medical cannabis cultivator Bedrocan declared bankrupt in Netherlands](https://mjbizdaily.com/news/legacy-medical-cannabis-cultivator-bedrocan-declared-bankrupt-in-netherlands/618594/) — MJBizDaily · 08:48 PT · #business #cannabis #smallbiz
 - [Federal marijuana rescheduling means institutional capital is coming to cannabis investing](https://mjbizdaily.com/news/federal-marijuana-rescheduling-means-institutional-capital-is-coming-to-cannabis-investing/618576/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
-
-## 2026-10-08
-
-- [Here’s what products Ohio cannabis stores can no longer sell](https://mjbizdaily.com/news/heres-what-products-ohio-cannabis-stores-can-no-longer-sell/618571/) — MJBizDaily · 15:31 PT · #business #cannabis
-- [Washington state to tweak cannabis rules to comply with federal marijuana rescheduling](https://mjbizdaily.com/news/washington-state-to-tweak-cannabis-rules-to-comply-with-federal-marijuana-rescheduling/618570/) — MJBizDaily · 13:17 PT · #business #cannabis #smallbiz
-- [What Happens When AI Stops Just Finding Problems, And Starts Acting On Them?](https://mjbizdaily.com/sponsored/what-happens-when-ai-stops-just-finding-problems-and-starts-acting-on-them/618405/) — MJBizDaily · 08:00 PT · #business #ai #cannabis
-- [How investing in cannabis worker training boosts operators’ margins](https://mjbizdaily.com/news/cannabis-front-line-workers-deserve-training-that-follows-them/618395/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz

@@ -1,6 +1,6 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-22T14:58:05-07:00
+updated: 2026-10-22T17:27:45-07:00
 count: 400
 tags: ["project", "media"]
 ---
@@ -11,8 +11,11 @@ tags: ["project", "media"]
 
 ## 2026-10-22
 
+- [Media and Broadcasting Council condemns disinformation about alleged mass arrests over hijab in Azerbaijan - Xalqqazeti.az](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXRUdFB3TlQ0X0JjM0lUN0I0czlqUFFRUVFMWi1wei1FRlZyY0RxOEpLaEZJZTAxcjhDbGFCTUM3eG1vdm9OdjNOTnQ0eER0UUJWZDJVc25DeUR2VG9zZWh6RE83VWRsYzhTc0lkSktaY1BabWlrcVBidFJmTC04WEQwbUJIdw?oc=5) — Google News: propaganda OR disinformation media · 15:55 PT · #world #media
+- [How Disinformation Narratives Thrive on Spanish Language Radio - American Community Media](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmNTLXVsX3ZLbkJnTUdQQ29ZU3JJYjJGT1loSjB5cW00cjZwU01CdndQcEszakQ2NmR2WGVxLU80VXBhVjBEdW9ZaTV4bVNxcnk3YkthR2liclhXaEg4clZlMXFSSC1aX3NPU2dxdW91TUpTdklyTTh3YmlXN0pvS1l5RUFXNFVZTEp2ZkVzbmxkUXFaOGtrS3IzZHN6c1Bncno2TmVPaE5QUFljcjVoRWM3X2g0cklQdEx1alF3?oc=5) — Google News: propaganda OR disinformation media · 15:16 PT · #world #media
 - [Government intensifies efforts to curb misinformation and disinformation ahead of the elections - newsnote](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemxkS0Q3alZvU29tb1BwX2VBOVFuY2wzc0NSejVJcGlWR09zdFo1Y1ZYcUQ5VjNGd0ZuY0lpOUhzR2pFNmJ5cG03T2hzV0ItalEyakh5YVRHVXhZck80ckJmVURnLTIyN2RFcEVrQnRlZlJvQ3RiSjJQSEVtS2IycTNjUXJOWFAtZDdhdDZwNTFIZUZybFJ4UVJJX1FRZktyeUZYMFotTDJqRFZ0QmphbXIwTkpfLVpsSW9n?oc=5) — Google News: propaganda OR disinformation media · 14:30 PT · #world #civic #media
 - [Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell](https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html) — NYT World · 14:25 PT · #world #foreign #media
+- [Midterms Will Be A 'Red Shellacking'—Not A Blue Wave: GOP Strategist](https://www.forbes.com/sites/forbestv/2026/10/22/midterms-will-be-a-red-shellacking-not-a-blue-wave-gop-strategist/) — Forbes - Business · 14:22 PT · #business #civic #media
 - [Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5) — Top stories - Google News · 13:55 PT · #world #foreign #media
 - [Russia pours $2bn into its wartime propaganda machine - BBC Monitoring](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EV3hxZGc4RHFkcWVOc0JrX3BfWmlRbklLRXZJX1JLZkZ0cU1aeWN6aGxlblhqUjNQV3JrMzRwN3FsdHBEVWNKTUl0SDcwZzNHZk5fSGhWaw?oc=5) — Google News: propaganda OR disinformation media · 13:22 PT · #world #foreign #media
 - [Is #Netflix losing its place in your watch list? #streaming #entertainment #business #firsttrade](https://www.youtube.com/shorts/_U4Hu7Ju1aM) — Business Insider · 12:57 PT · #business #media
@@ -432,6 +435,3 @@ tags: ["project", "media"]
 - [Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy](https://oilprice.com/Latest-Energy-News/World-News/Novak-Calls-US-Diesel-Deal-a-Positive-Signal-for-Russias-Economy.html) — OilPrice.com · 09:30 PT · #markets #foreign #media #oil
 - [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://lasvegassun.com/news/2026/oct/14/judge-extends-order-blocking-trump-from-banning-cn/) — Las Vegas Sun · 09:20 PT · #us #media #nevada
 - [Romance Scams Have Cost Americans Billions—This Journalist Went Undercover To Expose Them](https://www.forbes.com/sites/forbestv/2026/10/14/romance-scams-have-cost-americans-billions-this-journalist-went-undercover-to-expose-them/) — Forbes - Business · 09:15 PT · #business #media
-- [Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests](https://www.forbes.com/sites/saradorn/2026/10/14/katie-zacharia-may-have-committed-a-crime-by-claiming-shes-a-lawyer-complaint-suggests/) — Forbes - Business · 09:09 PT · #business #media
-- [Mapping propaganda: practices, media and power - Nature](https://news.google.com/rss/articles/CBMiWEFVX3lxTE03djlrWEJLQksxWDNWX3Q2YkV0NlJFTExyR2wtZnhLVy1GYlE2UENQU21FOThGc203NDdnejREQUtuNDY4MXRKQUoxd29ycjdyWEZtVzNRNGs?oc=5) — Google News: propaganda OR disinformation media · 08:52 PT · #world #media
-- [The great Russian bot blackout that wasn’t, and what it means for South Africa - News24](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3h2SGdGNzBLUi10ak8waktNdl91elM5WTVZRGxLa0NMNVR5bDgyMUhJM1dZWmlQV3cyZXhkUHkzYzBuSkEwa1dxUWE1R05PUTE5VURUZ2dmSXpaNUJRRVRkTWZ0Nkl4R0EydFlYT2Jodi1yblc1YzVka20yc253b3ZJV1d6QnU5MUE5QV9SMFVuMFJ0TDY0SjRnakxVd3hNNGZfei01VFhaaWo1U3VpVHRnMjkxSVpPTTd2M1UwS21jbW1uZXhOWFh4OEsxRUVr?oc=5) — Google News: propaganda OR disinformation media · 08:45 PT · #world #foreign #media

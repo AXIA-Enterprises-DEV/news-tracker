@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-22T14:58:05-07:00
+updated: 2026-10-22T17:27:45-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -11,11 +11,13 @@ tags: ["tickers"]
 - [$III](III.md) — 9 items
 - [$LSCC](LSCC.md) — 7 items
 - [$NET](NET.md) — 7 items
+- [$DVLT](DVLT.md) — 6 items
 - [$CALX](CALX.md) — 6 items
 - [$VG](VG.md) — 6 items
 - [$GIL](GIL.md) — 5 items
 - [$FORR](FORR.md) — 5 items
 - [$RMNI](RMNI.md) — 5 items
+- [$QBTS](QBTS.md) — 4 items
 - [$FROG](FROG.md) — 4 items
 - [$INV](INV.md) — 4 items
 - [$DOCS](DOCS.md) — 4 items
@@ -23,7 +25,6 @@ tags: ["tickers"]
 - [$RTX](RTX.md) — 4 items
 - [$ASTS](ASTS.md) — 4 items
 - [$YSS](YSS.md) — 4 items
-- [$DVLT](DVLT.md) — 3 items
 - [$IONQ](IONQ.md) — 3 items
 - [$GPUS](GPUS.md) — 3 items
 - [$LDOS](LDOS.md) — 3 items
@@ -36,9 +37,9 @@ tags: ["tickers"]
 - [$LUMN](LUMN.md) — 3 items
 - [$MRP](MRP.md) — 3 items
 - [$TBLA](TBLA.md) — 3 items
-- [$QBTS](QBTS.md) — 3 items
 - [$IQV](IQV.md) — 3 items
 - [$VEEV](VEEV.md) — 3 items
+- [$MEDS](MEDS.md) — 2 items
 - [$QFIN](QFIN.md) — 2 items
 - [$NABL](NABL.md) — 2 items
 - [$AEE](AEE.md) — 2 items
@@ -94,6 +95,10 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$SCAG](SCAG.md) — 1 items
+- [$SHEL](SHEL.md) — 1 items
+- [$LNAI](LNAI.md) — 1 items
+- [$RKT](RKT.md) — 1 items
 - [$QUANT](QUANT.md) — 1 items
 - [$VRSN](VRSN.md) — 1 items
 - [$ISTR](ISTR.md) — 1 items
@@ -117,7 +122,6 @@ tags: ["tickers"]
 - [$CODI](CODI.md) — 1 items
 - [$QGEN](QGEN.md) — 1 items
 - [$SATL](SATL.md) — 1 items
-- [$MEDS](MEDS.md) — 1 items
 - [$TC](TC.md) — 1 items
 - [$TCX](TCX.md) — 1 items
 - [$EROC](EROC.md) — 1 items
@@ -303,7 +307,3 @@ tags: ["tickers"]
 - [$ARXS](ARXS.md) — 1 items
 - [$FFIN](FFIN.md) — 1 items
 - [$SI](SI.md) — 1 items
-- [$TDC](TDC.md) — 1 items
-- [$PAYC](PAYC.md) — 1 items
-- [$ILLR](ILLR.md) — 1 items
-- [$AVXL](AVXL.md) — 1 items
