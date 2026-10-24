@@ -1,6 +1,6 @@
 ---
 title: "Category: tech"
-updated: 2026-10-23T15:18:14-07:00
+updated: 2026-10-23T17:48:39-07:00
 count: 400
 tags: ["category", "tech"]
 ---
@@ -11,10 +11,24 @@ tags: ["category", "tech"]
 
 ## 2026-10-23
 
+- [Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-4-review/) — CNET · 16:51 PT · #tech
+- [Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display](https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/) — 9to5Mac · 16:50 PT · #tech #ai
+- [NVIDIA vs. AMD vs. Apple — Here's What the Numbers Actually Say About Which AI Machine Is Right For You - Entrepreneur](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaFQ4MjBYQzVoLXV1V1NCMFBfUVJuS21UUVoxUk50UDc0LWRNMV95QktKNi1NOWdxOEdoZVUyTnJyY2ZQVDAwRy16SzF4bVlTWkJ1OEMtZmxkRENEYVVJQU9qUGxGU2pneW5HU2xpeWFGUFpvNktGc2RkX19DcElRMGlsdURfSW80dVcxaGtPNEV4Y0FfNkV6Y1l0d0YxZk9uTmJzTmhiSERoMVR3UmV4VFVEaURLTmw2MG5wc0JIWHQySGhaMHJVd2txZEQtWWlYZDVqVGg0c1Y?oc=5) — Google News: Mac Studio OR "M5" Apple silicon AI · 16:30 PT · #tech #ai #smallbiz
+- [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) — Hacker News · 16:30 PT · #tech
+- [The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS](https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/) — MacRumors · 16:22 PT · #tech #ai
+- [Kilo Code Local Setup: 12 Steps, 60 Min \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMicEFVX3lxTE1QemVZY05GZWV0dWFKdHBMclVubUFEYmU4MWE5NVRpODA5bDFQSVA4bGJRcUFpb2xOWUp5MEJicVVIMFNvS1BoMVI3cGEtUG1ELXcteExVczVRUWxpNEk3Q3o4MmpXeHVEU2ViRVd0UTc?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 16:20 PT · #tech #ai
+- [Apple’s official DIY repair guides for the iPhone Duo now available](https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/) — 9to5Mac · 16:12 PT · #tech #ai
+- [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/) — TechCrunch · 16:07 PT · #tech #smallbiz
+- [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) — TechCrunch · 16:05 PT · #tech #ai
+- [NASA updates lander plans for Moon landings, finally solves long-festering Orion issue](https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/) — Ars Technica · 15:48 PT · #tech
+- [Apple’s iPod Turns 25: The Song Catalog That Rode Wit You](https://www.cnet.com/tech/mobile/apple-ipod-25th-anniversary/) — CNET · 15:37 PT · #tech
+- [OpenAI says it's cutting off internet access for frontier model training](https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/) — Engadget - Technology News & Expert Reviews · 15:37 PT · #tech #ai
+- [German court calls Google aerial imagery 'spying'](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/) — Hacker News · 15:18 PT · #tech
 - [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) — TechCrunch · 14:59 PT · #tech #ai
 - [YouTube Is Letting Us Vibe Our Video Feeds, and I’m Liking It](https://www.cnet.com/tech/services-and-software/youtube-custom-video-feeds/) — CNET · 14:53 PT · #tech
 - [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure) — The Verge · 14:39 PT · #tech
 - [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) — Simon Willison (LLMs) · 14:35 PT · #tech #ai
+- [5 Key Factors Behind Ecommerce’s Rise](https://smallbiztrends.com/rise-of-ecommerce/) — Small Business Trends · 14:31 PT · #tech
 - [The iPhone Duo Is Now in Our Custom-Made Foldable Phone Test Machine. Will It Beat the Galaxy Fold 8?](https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/) — CNET · 14:30 PT · #tech
 - [CVE Tracker](https://cve.0xosprey.com/) — Hacker News · 14:21 PT · #tech
 - [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) — The Verge · 14:11 PT · #tech #ai
@@ -40,6 +54,7 @@ tags: ["category", "tech"]
 - [Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left](https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left) — Hacker News · 12:53 PT · #tech
 - [OpenAI: Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/) — Hacker News · 12:50 PT · #tech #ai
 - [Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3](https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/) — 9to5Mac · 12:50 PT · #tech #ai #foreign
+- [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/) — Hacker News · 12:46 PT · #tech
 - [iPhone Duo has hidden trick that solves a common complaint](https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/) — 9to5Mac · 12:43 PT · #tech #ai
 - [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release) — Hacker News · 12:42 PT · #tech
 - [We are all living inside of an obscure sci-fi film from 1970](https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/) — Hacker News · 12:41 PT · #tech
@@ -160,6 +175,7 @@ tags: ["category", "tech"]
 - [Ancestry CEO’s Lunch Habit Offers a Powerful Lesson in Leadership](https://www.inc.com/scott-hutcheson/ancestry-ceos-lunch-habit-offers-a-powerful-lesson-in-leadership/91423154) — Inc.com · 09:00 PT · #tech
 - [See what 5 builders are making with Gemini 4 Argon](https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/) — The Keyword · 09:00 PT · #tech #ai
 - [My experience suggests Apple Glasses will only sell to existing eyeglasses wearers](https://9to5mac.com/2026/10/23/my-experience-suggests-apple-glasses-will-only-be-for-existing-eyeglass-wearers/) — 9to5Mac · 09:00 PT · #tech #ai
+- [Reforming English Spelling](https://blog.oup.com/2026/10/reforming-english-spelling/) — Hacker News · 08:56 PT · #tech
 - [Accountants Fear Automation. This $4.25 Billion Startup Says Their Real Opportunity Is Just Beginning](https://www.inc.com/brian-contreras/accountants-automation-startup-pennylane-opportunity-ai-technology/91424628) — Inc.com · 08:55 PT · #tech #ai #smallbiz
 - [Swiss Watch Exports Jumped 86 Percent in the U.S.—but Experts Say Demand Isn’t Booming](https://www.inc.com/lucia-auerbach/swiss-watch-exports-jumped-86-percent-in-us-demand-isnt-booming/91423713) — Inc.com · 08:50 PT · #tech
 - [The MacRumors Show: iPhone Duo Arrives, Touchscreen MacBooks Next](https://www.macrumors.com/2026/10/23/the-macrumors-show-iphone-duo-arrives/) — MacRumors · 08:48 PT · #tech #ai
@@ -398,19 +414,3 @@ tags: ["category", "tech"]
 - [The reason you don't grow on Social Media](https://www.youtube.com/shorts/tie3sHP0VV0) — GaryVee · 15:00 PT · #tech #smallbiz
 - [Latest estimate for Starship launches required to support a Moon landing? 22.](https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/) — Ars Technica · 14:52 PT · #tech
 - [Arianna Huffington Warns Against Betting Everything on Machines. She Says Humans Must Hold On to This](https://www.inc.com/lucia-auerbach/arianna-huffington-warns-against-betting-everything-on-machines/91424003) — Inc.com · 14:52 PT · #tech #smallbiz
-- [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model) — The Verge · 14:51 PT · #tech #ai
-- [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) — Hacker News · 14:41 PT · #tech
-- [Apple TV’s long-awaited Fleetwood Mac documentary finally has a release date](https://9to5mac.com/2026/10/22/apple-tvs-long-awaited-fleetwood-mac-documentary-finally-has-a-release-date/) — 9to5Mac · 14:38 PT · #tech #ai
-- [Railpass](https://train.samismith.com/) — Hacker News · 14:38 PT · #tech
-- [Peras](https://www.producthunt.com/products/peras) — Product Hunt — The best new products, every day · 14:38 PT · #tech
-- [7 Retail Sales Techniques to Boost Your Profits](https://smallbiztrends.com/retail-sales-techniques/) — Small Business Trends · 14:31 PT · #tech
-- [PC shipments dropped over 20 percent in Q3 due to RAM price hikes](https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram) — The Verge · 14:30 PT · #tech
-- [1Password for Agents Keeps Your Passwords Hidden From AI](https://www.macrumors.com/2026/10/22/1password-for-agents/) — MacRumors · 14:28 PT · #tech #ai
-- [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations) — Hacker News 200+ · 14:24 PT · #tech
-- [Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals](https://www.cnet.com/tech/services-and-software/anthropic-claude-duet-ai-agent-app-professional/) — CNET · 14:19 PT · #tech #ai
-- [LLM Injection: An Emerging Risk to Public Agency Data - GovTech](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVi15ejJueDFZa21pcnU5RkxpcmVpSGpMUlhmNnV1MEZtVnUza2NrbXBpVzNBeHQyRG5mLWhTbG9GYVBIS29xVzlTbnNyYWhjMHhzaFBEUzZnT0dSWDRKVXotdXIxbDF6eWlxanFlWG5YM0Q0ZUh4aHUwOGxaUlFfNTBWcWZSU3JqdlBxYQ?oc=5) — Google News: local LLM OR llama.cpp OR Ollama OR MLX · 14:17 PT · #tech #ai
-- [Fall 2026 earnings watch](https://www.theverge.com/tech/1016506/fall-2026-earnings-watch) — The Verge · 14:15 PT · #tech #ai #markets
-- [Comcast loses more customers, claims other ISPs' cheap prices are "irrational"](https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/) — Ars Technica · 14:07 PT · #tech #ai
-- [Rivian buys world model startup to accelerate self-driving ambitions](https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/) — TechCrunch · 14:05 PT · #tech #ai #smallbiz
-- [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997) — Hacker News · 14:03 PT · #tech #ai
-- [Plango](https://www.producthunt.com/products/plango) — Product Hunt — The best new products, every day · 14:03 PT · #tech #ai

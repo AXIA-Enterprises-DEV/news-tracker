@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-23T15:18:14-07:00
+updated: 2026-10-23T17:48:39-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,13 @@ tags: ["category", "science"]
 
 ## 2026-10-23
 
+- [Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades](https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
+- [NASA Is Still Aiming for the Next Moon Landing in 2028](https://www.nytimes.com/2026/10/23/science/space/nasa-artemis-program-update.html) — NYT > Science · 16:20 PT · #science
+- [Glowing plants reveal immune responses around infection sites via two colors](https://phys.org/news/2026-10-reveal-immune-responses-infection-sites.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
+- [NASA, Partners Accelerate Lander Development for 2028 Moon Missions](https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/) — NASA · 15:39 PT · #science
+- [NASA’s Artemis III Mission to Test Future Moon Lander Operations](https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/) — NASA · 15:37 PT · #science
+- [Study maps the human side of flood risk](https://phys.org/news/2026-10-human-side.html) — Phys.org - latest science and technology news stories · 15:20 PT · #science
+- [NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza](https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/) — NASA · 14:51 PT · #science
 - [12 striking images from European Wildlife Photographer of the Year 2026](https://www.popsci.com/environment/european-wildlife-photographer-of-the-year-2026-awards/) — Popular Science · 14:20 PT · #science
 - [Counting magnetic flux quanta offers new way to measure photon numbers](https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html) — Phys.org - latest science and technology news stories · 14:20 PT · #science
 - ['It's pretty toxic… but just a little, I want to be like that': What young men think of manosphere content](https://phys.org/news/2026-10-pretty-toxic-young-men-manosphere.html) — Phys.org - latest science and technology news stories · 14:00 PT · #science
@@ -413,10 +420,3 @@ tags: ["category", "science"]
 - [How a new wave of science philanthropists can have the greatest impact](https://www.nature.com/articles/d41586-026-03326-2) — Nature · 17:00 PT · #science #smallbiz
 - [De novo design of enantioselective artificial metalloenzyme photocatalysts](https://www.nature.com/articles/s41586-026-11317-6) — Nature · 17:00 PT · #science
 - [Scientists put a salt marsh in a giant wave-machine: here's what they learned](https://www.nature.com/articles/d41586-026-03376-6) — Nature · 17:00 PT · #science
-- [To heal sick cities, scientists and residents must work together](https://www.nature.com/articles/d41586-026-03161-5) — Nature · 17:00 PT · #science
-- [An AI tool improves weather forecasts up to a month ahead](https://www.nature.com/articles/d41586-026-03077-0) — Nature · 17:00 PT · #science #ai
-- [Using AI to offer personalized health advice](https://www.nature.com/articles/d41586-026-03065-4) — Nature · 17:00 PT · #science #ai
-- [Huge mapping study reveals how your brain tracks what your body is feeling](https://www.nature.com/articles/d41586-026-03334-2) — Nature · 17:00 PT · #science
-- [Plastics embedded with enzymes degrade readily in the sea](https://www.nature.com/articles/d41586-026-03282-x) — Nature · 17:00 PT · #science
-- [This is what the mysterious Denisovans looked like](https://www.nature.com/articles/d41586-026-03360-0) — Nature · 17:00 PT · #science #foreign
-- [Can plants defend coasts against storms?](https://www.nature.com/articles/d41586-026-03063-6) — Nature · 17:00 PT · #science

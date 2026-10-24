@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-23T15:18:14-07:00
+updated: 2026-10-23T17:48:39-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,18 @@ tags: ["category", "us"]
 
 ## 2026-10-23
 
+- [How Las Vegas families can make Halloween safer for neurodivergent children](https://www.ktnv.com/neighborhoods/southwest-las-vegas/how-las-vegas-families-can-make-halloween-safer-for-neurodivergent-children) — KTNV Las Vegas · 17:43 PT · #us #nevada
+- [Judge refuses to order Review-Journal to resume printing Las Vegas Sun](https://www.reviewjournal.com/news/civil-courts/judge-refuses-to-order-review-journal-to-resume-printing-las-vegas-sun-3904317/) — Las Vegas Review-Journal · 17:42 PT · #us #nevada
+- [Off-Strip hotel-casino temporarily suspends alcohol sales for second time in a year](https://www.reviewjournal.com/business/casinos-gaming/off-strip-hotel-casino-temporarily-suspends-alcohol-sales-for-second-time-in-a-year-3904312/) — Las Vegas Review-Journal · 17:37 PT · #us #nevada
+- [North Las Vegas police step up pedestrian safety enforcement](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-police-step-up-pedestrian-safety-enforcement) — KTNV Las Vegas · 17:29 PT · #us #nevada
+- [Union head calls MLB's salary cap proposal 'nuclear bomb' ahead of World Series opener](https://lasvegassun.com/news/2026/oct/23/union-head-calls-mlbs-salary-cap-proposal-nuclear/) — Las Vegas Sun · 17:04 PT · #us #nevada
+- [Nuclear power could more than triple by 2060, UN agency says](https://lasvegassun.com/news/2026/oct/23/nuclear-power-could-more-than-triple-by-2060-un-ag/) — Las Vegas Sun · 17:01 PT · #us #nevada
+- [What's going on with Dan Sullivan and Dan Sullivan? The Alaska Senate litigation, explained](https://lasvegassun.com/news/2026/oct/23/whats-going-on-with-dan-sullivan-and-dan-sullivan/) — Las Vegas Sun · 16:58 PT · #us #civic #nevada
+- [Judge dismisses Las Vegas church abuse lawsuit, allows woman to amend claim](https://www.reviewjournal.com/news/civil-courts/judge-dismisses-las-vegas-church-abuse-lawsuit-allows-woman-to-amend-claim-3904303/) — Las Vegas Review-Journal · 16:34 PT · #us #nevada
+- [Ex-ESPN reporter Britt McHenry resigns from State Department after incident at Wizards game](https://www.latimes.com/sports/story/2026-10-23/britt-mchenry-resigns-state-department-drink-throwing-incident-wizards-game) — World & Nation · 16:29 PT · #us #foreign
+- [Utah city recovering after floods; evacuations in Four Corners region](https://www.reviewjournal.com/news/nation-and-world/utah-city-recovering-after-floods-evacuations-in-four-corners-region-3904296/) — Las Vegas Review-Journal · 15:55 PT · #us #nevada
+- [Individual charged with illegal voting in Nevada federal elections, U.S. Attorney's Office says](https://www.ktnv.com/news/individual-charged-with-illegal-voting-in-nevada-federal-elections-u-s-attorneys-office-says) — KTNV Las Vegas · 15:25 PT · #us #civic #nevada
+- [NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years](https://lasvegassun.com/news/2026/oct/23/nasa-adopting-apollos-urgency-to-build-a-moon-base/) — Las Vegas Sun · 15:17 PT · #us #nevada
 - [Rams’ injuries pile up ahead of Sunday’s contest against Raiders](https://www.reviewjournal.com/sports/raiders/rams-injuries-pile-up-ahead-of-sundays-contest-against-raiders-3904276/) — Las Vegas Review-Journal · 14:46 PT · #us #nevada
 - [NBA Las Vegas expansion bid process down to 2 groups, after one drops out, report says](https://www.reviewjournal.com/sports/nba/nba-las-vegas-expansion-bid-process-down-to-2-groups-after-one-drops-out-report-says-3904271/) — Las Vegas Review-Journal · 14:41 PT · #us #nevada #smallbiz
 - [Keep on trussin’: Last 2 A’s ballpark roof arches to be in place by year’s end](https://www.reviewjournal.com/sports/athletics/keep-on-trussin-last-2-as-ballpark-roof-arches-to-be-in-place-by-years-end-3904267/) — Las Vegas Review-Journal · 14:40 PT · #us #nevada
@@ -47,6 +59,7 @@ tags: ["category", "us"]
 - [Central Park's horse-drawn carriage drivers fear for their future as New York City passes a ban](https://lasvegassun.com/news/2026/oct/23/central-parks-horse-drawn-carriage-drivers-fear-fo/) — Las Vegas Sun · 09:05 PT · #us #nevada
 - [NFL betting trends, predictions: 49ers, Browns among best bets in Week 7](https://www.reviewjournal.com/sports/betting/nfl-betting-trends-predictions-49ers-browns-among-best-bets-in-week-7-3904127/) — Las Vegas Review-Journal · 09:00 PT · #us #nevada
 - [Two dead in Friday morning Henderson shooting](https://www.ktnv.com/news/crime/two-dead-in-friday-morning-henderson-shooting) — KTNV Las Vegas · 08:48 PT · #us #nevada
+- [Two dead in Friday morning Henderson shooting, suspect arrested](https://www.ktnv.com/news/crime/two-dead-in-friday-morning-henderson-shooting-suspect-arrested) — KTNV Las Vegas · 08:48 PT · #us #nevada
 - [Student arrested after gun found on campus of Las Vegas school](https://www.reviewjournal.com/crime/student-arrested-after-gun-found-on-campus-of-las-vegas-school-3904117/) — Las Vegas Review-Journal · 08:23 PT · #us #nevada
 - [Man pleads guilty after dragging horse by truck to its death](https://www.ktnv.com/news/crime/man-pleads-guilty-after-dragging-horse-by-truck-to-its-death) — KTNV Las Vegas · 08:23 PT · #us #nevada
 - [2 dead in shooting in Henderson neighborhood, police say](https://www.reviewjournal.com/crime/homicides/2-dead-in-shooting-in-henderson-neighborhood-police-say-3904107/) — Las Vegas Review-Journal · 08:16 PT · #us #nevada
@@ -410,16 +423,3 @@ tags: ["category", "us"]
 - [Vote for Nevada Preps boys Athlete of the Week for Oct. 12-17](https://www.reviewjournal.com/nevada-preps/vote-for-nevada-preps-boys-athlete-of-the-week-for-oct-12-17-3902306/) — Las Vegas Review-Journal · 13:33 PT · #us #nevada
 - [Supreme Court may strike down school policies that limit Asian students](https://www.latimes.com/politics/story/2026-10-19/supreme-court-may-strike-down-school-policies-that-limit-asian-students) — World & Nation · 13:27 PT · #us #civic
 - [Nevada jury weighs charges against who took Peachy the flamingo in drunken prank](https://lasvegassun.com/news/2026/oct/19/man-who-took-a-bird-from-flamingo-casino-could-fac/) — Las Vegas Sun · 13:26 PT · #us #nevada
-- [UNLV basketball to retire the jersey of a former star Lady Rebel](https://www.reviewjournal.com/sports/unlv/unlv-basketball/unlv-basketball-to-retire-the-jersey-of-a-former-star-lady-rebel-3902301/) — Las Vegas Review-Journal · 13:12 PT · #us #nevada
-- [Military helicopter makes emergency crash landing in Lake Havasu City parking lot, both pilots walk away](https://www.ktnv.com/news/military-helicopter-makes-emergency-crash-landing-in-lake-havasu-city-parking-lot-both-pilots-walk-away) — KTNV Las Vegas · 13:09 PT · #us #foreign #nevada
-- [NFL suspends Bills’ C.J. Gardner-Johnson for spitting at Raiders](https://www.reviewjournal.com/sports/raiders/nfl-suspends-bills-c-j-gardner-johnson-for-spitting-at-raiders-3902291/) — Las Vegas Review-Journal · 12:55 PT · #us #nevada
-- [NFL suspends Bills safety Gardner-Johnson for 1 game for spitting at Raiders](https://lasvegassun.com/news/2026/oct/19/nfl-suspends-bills-safety-gardner-johnson-for-1-ga/) — Las Vegas Sun · 12:43 PT · #us #nevada
-- [Nevada Preps rankings: Arbor View, Centennial move up in football](https://www.reviewjournal.com/nevada-preps/nevada-preps-rankings-arbor-view-centennial-move-up-in-football-3902283/) — Las Vegas Review-Journal · 12:31 PT · #us #nevada
-- [Rasmus Andersson taking initiative, finding groove offensively for Knights](https://www.reviewjournal.com/sports/goldenknights/rasmus-andersson-taking-initiative-finding-groove-offensively-for-knights-3902278/) — Las Vegas Review-Journal · 12:27 PT · #us #nevada
-- [Jury deliberates flamingo abuse case](https://www.reviewjournal.com/crime/courts/jury-deliberates-flamingo-abuse-case-3902274/) — Las Vegas Review-Journal · 12:13 PT · #us #nevada
-- [Tipping is not required, says new Strip signs](https://www.reviewjournal.com/local/the-strip/tipping-is-not-required-says-new-strip-signs-3902271/) — Las Vegas Review-Journal · 12:05 PT · #us #nevada
-- [Las Vegas home inventory reaches highest level in 4 years](https://www.reviewjournal.com/business/housing/las-vegas-home-inventory-reaches-highest-level-in-4-years-3902267/) — Las Vegas Review-Journal · 11:50 PT · #us #nevada #realestate
-- [Las Vegas man charged with soliciting explicit video from minor](https://lasvegassun.com/news/2026/oct/19/las-vegas-man-charged-with-soliciting-explicit-vid/) — Las Vegas Sun · 11:50 PT · #us #nevada
-- [2026 Nevada election: All Las Vegas Review-Journal endorsements](https://www.reviewjournal.com/opinion/rj-endorses-2026/rj-endorses-our-choices-for-novembers-election-3897944/) — Las Vegas Review-Journal · 11:28 PT · #us #civic #nevada
-- [Henderson police violated state law with delayed notice of inmate’s 2024 death, city says](https://www.reviewjournal.com/local/henderson/henderson-police-violated-state-law-with-delayed-notice-of-inmates-2024-death-city-says-3902252/) — Las Vegas Review-Journal · 11:16 PT · #us #nevada
-- [Midweek storm to bring rain, wind and cooler weather to Las Vegas area](https://lasvegassun.com/news/2026/oct/19/midweek-storm-to-bring-rain-wind-and-cooler-weathe/) — Las Vegas Sun · 11:00 PT · #us #nevada

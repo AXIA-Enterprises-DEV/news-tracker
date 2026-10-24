@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-23T15:18:14-07:00
+updated: 2026-10-23T17:48:39-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -11,6 +11,13 @@ tags: ["project", "markets"]
 
 ## 2026-10-23
 
+- [Dengue cases in Florida continued to climb after emergency declared - The Washington Post](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHNwLVM1YmE3MGlGeVNZdnFmZTdZYUtFSVVtVUtvTW83dTZXWmhaWldJSDhOekRWOXdiSTNEejRkWmpOWm8wTWlJTHNjREladVhzSFRjYmdHaWhUUjhWTUR6LWlfSjJfTE8tSWtKSGdIOTZPclZSb1dRVTVEbjdIZmk1dXlYMk81R25VZHFRMUFyQUhXVDVjRVNZc05qd3ljeVc1b3BPQ1AwMXphYXM1Tw?oc=5) — Top stories - Google News · 17:28 PT · #world #markets
+- [Windward Bio seeks Nasdaq listing to fund respiratory, skin disease drug trials](https://www.investing.com/news/company-news/windward-bio-seeks-nasdaq-listing-to-fund-respiratory-skin-disease-drug-trials-4970515) — All News · 17:08 PT · #business #markets
+- [Gentex Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into Gentex (GNTX)](https://www.prnewswire.com/news-releases/gentex-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-gentex-gntx-302918502.html) — PR Newswire M&A · 16:52 PT · #business #markets $GNTX
+- [Uber Technologies (UBER) Stock Dropped, What Is Driving Attention Now? - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUkzZ3B6bEI5R2d5WHlLWm9kamxpLVplWkZLOXZGbkxILUgwcW1mX0U2WnFJekMtYk1DaUgwUjBJUlI4SVNWX1pjLUMwNXdDQzZFZU9GVlJOeElCRk8zei1QRFgtdkZoanVUSHZUNEhxNU5SaU0xS0Q3N0VuNWRNQkhsVU1kZ19yenNJMmU3Ti0zWVNEMnpENHMtT0VOUVMzN1pz?oc=5) — Google News: unusual options activity · 16:09 PT · #markets
+- [Club Offers for Travel Enthusiasts in Canada](https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-canada-302918543.html) — PR Newswire M&A · 16:08 PT · #business #markets $TZOO
+- [Robbins LLP Reminds PZZA Investors of the Pending Class Action Lawsuit; Harmed Investors Should Contact the Firm for Information About Leading the Class Action Against Papa John's International, Inc.](https://www.prnewswire.com/news-releases/robbins-llp-reminds-pzza-investors-of-the-pending-class-action-lawsuit-harmed-investors-should-contact-the-firm-for-information-about-leading-the-class-action-against-papa-johns-international-inc-302918465.html) — PR Newswire M&A · 15:55 PT · #business #markets $PZZA
+- [Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO](https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html) — CNBC Top News · 15:49 PT · #markets #ai
 - [4 - Dennehy Robert (0001588004) (Reporting)](https://www.sec.gov/Archives/edgar/data/1588004/000090445426000539/0000904454-26-000539-index.htm) — SEC EDGAR All Filings · 15:12 PT · #filings #markets
 - [4 - PIMCO NEW YORK MUNICIPAL INCOME FUND II (0001170311) (Issuer)](https://www.sec.gov/Archives/edgar/data/1170311/000007085826000508/0000070858-26-000508-index.htm) — SEC EDGAR All Filings · 15:11 PT · #filings #markets
 - [4 - MACOM Technology Solutions Holdings, Inc. (0001493594) (Issuer)](https://www.sec.gov/Archives/edgar/data/1493594/000090445426000537/0000904454-26-000537-index.htm) — SEC EDGAR All Filings · 15:08 PT · #filings #markets
@@ -226,10 +233,12 @@ tags: ["project", "markets"]
 - [What some of Anthropic’s backers are reportedly worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/) — TechCrunch · 09:02 PT · #tech #ai #markets
 - [8-K - VISTA CREDIT STRATEGIC LENDING CORP. (0001919369) (Filer)](https://www.sec.gov/Archives/edgar/data/1919369/000119312526429834/0001193125-26-429834-index.htm) — SEC EDGAR 8-K · 08:44 PT · #filings #markets
 - [Unusual Options Volume Report: PepsiCo Stock - Schaeffer's Investment Research](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM25IcjV2akxvMXVmZVRHWm5WNUJUZFVoVHhJaVdkWE1OQmpRUVlNZkg1X3FiX3ZSd3I2LTZQY2FxMko0LVVJRmZma1h6SHdOZWVLdDY1cm91VWNiVmRTUW9ucEtVdm52Yk1aSWU1aXpWLUxjZnRpNDNKQ05rb3FlbF9mQTNLVGVZV1BmUWhaUjZ4TFlmUzgxVFJ6VnE2Q0poYmlhTFRzbWs?oc=5) — Google News: unusual options activity · 08:40 PT · #markets
+- [Unusual Options Volume Report: PepsiCo Stock - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUF0bmJkQ1VJZXZkeG5WRk9YUWllcDh1NERKc1JXTEZ0VG1RVkFmR21XN01KRGh5aTNKbjRJWnNqaVc0UndnbzNSZDR1M3ZQSFJtUG5DN1NEaHJQNGNtSFNuWVJFcUVmQXJfWjZ1NHZmcVM4X2t1c2EycGhCMFRlTlFfSDhla09YbV8tM3FmeVpjVDM2SG9kVC1yOTJtS0hPY2lHUUh3?oc=5) — Google News: unusual options activity · 08:40 PT · #markets
 - [8-K - Onconetix, Inc. (0001782107) (Filer)](https://www.sec.gov/Archives/edgar/data/1782107/000121390026111944/0001213900-26-111944-index.htm) — SEC EDGAR 8-K · 08:40 PT · #filings #markets
 - [8-K - BANCFIRST CORP /OK/ (0000760498) (Filer)](https://www.sec.gov/Archives/edgar/data/760498/000119312526429812/0001193125-26-429812-index.htm) — SEC EDGAR 8-K · 08:31 PT · #filings #markets
 - [Datavault AI firma una carta de intención no vinculante para adquirir el 19,9 % del capital de DataMEDS AI a cambio de ampliar una licencia tecnológica](http://www.businesswire.com/news/home/20261022447140/es/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 08:19 PT · #business #ai #markets $DVLT
 - [Datavault AI unterzeichnet unverbindliche Absichtserklärung zum Erwerb von 19,9 Prozent an DataMEDS AI im Gegenzug für die Erweiterung einer Technologielizenz](http://www.businesswire.com/news/home/20261022413136/de/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0) — Business Wire · 08:18 PT · #business #ai #markets $DVLT
+- [EWZ 261023 49.00P (EWZ261023P49000) Stock Community & Discussion - Moomoo](https://news.google.com/rss/articles/CBMia0FVX3lxTE9wTDMyYV9lTDNyZDFVZjB2R3RLSjcyVE9KR2t6dnZpa3Y1V1JwQ0NSU01VQjZYeVpOb2dkYjFWTlozUnREcFBaOFFBNkhmT2liODdEUl9LSWVPYzMxNHVHQVFMSVlwRmxlSC1r?oc=5) — Google News: unusual options activity · 08:16 PT · #markets
 - [8-K - AB Private Credit Investors Corp (0001634452) (Filer)](https://www.sec.gov/Archives/edgar/data/1634452/000119312526429794/0001193125-26-429794-index.htm) — SEC EDGAR 8-K · 08:15 PT · #filings #markets
 - [D - Crescent Private Lending Evergreen Fund (Delaware) LP (0002095193) (Filer)](https://www.sec.gov/Archives/edgar/data/2095193/000094562126001293/0000945621-26-001293-index.htm) — SEC EDGAR All Filings · 08:09 PT · #filings #markets
 - [10-D - Hyundai Auto Receivables Trust 2026-C (0002151096) (Filer)](https://www.sec.gov/Archives/edgar/data/2151096/000110465926118383/0001104659-26-118383-index.htm) — SEC EDGAR All Filings · 08:08 PT · #filings #markets
@@ -405,12 +414,3 @@ tags: ["project", "markets"]
 - [S-4/A - Quantum Space, LLC (0002149780) (Filer)](https://www.sec.gov/Archives/edgar/data/2149780/000121390026111830/0001213900-26-111830-index.htm) — SEC EDGAR All Filings · 18:59 PT · #filings #markets
 - [425 - Inflection Point Acquisition Corp. VI (0002102041) (Subject)](https://www.sec.gov/Archives/edgar/data/2102041/000121390026111832/0001213900-26-111832-index.htm) — SEC EDGAR All Filings · 18:58 PT · #filings #markets
 - [8-K - Inflection Point Acquisition Corp. VI (0002102041) (Filer)](https://www.sec.gov/Archives/edgar/data/2102041/000121390026111829/0001213900-26-111829-index.htm) — SEC EDGAR 8-K · 18:58 PT · #filings #item-1.01 #markets
-- [D/A - Aurelian I, a series of Aurelian Ventures Master Fund, LP (0002126996) (Filer)](https://www.sec.gov/Archives/edgar/data/2126996/000212699626000003/0002126996-26-000003-index.htm) — SEC EDGAR All Filings · 18:57 PT · #filings #markets
-- [6-K - Antalpha Platform Holding Co (0002044255) (Filer)](https://www.sec.gov/Archives/edgar/data/2044255/000117184326006787/0001171843-26-006787-index.htm) — SEC EDGAR All Filings · 18:52 PT · #filings #markets
-- [S-8 POS - Lunai Bioworks Inc. (0001527728) (Filer)](https://www.sec.gov/Archives/edgar/data/1527728/000173112226001366/0001731122-26-001366-index.htm) — SEC EDGAR All Filings · 18:45 PT · #filings #markets
-- [POS AM - Lunai Bioworks Inc. (0001527728) (Filer)](https://www.sec.gov/Archives/edgar/data/1527728/000173112226001365/0001731122-26-001365-index.htm) — SEC EDGAR All Filings · 18:44 PT · #filings #markets
-- [4 - Kneppers Chris J (0001926933) (Reporting)](https://www.sec.gov/Archives/edgar/data/1926933/000149315226048157/0001493152-26-048157-index.htm) — SEC EDGAR All Filings · 18:44 PT · #filings #markets
-- [D/A - Willing Partners Plus Fund (0001889789) (Filer)](https://www.sec.gov/Archives/edgar/data/1889789/000188978926000001/0001889789-26-000001-index.htm) — SEC EDGAR All Filings · 18:42 PT · #filings #markets
-- [6-K - APEX CRITICAL METALS CORP. (0002093856) (Filer)](https://www.sec.gov/Archives/edgar/data/2093856/000149315226048156/0001493152-26-048156-index.htm) — SEC EDGAR All Filings · 18:40 PT · #filings #markets
-- [8-K - Lunai Bioworks Inc. (0001527728) (Filer)](https://www.sec.gov/Archives/edgar/data/1527728/000173112226001362/0001731122-26-001362-index.htm) — SEC EDGAR 8-K · 18:38 PT · #filings #civic #markets
-- [3 - ELI LILLY & Co (0000059478) (Reporting)](https://www.sec.gov/Archives/edgar/data/59478/000119312526429267/0001193125-26-429267-index.htm) — SEC EDGAR All Filings · 18:37 PT · #filings #markets

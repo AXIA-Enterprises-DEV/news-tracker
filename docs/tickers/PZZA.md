@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $PZZA"
-updated: 2026-10-23T15:18:14-07:00
-count: 2
+updated: 2026-10-23T17:48:39-07:00
+count: 3
 tags: ["ticker", "PZZA"]
 ---
 
 # Ticker: $PZZA
 
-2 most recent items (14-day window).
+3 most recent items (14-day window).
+
+## 2026-10-23
+
+- [Robbins LLP Reminds PZZA Investors of the Pending Class Action Lawsuit; Harmed Investors Should Contact the Firm for Information About Leading the Class Action Against Papa John's International, Inc.](https://www.prnewswire.com/news-releases/robbins-llp-reminds-pzza-investors-of-the-pending-class-action-lawsuit-harmed-investors-should-contact-the-firm-for-information-about-leading-the-class-action-against-papa-johns-international-inc-302918465.html) — PR Newswire M&A · 15:55 PT · #business #markets $PZZA
 
 ## 2026-10-20
 

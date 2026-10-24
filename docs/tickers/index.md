@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-23T15:18:14-07:00
+updated: 2026-10-23T17:48:39-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -26,6 +26,8 @@ tags: ["tickers"]
 - [$RTX](RTX.md) — 4 items
 - [$ASTS](ASTS.md) — 4 items
 - [$YSS](YSS.md) — 4 items
+- [$TZOO](TZOO.md) — 3 items
+- [$PZZA](PZZA.md) — 3 items
 - [$XTIA](XTIA.md) — 3 items
 - [$IONQ](IONQ.md) — 3 items
 - [$GPUS](GPUS.md) — 3 items
@@ -45,7 +47,6 @@ tags: ["tickers"]
 - [$MCBS](MCBS.md) — 2 items
 - [$CBOE](CBOE.md) — 2 items
 - [$EQT](EQT.md) — 2 items
-- [$TZOO](TZOO.md) — 2 items
 - [$BDC](BDC.md) — 2 items
 - [$MEDS](MEDS.md) — 2 items
 - [$QFIN](QFIN.md) — 2 items
@@ -70,7 +71,6 @@ tags: ["tickers"]
 - [$HPE](HPE.md) — 2 items
 - [$CDW](CDW.md) — 2 items
 - [$DKS](DKS.md) — 2 items
-- [$PZZA](PZZA.md) — 2 items
 - [$HONA](HONA.md) — 2 items
 - [$APP](APP.md) — 2 items
 - [$BIDU](BIDU.md) — 2 items
@@ -102,6 +102,8 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$DNRSF](DNRSF.md) — 1 items
+- [$GNTX](GNTX.md) — 1 items
 - [$ACA](ACA.md) — 1 items
 - [$CRH](CRH.md) — 1 items
 - [$HHH](HHH.md) — 1 items
@@ -305,5 +307,3 @@ tags: ["tickers"]
 - [$BRUN](BRUN.md) — 1 items
 - [$UPS](UPS.md) — 1 items
 - [$PLAY](PLAY.md) — 1 items
-- [$FOXA](FOXA.md) — 1 items
-- [$EGY](EGY.md) — 1 items

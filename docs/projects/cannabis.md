@@ -1,13 +1,13 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-23T15:18:14-07:00
-count: 157
+updated: 2026-10-23T17:48:39-07:00
+count: 155
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-157 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+155 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-23
 
@@ -199,8 +199,3 @@ tags: ["project", "cannabis"]
 - [2026 General Election: Nevada Attorney General - The Record Courier](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUhVbTM4REFGY1VkaWVBd1RUR1FKWDlhcHdJNzdSZXN0Y2lnWklRT1BiOC1RdVVzSE9WNFJsNHdjWFhKMDhMeTg1WUpjZ0JzZHkzVW5TamhTVU1OMEJBNGp2ZlFIajZEeE5IRUJPRWgyRUo0bXJWZERUUWk1NGFLaE1sTVNLeFhBX2xSQTgtTC01RGZDc1c5bA?oc=5) — Google News: Las Vegas cannabis OR dispensary Nevada · 10:11 PT · #business #cannabis #civic #nevada
 - [Wisconsin Should Legalize Marijuana To Fund Pre-K And Healthcare Expansion, Democratic Governor Candidate Says](https://www.marijuanamoment.net/wisconsin-should-legalize-marijuana-to-fund-k-and-healthcare-expansion-democratic-governor-candidate-says/) — Marijuana Moment · 08:10 PT · #business #cannabis
 - [The Marijuana Rescheduling Process Has Been Delayed—But Not Derailed (Op-Ed)](https://www.marijuanamoment.net/the-marijuana-rescheduling-process-has-been-delayed-but-not-derailed-op-ed/) — Marijuana Moment · 06:05 PT · #business #cannabis
-
-## 2026-10-09
-
-- [Legacy medical cannabis cultivator Bedrocan declared bankrupt in Netherlands](https://mjbizdaily.com/news/legacy-medical-cannabis-cultivator-bedrocan-declared-bankrupt-in-netherlands/618594/) — MJBizDaily · 08:48 PT · #business #cannabis #smallbiz
-- [Federal marijuana rescheduling means institutional capital is coming to cannabis investing](https://mjbizdaily.com/news/federal-marijuana-rescheduling-means-institutional-capital-is-coming-to-cannabis-investing/618576/) — MJBizDaily · 03:30 PT · #business #cannabis #smallbiz
