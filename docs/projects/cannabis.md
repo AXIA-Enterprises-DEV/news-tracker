@@ -1,16 +1,17 @@
 ---
 title: "Project: Cannabis"
-updated: 2026-10-23T17:48:39-07:00
-count: 155
+updated: 2026-10-23T22:07:58-07:00
+count: 156
 tags: ["project", "cannabis"]
 ---
 
 # Project: Cannabis
 
-155 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
+156 most recent items (14-day window). Atom feed: [cannabis.xml](../feeds/cannabis.xml)
 
 ## 2026-10-23
 
+- [Texas hemp groups sue over rule counting THCA as delta-9 THC](https://mjbizdaily.com/news/texas-hemp-groups-sue-over-rule-counting-thca-as-delta-9-thc/618850/) — MJBizDaily · 18:33 PT · #business #cannabis #smallbiz
 - [4 - Hemphill Brian O (0001934887) (Reporting)](https://www.sec.gov/Archives/edgar/data/1934887/000193488726000005/0001934887-26-000005-index.htm) — SEC EDGAR All Filings · 14:26 PT · #filings #cannabis #markets
 - [Oklahoma medical marijuana czar quits as $600 million industry future uncertain](https://mjbizdaily.com/news/oklahoma-medical-marijuana-czar-quits-as-600-million-industry-future-uncertain/618848/) — MJBizDaily · 12:47 PT · #business #cannabis #smallbiz
 - [Talarico Wants To Partner With Trump On Legalizing Marijuana If He Wins Texas Senate Race](https://www.marijuanamoment.net/talarico-wants-to-partner-with-trump-on-legalizing-marijuana-if-he-wins-texas-senate-race/) — Marijuana Moment · 07:03 PT · #business #cannabis #civic

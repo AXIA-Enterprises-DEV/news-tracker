@@ -1,13 +1,17 @@
 ---
 title: "Ticker: $YSS"
-updated: 2026-10-23T17:48:39-07:00
-count: 4
+updated: 2026-10-23T22:07:58-07:00
+count: 5
 tags: ["ticker", "YSS"]
 ---
 
 # Ticker: $YSS
 
-4 most recent items (14-day window).
+5 most recent items (14-day window).
+
+## 2026-10-23
+
+- [York Space Systems, Inc. Notice of October 30, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline](https://www.prnewswire.com/news-releases/york-space-systems-inc-notice-of-october-30-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302918522.html) — PR Newswire M&A · 19:00 PT · #business $YSS
 
 ## 2026-10-20
 

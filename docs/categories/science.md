@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-23T17:48:39-07:00
+updated: 2026-10-23T22:07:58-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,10 @@ tags: ["category", "science"]
 
 ## 2026-10-23
 
+- [APOD: 2026 October 24 – Rosetta’s Selfie](https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/) — NASA · 21:05 PT · #science
+- [Surveying the genetic battlefield to uncover the rules of rapid evolution](https://phys.org/news/2026-10-surveying-genetic-battlefield-uncover-rapid.html) — Phys.org - latest science and technology news stories · 20:20 PT · #science
+- [Child-led citizen science helps Ecuadorian community tackle beach pollution and shape environmental decisions](https://phys.org/news/2026-10-child-citizen-science-ecuadorian-community.html) — Phys.org - latest science and technology news stories · 19:20 PT · #science
+- [Habitat explains Finnish animal distributions better than climate, study finds](https://phys.org/news/2026-10-habitat-finnish-animal-climate.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
 - [Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades](https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [NASA Is Still Aiming for the Next Moon Landing in 2028](https://www.nytimes.com/2026/10/23/science/space/nasa-artemis-program-update.html) — NYT > Science · 16:20 PT · #science
 - [Glowing plants reveal immune responses around infection sites via two colors](https://phys.org/news/2026-10-reveal-immune-responses-infection-sites.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -416,7 +420,3 @@ tags: ["category", "science"]
 - [Global emissions slow — but world hurtles towards 2 °C of warming](https://www.nature.com/articles/d41586-026-03355-x) — Nature · 17:00 PT · #science
 - [Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids](https://www.nature.com/articles/s41586-026-11252-6) — Nature · 17:00 PT · #science
 - [The Bursar](https://www.nature.com/articles/d41586-026-03110-2) — Nature · 17:00 PT · #science
-- [How tech billionaires are disrupting biomedical science](https://www.nature.com/articles/d41586-026-03311-9) — Nature · 17:00 PT · #science #smallbiz
-- [How a new wave of science philanthropists can have the greatest impact](https://www.nature.com/articles/d41586-026-03326-2) — Nature · 17:00 PT · #science #smallbiz
-- [De novo design of enantioselective artificial metalloenzyme photocatalysts](https://www.nature.com/articles/s41586-026-11317-6) — Nature · 17:00 PT · #science
-- [Scientists put a salt marsh in a giant wave-machine: here's what they learned](https://www.nature.com/articles/d41586-026-03376-6) — Nature · 17:00 PT · #science

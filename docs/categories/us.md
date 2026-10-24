@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-23T17:48:39-07:00
+updated: 2026-10-23T22:07:58-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,18 @@ tags: ["category", "us"]
 
 ## 2026-10-23
 
+- [Henderson residents question safety after three people shot and killed in the same neighborhood](https://www.ktnv.com/neighborhoods/henderson/henderson-residents-question-safety-after-three-people-shot-and-killed-in-the-same-neighborhood) — KTNV Las Vegas · 21:24 PT · #us #nevada
+- [Channel 13 hears from locals concerned about unsafe roads, housing and growth](https://www.ktnv.com/news/channel-13-hears-from-locals-concerned-about-unsafe-roads-housing-and-growth) — KTNV Las Vegas · 21:05 PT · #us #nevada
+- [LETTER: Aaron Ford cozies up to Gavin Newsom](https://www.reviewjournal.com/opinion/letters/letter-aaron-ford-cozies-up-to-gavin-newsom-3904415/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
+- [LETTER: Helping Ukrainians](https://www.reviewjournal.com/opinion/letters/letter-helping-ukrainians-3904412/) — Las Vegas Review-Journal · 21:00 PT · #us #foreign #nevada
+- [LETTER: Local theater performance is a winner](https://www.reviewjournal.com/opinion/letters/letter-local-theater-performance-is-a-winner-3904410/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [LETTER: There’s more to Las Vegas than the Strip](https://www.reviewjournal.com/opinion/letters/letter-theres-more-to-las-vegas-than-the-strip-3904407/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [EDITORIAL: More positive tourism news for Las Vegas](https://www.reviewjournal.com/opinion/editorials/editorial-more-positive-tourism-news-for-las-vegas-3904404/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
+- [Nevada Preps Friday night football results: Updates from Week 11 in Las Vegas, Nevada schools](https://www.reviewjournal.com/nevada-preps/np-football/nevada-preps-friday-night-football-results-updates-from-week-11-in-las-vegas-nevada-schools-3904392/) — Las Vegas Review-Journal · 20:03 PT · #us #nevada
+- [Injuries, AJ Storr’s eligibility leave UNLV basketball shorthanded against BYU](https://www.reviewjournal.com/sports/unlv/unlv-basketball/injuries-aj-storrs-eligibility-leave-unlv-basketball-shorthanded-against-byu-3904342/) — Las Vegas Review-Journal · 18:06 PT · #us #nevada
+- [Where could the Rebels go bowling? 3 current projections for UNLV football](https://www.reviewjournal.com/sports/unlv/unlv-football/where-could-the-rebels-go-bowling-3-current-projections-for-unlv-football-3904336/) — Las Vegas Review-Journal · 17:57 PT · #us #nevada
+- [Steve Wynn explains path toward opening of The Mirage in 1989](https://www.reviewjournal.com/business/casinos-gaming/steve-wynn-explains-path-toward-opening-of-the-mirage-in-1989-3904329/) — Las Vegas Review-Journal · 17:48 PT · #us #nevada
+- [5 things to watch as girls soccer playoffs start: Will Faith Lutheran 3-peat?](https://www.reviewjournal.com/nevada-preps/5-things-to-watch-as-girls-soccer-playoffs-start-will-faith-lutheran-3-peat-3904322/) — Las Vegas Review-Journal · 17:44 PT · #us #nevada
 - [How Las Vegas families can make Halloween safer for neurodivergent children](https://www.ktnv.com/neighborhoods/southwest-las-vegas/how-las-vegas-families-can-make-halloween-safer-for-neurodivergent-children) — KTNV Las Vegas · 17:43 PT · #us #nevada
 - [Judge refuses to order Review-Journal to resume printing Las Vegas Sun](https://www.reviewjournal.com/news/civil-courts/judge-refuses-to-order-review-journal-to-resume-printing-las-vegas-sun-3904317/) — Las Vegas Review-Journal · 17:42 PT · #us #nevada
 - [Off-Strip hotel-casino temporarily suspends alcohol sales for second time in a year](https://www.reviewjournal.com/business/casinos-gaming/off-strip-hotel-casino-temporarily-suspends-alcohol-sales-for-second-time-in-a-year-3904312/) — Las Vegas Review-Journal · 17:37 PT · #us #nevada
@@ -411,15 +423,3 @@ tags: ["category", "us"]
 - [Raiders are faltering but focused on getting season back on track](https://www.reviewjournal.com/sports/raiders/raiders-are-faltering-but-focused-on-getting-season-back-on-track-3902367/) — Las Vegas Review-Journal · 16:38 PT · #us #nevada
 - [NBA season bets, predictions: Rockets, Mavericks and Greek are smart plays](https://www.reviewjournal.com/sports/betting/nba-season-bets-predictions-rockets-mavericks-and-greek-are-smart-plays-3902362/) — Las Vegas Review-Journal · 16:28 PT · #us #nevada
 - [BLM to reconsider Boulder City data center application on federal land](https://www.reviewjournal.com/news/environment/blm-to-reconsider-boulder-city-data-center-application-on-federal-land-3902357/) — Las Vegas Review-Journal · 16:25 PT · #us #nevada
-- [Superintendent’s Cup FAQ: CCSD football’s season-ending format explained](https://www.reviewjournal.com/nevada-preps/superintendents-cup-faq-ccsd-footballs-season-ending-format-explained-3902351/) — Las Vegas Review-Journal · 16:09 PT · #us #nevada
-- [Meet the researchers leaving the US because of Trump’s funding cuts and politicization of science](https://www.reviewjournal.com/news/nation-and-world/meet-the-researchers-leaving-the-us-because-of-trumps-funding-cuts-and-politicization-of-science-3902347/) — Las Vegas Review-Journal · 15:50 PT · #us #nevada
-- [CARTOON: How not to fight a fire](https://www.reviewjournal.com/opinion/michael-ramirez/cartoon-how-not-to-fight-a-fire-3902336/) — Las Vegas Review-Journal · 15:10 PT · #us #foreign #nevada
-- [Nevada jury weighs charges against Canadian who took Peachy the flamingo in drunken prank](https://www.ktnv.com/news/crime/nevada-jury-weighs-charges-against-canadian-who-took-peachy-the-flamingo-in-drunken-prank) — KTNV Las Vegas · 14:50 PT · #us #nevada
-- [Man who took Peachy the flamingo from Las Vegas hotel exhibit found guilty of animal cruelty](https://www.ktnv.com/man-who-took-flamingo-from-las-vegas-hotel-exhibit-found-guilty-of-animal-cruelty) — KTNV Las Vegas · 14:50 PT · #us #nevada
-- [As Lake Mead sinks, Southern Nevada experts outline solutions to water crisis](https://www.reviewjournal.com/news/environment/as-lake-mead-sinks-southern-nevada-experts-outline-solutions-to-water-crisis-3902327/) — Las Vegas Review-Journal · 14:30 PT · #us #nevada
-- [Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples](https://lasvegassun.com/news/2026/oct/19/japan-launches-spacecraft-to-mysterious-moons-of-m/) — Las Vegas Sun · 14:16 PT · #us #nevada
-- [Raiders release former 1st-round pick, sign 2 Super Bowl champions](https://www.reviewjournal.com/sports/raiders/raiders-release-former-1st-round-pick-sign-2-super-bowl-champions-3902321/) — Las Vegas Review-Journal · 14:12 PT · #us #nevada
-- [Vote for Nevada Preps girls Athlete of the Week for Oct. 12-17](https://www.reviewjournal.com/nevada-preps/vote-for-nevada-preps-girls-athlete-of-the-week-for-oct-12-17-3902310/) — Las Vegas Review-Journal · 13:38 PT · #us #nevada
-- [Vote for Nevada Preps boys Athlete of the Week for Oct. 12-17](https://www.reviewjournal.com/nevada-preps/vote-for-nevada-preps-boys-athlete-of-the-week-for-oct-12-17-3902306/) — Las Vegas Review-Journal · 13:33 PT · #us #nevada
-- [Supreme Court may strike down school policies that limit Asian students](https://www.latimes.com/politics/story/2026-10-19/supreme-court-may-strike-down-school-policies-that-limit-asian-students) — World & Nation · 13:27 PT · #us #civic
-- [Nevada jury weighs charges against who took Peachy the flamingo in drunken prank](https://lasvegassun.com/news/2026/oct/19/man-who-took-a-bird-from-flamingo-casino-could-fac/) — Las Vegas Sun · 13:26 PT · #us #nevada
