@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-24T02:29:53-07:00
+updated: 2026-10-24T06:32:57-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -11,6 +11,21 @@ tags: ["category", "science"]
 
 ## 2026-10-24
 
+- [Could lowering high blood pressure be as simple as stimulating your ear?](https://www.sciencedaily.com/releases/2026/10/261023023732.htm) — Latest Science News -- ScienceDaily · 06:15 PT · #science
+- [A hidden bias in human language challenges 70 years of science](https://www.sciencedaily.com/releases/2026/10/261023023738.htm) — Latest Science News -- ScienceDaily · 06:01 PT · #science
+- [Ancient stalagmites reveal exceptions to Asia–South America monsoon seesaw over the past 450,000 years](https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html) — Phys.org - latest science and technology news stories · 06:00 PT · #science
+- [NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret](https://www.sciencedaily.com/releases/2026/10/261023023734.htm) — Latest Science News -- ScienceDaily · 05:50 PT · #science
+- [Scientists propose a way to detect dangerous “mirror life” before it exists](https://www.sciencedaily.com/releases/2026/10/261023023726.htm) — Latest Science News -- ScienceDaily · 05:39 PT · #science
+- [Astronomers uncover a mysterious magnetic web above the Sun](https://www.sciencedaily.com/releases/2026/10/261023023723.htm) — Latest Science News -- ScienceDaily · 05:23 PT · #science
+- [These tiny snakes roll four times faster than they slither](https://www.sciencedaily.com/releases/2026/10/261023023718.htm) — Latest Science News -- ScienceDaily · 05:12 PT · #science
+- [Cleaner brick kilns cut pollution, but gains did not reach workers, research finds](https://phys.org/news/2026-10-cleaner-brick-kilns-pollution-gains.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
+- [New long‑clawed British dinosaur is the first of its kind in Europe](https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html) — Phys.org - latest science and technology news stories · 05:00 PT · #science
+- [How to turn your smartphone into a mobile video editing suite](https://www.popsci.com/diy/how-to-turn-your-smartphone-into-a-mobile-video-editing-suite-tech-tips/) — Popular Science · 05:00 PT · #science
+- [Your blood could reveal inflammatory bowel disease 10 years before diagnosis](https://www.sciencedaily.com/releases/2026/10/261023023713.htm) — Latest Science News -- ScienceDaily · 04:52 PT · #science
+- [Scientists discover a hidden switch that burns fat and blocks new fat cells](https://www.sciencedaily.com/releases/2026/10/261023002905.htm) — Latest Science News -- ScienceDaily · 04:16 PT · #science
+- [Swinging virtual lightsabers and punching improve pattern-based learning in VR tests](https://phys.org/news/2026-10-virtual-lightsabers-pattern-based-vr.html) — Phys.org - latest science and technology news stories · 03:20 PT · #science
+- [This beginner-friendly stock picker uses ChatGPT to help you select winning stocks](https://www.popsci.com/sponsored-content/this-beginner-friendly-stock-picker-uses-chatgpt-to-help-you-select-winning-stocks-sponsored-deal/) — Popular Science · 03:00 PT · #science
+- [Typhoon Champi knocks out power to thousands in Taiwan](https://phys.org/news/2026-10-typhoon-champi-power-thousands-taiwan.html) — Phys.org - latest science and technology news stories · 02:40 PT · #science #foreign
 - [NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years](https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html) — Phys.org - latest science and technology news stories · 02:28 PT · #science
 - [What Amy Poehler’s New Series, ‘Dig,’ Gets Right About Archaeology](https://www.nytimes.com/2026/10/24/science/dig-peacock-archaeology-amy-poehler.html) — NYT > Science · 02:01 PT · #science
 - [Some Buy Telescopes. These People Build Them From Scratch.](https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html) — NYT > Science · 02:00 PT · #science
@@ -19,8 +34,10 @@ tags: ["category", "science"]
 
 - [APOD: 2026 October 24 – Rosetta’s Selfie](https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/) — NASA · 21:05 PT · #science
 - [Surveying the genetic battlefield to uncover the rules of rapid evolution](https://phys.org/news/2026-10-surveying-genetic-battlefield-uncover-rapid.html) — Phys.org - latest science and technology news stories · 20:20 PT · #science
+- [This 150-million-year-old bird had dinosaur teeth and a strange secret](https://www.sciencedaily.com/releases/2026/10/261023023710.htm) — Latest Science News -- ScienceDaily · 19:42 PT · #science #foreign
 - [Child-led citizen science helps Ecuadorian community tackle beach pollution and shape environmental decisions](https://phys.org/news/2026-10-child-citizen-science-ecuadorian-community.html) — Phys.org - latest science and technology news stories · 19:20 PT · #science
 - [Habitat explains Finnish animal distributions better than climate, study finds](https://phys.org/news/2026-10-habitat-finnish-animal-climate.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
+- [Glioblastoma breakthrough reveals how brain cancer cells become more aggressive](https://www.sciencedaily.com/releases/2026/10/261022081300.htm) — Latest Science News -- ScienceDaily · 17:48 PT · #science
 - [Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades](https://phys.org/news/2026-10-power-students-link-anxiety-disrupted.html) — Phys.org - latest science and technology news stories · 16:40 PT · #science
 - [NASA Is Still Aiming for the Next Moon Landing in 2028](https://www.nytimes.com/2026/10/23/science/space/nasa-artemis-program-update.html) — NYT > Science · 16:20 PT · #science
 - [Glowing plants reveal immune responses around infection sites via two colors](https://phys.org/news/2026-10-reveal-immune-responses-infection-sites.html) — Phys.org - latest science and technology news stories · 16:20 PT · #science
@@ -403,23 +420,3 @@ tags: ["category", "science"]
 - [A First Nation community in Canada is using a data center to preserve its heritage](https://phys.org/news/2026-10-nation-community-canada-center-heritage.html) — Phys.org - latest science and technology news stories · 01:49 PT · #science
 - [SpaceX turns a profit after a string of losses as its satellite and computer leasing businesses soar](https://phys.org/news/2026-10-spacex-profit-losses-satellite-leasing.html) — Phys.org - latest science and technology news stories · 01:48 PT · #science
 - [Rising to higher net worth, by age](https://flowingdata.com/2026/10/21/higher-net-worth/) — FlowingData · 00:30 PT · #science
-- [Targeting a particular gene may improve tea plants' flavor and cold tolerance](https://phys.org/news/2026-10-gene-tea-flavor-cold-tolerance.html) — Phys.org - latest science and technology news stories · 00:10 PT · #science
-- [U.S. antipoverty tax credit expansion may have unintended costs for children's development](https://phys.org/news/2026-10-antipoverty-tax-credit-expansion-unintended.html) — Phys.org - latest science and technology news stories · 00:10 PT · #science
-
-## 2026-10-20
-
-- [A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami](https://www.sciencedaily.com/releases/2026/10/261020085727.htm) — Latest Science News -- ScienceDaily · 21:08 PT · #science
-- [APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia](https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/) — NASA · 21:05 PT · #science
-- [Extratropical Cyclone Whips Past Iceland](https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/) — NASA · 21:01 PT · #science
-- [Guatemala gains its first endemic bird in American Ornithological Society's 67th supplement](https://phys.org/news/2026-10-guatemala-gains-endemic-bird-american.html) — Phys.org - latest science and technology news stories · 20:20 PT · #science
-- [Scientists discover ghostly, eyeless creature hidden in Chinese cave](https://www.sciencedaily.com/releases/2026/10/261019093445.htm) — Latest Science News -- ScienceDaily · 20:08 PT · #science #foreign
-- [A magnetar can be born when two neutron stars touch](https://phys.org/news/2026-10-magnetar-born-neutron-stars.html) — Phys.org - latest science and technology news stories · 19:40 PT · #science
-- [Women farmers need better financing to benefit from AI](https://phys.org/news/2026-10-women-farmers-benefit-ai.html) — Phys.org - latest science and technology news stories · 19:20 PT · #science #ai
-- [Are partisan politics even changing up our accents? They just might be, y'all](https://phys.org/news/2026-10-partisan-politics-accents-yall.html) — Phys.org - latest science and technology news stories · 19:00 PT · #science
-- [Scientists find 10 different diets linked to slower aging](https://www.sciencedaily.com/releases/2026/10/261019093439.htm) — Latest Science News -- ScienceDaily · 18:58 PT · #science
-- [Controlled vapor treatment guides molecules into highly oriented soft quasicrystals](https://phys.org/news/2026-10-vapor-treatment-molecules-highly-soft.html) — Phys.org - latest science and technology news stories · 18:40 PT · #science
-- [Major repairs needed to save Horseshoe Bay Lagoon](https://phys.org/news/2026-10-major-horseshoe-bay-lagoon.html) — Phys.org - latest science and technology news stories · 18:20 PT · #science
-- [Rare solar radiation storm gives scientists clearest picture yet of flight risks](https://phys.org/news/2026-10-rare-solar-storm-scientists-clearest.html) — Phys.org - latest science and technology news stories · 18:00 PT · #science
-- [Shortening Canadian teacher education risks devaluing the profession of teaching](https://phys.org/news/2026-10-shortening-canadian-teacher-devaluing.html) — Phys.org - latest science and technology news stories · 17:40 PT · #science
-- [Where El Niño may impact California coastal areas this winter](https://phys.org/news/2026-10-el-nio-impact-california-coastal.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
-- [Researchers study how AI could improve weed management](https://phys.org/news/2026-10-ai-weed.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science #ai

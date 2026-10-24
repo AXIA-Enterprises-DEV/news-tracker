@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-24T02:29:53-07:00
+updated: 2026-10-24T06:32:57-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -11,6 +11,10 @@ tags: ["category", "us"]
 
 ## 2026-10-24
 
+- [Is there a UNLV football game today? Rebels are off Oct. 24; here’s when they play next](https://www.reviewjournal.com/sports/unlv/unlv-football/is-there-a-unlv-football-game-today-rebels-are-off-oct-24-heres-when-they-play-next-3904609/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [Raiders special teams duo seeking win, not revenge vs. Rams](https://www.reviewjournal.com/sports/raiders/raiders-special-teams-duo-seeking-win-not-revenge-vs-rams-3904603/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- [How Fernando Mendoza amazes in attacking the Raiders scout team QB role](https://www.reviewjournal.com/sports/raiders/how-fernando-mendoza-amazes-in-attacking-the-raiders-scout-team-qb-role-3904600/) — Las Vegas Review-Journal · 06:00 PT · #us #nevada
+- ["A butter knife against a nuclear arsenal:" Tech billionaires vastly outspend wealth tax supporters](https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot) — World & Nation · 03:00 PT · #us
 - [What to know about Nevada accepting mail ballots after Election Day](https://thenevadaindependent.com/article/what-to-know-about-nevada-accepting-mail-ballots-after-election-day/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
 - [Healthcare coverage means little if seniors can't use it](https://lasvegassun.com/news/2026/oct/24/healthcare-coverage-means-little-if-seniors-cant-u/) — Las Vegas Sun · 02:00 PT · #us #nevada
 - [Vote to restore civility in public office](https://lasvegassun.com/news/2026/oct/24/vote-to-restore-civility-in-public-office/) — Las Vegas Sun · 02:00 PT · #us #nevada
@@ -422,7 +426,3 @@ tags: ["category", "us"]
 - [LETTER: Let’s fact-check political ads](https://www.reviewjournal.com/opinion/letters/letter-lets-fact-check-political-ads-3902513/) — Las Vegas Review-Journal · 21:01 PT · #us #media #nevada
 - [LETTER: A tale of two sentences](https://www.reviewjournal.com/opinion/letters/letter-a-tale-of-two-sentences-3902510/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
 - [CARTOONS: El-Sayed’s vision problems](https://www.reviewjournal.com/opinion/drawing-board/cartoons-el-sayeds-vision-problems-3902500/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [RICH LOWRY: Is it the return of woke?](https://www.reviewjournal.com/opinion/rich-lowry-is-it-the-return-of-woke-3902497/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [EDITORIAL: ‘Like giving whiskey and car keys to teenage boys’](https://www.reviewjournal.com/opinion/editorials/editorial-like-giving-whiskey-and-car-keys-to-teenage-boys-3902494/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
-- [Zelenskyy Says Ukraine Got No Warning As Russian Missiles Rain In](https://www.huffpost.com/entry/zelenskyy-ukraine-no-warning-russian-missiles_n_6ad6e28fe4b05354557fa620) — World News - Breaking News, Top Stories · 20:45 PT · #us #foreign
-- [Las Vegas healthcare providers report rising flu and COVID cases](https://www.ktnv.com/news/las-vegas-healthcare-providers-report-rising-flu-and-covid-cases) — KTNV Las Vegas · 20:20 PT · #us #nevada
