@@ -1,6 +1,6 @@
 ---
 title: "Project: Fed Policy"
-updated: 2026-10-23T22:07:58-07:00
+updated: 2026-10-24T02:29:53-07:00
 count: 400
 tags: ["project", "fed"]
 ---
@@ -8,6 +8,12 @@ tags: ["project", "fed"]
 # Project: Fed Policy
 
 400 most recent items (14-day window). Atom feed: [fed.xml](../feeds/fed.xml)
+
+## 2026-10-24
+
+- [Could silver rebound in 2027? What experts predict will happen next - USA Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRkJDZzh4R0xaQVhPUVJaMkNVSVB4WF9CZXBZcUdGeE91Y2VEdk82d2ZPWkxyNjBNdi1FNUdLMnBYNE5zd2QteU5ZV19vQjRBbTFOSzA4SF9aOTJmclktOWxJRG5LQzVWenlWSGdrdmZkRHlCWHlreWo5cDhxYTZScVhOeWt2VGJEZm1ndWV5YjZfZ2J5cGNNZGNBcDVMM0xYTk9LSA?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 02:11 PT · #markets #fed
+- [Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVlmMUNCM0RzUk14dExCYk93czl4VWoyczFVanNwN1ptZlVpbFl2RXE5bEJmZjJubWFKeXFZMnhYUVQ5LUtfdjlhdUpEYmM2LUFkejhidWJLREwyV3Q3VEE3dG5BcThjQ1IxY2diYXRrR1VxUXdIS1VMY1Q2YmlpT2tIQzNWNTFkYmR0Z2ZwNXF2UTc3?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 01:01 PT · #markets #fed
+- [Analyst Expects Federal Reserve to Begin Cutting Rates - Demokratis.co.id](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TNTl0TlZKYnhLS3h3aTVGUnotVlBjb21CSW5TNVV5bmVnT0JNQUFScFJaLVJxX2ZYeWNrMElCal9nOHhBQTJ2eTVYRVlpc0VhbmRDOFRoTWdmVHVhbUpTdXBuQ0hRMEdi?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 00:59 PT · #markets #fed
 
 ## 2026-10-23
 
@@ -429,6 +435,3 @@ tags: ["project", "fed"]
 - [Bitcoin Holds Steady Near $82,000 as Fed Rate Hike Fears Ease - NewzTodays](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYjZ3dVhHLWV0bERmdW9lRWxOWk5EOFJfQlVsc2Y3YlNJV2E5WXFzWkl3ZF91NlowNGpDYjlMclM3M3o2M2lveWJwdDBPamJZMnU2Slp4am1KNy16RTJmTktMRGNzUEhxUjdnRzhZUnVjZkxMekF0RHFOVGE2alNnY3Bta1R0ZU1WRGkw?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 23:12 PT · #markets #fed
 - [Gold rates hike on Oct 17: Check Prices in Delhi, Mumbai, and other cities - Zee News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUIzUzh2MS1wZ0N3VVJ4ZHE5YkxMWkhPVVl5VkhpS25tZXh3S2NHdU90YzduamR2V1BtNHBOWERvcVlTZlI0NHd1eXJrSDBtRzJ1T1RwdlpwRjFuRVFlTi05VDBRajU1X2lqT1RDUXFoS0hWODYtRXYwYXZPWklzdmVGc25XS1J4cElPajk5SnBidXo3UUxBNnE0RHdBLTA1TVZWODVVTVU0YVJZV2ZMaUtDejZsSno5TkHSAb8BQVVfeXFMT1c4RHEtN2dXX25DMy1wTndzWG5INEpqNHNHNTVFTk9JTjRTbzVIQ0Vsd0ZEUHgwekthM1k3eHg1ZlN5cDlwdU5ycDB0bHJJTUxnbG5NXzZLdmFqTUJ6ZlVrdkk5T2tuaEk2a25rcEJpWjVhQWJNSnIzb2RIeFV3MTNfZDNkRDMxQXppaExQbl9CMG51bl9qajV2Nmt4TU10bkU4bDAtMW1iRl9HUHYzSzEzUjNUT3VpY01hZTBhbFE?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 23:06 PT · #markets #fed
 - [Oil hits $110 first time since May, raises fresh concerns over US inflation, Fed rates - The Financial Express](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFZqOThIblJqZDk1OFcyWWhCNVlsMVN5UFg4N2Q2TDcxY2hGSmwyN29zRldybnBpaTlCRi1VV0VyOUc1NzNwYzhNQUV1OC1STTM4RFpSTzNrQlVwZlo2RlVuTm1KNXRNV1NRdWxMVXpLN1RlaEpXdktMR0NvU3hBZmo1V28wYzNZUGFfT0RfLUJCTlBrNVRhNUxIak9XdlgyZHJoLVl3YS0xNFRteXp2VXE5eHUzNW83VExCOUppUkpjUlhoTnVEMl80ZzlJLWhDN2l2ZGJ30gHcAUFVX3lxTE5sWEJESTdYX25fbWR6MHVPbGZ6WF9CSVg0bjQ0MW1hUlVtVW1BYlZ1T0NMVXFQV2Vfa2lYMW5ISDFBdXI3cjNtMmt1TDNCWEpkUGh5bVlmaTVKclBodUFYTTAzaUdHcHlLc2loYmZkSF93Yk1SbHhLc0RoWlpFQUNzbFlKWS1TcWJVTTZQY3FMajV4OXBpZUN3WGlTOXB5U3NGVmlJaEZMRnFrSXVGb0pFRmVfVUVzWVQwLUdKTTBXRVcyVXd5YUZGOTZtaEZrWTRUNjB1U0xfTUlpTTc?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 22:39 PT · #markets #fed #oil
-- [Dubai gold rates fall as 24K slips to Dh502 per gram - Travels Dubai](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlZmenNhS2tSZTBHUXVLWWFUZDhkS2g3SmdfM2NkMTVhMk9JLVJzVE44OV8wNi1PdGo0ak03N005RXFIcTZEWDhxNnM3WVU3aUctODNJOHRMYkhWWnByTENDdE5NLXBNcWtRektvaUw0cENkWFQzbHFCejd2bTJ4Qy0zVW1PWWRlQmVvZFpmMHo?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 22:20 PT · #markets #fed
-- [US Fed likely to hold rates in October, hike by 25 bps by year-end: CareEdge Global - https://www.indiagazette.com/](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTJDTGRBS1A5Z0tISV9ZSzl6QmQ4MEs3dENKY3VHNWlOMzFDa3JNN2UtSTV1aGhkclhqT3FPNmVrUERpYnEyUTdOWVJhVTVNaGdKUVZydDBWcUNxVWFFT01ZX2Y3eElMQXV6UDdkaG1uOFhHdkJXLXlhaVFxU0tYbjNlWmtPUDB4ZnhjS0tteXlBUGI0WUQyVlhBenlJemtUbmlnT3AzS0RORHQwZ3dzUk9oLXY5dlFGTm14WWNsckVHN00?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 22:06 PT · #markets #fed
-- [#warshfirstfomcrateshold Community Insights & Market Sentiment | Binance Square - Binance](https://news.google.com/rss/articles/CBMid0FVX3lxTE1pYXBsY0tGM3hfaFV3b0tZRGpMVUZ1VE5lTDJtZWhJOU9aQVhiN3NHcE9Nc1dvemtvUTVqdkxIOE9MT25Oa3FhbUZhR24wQ0N3VEJIdEc5THB3M0I1ZHJyOHRIRDMyTGZVZGNBaEJvQ085c2dYem9F?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 21:40 PT · #markets #fed

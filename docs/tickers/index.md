@@ -1,6 +1,6 @@
 ---
 title: "Tickers"
-updated: 2026-10-23T22:07:58-07:00
+updated: 2026-10-24T02:29:53-07:00
 count: 300
 tags: ["tickers"]
 ---
@@ -102,6 +102,7 @@ tags: ["tickers"]
 - [$STM](STM.md) — 2 items
 - [$BSP](BSP.md) — 2 items
 - [$MRVL](MRVL.md) — 2 items
+- [$LIBRA](LIBRA.md) — 1 items
 - [$SMMT](SMMT.md) — 1 items
 - [$DNRSF](DNRSF.md) — 1 items
 - [$GNTX](GNTX.md) — 1 items
@@ -114,6 +115,7 @@ tags: ["tickers"]
 - [$MFI](MFI.md) — 1 items
 - [$LOGI](LOGI.md) — 1 items
 - [$HUT](HUT.md) — 1 items
+- [$CVX](CVX.md) — 1 items
 - [$PEP](PEP.md) — 1 items
 - [$NDAQ](NDAQ.md) — 1 items
 - [$ENVX](ENVX.md) — 1 items
@@ -305,5 +307,3 @@ tags: ["tickers"]
 - [$PMT](PMT.md) — 1 items
 - [$BORR](BORR.md) — 1 items
 - [$YUM](YUM.md) — 1 items
-- [$BRUN](BRUN.md) — 1 items
-- [$UPS](UPS.md) — 1 items

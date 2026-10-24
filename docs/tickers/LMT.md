@@ -1,6 +1,6 @@
 ---
 title: "Ticker: $LMT"
-updated: 2026-10-23T22:07:58-07:00
+updated: 2026-10-24T02:29:53-07:00
 count: 3
 tags: ["ticker", "LMT"]
 ---

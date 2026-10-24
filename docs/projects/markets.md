@@ -1,6 +1,6 @@
 ---
 title: "Project: Markets / Trading Desk"
-updated: 2026-10-23T22:07:58-07:00
+updated: 2026-10-24T02:29:53-07:00
 count: 400
 tags: ["project", "markets"]
 ---
@@ -9,8 +9,15 @@ tags: ["project", "markets"]
 
 400 most recent items (14-day window). Atom feed: [markets.xml](../feeds/markets.xml)
 
+## 2026-10-24
+
+- [Follow the Money: $630 млн для Strive, активность Tether и внимание к CeFi](https://incrypted.com/follow-money-630-mln-dlya-strive-aktivnost-tether-i-vnimanie-k-cefi/) — INCRYPTED · 02:00 PT · #markets
+- [Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVlmMUNCM0RzUk14dExCYk93czl4VWoyczFVanNwN1ptZlVpbFl2RXE5bEJmZjJubWFKeXFZMnhYUVQ5LUtfdjlhdUpEYmM2LUFkejhidWJLREwyV3Q3VEE3dG5BcThjQ1IxY2diYXRrR1VxUXdIS1VMY1Q2YmlpT2tIQzNWNTFkYmR0Z2ZwNXF2UTc3?oc=5) — Google News: FOMC OR "Federal Reserve" rates · 01:01 PT · #markets #fed
+
 ## 2026-10-23
 
+- [Tesla and SpaceX Could Unite $2.5B in Bitcoin Without Buying a Single BTC](https://cryptopotato.com/tesla-and-spacex-could-unite-2-5b-in-bitcoin-without-buying-a-single-btc/) — CryptoPotato · 23:34 PT · #markets
+- [Jio IPO GMP today: Grey market signals over 22% listing gains; check allotment, listing date](https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-today-grey-market-signals-over-22-listing-gains-check-allotment-listing-date/articleshow/135163795.cms) — Economic Times · 23:12 PT · #business #markets
 - [Grayscale Warns Crypto Token Inflation Can Wipe Out Holder Rewards](https://news.bitcoin.com/featured/grayscale-warns-crypto-token-inflation-can-wipe-out-holder-rewards/) — Bitcoin News · 21:30 PT · #markets #fed
 - [Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend](https://seekingalpha.com/news/4656924-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 20:32 PT · #markets
 - [Global X Russell 2000 Covered Cll ETF declares $0.21 dividend](https://seekingalpha.com/news/4656923-global-x-russell-2000-covered-cll-etf-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news) — Seeking Alpha Market Currents · 20:32 PT · #markets
@@ -265,6 +272,7 @@ tags: ["project", "markets"]
 - [8-K - Oak Valley Bancorp (0001431567) (Filer)](https://www.sec.gov/Archives/edgar/data/1431567/000143774926033387/0001437749-26-033387-index.htm) — SEC EDGAR 8-K · 11:09 PT · #filings #markets
 - [Dow, S&P 500 fall, tech steadies to end rocky week](https://www.investing.com/news/stock-market-news/wall-street-futures-dip-after-ai-rout-telecoms-slide-4968816) — Investing.com Stock Market · 11:06 PT · #markets
 - [Allstate’s Unusual Options Activity Sets the Stage for an Income-Generating Wheel Strategy - Barchart.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXdwTktMSTFuOEdUdGRoSXlsdm5WRTIzR1pWQ0JmSmJOVzh6cmlrNFB4SjUyMEhGa1ZvZHpRMnJmTE0tTlkta0dVbzBOS2tsdEJWZC1Hd0FQM2RLLVNncmxHaXR3eWJDSHR4VmdUbnBPMUx1VWltZnFxWjRyWVBTWTBSLUJzQWdlZGZJdDE1ZjZ1b0VaTnpzWWRGdG56MXF1Qlgtd2dPZzVkb0xWcHZTcFZrd2NoT0hHQ1oxVHIxNFNtRGtVUFdOYXJfeW5Edw?oc=5) — Google News: unusual options activity · 11:05 PT · #markets
+- [Chevron (NYSE:CVX) Stock Sees Heavy Call Option Buying - MarketBeat](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVkwOW9Ubkttbm4zeXZfV1FPRUJMMFRnWWVQWTIxTkJIay1WdHl1R1B5eU8tZkdDemlsTEZKWVZYaVlFdjFnU0t4VzFYVURKM21XZzhUMF9ITndUTjFBUWltZkZ2U1FjWmJyRkNOVTRXOVVaOTVzQ3phekx0WkpPNFFOckRFbnBoUHpaUzd0TGYyRUdKSXl6MmUtcVNZZ18zTkRPX1kzdFdob1ZnYXUwWFpYSnc?oc=5) — Google News: unusual options activity · 10:42 PT · #markets $CVX
 - [10 Health Care Stocks Whale Activity In Today’s Session - Benzinga](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTThNOFNTcVpfeU4wMTFwRWx1WnBnQWhIWDVPdjdMTmVZLUNSUjdHNy0zTm9uV0ZleTFXR0JKNzZYdVY0M0xMSjVWVTJDUzFMYXY4V0ZkTG93VWY2MWNWdEhNaXAxNGZ1UWFkSEVjWG9rRFVnT1E2ZkE2OWpJdlJLenhaNUFtdFE0Tnp5akRObmVUYjlXa0UwYUJhREFyOWU2NzNHeFVpU2V2enM2?oc=5) — Google News: unusual options activity · 10:35 PT · #markets
 - [10 Financials Stocks With Whale Alerts In Today’s Session - Benzinga](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFdXMENMOHQ3RUh2NXU2a2dSbUUzUUd2VFR4bWQxQXVSV2d5dmN2NUlWWEt5VVFDQ1NHcmVVV1JGeUc3VkU1R1BxZ0hJTEZjbGN6QVpvYnk2TXZfWHJRUS04TThsRGRZa0pZQVdBbTFSSHdhWWZ5LUZPLVNucGREQlI3cHZZNUw4YkZQRzVhSVFGMG5KektBYmdNOTRzOHBTWkZPOF9VMDc?oc=5) — Google News: unusual options activity · 10:35 PT · #markets
 - [8-K - PROCACCIANTI HOTEL REIT, INC. (0001692345) (Filer)](https://www.sec.gov/Archives/edgar/data/1692345/000110465926118407/0001104659-26-118407-index.htm) — SEC EDGAR 8-K · 10:24 PT · #filings #item-1.01 #markets #realestate
@@ -282,6 +290,7 @@ tags: ["project", "markets"]
 - [Enovix Sees Unusually Large Options Volume (NASDAQ:ENVX) - MarketBeat](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWUZFWlJqQjU3WFB4MUxyM1FvbWNESDBFLXk1a0hsLUthbmVEdlo3S3ZwTkZydFBBb3EwMnJYYkhvbzZ5SkVhMkZzVmdJM2xYbTJtcFBOYVZjckdVMDIxa2kwSEJFZmJBUnJJT19OUk85aGV2Y2w5d0NVc084cUg1R2FqVmMxLTdpTUdBalZWQjBlNXRTX0ZKQng2djRDanJBc01teS1lc0pVTUdGNlhka3B1UC1rV1U?oc=5) — Google News: unusual options activity · 09:27 PT · #markets $ENVX
 - [Boyd Gaming Reiterates Pragmatic Approach to M&A, Q3 Results Hindered by Las Vegas - Casino.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzJjRUI2UWRfb1I5UVA0UVFTVVZlelBRMnFxWGllUlcyM25WNHloZDdjLURjM21OLUswdlFjbWlEM2VXRkc3ck9BN1hEbjhuLWt3LWZOejE1Q3J2aFpwX05femxOdGN6RGQzRmp0MFNEN1RsUnFLenA5aGUyWDl6d1Fn?oc=5) — Google News: Las Vegas real estate · 09:19 PT · #business #markets #nevada #realestate
 - [SEC flags tokenization as high-risk area in 2027 market examinations](https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph.com News · 09:08 PT · #markets
+- [Unusual Options Activity: CCJ, GE and Others Attract Market Bets, CCJ V/OI Ratio Reaches 379.6 - 富途牛牛](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3k5cktRcVlDTWZsZHJYWWpqaFFuTW1PQzZ4UEtjUDNCeXo0ZXk1SU9hWmJfVDg5ZDJFYllZVHdXODFQRExQclVDN2tuZzF1bVVpRHNVTE96LVE5bEltcWpEd2JfeXJLYTRXRF9zRzhIZkVtRG4telcwNEZKMV9DM1lfWWY0LVNlMkFYWm8tR1VqWWlkTDZsR2U4RU14T01lZm1fOHV0T1A?oc=5) — Google News: unusual options activity · 09:05 PT · #markets
 - [Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on strong interest income, lower funding costs](https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms) — Economic Times · 09:05 PT · #business #markets
 - [8-K - T3 Defense Inc. (0001787518) (Filer)](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004951/0001185185-26-004951-index.htm) — SEC EDGAR 8-K · 09:03 PT · #filings #markets
 - [What some of Anthropic’s backers are reportedly worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/) — TechCrunch · 09:02 PT · #tech #ai #markets
@@ -405,9 +414,3 @@ tags: ["project", "markets"]
 - [8-K - GRAFTECH INTERNATIONAL LTD (0000931148) (Filer)](https://www.sec.gov/Archives/edgar/data/931148/000093114826000085/0000931148-26-000085-index.htm) — SEC EDGAR 8-K · 03:42 PT · #filings #markets
 - [8-K - Tango Therapeutics, Inc. (0001819133) (Filer)](https://www.sec.gov/Archives/edgar/data/1819133/000119312526429423/0001193125-26-429423-index.htm) — SEC EDGAR 8-K · 03:36 PT · #filings #markets
 - [8-K - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer)](https://www.sec.gov/Archives/edgar/data/798941/000079894126000041/0000798941-26-000041-index.htm) — SEC EDGAR 8-K · 03:31 PT · #filings #markets
-- [8-K - FTAI Infrastructure Inc. (0001899883) (Filer)](https://www.sec.gov/Archives/edgar/data/1899883/000114036126040580/0001140361-26-040580-index.htm) — SEC EDGAR 8-K · 03:31 PT · #filings #markets
-- [8-K - AUTOLIV INC (0001034670) (Filer)](https://www.sec.gov/Archives/edgar/data/1034670/000119312526429404/0001193125-26-429404-index.htm) — SEC EDGAR 8-K · 03:12 PT · #filings #markets
-- [6-K - JBDI Holdings Ltd (0001964314) (Filer)](https://www.sec.gov/Archives/edgar/data/1964314/000149315226048165/0001493152-26-048165-index.htm) — SEC EDGAR All Filings · 03:10 PT · #filings #markets
-- [8-K - Zymeworks Inc. (0001937653) (Filer)](https://www.sec.gov/Archives/edgar/data/1937653/000193765326000055/0001937653-26-000055-index.htm) — SEC EDGAR 8-K · 03:07 PT · #filings #item-1.01 #markets
-- [4 - Wang Yanjun (0002113214) (Reporting)](https://www.sec.gov/Archives/edgar/data/2113214/000119312526429392/0001193125-26-429392-index.htm) — SEC EDGAR All Filings · 03:06 PT · #filings #markets
-- [8-K - Zai Lab Ltd (0001704292) (Filer)](https://www.sec.gov/Archives/edgar/data/1704292/000162828026066969/0001628280-26-066969-index.htm) — SEC EDGAR 8-K · 03:06 PT · #filings #item-1.01 #markets

@@ -1,6 +1,6 @@
 ---
 title: "Project: Propaganda / Media"
-updated: 2026-10-23T22:07:58-07:00
+updated: 2026-10-24T02:29:53-07:00
 count: 400
 tags: ["project", "media"]
 ---
@@ -9,13 +9,21 @@ tags: ["project", "media"]
 
 400 most recent items (14-day window). Atom feed: [media.xml](../feeds/media.xml)
 
+## 2026-10-24
+
+- [A Fact-Check on Trump’s Election Claims](https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html) — NYT Politics · 02:02 PT · #politics #civic #media
+- [Talarico hospital lie shows social media’s malicious effect](https://lasvegassun.com/news/2026/oct/24/talarico-hospital-lie-shows-social-medias-maliciou/) — Las Vegas Sun · 02:00 PT · #us #media #nevada
+
 ## 2026-10-23
 
 - [Pentagon designates Confucius Institutes a national security threat](https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss) — Al Jazeera · 20:38 PT · #world #foreign #media
+- [Newsroom - Pima County, AZ (.gov)](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeTRwbEM0M3BJQVJUYXpXNi1ubzdQMXgyXzFyR3Boa1V1QkprX3JKUm1wcjViRTJWY3JKWHJHdlh0SDkzZzdMakZubVgtQkZTWWFJMC13YmJxTGo3bmxfRjNqRVJQNmRSYXV4eXE3clUya1JoaUtDaVVMNllRb2RaMFFB?oc=5) — Google News: small business owners · 20:19 PT · #business #media #smallbiz
 - [BJP to hold rallies across Telangana to counter INDIA bloc’s ‘false propaganda’ against SIR - The New Indian Express](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOFU2RW85TmZ3TWNVRE5aeDlkWGMyeS1vSHR5REdlRjU1ZE55M0Y3OVZCY1dMeFhCVTBPUnpWQ01SUTktQlRNMVRPWnZCVDh4VGZjdlJKb2tVdm9EOU50TEFRR3ZaMzJOTDJYNWR0cFpOdFo4eEQ0bTJQWlY4b1JwUUJ4WUtqbVhJdkpranpobW8wbVEzYkc0bXhkYlRUQlVoQ3c0dVpCSEw3UGVNMUJwSnktcDgtajFKZkNFMTRPYU8zRURfcFhGRDJ1QzBWRnpHT2oxTm0zNWZNYnBmYWNQMXZRNWHSAfIBQVVfeXFMTmo5WHR3MkFDdHBOSlRYeS1MX0Fma3BBZ1Y3eWVKXzF5eXlLLWhvTUlmT2d3NF9neW5WbHZSR0RMdmJJWDJuaFhlbmkyRFUxMXpfdEg2YWpIQnpsczliMWp1TDhnRk52MHkyWGZDMGd4QWRiUGJKaV82dVRWNDd4NVE2dHN5aU5QRy1udEpBMXdlcXlMTzJTSnY2ampOZ1dXQlFCQ1NlSkNMQzIyOTJrZk1Zdm56NzdyYVVDSmdhX0NmOUhLTnBwRF9GQmRGTHNseThPaGtzOHNtdHEwdVRFWWhwODFCNmVhRGxPdmZ0bHdtZnc?oc=5) — Google News: propaganda OR disinformation media · 20:00 PT · #world #media
 - [Russian disinformation group targets James Talarico with baseless claim in AI-generated video - KOAT](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlQzOWZIZE9pTWpkSlo4TVNwcEFORnZPYTV5SEQ4aFc4cDFiYUhXMlBmc0FGY1gzTVF3bDZGVGFOekF2Z3I0amoycGczaGF1SGk2OS13c3VUNmk5a3NjYWE3U05KWkE1cmNsSFlZX2I0ZmFFSUFtWnVUenVMaHBpZUt5N2FQMFdSQ2dUZA?oc=5) — Google News: propaganda OR disinformation media · 19:09 PT · #world #ai #foreign #media
+- [Russian disinformation group targets James Talarico with baseless claim in AI-generated video - KOCO](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWZwM2l3Wm1sR0pHdXlPaUtpMGIwajNEUmJlaFBSSmFOVGlTMDcxX0lDQTdFQTJVdmthR1Zjc0ExQnBxSHdhTkNrSlRySzZzbGZyalI0T2N4eDBrWWNUQldxQXpocXJfNjZOdlozQXhpamZJRWNwSTU0RkotcmNzcExLLTloV1EtUUlmcA?oc=5) — Google News: propaganda OR disinformation media · 19:09 PT · #world #ai #foreign #media
 - [Pentagon designates China-backed campus cultural centers a threat to US national security](https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth) — Guardian World · 18:21 PT · #world #foreign #media
 - [Fewer Filipinos trust the news. Can PH media win them back? - Inquirer.net](https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE1LSUg4enFCcFlqcEJSUjJ4N09JQnZxTlZnbXRuTkdTWk00UnlmSnpXVjU2dUlqQ25hLWxpQmZ6YjFnQ3ZUN0Rzb1hLekF6RjhRRXotQTZ2ZGtQOEJpdjFGQW8zNmNSbXZsNGVJbERuWFRPSXM2NGpfbkFvcFRrbkZGRFFYMEtBamVpRXB4RWNrMktOM2JhRFhUTQ?oc=5) — Google News: propaganda OR disinformation media · 18:19 PT · #world #media
+- [Russia steps up election influence efforts in final stretch of midterms](https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence) — NPR Politics · 14:40 PT · #politics #civic #foreign #media
 - [I Was A Republican Mayor Of Dallas—Here's Why I'm Voting For Talarico Over Paxton: Steve Bartlett](https://www.forbes.com/sites/forbestv/2026/10/23/i-was-a-republican-mayor-of-dallas-heres-why-im-voting-for-talarico-over-paxton-steve-bartlett/) — Forbes - Business · 14:18 PT · #business #media
 - [GoDaddy's CEO says these 3 red flags can hurt your chances in a #job #interview. #careeradvice](https://www.youtube.com/shorts/WRKqLzK6vyg) — Business Insider · 13:00 PT · #business #media
 - [New Poll Shows James Talarico Could Flip Texas Senate Seat Blue](https://www.forbes.com/sites/forbestv/2026/10/23/new-poll-shows-james-talarico-could-flip-texas-senate-seat-blue/) — Forbes - Business · 12:24 PT · #business #civic #media
@@ -427,11 +435,3 @@ tags: ["project", "media"]
 - [😳 Tebas compares Real Madrid to Nazi Germany over their propaganda - Yahoo](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU12cEdvSW8tTXlTbUZ4T1pzeTJMcTZKV3Y1QUNmNnR3ZzBWUzBsTGZiWEhiWTI1Q3ozUnRMS3RNQWo3SnZkaG55NVp0aElKVzFCN3pCSEVJU3d1RVl3eHR6ZVZFQjBpNDZjbmdIOVJaREFXM1MxTWt4Yk4xUHYwcGMwVHR0dw?oc=5) — Google News: propaganda OR disinformation media · 00:51 PT · #world #media
 - [Natiq Mammadli: Media and Broadcasting Council works intensively to counter disinformation against Azerbaijan - Apa.az](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaldEc0k0R3lOVVBBcFBrNUN1MWtVa0Y4TlIzajJoNlV5SC1LSUZDcUNVQ1RZQ1BDQW5rMXZmdm5IYl9wM2tfYnFCZC1rajQ4bWVsWnFKeTF5eWxnRUJ1YjlzWU5na0tNQmdnbWk3TmluODh2Tl96UG1VeFBLQXhwc3NsQncxNGZLWVctTlBfMTJJNS1LMnVzNDNZM05CN0FXN0M2N1RGNHAzQllZUndFMTRtakNQa1A5RTRXb1c5TVZlOUJ3SU96VGVIRlR6TWg1NFA0aXZn?oc=5) — Google News: propaganda OR disinformation media · 00:38 PT · #world #media
 - [Azerbaijan’s media council says it works around clock on disinformation - Trend News Agency](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWWVB5ZFQ4OEJXWTItaENrM2RrZWNKRURoczBpQVdRNV92Ymw5SFBIblk1bUtJVTFuSDdDYlJlUVNsZF9GQ3ZwbGxKNFY3ZUdVTWt6dFc3WXIzU3paOFdnZUNn?oc=5) — Google News: propaganda OR disinformation media · 00:29 PT · #world #media
-
-## 2026-10-15
-
-- [Trump Cancels Pentagon Livestream of Hasan Firing Squad Execution Over Propaganda Fears - The SOFX Report](https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2xmdFZNRlBVYnB4cW5DS0pCODhkV0h0aDZJM2w3VjVZUDhMemJ1UHVGcjQzaDlRSTZHWmlJVVk2LWw1TlBJTDM5b21mOFVVc2h6dVM5XzgtTjlwRDZ5QzhsRUhLTGlvcmNsV1o5UVAxdkJYdzNEeHREWUtXUF8waFpfWE05ZnVkbFVURzU4bFdBVWNPWEY1cnNyZnJXR3RORjF4N0FubWFjY1AtdHc?oc=5) — Google News: propaganda OR disinformation media · 21:55 PT · #world #foreign #media
-- [SAWM SL kicks off groundbreaking AI training for journalists, civil society & Govt representatives - Newswire](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUVhpUUJ5SFVBbnM5QXB1elJFWlpYRVliQlQ2alQ2ZnczUUwwa3luS0x2WnBiZk1xRVJoanlpbi1xS0pUUnQ2RkpsQ0NjMEFuMVg3bmZVU3BSZUJQRmtObkVLQWhSMUZ1ZGdFUmRmdldaREZzV0Fhakt6S09tTDZOdlYtaDFwd0l2bkg5TzViZ1RwNDYtbUIyT1pMZm1lWFFfYy01UmVvOGNTX3J1ZGhPRVFPQ05SWHNaLXd1M19veVhPOThfOUFzR29wZGVUSUs5?oc=5) — Google News: propaganda OR disinformation media · 21:36 PT · #world #ai #media
-- [#Tesla reveals #Roadster able to drive upside down, launch in air, hit 60 mph in less than 1 second](https://www.youtube.com/shorts/-YWQXMohiM8) — Business Insider · 20:40 PT · #business #media
-- [Teaching the Most Pro-American Nation to Hate America - RealClearDefense](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0lrTmZnUGlNSndQRncwTmpVQ0dRam90YXBPN2RYLWpSN3RsVEVBUWFpMGJaVlV6Qm9yaXNaUGRHZVc1V1Q1NGxCT2phQk84SFJjdHJsaFBtV2JDeVp2MnVfcVNpMVZTb1FvbUVZTzlrcGJ2SDNmNTVzcEJVMTBxNXZHRkI3YTBSS1Q4WnVTR1AydE0xSE5kcGZndkZOS3A1SmdENE5seFJ1ejJSSlNEM25JQQ?oc=5) — Google News: propaganda OR disinformation media · 18:54 PT · #world #media
-- [Could #Starbucks and #Chipotle end up under the same corporate roof? #business #stocks #firsttrade](https://www.youtube.com/shorts/VX-gJUvaEAU) — Business Insider · 16:00 PT · #business #media

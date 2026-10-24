@@ -1,6 +1,6 @@
 ---
 title: "Category: U.S."
-updated: 2026-10-23T22:07:58-07:00
+updated: 2026-10-24T02:29:53-07:00
 count: 400
 tags: ["category", "us"]
 ---
@@ -9,8 +9,28 @@ tags: ["category", "us"]
 
 400 most recent items (14-day window).
 
+## 2026-10-24
+
+- [What to know about Nevada accepting mail ballots after Election Day](https://thenevadaindependent.com/article/what-to-know-about-nevada-accepting-mail-ballots-after-election-day/) — The Nevada Independent · 02:00 PT · #us #civic #nevada
+- [Healthcare coverage means little if seniors can't use it](https://lasvegassun.com/news/2026/oct/24/healthcare-coverage-means-little-if-seniors-cant-u/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Vote to restore civility in public office](https://lasvegassun.com/news/2026/oct/24/vote-to-restore-civility-in-public-office/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Be careful what you vote for](https://lasvegassun.com/news/2026/oct/24/be-careful-what-you-vote-for/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [En una escuela privada de Las Vegas, el exgobernador de Virginia elogió el historial educativo de Lombardo](https://lasvegassun.com/news/2026/oct/24/en-una-escuela-privada-de-las-vegas-el-exgobernado/) — Las Vegas Sun · 02:00 PT · #us #nevada #smallbiz
+- [Former Virginia governor touts Lombardo’s education record in Las Vegas](https://lasvegassun.com/news/2026/oct/24/at-las-vegas-private-school-former-virginia-govern/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [It’s not just the economy; Democrats can capture more of the working-class vote](https://lasvegassun.com/news/2026/oct/24/its-not-just-the-economy-democrats-can-capture-mor/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Talarico hospital lie shows social media’s malicious effect](https://lasvegassun.com/news/2026/oct/24/talarico-hospital-lie-shows-social-medias-maliciou/) — Las Vegas Sun · 02:00 PT · #us #media #nevada
+- [ESPN is gambling with its credibility](https://lasvegassun.com/news/2026/oct/24/espn-is-gambling-with-its-credibility/) — Las Vegas Sun · 02:00 PT · #us #nevada
+- [Prep football roundup: Liberty scores in final minute to stun Coronado](https://www.reviewjournal.com/nevada-preps/prep-football-roundup-liberty-scores-in-final-minute-to-stun-coronado-3904582/) — Las Vegas Review-Journal · 00:04 PT · #us #nevada
+
 ## 2026-10-23
 
+- [Friday’s Nevada Preps football scoreboard](https://www.reviewjournal.com/nevada-preps/fridays-nevada-preps-football-scoreboard-3904541/) — Las Vegas Review-Journal · 23:12 PT · #us #nevada
+- [Brewers withstand Rays’ comeback attempt to win Game 1 of World Series](https://www.reviewjournal.com/sports/baseball/brewers-withstand-rays-comeback-attempt-to-win-game-1-of-world-series-3904533/) — Las Vegas Review-Journal · 23:08 PT · #us #nevada
+- [Miners strike gold: Sunrise Mountain outlasts Valley for first football title in school history](https://lasvegassun.com/news/2026/oct/23/miners-strike-gold-sunrise-mountain-outlasts-valle/) — Las Vegas Sun · 23:03 PT · #us #nevada
+- [Moapa Valley football wins rematch with Virgin Valley to clinch 3A Southern League](https://lasvegassun.com/news/2026/oct/23/moapa-valley-football-wins-rematch-with-virgin-val/) — Las Vegas Sun · 22:31 PT · #us #nevada
+- [Sunrise Mountain holds off Valley for Division III Superintendent’s Cup — PHOTOS](https://www.reviewjournal.com/nevada-preps/sunrise-mountain-wins-shootout-with-valley-takes-division-iii-superintendents-cup-3904504/) — Las Vegas Review-Journal · 22:27 PT · #us #nevada
+- [Arbor View blows out Centennial to win Superintendent’s Cup — PHOTOS](https://www.reviewjournal.com/nevada-preps/arbor-view-blows-out-centennial-to-win-superintendents-cup-photos-3904466/) — Las Vegas Review-Journal · 22:14 PT · #us #nevada
+- [Green Valley avenges loss, beats Basic for Division II Superintendent’s Cup — PHOTOS](https://www.reviewjournal.com/nevada-preps/green-valley-avenges-loss-beats-basic-for-division-ii-superintendents-cup-3904427/) — Las Vegas Review-Journal · 21:48 PT · #us #nevada
 - [Henderson residents question safety after three people shot and killed in the same neighborhood](https://www.ktnv.com/neighborhoods/henderson/henderson-residents-question-safety-after-three-people-shot-and-killed-in-the-same-neighborhood) — KTNV Las Vegas · 21:24 PT · #us #nevada
 - [Channel 13 hears from locals concerned about unsafe roads, housing and growth](https://www.ktnv.com/news/channel-13-hears-from-locals-concerned-about-unsafe-roads-housing-and-growth) — KTNV Las Vegas · 21:05 PT · #us #nevada
 - [LETTER: Aaron Ford cozies up to Gavin Newsom](https://www.reviewjournal.com/opinion/letters/letter-aaron-ford-cozies-up-to-gavin-newsom-3904415/) — Las Vegas Review-Journal · 21:01 PT · #us #nevada
@@ -406,20 +426,3 @@ tags: ["category", "us"]
 - [EDITORIAL: ‘Like giving whiskey and car keys to teenage boys’](https://www.reviewjournal.com/opinion/editorials/editorial-like-giving-whiskey-and-car-keys-to-teenage-boys-3902494/) — Las Vegas Review-Journal · 21:00 PT · #us #nevada
 - [Zelenskyy Says Ukraine Got No Warning As Russian Missiles Rain In](https://www.huffpost.com/entry/zelenskyy-ukraine-no-warning-russian-missiles_n_6ad6e28fe4b05354557fa620) — World News - Breaking News, Top Stories · 20:45 PT · #us #foreign
 - [Las Vegas healthcare providers report rising flu and COVID cases](https://www.ktnv.com/news/las-vegas-healthcare-providers-report-rising-flu-and-covid-cases) — KTNV Las Vegas · 20:20 PT · #us #nevada
-- [No. 1 Faith Lutheran, No. 3 Arbor View play to draw in 5A girls soccer — PHOTOS](https://www.reviewjournal.com/nevada-preps/no-1-faith-lutheran-no-3-arbor-view-play-to-draw-in-5a-girls-soccer-photos-3902463/) — Las Vegas Review-Journal · 20:10 PT · #us #nevada
-- [Raiders’ next opponent has key receiver injured, out for months](https://www.reviewjournal.com/sports/raiders/raiders-next-opponent-has-key-receiver-injured-out-for-months-3902458/) — Las Vegas Review-Journal · 20:01 PT · #us #nevada
-- [Las Vegas high school girls volleyball: What’s on the line in final week?](https://www.reviewjournal.com/nevada-preps/las-vegas-high-school-girls-volleyball-whats-on-the-line-in-final-week-3902452/) — Las Vegas Review-Journal · 19:11 PT · #us #nevada
-- [Japan Launches Spacecraft On Bold Mission To Mars’ Moons](https://www.huffpost.com/entry/japan-mars-moons-mission_n_6ad6c583e4b05d72fd9422ad) — World News - Breaking News, Top Stories · 18:46 PT · #us
-- [Moapa River tribal police investigating death of man, 20, near Las Vegas](https://www.reviewjournal.com/local/local-nevada/moapa-river-tribal-police-investigating-death-of-man-20-near-las-vegas-3902428/) — Las Vegas Review-Journal · 18:43 PT · #us #nevada
-- [Suspended Pahrump Justice of the Peace denies misusing donations during judicial discipline hearing](https://www.reviewjournal.com/news/politics-and-government/former-las-vegas-councilwoman-denies-misusing-donations-during-judicial-discipline-hearing-3902405/) — Las Vegas Review-Journal · 18:22 PT · #us #nevada
-- [Nevada’s Public Records Task Force struggles to agree on path forward](https://www.reviewjournal.com/news/politics-and-government/nevada/nevadas-public-records-task-force-struggles-to-agree-on-path-forward-3902386/) — Las Vegas Review-Journal · 18:01 PT · #us #nevada
-- [California residents accused by feds of voter fraud react with shock, confusion and anger](https://www.latimes.com/california/story/2026-10-19/california-voter-fraud-charges-defendants-react) — World & Nation · 17:52 PT · #us
-- [5 things on new Athletics head of baseball ops Taylor Smith’s to-do list](https://www.reviewjournal.com/sports/athletics/5-things-on-new-athletics-head-of-baseball-ops-taylor-smiths-to-do-list-3902380/) — Las Vegas Review-Journal · 17:43 PT · #us #nevada #smallbiz
-- [New teen driver safety initiative launches in Clark County as families urged to talk to young drivers](https://www.ktnv.com/neighborhoods/east-las-vegas/new-teen-driver-safety-initiative-launches-in-clark-county-as-families-urged-to-talk-to-young-drivers) — KTNV Las Vegas · 17:34 PT · #us #nevada
-- [Lennar development in Southern Highlands used 29.5 million gallons of water over 3 years](https://www.ktnv.com/neighborhoods/southwest-las-vegas/lennar-development-in-southern-highlands-used-29-5-million-gallons-of-water-over-3-years) — KTNV Las Vegas · 17:07 PT · #us #nevada
-- [Activist Mahmoud Khalil asks Supreme Court to let US judges quickly reverse immigration detentions](https://lasvegassun.com/news/2026/oct/19/activist-mahmoud-khalil-asks-supreme-court-to-let/) — Las Vegas Sun · 17:01 PT · #us #civic #nevada
-- [Marine life dramatically declined in Gulf of Mexico in years after BP oil spill, study finds](https://lasvegassun.com/news/2026/oct/19/marine-life-dramatically-declined-in-gulf-of-mexic/) — Las Vegas Sun · 16:57 PT · #us #nevada #oil
-- [North Las Vegas growth brings new homes, hotels and major developments](https://www.ktnv.com/neighborhoods/north-las-vegas/north-las-vegas-growth-brings-new-homes-hotels-and-major-developments) — KTNV Las Vegas · 16:53 PT · #us #nevada
-- [Raiders are faltering but focused on getting season back on track](https://www.reviewjournal.com/sports/raiders/raiders-are-faltering-but-focused-on-getting-season-back-on-track-3902367/) — Las Vegas Review-Journal · 16:38 PT · #us #nevada
-- [NBA season bets, predictions: Rockets, Mavericks and Greek are smart plays](https://www.reviewjournal.com/sports/betting/nba-season-bets-predictions-rockets-mavericks-and-greek-are-smart-plays-3902362/) — Las Vegas Review-Journal · 16:28 PT · #us #nevada
-- [BLM to reconsider Boulder City data center application on federal land](https://www.reviewjournal.com/news/environment/blm-to-reconsider-boulder-city-data-center-application-on-federal-land-3902357/) — Las Vegas Review-Journal · 16:25 PT · #us #nevada

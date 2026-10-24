@@ -1,6 +1,6 @@
 ---
 title: "Category: science"
-updated: 2026-10-23T22:07:58-07:00
+updated: 2026-10-24T02:29:53-07:00
 count: 400
 tags: ["category", "science"]
 ---
@@ -8,6 +8,12 @@ tags: ["category", "science"]
 # Category: science
 
 400 most recent items (14-day window).
+
+## 2026-10-24
+
+- [NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years](https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html) — Phys.org - latest science and technology news stories · 02:28 PT · #science
+- [What Amy Poehler’s New Series, ‘Dig,’ Gets Right About Archaeology](https://www.nytimes.com/2026/10/24/science/dig-peacock-archaeology-amy-poehler.html) — NYT > Science · 02:01 PT · #science
+- [Some Buy Telescopes. These People Build Them From Scratch.](https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html) — NYT > Science · 02:00 PT · #science
 
 ## 2026-10-23
 
@@ -417,6 +423,3 @@ tags: ["category", "science"]
 - [Shortening Canadian teacher education risks devaluing the profession of teaching](https://phys.org/news/2026-10-shortening-canadian-teacher-devaluing.html) — Phys.org - latest science and technology news stories · 17:40 PT · #science
 - [Where El Niño may impact California coastal areas this winter](https://phys.org/news/2026-10-el-nio-impact-california-coastal.html) — Phys.org - latest science and technology news stories · 17:20 PT · #science
 - [Researchers study how AI could improve weed management](https://phys.org/news/2026-10-ai-weed.html) — Phys.org - latest science and technology news stories · 17:00 PT · #science #ai
-- [Global emissions slow — but world hurtles towards 2 °C of warming](https://www.nature.com/articles/d41586-026-03355-x) — Nature · 17:00 PT · #science
-- [Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids](https://www.nature.com/articles/s41586-026-11252-6) — Nature · 17:00 PT · #science
-- [The Bursar](https://www.nature.com/articles/d41586-026-03110-2) — Nature · 17:00 PT · #science
